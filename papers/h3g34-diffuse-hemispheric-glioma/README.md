@@ -14,4 +14,4 @@ This collection prioritizes papers directly about H3.3 G34R/V / DHG-H3G34. Gener
 
 ## Download note
 
-I attempted to download open-access PDFs for the indexed papers. The only PDF that downloaded cleanly in this environment was `pdfs/jain_2017_h3g34r_replication_stress.pdf`; several publisher/PMC endpoints returned download-preparation or anti-bot HTML instead of valid PDFs, so those rows are marked `download_blocked; see URL` rather than committing invalid files.
+I downloaded all PDFs that were accessible through open endpoints from this environment and validated them by PDF header. A few rows remain citation-only because the publisher/source returned anti-bot or forbidden responses; those rows are marked `pdf_download_blocked; see URL` in `index.tsv`.
