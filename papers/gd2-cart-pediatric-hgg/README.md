@@ -13,7 +13,7 @@ The goal is to support a "would GD2-CAR work in DHG-H3G34?" translational analys
 
 - `index.tsv` — curated paper metadata (matches the columns used in `papers/h3g34-diffuse-hemispheric-glioma/index.tsv`).
 - `notes/gd2_cart_h3g34_translational_synthesis.md` — synthesis of the binder choice (14g2a vs hu3F8), CAR-T engineering tradeoffs, and design recommendations for a hypothetical H3G34 GD2-CAR program.
-- `pdfs/` — downloaded open-access PDFs where available. Several PMC endpoints currently return CAPTCHA / anti-bot pages in our environment; those rows are marked `download_blocked; see URL` (same convention as the H3G34 corpus).
+- `pdfs/` — downloaded open-access PDFs. PMC fronts every PDF download with a small SHA-256 proof-of-work challenge (`cloudpmc-viewer-pow` cookie); see `scripts/download_pmc_pdf.py` for a pure-Python solver that we use to fetch these from scripted environments.
 
 ## Scope notes
 
