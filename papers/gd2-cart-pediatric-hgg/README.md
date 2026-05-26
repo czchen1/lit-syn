@@ -13,7 +13,17 @@ The goal is to support a "would GD2-CAR work in DHG-H3G34?" translational analys
 
 - `index.tsv` — curated paper metadata (matches the columns used in `papers/h3g34-diffuse-hemispheric-glioma/index.tsv`).
 - `notes/gd2_cart_h3g34_translational_synthesis.md` — synthesis of the binder choice (14g2a vs hu3F8), CAR-T engineering tradeoffs, and design recommendations for a hypothetical H3G34 GD2-CAR program.
-- `pdfs/` — downloaded open-access PDFs. PMC fronts every PDF download with a small SHA-256 proof-of-work challenge (`cloudpmc-viewer-pow` cookie); see `scripts/download_pmc_pdf.py` for a pure-Python solver that we use to fetch these from scripted environments.
+- `pdfs/` — downloaded open-access PDFs and supplementary files (PDF / xlsx / docx). PMC fronts every download with a small SHA-256 proof-of-work challenge (`cloudpmc-viewer-pow` cookie); see `scripts/download_pmc_pdf.py` (main article PDFs) and `scripts/download_pmc_supps.py` (supplementary files at `articles/instance/<num>/bin/<file>`) for pure-Python solvers used to fetch these from scripted environments.
+
+## Supplementary data
+
+Every paper for which PMC hosts supplementary files now has them downloaded alongside the main PDF, with filenames `<paper>_supp*.{pdf,xlsx,docx}`:
+
+- **Long 2015** — `long_2015_supp1.pdf` (supplementary figures), `long_2015_supp2.xlsx` (gene expression / NanoString tables)
+- **Mount 2018** — `mount_2018_supp1.pdf` (supplementary figures), `mount_2018_supp2.pdf` (supplementary methods)
+- **Lynn 2019** — `lynn_2019_supp_fig.pdf` (supplementary figures, large), `lynn_2019_supp_tab1.xlsx`, `lynn_2019_supp_tab2.xlsx` (RNA-seq / ATAC-seq tables)
+- **Majzner 2022** — `majzner_2022_supp1.pdf` through `majzner_2022_supp3.pdf` (supplementary figures and methods), `majzner_2022_supp_protocol.docx` (clinical trial protocol), `majzner_2022_supp_tab1.xlsx` through `majzner_2022_supp_tab9.xlsx` (patient-level data, antigen profiling, single-cell / cytokine tables)
+- **Heczey 2017** — `heczey_2017_supp1.pdf`, `heczey_2017_supp2.pdf` (supplementary figures, methods, and patient data)
 
 ## Scope notes
 
