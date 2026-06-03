@@ -14,7 +14,7 @@
 - **2021–2023 — the pTOP platform and rational combinations (Préat/Vandermeulen group, UCLouvain)**: pTOP encodes an engineered VSV-G that carries foreign T-cell tumor epitopes, exploiting the innate immunogenicity of the viral glycoprotein (Lopes 2021; PMID 33795383). It is then combined with **dual immune-checkpoint blockade** in orthotopic GL261 (Bausart 2022; PMID 35631612) and with **immunogenic-cell-death chemotherapy** (mitoxantrone nanoparticles; Bausart 2023; PMID 37105343).
 - **2022 — multi-antigen platform vaccines**: ITI-1001 encodes three HCMV antigens (pp65, gB, IE-1) on the **UNITE/LAMP1 lysosomal-targeting** backbone to boost MHC-I and -II presentation (Adhikari 2022; PMID 35651802), leveraging HCMV-protein expression in GBM.
 - **2024 — antibody-DNA-vaccine + checkpoint (Pearson et al.; PMID 38954031)**: SCIB1, a TRP-2/gp100 **ImmunoBody®** DNA vaccine, combined with anti-PD-1 prolongs survival in intracranial TRP-2/gp100⁺ tumors and increases CD4/CD8 infiltration.
-- **2026 — first-in-human DNA vaccine for GBM (Garfinkle et al., *Nature Cancer*; PMID 42120910, with a *Nature* news feature PMID 42151541)**: the **GT-20 phase 1** of **GNOS-PV01**, a DNA-based personalized multivalent **neoantigen** vaccine (up to 40 neoantigens/patient) delivered by electroporation as adjuvant therapy after resection + radiation in **MGMT-unmethylated** GBM; safe in 9 patients and immunogenic.
+- **2026 — first-in-human DNA vaccine for GBM (Garfinkle et al., *Nature Cancer*; PMID 42120910, with a *Nature* news feature PMID 42151541)**: the **GT-20 phase 1** of **GNOS-PV01**, a DNA-based personalized multivalent **neoantigen** vaccine (up to 40 neoantigens/patient) + **IL-12 plasmid (INO-9012)** adjuvant delivered by **CELLECTRA electroporation** as adjuvant therapy after resection + radiation in **MGMT-unmethylated** GBM; 9 patients, safe, immunogenic (T-cell activation correlated with OS), median OS 16.3 mo and 33% 24-month survival incl. one >4-year survivor (see `03`).
 
 ## Antigen / target taxonomy across the collection
 
@@ -52,7 +52,7 @@
 
 ## Collection statistics
 
-- **21** in-scope papers; **8** with open-access PDFs in `pdfs/`, **13** `not_available_oa` (paywalled/not in PMC), each with a resolvable DOI.
+- **21** in-scope papers; **9** with full-text PDFs in `pdfs/` (8 Europe PMC OA + the Garfinkle 2026 *Nature Cancer* trial provided directly), **12** `not_available_oa` (paywalled/not in PMC), each with a resolvable DOI.
 - By category: 1 clinical trial, 1 news/commentary, 9 preclinical antigen vaccines, 1 preclinical proof-of-concept, 4 anti-angiogenic DNA vaccines, 1 bacterial-vectored vaccine, 3 reviews.
 - **80** records were screened; triage rationale for the 59 excluded/adjacent records is in `notes/04_excluded_and_adjacent.md`.
 

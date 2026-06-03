@@ -17,7 +17,7 @@ This collection is restricted to studies in which a **nucleic-acid construct (pl
 ## Directory structure
 
 - `index.tsv` — curated paper metadata for all 21 in-scope papers, with topic tags, download status, and DOI/PMID/PMCID links.
-- `pdfs/` — open-access PDFs of main texts (8 papers available via Europe PMC OA).
+- `pdfs/` — full-text PDFs of main texts (9 papers: 8 via Europe PMC OA + the Garfinkle 2026 *Nature Cancer* trial provided directly).
 - `notes/` — synthesis reports organized by topic.
 
 ## Notes index
@@ -37,7 +37,7 @@ Four complementary PubMed E-utils queries were combined and deduplicated:
 3. `("DNA vaccine" OR "DNA vaccination" OR "DNA immunization") AND ("brain tumor" OR "brain tumour" OR "brain cancer" OR neuro-oncology)`
 4. `(EGFRvIII OR "EGFR variant III" OR survivin OR "tumor associated antigen") AND ("DNA vaccine" OR "DNA vaccination" OR "plasmid vaccine") AND (glioma OR glioblastoma OR brain)`
 
-**80 unique candidate records** were retrieved (1991–2026). Manual abstract triage removed 59 records that use a plasmid only as a tool, are non-immunizing gene therapy, or are other vaccine modalities (see `notes/04`), leaving **21 in-scope DNA-vaccine papers**. DOIs and PMCIDs were re-extracted from each article's own `PubmedData/ArticleIdList` (the first automated pass had picked up reference-list DOIs). PDFs were retrieved from **Europe PMC OA** (`europepmc.org/articles/PMC…?pdf=render`); 8 of 21 are open access. The remaining 13 are paywalled or not in PMC and are marked `not_available_oa` with a resolvable DOI link.
+**80 unique candidate records** were retrieved (1991–2026). Manual abstract triage removed 59 records that use a plasmid only as a tool, are non-immunizing gene therapy, or are other vaccine modalities (see `notes/04`), leaving **21 in-scope DNA-vaccine papers**. DOIs and PMCIDs were re-extracted from each article's own `PubmedData/ArticleIdList` (the first automated pass had picked up reference-list DOIs). PDFs were retrieved from **Europe PMC OA** (`europepmc.org/articles/PMC…?pdf=render`); 8 of 21 are open access, plus the Garfinkle 2026 *Nature Cancer* trial full text (provided directly) for **9** with PDFs. The remaining 12 are paywalled or not in PMC and are marked `not_available_oa` with a resolvable DOI link.
 
 ## Status legend (`status` column)
 
