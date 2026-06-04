@@ -50,12 +50,17 @@ ILDR2 delivers an **inhibitory** signal to T cells via its IgV ectodomain (it is
   - **+ docetaxel** (immunogenic-cell-death chemo) — monotherapy "moderate delay" synergistically improved by docetaxel.
   - **+ tumor-antigen immunization (vaccine)** — additive/synergistic.
 
-### 2.3 Clinical translation
-- **NCT03666273** — *An open-label, Phase 1, first-in-human, dose-escalation and expansion study* of **bapotulimab (BAY 1905254)**.
-  - **Conditions:** advanced solid tumors; **head & neck squamous cell carcinoma (HNSCC)** expansion.
-  - **Arms:** monotherapy dose-escalation; **combination with pembrolizumab (Keytruda)** dose-escalation; HNSCC expansion (combination).
-  - **Enrollment:** 60. **Timeline:** Sep 2018 → May 2024. **Status:** Completed.
-  - **Results:** **none posted** on ClinicalTrials.gov, and **no peer-reviewed clinical results** are indexed in PubMed for "bapotulimab"/"BAY 1905254" (as of this review). Clinical efficacy therefore remains undisclosed.
+### 2.3 Clinical translation — Phase 1 readout: NONE PUBLIC (program discontinued)
+- **NCT03666273** — *An open-label, Phase 1, first-in-human, dose-escalation and expansion study* of **bapotulimab (BAY 1905254)** (INN bapotulimab; CAS 2359413-58-2; UNII I92BM16NTD).
+  - **Conditions:** advanced solid tumors (dose-escalation, all immunotherapy-sensitive types); **HNSCC** expansion (recurrent/metastatic, IO-naïve, PD-L1 CPS ≥1).
+  - **Arms:** monotherapy dose-escalation; **combination with pembrolizumab** dose-escalation; HNSCC expansion (combination).
+  - **Enrollment:** 60. **Timeline:** Sep 2018 → completed 15 May 2024. **Sponsor:** Bayer (with Merck/MSD providing pembrolizumab).
+- **There is no Phase 1 data readout in the public domain:**
+  - **No results posted** on ClinicalTrials.gov (no efficacy/safety/PK results section).
+  - **No peer-reviewed clinical publication** indexed in PubMed for "bapotulimab" or "BAY 1905254" — the only published primary data remain **preclinical** (Huetter et al., *Cancer Immunol Res* 2020, PMID 32312711).
+  - **No ASCO/SITC/AACR clinical abstract** located for the trial.
+- **Why there's no readout — the program was wound down:** On **29 Nov 2022** Bayer notified Compugen (the originator; ILDR2 = Compugen's **CGEN-15001T** program) that it would **terminate the collaboration/license effective 27 Feb 2023** (Compugen SEC 6-K, EDGAR CIK 1119774). Bayer retained only the right to keep supplying bapotulimab to patients already on study; Compugen stated it could take back an exclusive license "to the extent it will choose to do so." The trial record was formally closed as "Completed" in May 2024 (wind-down of on-treatment patients), and AdisInsight still lists the molecule's highest phase as **Phase I** with no activity after May 2024 — i.e., **no advance to Phase 2 and no disclosed efficacy/safety/RP2D data**.
+- **Net:** the question "what did the Phase 1 show?" has **no public answer**. The therapeutic hypothesis rests on the 2020 preclinical package; the clinical outcome was never reported before development stopped.
 
 ### 2.4 Other inhibition modalities (leads, not drugs)
 - **microRNA-mediated downregulation** of ILDR2 is raised conceptually in the B7/miRNA scoping review (PMID 33800752) — a possible non-antibody route to lowering ILDR2 checkpoint activity.
@@ -65,5 +70,5 @@ ILDR2 delivers an **inhibitory** signal to T cells via its IgV ectodomain (it is
 
 ## 3. Open questions
 - Quantitative ILDR2 expression across human tumor types (tumor cells vs. TME) is not established in this corpus.
-- The Phase 1 clinical outcome of bapotulimab (safety/RP2D/response) is not public; whether Bayer is advancing it is unclear given the trial closed in 2024 with no posted results.
+- The Phase 1 clinical outcome of bapotulimab (safety/RP2D/response) was **never published**; Bayer terminated the program (effective Feb 2023) and the trial closed in 2024 with no posted results — see §2.3.
 - The **counter-receptor** ILDR2 engages on T cells remains unidentified — limiting precise mechanistic interpretation of both expression and blockade.
