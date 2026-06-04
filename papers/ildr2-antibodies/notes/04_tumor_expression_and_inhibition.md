@@ -62,6 +62,15 @@ ILDR2 delivers an **inhibitory** signal to T cells via its IgV ectodomain (it is
 - **Why there's no readout — the program was wound down:** On **29 Nov 2022** Bayer notified Compugen (the originator; ILDR2 = Compugen's **CGEN-15001T** program) that it would **terminate the collaboration/license effective 27 Feb 2023** (Compugen SEC 6-K, EDGAR CIK 1119774). Bayer retained only the right to keep supplying bapotulimab to patients already on study; Compugen stated it could take back an exclusive license "to the extent it will choose to do so." The trial record was formally closed as "Completed" in May 2024 (wind-down of on-treatment patients), and AdisInsight still lists the molecule's highest phase as **Phase I** with no activity after May 2024 — i.e., **no advance to Phase 2 and no disclosed efficacy/safety/RP2D data**.
 - **Net:** the question "what did the Phase 1 show?" has **no public answer**. The therapeutic hypothesis rests on the 2020 preclinical package; the clinical outcome was never reported before development stopped.
 
+#### Follow-up verification (two independent registries/filings)
+- **EU Clinical Trials Register / EudraCT 2018-000990-63:** no public protocol or results page. The EU CTR **does not publicly display adult-only Phase 1 trials** that are not part of an agreed paediatric investigation plan, so no EU summary-results posting is (or will be) available for this study.
+- **Compugen SEC 20-F annual reports (CIK 1119774; FY2023 filed 2024-03-05, FY2024 filed 2025-03-04, FY2025 filed 2026-03-02):**
+  - Confirm Bayer's license was **terminated effective 27 Feb 2023** and the bapotulimab rights **reverted to Compugen**.
+  - Compugen **did exercise** its right to take a license to the relevant Bayer-developed IP — but holds bapotulimab only as an **optional/dormant asset**: *"We have the right to continue the development and commercialization of bapotulimab, should we choose to do so."* It is listed under rights-held / preclinical status, **not** in Compugen's active clinical pipeline (COM701, COM902, GS-0321/COM503).
+  - By the **FY2025** 20-F, bapotulimab appears only as a one-line historical/partner mention.
+  - **No Phase 1 clinical results (safety, RP2D, ORR, PK) are disclosed in any Compugen filing.**
+- **Conclusion:** the program is **dormant with the originator (Compugen) and never read out clinically**. Barring a future decision by Compugen to restart it, no Phase 1 efficacy/safety data is expected to enter the public domain.
+
 ### 2.4 Other inhibition modalities (leads, not drugs)
 - **microRNA-mediated downregulation** of ILDR2 is raised conceptually in the B7/miRNA scoping review (PMID 33800752) — a possible non-antibody route to lowering ILDR2 checkpoint activity.
 - **Tool/antagonist research mAbs** (anti-mouse-ILDR2, PMID 39626366; anti-angulin-3, PMID 38311119) are detection reagents, not therapeutics, but confirm cell-surface accessibility of the target.
