@@ -29,6 +29,7 @@ This collection is restricted to studies in which GD2 (disialoganglioside, or it
 - `notes/09_per_paper_extractions.md` — capsule entries per primary paper summarizing the construct, vector, cell source, activation/transduction/expansion protocol, safety engineering, and notable manufacturing observations.
 - `notes/10_trial_index_by_lab.md` — narrative index of every published GD2 CAR-effector clinical trial grouped by lab/group (Baylor CAGT, Bambino Gesù, Stanford, UCL/GOSH, Chang/4SCAR, Adelaide CARPETS, Children's Mercy), with registration IDs and key papers; human-readable companion to `index_by_lab.tsv`.
 - `notes/11_clinical_management_plan.md` — comprehensive clinical-management plan with a **per-section comparison table across trials**: patient selection, bridging, lymphodepletion, dose/route/DLT, CRS, ICANS vs TIAN, the TIAN algorithm, on-target neuropathic pain, IL-15 hyperleukocytosis, safety-switch activation, premedication, hematologic toxicity, ICV/device management, redosing, and long-term follow-up; ends with a distilled cross-trial best-practice protocol.
+- `notes/12_verification_report.md` — claim-by-claim primary-source audit of the management plan: every quantitative claim traced to an exact quote/location in a trial PDF, supplement, ClinicalTrials.gov record, or PubMed abstract; logs the 7 corrections made against primary sources and lists fields that remain NR behind paywalls.
 
 ## Identification strategy
 

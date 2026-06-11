@@ -39,7 +39,7 @@ guardrails.
 
 | Item | GD2-CART01 / ALLO-CART01 | Stanford-DMG | GINAKIT2 | 1RG-CART | CARPETS |
 | --- | --- | --- | --- | --- | --- |
-| Age | 1–25 y (18 mo–25 y allo) | 2–30 y | pediatric r/r NB | ≥1 y | adults, metastatic melanoma/solid |
+| Age | 1–25 y (18 mo–25 y allo) | 2–60 y (NCT04196413; treated pts pediatric–young adult) | 1–21 y r/r NB | ≥1 y | adults, metastatic melanoma/solid |
 | Disease | high-risk r/r NB (+ exploratory GD2+ solid) | H3K27M+ DIPG / spinal DMG | r/r NB | r/r NB | metastatic GD2+ melanoma & solid |
 | Safety-driven exclusions | severe prior Cy/Flu toxicity; uncontrolled infection; steroids ≥2 mg/kg within 2 wk | **excluded bulky thalamic/cerebellar tumours** (herniation risk) | severe prior Cy/Flu toxicity; inadequate organ function | adequate organ/marrow function | adequate organ function; off steroids |
 | Performance status | adequate organ/marrow function | Karnofsky/Lansky ≥60% | adequate organ/marrow function | NR | ECOG-based |
@@ -79,11 +79,11 @@ toxicity; CNS-delivered (ICV) doses are given **without** systemic LD.
 | Trial | LD regimen | Schedule | Notes |
 | --- | --- | --- | --- |
 | Baylor-1G | **none** | — | 1st-gen, no conditioning; relied on EBV-CTL persistence |
-| GRAIN | Cy 500 mg/m²/d ×2 + Flu 30 mg/m²/d ×3 (+ pembrolizumab d−1, d+21) | d−4…−2 | cohort-dependent; <12 kg dosed by weight |
+| GRAIN | Cy 500 mg/m²/d ×3 (d−4,−3,−2) + Flu 30 mg/m²/d ×2 (d−4,−3) (+ pembrolizumab d+1, d+21) | d−4…−2 | doses per Heczey 2017; **NCT01822652 lists the reverse (Cy ×2 / Flu ×3)**; <12 kg dosed by weight |
 | GINAKIT2 | **fractionated** Cy 500 mg/m²/dose ×2 + Flu 30 mg/m²/dose ×3 | per protocol §7.2 | grade 3–4 cytopenias attributed to Cy/Flu, pre-infusion; Etanercept arm adds CRS prophylaxis |
 | GD2-CART01 | Cy + Flu, conventional doses | per NEJM appendix | exact doses in NEJM protocol (not OA) |
 | ALLO-CART01 | standard Cy/Flu | — | donor product |
-| Stanford-DMG | Cy 500 mg/m²/d + Flu 25 mg/m²/d ×3 **+ Rituximab 750 mg/m² d−6,−5** | d−4…−2 (IV) | **no LD before ICV redoses**; first ICV (eIND) used intensified Cy 600 + Flu 30 ×4 (d−5…−2) |
+| Stanford-DMG | Cy 500 mg/m²/d + Flu 25 mg/m²/d ×3 (published cohorts); **+ Rituximab 750 mg/m²/d d−6,−5 in a separate ctgov LD arm (ARM D)** | d−4…−2 (IV) | rituximab regimen from NCT04196413 only, not in Majzner 2022/Monje 2025 text; **no LD before ICV redoses**; first ICV (eIND) used intensified Cy 600 + Flu 30 ×4 (d−5…−2) |
 | 1RG-CART | **phased escalation of LD intensity** (not cell dose) across cohorts | per cohort | unique design: dose-escalate the *conditioning*, fixed-ish cells |
 | 4SCAR-GD2 | Cy 300 mg/m²/d + Flu 25 mg/m²/d ×3 | d−4…−2 | lower Cy than most |
 | CARPETS | cohort 1 none; cohorts 2–3 Cy 500 + Flu 30 mg/m²/d ×3 | d−4…−2 | LD added specifically to boost expansion |
@@ -102,15 +102,15 @@ for systemic disease; Stanford pioneered **IV→ICV** for CNS disease.
 
 | Trial | Route | Dose levels (CAR+ cells) | RP2D / MTD | DLT window |
 | --- | --- | --- | --- | --- |
-| Baylor-1G | IV | 2×10⁷/m² each (CTL + ATC) | n/a (feasibility) | 15-yr safety follow-up |
+| Baylor-1G | IV | 3 DLs: 2×10⁷, 5×10⁷, 1×10⁸ /m² (CAR-CTL + CAR-ATC co-infused) | no DLT (Louis 2011) | 15-yr safety follow-up |
 | GRAIN | IV | DL1 1×10⁷ → up to 2×10⁸/m² (fresh) | no DLT | 6 wk |
-| GINAKIT2 | IV | DL1 3×10⁶/m² → escalate ×3-fold (6 levels; ± etanercept) | MTD not reached | 28 d |
+| GINAKIT2 | IV | DL1 3×10⁶/m² → ~3-fold steps to DL5 3×10⁸/m² (± etanercept) | MTD not reached | 28 d |
 | GD2-CART01 | IV | 3, 6, 10 ×10⁶ CAR+/kg | **RP2D/MTD 10×10⁶/kg** | 4 wk |
 | ALLO-CART01 | IV | up to 10×10⁶/kg (selected 3×10⁶/kg start) | individualized | per protocol |
 | Stanford-DMG | **IV then ICV** | IV DL1 1×10⁶/kg, DL2 3×10⁶/kg; ICV 10–50×10⁶ flat (redosed) | DL1 IV declared; ICV redosing program | 28 d |
 | 1RG-CART | IV | 1×10⁷ → 1×10⁸/m² (with escalating LD) | clinical activity at ≥10⁸/m² | per cohort |
 | 4SCAR-GD2 | IV | infused 0.13–34 ×10⁶/kg (wide) | NR | 1 yr AE capture |
-| CARPETS | IV | DL1 1×10⁷/m², DL2 2×10⁷/m², DL3 ... | no DLT | 42-d DLT window |
+| CARPETS | IV | DL1 1×10⁷/m², DL2 2×10⁷/m², DL3 1×10⁸/m² | no DLT | 42-d DLT window |
 
 **Stanford DLT definition (representative, Monje 2025):** any grade 5; grade 4 CRS; grade 4
 neurotoxicity ≥96 h; new grade 3 neurotoxicity ≥28 d; grade 4 neutropenia/thrombocytopenia >28 d;
@@ -140,7 +140,7 @@ anti-IL-6 ± anti-IL-1 ± steroids; reserve the suicide switch for refractory gr
 | Stanford-DMG (ICV) | 41/62 infusions no CRS (66%) | mostly grade 1 (16); rare grade 2–3 | supportive | ICV markedly less systemic CRS than IV |
 | 1RG-CART | 2/6 at ≥10⁸/m² | grade 2–3 | per institutional guideline | — |
 | 4SCAR-GD2 | 9/10 | grade 1–2 (transient) | supportive | capillary-leak in 4/10 |
-| CARPETS | minimal | grade 1 fever <48 h | supportive | no DLT |
+| CARPETS | grade 1 CRS in 5/12 | grade 1 fever <48 h | supportive | no DLT |
 
 **Recommendation.** Stratify CRS watch by potency/route: low-intensity vigilance for 1st/2nd-gen
 IV NB products; **ICU-level readiness at DL2+ for 3rd-gen/IL-15 or high IV doses**. Standard ladder
@@ -236,7 +236,7 @@ level (Tian 2025) — a critical management case report.
 
 | Element | Detail (Tian 2025, GINAKIT2 DL5) |
 | --- | --- |
-| Setting | first patient on DL5 (1×10⁸ NKT/m²) |
+| Setting | first patient on DL5 (**3×10⁸ NKT/m²**; DL4 was 1×10⁸/m²) |
 | Course | CRS → tocilizumab (d7) → anakinra (d8); progressive hyperleukocytosis; ICU transfer; **leukapheresis d18**; death same day |
 | Mechanism | non-clonal hyperleukocytosis, hyperinflammation; autopsy-confirmed |
 | Protocol consequence | prompted **dose-level revision** of the IL-15 NKT program |
