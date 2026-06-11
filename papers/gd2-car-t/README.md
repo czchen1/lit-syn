@@ -9,6 +9,8 @@ This collection is restricted to studies in which GD2 (disialoganglioside, or it
 ## Directory structure
 
 - `index.tsv` — curated paper metadata for all 204 papers identified, with topic tags, download status, and DOI/PMID/PMCID links.
+- `index_by_lab.tsv` — the GD2 CAR-effector **clinical trials indexed by originating lab/group** (product, construct, cell type, safety switch, registration ID, disease, route, key papers, local supplements).
+- `protocols/clinicaltrials_gov/` — archived ClinicalTrials.gov protocol records (JSON) for the registered trials (eligibility, arms/interventions, lymphodepletion, dose levels, outcome measures).
 - `pdfs/` — open-access PDFs of main texts (151 papers).
 - `supplements/` — extracted PDF/DOCX supplementary materials (122 files across 97 papers), trimmed to text/protocol-relevant content (≤30 MB per paper). The full original Europe PMC supplementary zips were unpacked and pruned of large raw data files (videos, sequencing data, multi-GB image stacks) so the repository remains tractable.
 - `notes/` — synthesis reports extracting design, construction, and manufacturing commentary, organized by topic.
@@ -25,6 +27,9 @@ This collection is restricted to studies in which GD2 (disialoganglioside, or it
 - `notes/07_logic_and_switchable.md` — synNotch AND-gates (B7-H3 → GD2), SUPRA / DARPin switches, bispecific tandem CARs, antigen-density-gated CARs, KIR-based NOT gates, dual-CAR designs.
 - `notes/08_clinical_formulation.md` — lymphodepletion regimens (Cy/Flu doses), routes (IV vs ICV vs intratumoral), dose levels, fractionated dosing, redosing, and bridging therapy across the 14 GD2 CAR-T clinical trials catalogued.
 - `notes/09_per_paper_extractions.md` — capsule entries per primary paper summarizing the construct, vector, cell source, activation/transduction/expansion protocol, safety engineering, and notable manufacturing observations.
+- `notes/10_trial_index_by_lab.md` — narrative index of every published GD2 CAR-effector clinical trial grouped by lab/group (Baylor CAGT, Bambino Gesù, Stanford, UCL/GOSH, Chang/4SCAR, Adelaide CARPETS, Children's Mercy), with registration IDs and key papers; human-readable companion to `index_by_lab.tsv`.
+- `notes/11_clinical_management_plan.md` — comprehensive clinical-management plan with a **per-section comparison table across trials**: patient selection, bridging, lymphodepletion, dose/route/DLT, CRS, ICANS vs TIAN, the TIAN algorithm, on-target neuropathic pain, IL-15 hyperleukocytosis, safety-switch activation, premedication, hematologic toxicity, ICV/device management, redosing, and long-term follow-up; ends with a distilled cross-trial best-practice protocol.
+- `notes/12_verification_report.md` — claim-by-claim primary-source audit of the management plan: every quantitative claim traced to an exact quote/location in a trial PDF, supplement, ClinicalTrials.gov record, or PubMed abstract; logs the 7 corrections made against primary sources and lists fields that remain NR behind paywalls.
 
 ## Identification strategy
 

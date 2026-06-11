@@ -1,0 +1,547 @@
+{
+    "protocolSection": {
+        "identificationModule": {
+            "nctId": "NCT04196413",
+            "orgStudyIdInfo": {
+                "id": "IRB-52934"
+            },
+            "secondaryIdInfos": [
+                {
+                    "id": "PEDSCCT6005",
+                    "type": "OTHER",
+                    "domain": "OnCore"
+                },
+                {
+                    "id": "NCI-2020-05891",
+                    "type": "OTHER",
+                    "domain": "CTRP"
+                },
+                {
+                    "id": "5R01CA263500-05",
+                    "type": "NIH",
+                    "link": "https://reporter.nih.gov/quickSearch/5R01CA263500-05"
+                }
+            ],
+            "organization": {
+                "fullName": "Stanford University",
+                "class": "OTHER"
+            },
+            "briefTitle": "GD2 CAR T Cells in Diffuse Intrinsic Pontine Gliomas (DIPG) & Spinal Diffuse Midline Glioma(DMG)",
+            "officialTitle": "Phase 1 Clinical Trial of Autologous GD2 Chimeric Antigen Receptor (CAR) T Cells (GD2CART) for H3K27M-mutant Diffuse Midline Glioma (DMG)"
+        },
+        "statusModule": {
+            "statusVerifiedDate": "2025-12",
+            "overallStatus": "RECRUITING",
+            "expandedAccessInfo": {
+                "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+                "date": "2020-06-04",
+                "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+                "date": "2028-07-31",
+                "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+                "date": "2043-07-31",
+                "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2019-12-10",
+            "studyFirstSubmitQcDate": "2019-12-10",
+            "studyFirstPostDateStruct": {
+                "date": "2019-12-12",
+                "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2026-01-23",
+            "lastUpdatePostDateStruct": {
+                "date": "2026-01-26",
+                "type": "ACTUAL"
+            }
+        },
+        "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+                "type": "SPONSOR"
+            },
+            "leadSponsor": {
+                "name": "Stanford University",
+                "class": "OTHER"
+            },
+            "collaborators": [
+                {
+                    "name": "California Institute for Regenerative Medicine (CIRM)",
+                    "class": "OTHER"
+                },
+                {
+                    "name": "CureSearch",
+                    "class": "UNKNOWN"
+                },
+                {
+                    "name": "National Cancer Institute (NCI)",
+                    "class": "NIH"
+                },
+                {
+                    "name": "Alex's Lemonade Stand Foundation",
+                    "class": "INDUSTRY"
+                },
+                {
+                    "name": "Parker Institute for Cancer Immunotherapy",
+                    "class": "OTHER"
+                }
+            ]
+        },
+        "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": false
+        },
+        "descriptionModule": {
+            "briefSummary": "The primary purpose of this study is to test whether CAR T cells targeting GD2 (GD2CART) can be successfully made and safely given to children and adults with H3K27M-mutant diffuse midline glioma (DMG). Eligible subjects may have DMG arising in the pons (called difuse intrinisic pontine glioma, DIPG), the spinal cord, or other areas of the brain such as a thalamus",
+            "detailedDescription": "Primary Objectives:\n\n* Determine the feasibility of manufacturing autologous T cells transduced with 14g2a-CD8-BBz-iCasp9 retroviral vector expressing GD2 Chimeric Antigen Receptor (GD2CART) for administration in subjects with H3K27M-mutant diffuse midline glioma (DMG) using a retroviral vector and dasatinib in the Miltenyi CliniMACS Prodigy\u00ae system.\n* Assess the safety and identify the maximum tolerated dose (MTD) and/or recommended phase 2 dose (RP2D), route and schedule of GD2CART and lymphodepleting chemotherapy in subjects with H3K27M-mutant DMG.\n* Assess the safety of the MTD/RP2D, route and schedule of GD2CART in expansion cohorts of subjects with H3K27M-mutant DMG.\n\nSecondary Objectives:\n\n* In a preliminary manner, assess clinical benefit and Patient Reported Outcomes (PROs) of GD2CART at the RP2D in children and adults with H3K27M-mutant DMG.\n* Evaluate the safety and impact on clinical benefit of repeat intracerebroventricular (ICV) administrations of GD2CART according to Arms A, B, C or D.\n* If unacceptable toxicity occurs that is possibly, probably or likely related to GD2CART, assess the capacity for AP1903, a dimerizing agent, to mediate clearance of the genetically engineered cells and resolve toxicity."
+        },
+        "conditionsModule": {
+            "conditions": [
+                "Glioma of Spinal Cord",
+                "Glioma of Brainstem"
+            ]
+        },
+        "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+                "PHASE1"
+            ],
+            "designInfo": {
+                "allocation": "NON_RANDOMIZED",
+                "interventionModel": "SINGLE_GROUP",
+                "primaryPurpose": "TREATMENT",
+                "maskingInfo": {
+                    "masking": "NONE"
+                }
+            },
+            "enrollmentInfo": {
+                "count": 97,
+                "type": "ESTIMATED"
+            }
+        },
+        "armsInterventionsModule": {
+            "armGroups": [
+                {
+                    "label": "ARM A",
+                    "type": "EXPERIMENTAL",
+                    "description": "GD2CART will be administered on Day 0 in hospitalized subjects with either DIPG or spinal DMG\n\nIntravenously, after conditioning lymphodepletion chemotherapy regimen with cyclophosphamide and fludarabine\n\n* Dose Level -1: 3x10\\^5 transduced T cells/kg(\u00b1 20%)\n* Dose Level 1: 1x10\\^6 transduced T cells/kg (\u00b1 20%)\n* Dose Level 2: 3x10\\^6 transduced T cells/kg (\u00b1 20%)",
+                    "interventionNames": [
+                        "Drug: GD2 CAR T cells",
+                        "Drug: Fludarabine",
+                        "Drug: Cyclophosphamide"
+                    ]
+                },
+                {
+                    "label": "ARM B",
+                    "type": "EXPERIMENTAL",
+                    "description": "GD2CART will be administered on Day 0 in hospitalized subjects with either DIPG or spinal DMG\n\nIntracerebroventricularly, without conditioning lymphodepletion chemotherapy\n\n* Dose Level -1: 10x10\\^6 transduced T cells (\u00b120%)\n* Dose Level 1: 30x10\\^6 transduced T cells (\u00b120%)\n* Dose Level 2: 50x10\\^6 transduced T cells (\u00b120%)\n* Dose Level 3: 100x10\\^6 transduced T cells (\u00b120%)",
+                    "interventionNames": [
+                        "Drug: GD2 CAR T cells"
+                    ]
+                },
+                {
+                    "label": "ARM C",
+                    "type": "EXPERIMENTAL",
+                    "description": "GD2CART will be administered in escalating doses on Day 0 in hospitalized subjects with either DIPG or spinal DMG\n\nIntracerebroventricularly after administration of conditioning lymphodepletion chemotherapy regimen with cyclophosphamide and fludarabine\n\n* Dose Level -1: 10x10\\^6 transduced T cells (\u00b120%)\n* Dose Level 1: 30x10\\^6 transduced T cells (\u00b120%)\n* Dose Level 2: 50x10\\^6 transduced T cells (\u00b120%)",
+                    "interventionNames": [
+                        "Drug: GD2 CAR T cells",
+                        "Drug: Fludarabine",
+                        "Drug: Cyclophosphamide"
+                    ]
+                },
+                {
+                    "label": "ARM D",
+                    "type": "EXPERIMENTAL",
+                    "description": "GD2CART will be administered in escalating doses on Day 0 in hospitalized subjects with either DIPG, spinal DMG, or high risk features.\n\nIntracerebroventricularly after administration of conditioning lymphodepletion chemotherapy regimen with rituximab, cyclophosphamide and fludarabine\n\n* Dose Level -1: 10x10\\^6 transduced T cells (\u00b120%)\n* Dose Level 1: 30x10\\^6 transduced T cells (\u00b120%)\n* Dose Level 2: 50x10\\^6 transduced T cells (\u00b120%)",
+                    "interventionNames": [
+                        "Drug: GD2 CAR T cells",
+                        "Drug: Fludarabine",
+                        "Drug: Cyclophosphamide",
+                        "Drug: Rituximab"
+                    ]
+                }
+            ],
+            "interventions": [
+                {
+                    "type": "DRUG",
+                    "name": "GD2 CAR T cells",
+                    "description": "Autologous T-Cells transduced with retroviral vector (14g2a-CD8.BB.z.iCasp9) expressing GD2-chimeric antigen receptor",
+                    "armGroupLabels": [
+                        "ARM A",
+                        "ARM B",
+                        "ARM C",
+                        "ARM D"
+                    ]
+                },
+                {
+                    "type": "DRUG",
+                    "name": "Fludarabine",
+                    "description": "Fludarabine 30 mg/m2 per day IV for days -4, -3, -2",
+                    "armGroupLabels": [
+                        "ARM A",
+                        "ARM C",
+                        "ARM D"
+                    ]
+                },
+                {
+                    "type": "DRUG",
+                    "name": "Cyclophosphamide",
+                    "description": "Cyclophosphamide 500 mg/m2 per day IV for days -4, -3, -2",
+                    "armGroupLabels": [
+                        "ARM A",
+                        "ARM C",
+                        "ARM D"
+                    ]
+                },
+                {
+                    "type": "DRUG",
+                    "name": "Rituximab",
+                    "description": "First round: 750 mg/m2 per day IV for days -6 and -5. Subsequent rounds: 750 mg/m2 per day IV for day -5.",
+                    "armGroupLabels": [
+                        "ARM D"
+                    ]
+                }
+            ]
+        },
+        "outcomesModule": {
+            "primaryOutcomes": [
+                {
+                    "measure": "Rate of successful manufacture of GD2CART using a retroviral vector in the Miltenyi CliniMACS Prodigy system",
+                    "description": "The percentage of apheresis samples (fresh or frozen) will be determined for each dose cohort.",
+                    "timeFrame": "14 days after apheresis"
+                },
+                {
+                    "measure": "Safety of the dose, route and schedule of GD2CART and lymphodepleting chemotherapy in subjects with H3K27M-mutant DMG",
+                    "description": "Incidence and severity of dose limiting toxicities (DLTs) after initial dose of GD2.BB.z.iCasp9-CAR T cells (GD2CART) in each Arm, at each dose level tested by disease cohort",
+                    "timeFrame": "28 days after infusion"
+                },
+                {
+                    "measure": "Safety of GD2CART at RP2D, route and schedule of GD2CART in expansion cohorts of subjects with H3K27M-mutant DMG",
+                    "description": "Suspected adverse events and serious adverse events following chemotherapy preparative regimen and infusion of GD2CART.\"",
+                    "timeFrame": "28 days after infusion"
+                }
+            ],
+            "secondaryOutcomes": [
+                {
+                    "measure": "Radiographic Response Rate",
+                    "description": "Radiographic Response will be evaluated using the RANO 2.0 tumor response criteria.",
+                    "timeFrame": "Time Frame: Day 28, 3 months, 6 months, 9 months and 12 months and 24 months post CAR T cell infusion."
+                },
+                {
+                    "measure": "Overall Survival (OS)",
+                    "description": "Overall survival (OS) is defined as the time from date of initial diagnosis to date of death from any cause. Treatment OS is defined as the time from Cycle 1 Day 0 to date of death from any cause.",
+                    "timeFrame": "Time Frame: Day 28, 3 months, 6 months, 9 months and 12 months and 24 months post CAR T cell infusion."
+                },
+                {
+                    "measure": "Progression-Free Survival (PFS)",
+                    "description": "PFS is defined as the time from the start of the lymphodepleting chemotherapy preparative regimen to the date of radiographic progression or death from any cause.",
+                    "timeFrame": "Time Frame: Day 28, 3 months, 6 months, 9 months and 12 months and 24 months post CAR T cell infusion"
+                },
+                {
+                    "measure": "Post-progression survival (PPS)",
+                    "description": "PPS is measured for each subject with DIPG as OS minus PFS, and for each patient with recorded progression as OS minus Time to Progression (TTP)",
+                    "timeFrame": "ime Frame: Day 28, 3 months, 6 months, 9 months and 12 months and 24 months post CAR T cell infusion"
+                },
+                {
+                    "measure": "Measure resolution of toxicity",
+                    "description": "Resolution of toxicity \u2264 grade2, in the event unacceptable toxicity considered possibly, probably or definitely related to GD2CART cells within 72 hours",
+                    "timeFrame": "72 hours of administration of AP1903"
+                }
+            ]
+        },
+        "eligibilityModule": {
+            "eligibilityCriteria": "INCLUSION CRITERIA\n\n1. Disease Status: Diagnosis of H3K27M mutant diffuse midline glioma (DMG)\n2. H3K27M or H3K27I mutation. Confirmed by CLIA test.\n3. Age: Greater than or equal to 2 year of age and less than or equal to 60 years of age.\n4. Prior Therapy:\n\n   * At least 4 weeks following completion of standard upfront radiation therapy.\n   * At least 3 weeks post chemotherapy or 5 half-lives, whichever is shorter, must have elapsed since any prior systemic therapy, except for systemic inhibitory/stimulatory immune checkpoint therapy that requires 3 months.\n   * Dordaviprone (Modeyso), previously known as ONC201, may be taken as prior therapy but - just as with other anti-cancer medications - administration must cease at least 5 half-lives prior to enrollment\n5. Performance Status:\n\n   Subjects \\> 16 years of age: Karnofsky \u2265 60% OR Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1; Subjects \u2264 16 years of age: Lansky scale \u2265 60%.\n\n   Subjects who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score.\n6. Normal Organ and Marrow Function (supportive care is allowed per institutional standards, i.e. filgrastim, transfusion) i. ANC \u2265 1000/uL ii. Platelet count \u2265 100,000/uL iii. Absolute lymphocyte count \u2265 150/uL iv. Hemoglobin \u2265 8 g/dL v. Adequate renal, hepatic, pulmonary and cardiac function defined as:\n\n   \\- Creatinine within institutional norms for age (i.e.\n\n   \u2264 2 mg/dL in adults or according to table below in children \\<18 years) OR creatinine clearance (as estimated by Cockcroft Gault Equation) \u2265 60 mL/min\n\n   Serum ALT/AST \u2264 3.0 ULN (grade 1)\n   * Total bilirubin \u2264 1.5 mg/dl, except in subjects with Gilbert's syndrome.\n   * Cardiac ejection fraction \u2265 45%, no evidence of physiologically significant pericardial effusion as determined by an ECHO, and no clinically significant ECG findings\n   * Baseline oxygen saturation \\> 92% on room air\n7. Pregnancy Test Females of childbearing potential must have a negative serum or urine pregnancy test (females who have undergone surgical sterilization are not considered to be of childbearing potential) or NA\n8. Contraception Subjects of child-bearing or child-fathering potential must be willing to practice birth control from the time of enrollment on this study and for four (4) months after receiving the preparative regimen or for as long as GD2CART cells are detectable in peripheral blood or CSF.\n9. Ability to give informed consent. All subjects \u2265 18 years of age must be able to give informed consent. For subjects \\<18 years old their legal authorized representative (LAR) (i.e. parent or guardian) must give informed consent. Pediatric subjects will be included in age appropriate discussion and written assent will be obtained for those \\> 7 years of age, when appropriate. If a minor becomes of age during participation of this study, he/she will be asked to reconsent as an adult.\n\nEXCLUSION CRITERIA:\n\n1. For Dose Escalation: Bulky tumor involvement of cerebellar vermis or hemispheres (pontocerebellar peduncles involvement is acceptable), or thalamic lesions that in the investigator's assessment place the subject at unacceptable risk for herniation.\n\n   For Dose Expansion: Bulky disease that in the investigator's assessment place the subject at unacceptable risk for herniation. Thalamic DMG is permitted.\n2. Clinically significant swallowing dysfunction/dysphagia or prominent medullary dysfunction, as determined by the clinical investigator; or primary cervical cord tumors above C6/7 that represent a high risk of respiratory compromise, as determined by the clinical investigator.\n3. Current systemic corticosteroid therapy above physiologic replacement levels.\n4. Ongoing use of dietary supplements, alternative therapies or extreme diet modifications or any medication not approved by the investigators\n5. Prior CAR therapy.\n6. Prior immunomodulatory therapy, except for checkpoint inhibitor therapy after at least 3 month wash-out.\n7. Uncontrolled fungal, bacterial, viral, or other infection. Previously diagnosed infection for which the patient continues to receive antimicrobial therapy is permitted if responding to treatment and clinically stable.\n8. Diagnosed ongoing infection with:\n\n   * HIV,\n   * Hepatitis B (HBsAg positive) or\n   * Hepatitis C virus (anti-HCV positive). A history of hepatitis B or hepatitis C is permitted if the viral load is undetectable per quantitative PCR and/or nucleic acid testing.\n9. Clinically significant systemic illness or medical condition (e.g. significant cardiac, pulmonary, hepatic or other organ dysfunction), that in the judgement of the principal investigator is likely to interfere with assessment of safety or efficacy of the investigational regimen and its requirements.\n10. Women who are pregnant or breastfeeding.\n11. In the investigator's judgment, the subject is unlikely to complete all protocol-required study visits or procedures, including follow-up visits, or comply with the study requirements for participation.\n12. Known sensitivity or allergy to any agents/reagents used in this study.\n13. Primary immunodeficiency or history of autoimmune disease (e.g. Crohns, rheumatoid arthritis, systemic lupus) requiring systemic immunosuppression/systemic disease modifying agents within the last 2 years\n\n    * All subject files must include supporting documentation to confirm subject eligibility.\n\nThe method of confirmation can include, but is not limited to, laboratory test results, radiology test results, subject self-report, and medical record review.\n\n\\*Anyone under 26, please contact Ashley Jacobs and anyone 26 and older, please contact Monica Reddy",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "2 Years",
+            "maximumAge": "60 Years",
+            "stdAges": [
+                "CHILD",
+                "ADULT"
+            ]
+        },
+        "contactsLocationsModule": {
+            "centralContacts": [
+                {
+                    "name": "Ashley Jacobs, RN, BSN",
+                    "role": "CONTACT",
+                    "phone": "650-497-7533",
+                    "email": "gd2cart@stanfordchildrens.org"
+                },
+                {
+                    "name": "Monica Reddy",
+                    "role": "CONTACT",
+                    "phone": "(650) 736-2690",
+                    "email": "secure-sci-cto-neuro-crcs-nio@lists.stanford.edu"
+                }
+            ],
+            "overallOfficials": [
+                {
+                    "name": "Michelle Monje",
+                    "affiliation": "Stanford University",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                }
+            ],
+            "locations": [
+                {
+                    "facility": "Lucile Packard Children's Hospital (LPCH)",
+                    "status": "RECRUITING",
+                    "city": "Stanford",
+                    "state": "California",
+                    "zip": "94304",
+                    "country": "United States",
+                    "contacts": [
+                        {
+                            "name": "Ashley Jacobs",
+                            "role": "CONTACT",
+                            "phone": "650-497-7533",
+                            "email": "GD2CART@stanfordchildrens.org"
+                        },
+                        {
+                            "name": "Monica Reddy",
+                            "role": "CONTACT",
+                            "phone": "(650) 736-2690",
+                            "email": "secure-sci-cto-neuro-crcs-nio@lists.stanford.edu"
+                        },
+                        {
+                            "name": "Michelle Monje, MD, PHD",
+                            "role": "PRINCIPAL_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Liora Schultz, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Kara Davis, D.O.",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Crystal Mackall, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Laura Prolo, M.D",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Sneha Ramakrishna, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Cynthia Campen, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Sonia Partap, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Paul Fisher, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Lindsey Rasmussen, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Timothy Cornell, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Susan Hiniker, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Brian Scott, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Katherine Ryan, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Kun-Wei Song, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Catherine Aftandilian, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Chelsey Burke, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Jay Balagtas, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Saurabh Dahiya, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Tanja Gruber, MD, Phd",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Mark Halverson, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Claire Johns, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Yong Kim, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Norman Lacayo, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Gordon Li, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Michael Lim, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Julie Ma, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Lianna Marks, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Raya Saab, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Richard Sleightholm, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Zachary Threlkeld, MD",
+                            "role": "SUB_INVESTIGATOR"
+                        },
+                        {
+                            "name": "Wen-Kai Weng, MD, Phd",
+                            "role": "SUB_INVESTIGATOR"
+                        }
+                    ],
+                    "geoPoint": {
+                        "lat": 37.42411,
+                        "lon": -122.16608
+                    }
+                }
+            ]
+        },
+        "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+        }
+    },
+    "derivedSection": {
+        "miscInfoModule": {
+            "versionHolder": "2026-06-11"
+        },
+        "interventionBrowseModule": {
+            "meshes": [
+                {
+                    "id": "C024352",
+                    "term": "fludarabine"
+                },
+                {
+                    "id": "D003520",
+                    "term": "Cyclophosphamide"
+                },
+                {
+                    "id": "D000069283",
+                    "term": "Rituximab"
+                }
+            ],
+            "ancestors": [
+                {
+                    "id": "D010752",
+                    "term": "Phosphoramide Mustards"
+                },
+                {
+                    "id": "D009588",
+                    "term": "Nitrogen Mustard Compounds"
+                },
+                {
+                    "id": "D009150",
+                    "term": "Mustard Compounds"
+                },
+                {
+                    "id": "D006846",
+                    "term": "Hydrocarbons, Halogenated"
+                },
+                {
+                    "id": "D006838",
+                    "term": "Hydrocarbons"
+                },
+                {
+                    "id": "D009930",
+                    "term": "Organic Chemicals"
+                },
+                {
+                    "id": "D063088",
+                    "term": "Phosphoramides"
+                },
+                {
+                    "id": "D009943",
+                    "term": "Organophosphorus Compounds"
+                },
+                {
+                    "id": "D058846",
+                    "term": "Antibodies, Monoclonal, Murine-Derived"
+                },
+                {
+                    "id": "D000911",
+                    "term": "Antibodies, Monoclonal"
+                },
+                {
+                    "id": "D000906",
+                    "term": "Antibodies"
+                },
+                {
+                    "id": "D007136",
+                    "term": "Immunoglobulins"
+                },
+                {
+                    "id": "D007162",
+                    "term": "Immunoproteins"
+                },
+                {
+                    "id": "D001798",
+                    "term": "Blood Proteins"
+                },
+                {
+                    "id": "D011506",
+                    "term": "Proteins"
+                },
+                {
+                    "id": "D000602",
+                    "term": "Amino Acids, Peptides, and Proteins"
+                },
+                {
+                    "id": "D012712",
+                    "term": "Serum Globulins"
+                },
+                {
+                    "id": "D005916",
+                    "term": "Globulins"
+                }
+            ]
+        }
+    },
+    "hasResults": false
+}

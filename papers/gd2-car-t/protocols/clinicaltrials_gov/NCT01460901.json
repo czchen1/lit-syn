@@ -1,0 +1,906 @@
+{
+    "protocolSection": {
+        "identificationModule": {
+            "nctId": "NCT01460901",
+            "orgStudyIdInfo": {
+                "id": "STALLONe"
+            },
+            "secondaryIdInfos": [
+                {
+                    "id": "00038",
+                    "type": "OTHER",
+                    "domain": "Production Assistance for Cellular Therapy (PACT)"
+                }
+            ],
+            "organization": {
+                "fullName": "Children's Mercy Hospital Kansas City",
+                "class": "OTHER"
+            },
+            "briefTitle": "Study of Donor Derived, Multi-virus-specific, Cytotoxic T-Lymphocytes for Relapsed/Refractory Neuroblastoma",
+            "officialTitle": "Phase I Study of Donor Derived,Gene Modified, Multi-virus-specific, Cytotoxic T-Lymphocytes Redirected to GD2 for Relapsed/Refractory Neuroblastoma Post-allo Stem Cell Transplantation With Submyeloblative Conditioning",
+            "acronym": "STALLONe"
+        },
+        "statusModule": {
+            "statusVerifiedDate": "2019-07",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+                "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+                "date": "2012-10"
+            },
+            "primaryCompletionDateStruct": {
+                "date": "2015-01",
+                "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+                "date": "2015-01",
+                "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2011-10-25",
+            "studyFirstSubmitQcDate": "2011-10-26",
+            "studyFirstPostDateStruct": {
+                "date": "2011-10-27",
+                "type": "ESTIMATED"
+            },
+            "resultsFirstSubmitDate": "2018-07-16",
+            "resultsFirstSubmitQcDate": "2019-07-22",
+            "resultsFirstPostDateStruct": {
+                "date": "2019-07-23",
+                "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2019-07-22",
+            "lastUpdatePostDateStruct": {
+                "date": "2019-07-23",
+                "type": "ACTUAL"
+            }
+        },
+        "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+                "type": "PRINCIPAL_INVESTIGATOR",
+                "investigatorFullName": "Doug Myers",
+                "investigatorTitle": "Principal Investigator",
+                "investigatorAffiliation": "Children's Mercy Hospital Kansas City"
+            },
+            "leadSponsor": {
+                "name": "Children's Mercy Hospital Kansas City",
+                "class": "OTHER"
+            },
+            "collaborators": [
+                {
+                    "name": "Center for Cell and Gene Therapy, Baylor College of Medicine",
+                    "class": "OTHER"
+                }
+            ]
+        },
+        "oversightModule": {
+            "oversightHasDmc": true
+        },
+        "descriptionModule": {
+            "briefSummary": "This is a single-center, investigator-initiated, single-arm, pilot study of post-allogeneic transplant, adoptive immunotherapy for the treatment of patients with relapsed/refractory neuroblastoma expressing the mesenchymal tumor marker GD2. Three patients will be treated. The study will focus on the safety and efficacy of allogeneic, donor derived viral specific cytotoxic T-lymphocytes, retrovirally transduced to express a chimeric antigen receptor specific for disialoganglioside, GD2, expressed on neuroblastoma.",
+            "detailedDescription": "Neuroblastoma (NB) is the most common extracranial tumor of childhood and prognosis for patients with relapsed or refractory disease is \\< 10% and there is no standard therapy for these patients. Research toward immunotherapeutic agents has intensified as monoclonal antibody targeting GD2, when incorporated into upfront NB therapy, prolongs survival. Allogeneic Hematopoietic stem cell transplantation (HSCT) has been utilized in patients with NB with evidence of a graft versus tumor (GVT) effect but transplant related mortality (TRM) has nullified the survival benefit. In an effort to harness the GVT effect of allogeneic transplant and lower TRM, harvested viral specific cytotoxic T-cells from the donor will be infused early post-HSCT to the HSCT recipient to shorten the recovery of immunity toward the most significant viral infections. The investigators will also retrovirally transduce the viral specific CTL with a chimeric antigen receptor (CAR) gene complex such that the tV-CTL can expand, via their native T-cell receptors in response to viral infections post-HSCT and carry the capability of killing tumor cells through their transduced receptor which, on the extracellular component of the CAR, has specificity for GD2 expressed on the surface of NB. In essence, the investigators intend to take the specificity of the monoclonal antibody to GD2, already utilized in therapy for NB, and combine this specificity with the cytotoxicity of T-cells to target NB. The investigators hypothesize that the infusion will be safe and viral specificity of the tV-CTL will provide long term immunity to both viral infections and the investigators will see anti-tumor effects."
+        },
+        "conditionsModule": {
+            "conditions": [
+                "Neuroblastoma"
+            ],
+            "keywords": [
+                "Neuroblastoma",
+                "Relapsed",
+                "Refractory"
+            ]
+        },
+        "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+                "PHASE1"
+            ],
+            "designInfo": {
+                "allocation": "NA",
+                "interventionModel": "SINGLE_GROUP",
+                "primaryPurpose": "TREATMENT",
+                "maskingInfo": {
+                    "masking": "NONE"
+                }
+            },
+            "enrollmentInfo": {
+                "count": 5,
+                "type": "ACTUAL"
+            }
+        },
+        "armsInterventionsModule": {
+            "armGroups": [
+                {
+                    "label": "GD2 CAR modified Tri-virus CTL infusion",
+                    "type": "EXPERIMENTAL",
+                    "description": "A single infusion of 2x10e6 cells per meter squared was performed 30 to 120 days following allogeneic stem cell transplant.",
+                    "interventionNames": [
+                        "Biological: GD2 CAR modified Tri-virus specific cytotoxic t-cells"
+                    ]
+                }
+            ],
+            "interventions": [
+                {
+                    "type": "BIOLOGICAL",
+                    "name": "GD2 CAR modified Tri-virus specific cytotoxic t-cells",
+                    "description": "This is a feasibility study to assess safety of an infusion of chimeric-antigen receptor gene modified allogeneic virus specific T lymphocytes after reduced intensity allogeneic stem cell transplant. Three patients were treated and safety was evaluated. Patients received a single infusion of 2x10e6/m2 donor derived, GD2 CAR modified, tri-virus specific CTL performed 30-120 days after allogeneic stem cell transplantation",
+                    "armGroupLabels": [
+                        "GD2 CAR modified Tri-virus CTL infusion"
+                    ]
+                }
+            ]
+        },
+        "outcomesModule": {
+            "primaryOutcomes": [
+                {
+                    "measure": "Number of Participants With Immediate and Short Term Toxicity of Infusion Over 8 Weeks",
+                    "description": "Immediate: Patients were monitored following infusion to assess for toxicity related to infusion. Potential toxicities related to cellular therapy infusions, such as allergic reaction to the cellular product or cryopreservation media, hemolytic reactions, volume overload, and hemodynamic instability, were monitored.\n\nShort Term: Patients were monitored for 8 weeks for short term toxicity related to infusion. Such adverse reactions monitored were acute graft versus host disease and cytokine release syndrome.",
+                    "timeFrame": "Post infusion week 8"
+                },
+                {
+                    "measure": "Peak Transgene Copy Number Per 1000ng PBMC DNA",
+                    "description": "Peak Transgene Copy Number per 1000ng PBMC DNA from peripheral blood samples measured during study participation.",
+                    "timeFrame": "1 year"
+                },
+                {
+                    "measure": "Death Within 8 Weeks of Infusion",
+                    "timeFrame": "8 weeks"
+                }
+            ],
+            "secondaryOutcomes": [
+                {
+                    "measure": "Peak Viral Specific SFU/2x10e5 Mononuclear Cells Per Well",
+                    "description": "The following analyses were performed on peripheral blood samples from patients at protocol assigned time points (pre-infusion, post-infusion at 4 hrs, weeks 1,2,4,6 and 8, month 3, 6 and 12:\n\nELISPOT assay for CMV, Adenovirus and EBV specific CTL reported as SFU (spot forming unit) per 2x10e5 mononuclear cells",
+                    "timeFrame": "up to 1 year"
+                },
+                {
+                    "measure": "Maximum Tumor Response (RECIST 1.1)",
+                    "description": "Pre and post-therapy evaluation by modalities consistent with prior disease evaluation in each patient. When possible, tumors were assessed per Response Evaluation Criteria In Solid Tumors (RECIST v1.0): Complete Response (CR), disappearance of all target lesions; Partial Response (PR), \\>/=30% decrease in the sum of the longest diameter of target lesions; Progressive Disease (PD) at least a 20% increase in the sum of diameters of target lesions; Stable Disease (SD) neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD. Bone marrow aspirations and biopsies were evaluated by histopathology and appropriate immunohistochemistry; Modified Curie score was used for MIBG evaluation.",
+                    "timeFrame": "1 year"
+                }
+            ]
+        },
+        "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Allogeneic transduced tV-CTLs with \\>15% expression of 14g2a.zeta chimeric antigen receptor\n* Patient or responsible person must be able to understand and sign a permission/assent or consent form for infusion\n* Age 18 months through 17 years at time of relapse/progression\n* Life expectancy \\>8weeks\n* Karnofsky score 60% or greater if 10 yrs old or older. Lansky score 60% or greater if under 10 yrs old\n* Patient must be HIV negative\n* ANC \\>500\n* Pulse ox\\>90% on room air\n* AST/ALT/direct bili \\<5x upper limit of normal\n* Recovered from toxic effects of all prior chemotherapy\n* Absence of human/anti-mouse antibody (HAMA) (patients who have received prior therapy with murine antibodies)\n* \\>50% donor engraftment\n\nExclusion Criteria:\n\n* Patient pregnant or lactating or refuses birth control methods\n* HIV positive\n* Uncontrolled intercurrent infection\n* Renal failure (creatinine clearance \\<40ml/min/1.73m2)\n* Active hepatitis or cirrhosis with bilirubin, AST, ALT \\>5xnormal\n* Rapidly progressive disease\n* Currently receiving any investigational drugs\n* Tumor potentially causing airway obstruction\n* Cardiomegaly or bilateral pulmonary infiltrates on CXR\n* Receiving \\>0.25mg/kg/day methylprednisolone or equivalent systemic steroid. Topical steroid therapy is acceptable\n* Receiving more than one lymphocyte inhibiting agent (ex. Tacrolimus/CSA and MMF or other similar agent\n* Patients relapsing or progressing before the age of 18 months from Stage I/II disease, and/or those who, in the opinion of their oncologist, may benefit from further conventional therapy\n* Donor lymphocyte infusion in last 28 days\n* Evidence of GvHD greater than or equal to grade 2",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Months",
+            "maximumAge": "17 Years",
+            "stdAges": [
+                "CHILD"
+            ]
+        },
+        "contactsLocationsModule": {
+            "overallOfficials": [
+                {
+                    "name": "Doug Myers, MD",
+                    "affiliation": "Children's Mercy Hospital Kansas City",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                }
+            ],
+            "locations": [
+                {
+                    "facility": "Children's Mercy Hospital",
+                    "city": "Kansas City",
+                    "state": "Missouri",
+                    "zip": "64108",
+                    "country": "United States",
+                    "geoPoint": {
+                        "lat": 39.09973,
+                        "lon": -94.57857
+                    }
+                }
+            ]
+        },
+        "referencesModule": {
+            "seeAlsoLinks": [
+                {
+                    "label": "Children's Mercy Hospitals and Clinics",
+                    "url": "http://www.childrensmercy.org/"
+                }
+            ]
+        }
+    },
+    "resultsSection": {
+        "participantFlowModule": {
+            "preAssignmentDetails": "Patients could withdraw at their discretion or were withdrawn for rapid disease progression.",
+            "recruitmentDetails": "Patients were consented and screened in the outpatient clinic. First consent was 10/2012 and last consent was signed 2/2014.",
+            "groups": [
+                {
+                    "id": "FG000",
+                    "title": "Treatment",
+                    "description": "Single arm study - GD2-CAR modified Tri-virus specific cytotoxic T-cell Infusion"
+                }
+            ],
+            "periods": [
+                {
+                    "title": "Overall Study",
+                    "milestones": [
+                        {
+                            "type": "STARTED",
+                            "achievements": [
+                                {
+                                    "groupId": "FG000",
+                                    "comment": "First enrollment",
+                                    "numSubjects": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tV-CTL Infusion",
+                            "achievements": [
+                                {
+                                    "groupId": "FG000",
+                                    "numSubjects": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "COMPLETED",
+                            "achievements": [
+                                {
+                                    "groupId": "FG000",
+                                    "comment": "Follow-up completed",
+                                    "numSubjects": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "NOT COMPLETED",
+                            "achievements": [
+                                {
+                                    "groupId": "FG000",
+                                    "numSubjects": "2"
+                                }
+                            ]
+                        }
+                    ],
+                    "dropWithdraws": [
+                        {
+                            "type": "Withdrawal by Subject",
+                            "reasons": [
+                                {
+                                    "groupId": "FG000",
+                                    "numSubjects": "2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "baselineCharacteristicsModule": {
+            "groups": [
+                {
+                    "id": "BG000",
+                    "title": "GD2 CAR Modified Tri-virus CTL",
+                    "description": "This is a feasibility study to assess safety of an infusion of chimeric-antigen receptor gene modified allogeneic virus specific T lymphocytes after reduced intensity allogeneic stem cell transplant. The intent is to treat three patients and evaluate safety.\n\nA single infusion of 2 million cells per meter squared was dosed.\n\nTri-virus specific cytotoxic t-cells: Infusion of donor derived tri-virus specific cytotoxic t-cell post allogeneic stem cell transplantation"
+                }
+            ],
+            "denoms": [
+                {
+                    "units": "Participants",
+                    "counts": [
+                        {
+                            "groupId": "BG000",
+                            "value": "5"
+                        }
+                    ]
+                }
+            ],
+            "measures": [
+                {
+                    "title": "Age, Categorical",
+                    "paramType": "COUNT_OF_PARTICIPANTS",
+                    "unitOfMeasure": "Participants",
+                    "calculatePct": false,
+                    "classes": [
+                        {
+                            "denoms": [
+                                {
+                                    "units": "Participants",
+                                    "counts": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "5"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "title": "<=18 years",
+                                    "measurements": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "5"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Between 18 and 65 years",
+                                    "measurements": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": ">=65 years",
+                                    "measurements": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "0"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Age, Continuous",
+                    "paramType": "MEAN",
+                    "dispersionType": "STANDARD_DEVIATION",
+                    "unitOfMeasure": "years",
+                    "classes": [
+                        {
+                            "denoms": [
+                                {
+                                    "units": "Participants",
+                                    "counts": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "5"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "7.7",
+                                            "spread": "1.9"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Sex: Female, Male",
+                    "paramType": "COUNT_OF_PARTICIPANTS",
+                    "unitOfMeasure": "Participants",
+                    "classes": [
+                        {
+                            "denoms": [
+                                {
+                                    "units": "Participants",
+                                    "counts": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "5"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "title": "Female",
+                                    "measurements": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Male",
+                                    "measurements": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "3"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Race and Ethnicity Not Collected",
+                    "populationDescription": "Race and Ethnicity were not collected from any participant.",
+                    "paramType": "COUNT_OF_PARTICIPANTS",
+                    "unitOfMeasure": "Participants",
+                    "classes": [
+                        {
+                            "denoms": [
+                                {
+                                    "units": "Participants",
+                                    "counts": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "0"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Region of Enrollment",
+                    "paramType": "NUMBER",
+                    "unitOfMeasure": "participants",
+                    "classes": [
+                        {
+                            "title": "United States",
+                            "denoms": [
+                                {
+                                    "units": "Participants",
+                                    "counts": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "5"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "BG000",
+                                            "value": "5"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "outcomeMeasuresModule": {
+            "outcomeMeasures": [
+                {
+                    "type": "PRIMARY",
+                    "title": "Number of Participants With Immediate and Short Term Toxicity of Infusion Over 8 Weeks",
+                    "description": "Immediate: Patients were monitored following infusion to assess for toxicity related to infusion. Potential toxicities related to cellular therapy infusions, such as allergic reaction to the cellular product or cryopreservation media, hemolytic reactions, volume overload, and hemodynamic instability, were monitored.\n\nShort Term: Patients were monitored for 8 weeks for short term toxicity related to infusion. Such adverse reactions monitored were acute graft versus host disease and cytokine release syndrome.",
+                    "reportingStatus": "POSTED",
+                    "paramType": "COUNT_OF_PARTICIPANTS",
+                    "unitOfMeasure": "Participants",
+                    "timeFrame": "Post infusion week 8",
+                    "groups": [
+                        {
+                            "id": "OG000",
+                            "title": "GD2 CAR Modified Tri-virus CTL Infusion",
+                            "description": "Single arm study - Single infusion of 2x10e6 GD2 CAR modified tri-virus CTL following allogeneic stem cell transplant"
+                        }
+                    ],
+                    "denoms": [
+                        {
+                            "units": "Participants",
+                            "counts": [
+                                {
+                                    "groupId": "OG000",
+                                    "value": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "classes": [
+                        {
+                            "categories": [
+                                {
+                                    "title": "Immediate Infusion Toxicity",
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Short Term Toxicity (Week 8)",
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "No Toxicity",
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "3"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIMARY",
+                    "title": "Peak Transgene Copy Number Per 1000ng PBMC DNA",
+                    "description": "Peak Transgene Copy Number per 1000ng PBMC DNA from peripheral blood samples measured during study participation.",
+                    "populationDescription": "Evaluable patients",
+                    "reportingStatus": "POSTED",
+                    "paramType": "NUMBER",
+                    "unitOfMeasure": "Transgene Copy per 1000ng PBMC DNA",
+                    "timeFrame": "1 year",
+                    "groups": [
+                        {
+                            "id": "OG000",
+                            "title": "Treatment",
+                            "description": "Single arm study - GD2 CAR Tri-virus CTL infusion"
+                        }
+                    ],
+                    "denoms": [
+                        {
+                            "units": "Participants",
+                            "counts": [
+                                {
+                                    "groupId": "OG000",
+                                    "value": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "classes": [
+                        {
+                            "title": "Participant 1",
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "10562"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Participant 3",
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "44"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Participant 5",
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "1464"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "PRIMARY",
+                    "title": "Death Within 8 Weeks of Infusion",
+                    "reportingStatus": "POSTED",
+                    "paramType": "NUMBER",
+                    "unitOfMeasure": "participants",
+                    "timeFrame": "8 weeks",
+                    "groups": [
+                        {
+                            "id": "OG000",
+                            "title": "Treatment",
+                            "description": "Single arm study - GD2 CAR Tri-virus CTL infusion"
+                        }
+                    ],
+                    "denoms": [
+                        {
+                            "units": "Participants",
+                            "counts": [
+                                {
+                                    "groupId": "OG000",
+                                    "value": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "classes": [
+                        {
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "1"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "SECONDARY",
+                    "title": "Peak Viral Specific SFU/2x10e5 Mononuclear Cells Per Well",
+                    "description": "The following analyses were performed on peripheral blood samples from patients at protocol assigned time points (pre-infusion, post-infusion at 4 hrs, weeks 1,2,4,6 and 8, month 3, 6 and 12:\n\nELISPOT assay for CMV, Adenovirus and EBV specific CTL reported as SFU (spot forming unit) per 2x10e5 mononuclear cells",
+                    "reportingStatus": "POSTED",
+                    "paramType": "NUMBER",
+                    "unitOfMeasure": "SFU/2x10e5 Mononuclear Cells",
+                    "timeFrame": "up to 1 year",
+                    "groups": [
+                        {
+                            "id": "OG000",
+                            "title": "Treatment",
+                            "description": "Single arm study - GD2 CAR modified tri-virus specific CTL infusion"
+                        }
+                    ],
+                    "denoms": [
+                        {
+                            "units": "Participants",
+                            "counts": [
+                                {
+                                    "groupId": "OG000",
+                                    "value": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "classes": [
+                        {
+                            "title": "Participant 1",
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "180"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Participant 3",
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "175"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Participant 5",
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "150"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "SECONDARY",
+                    "title": "Maximum Tumor Response (RECIST 1.1)",
+                    "description": "Pre and post-therapy evaluation by modalities consistent with prior disease evaluation in each patient. When possible, tumors were assessed per Response Evaluation Criteria In Solid Tumors (RECIST v1.0): Complete Response (CR), disappearance of all target lesions; Partial Response (PR), \\>/=30% decrease in the sum of the longest diameter of target lesions; Progressive Disease (PD) at least a 20% increase in the sum of diameters of target lesions; Stable Disease (SD) neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD. Bone marrow aspirations and biopsies were evaluated by histopathology and appropriate immunohistochemistry; Modified Curie score was used for MIBG evaluation.",
+                    "reportingStatus": "POSTED",
+                    "paramType": "NUMBER",
+                    "unitOfMeasure": "Response",
+                    "timeFrame": "1 year",
+                    "groups": [
+                        {
+                            "id": "OG000",
+                            "title": "Treatment",
+                            "description": "Single arm study - treatment"
+                        }
+                    ],
+                    "denoms": [
+                        {
+                            "units": "Participants",
+                            "counts": [
+                                {
+                                    "groupId": "OG000",
+                                    "value": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "classes": [
+                        {
+                            "title": "Complete Response",
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "0"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Non-complete Response",
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "3"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Progressive Disease",
+                            "categories": [
+                                {
+                                    "measurements": [
+                                        {
+                                            "groupId": "OG000",
+                                            "value": "0"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "adverseEventsModule": {
+            "frequencyThreshold": "0",
+            "timeFrame": "Adverse event data was collected over 1 year. 3 patients were treated. All 3 patients died of disease with the last patient dying 324 days after infusion",
+            "eventGroups": [
+                {
+                    "id": "EG000",
+                    "title": "GD2 CAR Modified Tri-virus CTL Infusion",
+                    "description": "This was a single-center, investigator-initiated, single-arm, pilot study of post-allogeneic transplant, adoptive immunotherapy for the treatment of patients with relapsed/refractory neuroblastoma expressing the mesenchymal tumor marker GD2. Three patients were treated. Patients received infusion of tri-virus cytotoxic T-lymphocytes, transduced with a first generation GD2 targeted chimeric antigen receptor (tvs-CTL). Infusion of the tvs-CTL was performed 30 to 120 days after reduced intensity, mismatched related donor, CD34 selected peripheral blood stem cell transplant on a separate clinical trial. The tvs-CTL were derived from the stem cell transplant donor. Patients were monitored for safety of the allogeneic tvs-CTL at infusion and for adverse events such as graft vs host disease and insertional mutagenesis/carcinogenesis related to the gene transduction.",
+                    "deathsNumAffected": 3,
+                    "deathsNumAtRisk": 3,
+                    "seriousNumAffected": 3,
+                    "seriousNumAtRisk": 3,
+                    "otherNumAffected": 2,
+                    "otherNumAtRisk": 3
+                }
+            ],
+            "seriousEvents": [
+                {
+                    "term": "Death",
+                    "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+                    "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                    "stats": [
+                        {
+                            "groupId": "EG000",
+                            "numEvents": 3,
+                            "numAffected": 3,
+                            "numAtRisk": 3
+                        }
+                    ]
+                }
+            ],
+            "otherEvents": [
+                {
+                    "term": "Fever",
+                    "organSystem": "Infections and infestations",
+                    "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                    "stats": [
+                        {
+                            "groupId": "EG000",
+                            "numEvents": 2,
+                            "numAffected": 2,
+                            "numAtRisk": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        "moreInfoModule": {
+            "certainAgreement": {
+                "piSponsorEmployee": false,
+                "restrictiveAgreement": false
+            },
+            "pointOfContact": {
+                "title": "Dr. Gary Douglas Myers",
+                "organization": "Children's Mercy Hospitals and Clinics",
+                "email": "gdmyers@cmh.edu",
+                "phone": "8163026817",
+                "phoneExt": "7-6817"
+            }
+        }
+    },
+    "derivedSection": {
+        "miscInfoModule": {
+            "versionHolder": "2026-06-11"
+        },
+        "conditionBrowseModule": {
+            "meshes": [
+                {
+                    "id": "D009447",
+                    "term": "Neuroblastoma"
+                },
+                {
+                    "id": "D012008",
+                    "term": "Recurrence"
+                }
+            ],
+            "ancestors": [
+                {
+                    "id": "D018241",
+                    "term": "Neuroectodermal Tumors, Primitive, Peripheral"
+                },
+                {
+                    "id": "D018242",
+                    "term": "Neuroectodermal Tumors, Primitive"
+                },
+                {
+                    "id": "D018302",
+                    "term": "Neoplasms, Neuroepithelial"
+                },
+                {
+                    "id": "D017599",
+                    "term": "Neuroectodermal Tumors"
+                },
+                {
+                    "id": "D009373",
+                    "term": "Neoplasms, Germ Cell and Embryonal"
+                },
+                {
+                    "id": "D009370",
+                    "term": "Neoplasms by Histologic Type"
+                },
+                {
+                    "id": "D009369",
+                    "term": "Neoplasms"
+                },
+                {
+                    "id": "D009375",
+                    "term": "Neoplasms, Glandular and Epithelial"
+                },
+                {
+                    "id": "D009380",
+                    "term": "Neoplasms, Nerve Tissue"
+                },
+                {
+                    "id": "D020969",
+                    "term": "Disease Attributes"
+                },
+                {
+                    "id": "D010335",
+                    "term": "Pathologic Processes"
+                },
+                {
+                    "id": "D013568",
+                    "term": "Pathological Conditions, Signs and Symptoms"
+                }
+            ]
+        }
+    },
+    "hasResults": true
+}
