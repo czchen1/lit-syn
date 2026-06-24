@@ -7,6 +7,7 @@ Organized papers and notes for H3.3 G34R/V diffuse hemispheric glioma (DHG-H3G34
 - `index.tsv` — curated paper metadata, topic tags, and download status.
 - `notes/h3g34_scrnaseq_analysis_report.md` — concise synthesis and concrete analysis recommendations.
 - `notes/dhg_h3g34_mutation_pathway_synthesis.md` — mutation-by-mutation pathway synthesis for a DHG-H3G34 ctDNA variant set (H3-3A G34R, TP53, PDGFRA, PIK3CA, PTPN11, SMAD4; MDM4/EGFR/MET/RB1 CNVs; PPM1D/SETD2/PTPRD/NOTCH VUS).
+- `notes/dhg_h3g34_treatment_options_brain_penetrance.md` — pathway-directed treatment options for the same variant set, prioritized by blood-brain-barrier penetrance, with glioma/CNS evidence and report-matched trials.
 - `pdfs/` — downloaded open-access PDFs.
 
 ## Scope notes
