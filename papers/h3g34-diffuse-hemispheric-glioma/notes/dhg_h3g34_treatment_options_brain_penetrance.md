@@ -50,6 +50,22 @@ PI3K/mTOR **class toxicity signature** to expect across these: on-target **hyper
 
 For this case specifically, **paxalisib remains the best-balanced brain-penetrant PI3K/mTOR backbone**; bimiralisib (CNS-by-design) and sapanisertib (mTORC1/2, bypasses AKT feedback) are the closest alternatives, and a PI3Kα-mutant-selective agent (matched to PIK3CA H1047R) is attractive for tolerability **if CNS exposure can be confirmed**.
 
+## Combination regimens (brain-penetrant, mechanism-matched to this variant set)
+
+Single-agent targeted therapy in DHG/pHGG almost uniformly fails to adaptive resistance and pathway feedback; the literature points to rational **combinations**. Ranked by strength of DHG-H3G34-specific evidence.
+
+| Combination | Pathway rationale (this case) | Brain penetrance | Evidence | Overlapping toxicity / caution |
+|---|---|---|---|---|
+| **Niraparib + topotecan** (or **talazoparib + irinotecan/SN-38**) | DDR/ALT: H3G34R+ATRX-loss drives ALT → basal replication-stress → PARPi+TopoI **synergy**; absent p53/p21 response amplifies it | Niraparib brain-penetrant (topotecan/irinotecan less so but blood–tumor barrier leaky) | **Strongest** — DHG-H3G34R_ATRX models hypersensitive *and* a treated patient had significant tumor reduction (Voon/Schreck 2025, PMC11889718) | **Myelosuppression** (thrombocytopenia/neutropenia) is additive — main dose-limiter; **confirm ALT/ATRX first** (ATRX not detected in this CSF) |
+| **Paxalisib + MEK inhibitor** (trametinib or brain-penetrant mirdametinib) | Vertical+parallel block of the convergent node: PIK3CA H1047R (PI3K) + PTPN11 S502P/RTK gains (MAPK); PDGFRA Y288C signals through PI3K+MEK (Ip 2018) | Both arms brain-penetrant (paxalisib purpose-built; mirdametinib CNS-optimized) | DIPG/pHGG MAPK-combination rationale (Mackay 2020, PMC7612484); PI3K/mTOR genetic dependency (JCI 2024, PMID 38319732) | Additive **rash, stomatitis, hyperglycemia, fatigue, diarrhea**; MEKi adds retinopathy/↓EF — needs cardiac/ophthalmic monitoring |
+| **Paxalisib + metformin (± enzastaurin) + radiotherapy** | Manages the two main paxalisib **resistance/AE** drivers: insulin-feedback hyperglycemia (metformin) and adaptive calcium-PKC signaling (enzastaurin, brain-penetrant); RT backbone | All CNS-active | Survival benefit in orthotopic DIPG models; clinically translatable design (JCI 2024, PMID 38319732) | Generally tolerable; watch hyperglycemia, GI; enzastaurin QTc |
+| **PARP inhibitor + temozolomide ± radiotherapy** | DDR: PARPi potentiates TMZ/RT DNA damage; rational where MGMT methylated (frequent in G34) | Niraparib/veliparib penetrant; pamiparib also CNS | Pediatric HGG: veliparib+RT+TMZ tolerable (COG ACNS1721, NCT03581292) — **did not beat historical controls**; olaparib radiosensitizes pHGG lines | **Myelosuppression** additive with TMZ — main limiter; efficacy bar not yet cleared |
+| **PARP inhibitor + radiotherapy** | DDR radiosensitization in the ALT/replication-stress context | Niraparib brain-penetrant | Niraparib phase 0/2 'trigger' design pairs niraparib + fractionated RT (NCT05076513) | Thrombocytopenia; radiation-field marrow effects |
+| **RTK inhibitor + PI3K/mTOR** (e.g., avapritinib + paxalisib) | If a PDGFRA-amplified (not just Y288C) subclone dominates, pair upstream RTK block with downstream PI3K/mTOR to blunt feedback reactivation | Both brain-penetrant | Mechanistic (RTK→PI3K convergence); avapritinib CNS-active in PDGFRA-altered HGG (Cancer Cell 2025) | Additive fatigue/edema/cytopenias; avapritinib intracranial-hemorrhage risk; Y288C-specific TKI resistance caveat |
+| *(deprioritized)* PI3Kα-selective + CDK4/6 | RLY-2608 trial pairs with CDK4/6i | mixed | NCT05216432 design | **RB1 loss → CDK4/6i resistance** here; PI3Kα-selective CNS exposure unproven |
+
+**Backbone for all:** maximal safe resection + focal radiotherapy ± temozolomide (confirm MGMT). Immunotherapy combinations are unsupported by TMB-low/MSS status.
+
 ## Practical synthesis
 
 1. **Highest-conviction, brain-penetrant, mechanism-matched picks:** PARP-based DDR targeting (niraparib, ideally with a topoisomerase-I inhibitor) **if ALT/ATRX is confirmed**, and a brain-penetrant PI3K/mTOR inhibitor (paxalisib) covering the PIK3CA-H1047R + multi-RTK convergence onto PI3K. These two have both the best CNS exposure and the clearest DHG-H3G34 rationale.
