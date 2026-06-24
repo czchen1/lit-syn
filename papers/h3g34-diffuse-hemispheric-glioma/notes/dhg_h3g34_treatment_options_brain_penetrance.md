@@ -29,6 +29,27 @@ Two genome-wide modifiers from the report shape the whole strategy:
 | — | Cell cycle — RB1 loss | CDK4/6i: abemaciclib (best CNS), ribociclib | Abemaciclib highest brain TER; ribociclib moderate; palbociclib not recommended | Abemaciclib rGBM trial requires **intact RB** | CID-078 (CDK, NCT06577987) | **Deprioritize:** CDK4/6 act upstream of RB; **RB1 loss predicts resistance** (Wiedemeyer 2010). Contrast with CDK6 dependency seen in *RB-intact* DHG-H3G34 (Liu 2024) |
 | — | Epigenetic — H3-3A G35R / H3K36me3 | No brain-penetrant targeted standard | n/a | ONC201/dordaviprone is **H3K27M-specific**, not G34; DOT1L/EZH2/HDAC limited CNS | gene-therapy/immunotherapy trials (NCT06914479, NCT06896110) | Backbone remains maximal safe resection + RT + temozolomide (MGMT is frequently methylated in G34, predicting TMZ benefit — confirm patient MGMT status) |
 
+## PI3K/AKT/mTOR — expanded brain-penetrant asset landscape (paxalisib alternatives)
+
+Agents in the same axis as paxalisib, ranked by documented CNS exposure × glioma/CNS clinical data. Recurring theme: several of these achieve **proven brain penetration yet minimal single-agent efficacy** in PI3K-activated glioma (adaptive feedback/reactivation), so combinations and pathway co-targeting are the realistic path.
+
+| Agent | Target | Brain penetrance | Best CNS/glioma clinical data | Key toxicities |
+|---|---|---|---|---|
+| **Buparlisib (BKM120)** | pan-class-I PI3K | High — tumor:plasma ≈ 1.0 *proven in rGBM* | Phase 2 recurrent GBM with PI3K activation (NCT01339052); brain penetration confirmed but **PFS6 only ~8%** (minimal single-agent efficacy) | Hyperglycemia, lipase/ALT elevation, fatigue, rash; **neuropsychiatric (mood/depression/anxiety, rare suicidal ideation)** is the class-defining buparlisib AE (not seen in this GBM cohort but prominent elsewhere) |
+| **Sapanisertib (TAK-228/MLN0128)** | mTORC1/2 (ATP-competitive) | Demonstrated BBB penetration in surgical-window rGBM | Phase 1 pre/post-surgery rGBM (NCT02133183); phase 1 + bevacizumab (NCT02142803) | Hyperglycemia, stomatitis/mucositis, rash, fatigue, nausea |
+| **Samotolisib (LY3023414)** | PI3K/mTOR + **DNA-PK** | Oral; CNS-tumor exposure (pediatric CNS cohorts) | Pediatric MATCH APEC1621D (NCT03213678), incl. 5 HGG; **no ORR, 3-mo PFS 12%** | Mucositis & pneumonitis (DLTs), hyperglycemia, fatigue; RP2D 115 mg/m²/dose BID |
+| **Bimiralisib (PQR309)** | dual pan-PI3K/mTOR | **Designed brain-penetrant**; crosses BBB at therapeutic levels | Phase 2 primary CNS lymphoma (NCT02669511); refractory lymphoma phase 1/2 | Hyperglycemia, fatigue, rash, mucositis, thrombocytopenia; milder neuropsychiatric profile than buparlisib |
+| **Perifosine** | AKT / membrane (alkylphospholipid) | Modest CNS | Pediatric phase 1 CNS+solid (PLOS One 2017); stable disease in DIPG/HGG, no ORR | GI (nausea/vomiting/diarrhea), hyperuricemia; RP2D 50 mg/m²/day; cytostatic |
+| **MK-2206** | allosteric AKT1/2/3 | Studied in pediatric CNS tumors | COG phase 1 incl. CNS tumors (NCT01231919) | Rash, hyperglycemia, fatigue, mucositis; anti-proliferative (cytostatic) not tumoricidal |
+| **Voxtalisib (XL765/SAR245409)** | PI3K/mTOR | Modest | Glioma combos with TMZ/RT (recurrent + newly-dx malignant glioma) | LFT elevation, rash, fatigue, GI |
+| **Everolimus / temsirolimus (rapalogs)** | mTORC1 | Everolimus modest (effective in TSC SEGA); **temsirolimus poor CNS** (negative GBM trials) | Everolimus widely studied in glioma combos; temsirolimus rGBM negative | Stomatitis, hyperglycemia, hyperlipidemia, immunosuppression/infection, **pneumonitis** |
+| **PI3Kα mutant-selective (RLY-2608, STX-478, OKI-219, ETX-636)** | mutant PI3Kα | CNS **unproven** | FIH solid-tumor responses; matched to PIK3CA H1047R here | Far less hyperglycemia than alpelisib; GI, rash (early data) |
+| **Alpelisib (reference, not recommended)** | PI3Kα | **Poor CNS** | — | Severe hyperglycemia, rash, diarrhea — listed to contrast with CNS-optimized options |
+
+PI3K/mTOR **class toxicity signature** to expect across these: on-target **hyperglycemia** (PI3Kα), **stomatitis/mucositis**, **rash**, **fatigue**, **diarrhea**, **transaminitis**; mTOR adds **pneumonitis** and metabolic (hyperlipidemia) effects; buparlisib adds **neuropsychiatric** effects.
+
+For this case specifically, **paxalisib remains the best-balanced brain-penetrant PI3K/mTOR backbone**; bimiralisib (CNS-by-design) and sapanisertib (mTORC1/2, bypasses AKT feedback) are the closest alternatives, and a PI3Kα-mutant-selective agent (matched to PIK3CA H1047R) is attractive for tolerability **if CNS exposure can be confirmed**.
+
 ## Practical synthesis
 
 1. **Highest-conviction, brain-penetrant, mechanism-matched picks:** PARP-based DDR targeting (niraparib, ideally with a topoisomerase-I inhibitor) **if ALT/ATRX is confirmed**, and a brain-penetrant PI3K/mTOR inhibitor (paxalisib) covering the PIK3CA-H1047R + multi-RTK convergence onto PI3K. These two have both the best CNS exposure and the clearest DHG-H3G34 rationale.
