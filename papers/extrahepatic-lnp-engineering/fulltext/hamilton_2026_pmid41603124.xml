@@ -1,0 +1,1175 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="adma72049" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Mater</journal-id><journal-id journal-id-type="iso-abbrev">Adv Mater</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">ADMA</journal-id><journal-title-group><journal-title>Advanced Materials (Deerfield Beach, Fla.)</journal-title></journal-title-group><issn pub-type="ppub">0935-9648</issn><issn pub-type="epub">1521-4095</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12957869</article-id><article-id pub-id-type="pmcid-ver">PMC12957869.1</article-id><article-id pub-id-type="pmcaid">12957869</article-id><article-id pub-id-type="pmcaiid">12957869</article-id><article-id pub-id-type="pmid">41603124</article-id><article-id pub-id-type="doi">10.1002/adma.202514370</article-id><article-id pub-id-type="publisher-id">ADMA72049</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>High‐Throughput In Vivo Screening Using Barcoded mRNA Identifies Lipid Nanoparticles With Extrahepatic Tropism for In Situ Immunoengineering</article-title></title-group><contrib-group><contrib id="adma72049-cr-0001" contrib-type="author"><name name-style="western"><surname>Hamilton</surname><given-names initials="AG">Alex G.</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0002" contrib-type="author"><name name-style="western"><surname>Thatte</surname><given-names initials="AS">Ajay S.</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0003" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="J">Junchao</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0004" contrib-type="author"><name name-style="western"><surname>Luo</surname><given-names initials="Z">Zhangyi</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0005" contrib-type="author"><name name-style="western"><surname>Safford</surname><given-names initials="HC">Hannah C.</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0006" contrib-type="author"><name name-style="western"><surname>Swingle</surname><given-names initials="KL">Kelsey L.</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0007" contrib-type="author"><name name-style="western"><surname>Muscat‐Rivera</surname><given-names initials="J">Jenna</given-names></name><xref rid="adma72049-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="adma72049-cr-0008" contrib-type="author"><name name-style="western"><surname>Kegel</surname><given-names initials="M">Michael</given-names></name><xref rid="adma72049-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="adma72049-cr-0009" contrib-type="author"><name name-style="western"><surname>Han</surname><given-names initials="X">Xuexiang</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0010" contrib-type="author"><name name-style="western"><surname>Joseph</surname><given-names initials="RA">Ryann A.</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0011" contrib-type="author"><name name-style="western"><surname>Murray</surname><given-names initials="AM">Amanda M.</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0012" contrib-type="author"><name name-style="western"><surname>Geisler</surname><given-names initials="HC">Hannah C.</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0013" contrib-type="author"><name name-style="western"><surname>Whitaker</surname><given-names initials="RC">Ricardo C.</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0014" contrib-type="author"><name name-style="western"><surname>Xue</surname><given-names initials="L">Lulu</given-names></name><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="adma72049-cr-0015" contrib-type="author"><name name-style="western"><surname>Spektor</surname><given-names initials="R">Roman</given-names></name><xref rid="adma72049-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="adma72049-cr-0016" contrib-type="author"><name name-style="western"><surname>Melamed</surname><given-names initials="JR">Jilian R.</given-names></name><xref rid="adma72049-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="adma72049-cr-0017" contrib-type="author"><name name-style="western"><surname>Weissman</surname><given-names initials="D">Drew</given-names></name><xref rid="adma72049-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="adma72049-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="adma72049-cr-0018" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mitchell</surname><given-names initials="MJ">Michael J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3628-2244</contrib-id><xref rid="adma72049-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="adma72049-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="adma72049-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="adma72049-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="adma72049-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="adma72049-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><address><email>mjmitch@seas.upenn.edu</email></address></contrib></contrib-group><aff id="adma72049-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Bioengineering</named-content>
+<institution>University of Pennsylvania</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="adma72049-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Perelman School of Medicine</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="adma72049-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Field of Genetics, Genomics, and Development</named-content>
+<institution>Cornell University</institution>
+<city>Ithaca</city>
+<named-content content-type="country-part">New York</named-content>
+<country country="US">USA</country>
+</aff><aff id="adma72049-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Penn Institute for RNA Innovation</named-content>
+<institution>University of Pennsylvania</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="adma72049-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Abramson Cancer Center</named-content>
+<institution>Perelman School of Medicine</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="adma72049-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Institute for Immunology</named-content>
+<institution>Perelman School of Medicine</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="adma72049-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Cardiovascular Institute</named-content>
+<institution>Perelman School of Medicine</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="adma72049-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Institute for Regenerative Medicine</named-content>
+<institution>Perelman School of Medicine</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><pub-date pub-type="epub"><day>28</day><month>1</month><year>2026</year></pub-date><pub-date pub-type="ppub"><day>03</day><month>3</month><year>2026</year></pub-date><volume>38</volume><issue seq="140">13</issue><issue-id pub-id-type="pmc-issue-id">508784</issue-id><issue-id pub-id-type="doi">10.1002/adma.v38.13</issue-id><elocation-id>e14370</elocation-id><history>
+<date date-type="rev-recd"><day>15</day><month>12</month><year>2025</year></date>
+<date date-type="received"><day>07</day><month>8</month><year>2025</year></date>
+<date date-type="accepted"><day>26</day><month>12</month><year>2025</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>04</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>05</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-05 00:25:12.933"><day>05</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Advanced Materials</italic> published by Wiley‐VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ADMA-38-e14370.pdf"><?pdf-name ADMA-38-e14370.pdf?><?pdf-size 2757968?><?pdf-md5 b067f66810e1f278e5e1470a5a419251?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:4fee/12957869/b067f66810e1/ADMA-38-e14370.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ADMA-38-e14370.pdf"/><abstract><title>ABSTRACT</title><p>Interest continues to grow in the use of mRNA vaccines and therapeutics. While effective for immunization against infectious diseases, lipid nanoparticle (LNP) formulations used for other mRNA delivery applications suffer from off‐target accumulation, poor immune transfection, and reactogenicity, limiting their application to immunoengineering. Development of new mRNA LNPs is severely bottlenecked by the LNP discovery process, which is historically low‐throughput due to reliance on low‐plex measurements. Here, we develop a high‐throughput in vivo mRNA LNP screening platform based on barcoded mRNA (b‐mRNA). Using this b‐mRNA screening platform to simultaneously evaluate 122 LNPs, we identify novel LNP formulations capable of potent hepatic and extrahepatic transfection. We evaluate a lead LNP candidate for in situ immune modulation in a syngeneic mouse model of melanoma and demonstrate a significant reduction in tumor burden and extended survival compared to mice treated with a gold standard mRNA LNP formulation. We employ novel biochemical characterization techniques to analyze nanoparticle protein corona formation with single‐particle resolution and gain insight into the influence of protein adsorption on hepatic and splenic transfection. Together, our results demonstrate the value of advanced LNP screening and characterization techniques for the development of next‐generation mRNA LNPs for immunoengineering.</p></abstract><abstract id="adma72049-abs-0001" abstract-type="graphical"><p>A high‐throughput in vivo mRNA LNP screening platform is developed and employed to screen a large library of 122 mRNA LNPs in vivo for delivery to immune, stromal, and parenchymal cells, identifying promising LNP candidates. A novel small particle flow cytometry‐based protein adsorption analysis method is utilized to interrogate protein corona formation and possible endogenous leukocyte targeting mechanisms. 
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ADMA-38-e14370-g005.jpg"><?image-name ADMA-38-e14370-g005.jpg?><?image-size 17201?><?image-md5 c286bbe832b47326b001611f300c629a?><?image-image-server-status NEVER_LOAD?><?image-original-height 167?><?image-original-width 180?><?image-scaled-height 167?><?image-scaled-width 180?><?image-cloudpmc-urn urn:cdn:blobs/4fee/12957869/c286bbe832b4/ADMA-38-e14370-g005.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="adma72049-kwd-0001">barcode</kwd><kwd id="adma72049-kwd-0002">high‐throughput screening</kwd><kwd id="adma72049-kwd-0003">lipid nanoparticle</kwd><kwd id="adma72049-kwd-0004">mRNA</kwd><kwd id="adma72049-kwd-0005">nanoparticle</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Abramson Cancer Center</institution><institution-id institution-id-type="doi">10.13039/100017006</institution-id></institution-wrap>
+</funding-source><award-id>P30 016520</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>National Institutes of Health</institution><institution-id institution-id-type="doi">10.13039/100000002</institution-id></institution-wrap>
+</funding-source><award-id>DP2 TR002776</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>National Institute of Child Health and Human Development</institution><institution-id institution-id-type="doi">10.13039/100000071</institution-id></institution-wrap>
+</funding-source><award-id>R01 HD115877</award-id></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>National Science Foundation</institution><institution-id institution-id-type="doi">10.13039/100000001</institution-id></institution-wrap>
+</funding-source><award-id>CBET‐2145491</award-id></award-group><award-group id="funding-0005"><funding-source>
+<institution-wrap><institution>Burroughs Wellcome Fund</institution><institution-id institution-id-type="doi">10.13039/100000861</institution-id></institution-wrap>
+</funding-source></award-group><award-group id="funding-0006"><funding-source>
+<institution-wrap><institution>NSF GRFP fellowships</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="16"/><word-count count="11175"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>3 March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:04.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="adma72049-sec-0010"><label>1</label><title>Introduction</title><p>mRNA vaccines have emerged as a revolutionary immunization technology following the clinical success of the Pfizer/BioNTech and Moderna coronavirus disease 2019 (COVID) vaccines [<xref rid="adma72049-bib-0001" ref-type="bibr">1</xref>]. The rapid development and approval of these vaccines demonstrated the strengths of mRNA technology, which by nature is substantially more modular than previous subunit vaccines [<xref rid="adma72049-bib-0002" ref-type="bibr">2</xref>, <xref rid="adma72049-bib-0003" ref-type="bibr">3</xref>]. In addition to improving manufacturability, this modularity enables the ready generalization of mRNA vaccines to other disease targets, work which is well represented by myriad ongoing clinical trials and the recent U.S. Food and Drug Administration (FDA) approval of mRESVIA, an mRNA vaccine against respiratory syncytial virus (RSV) [<xref rid="adma72049-bib-0004" ref-type="bibr">4</xref>, <xref rid="adma72049-bib-0005" ref-type="bibr">5</xref>, <xref rid="adma72049-bib-0006" ref-type="bibr">6</xref>]. An emerging area of interest is the development of mRNA‐based cancer vaccines, especially as the modularity and rapid production capacity of mRNA vaccines is well‐suited for the development of personalized neoantigen vaccines [<xref rid="adma72049-bib-0007" ref-type="bibr">7</xref>].</p><p>The promise of mRNA vaccines and therapeutics can only be realized through successful delivery of mRNA to cells, a significant engineering challenge that has taken decades to overcome [<xref rid="adma72049-bib-0004" ref-type="bibr">4</xref>]. The premier mRNA delivery technology is lipid nanoparticles (LNPs), which possess adjuvant properties that make them particularly appealing for mRNA vaccines [<xref rid="adma72049-bib-0008" ref-type="bibr">8</xref>]. However, while current mRNA LNP formulations have been successful in the clinic, they are not without their shortcomings. Notable limitations of mRNA LNPs include nonspecific accumulation—primarily in the liver upon intravenous administration—and poor transfection of immune cells [<xref rid="adma72049-bib-0009" ref-type="bibr">9</xref>]. As the primary mRNA delivery target for in vivo immunotherapy is immune cells in secondary lymphoid organs, these propensities lead to a need to develop new mRNA LNP formulations with improved transfection profiles for immunoengineering [<xref rid="adma72049-bib-0010" ref-type="bibr">10</xref>].</p><p>The typical mRNA LNP development pipeline relies heavily on screening approaches based on reporter genes encoding bioluminescent or fluorescent proteins [<xref rid="adma72049-bib-0011" ref-type="bibr">11</xref>]. While effective, LNP screening using reporter genes is inherently low‐throughput, limiting the speed of the LNP discovery process. To overcome this challenge, our group and others have previously reported on the development of high‐throughput screening (HTS) methodologies based on next‐generation sequencing (NGS) for the rapid evaluation of large LNP libraries directly in vivo [<xref rid="adma72049-bib-0012" ref-type="bibr">12</xref>, <xref rid="adma72049-bib-0013" ref-type="bibr">13</xref>]. In these methods, each LNP formulation tested is formulated containing a distinct nucleic acid sequence, each of which differs only in a short “barcode” sequence. This polymorphism enables matching of delivered cargo to the carrier that transported it, and highly multiplexed NGS can be used to evaluate the accumulation profiles of the barcoded payloads and hence the LNPs in question. These HTS approaches can therefore greatly accelerate the LNP discovery process by allowing the simultaneous in vivo evaluation of dozens or even hundreds of LNP formulations in a single cohort of animals. High‐throughput LNP screening studies typically employ barcoded DNA (b‐DNA), either solely encapsulated or co‐encapsulated with mRNA to more closely mimic the properties of mRNA LNPs [<xref rid="adma72049-bib-0011" ref-type="bibr">11</xref>, <xref rid="adma72049-bib-0014" ref-type="bibr">14</xref>, <xref rid="adma72049-bib-0015" ref-type="bibr">15</xref>]. Our group has previously reported the development of an HTS platform based on b‐mRNA in a proof‐of‐concept study, demonstrating improved screening fidelity compared to b‐DNA screening of the same LNPs [<xref rid="adma72049-bib-0016" ref-type="bibr">16</xref>]. An optimized b‐mRNA screening technology could help accelerate the development of new vaccines and therapeutics.</p><p>While current efforts in the development of novel mRNA LNPs are bottlenecked by the screening process, there is also a growing need to develop principles to direct the design of future nanoparticle libraries. Key to the production of these design principles is a greater understanding of phenomena driving in vivo tropism and transfection of current mRNA LNPs. HTS is well‐suited to produce large datasets describing these characteristics of LNPs, and our group has previously leveraged HTS approaches to begin addressing these questions [<xref rid="adma72049-bib-0011" ref-type="bibr">11</xref>, <xref rid="adma72049-bib-0017" ref-type="bibr">17</xref>]. It is generally accepted that intravenously (i.v.) administered ribonucleic acid (RNA) LNPs are prone to formation of an apolipoprotein E (ApoE)‐rich protein corona due to preferential adsorption of ApoE from serum [<xref rid="adma72049-bib-0018" ref-type="bibr">18</xref>, <xref rid="adma72049-bib-0019" ref-type="bibr">19</xref>, <xref rid="adma72049-bib-0020" ref-type="bibr">20</xref>]. Adsorbed ApoE is thought to interact with low‐density lipoprotein receptors (LDLRs) expressed by hepatocytes and other cells in the liver, leading to predominantly hepatic LNP uptake and RNA tranfection [<xref rid="adma72049-bib-0021" ref-type="bibr">21</xref>]. Recent studies have reported the development of novel mRNA LNPs that demonstrate pronounced adsorption of serum proteins other than ApoE, such as <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐glycoprotein 1 (<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI) and vitronectin (Vtn) [<xref rid="adma72049-bib-0022" ref-type="bibr">22</xref>]. As HTS and other screening approaches enable the discovery of novel LNPs with extrahepatic transfection properties, the continued and broadened analysis of factors such as protein corona formation may help investigators to identify design principles for future LNP development. Ideally, methods for such analysis should be both accessible and high‐throughput to facilitate the rapid development of next‐generation therapeutics and vaccines.</p><p>In this work, we develop and validate a HTS platform for nucleic acid drug delivery based on b‐mRNA. We then employ this HTS platform to screen a large library of 122 distinct LNPs, identifying promising LNP formulations for in vivo mRNA delivery to parenchymal and immune cells. After confirming the potency of several novel LNP formulations for both hepatic and extrahepatic mRNA delivery, we evaluate our lead mRNA LNPs for immunization in a preclinical mouse melanoma model and demonstrate significantly decreased tumor burden and extended survival in mice compared to those treated with gold standard mRNA LNP formulations, highlighting the utility of our b‐mRNA screening platform for accelerating mRNA LNP discovery. Finally, we evaluate biochemical influences on in vivo LNP tropism on a single‐particle scale using small particle flow cytometric techniques, uncovering a nuanced relationship between serum protein adsorption and LNP fate and demonstrating the utility of HTS and advanced characterization techniques for accelerating the development of next‐generation mRNA‐based immunotherapies.</p></sec><sec id="adma72049-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="adma72049-sec-0030"><label>2.1</label><title>Development and Validation of a Barcoded mRNA Platform</title><p>Our group and others have previously reported the use of HTS approaches based on b‐DNA for LNP delivery screening [<xref rid="adma72049-bib-0011" ref-type="bibr">11</xref>, <xref rid="adma72049-bib-0012" ref-type="bibr">12</xref>, <xref rid="adma72049-bib-0013" ref-type="bibr">13</xref>, <xref rid="adma72049-bib-0014" ref-type="bibr">14</xref>]. While effective, these screening approaches suffer from the drawback that LNP physicochemical and delivery properties are strongly influenced by the nature of the encapsulated payload [<xref rid="adma72049-bib-0023" ref-type="bibr">23</xref>, <xref rid="adma72049-bib-0024" ref-type="bibr">24</xref>, <xref rid="adma72049-bib-0025" ref-type="bibr">25</xref>]. The issue of cargo‐carrier interdependence can be partially circumvented through the dual encapsulation of mRNA with low amounts of b‐DNA to produce more “mRNA‐like” LNPs, as demonstrated previously [<xref rid="adma72049-bib-0011" ref-type="bibr">11</xref>, <xref rid="adma72049-bib-0026" ref-type="bibr">26</xref>]. Ultimately, however, b‐DNA screening methods track the b‐DNA molecule rather than the mRNA cargo of interest. To allow accurate tracking of mRNA cargo distribution in a high‐throughput manner, our group has previously reported a proof‐of‐concept b‐mRNA platform [<xref rid="adma72049-bib-0016" ref-type="bibr">16</xref>]. Using this platform, we demonstrated that moving the barcode sequence to the mRNA molecule was feasible and, moreover, yielded more accurate results than b‐DNA screening. In the present work, we sought to establish a next‐generation b‐mRNA platform for high‐fidelity in vivo mRNA LNP screening, sufficient for screening large pooled LNP libraries for extrahepatic mRNA delivery.</p><p>As error correction is an important consideration for pooled screening approaches, we first employed an in silico optimization approach to develop a large pool of 12 nt barcodes with error correction capabilities [<xref rid="adma72049-bib-0027" ref-type="bibr">27</xref>]. We sorted the resultant list of 1814 barcodes by edit distance and selected the 200 sequences with the greatest average edit distance (Table <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S1</xref>). Based on these optimized sequences, we created 200 distinct double‐stranded DNA (dsDNA) templates for in vitro transcription (IVT) differing only in the barcode sequence. Mature b‐mRNA contained as primary features a m<sup>7</sup>GpppAmG “cap 1” structure, a 5' untranslated region (UTR), a codon‐optimized enhanced green fluorescent protein (EGFP) coding sequence (CDS), a 3′ UTR, a 12 nt barcode sequence, a short “clamp” sequence, and a poly(A) tail (Figure <xref rid="adma72049-fig-0001" ref-type="fig">1a</xref>). b‐mRNA products demonstrated uniform electrophoretic mobility (Figure <xref rid="adma72049-fig-0001" ref-type="fig">1b</xref>), suggesting comparable size and degree of polyadenylation across sequences. Moreover, Sanger sequencing of selected b‐mRNAs and subsequent sequence alignment yielded a strong consensus sequence, with strong alignment to desired sequences within the fixed regions and expected polymorphism within the 12 nt barcode region (Figure <xref rid="adma72049-fig-0001" ref-type="fig">1c</xref>). To evaluate the ability of b‐mRNA to facilitate transgene expression, we treated HeLa cells with C12‐494 mRNA LNPs containing a pool of all 200 candidate b‐mRNAs (Figure <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S1</xref>) and compared expression of EGFP to cells treated with the same mRNA LNP formulation encapsulating barcode‐free EGFP mRNA. As expected, we observed that EGFP expression did not appear to be influenced by the presence of barcode sequences (Figure <xref rid="adma72049-fig-0001" ref-type="fig">1d</xref>).</p><fig position="float" fig-type="FIGURE" id="adma72049-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Development of a next‐generation barcoded mRNA platform. (a) Schematic overview of b‐mRNA synthesis through sequential PCR, IVT, and enzymatic polyadenylation. (b) Representative data from Agilent TapeStation RNA electrophoresis demonstrating integrity and uniform size of b‐mRNA products. (c) Logo visualization of sequence alignment from Sanger sequencing of randomly selected b‐mRNAs demonstrating strong alignment outside of the 12 nt polymorphic barcode region. (d) Representative histogram of EGFP expression demonstrating indistinguishable transgene expression following transfection with equal amounts of EGFP mRNA (green) or EGFP b‐mRNA (purple). Data from HeLa cells treated with saline are shown in gray. (e) Schematic overview of procedure for narrowing of the pool of 200 b‐mRNAs to avoid bias from unwanted cellular interactions. (f) Violin plots illustrating relative homogeneity of b‐mRNA accumulation within each tissue of interest. (g) Enrichment analysis results for selection of b‐mRNA candidates from pool narrowing experiments. b‐mRNAs demonstrating 20% enrichment or depletion (outside the shaded area) were excluded from later use.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ADMA-38-e14370-g006.jpg"><?image-name ADMA-38-e14370-g006.jpg?><?image-size 98227?><?image-md5 f71d792f889280cb872fcefdab358911?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 785?><?image-original-width 820?><?image-scaled-height 523?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/4fee/12957869/f71d792f8892/ADMA-38-e14370-g006.jpg?><?thumb-name ADMA-38-e14370-g006.gif?><?thumb-size 7420?><?thumb-md5 13b731e8e64dd77bf70c2e7065717827?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 96?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4fee/12957869/13b731e8e64d/ADMA-38-e14370-g006.gif?></graphic></fig><p>As RNA in the cellular compartment is subject to a plethora of sequence‐dependent interactions and regulatory pathways [<xref rid="adma72049-bib-0028" ref-type="bibr">28</xref>, <xref rid="adma72049-bib-0029" ref-type="bibr">29</xref>], we next sought to eliminate any b‐mRNAs demonstrating differential performance across tissues or cell types. In particular, as endogenous microRNA (miRNA) binding sites are generally considered to be 6 to 8 nt in length [<xref rid="adma72049-bib-0030" ref-type="bibr">30</xref>], we anticipated the possibility of differential miRNA binding to b‐mRNAs within the 12 nt barcode region. As the prevalence of miRNA species differs across tissues and cell types even under homeostatic conditions [<xref rid="adma72049-bib-0031" ref-type="bibr">31</xref>, <xref rid="adma72049-bib-0032" ref-type="bibr">32</xref>, <xref rid="adma72049-bib-0033" ref-type="bibr">33</xref>], differential miRNA binding to b‐mRNA could be expected to lead to bias in screening results if overlooked. To avoid screening bias arising from barcode polymorphism, we performed an in vivo study of b‐mRNA accumulation (Figure <xref rid="adma72049-fig-0001" ref-type="fig">1e</xref>). We pooled all 200 b‐mRNAs together and encapsulated this pooled library into a single C12‐494 LNP formulation, which we then administered systemically to healthy C57BL/6 mice. We collected peripheral blood, hearts, kidneys, livers, lungs, and spleens from treated mice to assess bioaccumulation of each b‐mRNA via NGS. As expected, distributions of relative b‐mRNA accumulation were largely symmetric and central (Figure <xref rid="adma72049-fig-0001" ref-type="fig">1f</xref>). We performed a formal enrichment analysis to identify and eliminate b‐mRNAs demonstrating statistically significant enrichment or depletion, suggestive of unwanted interactions with endogenous cellular machinery (Figure <xref rid="adma72049-fig-0001" ref-type="fig">1g</xref>), yielding a library of 134 b‐mRNAs suitable for pooled in vivo mRNA delivery screening (Table <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="adma72049-sec-0040"><label>2.2</label><title>High‐Throughput In Vivo Screening of LNP‐Mediated Cellular mRNA Delivery</title><p>Having developed a platform for high‐throughput in vivo LNP screening, we set out to investigate cellular mRNA delivery facilitated by novel mRNA LNPs. Our group has previously reported that, under systemic administration, ionizable lipid structure plays a pivotal role in LNP cellular tropism [<xref rid="adma72049-bib-0011" ref-type="bibr">11</xref>]. We therefore opted to screen a large library of novel ionizable lipids, largely focused on a set of biodegradable lipids easily synthesized through a “plug‐and‐play” strategy from commercial reagents (Figure <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S2</xref>). We have observed strong liver transfection by a subset of these lipids and reasoned that a more detailed investigation of tropism would yield interesting findings in the liver and beyond [<xref rid="adma72049-bib-0034" ref-type="bibr">34</xref>]. We synthesized 120 “plug‐and‐play” ionizable lipids and used them to formulate b‐mRNA LNPs (Figures <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S3</xref>–<xref rid="adma72049-supl-0001" ref-type="supplementary-material">S9</xref>). We also included several field‐standard and industry‐standard ionizable lipids as controls, including C12‐200 [<xref rid="adma72049-bib-0035" ref-type="bibr">35</xref>], cKK‐E12 [<xref rid="adma72049-bib-0036" ref-type="bibr">36</xref>], DLin‐MC3‐DMA [<xref rid="adma72049-bib-0037" ref-type="bibr">37</xref>], 306O<sub>i10</sub> [<xref rid="adma72049-bib-0038" ref-type="bibr">38</xref>], SM‐102 [<xref rid="adma72049-bib-0039" ref-type="bibr">39</xref>], and ALC‐0315 [<xref rid="adma72049-bib-0040" ref-type="bibr">40</xref>]. We further included the ionizable lipids previously reported by our group C14‐482, C14‐488, C16‐488, C12‐494, C14‐494, C16‐494, and C14‐c494, each of which has shown promise across various RNA delivery applications [<xref rid="adma72049-bib-0011" ref-type="bibr">11</xref>, <xref rid="adma72049-bib-0041" ref-type="bibr">41</xref>, <xref rid="adma72049-bib-0042" ref-type="bibr">42</xref>, <xref rid="adma72049-bib-0043" ref-type="bibr">43</xref>]. All told, we synthesized 133 b‐mRNA LNPs for evaluation (Table <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S3</xref>). Typical for screening experiments using large numbers of candidate LNPs [<xref rid="adma72049-bib-0012" ref-type="bibr">12</xref>, <xref rid="adma72049-bib-0013" ref-type="bibr">13</xref>], a small number of our formulated LNPs demonstrated poor encapsulation, likely due to ineffective complexation with certain ionizable lipids. We therefore pooled 122 resultant LNPs demonstrating sufficient mRNA encapsulation (Figure <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S10</xref>) with a “naked” b‐mRNA, then administered this pool systemically to both C57BL/6 and <italic toggle="yes">APOE</italic>
+<sup>–/–</sup> mice to assess ApoE‐dependent and ‐independent mRNA delivery. We collected lungs, spleens, livers, and peripheral blood from treated mice and performed fluorescence‐activated cell sorting (FACS) to isolate cell populations of interest before preparing libraries for sequencing via NGS. As intracellular exogenous mRNA is vulnerable to enzymatic degradation, we opted to analyze b‐mRNA accumulation at a relatively short time following treatment to avoid potential screening bias introduced by extensive degradation. However, peak mRNA translation occurs relatively late after treatment, well after mRNA degradation onset would be expected [<xref rid="adma72049-bib-0025" ref-type="bibr">25</xref>]. Future studies may wish to analyze results at later time points to be able to correlate mRNA transfection with b‐mRNA accumulation data. Alternatively, some form of fluorescence signal amplification, such as anti‐EGFP antibodies, could help extend the fluorescence detection window to better align with the window for maximum b‐mRNA recovery. While difficult to perform in bulk, chemical modification of the b‐mRNA backbone may also enhance intracellular stability and allow for simultaneous transfection and accumulation measurements with minimal bias [<xref rid="adma72049-bib-0044" ref-type="bibr">44</xref>].</p><p>Using NGS data, we analyzed the biodistribution profile of b‐mRNA LNPs within our library. In wild‐type mice, several candidate LNP formulations demonstrated both hepatic and extrahepatic tropism (Figure <xref rid="adma72049-fig-0002" ref-type="fig">2a</xref>). In <italic toggle="yes">APOE</italic>
+<sup>–/–</sup> mice, more standout LNP formulations appeared, likely due to the absence of ApoE‐mediated LNP clearance in the liver (Figure <xref rid="adma72049-fig-0002" ref-type="fig">2b</xref>) [<xref rid="adma72049-bib-0018" ref-type="bibr">18</xref>]. Across both genotypes, we observed only modest specificity of delivery, with uptake by a given cell type generally correlating well with uptake by other cell types, with the main exceptions of liver endothelium in wild‐type mice and lung leukocytes in <italic toggle="yes">APOE</italic>
+<sup>–/–</sup> mice (Figure <xref rid="adma72049-fig-0002" ref-type="fig">2c,d</xref>). More interestingly, however, we observed generally strong correlation between accumulation profiles in wild‐type and knockout mice, suggestive of ApoE‐independent hepatic and extrahepatic transfection (Figure <xref rid="adma72049-fig-0002" ref-type="fig">2e</xref>). Based on NGS results, we selected LNPs 9, 37, 94, 96, 97, and 112 for further evaluation.</p><fig position="float" fig-type="FIGURE" id="adma72049-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Overview of barcoded mRNA LNP screening results. (a,b) Mean normalized intracellular b‐mRNA accumulation in cell subsets in the blood, lungs, liver, and spleen of C57BL/6 (a) and <italic toggle="yes">APOE</italic>
+<sup>–/–</sup> (b) mice. (c–e) Pairwise Pearson correlation coefficients for b‐mRNA accumulation in each sorted cell population in C57BL/6 mice (c), <italic toggle="yes">APOE</italic>
+<sup>–/–</sup> mice (d), and C57BL/6 mice vs. <italic toggle="yes">APOE</italic>
+<sup>–/–</sup> mice (e).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ADMA-38-e14370-g001.jpg"><?image-name ADMA-38-e14370-g001.jpg?><?image-size 121855?><?image-md5 ec23b280d87337575044db1256afb4a0?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 835?><?image-original-width 820?><?image-scaled-height 556?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/4fee/12957869/ec23b280d873/ADMA-38-e14370-g001.jpg?><?thumb-name ADMA-38-e14370-g001.gif?><?thumb-size 10421?><?thumb-md5 56813e79324abc74ee0aa559d7e4153e?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 102?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4fee/12957869/56813e79324a/ADMA-38-e14370-g001.gif?></graphic></fig><p>These LNPs contained the biodegradable ionizable lipids 2D8, 7D4, 17D8i, 17D9.2, 18D4, and 20D8i, respectively [<xref rid="adma72049-bib-0034" ref-type="bibr">34</xref>]. In accordance with previous findings by our group [<xref rid="adma72049-bib-0011" ref-type="bibr">11</xref>], we observed a nuanced relationship between ionizable lipid structure and intracellular accumulation in cell types of interest, with few structural features appearing to be universally favorable (Figure <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S14</xref>). This highlights a major strength of high‐throughput screening as employed here: rather than relying on a priori knowledge of difficult‐to‐establish relationships between general lipid structural features and function to narrow candidate LNP libraries to a tractable size, entire expanded libraries can instead be directly evaluated in vivo in an unbiased manner.</p></sec><sec id="adma72049-sec-0050"><label>2.3</label><title>Validation of Lead LNP Candidates for Extrahepatic mRNA Transfection</title><p>To confirm transfection of lead mRNA LNP candidates identified by our high‐throughput b‐mRNA screen, we performed low‐throughput validation studies. We first assessed the extrahepatic transfection capabilities of our LNPs at the organ level. We treated C57BL/6 mice with the selected LNP candidates encapsulating NanoLuc mRNA at a low dose and assessed organ transfection using bioluminescence imaging (Figure <xref rid="adma72049-fig-0003" ref-type="fig">3a</xref>). Interestingly, all novel LNP candidates tested demonstrated clear splenic transfection, with most demonstrating minimal liver transfection. To aid in evaluating tropism of candidate mRNA LNP, we quantified splenic vs. hepatic luminescence signal to classify LNPs as spleen‐ or liver‐tropic (Figure <xref rid="adma72049-fig-0003" ref-type="fig">3b</xref>). Interestingly, LNPs 9, 37, 94, 96, and 112 demonstrated splenic transfection with relatively little liver transfection, causing us to classify them as spleen‐tropic. LNP 97 demonstrated strong hepatic transfection, causing us to classify it as liver‐tropic. As expected, SM‐102 LNPs were also classified as liver‐tropic, though they did additionally demonstrate strong splenic transfection. Excitingly, LNP 112 achieved extremely strong splenic transfection, with comparable spleen luminescence to SM‐102 LNPs and over an order‐of‐magnitude decrease in liver luminescence, sufficient to shift its classification to spleen‐tropic. As such, LNP 112 emerged from first‐pass validation as our lead LNP candidate for in vivo reprogramming of splenocytes.</p><fig position="float" fig-type="FIGURE" id="adma72049-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Validation of lead mRNA LNP candidates. (a,b) Representative NanoLuc luminescence images (a) and region‐of‐interest quantification (b) for lead candidate LNPs evaluated. C57BL/6 mice were treated with mRNA LNPs at a dose of 0.1 mg/kg encapsulated mRNA to verify transfection and tropism. (c,d) Representative flow cytometry histograms of DiR signal in Kupffer cells (c) and detailed quantification of DiR positivity rate in major cell populations of the liver (d) following treatment with DiR‐labeled mRNA LNPs. (e,f) Representative flow cytometry histograms of EGFP expression in Kupffer cells (e) and detailed quantification of EGFP positivity rate in major cell populations of the liver (f) following treatment with lead EGFP mRNA LNPs. (g,h) Representative flow cytometry histograms of DiR signal in splenic macrophages (g) and detailed quantification of DiR positivity rate in major cell populations of the spleen (h) following treatment with DiR‐labeled mRNA LNPs. (i,j) Representative flow cytometry histograms of EGFP expression in splenic macrophages (i) and detailed quantification of EGFP positivity rate in major cell populations of the spleen (j) following treatment with lead EGFP mRNA LNPs. C57BL/6 mice were treated with DiR‐labeled EGFP mRNA LNPs at a dose of 0.6 mg/kg encapsulated mRNA to investigate detailed cellular tropism and transfection.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ADMA-38-e14370-g002.jpg"><?image-name ADMA-38-e14370-g002.jpg?><?image-size 93562?><?image-md5 472ccbe2551afda887a2c3a266543674?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 725?><?image-original-width 820?><?image-scaled-height 483?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/4fee/12957869/472ccbe2551a/ADMA-38-e14370-g002.jpg?><?thumb-name ADMA-38-e14370-g002.gif?><?thumb-size 7466?><?thumb-md5 71bbfe1ccb0532e65d97c33576c4ac0d?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 88?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4fee/12957869/71bbfe1ccb05/ADMA-38-e14370-g002.gif?></graphic></fig><p>Having established the potency of lead mRNA LNP candidates, we next sought to investigate cellular tropism in greater detail. To this end, we treated C57BL/6 mice with fluorescently labeled EGFP mRNA LNPs and performed flow cytometry to analyze accumulation at the cellular level. In the liver, we observed generally high LNP accumulation in Kupffer cells, with lower degrees of accumulation occurring in hepatocytes and non‐Kupffer leukocytes (Figure <xref rid="adma72049-fig-0003" ref-type="fig">3c,d</xref>). For most LNPs tested, we generally observed greater transfection of Kupffer cells than other liver cell types, which agrees well with observed accumulation data (Figure <xref rid="adma72049-fig-0003" ref-type="fig">3e,f</xref>). However, SM‐102 LNPs demonstrated very strong transfection of hepatocytes—over 50% on average—and appreciable but less marked transfection of liver endothelial cells. Strikingly, LNP 97 mediated even stronger hepatic transfection than SM‐102 LNPs, attaining nearly 80% mean hepatocyte transfection and roughly 20% transfection of liver endothelial cells. These impressive hepatic transfection characteristics make LNP 97 a promising candidate for treating disorders of the liver and may further make it an interesting prospect for treating autoimmune disorders by leveraging the tolerizing environment of the liver [<xref rid="adma72049-bib-0045" ref-type="bibr">45</xref>].</p><p>In the spleen, our tested LNPs largely accumulated in myeloid cells (Figure <xref rid="adma72049-fig-0003" ref-type="fig">3g,h</xref>). LNP 96, LNP 97, and SM‐102 LNPs demonstrated indistinguishable accumulation in splenic macrophages, each reaching in excess of 70%. LNPs 9 and 94 each accumulated in roughly 40% of splenic macrophages, while LNPs 37 and 112 demonstrated substantially lower accumulation. LNP 96, LNP 97, and SM‐102 similarly demonstrated the greatest accumulation in dendritic cells (DCs) of LNPs tested, each reaching at least 30%, while LNPs 9 and 94 again demonstrated lower accumulation and LNPs 37 and 112 again demonstrated lower signal. Strikingly, LNP 112 demonstrated remarkable transfection of splenic myeloid cells, attaining over 10% mean transfection of splenic macrophages and over 6% mean transfection of splenic DCs (Figure <xref rid="adma72049-fig-0003" ref-type="fig">3i,j</xref>). As with the liver, despite its low accumulation in myeloid cells, LNP 112 demonstrated strong transfection of these cell types in the spleen, an exciting finding for vaccine applications. Tissue‐resident macrophages have previously been shown to mediate transfer of mRNA LNP cargo to other cell types, which may partially explain the observed discrepencies between LNP accumulation and mRNA translation [<xref rid="adma72049-bib-0046" ref-type="bibr">46</xref>]. Future studies may wish to leverage approaches such as radioisotope labeling to precisely track lipid and mRNA components of LNPs to better understand mechanisms of cargo transport and lipid clearance [<xref rid="adma72049-bib-0047" ref-type="bibr">47</xref>]. Altogether, validation experiments demonstrated the potential of lead LNPs for both hepatic and extrahepatic mRNA delivery, identifying LNP 112 as a lead candidate for the in vivo engineering of splenocytes.</p><p>It is important to note that our in vivo data are collected in C57BL/6 mice. It is possible that tropism and immune responses to vaccination with lead immunotropic LNPs formulations may differ in other strains of mouse and in higher animals. Previous studies evaluating LNP biodistribution in primatized and humanized mice have demonstrated differential cellular responses to LNP treatment [<xref rid="adma72049-bib-0048" ref-type="bibr">48</xref>]. To translate HTS findings to the clinic, it will be important to evaluate LNP candidates in higher species. Our pooled screening approach based on b‐mRNA is well‐suited for mRNA LNP evaluation in higher species such as non‐human primates (NHPs) with minimal resource requirements and could help to facilitate the clinical translation of immunotropic mRNA LNPs [<xref rid="adma72049-bib-0049" ref-type="bibr">49</xref>].</p></sec><sec id="adma72049-sec-0060"><label>2.4</label><title>Evaluation of mRNA LNP Therapeutic Effect in a Syngeneic Mouse Model of Melanoma</title><p>Based on the strong performance of LNP 112 for transfection of splenic antigen‐presenting cells (APCs), we sought to evaluate its potential for use in a cancer vaccine application. To this end, we established a syngeneic mouse melanoma model by inoculating C57BL/6 mice of mixed sex with B16‐OVA melanoma cells. After allowing tumors to engraft, we treated mice with one of four treatments at a 5 d prime‐boost interval (Figure <xref rid="adma72049-fig-0004" ref-type="fig">4a</xref>): (i) phosphate‐buffered saline (PBS) (negative control), (ii) LNP 112 encapsulating antigen‐irrelevant firefly luciferase (FLuc) mRNA (vehicle control), (iii) LNP 112 encapsulating ovalbumin (OVA) antigen mRNA, or (iv) SM‐102 LNPs encapsulating OVA mRNA (clinical control). We closely monitored mouse body weight (Figure <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S15</xref>), tumor volume (Figure <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S16</xref>), and survival over the course of 60 d. Excitingly, LNP 112 encapsulating OVA mRNA demonstrated a strong therapeutic effect, substantially reducing tumor burden compared to any other treatment group over the course of 21 d (Figure <xref rid="adma72049-fig-0004" ref-type="fig">4b</xref>) and significantly extending survival (Figure <xref rid="adma72049-fig-0004" ref-type="fig">4c</xref>), with a median survival time of 31 d. Notably, of the 12 mice treated with LNP 112 containing OVA mRNA, 2 mice entirely cleared their tumors following the boost dose.</p><fig position="float" fig-type="FIGURE" id="adma72049-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Evaluation of lead mRNA LNP candidate in a preclinical therapeutic cancer vaccine model. (a) Schematic representation of murine syngeneic melanoma solid tumor disease model timeline. Tumors were established by inoculating C57BL/6 mice with B16‐OVA melanoma cells and mice were subsequently treated i.v. with PBS, LNP 112 encapsulating FLuc mRNA, LNP 112 encapsulating OVA mRNA, or SM‐102 LNPs encapsulating OVA mRNA with a 5 d prime‐boost interval. (b,c) Tumor burden (b) and survival (c) curves. (d–f) Reciprocal endpoint total anti‐OVA IgG (d), anti‐OVA IgG1 (e), and anti‐OVA IgG2c (f) titers of mice treated with OVA mRNA LNPs. (g) Ratio of endpoint reciprocal anti‐OVA IgG1 to anti‐OVA IgG2c titer in sera of mice treated with OVA mRNA LNPs. Tumor burden and survival data are summarized from <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-3" display="inline"><mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mo>≥</mml:mo><mml:mn>9</mml:mn></mml:mrow></mml:mrow></mml:math> mice per treatment group, while antibody titer data represent <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-4" display="inline"><mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn></mml:mrow></mml:mrow></mml:math> animals per group. Significance annotations without bars indicate comparisons to PBS‐treated mice. *: <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-5" display="inline"><mml:mrow><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:mrow></mml:math>. **: <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-6" display="inline"><mml:mrow><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn>0.01</mml:mn></mml:mrow></mml:mrow></mml:math>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ADMA-38-e14370-g004.jpg"><?image-name ADMA-38-e14370-g004.jpg?><?image-size 71070?><?image-md5 300dc2a1837c60d2f8068dc057111055?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 808?><?image-original-width 820?><?image-scaled-height 538?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/4fee/12957869/300dc2a1837c/ADMA-38-e14370-g004.jpg?><?thumb-name ADMA-38-e14370-g004.gif?><?thumb-size 6444?><?thumb-md5 a6d0c2c4225be906d835c018ca7bccf1?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 99?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4fee/12957869/a6d0c2c4225b/ADMA-38-e14370-g004.gif?></graphic></fig><p>To characterize the immune response to vaccination with LNP 112, we collected mouse sera 7 d following the boost dose. To characterize the humoral immune response, we quantified reciprocal endpoint anti‐OVA antibody titers using enzyme‐linked immunosorbent assays (ELISAs). Interestingly, despite the clearly superior performance of LNP 112 to SM‐102 LNPs, total anti‐OVA immunoglobulin G (IgG) appeared to be comparable between the groups (Figure <xref rid="adma72049-fig-0004" ref-type="fig">4d</xref>). However, analysis of antibody isotypes showed significantly higher endpoint antigen‐specific immunoglobulin G 1 (IgG1) titers for the LNP 112‐treated group (Figure <xref rid="adma72049-fig-0004" ref-type="fig">4e</xref>), with comparable endpoint immunoglobulin G 2c (IgG2c) titers (Figure <xref rid="adma72049-fig-0004" ref-type="fig">4f</xref>). As a result, quantified endpoint antigen‐specific IgG1:IgG2c titer ratios were significantly greater for mice treated with LNP 112 compared to those treated with SM‐102 LNPs (Figure <xref rid="adma72049-fig-0004" ref-type="fig">4g</xref>). As IgG1 production is indicative of a type 2 helper T (<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-7" display="inline"><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:mrow></mml:math>2) immune response while IgG2c production indicates a type 1 helper T (<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-8" display="inline"><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:mrow></mml:math>1) response, these results suggest a greater <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-9" display="inline"><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:mrow></mml:math>2 bias in mice vaccinated with LNP 112 compared to SM‐102 LNPs. The improved efficacy of LNP 112 in evoking anti‐tumor responses may therefore be due to enhanced induction of humoral immunity compared to SM‐102 LNPs.</p><p>Previous findings suggest that a <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-10" display="inline"><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:mrow></mml:math>1‐biased response may be favorable for cancer vaccination [<xref rid="adma72049-bib-0050" ref-type="bibr">50</xref>]; however, we observed that the more <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-11" display="inline"><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:mrow></mml:math>1‐biased SM‐102 OVA mRNA LNP produced weaker antitumor effects than the relatively <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-12" display="inline"><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:mrow></mml:math>2‐biased LNP 112. Future studies should more thoroughly investigate potential mechanisms of this phenomenon. We believe that cellular immune responses not captured here may be partially responsible for the observed potent antitumor effect of LNP 112. More detailed characterization of the production of cytokines such as type II interferon (IFN) would likely be useful as secondary confirmation of immune activation and antitumor response [<xref rid="adma72049-bib-0051" ref-type="bibr">51</xref>, <xref rid="adma72049-bib-0052" ref-type="bibr">52</xref>]. If necessary, immune responses could be tuned through the inclusion of additional adjuvants during vaccination. Moreover, evaluation of LNP 112 and other lead LNP candidates in non‐melanoma contexts would be informative of their promise in cancer vaccination and immune modulation more broadly.</p></sec><sec id="adma72049-sec-0070"><label>2.5</label><title>Single‐Particle Assessment of Serum Protein Adsorption to LNPs</title><p>Having evaluated the organ and cellular tropism of our mRNA LNPs, we next sought to investigate possible factors driving LNP tropism. The nanoparticle protein corona has been identified as a major determinant of in vivo fate [<xref rid="adma72049-bib-0053" ref-type="bibr">53</xref>]. LNPs in particular are known to interact with ApoE in circulation, which interacts with LDLRs on cells in the liver to endow much of the classical hepatic tropism of LNPs [<xref rid="adma72049-bib-0018" ref-type="bibr">18</xref>, <xref rid="adma72049-bib-0019" ref-type="bibr">19</xref>, <xref rid="adma72049-bib-0020" ref-type="bibr">20</xref>, <xref rid="adma72049-bib-0021" ref-type="bibr">21</xref>]. Research in recent years has identified other candidate serum proteins that may help to direct LNP tropism to extrahepatic targets such as the spleen and the lungs through their participation in the formation of a nanoparticle protein corona [<xref rid="adma72049-bib-0022" ref-type="bibr">22</xref>]. One of the serum proteins currently thought to be responsible for the spleen tropism of some LNP formulations is <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-13" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI [<xref rid="adma72049-bib-0022" ref-type="bibr">22</xref>, <xref rid="adma72049-bib-0043" ref-type="bibr">43</xref>]. We therefore sought to evaluate the adsorption of both ApoE and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-14" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI to the surface of our lead mRNA LNP formulations to better understand the mechanisms behind their tropism.</p><p>Previous studies of LNP protein corona formation have largely relied on classical proteomics approaches based on centrifugation and mass spectrometry [<xref rid="adma72049-bib-0022" ref-type="bibr">22</xref>]. While effective and useful, these assays are labor‐intensive and slow and rely on the skilled interpretation of complex datasets—a difficult feat given the diversity of chemical species found in both LNPs and biological fluids. Additionally, these assays only give insight into bulk properties of an aggregate of LNPs, not single‐particle resolution. To gain insight into protein adsorption with single‐particle resolution in a rapid manner, we developed a novel experimental approach based on small‐particle flow cytometry. Based on previous studies analyzing LNP properties at a single‐particle level using custom flow devices, we employed a commercially available flow cytometer designed for the detection of extracellular vesicles (EVs) to analyze protein binding to LNPs. We reasoned that leveraging (i) flow cytometry, a widely used technique in the nucleic acid delivery field, and (ii) a commercially available flow cytometer would help to maximize the accessibility of our experimental technique. We fluorescently dyed NanoLuc reporter mRNA and encapsulated it in LNPs formulated containing a small amount of dyed phospholipid. We then fluorescently dyed recombinant mouse ApoE and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-15" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI proteins. After establishing suitable parameters for the detection of single LNPs, we incubated fluorescently dyed NanoLuc LNPs with dyed proteins of interest at a fixed molar ratio. After incubation, we diluted samples to minimize further interactions and acquired data using flow cytometry. Adsorption of protein to candidate LNPs resulted in an increase in protein fluorescence, which we used to quantify the proportion of LNPs with adsorbed protein (Figure <xref rid="adma72049-fig-0005" ref-type="fig">5a</xref>).</p><fig position="float" fig-type="FIGURE" id="adma72049-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Single‐particle assessment of serum protein adsorption to LNPs. (a) Schematic overview of experimental approach. Fluorescently labeled LNPs were prepared through the incorporation of Cy5‐labeled DOPE and DL550‐labeled mRNA. Mouse ApoE and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-16" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI proteins were fluorescently labeled with different fluorochromes. Labeled LNPs were then incubated with mouse BSA alone or in combination with fluorescently labeled ApoE and/or <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-17" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI. A commercial flow cytometer with a small particle detector was then used to analyze samples. (b) Representative flow cytometry plot of fluorescently labeled LNPs. Dyed lipid and RNA components distinguish free mRNA, empty LNPs, and mRNA‐loaded LNPs. (c) Representative flow cytometry histogram visualizing estimated size of studied particles. Calibration beads (diameters indicated) were used to estimate the approximate size of the LNPs under study. (d,e) Representative histogram (d) and detailed quantification (e) of ApoE adsorption to single LNPs for mRNA LNP candidates of interest. (f,g) Representative histogram (f) and detailed quantification (g) of <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-18" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI adsorption to single LNPs for mRNA LNP candidates of interest. (h) Representative contour plot visualizing the effects of incubation of LNPs with equimolar fluorescently labeled ApoE and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-19" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI (competitive binding). (i) Detailed quantification of competitive <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-20" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI adsorption vs. ApoE adsorption to single LNPs. Bar and scatter plots represent data from <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-21" display="inline"><mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mo>≥</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:mrow></mml:math> independent experiments for each LNP formulation. Gray contours and histograms represent LNPs incubated with BSA only. Significance annotations indicate comparisons to SM‐102 LNPs. **: <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-22" display="inline"><mml:mrow><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn>0.01</mml:mn></mml:mrow></mml:mrow></mml:math>. ***: <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-23" display="inline"><mml:mrow><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn>0.001</mml:mn></mml:mrow></mml:mrow></mml:math>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ADMA-38-e14370-g003.jpg"><?image-name ADMA-38-e14370-g003.jpg?><?image-size 78641?><?image-md5 a9a72632809999964b15281a6b9eabb8?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 818?><?image-original-width 820?><?image-scaled-height 545?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/4fee/12957869/a9a726328099/ADMA-38-e14370-g003.jpg?><?thumb-name ADMA-38-e14370-g003.gif?><?thumb-size 7086?><?thumb-md5 242ae5b79305fadc4f7eaa11a7fcfae0?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 100?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4fee/12957869/242ae5b79305/ADMA-38-e14370-g003.gif?></graphic></fig><p>Upon analysis of flow cytometry data, we were able to clearly resolve three distinct event populations: free mRNA, mRNA‐loaded LNPs, and empty LNPs (Figure <xref rid="adma72049-fig-0005" ref-type="fig">5b</xref>). Using fluorescent polystyrene size calibration beads, we confirmed that the diameter of analyzed particles was generally between 100 and 200 nm, in line with dynamic light scattering (DLS) measurements of LNP size (Figure <xref rid="adma72049-fig-0005" ref-type="fig">5c</xref>). Having confirmed the validity of our measurements, we then analyzed particle fluorescence following incubation either solely with unlabeled bovine serum albumin (BSA) or with a mixture of unlabeled BSA and fluorescently labeled ApoE or <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-24" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI. As expected, we generally observed substantial adsorption of ApoE to the tested LNP formulations (Figure <xref rid="adma72049-fig-0005" ref-type="fig">5d,e</xref>). Somewhat surprisingly, however, SM‐102 LNPs demonstrated minimal adsorption of ApoE. Our group has previously reported that ApoE readily binds to 1,2‐distearoyl‐<italic toggle="yes">sn</italic>‐glycero‐3‐phosphoethanolamine (DOPE)‐containing LNPs, which may help explain this finding [<xref rid="adma72049-bib-0017" ref-type="bibr">17</xref>]. Importantly, as some leukocytes express LDLRs, we do not expect adsorption of ApoE to contribute solely to hepatic tropism: instead, it is likely that increased adsorption of ApoE enhances trafficking to both the spleen and the liver, to possibly differential extents [<xref rid="adma72049-bib-0054" ref-type="bibr">54</xref>, <xref rid="adma72049-bib-0055" ref-type="bibr">55</xref>].</p><p>The mechanism(s) by which <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-25" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI adsorption leads to spleen tropism, if any, remain unclear, though this effect has been postulated to stem from the presence of externalized anionic phospholipids in the spleen [<xref rid="adma72049-bib-0022" ref-type="bibr">22</xref>]. However, our group has previously shown that increased <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-26" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI binding capacity may improve transfection of splenocytes, with more modest increases in hepatic transfection [<xref rid="adma72049-bib-0043" ref-type="bibr">43</xref>]. We therefore anticipated increased binding affinity for <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-27" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI for our spleen‐tropic LNP formulations. Interestingly, however, we observed the strongest <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-28" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI adsorption for LNP 97, our strongest liver‐tropic LNP, which demonstrated over fivefold greater <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-29" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI adsorption than any of our spleen‐tropic LNP formulations (Figure <xref rid="adma72049-fig-0005" ref-type="fig">5f,g</xref>).</p><p>To validate our findings from single‐protein experiments, we next performed competitive binding experiments wherein we incubated dyed LNPs with equimolar amounts of dyed ApoE and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-30" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI and assessed the adsorption of both proteins to the LNP surface. Competitive binding results generally recapitulated those from single‐protein investigations, though we observed an expected decrease in protein binding in some cases (Figure <xref rid="adma72049-fig-0005" ref-type="fig">5h,i</xref>). We also analyzed competitive adsorption of ApoE and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-31" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI to previously‐reported selective organ targeting (SORT) LNP formulations, observing consistency between our findings using small particle flow cytometry and published results (Figure <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S17</xref>). In all, our results suggest a nuanced relationship between serum protein adsorption and transfection of hepatic and extrahepatic targets and support previous findings of differential adsorption of serum proteins based on ionizable lipid structure [<xref rid="adma72049-bib-0056" ref-type="bibr">56</xref>].</p><p>The insights into protein adsorption to LNPs offered by our small particle flow cytometric method would seem to challenge existing dogma that greater degrees of ApoE adsorption bolster hepatic transfection, whereas greater amounts of adsorbed <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-32" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI confer stronger splenic transfection [<xref rid="adma72049-bib-0022" ref-type="bibr">22</xref>]. This model is based on the idea that a greater density of adsorbed protein affords more opportunity for ligand‐receptor interactions, leading to a greater probability of localization to target cells and/or receptor‐mediated endocytosis. However, our group and others have previously demonstrated that an intermediate amount of targeting moieties on the nanoparticle surface yields the greatest cellular targeting effect [<xref rid="adma72049-bib-0057" ref-type="bibr">57</xref>, <xref rid="adma72049-bib-0058" ref-type="bibr">58</xref>]. It is conceivable that, similarly, an intermediate density of adsorbed protein may be maximally beneficial for cellular uptake and organ tropism, perhaps due to steric crowding or similar phenomena. It is also likely that additional serum proteins other than ApoE and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-33" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI are involved in LNP interactions with cells, and there may be additional “cofactors” necessary for effective targeted transfection of particular organs and cell populations. In all, our findings do not conclusively refute existing models of LNP protein corona formation and its influence on organ and cellular tropism, but they do draw into question the universality of these models and identify a need for greater detail in analysis of protein adsorption and subsequent cellular interactions. We expect that the new small particle cytometry‐based method we report here will facilitate such detailed analyses in future work. Furthermore, though we did not observe a significant time dependency of protein corona adsorption in our experiments, adopting this technique to analyze time‐dependent protein adsorption (i.e., hard versus soft protein corona formation) in a more complex environment may provide additional insight into the nuances of LNP protein corona formation in the future. Ultimately, future studies will need to evaluate new models of protein corona formation in vivo to establish causal relationships between protein adsorption and LNP fate through such means as conditional gene knockout or targeted sequestration of candidate proteins [<xref rid="adma72049-bib-0059" ref-type="bibr">59</xref>, <xref rid="adma72049-bib-0060" ref-type="bibr">60</xref>].</p></sec></sec><sec id="adma72049-sec-0080"><label>3</label><title>Conclusions</title><p>In this work, we report the development of a next‐generation b‐mRNA screening platform with strong error correction capabilities for high‐fidelity mRNA delivery screening. By facilitating pooled screening, which allows for multiple internal controls and highly standardized data collection, we hope to enable the rapid generation of reproducible and high‐quality LNP screening data. We formulated a library of 133 distinct mRNA LNPs, each containing a distinct ionizable lipid. From screening in both wild‐type and <italic toggle="yes">APOE</italic>
+<sup>–/–</sup> mice, we identified several promising LNPs for both hepatic and extrahepatic mRNA transfection, each based on highly accessible “plug‐and‐play” ionizable lipids. We employed low‐throughput counterscreening experiments to validate functional mRNA transfection on both the tissue and cellular levels, identifying LNP 96 as an exceptionally strong hepatic transfection candidate and LNP 112 as a promising candidate for splenic myeloid cell reprogramming. In a preclinical melanoma mouse model, we demonstrated that the spleen‐tropic LNP 112 was effective in reducing disease burden and prolonging survival compared to LNPs formulated with a clinical ionizable lipid. Analysis of the humoral immune response suggested a greater induction of humoral immunity following cancer vaccination compared to clinical LNPs. To investigate potential influences of the nanoparticle protein corona on LNP tropism, we developed a novel experimental approach for single‐particle analysis of protein adsorption. We employed this technique to analyze the adsorption of ApoE and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-34" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI, serum proteins generally regarded as pivotal in dictating in vivo LNP fate, to our lead LNP formulations, demonstrating differential adsorption, with high ApoE adsorption to top spleen‐tropic formulations and strong <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-35" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI adsorption to our most liver‐tropic formulation. In all, our data demonstrate the value of b‐mRNA as an in vivo HTS platform for rapid discovery of mRNA LNPs for use in immunoengineering. We anticipate the adaptation of this screening approach for the evaluation of large LNP libraries for a variety of extrahepatic protein replacement, vaccine, gene editing, and immunotherapy applications. Moreover, the combination of our HTS data, validation experiments, and single‐particle analysis of ApoE and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-36" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI adsorption paints a nuanced picture of protein corona formation and in vivo interactions and highlights a need for more widespread characterization of protein adsorption to advance the field's understanding of LNP fate—work which we hope our reported analytical techniques will further help to accelerate.</p></sec><sec id="adma72049-sec-0090"><label>4</label><title>Methods</title><sec id="adma72049-sec-0100"><label>4.1</label><title>HTS Platform Development</title><sec id="adma72049-sec-0110"><label>4.1.1</label><title>Barcode Sequence Design</title><p>Barcode sequences were designed using in silico optimization essentially as described previously [<xref rid="adma72049-bib-0027" ref-type="bibr">27</xref>]. The Conway lexicographic algorithm was used to generate the initial set of barcode sequences, which was refined to yield a pool of 12 nt barcodes with a minimum “sequence Levenshtein” distance of 4 [<xref rid="adma72049-bib-0027" ref-type="bibr">27</xref>]. The resultant set of barcodes guarantees the detection of up to three insertions, deletions, and substitutions in a deoxyribonucleic acid (DNA)‐anchored barcode context and the correction of at least one sequencing error.</p></sec><sec id="adma72049-sec-0120"><label>4.1.2</label><title>Barcoded mRNA Synthesis</title><p>Barcoded EGFP mRNA was derived from an IVT plasmid containing a 5' UTR derived from tobacco etch virus (TEV), a codon‐optimized EGFP CDS, and a 3' UTR derived from <italic toggle="yes">Xenopus laevis</italic> beta globin. To produce barcoded template, a constant forward primer and distinct reverse primers were used in the polymerase chain reaction (PCR) to introduce a CleanCap AG‐compatible T7 promoter sequence 5' of the TEV UTR and to add a 12 nt barcode sequence and short spacer sequence 3′ of the globin UTR. Solid‐phase reversible immobilization (SPRI) beads were used to purify barcoded dsDNA templates for IVT. b‐mRNA precursor was synthesized using IVT with co‐transcriptional capping using the CleanCap AG trinucleotide cap 1 analog. Uridine residues were fully substituted with <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-37" display="inline"><mml:mrow><mml:msup><mml:mi mathvariant="normal">N</mml:mi><mml:mn>1</mml:mn></mml:msup></mml:mrow></mml:math>‐methylpseudouridine (<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-38" display="inline"><mml:mrow><mml:mrow><mml:msup><mml:mi>m</mml:mi><mml:mn>1</mml:mn></mml:msup><mml:mi mathvariant="normal">Ψ</mml:mi></mml:mrow></mml:mrow></mml:math>). Following SPRI purification, IVT products were enzymatically polyadenylated using <italic toggle="yes">E. coli</italic> poly(A) polymerase. Mature b‐mRNA was purified using SPRI beads and RNA concentration was quantified by absorbance measurements at a wavelength of 260 nm. b‐mRNA was diluted to 1 mg/mL and stored at –80°C for later use.</p></sec></sec><sec id="adma72049-sec-0130"><label>4.2</label><title>LNP Synthesis and Characterization</title><p>LNPs were produced via microfluidic mixing essentially as described previously [<xref rid="adma72049-bib-0061" ref-type="bibr">61</xref>]. Briefly, all lipid components were combined in ethanol, mRNA was placed in acidic citrate buffer, and the phases were combined using chaotic mixing in a microfluidic device containing staggered herringbone micromixers at an aqueous:organic flow rate ratio of 3:1. Resultant LNPs were dialyzed against PBS for 2 h and stored at 4 <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADMA-38-e14370-e034.jpg"><?image-name ADMA-38-e14370-e034.jpg?><?image-size 466?><?image-md5 fef0a480e50f8bed505e3c213caed337?><?image-image-server-status NEVER_LOAD?><?image-cloudpmc-urn urn:cdn:blobs/4fee/12957869/fef0a480e50f/ADMA-38-e14370-e034.jpg?></inline-graphic> for later use.</p><p>mRNA entrapment was measured using a RiboGreen assay essentially as described previously [<xref rid="adma72049-bib-0025" ref-type="bibr">25</xref>]. Briefly, LNPs were diluted 100‐fold in tris‐EDTA (TE) buffer or TE buffer containing 0.1% Triton X‐100. RNA standards of known concentration were plated along with diluted LNP samples in a well plate and fluorescence detection was used to determine RNA concentration in each sample. Encapsulated mRNA concentration was determined by subtracting the concentration in TE buffer (free mRNA) from that in buffer containing detergent (total mRNA). mRNA entrapment efficiency was determined as the ratio of encapsulated RNA concentration to total RNA concentration.</p><p>LNP size distributions were assessed via DLS using a DynaPro plate reader (Wyatt Technology Corporation, Santa Barbara, CA) following 10‐fold dilution in PBS.</p></sec><sec id="adma72049-sec-0140"><label>4.3</label><title>Animal Experiments</title><p>All animal use was in accordance with the guidelines of and with approval from the Institutional Animal Care and Use Committee (IACUC) at the University of Pennsylvania (protocol number 806540). C57BL/6J (strain 000664) or <italic toggle="yes">APOE</italic>
+<sup>–/–</sup> (strain 002052) mice were purchased from the Jackson Laboratory and bred according to standard procedures. For all animal experiments, the ionizable lipids used were at least 90% pure by liquid chromatography‐MS (LC‐MS).</p></sec><sec id="adma72049-sec-0150"><label>4.4</label><title>Flow Cytometry and FACS</title><sec id="adma72049-sec-0160"><label>4.4.1</label><title>Primary Cell Isolation</title><p>For analysis of circulating immune cells, peripheral blood was collected into microcentrifuge tubes pre‐coated with ethylenediaminetetraacetic acid (EDTA) to prevent clotting. Mice were thoroughly perfused with PBS containing EDTA before dissection, and lungs, livers, and spleens were removed and placed in Hank's buffered salt solution (HBSS) containing collagenase IV and DNase I for digestion. After enzymatic digestion, organs were mechanically digested through 100 <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-40" display="inline"><mml:mrow><mml:mrow><mml:mi>μ</mml:mi><mml:mi mathvariant="normal">m</mml:mi></mml:mrow></mml:mrow></mml:math> strainers. All samples containing red blood cells were treated with ammonium‐chloride‐potassium (ACK) lysing buffer. Processed liver samples were centrifuged through a discontinuous Percoll gradient to remove debris.</p></sec><sec id="adma72049-sec-0170"><label>4.4.2</label><title>Cell Staining</title><p>All antibodies used for fluorescence detection were obtained from BioLegend. A list of clones used is provided in the Supplementary Information (Table <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S4</xref>). Cells were blocked using anti‐CD16/CD32 antibodies and stained using the Zombie UV amine‐reactive dye following the manufacturer's instructions. After quenching with PBS containing BSA, cells were stained with extracellular antibodies for 30 min. For studies requiring intracellular staining, cells were fixed and permeabilized using a Cyto‐Fast Fix‐Perm Buffer Set according to the manufacturer's instructions. Cells were then stained with antibodies in permeabilization buffer for 30 min before rinsing and resuspension in PBS.</p></sec><sec id="adma72049-sec-0180"><label>4.4.3</label><title>Flow Cytometry Data Acquisition</title><p>For cellular flow cytometry experiments, a FACSymphony A3 equipped with UV, violet, blue, yellow‐green, and red lasers was employed. In all cases, at least 10000 events were acquired. Data for compensation were acquired using single‐stained controls. Fluorescence‐minus‐one (FMO) controls were employed as needed to assist in data analysis. Flow cytometry data were analyzed using FlowJo version 10.</p></sec><sec id="adma72049-sec-0190"><label>4.4.4</label><title>FACS</title><p>For b‐mRNA LNP screening, FACS was performed to isolate parenchymal and immune cells from processed tissues. A FACSymphony S6 equipped with UV, violet, blue, yellow‐green, and red lasers was employed to sort B cells, T cells, NK cells, and monocytes from the blood (Figure <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S11</xref>); endothelial cells, epithelial cells, and leukocytes from the lungs (Figure <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S12</xref>); hepatocytes, endothelial cells, Kupffer cells, and other leukocytes from the liver (Figure <xref rid="adma72049-supl-0001" ref-type="supplementary-material">S13</xref>); and B cells, T cells, NK cells, monocytes, and DCs from the spleen.</p></sec></sec><sec id="adma72049-sec-0200"><label>4.5</label><title>NGS Library Preparation and Sequencing</title><sec id="adma72049-sec-0210"><label>4.5.1</label><title>RNA Isolation</title><p>Total RNA was isolated using phenol‐chloroform precipitation with Trizol reagent according to the manufacturer's instructions. Tissue samples were mechanically homogenized in Trizol reagent with a bead mill before processing, while cells were sorted directly into Trizol LS reagent. For samples with low RNA content (e.g., sorted cells, LNPs), RNA was co‐precipitated using 20 <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-41" display="inline"><mml:mrow><mml:mrow><mml:mi>μ</mml:mi><mml:mi mathvariant="normal">g</mml:mi></mml:mrow></mml:mrow></mml:math> of glycogen as a carrier. RNA pellets were resuspended in TE buffer with low EDTA content for downstream use.</p></sec><sec id="adma72049-sec-0220"><label>4.5.2</label><title>First‐Strand cDNA Synthesis</title><p>First‐strand complementary DNA (cDNA) synthesis was performed using the ProtoScript II system according to the manufacturer's instructions. Reverse transcription oligos were based on the common oligo(dT) method for reverse transcription (RT) of eukaryotic mRNA and additionally featured (i) a 3′ “clamp” complementary to the barcode‐tail spacer region, (ii) a 5′ 12 nt unique molecular identifier (UMI), and (iii) the Illumina Nextera Read 2 sequence.</p></sec><sec id="adma72049-sec-0230"><label>4.5.3</label><title>cDNA Amplification and Index/Adapter Ligation</title><p>To produce final NGS libraries, nested PCR was employed. cDNA was first amplified using a forward primer against either the 3′ portion of the EGFP CDS (for b‐mRNA pool narrowing) or the end of the 3′ globin UTR and a reverse primer against the Nextera Read 2 sequence. The forward primer used in this first PCR included an overhanging portion containing the Nextera Read 1 sequence. Nine cycles of PCR were performed to add the Read 1 sequence. Sixteen additional cycles of PCR were performed to add indices (i5/i7) and sequencing adapters (P5/P7) using polymorphic primers against Read 1/Read 2 sequences. NGS libaries were purified using SPRI beads and eluted in TE buffer with low EDTA content for sequencing. Library concentrations were quantified using a Qubit 1× dsDNA assay and DNA was stored at −20 °C for later use.</p></sec><sec id="adma72049-sec-0240"><label>4.5.4</label><title>NGS</title><p>An NGS library pool was prepared by combining equal masses of each NGS library. The concentration of this library pool was quantified using a Qubit 1<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-42" display="inline"><mml:mrow><mml:mo>×</mml:mo></mml:mrow></mml:math> dsDNA assay. The library pool was subjected to quality control using an Agilent BioAnalyzer and sequenced using dual‐indexed sequencing on an Illumina MiSeq (b‐mRNA pool narrowing) or an Illumina NextSeq 2000 with 10% <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-43" display="inline"><mml:mrow><mml:mrow><mml:mi mathvariant="normal">Φ</mml:mi><mml:mi mathvariant="normal">X</mml:mi></mml:mrow></mml:mrow></mml:math>174 sequencing control spike‐in.</p></sec></sec><sec id="adma72049-sec-0250"><label>4.6</label><title>NGS Data Analysis and Visualization</title><p>NGS data were analyzed and visualized similarly to previously described using the R statistical programming language with a number of packages from the Comprehensive R Archive Network (CRAN) and Bioconductor [<xref rid="adma72049-bib-0011" ref-type="bibr">11</xref>, <xref rid="adma72049-bib-0027" ref-type="bibr">27</xref>, <xref rid="adma72049-bib-0062" ref-type="bibr">62</xref>, <xref rid="adma72049-bib-0063" ref-type="bibr">63</xref>, <xref rid="adma72049-bib-0064" ref-type="bibr">64</xref>, <xref rid="adma72049-bib-0065" ref-type="bibr">65</xref>, <xref rid="adma72049-bib-0066" ref-type="bibr">66</xref>, <xref rid="adma72049-bib-0067" ref-type="bibr">67</xref>, <xref rid="adma72049-bib-0068" ref-type="bibr">68</xref>, <xref rid="adma72049-bib-0069" ref-type="bibr">69</xref>, <xref rid="adma72049-bib-0070" ref-type="bibr">70</xref>, <xref rid="adma72049-bib-0071" ref-type="bibr">71</xref>, <xref rid="adma72049-bib-0072" ref-type="bibr">72</xref>, <xref rid="adma72049-bib-0073" ref-type="bibr">73</xref>, <xref rid="adma72049-bib-0074" ref-type="bibr">74</xref>]. Briefly, reads were demultiplexed and trimmed of adapter sequences. Barcode and UMI sequences were then extracted from reads using the UMI‐tools Python package [<xref rid="adma72049-bib-0075" ref-type="bibr">75</xref>]. Barcode sequences were matched to candidate sequences using the DNABarcodes R package [<xref rid="adma72049-bib-0027" ref-type="bibr">27</xref>], and UMIs were collapsed to yield read counts for each barcode. Normalized accumulation was calculated as the ratio of output read fraction to input read fraction [<xref rid="adma72049-bib-0013" ref-type="bibr">13</xref>]. Specifically, read fractions were first computed by dividing the read count for each barcode by the total number of barcode counts within each sample. Each sample read fraction (output) was then divided by the corresponding mean read fraction from the uninjected pool samples (input) to yield normalized accumulation.</p><p>For enrichment analysis, Wilcoxon rank‐sum tests were performed to compare normalized accumulation for each barcode to the normalized accumulation of all other barcodes using the normal approximation with continuity correction. False discovery rate was controlled using the method of Benjamini and Hochberg [<xref rid="adma72049-bib-0076" ref-type="bibr">76</xref>].</p></sec><sec id="adma72049-sec-0260"><label>4.7</label><title>Evaluation of Lead mRNA LNPs</title><sec id="adma72049-sec-0270"><label>4.7.1</label><title>Reporter mRNA Synthesis</title><p>We employed the NanoLuc engineered luciferase as both a model mRNA and a reporter for validation and mechanistic experiments. EGFP was used as a reporter for studies of cellular transfection charateristics. gBlock dsDNA templates were synthesized containing codon‐optimized NanoLuc or EGFP CDSs and the same UTRs as used for b‐mRNA production. PCR with overhanging primers was employed to produce dsDNA template for IVT containing a CleanCap AG‐compatible T7 promoter sequence and a 100 nt poly(A) tail, which was purified using SPRI beads. Reporter mRNA was synthesized using IVT with co‐transcriptional capping with the CleanCap AG trinucleotide cap 1 analog. Uridine residues were fully substituted with <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-44" display="inline"><mml:mrow><mml:mrow><mml:msup><mml:mi>m</mml:mi><mml:mn>1</mml:mn></mml:msup><mml:mi mathvariant="normal">Ψ</mml:mi></mml:mrow></mml:mrow></mml:math> when using the mRNA as a reporter gene. 1 M urea was used in the IVT reaction as a chaotropic agent to reduce double‐stranded RNA (dsRNA) formation [<xref rid="adma72049-bib-0077" ref-type="bibr">77</xref>]. mRNA was purified using SPRI beads and RNA concentration was quantified by absorbance measurements at a wavelength of 260 nm prior to storage at –20°C.</p></sec><sec id="adma72049-sec-0280"><label>4.7.2</label><title>mRNA LNP Transfection Validation Experiments</title><p>To confirm the in vivo transfection ability of candidate mRNA LNPs identified by NGS, we performed single‐plex validation experiments using NanoLuc. C57BL/6 mice were injected with NanoLuc mRNA LNPs at an encapsulated mRNA dose of 0.1 mg/kg. 6 h later, 220 nmol of fluorofurimazine (FFz) in PBS was administered intraperitoneally (i.p.) and major mouse organs were dissected and imaged using an in vivo imaging system (IVIS) to assess in vivo mRNA transfection (PerkinElmer, Shelton, CT). To classify LNP formulation tropism, we used the ratio of spleen:liver luminescence in PBS‐treated mice as a baseline. Treatments inducing a greater ratio were classified as spleen‐tropic, while those inducing a lesser spleen:liver luminescence ratio (relatively higher liver signal) were classified as liver‐tropic.</p><p>For single‐cell analysis of in vivo mRNA LNP transfection and accumulation, we performed flow cytometry experiments. Lead mRNA LNP candidates were reformulated encapsulating EGFP mRNA and fluorescently dyed using lipophilic 1,1′‐dioctadecyl‐3,3,3′,3′‐tetramethylindotricarbocyanine iodide (DiR) at a concentration of 10 <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-45" display="inline"><mml:mrow><mml:mrow><mml:mi>μ</mml:mi><mml:mi mathvariant="normal">M</mml:mi></mml:mrow></mml:mrow></mml:math>. C57BL/6 mice were injected with DiR‐labeled EGFP mRNA LNPs at an encapsulated mRNA dose of 0.6 mg/kg. 12 h later, mice were sacrificed and livers and spleens were collected for flow cytometric analysis of LNP accumulation and mRNA transfection. To improve EGFP signal strength, an Alexa Fluor 488 (AF488)‐conjugated anti‐EGFP antibody was employed for intracellular staining.</p></sec></sec><sec id="adma72049-sec-0290"><label>4.8</label><title>Therapeutic Melanoma Vaccine Model</title><sec id="adma72049-sec-0300"><label>4.8.1</label><title>Tumor Engraftment and Monitoring</title><p>C57BL/6 mice of mixed sex were obtained from the Jackson Laboratory. Mice were subcutaneously inoculated on the right flank with 7.5e5 B16‐OVA mouse melanoma cells. Tumor dimensions were regularly measured using electronic calipers and tumor volume was calculated as <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-46" display="inline"><mml:mrow><mml:mrow><mml:mi>V</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:mfrac><mml:mi>a</mml:mi><mml:msup><mml:mi>b</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mrow></mml:math>, where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-47" display="inline"><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:math> and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-48" display="inline"><mml:mrow><mml:mi>b</mml:mi></mml:mrow></mml:math> represent the largest and smallest tumor dimensions, respectively. Tumor volume and body weight were monitored for up to 60 days.</p></sec><sec id="adma72049-sec-0310"><label>4.8.2</label><title>Immunization and Evaluation of Humoral Response</title><p>Following successful tumor engraftment, mice were immunized followed a prime‐boost strategy at a 5 d interval. Mice were injected i.v. with mRNA LNPs encapsulating either OVA mRNA or FLuc mRNA at an encapsulated mRNA dose of 0.8 mg/kg. 7 d after the boost dose, mouse sera were collected for analysis.</p><p>Reciprocal endpoint antibody titers were measured essentially as described previously [<xref rid="adma72049-bib-0078" ref-type="bibr">78</xref>]. Briefly, treated 96‐well clear polystyrene microplates were coated overnight with a solution of 1 <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-49" display="inline"><mml:mrow><mml:mrow><mml:mi>μ</mml:mi><mml:mi mathvariant="normal">g</mml:mi></mml:mrow></mml:mrow></mml:math>/mL OVA protein in PBS. After coating, wells were rinsed with 0.05% Tween 20 in PBS (PBST) and blocked for 1 h using IgG‐depleted BSA in PBS. After blocking, wells were again washed with 0.05% Tween 20 in PBS (PBST), and diluted endpoint antisera in blocking buffer were plated and allowed to incubate for 2 h. After further rinsing with PBST, diluted horseradish peroxidase (HRP)‐conjugated anti‐isotype antibody in blocking buffer was added. After rinsing, detection was performed by adding 3,3′,5,5′‐tetramethylbenzidine (TMB) substrate for 15 min before quenching with 2 N sulfuric acid. Absorbance was measured using a plate reader at a detection wavelength of 450 nm with a reference wavelength of 650 nm to account for optical effects. Absorbance cutoffs for reciprocal titer determination were determined using the Frey method [<xref rid="adma72049-bib-0079" ref-type="bibr">79</xref>].</p></sec></sec><sec id="adma72049-sec-0320"><label>4.9</label><title>Flow Cytometric Analysis of Protein Adsorption to LNPs</title><sec id="adma72049-sec-0330"><label>4.9.1</label><title>Labeled mRNA Synthesis</title><p>mRNA was fluorescently tagged using a two‐step procedure based on reaction between aminoallyl‐modified RNA and amine‐reactive <italic toggle="yes">N</italic>‐hydroxysuccinimide (NHS) ester‐fluorophore conjugates. Aminoallyl‐modified mRNA coding for NanoLuc was first synthesized using IVT essentially as described above except using canonical uridine instead of <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-50" display="inline"><mml:mrow><mml:mrow><mml:msup><mml:mi>m</mml:mi><mml:mn>1</mml:mn></mml:msup><mml:mi mathvariant="normal">Ψ</mml:mi></mml:mrow></mml:mrow></mml:math>. Aminoallyl‐UTP (aaUTP) was also incorporated into the nucleoside triphosphate (NTP) mixture at a ratio of 1:1 uridine triphosphate (UTP):aaUTP to produce partially‐substituted mRNA. After purification, aminoallyl‐modified mRNA was reacted with DyLight 550 (DL550) NHS ester conjugate in basic conditions at an mRNA:fluorophore ratio of 1:200 to produce fluorescently labeled mRNA. Labeled mRNA was purified using SPRI beads, quantified using absorbance measurements, and stored at −20°C for later use.</p></sec><sec id="adma72049-sec-0340"><label>4.9.2</label><title>Fluorescence Labeling of Serum Proteins</title><p>Recombinant mouse ApoE and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-51" display="inline"><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>‐GPI proteins were differentially labeled using Alexa Fluor 594 (AF594) and Alexa Fluor 488 protein labeling kits, respectively, according to the manufacturer's instructions. Labeled protein was purified using spin filters according to the manufacturer's instructions and eluted in PBS. Following purification, protein concentration was quantified using adjusted absorbance measurements before storage at 4°C.</p></sec><sec id="adma72049-sec-0350"><label>4.9.3</label><title>Flow Cytometric Analysis of Single LNPs</title><p>LNPs of interest identified by HTS were reformulated containing fluorescently labeled NanoLuc mRNA and with 0.5% DOPE‐<italic toggle="yes">N</italic>‐Cy5 (Cy5‐DOPE). LNP concentration was quantified using static light scattering (SLS). LNPs were diluted to a concentration of 50 pM before incubation, while proteins were diluted to 25 nm. All species underwent a 100‐fold dilution before data acquisition. Data were acquired on a BD FACSymphony A1 equipped with a small particle detector following MIFlowCyt‐EV recommendations for small particle flow cytometry [<xref rid="adma72049-bib-0080" ref-type="bibr">80</xref>].</p></sec></sec><sec id="adma72049-sec-0360"><label>4.10</label><title>Data Analysis and Statistical Inference</title><p>All data were analyzed using the R statistical programming language with several packages from the Comprehensive R Archive Network (CRAN) [<xref rid="adma72049-bib-0062" ref-type="bibr">62</xref>, <xref rid="adma72049-bib-0063" ref-type="bibr">63</xref>, <xref rid="adma72049-bib-0064" ref-type="bibr">64</xref>, <xref rid="adma72049-bib-0065" ref-type="bibr">65</xref>, <xref rid="adma72049-bib-0066" ref-type="bibr">66</xref>, <xref rid="adma72049-bib-0067" ref-type="bibr">67</xref>, <xref rid="adma72049-bib-0068" ref-type="bibr">68</xref>, <xref rid="adma72049-bib-0069" ref-type="bibr">69</xref>, <xref rid="adma72049-bib-0070" ref-type="bibr">70</xref>, <xref rid="adma72049-bib-0071" ref-type="bibr">71</xref>, <xref rid="adma72049-bib-0072" ref-type="bibr">72</xref>, <xref rid="adma72049-bib-0073" ref-type="bibr">73</xref>, <xref rid="adma72049-bib-0074" ref-type="bibr">74</xref>, <xref rid="adma72049-bib-0081" ref-type="bibr">81</xref>, <xref rid="adma72049-bib-0082" ref-type="bibr">82</xref>, <xref rid="adma72049-bib-0083" ref-type="bibr">83</xref>, <xref rid="adma72049-bib-0084" ref-type="bibr">84</xref>, <xref rid="adma72049-bib-0085" ref-type="bibr">85</xref>, <xref rid="adma72049-bib-0086" ref-type="bibr">86</xref>]. The Nix package manager (with pinned Nixpkgs revision <monospace>3ff0e34b</monospace>) was used for all data and dependencies to maximize reproducibility [<xref rid="adma72049-bib-0087" ref-type="bibr">87</xref>]. Unless otherwise noted, statistical inference was performed on mean responses using one‐way analysis of variance (ANOVA) with post hoc <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-52" display="inline"><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:math> tests using the Bonferroni‐Holm correction for multiple comparisons. For comparisons involving only two groups, simple unpaired <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-53" display="inline"><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:math> tests were used for inference. For melanoma model survival analysis, pairwise log‐rank tests were employed to compare survival curves to PBS‐treated mice, and the Bonferroni–Holm correction was applied [<xref rid="adma72049-bib-0088" ref-type="bibr">88</xref>].</p></sec></sec><sec sec-type="COI-statement" id="adma72049-sec-0380"><title>Conflicts of Interest</title><p>X.H. and M.J.M. have filed patent applications on the lipid nanoparticle technology discussed in this work. All other authors declare no competing interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="adma72049-supl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting File</bold>: adma72049‐sup‐0001‐SuppMat.pdf.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADMA-38-e14370-s001.pdf" position="float" orientation="portrait"><?suppdata-name ADMA-38-e14370-s001.pdf?><?suppdata-size 2182075?><?suppdata-md5 dfa6c6e402f84a2b5a852d45505e35fb?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:4fee/12957869/dfa6c6e402f8/ADMA-38-e14370-s001.pdf?></media></supplementary-material></sec></body><back><ack id="adma72049-sec-0370"><title>Acknowledgments</title><p>M.J.M. acknowledges support from a US National Institutes of Health (NIH) Director's New Innovator Award (DP2 TR002776), a Burroughs Wellcome Fund Career Award at the Scientific Interface (CASI), a US National Science Foundation CAREER Award (CBET‐2145491) and the NIH (NICHD R01 HD115877). A.G.H., A.S.T., H.C.S., K.L.S., A.M.M., and H.C.G and acknowledge support from the US National Science Foundation Graduate Research Fellowship. We thank the Next‐Generation Sequencing Core at the University of Pennsylvania (RRID:SCR_022382) for assistance with next‐generation sequencing. Some data for this manuscript were generated in the Penn Cytomics and Cell Sorting Shared Resource Laboratory at the University of Pennsylvania (RRID:SCR_022376), which was partially supported by an Abramson Cancer Center NCI Grant (P30 016520).</p></ack><sec sec-type="data-availability" id="adma72049-sec-0400"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="adma72049-bibl-0001"><title>References</title><ref id="adma72049-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="adma72049-cit-0001">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Kon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Elia</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Peer</surname>
+</string-name>, “<article-title>Principles for Designing an Optimal Mrna Lipid Nanoparticle Vaccine</article-title>,” <source>Current Opinion in Biotechnology</source>
+<volume>73</volume> (<year>2022</year>): <fpage>329</fpage>–<lpage>336</lpage>.<pub-id pub-id-type="pmid">34715546</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.copbio.2021.09.016</pub-id><pub-id pub-id-type="pmcid">PMC8547895</pub-id></mixed-citation></ref><ref id="adma72049-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="adma72049-cit-0002">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Pardi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Hogan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. W.</given-names>
+<surname>Porter</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Weissman</surname>
+</string-name>, “<article-title>mRNA Vaccines — A New Era in Vaccinology</article-title>,” <source>Nature Reviews Drug Discovery</source>
+<volume>17</volume>, no. <issue>4</issue> (<year>2018</year>): <fpage>261</fpage>–<lpage>279</lpage>.<pub-id pub-id-type="pmid">29326426</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrd.2017.243</pub-id><pub-id pub-id-type="pmcid">PMC5906799</pub-id></mixed-citation></ref><ref id="adma72049-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="adma72049-cit-0003">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Kis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kontoravdi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Dey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Shattock</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Shah</surname>
+</string-name>, “<article-title>Rapid Development and Deployment of High‐Volume Vaccines for Pandemic Response</article-title>,” <source>Journal of Advanced Manufacturing and Processing</source>
+<volume>2</volume>, no. <issue>3</issue> (<year>2020</year>): <elocation-id>e10060</elocation-id>.<pub-id pub-id-type="pmid">33977274</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/amp2.10060</pub-id><pub-id pub-id-type="pmcid">PMC7361221</pub-id></mixed-citation></ref><ref id="adma72049-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="adma72049-cit-0004">
+<string-name name-style="western">
+<given-names>P. R.</given-names>
+<surname>Cullis</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P. L.</given-names>
+<surname>Felgner</surname>
+</string-name>, “<article-title>The 60‐Year Evolution of Lipid Nanoparticles for Nucleic Acid Delivery</article-title>,” <source>Nature Reviews Drug Discovery</source>
+<volume>23</volume>, no. <issue>9</issue> (<year>2024</year>): <fpage>709</fpage>–<lpage>722</lpage>.<pub-id pub-id-type="pmid">38965378</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41573-024-00977-6</pub-id></mixed-citation></ref><ref id="adma72049-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="adma72049-cit-0005">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Wilson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Goswami</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. H.</given-names>
+<surname>Baqui</surname>
+</string-name>, et al., “<article-title>Efficacy and Safety of an mRNA‐based RSV PreF Vaccine in Older Adults</article-title>,” <source>New England Journal of Medicine</source>
+<volume>389</volume>, no. <issue>24</issue> (<year>2023</year>): <fpage>2233</fpage>–<lpage>2244</lpage>.<pub-id pub-id-type="pmid">38091530</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2307079</pub-id></mixed-citation></ref><ref id="adma72049-bib-0006"><label>6</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0006">
+<collab collab-type="authors">Moderna receives u.s. FDA approval for RSV vaccine mRESVIA(r)</collab>
+, <article-title>[Online], Available</article-title>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://investors.modernatx.com/news/news-details/2024/Moderna-Receives-U.S.-FDA-Approval-for-RSV-Vaccine-mRESVIAR/default.aspx" ext-link-type="uri">https://investors.modernatx.com/news/news‐details/2024/Moderna‐Receives‐U.S.‐FDA‐Approval‐for‐RSV‐Vaccine‐mRESVIAR/default.aspx</ext-link>,.</mixed-citation></ref><ref id="adma72049-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="adma72049-cit-0007">
+<string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Sayour</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Boczkowski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Mitchell</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Nair</surname>
+</string-name>, “<article-title>Cancer Mrna Vaccines Clinical Advances and Future Opportunities</article-title>,” <source>Nature Reviews Clinical Oncology</source>
+<volume>21</volume>, no. <issue>7</issue> (<year>2024</year>): <fpage>489</fpage>–<lpage>500</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41571-024-00902-1</pub-id><pub-id pub-id-type="pmid">38760500</pub-id></mixed-citation></ref><ref id="adma72049-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="adma72049-cit-0008">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Verbeke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Hogan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Loré</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Pardi</surname>
+</string-name>, “<article-title>Innate Immune Mechanisms of mRNA Vaccines</article-title>,” <source>Immunity</source>
+<volume>55</volume>, no. <issue>11</issue> (<year>Nov. 2022</year>): <fpage>1993</fpage>–<lpage>2005</lpage>.<pub-id pub-id-type="pmid">36351374</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2022.10.014</pub-id><pub-id pub-id-type="pmcid">PMC9641982</pub-id></mixed-citation></ref><ref id="adma72049-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="adma72049-cit-0009">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Jung</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, “<article-title>Lipid Nanoparticles (Lnps) for Textitin Vivo Rna Delivery and Their Breakthrough Technology for Future Applications</article-title>,” <source>Advanced Drug Delivery Reviews</source>
+<volume>200</volume> (<year>2023</year>): <elocation-id>114990</elocation-id>.<pub-id pub-id-type="pmid">37423563</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.addr.2023.114990</pub-id></mixed-citation></ref><ref id="adma72049-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="adma72049-cit-0010">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zwolsman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. B.</given-names>
+<surname>Darwish</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Kluza</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>van der Meel</surname>
+</string-name>, “<article-title>Engineering Lipid Nanoparticles for Mrna Immunotherapy</article-title>,” <source>Wiley Interdisciplinary Reviews, Nanomedicine and Nanobiotechnology</source>
+<volume>17</volume>, no. <issue>2</issue> (<year>2025</year>): <elocation-id>e70007</elocation-id>.<pub-id pub-id-type="pmid">40195623</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/wnan.70007</pub-id><pub-id pub-id-type="pmcid">PMC11976204</pub-id></mixed-citation></ref><ref id="adma72049-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="adma72049-cit-0011">
+<string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Hamilton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Swingle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Thatte</surname>
+</string-name>, et al., “<article-title>High‐throughput <italic toggle="yes">in Vivo</italic> Screening Identifies Differential Influences on Mrna Lipid Nanoparticle Immune Cell Delivery by Administration Route</article-title>,” <source>ACS Nano</source>
+<volume>18</volume>, no. <issue>25</issue> (<year>June 2024</year>): <fpage>16,151</fpage>–<lpage>16,165</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acsnano.4c01171</pub-id><pub-id pub-id-type="pmid">38861479</pub-id></mixed-citation></ref><ref id="adma72049-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="adma72049-cit-0012">
+<string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Dahlman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. J.</given-names>
+<surname>Kauffman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xing</surname>
+</string-name>, et al., “<article-title>Barcoded Nanoparticles for High Throughput in Vivo Discovery of Targeted Therapeutics</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>114</volume>, no. <issue>8</issue> (<year>Feb. 2017</year>): <fpage>2060</fpage>–<lpage>2065</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1620874114</pub-id><pub-id pub-id-type="pmcid">PMC5338412</pub-id><pub-id pub-id-type="pmid">28167778</pub-id></mixed-citation></ref><ref id="adma72049-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="adma72049-cit-0013">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>El‐Mayta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Shepherd</surname>
+</string-name>, et al., “<article-title>A Nanoparticle Platform for Accelerated in Vivo Oral Delivery Screening of Nucleic Acids</article-title>,” <source>Advanced Therapeutics</source>
+<volume>4</volume>, no. <issue>1</issue> (<year>2021</year>): <elocation-id>2000111</elocation-id>.</mixed-citation></ref><ref id="adma72049-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="adma72049-cit-0014">
+<string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Lokugamage</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. D.</given-names>
+<surname>Sago</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Gan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Krupzak</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Dahlman</surname>
+</string-name>, “<article-title>Constrained Nanoparticles Deliver siRNA and sgRNA to T cells in vivo without targeting ligands</article-title>,” <source>Advanced Materials</source>
+<volume>31</volume>, no. <issue>41</issue> (<year>Oct. 2019</year>): <elocation-id>e1902251</elocation-id>.<pub-id pub-id-type="pmid">31465135</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adma.201902251</pub-id><pub-id pub-id-type="pmcid">PMC6819129</pub-id></mixed-citation></ref><ref id="adma72049-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="adma72049-cit-0015">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Eygeris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gupta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, et al., “<article-title>Thiophene‐based Lipids for mRNA Delivery to Pulmonary and Retinal Tissues</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>121</volume>, no. <issue>11</issue> (<year>2024</year>): <elocation-id>e2307813120</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.2307813120</pub-id><pub-id pub-id-type="pmcid">PMC10945828</pub-id><pub-id pub-id-type="pmid">38437570</pub-id></mixed-citation></ref><ref id="adma72049-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="adma72049-cit-0016">
+<string-name name-style="western">
+<given-names>P. P. G.</given-names>
+<surname>Guimaraes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Spektor</surname>
+</string-name>, et al., “<article-title>Ionizable Lipid Nanoparticles Encapsulating Barcoded mRNA for Accelerated in Vivo Delivery Screening</article-title>,” <source>Journal of Controlled Release</source>
+<volume>316</volume> (<year>Dec. 2019</year>): <fpage>404</fpage>–<lpage>417</lpage>.<pub-id pub-id-type="pmid">31678653</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2019.10.028</pub-id><pub-id pub-id-type="pmcid">PMC7032071</pub-id></mixed-citation></ref><ref id="adma72049-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="adma72049-cit-0017">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>El‐Mayta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Murdoch</surname>
+</string-name>, et al., “<article-title>Helper Lipid Structure Influences Protein Adsorption and Delivery of Lipid Nanoparticles to Spleen and Liver</article-title>,” <source>Biomaterials Science</source>
+<volume>9</volume>, no. <issue>4</issue> (<year>2021</year>): <fpage>1449</fpage>–<lpage>1463</lpage>.<pub-id pub-id-type="pmid">33404020</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/d0bm01609h</pub-id><pub-id pub-id-type="pmcid">PMC8753632</pub-id></mixed-citation></ref><ref id="adma72049-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="adma72049-cit-0018">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Akinc</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Querbes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>De</surname>
+</string-name>, et al., “<article-title>Targeted Delivery of RNAi Therapeutics With Endogenous and Exogenous Ligand‐Based Mechanisms</article-title>,” <source>Molecular Therapy</source>
+<volume>18</volume>, no. <issue>7</issue> (<year>July 2010</year>): <fpage>1357</fpage>–<lpage>1364</lpage>.<pub-id pub-id-type="pmid">20461061</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mt.2010.85</pub-id><pub-id pub-id-type="pmcid">PMC2911264</pub-id></mixed-citation></ref><ref id="adma72049-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="adma72049-cit-0019">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Suzuki</surname>
+</string-name> and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ishihara</surname>
+</string-name>, “<article-title>Structure, Activity and Uptake Mechanism of siRNA‐Lipid Nanoparticles With an Asymmetric Ionizable Lipid</article-title>,” <source>International Journal of Pharmaceutics</source>
+<volume>510</volume>, no. <issue>1</issue> (<year>Aug. 2016</year>): <fpage>350</fpage>–<lpage>358</lpage>.<pub-id pub-id-type="pmid">27374199</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijpharm.2016.06.124</pub-id></mixed-citation></ref><ref id="adma72049-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="adma72049-cit-0020">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Francia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Schiffelers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. R.</given-names>
+<surname>Cullis</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Witzigmann</surname>
+</string-name>, “<article-title>The Biomolecular Corona of Lipid Nanoparticles for Gene Therapy</article-title>,” <source>Bioconjugate Chemistry</source>
+<volume>31</volume>, no. <issue>9</issue> (<year>Sept. 2020</year>): <fpage>2046</fpage>–<lpage>2059</lpage>.<pub-id pub-id-type="pmid">32786370</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.bioconjchem.0c00366</pub-id></mixed-citation></ref><ref id="adma72049-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="adma72049-cit-0021">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sato</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kinami</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hashiba</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Harashima</surname>
+</string-name>, “<article-title>Different Kinetics for The Hepatic Uptake of Lipid Nanoparticles Between The Apolipoprotein ELow Density Lipoprotein Receptor and The TextitN‐Acetyl‐D‐Galactosamineasialoglycoprotein Receptor Pathway</article-title>,” <source>Journal of Controlled Release</source>
+<volume>322</volume> (<year>June 2020</year>): <fpage>217</fpage>–<lpage>226</lpage>.<pub-id pub-id-type="pmid">32145269</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2020.03.006</pub-id></mixed-citation></ref><ref id="adma72049-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="adma72049-cit-0022">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Dilliard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Cheng</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Siegwart</surname>
+</string-name>, “<article-title>On the Mechanism of Tissue‐specific mRNA delivery by selective organ targeting nanoparticles</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>118</volume>, no. <issue>52</issue> (<year>Dec. 2021</year>): <elocation-id>e2109256118</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.2109256118</pub-id><pub-id pub-id-type="pmcid">PMC8719871</pub-id><pub-id pub-id-type="pmid">34933999</pub-id></mixed-citation></ref><ref id="adma72049-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="adma72049-cit-0023">
+<string-name name-style="western">
+<given-names>K. J.</given-names>
+<surname>Kauffman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Dorkin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Yang</surname>
+</string-name>, et al., “<article-title>Optimization of Lipid Nanoparticle Formulations for Mrna Delivery in Vivo With Fractional Factorial and Definitive Screening Designs</article-title>,” <source>Nano Letters</source>
+<volume>15</volume>, no. <issue>11</issue> (<year>Nov. 2015</year>): <fpage>7300</fpage>–<lpage>7306</lpage>.<pub-id pub-id-type="pmid">26469188</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.nanolett.5b02497</pub-id></mixed-citation></ref><ref id="adma72049-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="adma72049-cit-0024">
+<string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Ball</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Hajj</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Vizelman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bajaj</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Whitehead</surname>
+</string-name>, “<article-title>Lipid Nanoparticle Formulations for Enhanced Co‐delivery of siRNA and mRNA</article-title>,” <source>Nano Letters</source>
+<volume>18</volume>, no. <issue>6</issue> (<year>June 2018</year>): <fpage>3814</fpage>–<lpage>3822</lpage>.<pub-id pub-id-type="pmid">29694050</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.nanolett.8b01101</pub-id></mixed-citation></ref><ref id="adma72049-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="adma72049-cit-0025">
+<string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Hamilton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Swingle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Joseph</surname>
+</string-name>, et al., “<article-title>Ionizable Lipid Nanoparticles With Integrated Immune Checkpoint Inhibition for mRNA CAR T Cell Engineering</article-title>,” <source>Advanced Healthcare Materials</source>
+<volume>12</volume>, no. <issue>30</issue> (<year>Aug. 2023</year>): <elocation-id>2301515</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adhm.202301515</pub-id><pub-id pub-id-type="pmid">37602495</pub-id></mixed-citation></ref><ref id="adma72049-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="adma72049-cit-0026">
+<string-name name-style="western">
+<given-names>C. D.</given-names>
+<surname>Sago</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Lokugamage</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Paunovska</surname>
+</string-name>, et al., “<article-title>High‐throughput in Vivo Screen of Functional mRNA Delivery Identifies Nanoparticles for Endothelial Cell Gene Editing</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>115</volume>, no. <issue>42</issue> (<year>Oct. 2018</year>): <fpage>E9944</fpage>–<lpage>E9952</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1811276115</pub-id><pub-id pub-id-type="pmcid">PMC6196543</pub-id><pub-id pub-id-type="pmid">30275336</pub-id></mixed-citation></ref><ref id="adma72049-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="adma72049-cit-0027">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Buschmann</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L. V.</given-names>
+<surname>Bystrykh</surname>
+</string-name>, “<article-title>Levenshtein Error‐Correcting Barcodes for Multiplexed DNA Sequencing</article-title>,” <source>BMC Bioinformatics</source>
+<volume>14</volume> (<year>Sept. 2013</year>): <fpage>272</fpage>.<pub-id pub-id-type="pmid">24021088</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2105-14-272</pub-id><pub-id pub-id-type="pmcid">PMC3853030</pub-id></mixed-citation></ref><ref id="adma72049-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="adma72049-cit-0028">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Houseley</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Tollervey</surname>
+</string-name>, “<article-title>The Many Pathways of RNA Degradation</article-title>,” <source>Cell</source>
+<volume>136</volume>, no. <issue>4</issue> (<year>Feb. 2009</year>): <fpage>763</fpage>–<lpage>776</lpage>.<pub-id pub-id-type="pmid">19239894</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2009.01.019</pub-id></mixed-citation></ref><ref id="adma72049-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="adma72049-cit-0029">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Glisovic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Bachorik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yong</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Dreyfuss</surname>
+</string-name>, “<article-title>RNA‐Binding Proteins and Post‐Transcriptional Gene Regulation</article-title>,” <source>FEBS Letters</source>
+<volume>582</volume>, no. <issue>14</issue> (<year>June 2008</year>): <fpage>1977</fpage>–<lpage>1986</lpage>.<pub-id pub-id-type="pmid">18342629</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.febslet.2008.03.004</pub-id><pub-id pub-id-type="pmcid">PMC2858862</pub-id></mixed-citation></ref><ref id="adma72049-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="adma72049-cit-0030">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Denzler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>McGeary</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Title</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Agarwal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bartel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Stoffel</surname>
+</string-name>, “<article-title>Impact of MicroRNA Levels, Target‐Site Complementarity, and Cooperativity On Competing Endogenous Rna‐Regulated Gene Expression</article-title>,” <source>Molecular Cell</source>
+<volume>64</volume>, no. <issue>3</issue> (<year>Nov. 2016</year>): <fpage>565</fpage>–<lpage>579</lpage>.<pub-id pub-id-type="pmid">27871486</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molcel.2016.09.027</pub-id><pub-id pub-id-type="pmcid">PMC5101187</pub-id></mixed-citation></ref><ref id="adma72049-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="adma72049-cit-0031">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Landgraf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rusu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Sheridan</surname>
+</string-name>, et al., “<article-title>A Mammalian microRNA Expression Atlas Based On Small RNA Library Sequencing</article-title>,” <source>Cell</source>
+<volume>129</volume>, no. <issue>7</issue> (<year>June 2007</year>): <fpage>1401</fpage>–<lpage>1414</lpage>.<pub-id pub-id-type="pmid">17604727</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2007.04.040</pub-id><pub-id pub-id-type="pmcid">PMC2681231</pub-id></mixed-citation></ref><ref id="adma72049-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="adma72049-cit-0032">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Ludwig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Leidinger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Becker</surname>
+</string-name>, et al., “<article-title>Distribution of miRNA Expression Across Human Tissues</article-title>,” <source>Nucleic Acids Research</source>
+<volume>44</volume>, no. <issue>8</issue> (<year>May 2016</year>): <fpage>3865</fpage>–<lpage>3877</lpage>.<pub-id pub-id-type="pmid">26921406</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkw116</pub-id><pub-id pub-id-type="pmcid">PMC4856985</pub-id></mixed-citation></ref><ref id="adma72049-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="adma72049-cit-0033">“<article-title>An Integrated Expression Atlas of miRNAs and Their Promoters in Human and Mouse</article-title>,” <article-title>
+Nature Biotechnology
+</article-title>
+<volume>35</volume>, no. <issue>9</issue> (<year>Sept. 2017</year>): <fpage>872</fpage>–<lpage>878</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt.3947</pub-id><pub-id pub-id-type="pmcid">PMC5767576</pub-id><pub-id pub-id-type="pmid">28829439</pub-id></mixed-citation></ref><ref id="adma72049-bib-0034"><label>34</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0034">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ricciardi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, et al., “<article-title>Plug‐And‐Play Assembly of Biodegradable Ionizable Lipids for Potent mRNA Delivery and Gene Editing in Vivo</article-title>,” <article-title>
+bioRxiv
+</article-title> (<year>Mar. 2025</year>).</mixed-citation></ref><ref id="adma72049-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="adma72049-cit-0035">
+<string-name name-style="western">
+<given-names>K. T.</given-names>
+<surname>Love</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. P.</given-names>
+<surname>Mahon</surname>
+</string-name>, et al., “<article-title>Lipid‐Like Materials for Low‐Dose, in Vivo Gene Silencing</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>107</volume>, no. <issue>5</issue> (<year>Feb. 2010</year>): <fpage>1864</fpage>–<lpage>1869</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0910603106</pub-id><pub-id pub-id-type="pmcid">PMC2804742</pub-id><pub-id pub-id-type="pmid">20080679</pub-id></mixed-citation></ref><ref id="adma72049-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="adma72049-cit-0036">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. T.</given-names>
+<surname>Love</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Dorkin</surname>
+</string-name>, et al., “<article-title>Lipopeptide Nanoparticles for Potent and Selective Sirna Delivery in Rodents and Nonhuman Primates</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>111</volume>, no. <issue>11</issue> (<year>Mar. 2014</year>): <fpage>3955</fpage>–<lpage>3960</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1322937111</pub-id><pub-id pub-id-type="pmcid">PMC3964096</pub-id><pub-id pub-id-type="pmid">24516150</pub-id></mixed-citation></ref><ref id="adma72049-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="adma72049-cit-0037">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jayaraman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Ansell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. L.</given-names>
+<surname>Mui</surname>
+</string-name>, et al., “<article-title>Maximizing The Potency of Sirna Lipid Nanoparticles for Hepatic Gene Silencing in Vivo</article-title>,” <article-title>
+Angewandte Chemie (International Ed. in English)
+</article-title>
+<volume>51</volume>, no. <issue>34</issue> (<year>Aug. 2012</year>): <fpage>8529</fpage>–<lpage>8533</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/anie.201203263</pub-id><pub-id pub-id-type="pmcid">PMC3470698</pub-id><pub-id pub-id-type="pmid">22782619</pub-id></mixed-citation></ref><ref id="adma72049-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="adma72049-cit-0038">
+<string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Hajj</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Ball</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Deluty</surname>
+</string-name>, et al., “<article-title>Branched‐tail Lipid Nanoparticles Potently Deliver mRNA in Vivo Due to Enhanced Ionization at Endosomal pH</article-title>,” <source>Small</source>
+<volume>15</volume>, no. <issue>6</issue> (<year>2019</year>): <elocation-id>1805097</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/smll.201805097</pub-id><pub-id pub-id-type="pmid">30637934</pub-id></mixed-citation></ref><ref id="adma72049-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="adma72049-cit-0039">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sabnis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. S.</given-names>
+<surname>Kumarasinghe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Salerno</surname>
+</string-name>, et al., “<article-title>A Novel Amino Lipid Series for mRNA Delivery Improved Endosomal Escape and Sustained Pharmacology and Safety in Non‐Human Primates</article-title>,” <source>Molecular Therapy</source>
+<volume>26</volume>, no. <issue>6</issue> (<year>June 2018</year>): <fpage>1509</fpage>–<lpage>1519</lpage>.<pub-id pub-id-type="pmid">29653760</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ymthe.2018.03.010</pub-id><pub-id pub-id-type="pmcid">PMC5986714</pub-id></mixed-citation></ref><ref id="adma72049-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="adma72049-cit-0040">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Verbeke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Lentacker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>De Smedt</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Dewitte</surname>
+</string-name>, “<article-title>The dawn of mRNA vaccines The COVID‐19 case</article-title>,” <source>Journal of Controlled Release</source>
+<volume>333</volume> (<year>May 2021</year>): <fpage>511</fpage>–<lpage>520</lpage>.<pub-id pub-id-type="pmid">33798667</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2021.03.043</pub-id><pub-id pub-id-type="pmcid">PMC8008785</pub-id></mixed-citation></ref><ref id="adma72049-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="adma72049-cit-0041">
+<string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Thatte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Hamilton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. E.</given-names>
+<surname>Nachod</surname>
+</string-name>, et al., “<article-title>mRNA Lipid Nanoparticles for ex Vivo Engineering of Immunosuppressive T Cells for Autoimmunity Therapies</article-title>,” <source>Nano Letters</source>
+<volume>23</volume>, no. <issue>22</issue> (<year>Nov. 2023</year>): <fpage>10,179</fpage>–<lpage>10,188</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.nanolett.3c02573</pub-id><pub-id pub-id-type="pmid">37906000</pub-id></mixed-citation></ref><ref id="adma72049-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="adma72049-cit-0042">
+<string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Mukalel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Hamilton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Billingsley</surname>
+</string-name>, et al., “<article-title>Oxidized mRNA Lipid Nanoparticles for in Situ Chimeric Antigen Receptor Monocyte Engineering</article-title>,” <source>Advanced Functional Materials</source>
+<volume>34</volume>, no. <issue>27</issue> (<year>July 2024</year>): <elocation-id>2312038</elocation-id>.<pub-id pub-id-type="pmid">39628840</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adfm.202312038</pub-id><pub-id pub-id-type="pmcid">PMC11611297</pub-id></mixed-citation></ref><ref id="adma72049-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="adma72049-cit-0043">
+<string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Swingle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Hamilton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. C.</given-names>
+<surname>Safford</surname>
+</string-name>, et al., “<article-title>Placenta‐tropic VEGF mRNA Lipid Nanoparticles Ameliorate Murine Pre‐eclampsia</article-title>,” <source>Nature</source> (<year>Dec. 2024</year>): <fpage>1</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-024-08291-2</pub-id><pub-id pub-id-type="pmcid">PMC12205896</pub-id><pub-id pub-id-type="pmid">39663452</pub-id></mixed-citation></ref><ref id="adma72049-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="adma72049-cit-0044">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Flamme</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. K.</given-names>
+<surname>McKenzie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Sarac</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hollenstein</surname>
+</string-name>, “<article-title>Chemical Methods for The Modification of RNA</article-title>,” <article-title>Development and engineering of artificial RNAs</article-title>
+<volume>161</volume>, <fpage>64</fpage>–<lpage>82</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ymeth.2019.03.018</pub-id><pub-id pub-id-type="pmid">30905751</pub-id></mixed-citation></ref><ref id="adma72049-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="adma72049-cit-0045">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.‐P.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Xia</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. E.</given-names>
+<surname>Nel</surname>
+</string-name>, “<article-title>Use of A Liver‐Targeting Immune‐Tolerogenic mRNA Lipid Nanoparticle Platform To Treat Peanut‐Induced Anaphylaxis By Single‐ and Multiple‐Epitope Nucleotide Sequence Delivery</article-title>,” <source>ACS Nano</source>
+<volume>17</volume>, no. <issue>5</issue> (<year>Mar. 2023</year>): <fpage>4942</fpage>–<lpage>4957</lpage>.<pub-id pub-id-type="pmid">36853930</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acsnano.2c12420</pub-id><pub-id pub-id-type="pmcid">PMC10019335</pub-id></mixed-citation></ref><ref id="adma72049-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="adma72049-cit-0046">
+<string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Melamed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Yerneni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Arral</surname>
+</string-name>, et al., “<article-title>Ionizable Lipid Nanoparticles Deliver mRNA to Pancreatic Cells Via Macrophage‐mediated Gene Transfer</article-title>,” <source>Science Advances</source>
+<volume>9</volume>, no. <issue>4</issue> (<year>2023</year>): <elocation-id>eade1444</elocation-id>.<pub-id pub-id-type="pmid">36706177</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/sciadv.ade1444</pub-id><pub-id pub-id-type="pmcid">PMC9882987</pub-id></mixed-citation></ref><ref id="adma72049-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="adma72049-cit-0047">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Burdette</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Ci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Shilliday</surname>
+</string-name>, et al., “<article-title>Systemic Exposure, Metabolism, and Elimination of [14c]‐labeled Amino Lipid, Lipid 5, After a Single Administration of mRNA Encapsulating Lipid Nanoparticles to Sprague‐Dawley Rats</article-title>,” <source>Drug Metabolism and Disposition</source>
+<volume>51</volume>, no. <issue>7</issue> (<year>2023</year>): <fpage>804</fpage>–<lpage>812</lpage>.<pub-id pub-id-type="pmid">37208185</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.122.001194</pub-id></mixed-citation></ref><ref id="adma72049-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="adma72049-cit-0048">
+<string-name name-style="western">
+<given-names>M. Z. C.</given-names>
+<surname>Hatit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Lokugamage</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. N.</given-names>
+<surname>Dobrowolski</surname>
+</string-name>, et al., “<article-title>Species‐dependent in vivo mRNA Delivery and Cellular Responses to Nanoparticles</article-title>,” <source>Nature Nanotechnology</source>
+<volume>17</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>310</fpage>–<lpage>318</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41565-021-01030-y</pub-id><pub-id pub-id-type="pmcid">PMC9082280</pub-id><pub-id pub-id-type="pmid">35132167</pub-id></mixed-citation></ref><ref id="adma72049-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="adma72049-cit-0049">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zenhausern</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Jang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Schrader Echeverri</surname>
+</string-name>, et al., “<article-title>Lipid Nanoparticle Screening in Nonhuman Primates With Minimal Loss of Life</article-title>,” <source>Nature Biotechnology</source> (<year>2025</year>): <fpage>1</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41587-025-02711-y</pub-id><pub-id pub-id-type="pmcid">PMC13180654</pub-id><pub-id pub-id-type="pmid">40571690</pub-id></mixed-citation></ref><ref id="adma72049-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="adma72049-cit-0050">
+<string-name name-style="western">
+<given-names>Z. N.</given-names>
+<surname>Berneman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>De Laere</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Germonpré</surname>
+</string-name>, et al., “<article-title>WT1‐mRNA Dendritic Cell Vaccination of Patients With Glioblastoma Multiforme, Malignant Pleural Mesothelioma, Metastatic Breast Cancer, and Other Solid Tumors Type 1 t‐lymphocyte Responses are Associated With Clinical Outcome</article-title>,” <source>Journal of Hematology &amp; Oncology</source>
+<volume>18</volume> (<year>2025</year>): <fpage>9</fpage>.<pub-id pub-id-type="pmid">39849594</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13045-025-01661-x</pub-id><pub-id pub-id-type="pmcid">PMC11755790</pub-id></mixed-citation></ref><ref id="adma72049-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="adma72049-cit-0051">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, et al., “<article-title>Targeting Antigen‐presenting Cells To Enhance The Tumo, spleen Immunity Cycle Through Liposome, neoantigen Vaccine</article-title>,” <source>Journal of Hematology &amp; Oncology</source>
+<volume>12</volume>, no. <issue>19</issue> (<year>2025</year>): <elocation-id>2500021</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/advs.202500021</pub-id><pub-id pub-id-type="pmcid">PMC12097013</pub-id><pub-id pub-id-type="pmid">40125791</pub-id></mixed-citation></ref><ref id="adma72049-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="adma72049-cit-0052">
+<string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Fenton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Saleiro</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Platanias</surname>
+</string-name>, “<article-title>Type i and II Interferons in the Anti‐Tumor Immune Response</article-title>,” <source>Cancers</source>
+<volume>13</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>1037</fpage>.<pub-id pub-id-type="pmid">33801234</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cancers13051037</pub-id><pub-id pub-id-type="pmcid">PMC7957896</pub-id></mixed-citation></ref><ref id="adma72049-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="adma72049-cit-0053">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bashiri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Padilla</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Swingle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Shepherd</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Mitchell</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Wang</surname>
+</string-name>, “<article-title>Nanoparticle Protein Corona from Structure and Function to Therapeutic Targeting</article-title>,” <source>Lab on a Chip</source>
+<volume>23</volume>, no. <issue>6</issue> (<year>Jan. 2023</year>): <fpage>1432</fpage>–<lpage>1466</lpage>.<pub-id pub-id-type="pmid">36655824</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/d2lc00799a</pub-id><pub-id pub-id-type="pmcid">PMC10013352</pub-id></mixed-citation></ref><ref id="adma72049-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="adma72049-cit-0054">
+<string-name name-style="western">
+<given-names>A. I.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Cooke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Ching</surname>
+</string-name>, et al., “<article-title>Large‐scale Analysis of the Human and Mouse Transcriptomes</article-title>,” <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<volume>99</volume>, no. <issue>7</issue> (<year>Apr. 2002</year>): <fpage>4465</fpage>–<lpage>4470</lpage>.<pub-id pub-id-type="pmid">11904358</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.012025199</pub-id><pub-id pub-id-type="pmcid">PMC123671</pub-id></mixed-citation></ref><ref id="adma72049-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="adma72049-cit-0055">
+<string-name name-style="western">
+<given-names>A. I.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wiltshire</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Batalov</surname>
+</string-name>, et al., “<article-title>A Gene Atlas of the Mouse and Human Protein‐Encoding Transcriptomes</article-title>,” <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<volume>101</volume>, no. <issue>16</issue> (<year>Apr. 2004</year>): <fpage>6062</fpage>–<lpage>6067</lpage>.<pub-id pub-id-type="pmid">15075390</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0400782101</pub-id><pub-id pub-id-type="pmcid">PMC395923</pub-id></mixed-citation></ref><ref id="adma72049-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="adma72049-cit-0056">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Paunovska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Da Silva Sanchez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Lokugamage</surname>
+</string-name>, et al., “<article-title>The Extent To Which Lipid Nanoparticles Require Apolipoprotein E and Low‐Density Lipoprotein Receptor for Delivery Changes With Ionizable Lipid Structure</article-title>,” <source>Nano Letters</source>
+<volume>22</volume>, no. <issue>24</issue> (<year>Dec. 2022</year>): <fpage>10,025</fpage>–<lpage>10,033</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.nanolett.2c03741</pub-id><pub-id pub-id-type="pmid">36521071</pub-id></mixed-citation></ref><ref id="adma72049-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="adma72049-cit-0057">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Billingsley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Mukalel</surname>
+</string-name>, et al., “<article-title>in vivo mRNA CAR t Cell Engineering Via Targeted Ionizable Lipid Nanoparticles With Extrahepatic Tropism</article-title>,” <source>Small</source>
+<volume>20</volume>, no. <issue>11</issue> (<year>2024</year>): <elocation-id>304378</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/smll.202304378</pub-id><pub-id pub-id-type="pmid">38072809</pub-id></mixed-citation></ref><ref id="adma72049-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="adma72049-cit-0058">
+<string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Elias</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Poloukhtine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Popik</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tsourkas</surname>
+</string-name>, “<article-title>Effect of Ligand Density, Receptor Density, and Nanoparticle Size on Cell Targeting</article-title>,” <source>Nanomedicine: Nanotechnology, Biology and Medicine</source>
+<volume>9</volume>, no. <issue>2</issue> (<year>2013</year>): <fpage>194</fpage>–<lpage>201</lpage>.<pub-id pub-id-type="pmid">22687896</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nano.2012.05.015</pub-id><pub-id pub-id-type="pmcid">PMC3502720</pub-id></mixed-citation></ref><ref id="adma72049-bib-0059"><label>59</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0059">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Luo</surname>
+</string-name>, et al., “<article-title>Endothelial AGO1 Drives Vascular Inflammation and Atherosclerosis Via A Non‐canonical Nuclear Mechanism</article-title>,” <article-title>bioRxiv</article-title> (<year>2025</year>).</mixed-citation></ref><ref id="adma72049-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="adma72049-cit-0060">
+<string-name name-style="western">
+<given-names>P. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Osman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. Y.</given-names>
+<surname>Low</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jamal</surname>
+</string-name>, “<article-title>Plasmaserum Proteomics Depletion Strategies for Reducing High‐Abundance Proteins for Biomarker Discovery</article-title>,” <source>Bioanalysis</source>
+<volume>11</volume>, no. <issue>19</issue> (<year>2019</year>): <fpage>1799</fpage>–<lpage>1812</lpage>.<pub-id pub-id-type="pmid">31617391</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4155/bio-2019-0145</pub-id></mixed-citation></ref><ref id="adma72049-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="adma72049-cit-0061">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. T.</given-names>
+<surname>Love</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>Rapid Discovery of Potent siRNA‐Containing Lipid Nanoparticles Enabled By Controlled Microfluidic Formulation</article-title>,” <source>Journal of the American Chemical Society</source>
+<volume>134</volume>, no. <issue>16</issue> (<year>Apr. 2012</year>): <fpage>6948</fpage>–<lpage>6951</lpage>.<pub-id pub-id-type="pmid">22475086</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/ja301621z</pub-id></mixed-citation></ref><ref id="adma72049-bib-0062"><label>62</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0062">
+<collab collab-type="authors">R Core Team</collab>
+, <article-title>
+<italic toggle="yes">R A Language and Environment for Statistical Computing</italic>, R Foundation for Statistical Computing, Vienna, Austria</article-title>, <year>2023</year>.</mixed-citation></ref><ref id="adma72049-bib-0063"><label>63</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0063">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Rudolph</surname>
+</string-name>, <article-title>
+box: Write Reusable, Composable and Modular R Code
+</article-title>, <year>2024</year>.</mixed-citation></ref><ref id="adma72049-bib-0064"><label>64</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0064">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wickham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>François</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Henry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Müller</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Vaughan</surname>
+</string-name>, <article-title>
+dplyr: A Grammar of Data Manipulation
+</article-title>, <year>2023</year>.</mixed-citation></ref><ref id="adma72049-bib-0065"><label>65</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0065">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wickham</surname>
+</string-name>, <article-title>
+forcats: Tools for Working with Categorical Variables (Factors)
+</article-title>, <year>2023</year>.</mixed-citation></ref><ref id="adma72049-bib-0066"><label>66</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0066">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Clarke</surname>
+</string-name> and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sherrill‐Mix</surname>
+</string-name>, <article-title>
+ggbeeswarm: Categorical Scatter (Violin Point) Plots
+</article-title>, <year>2017</year>.</mixed-citation></ref><ref id="adma72049-bib-0067"><label>67</label><mixed-citation publication-type="book" id="adma72049-cit-0067">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wickham</surname>
+</string-name>, <source>ggplot2: Elegant Graphics for Data Analysis</source> (<publisher-name>Springer‐Verlag</publisher-name>, <year>2016</year>).</mixed-citation></ref><ref id="adma72049-bib-0068"><label>68</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0068">
+<string-name name-style="western">
+<given-names>C. O.</given-names>
+<surname>Wilke</surname>
+</string-name> and <string-name name-style="western">
+<given-names>B. M.</given-names>
+<surname>Wiernik</surname>
+</string-name>, <article-title>
+ggtext: Improved Text Rendering Support for ‘ggplot2’
+</article-title>, <year>2022</year>.</mixed-citation></ref><ref id="adma72049-bib-0069"><label>69</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0069">
+<string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Pedersen</surname>
+</string-name>, <article-title>
+patchwork: The Composer of Plots
+</article-title>, <year>2024</year>.</mixed-citation></ref><ref id="adma72049-bib-0070"><label>70</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0070">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ooms</surname>
+</string-name>, <article-title>
+pdftools: Text Extraction, Rendering and Converting of PDF Documents
+</article-title>, <year>2023</year>.</mixed-citation></ref><ref id="adma72049-bib-0071"><label>71</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0071">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wickham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hester</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bryan</surname>
+</string-name>, <article-title>
+readr: Read Rectangular Text Data
+</article-title>, <year>2024</year>.</mixed-citation></ref><ref id="adma72049-bib-0072"><label>72</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0072">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ooms</surname>
+</string-name>, <article-title>
+rsvg: Render SVG Images into PDF, PNG, (Encapsulated) PostScript, or Bitmap Arrays
+</article-title>, <year>2023</year>.</mixed-citation></ref><ref id="adma72049-bib-0073"><label>73</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0073">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wickham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Henry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Pedersen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Luciani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Decorde</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Lise</surname>
+</string-name>, <article-title>
+svglite: An ‘SVG’ Graphics Device
+</article-title>, <year>2023</year>.</mixed-citation></ref><ref id="adma72049-bib-0074"><label>74</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0074">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wickham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Vaughan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Girlich</surname>
+</string-name>, <article-title>
+tidyr Tidy Messy Data
+</article-title>, <year>2024</year>.</mixed-citation></ref><ref id="adma72049-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="adma72049-cit-0075">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Heger</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Sudbery</surname>
+</string-name>, “<article-title>UMI‐Tools Modeling Sequencing Errors in Unique Molecular Identifiers to Improve Quantification Accuracy</article-title>,” <source>Genome Research</source>
+<volume>27</volume>, no. <issue>3</issue> (<year>Mar. 2017</year>): <fpage>491</fpage>–<lpage>499</lpage>.<pub-id pub-id-type="pmid">28100584</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/gr.209601.116</pub-id><pub-id pub-id-type="pmcid">PMC5340976</pub-id></mixed-citation></ref><ref id="adma72049-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="adma72049-cit-0076">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Benjamini</surname>
+</string-name> and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hochberg</surname>
+</string-name>, “<article-title>Controlling The False Discovery Rate A Practical and Powerful Approach To Multiple Testing</article-title>,” <source>Journal of the Royal Statistical Society, Series B (Methodological)</source>
+<volume>57</volume>, no. <issue>1</issue> (<year>1995</year>): <fpage>289</fpage>–<lpage>300</lpage>.</mixed-citation></ref><ref id="adma72049-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="adma72049-cit-0077">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Piao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Yadav</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Tau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. E.</given-names>
+<surname>Lindenmuth</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. X.</given-names>
+<surname>Wang</surname>
+</string-name>, “<article-title>Double‐stranded RNA Reduction By Chaotropic Agents During In vitro Transcription of Messenger RNA</article-title>,” <source>Molecular Therapy ‐ Nucleic Acids</source>
+<volume>29</volume> (<year>Sept. 2022</year>): <fpage>618</fpage>–<lpage>624</lpage>.<pub-id pub-id-type="pmid">36090758</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.omtn.2022.08.001</pub-id><pub-id pub-id-type="pmcid">PMC9421179</pub-id></mixed-citation></ref><ref id="adma72049-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="adma72049-cit-0078">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.‐G.</given-names>
+<surname>Alameh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Butowska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Knox</surname>
+</string-name>, et al., “<article-title>Adjuvant Lipidoid‐Substituted Lipid Nanoparticles Augment The Immunogenicity of SARS‐CoV‐2 mRNA Vaccines</article-title>,” <source>Nature Nanotechnology</source>
+<volume>18</volume>, no. <issue>9</issue> (<year>2023</year>): <fpage>1105</fpage>–<lpage>1114</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41565-023-01404-4</pub-id><pub-id pub-id-type="pmid">37365276</pub-id></mixed-citation></ref><ref id="adma72049-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="adma72049-cit-0079">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Frey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Di Canzio</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Zurakowski</surname>
+</string-name>, “<article-title>A Statistically Defined Endpoint Titer Determination Method for Immunoassays</article-title>,” <source>Journal of Immunological Methods</source>
+<volume>221</volume>, no. <issue>1</issue> (<year>1998</year>): <fpage>35</fpage>–<lpage>41</lpage>.<pub-id pub-id-type="pmid">9894896</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0022-1759(98)00170-7</pub-id></mixed-citation></ref><ref id="adma72049-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="adma72049-cit-0080">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Welsh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. V. D.</given-names>
+<surname>Pol</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Arkesteijn</surname>
+</string-name>, et al., “<article-title>MIFlowCyt‐EV A Framework for Standardized Reporting of Extracellular Vesicle Flow Cytometry Experiments</article-title>,” <source>Journal of Extracellular Vesicles</source>
+<volume>9</volume>, no. <issue>1</issue> (<year>Feb. 2020</year>): <elocation-id>1713526</elocation-id>.<pub-id pub-id-type="pmid">32128070</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/20013078.2020.1713526</pub-id><pub-id pub-id-type="pmcid">PMC7034442</pub-id></mixed-citation></ref><ref id="adma72049-bib-0081"><label>81</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0081">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hayes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Couch</surname>
+</string-name>, <article-title>
+Broom Convert Statistical Objects into Tidy Tibbles
+</article-title>, <year>2024</year>.</mixed-citation></ref><ref id="adma72049-bib-0082"><label>82</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0082">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Scott</surname>
+</string-name>, <article-title>
+ggborderline: Line Plots that Pop
+</article-title>, <year>2022</year>.</mixed-citation></ref><ref id="adma72049-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="adma72049-cit-0083">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Grolemund</surname>
+</string-name> and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wickham</surname>
+</string-name>, “<article-title>Dates and Times Made Easy With Lubridate</article-title>,” <source>Journal of Statistical Software</source>
+<volume>40</volume>, no. <issue>3</issue> (<year>2011</year>): <fpage>1</fpage>–<lpage>25</lpage>.</mixed-citation></ref><ref id="adma72049-bib-0084"><label>84</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0084">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ooms</surname>
+</string-name>, <article-title>
+magick: Advanced Graphics and Image‐Processing in R
+</article-title>, <year>2024</year>.</mixed-citation></ref><ref id="adma72049-bib-0085"><label>85</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0085">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kassambara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kosinski</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Biecek</surname>
+</string-name>, <article-title>
+survminer: Drawing Survival Curves using 'ggplot2'
+</article-title>, <year>2021</year>.</mixed-citation></ref><ref id="adma72049-bib-0086"><label>86</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0086">
+<string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Therneau</surname>
+</string-name>, <article-title>
+A Package for Survival Analysis in R
+</article-title>, <year>2024</year>.</mixed-citation></ref><ref id="adma72049-bib-0087"><label>87</label><mixed-citation publication-type="miscellaneous" id="adma72049-cit-0087">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Dolstra</surname>
+</string-name>, “<article-title>The purely functional software deployment model</article-title>,” <year>Jan. 2006</year>.</mixed-citation></ref><ref id="adma72049-bib-0088"><label>88</label><mixed-citation publication-type="book" id="adma72049-cit-0088">
+<string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Therneau</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Grambsch</surname>
+</string-name>, <source>Modeling Survival Data: Extending the Cox Model</source> (<publisher-name>Springer</publisher-name>, <year>2000</year>).</mixed-citation></ref></ref-list></back></article>

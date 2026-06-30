@@ -1,0 +1,1327 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="advs5579" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="pmc-domain-id">2933</journal-id><journal-id journal-id-type="pmc-domain">advsci</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10323619</article-id><article-id pub-id-type="pmcid-ver">PMC10323619.1</article-id><article-id pub-id-type="pmcaid">10323619</article-id><article-id pub-id-type="pmcaiid">10323619</article-id><article-id pub-id-type="pmid">37092557</article-id><article-id pub-id-type="doi">10.1002/advs.202301929</article-id><article-id pub-id-type="publisher-id">ADVS5579</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>A Combinatorial Library of Lipid Nanoparticles for Cell Type‐Specific mRNA Delivery</article-title></title-group><contrib-group><contrib id="advs5579-cr-0001" contrib-type="author"><name name-style="western"><surname>Naidu</surname><given-names initials="GS">Gonna Somu</given-names></name><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs5579-cr-0002" contrib-type="author"><name name-style="western"><surname>Yong</surname><given-names initials="SB">Seok‐Beom</given-names></name><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="advs5579-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="advs5579-cr-0003" contrib-type="author"><name name-style="western"><surname>Ramishetti</surname><given-names initials="S">Srinivas</given-names></name><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs5579-cr-0004" contrib-type="author"><name name-style="western"><surname>Rampado</surname><given-names initials="R">Riccardo</given-names></name><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs5579-cr-0005" contrib-type="author"><name name-style="western"><surname>Sharma</surname><given-names initials="P">Preeti</given-names></name><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs5579-cr-0006" contrib-type="author"><name name-style="western"><surname>Ezra</surname><given-names initials="A">Assaf</given-names></name><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs5579-cr-0007" contrib-type="author"><name name-style="western"><surname>Goldsmith</surname><given-names initials="M">Meir</given-names></name><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs5579-cr-0008" contrib-type="author"><name name-style="western"><surname>Hazan‐Halevy</surname><given-names initials="I">Inbal</given-names></name><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs5579-cr-0009" contrib-type="author"><name name-style="western"><surname>Chatterjee</surname><given-names initials="S">Sushmita</given-names></name><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs5579-cr-0010" contrib-type="author"><name name-style="western"><surname>Aitha</surname><given-names initials="A">Anjaiah</given-names></name><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs5579-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Peer</surname><given-names initials="D">Dan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8238-0673</contrib-id><xref rid="advs5579-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs5579-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs5579-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs5579-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>peer@tauex.tau.ac.il</email></address></contrib></contrib-group><aff id="advs5579-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Laboratory of Precision Nanomedicine</named-content>
+<named-content content-type="organisation-division">The Shmunis School of Biomedicine and Cancer Research</named-content>
+<named-content content-type="organisation-division">George S. Wise Faculty of Life Sciences</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel‐Aviv</city>
+<postal-code>69978</postal-code>
+<country country="IL">Israel</country>
+</aff><aff id="advs5579-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Materials Sciences and Engineering</named-content>
+<named-content content-type="organisation-division">Iby and Aladar Fleischman Faculty of Engineering</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<postal-code>69978</postal-code>
+<country country="IL">Israel</country>
+</aff><aff id="advs5579-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Center for Nanoscience and Nanotechnology</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<postal-code>69978</postal-code>
+<country country="IL">Israel</country>
+</aff><aff id="advs5579-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Cancer Biology Research Center</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<postal-code>69978</postal-code>
+<country country="IL">Israel</country>
+</aff><aff id="advs5579-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Nucleic Acid Therapeutics Research Center</named-content>
+<institution>Korea Research Institute of Bioscience and Biotechnology (KRIBB)</institution>
+<city>Chungcheongbuk‐do</city>
+<postal-code>28116</postal-code>
+<country country="KR">Republic of Korea</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E‐mail: <email>peer@tauex.tau.ac.il</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>4</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2023</year></pub-date><volume>10</volume><issue seq="160">19</issue><issue-id pub-id-type="pmc-issue-id">440075</issue-id><issue-id pub-id-type="doi">10.1002/advs.v10.19</issue-id><elocation-id>2301929</elocation-id><history>
+<date date-type="received"><day>25</day><month>3</month><year>2023</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>24</day><month>04</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>07</day><month>07</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-07-07 03:25:09.950"><day>07</day><month>07</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2023 The Authors. Advanced Science published by Wiley‐VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ADVS-10-2301929.pdf"><?pdf-name ADVS-10-2301929.pdf?><?pdf-size 4600109?><?pdf-md5 d464aecd7211cae4bf5c76d1ca357d84?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:7c21/10323619/d464aecd7211/ADVS-10-2301929.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ADVS-10-2301929.pdf"/><abstract><title>Abstract</title><p>Ionizable lipid‐based nanoparticles (LNPs) are the most advanced non‐viral drug delivery systems for RNA therapeutics and vaccines. However, cell type‐specific, extrahepatic mRNA delivery is still a major hurdle, hampering the development of novel therapeutic modalities. Herein, a novel ionizable lipid library is synthesized by modifying hydrophobic tail chains and linkers. Combined with other helper lipids and utilizing a microfluidic mixing approach, stable LNPs are formed. Using Luciferase‐mRNA, mCherry mRNA, and Cre mRNA together with a TdTomato animal model, superior lipids forming LNPs for potent cell‐type specific mRNA delivery are identified. In vitro assays concluded that combining branched ester tail chains with hydroxylamine linker negatively affects mRNA delivery efficiency. In vivo studies identify Lipid 23 as a liver‐trophic, superior mRNA delivery lipid and Lipid 16 as a potent cell type‐specific ionizable lipid for the CD11b<sup>hi</sup> macrophage population without an additional targeting moiety. Finally, in vivo mRNA delivery efficiency and toxicity of these LNPs are compared with SM‐102‐based LNP (Moderna's LNP formulation) and are shown to be cell‐specific compared to SM‐102‐based LNPs. Overall, this study suggests that a structural combination of tail and linker can drive a novel functionality of LNPs in vivo.</p></abstract><abstract id="advs5579-abs-0001" abstract-type="graphical"><p>Herein, new ionizable lipid nanoparticles are developed and screened to enhance mRNA delivery in vivo. In vitro and in vivo screening identified two lipid‐based nanoparticles with novel functionality for in vivo mRNA delivery (Lipid 16 and Lipid 23). The combination of structural modules determines the novel functionality of ionizable lipids.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ADVS-10-2301929-g002.jpg"><?image-name ADVS-10-2301929-g002.jpg?><?image-size 8755?><?image-md5 fdb8940e6eb622c3197114e5f739aeb2?><?image-image-server-status NEVER_LOAD?><?image-original-height 73?><?image-original-width 180?><?image-scaled-height 73?><?image-scaled-width 180?><?image-cloudpmc-urn urn:cdn:blobs/7c21/10323619/fdb8940e6eb6/ADVS-10-2301929-g002.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs5579-kwd-0001">cell type‐specific mRNA delivery</kwd><kwd id="advs5579-kwd-0002">combinatorial lipid nanoparticles</kwd><kwd id="advs5579-kwd-0004">mRNA delivery</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Shmunis Family Foundation</funding-source></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Research Foundation of Korea
+</institution><institution-id institution-id-type="doi">10.13039/501100003725</institution-id></institution-wrap></funding-source><award-id>2021R1A6A3A03039300</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Tel Aviv University
+</institution><institution-id institution-id-type="doi">10.13039/501100004375</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0004"><funding-source>Institutional Animal Care and Usage Committee</funding-source></award-group><award-group id="funding-0005"><funding-source>Israel Ministry of Health</funding-source></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="10"/><word-count count="5395"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 6, 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.1 mode:remove_FC converted:06.07.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs5579-cit-0033">
+<string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Naidu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.‐B.</given-names>
+<surname>Yong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ramishetti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rampado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ezra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Goldsmith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Hazan‐Halevy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chatterjee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Aitha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Peer</surname>
+</string-name>, <article-title>A Combinatorial Library of Lipid Nanoparticles for Cell Type‐Specific mRNA Delivery</article-title>. <source>Adv. Sci.</source>
+<year>2023</year>, <volume>10</volume>, <elocation-id>2301929</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202301929</pub-id>
+<pub-id pub-id-type="pmcid">PMC10323619</pub-id><pub-id pub-id-type="pmid">37092557</pub-id></mixed-citation>
+</p></notes></front><body><sec id="advs5579-sec-0010"><label>1</label><title>Introduction</title><p>Lipid nanoparticles (LNPs) have been the most advanced non‐viral drug delivery vectors for various RNA therapeutics since Patisiran (Onpattro) and mRNA vaccine approvals.<sup>[</sup>
+<xref rid="advs5579-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> The mRNA‐therapeutics deliver a protein‐encoding sequence of interest and have great potential for treating various diseases. Ionizable lipid‐based LNPs are the most advanced delivery vehicle for mRNA.<sup>[</sup>
+<xref rid="advs5579-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="advs5579-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>]</sup> However, the majority of mRNA‐LNPs accumulate in the liver, and thus extra‐hepatic delivery is still considered a significant hurdle, especially for diseased cells within organs. Recent studies have demonstrated organ tropism of RNA‐LNPs to the spleen and lung by modifying the surface charge of LNPs.<sup>[</sup>
+<xref rid="advs5579-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> However, the current composition of the ionizable lipid nanoparticle formulation is well‐optimized for RNA loading and stability and modification of this formulation by adding, for example, a “selective organ targeting (SORT)” molecule or increasing the ratio of helper lipids could induce stability issues.<sup>[</sup>
+<xref rid="advs5579-bib-0003" ref-type="bibr">
+<sup>3a,b</sup>
+</xref>
+<sup>]</sup>
+</p><p>Cell type‐specific delivery of mRNA is the holy grail of therapeutics. A recent study reported that the replacement of helper lipid in LNP with an anionic lipid increases sinusoidal endothelial cell (SEC) delivery of mRNA in the liver,<sup>[</sup>
+<xref rid="advs5579-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> and targeting ligand‐modifications on the surface of LNPs enabled cell type‐specific mRNA delivery.<sup>[</sup>
+<xref rid="advs5579-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>]</sup> However, adding a targeting moiety to the LNPs surface, such as a receptor‐binding antibody,<sup>[</sup>
+<xref rid="advs5579-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> via chemical conjugation of the ligand could be an unexpected challenge due to potential adverse effects on the stability of mRNA‐loaded LNPs, issues with controlling the orientation of the targeting ligand on the LNPs’ surface, as well as CMC for large scale production and clinical translation.</p><p>Rather than the charge‐ or ligand‐modification, the structure of ionizable lipid could drive an organ‐ and cell type‐tropism, for example, the piperazine structure‐bearing lipid for the broad immune cells population‐targeted mRNA delivery,<sup>[</sup>
+<xref rid="advs5579-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup> and an organ‐selective mRNA delivery by the ester or amide bond‐containing tail structure (“O” or “N”‐series).<sup>[</sup>
+<xref rid="advs5579-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> These studies imply a probability of ionizable lipid structure‐driven, more precise cell type‐specific mRNA delivery. However, it hardly predicts the lipid function based on the lipid structure date.<sup>[</sup>
+<xref rid="advs5579-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup>
+</p><p>Our previous study described a library of lipid structures based on hydrazine, hydroxylamine, and ethanolamine linkers for siRNA delivery to leukocytes.<sup>[</sup>
+<xref rid="advs5579-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> Several of these lipids showed an efficient mRNA delivery in cancer cells, which outperformed MC3‐based LNP.<sup>[</sup>
+<xref rid="advs5579-bib-0002" ref-type="bibr">
+<sup>2a</sup>
+</xref>
+<sup>]</sup> Yet, low mRNA delivery efficiency in vivo still hampers the development of novel mRNA therapeutics. Herein, eight new ionizable lipids were designed and synthesized using different hydrophobic tails and were screened to identify LNPs for enhanced mRNA delivery in vivo.</p></sec><sec id="advs5579-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="advs5579-sec-0030"><label>2.1</label><title>Structure of the Ionizable Lipids</title><p>Our primary aim was to design and synthesize new amino ionizable lipids for enhanced mRNA delivery in vivo in a safe manner. In our previous study, we observed that hydroxylamine (Lipid 6) and ethanolamine (Lipid 8) linkers show good RNA delivery efficacy as compared to hydrazine linkers.<sup>[</sup>
+<xref rid="advs5579-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> Hence, Lipid 6 and Lipid 8 were used as reference pairs of lipids, wherein the linoleyl fatty acid chain used as both hydrophobic tails. Recently, the biodegradability of the tail was proved to be a critical factor for mRNA delivery in vivo,<sup>[</sup>
+<xref rid="advs5579-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> and a minor structural modification in the tails of ionizable lipids generated a novel functionality.<sup>[</sup>
+<xref rid="advs5579-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> Based on these studies, we rationally designed and synthesized a series of 8 new amino ionizable lipids by replacing the linoleyl chains of Lipids 6 and 8 with the other hydrophobic tails. For Lipids 16 and 17, the linoleyl chain was used as one hydrophobic tail, and the other hydrophobic chain was replaced with a non‐branched ester chain. In the case of Lipids 18 and 19, linoleyl and branched ester tails were used. The combination of non‐branched and branched ester tails was used for Lipids 20 and 21, whereas two different branched ester chains were used for Lipids 22 and 23 (<bold>Figure</bold>
+<xref rid="advs5579-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>). All the lipids were synthesized utilizing standard organic synthesis procedures and characterized by NMR and mass spectroscopic techniques (see Supporting Information).</p><fig position="float" fig-type="Figure" id="advs5579-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Structures of ionizable amino lipids. The lipids were synthesized with hydroxylamine/ethanolamine linkers with different hydrophobic tail chains. For Lipids 16 and 17, a linoleyl chain and a nonbranched ester chain were included as hydrophobic tail chains. Lipid 18 and Lipid 19 had linoleyl and branched ester tail chains. The non‐branched and branched ester tail chains were used for Lipid 20 and Lipid 21, whereas two different branched ester chains were used as tail chains for Lipid 22 and 23.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ADVS-10-2301929-g001.jpg"><?image-name ADVS-10-2301929-g001.jpg?><?image-size 51880?><?image-md5 53f2146f47bb091ed8b086da58b2edc4?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 487?><?image-original-width 820?><?image-scaled-height 324?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/7c21/10323619/53f2146f47bb/ADVS-10-2301929-g001.jpg?><?thumb-name ADVS-10-2301929-g001.gif?><?thumb-size 5674?><?thumb-md5 c8ee1dd107021fee17d21ceaa202b6a0?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 134?><?thumb-cloudpmc-urn urn:cdn:blobs/7c21/10323619/c8ee1dd10702/ADVS-10-2301929-g001.gif?></graphic></fig></sec><sec id="advs5579-sec-0040"><label>2.2</label><title>In Vitro Screening of LNPs for Enhanced mRNA Delivery</title><p>Ionizable lipid based‐LNPs were prepared using a microfluidic mixing device, Nanoassemblr, as previously described<sup>[</sup>
+<xref rid="advs5579-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs5579-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> (<bold>Figure</bold>
+<xref rid="advs5579-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>). All LNPs encapsulating the firefly luciferase mRNA (mLuc) showed homogeneous nano‐size distribution measured between 40 and 80 nm in diameter and <italic toggle="yes">ζ</italic>‐potential, measured between −7 to 2 mV. Each pair of LNPs show similarity in its physicochemical characteristics (Figure <xref rid="advs5579-fig-0002" ref-type="fig">2b</xref>). Encapsulation efficiency was evaluated as &gt;70% for all the LNP formulations (Figure <xref rid="advs5579-fig-0002" ref-type="fig">2c</xref>). DLS analysis of mRNA‐encapsulated LNPs revealed that the size, PDI, and RNA encapsulation were stable for more than a month in a regular refrigerator (2–8 °C). One pair of LNPs prepared with Lipid 16 and 17 was slightly less durable than the others. These two lipids include a non‐branched ester chain in one of the hydrophobic tails (Figure <xref rid="advs5579-fig-0002" ref-type="fig">2d–f</xref>). Although in vitro delivery efficiency of mRNA‐LNPs does not always correlate with in vivo delivery efficiency,<sup>[</sup>
+<xref rid="advs5579-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> in vitro assay could be used as a selection strategy to exclude LNPs with a low mRNA delivery efficiency of optimized formulations.<sup>[</sup>
+<xref rid="advs5579-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs5579-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> To this end, the mRNA delivery efficiency of these different LNPs formulations was evaluated in 3 different, non‐hepatic cell lines, B16F10, CT26, and Raw264.7, representing epithelial, fibroblast, and macrophage cells, respectively. In vitro luciferase assay identified 2‐ionizable lipids with lower mRNA delivery efficiency in all three cell lines, with the most inadequate mRNA delivery by Lipid 22, which shows more than two orders of magnitude lower firefly luciferase expression in comparison with that of Lipid 16 (Figure <xref rid="advs5579-fig-0002" ref-type="fig">2g</xref>, Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S1b</xref>, Supporting Information). The ionizable lipids with hydroxylamine linker showed less mRNA delivery efficiency than their ethanolamine linker pairs, especially for Lipids 18 and 22, which have branched ester chains in their structure. The pair of lipids with branched ester tails showed the most significant difference in between for luciferase mRNA delivery (Figure <xref rid="advs5579-fig-0002" ref-type="fig">2h</xref>). Finally, it was concluded that combining hydroxylamine linker with branched ester fatty acid tail chains led to lower mRNA delivery, and 2 ionizable lipids, 18 and 22, were excluded from the following in vivo screening experiments.</p><fig position="float" fig-type="Figure" id="advs5579-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>In vitro screening of amino ionizable LNPs for mRNA delivery. a) Schematic illustration of a microfluidic mixing preparation of mRNA‐encapsulated ionizable‐based LNPs b) Physicochemical characterization of mRNA‐encapsulated ionizable‐based LNPs. The size and <italic toggle="yes">ζ</italic>‐potential of mRNA‐encapsulated LNPs were measured using DLS. c) Encapsulation efficiency of mRNA in LNPs. Data are presented as mean ± S.D., <italic toggle="yes">n</italic> = 3–6/group for “b” and “c”. d‐f) Stability of mRNA‐encapsulated LNPs. DLS analysis of size distribution and PDI value at indicated days post LNP preparation. “d” for nano‐size, “e” for polydispersity index, “f” for RNA‐encapsulation (Percentile of LNP‐encapsulated mRNA to total RNA amount in the sample). Data are presented as mean ± S.E.M. g) Heat map image for an in vitro luciferase assay. 3‐different non‐hepatic cell lines were treated with mLuc‐LNP (mRNA dose: 0.2 µg mL<sup>−1</sup>), and the luciferase activity was measured 24hr post‐treatment. Data are presented as mean ± S.E.M., <italic toggle="yes">n</italic> = 3—6 per group for “d” to “g”. h) Ratio of in vitro luciferase activity between ionizable LNP pairs. The luciferase activity ratio between LNP pairs with the ethanolamine‐linker and the hydroxylamine‐linker is shown. Each dot indicates the mean value from each cell line. Data is presented as mean ± S.E.M.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ADVS-10-2301929-g007.jpg"><?image-name ADVS-10-2301929-g007.jpg?><?image-size 84472?><?image-md5 610d52d780c40f3bed365f93d9e24a30?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 698?><?image-original-width 820?><?image-scaled-height 465?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/7c21/10323619/610d52d780c4/ADVS-10-2301929-g007.jpg?><?thumb-name ADVS-10-2301929-g007.gif?><?thumb-size 7270?><?thumb-md5 e8f473c4461032f4a763d1567a8c3eaa?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 85?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/7c21/10323619/e8f473c44610/ADVS-10-2301929-g007.gif?></graphic></fig></sec><sec id="advs5579-sec-0050"><label>2.3</label><title>In Vivo Screening of LNPs for mRNA Delivery</title><p>To screen the remaining 8 ionizable lipids in vivo, wild‐type C57BL/6 mice were injected with mRNA‐encapsulated LNPs through the tail vein, and the mRNA expression was analyzed at the organ‐ and cellular‐ levels (<bold>Figure</bold>
+<xref rid="advs5579-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>). mLuc was delivered by the LNPs, and in vivo luciferase activity was measured to compare in vivo mRNA delivery between the different LNP formulations. The 0.3–1.0 mg kg<sup>−1</sup> is the generally accepted dose for the systemic administration of mRNA in vivo.<sup>[</sup>
+<xref rid="advs5579-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs5579-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs5579-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs5579-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> To this end, we injected the mice with an mRNA dose of 0.5 mg kg<sup>−1</sup>. At 6hr postinjection, most of the luciferase signal was detected in the liver and the spleen for all LNPs, which are the major organs of LNPs accumulation<sup>[</sup>
+<xref rid="advs5579-bib-0003" ref-type="bibr">
+<sup>3a,b</sup>
+</xref>
+<sup>]</sup> (Figure <xref rid="advs5579-fig-0003" ref-type="fig">3b</xref>). Lipid 8, one of the reference lipids, showed the lowest luciferase expression in the organs. As presented in the organ luciferase signal bar graphs, two lipids show a noticeable difference compared to a reference lipid, Lipid 6. We observed higher luciferase expression in the lungs (4.18‐fold) and spleen (4.56‐fold) by Lipid 16‐LNP compared to Lipid 6‐LNP. Lipid 20‐LNP showed slightly higher mRNA delivery to the spleen than Lipid 6‐LNP (Figure <xref rid="advs5579-fig-0003" ref-type="fig">3c–e</xref>). Lipid 23‐LNP showed the highest mRNA delivery in the liver (2.03‐fold), which was higher than Lipid 6‐LNP (Figure <xref rid="advs5579-fig-0003" ref-type="fig">3c–e</xref>). Although Lipid 17‐LNP showed a comparable luciferase expression to Lipid 16‐LNP in vitro, the lowest organ luciferase expression was observed in Lipid 17‐LNP and therefore was excluded from the experimental set of 24 h (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S2</xref>, Supporting Information). The “Spleen to liver” ratio of luciferase signal intensity indicated the highest value for LNPs formed by Lipid 8 and Lipid 16, while the lowest values were observed with the Lipid 23‐LNP group (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S3</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs5579-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>In vivo screening of amino ionizable LNPs for mRNA delivery. a) Experimental scheme for in vivo screening study. The mLuc or mCherry mRNA‐encapsulated LNPs (mRNA dose: 0.5 mg kg<sup>−1</sup>) were injected into wild‐type C57BL/6 mice through the tail vein, and organ and cellular expression were analyzed at 6, 24hr postinjection. b) Representative organ images for in vivo luciferase assay. Mice were injected with D‐luciferin (150 mg kg<sup>−1</sup>), and major organs were harvested at 6 h post mRNA injection. c‐e) Bar graph for in vivo luciferase assay. The in vivo luciferase activity for organs was shown at 6 and 24 h postinjection. Bar and lined bar indicate 6 and 24 h results, respectively. The “c”, “d”, and “e” represents the lung, liver, and spleen results. f‐h) Bar graph for in vivo cellular distribution study. Mice were injected with mCherry mRNA‐encapsulated LNPs, and mCherry‐expression was analyzed using flow cytometry at 6 h post‐injection. i) The Correlation study for organ luciferase activity and cellular mCherry‐expression. The correlation between a luciferase activity ratio (spleen to the liver) and a mCherry‐expression ratio (CD11b<sup>−hi</sup> splenic macrophage to hepatocyte) was shown for each LNP. Data are presented as mean ± S.E.M, *<italic toggle="yes">P &lt;</italic> 0.05, **<italic toggle="yes">P</italic> &lt; 0.01, ***<italic toggle="yes">P</italic> &lt; 0.001 by one‐way ANOVA with Tukey's post hoc test, n.s = not significant, <italic toggle="yes">n</italic> = 3–5 mice per group for “c” to “e”. <italic toggle="yes">n</italic> = 3–4 mice per group for “f” to “h”.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ADVS-10-2301929-g003.jpg"><?image-name ADVS-10-2301929-g003.jpg?><?image-size 165062?><?image-md5 de38c554ffe8ca7664860044f9cfa2dd?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 965?><?image-original-width 600?><?image-scaled-height 965?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/7c21/10323619/de38c554ffe8/ADVS-10-2301929-g003.jpg?><?thumb-name ADVS-10-2301929-g003.gif?><?thumb-size 10105?><?thumb-md5 c7993338155a4e556bea8b811a5f66c5?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 161?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/7c21/10323619/c7993338155a/ADVS-10-2301929-g003.gif?></graphic></fig><p>As previously reported,<sup>[</sup>
+<xref rid="advs5579-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> cell type‐tropism of mRNA‐LNPs drives the extra‐hepatic organ distribution, especially towards the spleen. To this end, mCherry mRNA‐encapsulating LNPs were systemically injected, and mRNA expression was analyzed at cellular levels to address the cell type‐specificity of LNPs. Lipids 6, 16, 20, and 23 were chosen based on the in vivo luciferase expression study for this cellular distribution study. The mCherry mRNA‐LNPs showed a size distribution ranging from 50 to 80 nm in diameter, which is in line with the preparations of mLuc‐LNPs (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S4</xref>, Supporting Information). The cells were gated based on the expressions of CD45, CD11b, Gr1, F4/80, CD3, CD19, and CD31. The CD45<sup>+</sup>CD11c<sup>mid/low</sup>CD11b<sup>hi</sup>F4/80<sup>+</sup>Gr1<sup>mid/low</sup> cells were gated as CD11b<sup>hi</sup> macrophages.<sup>[</sup>
+<xref rid="advs5579-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> CD45<sup>+</sup>CD3<sup>+</sup> and CD45<sup>+</sup>CD19<sup>+</sup> cells were gated as T and B cells, respectively. The CD45<sup>−</sup>CD31<sup>+</sup> and CD45<sup>−</sup>CD31<sup>−</sup> cells were identified as endothelial and hepatocyte/epithelial cells, respectively (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S5</xref>, Supporting Information).<sup>[</sup>
+<xref rid="advs5579-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs5579-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> Lipid 6‐LNPs exhibited most of the mCherry‐expression in endothelial cells (11.85%) and hepatocytes (4.57%) in the liver, but no significant expression was observed in other types of cells and organs. Lipid 23‐LNP showed a greater mCherry‐expression in hepatocytes (6.61%) and CD11b<sup>hi</sup> macrophages (1.72%) than others. Interestingly, Lipid 16‐LNP showed the highest mCherry‐expression in the CD11b<sup>hi</sup> macrophages in all organs (6.38%, 5.84%, and 7.04% for mCherry<sup>+</sup>CD11b<sup>hi</sup> macrophages in the lung, liver, and spleen, respectively) while slightly lower mCherry‐expression in hepatocytes and liver endothelial cells in comparison with the Lipid 6 and 23 LNPs (Figure <xref rid="advs5579-fig-0003" ref-type="fig">3f–h</xref>, Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S6</xref>, Supporting Information). A high correlation (R<sup>2</sup>: 0.974) was observed between the “mCherry‐expression ratio (splenic CD11b<sup>hi</sup> macrophages to liver hepatocytes)” and “mLuc‐expression ratio (spleen to the liver)” (Figure <xref rid="advs5579-fig-0003" ref-type="fig">3i</xref>). However, the size or charge of LNPs did not show a significant correlation with splenic mRNA delivery, which is distinguished from the negatively charged LNPs for splenic mRNA delivery in the previous study (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S7</xref>, Supporting Information).<sup>[</sup>
+<xref rid="advs5579-bib-0003" ref-type="bibr">
+<sup>3a,b</sup>
+</xref>
+<sup>]</sup> A lower pKa value of LNP was identified as a factor increasing the splenic mRNA delivery.<sup>[</sup>
+<xref rid="advs5579-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> A result of the TNS assay indicated a low correlation (<italic toggle="yes">R</italic>
+<sup>2</sup>: 0.3) between the pKa value of mRNA‐LNPs and the splenic mRNA expression level (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S8</xref>, Supporting Information). These results support our claim that the mechanism for splenic mRNA delivery of Lipid 16‐LNP is different from the previously reported mechanisms of charge‐ and pKa‐ mediated splenic delivery.<sup>[</sup>
+<xref rid="advs5579-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="advs5579-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> Protein corona on the surface of LNPs was identified as a critical factor for an alteration of organ selectivity.<sup>[</sup>
+<xref rid="advs5579-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs5579-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="advs5579-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> Besides the characteristic of LNP, a difference in the intracellular environment in macrophages could be an inducer for the cell type tropism.<sup>[</sup>
+<xref rid="advs5579-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> Further details on the mechanism for the cell type‐specificity of Lipid 16‐LNP, such as the protein corona composition, should be addressed in future studies. In conclusion, Lipid 23 was identified as a superior lipid for liver mRNA delivery, and Lipid 16 was identified as a cell type‐specific lipid for CD11b<sup>hi</sup> macrophages. The higher luciferase expression of Lipid 16‐LNP was observed in the spleen and lungs might be derived from the macrophage‐specific mRNA expression in these organs, as shown by our preferential expression of mCherry in CD11b<sup>hi</sup> macrophages.</p></sec><sec id="advs5579-sec-0060"><label>2.4</label><title>In Vivo Selective and Tumor‐targeted mRNA Delivery via LNPs</title><p>Although the mLuc and mCherry mRNA delivery studies represent a temporal expression of mRNA delivered by the LNPs, it is hard to analyze an accumulative effect of mRNA expression by these kinds of surrogate markers. Hence, a cumulative effect of mRNA expression was investigated in the tdTomato‐Cre recombinase mouse model.<sup>[</sup>
+<xref rid="advs5579-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> The Cre recombinase mRNA‐encapsulated, Lipid 16‐ and 23‐ LNPs showed homogeneous size distribution (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S9</xref>, Supporting Information). The Cre recombinase‐induced tdTomato‐expression was analyzed in the organs at 72 h post intravenous injection (<bold>Figure</bold>
+<xref rid="advs5579-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>). As previously reported, extracellular vesicles transport cellular mRNA and proteins to the neighboring cells.<sup>[</sup>
+<xref rid="advs5579-bib-0021" ref-type="bibr">
+<sup>21b</sup>
+</xref>
+<sup>]</sup> Hence, the tdTomato<sup>−hi</sup> population was gated as the Cre mRNA‐delivered cells (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S10</xref>, Supporting Information). Both LNPs exhibit the highest tdTomato‐expression in the liver endothelial cells and hepatocytes with ≈40% expression level. A slight difference between Lipid 16 and 23 was shown for hepatocyte expression (1.27‐fold). A significant difference in tdTomato‐expression between Lipid 16 and 23 was observed in the CD11b<sup>hi</sup> macrophage population in all organs. These results align with the mCherry mRNA delivery data (Figure <xref rid="advs5579-fig-0004" ref-type="fig">4b</xref>, Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S11</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs5579-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>In vivo Cre mRNA delivery &amp; tumor‐targeted mRNA delivery study. a) Experimental scheme for Cre mRNA delivery in vivo. The Ai9 (RCL‐tdT) mice were injected with Cre recombinase mRNA‐LNPs (mRNA dose: 0.6 mg kg<sup>−1</sup>), and the organs were harvested at 72 h post‐injection. b) Bar graph for the ratio of tdTomato‐expressing cell. The organs were digested into single cells for flow cytometric analysis to measure tdTomato‐expression in various cell types. c) Experimental scheme for tumor‐targeted mRNA delivery study. B16F10 tumor‐bearing mice were intravenously injected with mLuc‐LNPs (mRNA dose: 0.6 mg kg<sup>−1</sup>), and tumors were harvested at 6hr post‐injection to measure luciferase intensity. d) Representative tumor images and bar graph of luciferase signal intensity. e) Bar graph for tumor‐to‐liver luciferase intensity ratio. Data are presented as mean ± S.E.M for “b” to “d” and Box &amp; Whiskers for “e”, *<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01, ***<italic toggle="yes">P</italic>&lt;0.001 by one‐way ANOVA with Tukey's post hoc test, n.s = not significant, <italic toggle="yes">n</italic> = 3–4 mice per group for “b”, <italic toggle="yes">n</italic> = 5 mice per group for “d, e”.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ADVS-10-2301929-g004.jpg"><?image-name ADVS-10-2301929-g004.jpg?><?image-size 110154?><?image-md5 78ef2c7fe2bdd027194610af6929bb53?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1061?><?image-original-width 810?><?image-scaled-height 707?><?image-scaled-width 540?><?image-cloudpmc-urn urn:cdn:blobs/7c21/10323619/78ef2c7fe2bd/ADVS-10-2301929-g004.jpg?><?thumb-name ADVS-10-2301929-g004.gif?><?thumb-size 8754?><?thumb-md5 6ab8fbbf7451fc02ca58c2adb7d1d3b1?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 131?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/7c21/10323619/6ab8fbbf7451/ADVS-10-2301929-g004.gif?></graphic></fig><p>As reported in our previous study,<sup>[</sup>
+<xref rid="advs5579-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> the CD11b<sup>hi</sup> macrophages consist of tumor myeloid/immune cells. We hypothesized that the CD11b<sup>hi</sup> macrophage‐tropism of Lipid 16 would increase the mRNA delivery to a solid tumor. We, therefore, employed the B16F10 melanoma model to address this hypothesis (Figure <xref rid="advs5579-fig-0004" ref-type="fig">4c</xref>). Flow cytometric analysis identified ≈4% of the CD11b<sup>hi</sup> macrophages in a B16F10 tumor tissue, which is the comparable frequency in lung tissue (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S12</xref>, Supporting Information). Lipid 16‐LNP showed a higher luciferase mRNA delivery for tumor tissue compared to Lipid 6‐ and Lipid 23‐ LNPs with 3.79‐ and 2.48‐fold increased intensity of luciferase signal (Figure <xref rid="advs5579-fig-0004" ref-type="fig">4d</xref>). The tumor‐to‐liver ratio of luciferase intensity indicated the highest value for Lipid 16‐LNP (Figure <xref rid="advs5579-fig-0004" ref-type="fig">4e</xref>). These results suggest a potential of Lipid 16‐LNP for tumor‐targeted therapeutic mRNA delivery, such as a secretory immune checkpoint blockade antibody and anti‐tumoral cytokine. In addition, the mRNA delivery potency of Lipid 16‐ and 23‐ LNPs was evaluated for a month. Both LNPs showed a decrease in mRNA delivery efficiency depending on the time. A sharper decline of mRNA delivery efficiency was observed for Lipid 23‐LNP than that of Lipid 16‐LNP with 50% and 68% in CT26 cells at four weeks after LNP‐preparations, respectively (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S13</xref>, Supporting Information).</p></sec><sec id="advs5579-sec-0070"><label>2.5</label><title>No In Vivo Toxicity Observed for mRNA‐LNPs</title><p>Finally, in vivo toxicity of mRNA‐LNPs was evaluated by measuring liver enzyme levels and organ histology. No significant differences in the liver enzyme levels and blood markers such as creatinine, bilirubin, and total protein levels were observed for all LNP‐treated groups compared with the control group at the indicated mRNA dose, 0.5 mg kg<sup>−1</sup> (<bold>Figure</bold>
+<xref rid="advs5579-fig-0005" ref-type="fig">
+<bold>5</bold>a</xref>). H&amp;E staining images showed no signs of toxicity for the liver and spleen at 24 h post‐mRNA‐LNP injection (Figure <xref rid="advs5579-fig-0005" ref-type="fig">5b</xref>).</p><fig position="float" fig-type="Figure" id="advs5579-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>No in vivo toxicity of mRNA ‐LNPs. a) Whole blood was harvested at 24 h post‐mLuc‐LNP injection, and levels of liver enzymes, creatinine, bilirubin, and total protein, were measured. Data are presented as mean ± S.D, analyzed by one‐way ANOVA with Tukey's post hoc test, n.s = not significant, <italic toggle="yes">n</italic> = 3 mice per group. b) Representative tissue histology images. Spleen and liver were harvested for H&amp;E staining at 24 h post‐mLuc‐LNP injection (mRNA dose: 0.5 mg kg<sup>−1</sup>). The black bar indicates 200 µm. c) Scheme for an experimental summary.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ADVS-10-2301929-g005.jpg"><?image-name ADVS-10-2301929-g005.jpg?><?image-size 127340?><?image-md5 f5ec190cc40408e19bff1b59e923de51?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 946?><?image-original-width 820?><?image-scaled-height 630?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/7c21/10323619/f5ec190cc404/ADVS-10-2301929-g005.jpg?><?thumb-name ADVS-10-2301929-g005.gif?><?thumb-size 10047?><?thumb-md5 18247a42d59acdc77cd5f59b54623c20?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 115?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/7c21/10323619/18247a42d59a/ADVS-10-2301929-g005.gif?></graphic></fig></sec><sec id="advs5579-sec-0080"><label>2.6</label><title>Comparison Study with SM‐102 LNP for mRNA Delivery In Vivo</title><p>SM‐102 is the ionizable lipid used for developing an mRNA vaccine against COVID‐19 and is approved for mRNA delivery in humans.<sup>[</sup>
+<xref rid="advs5579-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="advs5579-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup> We compared the mRNA delivery efficiency of our LNPs (Lipids 16 and 23) with SM‐102 LNP via organ expression, immunogenicity, and toxicology studies. SM‐102 LNP showed a comparable mRNA delivery with Lipid 23‐LNP for the liver. Lipid 16‐LNP showed a higher mRNA delivery to the spleen but lower mRNA delivery to the lung compared to SM‐102 LNP (<bold>Figure</bold>
+<xref rid="advs5579-fig-0006" ref-type="fig">
+<bold>6</bold>a</xref>). Lipid 16‐ and Lipid 23‐LNPs showed the highest‐ and lowest‐ values for the organ luciferase intensity ratios (lung/liver and spleen/liver). Conclusively, the systemic mRNA delivery efficiency of our LNPs (Lipid 16, Lipid 23) is comparable with SM‐102 LNP but shows a higher specificity for each organ (Figure <xref rid="advs5579-fig-0006" ref-type="fig">6b</xref>). To date, mRNA therapeutics have been applied to mice models in various ranges of doses from 0.3 to 1.0 mg kg<sup>−1</sup>.<sup>[</sup>
+<xref rid="advs5579-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs5579-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs5579-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> Tolerability for repeated administration is one of the requirements for the therapeutic application of LNPs.<sup>[</sup>
+<xref rid="advs5579-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> Lipid 16, Lipid 23, and SM‐102 LNPs were systemically administered and evaluated for mRNA expression to address the tolerability of mRNA‐LNPs in 2 different doses, 0.25 and 1.0 mg kg<sup>−1</sup>. There was no significant difference between 1st and 2nd dosing for the mRNA expressions of all LNPs in the whole‐body bioluminescence level (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S14</xref>, Supporting Information). Lastly, we compared the toxicity and immunogenicity of the LNPs with SM‐102 LNP by measuring liver enzymes and blood cytokine levels at two different doses, 0.5 and 1.0 mg kg<sup>−1</sup>. At 3hr postinjection, all LNP‐injected groups showed increased cytokine levels of MCP1 and IL6 compared to the control group. And higher blood levels of MCP1 and IL6, not for the C3 complement factor, were shown for the Lipid 16‐LNP group compared with that of Lipid 23‐ and SM‐102‐ LNPs at the indicated dose of 0.5 mg kg<sup>−1</sup>. However, all LNPs showed comparable cytokine levels at the 1.0 mg kg<sup>−1</sup> dosage. All cytokine levels declined to the normal range of the control group at 24 h postinjection regardless of the dose (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S15a</xref>, Supporting Information). The liver enzymes and blood chemistry did not significantly differ between all LNPs at the indicated doses, 0.5 and 1.0 mg kg<sup>−1</sup> (Figure <xref rid="advs5579-supitem-0001" ref-type="supplementary-material">S15b</xref>, Supporting Information). Our results demonstrate a comparable immunogenicity/toxicity of our LNPs with SM‐102 LNPs.</p><fig position="float" fig-type="Figure" id="advs5579-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>Comparison of the mRNA‐LNPs with SM‐102 LNP for mRNA delivery in vivo. a) Bar graph for mRNA delivery in organs. C57BL/6 mice were injected with mLuc‐LNPs, and luciferase intensity was measured at 6hr post injection (mRNA dose: 0.5 mg kg<sup>−1</sup>). b) Bar graph for organ luciferase intensity ratios. Data are presented as mean ± S.E.M., **<italic toggle="yes">P</italic> &lt; 0.01, ***<italic toggle="yes">P</italic> &lt; 0.001 by one‐way ANOVA with Tukey's post hoc test, mice <italic toggle="yes">n</italic> = 3—5 per group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="ADVS-10-2301929-g006.jpg"><?image-name ADVS-10-2301929-g006.jpg?><?image-size 23608?><?image-md5 4618dcbda01f88a907d0dd33b0cf770f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 161?><?image-original-width 820?><?image-scaled-height 107?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/7c21/10323619/4618dcbda01f/ADVS-10-2301929-g006.jpg?><?thumb-name ADVS-10-2301929-g006.gif?><?thumb-size 6376?><?thumb-md5 437a206b7cbe106958f2685effe6edeb?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 39?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/7c21/10323619/437a206b7cbe/ADVS-10-2301929-g006.gif?></graphic></fig></sec></sec><sec id="advs5579-sec-0090"><label>3</label><title>Conclusions</title><p>Herein, a novel amino ionizable lipids library was synthesized and vigorously screened to identify the best lipids for efficient mRNA delivery in vivo. The physicochemical characterization study validated the homogeneous preparation of all ionizable LNPs. The in vitro luciferase assay was used to exclude the lipids with low mRNA delivery efficiency for non‐hepatic cells. The result showed that the lipids with branched ester tail chains have a lower mRNA delivery efficiency when combined with the hydroxylamine linker. The mLuc‐expression in vivo exhibited different organ distribution between the LNPs. The cellular distribution study using mCherry mRNA revealed that one ionizable lipid (Lipid 16) had CD11b<sup>hi</sup> macrophage‐tropism for mRNA delivery. Moreover, splenic expression of Luciferase mRNA was correlated with macrophage‐specific expression of mCherry mRNA, which suggests that the spleen‐ and lung‐ expression of mRNA might be derived from the macrophage‐tropism of Lipid 16 in these organs. The macrophage‐specificity of Lipid 16 was validated again in the Cre‐Lox model. In vivo study in B16F10 tumor‐bearing mice showed a higher mRNA delivery effect of Lipid 16 for tumors, which was explained by the CD11b<sup>hi</sup> macrophages in the tumor microenvironment. On the mechanism of cell type‐specificity, there was no significant correlation between the splenic mRNA delivery effect of Lipid 16 and the previously reported factors such as pKa value, size, and surface charge of LNPs.<sup>[</sup>
+<xref rid="advs5579-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs5579-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> Further investigations, such as the corona protein composition of LNPs and intracellular trafficking, should be addressed to understand the mechanism of this CD11b<sup>hi</sup> macrophage‐tropism. The in vivo studies with SM‐102 LNP indicated a comparable mRNA delivery efficiency of our LNPs upon systemic injection with higher organ specificities. Although our results demonstrate that the CD11b<sup>hi</sup> macrophage population is the primary cell source of mRNA expression by Lipid 16‐LNP, the tissue macrophages are a heterogeneous population depends on the expression of CD11b, CD11c, F4/80, and Ly6c. Hence, our future work should address details on macrophage subtype‐tropism.<sup>[</sup>
+<xref rid="advs5579-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> In conclusion, our study identified a novel, cell type‐specific lipid (Lipid 16) for macrophages and a superior lipid (Lipid 23) for liver targeting via vigorous in vitro and in vivo screening experiments and suggested that the combination of their structural modules could drive the cell specificity (Figure <xref rid="advs5579-fig-0005" ref-type="fig">5c</xref>). The intrinsic cell type‐specificity of amino ionizable based‐LNPs opens new avenues for future development of efficient mRNA therapeutics.</p></sec><sec sec-type="COI-statement" id="advs5579-sec-0110"><title>Conflict of Interest</title><p>D.P. declares the following competing financial interest(s): D.P. receives licensing fees (or on scientific advisory boards or boards of directors) for, lectured (and received a fee), or conducts sponsored research at TAU for the following entities: ART Biosciences, BioNtech SE, Earli Inc., Kernal Biologics, Merck, Newphase Ltd., NeoVac Ltd., RiboX Therapeutics, Roche, SirTLabs Corporation, Teva Pharmaceuticals Inc. All other authors declare no competing interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs5579-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-10-2301929-s001.pdf" position="float" orientation="portrait"><?suppdata-name ADVS-10-2301929-s001.pdf?><?suppdata-size 3232458?><?suppdata-md5 1ff3a5c06351414209c564575230b29c?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:7c21/10323619/1ff3a5c06351/ADVS-10-2301929-s001.pdf?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs5579-sec-0100"><title>Acknowledgements</title><p>G.S.N. and S.‐B.Y. contributed equally to this work. This work was partly supported by grants from the Dotan Center for hematological malignancies at Tel Aviv University and by the Shmunis Family Foundation awarded to D.P. S‐B.Y. thanks the National Research Foundation of Korea for a Postdoctoral Fellowship (2021R1A6A3A03039300). All animal protocols were approved by the Tel Aviv University, Institutional Animal Care and Usage Committee and in accordance with current regulations and standards of the Israel Ministry of Health.</p></ack><sec sec-type="data-availability" id="advs5579-sec-0130"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs5579-bibl-0001"><ref id="advs5579-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs5579-cit-0001">a) <string-name name-style="western">
+<given-names>F. P.</given-names>
+<surname>Polack</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kitchin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Absalon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gurtman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lockhart</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Perez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. P.</given-names>
+<surname>Marc</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. D.</given-names>
+<surname>Moreira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zerbini</surname>
+</string-name>, <source>N. Engl. J. Med.</source>
+<year>2020</year>, <volume>383</volume>, <fpage>2603</fpage>;<pub-id pub-id-type="pmid">33301246</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2034577</pub-id><pub-id pub-id-type="pmcid">PMC7745181</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs5579-cit-0002">b) <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Adams</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gonzalez‐Duarte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. D.</given-names>
+<surname>O'Riordan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.‐C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ueda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. V.</given-names>
+<surname>Kristen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Tournev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. H.</given-names>
+<surname>Schmidt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Coelho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Berk</surname>
+</string-name>, <source>N. Engl. J. Med.</source>
+<year>2018</year>, <volume>379</volume>, <fpage>11</fpage>.<pub-id pub-id-type="pmid">29972753</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1716153</pub-id></mixed-citation></ref><ref id="advs5579-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs5579-cit-0003">a) <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Rosenblum</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gutkin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Kedmi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ramishetti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Veiga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Jacobi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Schubert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Friedmann‐Morvinski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. R.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Behlke</surname>
+</string-name>, <source>Sci. Adv.</source>
+<year>2020</year>, <volume>6</volume>, <elocation-id>eabc9450</elocation-id>;<pub-id pub-id-type="pmid">33208369</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/sciadv.abc9450</pub-id><pub-id pub-id-type="pmcid">PMC7673804</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs5579-cit-0004">b) <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Seo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Woo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Nam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Sci. Adv.</source>
+<year>2021</year>, <volume>7</volume>, <elocation-id>eabf4398</elocation-id>.<pub-id pub-id-type="pmid">33637537</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/sciadv.abf4398</pub-id><pub-id pub-id-type="pmcid">PMC7909888</pub-id></mixed-citation></ref><ref id="advs5579-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs5579-cit-0005">a) <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Farbiak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. T.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Dilliard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Siegwart</surname>
+</string-name>, <source>Nat. Nanotechnol.</source>
+<year>2020</year>, <volume>15</volume>, <fpage>313</fpage>;<pub-id pub-id-type="pmid">32251383</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41565-020-0669-6</pub-id><pub-id pub-id-type="pmcid">PMC7735425</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs5579-cit-0006">b) <string-name name-style="western">
+<given-names>S. T.</given-names>
+<surname>LoPresti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Arral</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Chaudhary</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Whitehead</surname>
+</string-name>, <source>J. Controlled Release</source>
+<year>2022</year>, <volume>345</volume>, <fpage>819</fpage>;<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2022.03.046</pub-id><pub-id pub-id-type="pmcid">PMC9447088</pub-id><pub-id pub-id-type="pmid">35346768</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs5579-cit-0007">c) <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Nat. Protoc.</source>
+<year>2023</year>, <volume>18</volume>, <fpage>265</fpage>.<pub-id pub-id-type="pmid">36316378</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41596-022-00755-x</pub-id><pub-id pub-id-type="pmcid">PMC9888002</pub-id></mixed-citation></ref><ref id="advs5579-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs5579-cit-0008">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Pattipeiluhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Arias‐Alpizar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Basha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. Y.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bussmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. H.</given-names>
+<surname>Sharp</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Moradi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Sommerdijk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. N.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. R.</given-names>
+<surname>Cullis</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2022</year>, <volume>34</volume>, <elocation-id>2201095</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adma.202201095</pub-id><pub-id pub-id-type="pmcid">PMC9461706</pub-id><pub-id pub-id-type="pmid">35218106</pub-id></mixed-citation></ref><ref id="advs5579-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs5579-cit-0009">a) <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Shuai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Men</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Duan</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>
+<year>2022</year>, <volume>32</volume>, <elocation-id>2204342</elocation-id>;</mixed-citation><mixed-citation publication-type="journal" id="advs5579-cit-0010">b) <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Ruan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Pu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Matsui</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Amoozgar</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume>, <fpage>758</fpage>.<pub-id pub-id-type="pmid">35140208</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-022-28279-8</pub-id><pub-id pub-id-type="pmcid">PMC8828745</pub-id></mixed-citation></ref><ref id="advs5579-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs5579-cit-0011">
+<string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Rurik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Tombácz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Yadegari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. O.</given-names>
+<surname>Méndez Fernández</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. V.</given-names>
+<surname>Shewale</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kimura</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O. Y.</given-names>
+<surname>Soliman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. E.</given-names>
+<surname>Papp</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. K.</given-names>
+<surname>Tam</surname>
+</string-name>, <source>Science</source>
+<year>2022</year>, <volume>375</volume>, <fpage>91</fpage>.<pub-id pub-id-type="pmid">34990237</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.abm0594</pub-id><pub-id pub-id-type="pmcid">PMC9983611</pub-id></mixed-citation></ref><ref id="advs5579-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs5579-cit-0012">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. Z.</given-names>
+<surname>Hatit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Loughrey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Lokugamage</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. E.</given-names>
+<surname>Peck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Cid</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Muralidharan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Santangelo</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume>, <fpage>4766</fpage>.<pub-id pub-id-type="pmid">35970837</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-022-32281-5</pub-id><pub-id pub-id-type="pmcid">PMC9376583</pub-id></mixed-citation></ref><ref id="advs5579-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs5579-cit-0013">a) <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Muriph</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Evans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. P.</given-names>
+<surname>Henske</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. USA</source>
+<year>2022</year>, <volume>119</volume>, <elocation-id>e2116271119</elocation-id>;<pub-id pub-id-type="pmid">35173043</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.2116271119</pub-id><pub-id pub-id-type="pmcid">PMC8872770</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs5579-cit-0014">b) <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. USA</source>
+<year>2022</year>, <volume>119</volume>, <elocation-id>e2207841119</elocation-id>.<pub-id pub-id-type="pmid">35969778</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.2207841119</pub-id><pub-id pub-id-type="pmcid">PMC9407666</pub-id></mixed-citation></ref><ref id="advs5579-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs5579-cit-0015">a) <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Tilstra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Couture‐Senécal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. M. A.</given-names>
+<surname>Lau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Manning</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Wong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. W.</given-names>
+<surname>Janaeska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. A.</given-names>
+<surname>Wuraola</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O. F.</given-names>
+<surname>Khan</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<year>2023</year>;<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/jacs.2c10670</pub-id><pub-id pub-id-type="pmid">36652629</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs5579-cit-0016">b) <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Miao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Delcassian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. G.</given-names>
+<surname>Anderson</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>2424</fpage>.<pub-id pub-id-type="pmid">32415122</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-020-16248-y</pub-id><pub-id pub-id-type="pmcid">PMC7229004</pub-id></mixed-citation></ref><ref id="advs5579-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs5579-cit-0017">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ramishetti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Hazan‐Halevy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Palakuri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chatterjee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Naidu Gonna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Dammes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Freilich</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Kolik Shmuel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Danino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Peer</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>1906128</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adma.201906128</pub-id><pub-id pub-id-type="pmid">31999380</pub-id></mixed-citation></ref><ref id="advs5579-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs5579-cit-0018">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. T.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Farbiak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Siegwart</surname>
+</string-name>, <source>Nat. Mater.</source>
+<year>2021</year>, <volume>20</volume>, <fpage>701</fpage>.<pub-id pub-id-type="pmid">33542471</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41563-020-00886-0</pub-id><pub-id pub-id-type="pmcid">PMC8188687</pub-id></mixed-citation></ref><ref id="advs5579-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs5579-cit-0019">
+<string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Yong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ramishetti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Goldsmith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Diesendruck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Hazan‐Halevy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chatterjee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. N.</given-names>
+<surname>Gonna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ezra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Peer</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2022</year>, <elocation-id>2106350</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adma.202106350</pub-id><pub-id pub-id-type="pmid">35044699</pub-id></mixed-citation></ref><ref id="advs5579-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs5579-cit-0020">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Miao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Delcassian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. G.</given-names>
+<surname>Anderson</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>2424</fpage>.<pub-id pub-id-type="pmid">32415122</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-020-16248-y</pub-id><pub-id pub-id-type="pmcid">PMC7229004</pub-id></mixed-citation></ref><ref id="advs5579-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs5579-cit-0021">a) <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Kenjo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hozumi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Makita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Iwabuchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Fujimoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Matsumoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kimura</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Amano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ifuku</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Naoe</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2021</year>, <volume>12</volume>, <fpage>7101</fpage>;<pub-id pub-id-type="pmid">34880218</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-021-26714-w</pub-id><pub-id pub-id-type="pmcid">PMC8654819</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs5579-cit-0022">b) <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Carrasco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Alishetty</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.‐G.</given-names>
+<surname>Alameh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Said</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wright</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Paige</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Soliman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Weissman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. E.</given-names>
+<surname>Cleveland</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Grishaev</surname>
+</string-name>, <source>Commun Biol</source>
+<year>2021</year>, <volume>4</volume>, <fpage>956</fpage>.<pub-id pub-id-type="pmid">34381159</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s42003-021-02441-2</pub-id><pub-id pub-id-type="pmcid">PMC8358000</pub-id></mixed-citation></ref><ref id="advs5579-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs5579-cit-0023">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sabnis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. S.</given-names>
+<surname>Kumarasinghe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Salerno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mihai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Ketova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Senn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lynn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bulychev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>McFadyen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Chan</surname>
+</string-name>, <source>Mol. Ther.</source>
+<year>2018</year>, <volume>26</volume>, <fpage>1509</fpage>.<pub-id pub-id-type="pmid">29653760</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ymthe.2018.03.010</pub-id><pub-id pub-id-type="pmcid">PMC5986714</pub-id></mixed-citation></ref><ref id="advs5579-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs5579-cit-0024">
+<string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Kranz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Diken</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Haas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kreiter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Loquai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. C.</given-names>
+<surname>Reuter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Fritz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Vascotto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hefesha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Grunwitz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vormehr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hüsemann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Selmi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Kuhn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Buck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Derhovanessian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rae</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Attig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Diekmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Jabulowsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Heesch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hassel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Langguth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Grabbe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Huber</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Ö.</given-names>
+<surname>Türeci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Sahin</surname>
+</string-name>, <source>Nature</source>
+<year>2016</year>, <volume>534</volume>, <fpage>396</fpage>.<pub-id pub-id-type="pmid">27281205</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature18300</pub-id></mixed-citation></ref><ref id="advs5579-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs5579-cit-0025">
+<string-name name-style="western">
+<given-names>B. M.</given-names>
+<surname>Ryder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Sandford</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Manners</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Dalton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wiles</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Kirman</surname>
+</string-name>, <source>Front Microbiol</source>
+<year>2019</year>, <volume>10</volume>, <fpage>402</fpage>.<pub-id pub-id-type="pmid">30906286</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmicb.2019.00402</pub-id><pub-id pub-id-type="pmcid">PMC6418015</pub-id></mixed-citation></ref><ref id="advs5579-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs5579-cit-0026">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Radmand</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Lokugamage</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Dobrowolski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zenhausern</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Loughrey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Huayamares</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. Z. C.</given-names>
+<surname>Hatit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Del Cid</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Da Silva Sanchez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Paunovska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Schrader Echeverri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Shajii</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Peck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Santangelo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Dahlman</surname>
+</string-name>, <source>Nano Lett.</source>
+<year>2023</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.nanolett.2c04479</pub-id><pub-id pub-id-type="pmcid">PMC9912332</pub-id><pub-id pub-id-type="pmid">36701517</pub-id></mixed-citation></ref><ref id="advs5579-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs5579-cit-0027">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Dilliard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Siegwart</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. USA</source>
+<year>2021</year>, <volume>118</volume>, <elocation-id>e2109256118</elocation-id>.<pub-id pub-id-type="pmid">34933999</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.2109256118</pub-id><pub-id pub-id-type="pmcid">PMC8719871</pub-id></mixed-citation></ref><ref id="advs5579-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs5579-cit-0028">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Chakraborty</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. A.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. Q.</given-names>
+<surname>Schoenfelt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hoffman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Blank</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>McBeth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Pulliam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Reardon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Kulkarni</surname>
+</string-name>, <source>Nat. Nanotechnol.</source>
+<year>2021</year>, <volume>16</volume>, <fpage>1394</fpage>.<pub-id pub-id-type="pmid">34764452</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41565-021-00988-z</pub-id></mixed-citation></ref><ref id="advs5579-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs5579-cit-0029">a) <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.‐K.</given-names>
+<surname>Im</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Fang</surname>
+</string-name>, <source>Lab. Animal Res.</source>
+<year>2018</year>, <volume>34</volume>, <fpage>147</fpage>;<pub-id pub-id-type="doi" assigning-authority="pmc">10.5625/lar.2018.34.4.147</pub-id><pub-id pub-id-type="pmcid">PMC6333611</pub-id><pub-id pub-id-type="pmid">30671100</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs5579-cit-0030">b) <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zomer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Maynard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. J.</given-names>
+<surname>Verweij</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kamermans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Schäfer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Beerling</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Schiffelers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>De Wit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Berenguer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. I. J.</given-names>
+<surname>Ellenbroek</surname>
+</string-name>, <source>Cell</source>
+<year>2015</year>, <volume>161</volume>, <fpage>1046</fpage>.<pub-id pub-id-type="pmid">26000481</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2015.04.042</pub-id><pub-id pub-id-type="pmcid">PMC4448148</pub-id></mixed-citation></ref><ref id="advs5579-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs5579-cit-0031">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Schoenmaker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Witzigmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Kulkarni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Verbeke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Kersten</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Jiskoot</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Crommelin</surname>
+</string-name>, <source>Int. J. Pharm.</source>
+<year>2021</year>, <volume>601</volume>, <elocation-id>120586</elocation-id>.<pub-id pub-id-type="pmid">33839230</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijpharm.2021.120586</pub-id><pub-id pub-id-type="pmcid">PMC8032477</pub-id></mixed-citation></ref><ref id="advs5579-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs5579-cit-0032">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Kenjo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hozumi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Makita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Iwabuchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Fujimoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Matsumoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kimura</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Amano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ifuku</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Naoe</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2021</year>, <volume>12</volume>, <fpage>7101</fpage>.<pub-id pub-id-type="pmid">34880218</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-021-26714-w</pub-id><pub-id pub-id-type="pmcid">PMC8654819</pub-id></mixed-citation></ref></ref-list></back></article>

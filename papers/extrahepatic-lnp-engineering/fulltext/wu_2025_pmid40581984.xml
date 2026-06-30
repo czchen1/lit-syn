@@ -1,0 +1,1482 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="case-report" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Brief Bioinform</journal-id><journal-id journal-id-type="iso-abbrev">Brief Bioinform</journal-id><journal-id journal-id-type="pmc-domain-id">721</journal-id><journal-id journal-id-type="pmc-domain">bib</journal-id><journal-id journal-id-type="publisher-id">bib</journal-id><journal-title-group><journal-title>Briefings in Bioinformatics</journal-title></journal-title-group><issn pub-type="ppub">1467-5463</issn><issn pub-type="epub">1477-4054</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12206448</article-id><article-id pub-id-type="pmcid-ver">PMC12206448.1</article-id><article-id pub-id-type="pmcaid">12206448</article-id><article-id pub-id-type="pmcaiid">12206448</article-id><article-id pub-id-type="pmid">40581984</article-id><article-id pub-id-type="doi">10.1093/bib/bbaf307</article-id><article-id pub-id-type="publisher-id">bbaf307</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Case Study</subject></subj-group><subj-group subj-group-type="category-taxonomy-collection"><subject>AcademicSubjects/SCI01060</subject></subj-group></article-categories><title-group><article-title>TransMA: an explainable multi-modal deep learning model for predicting properties of ionizable lipid nanoparticles in mRNA delivery</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="K">Kun</given-names></name><aff>
+<institution>Shanghai Advanced Research Institute, Chinese Academy of Sciences</institution>, <addr-line>99 Haike Road, Shanghai 201210</addr-line>, <country country="CN">China</country></aff><aff>
+<institution>University of Chinese Academy of Sciences</institution>, <addr-line>No. 1 Yanqihu East Rd, Huairou District, Beijing 101408</addr-line>, <country country="CN">China</country></aff><xref rid="afn1" ref-type="author-notes"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="Z">Zixu</given-names></name><aff>
+<institution>Department of Computer Science, University of Tsukuba</institution>, <addr-line>1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577</addr-line>, <country country="JP">Japan</country></aff><xref rid="afn1" ref-type="author-notes"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="X">Xiulong</given-names></name><aff>
+<institution>Hubei Provincial Key Laboratory of Artificial Intelligence and Smart Learning, Central China Normal University</institution>, <addr-line>152 Luoyu Road, Hongshan District, Wuhan 430079, Hubei Province</addr-line>, <country country="CN">China</country></aff><aff>
+<institution>School of Computer Science, Central China Normal University</institution>, <addr-line>152 Luoyu Road, Hongshan District, Wuhan 430079, Hubei Province</addr-line>, <country country="CN">China</country></aff></contrib><contrib contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="Y">Yangyang</given-names></name><aff>
+<institution>Department of Computer Science, University of Tsukuba</institution>, <addr-line>1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577</addr-line>, <country country="JP">Japan</country></aff></contrib><contrib contrib-type="author"><name name-style="western"><surname>Mastrogiovanni</surname><given-names initials="F">Fulvio</given-names></name><aff>
+<institution>Robotics, Brain, and Cognitive Sciences Unit, Istituto Italiano di Tecnologia</institution>, <addr-line>Via Morego 30, 16163 Genoa</addr-line>, <country country="IT">Italy</country></aff><aff>
+<institution>Department of Informatics, Bioengineering, Robotics and Systems Engineering, University of Genoa</institution>, <addr-line>Viaall'Opera Pia 11A, 16145 Genoa</addr-line>, <country country="IT">Italy</country></aff></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="J">Jialu</given-names></name><aff>
+<institution>Shanghai Advanced Research Institute, Chinese Academy of Sciences</institution>, <addr-line>99 Haike Road, Shanghai 201210</addr-line>, <country country="CN">China</country></aff></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Liu</surname><given-names initials="L">Lizhuang</given-names></name><aff>
+<institution>Shanghai Advanced Research Institute, Chinese Academy of Sciences</institution>, <addr-line>99 Haike Road, Shanghai 201210</addr-line>, <country country="CN">China</country></aff><xref rid="cor1" ref-type="corresp"/></contrib></contrib-group><author-notes><corresp id="cor1">Corresponding author. Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai 201210, China. E-mail: <email>liulz@sari.ac.cn</email></corresp><fn id="afn1"><p>Kun Wu and Zixu Wang contributed equally to this work.</p></fn></author-notes><pub-date pub-type="collection"><month>5</month><year>2025</year></pub-date><pub-date pub-type="epub" iso-8601-date="2025-06-29"><day>29</day><month>6</month><year>2025</year></pub-date><volume>26</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">487787</issue-id><elocation-id>bbaf307</elocation-id><history><date date-type="received"><day>10</day><month>2</month><year>2025</year></date><date date-type="rev-recd"><day>14</day><month>4</month><year>2025</year></date><date date-type="accepted"><day>09</day><month>6</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>29</day><month>06</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>29</day><month>06</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-07-02 10:25:40.550"><day>02</day><month>07</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2025. Published by Oxford University Press.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="bbaf307.pdf"><?pdf-name bbaf307.pdf?><?pdf-size 2206731?><?pdf-md5 58fc438a614843dee5dd9d2385883812?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:3f77/12206448/58fc438a6148/bbaf307.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="bbaf307.pdf"/><abstract><title>Abstract</title><p>As the primary messenger RNA (mRNA) delivery vehicles, ionizable lipid nanoparticles (LNPs) exhibit excellent safety, high transfection efficiency, and strong immune response induction. However, the screening process for LNPs is time-consuming and costly. To expedite the identification of high-transfection-efficiency mRNA drug delivery systems, we propose an explainable LNPs transfection efficiency prediction model, called TransMA. TransMA employs a multimodal molecular structure fusion architecture, wherein the fine-grained atomic spatial relationship extractor named molecule 3D Transformer captures three-dimensional spatial features of the molecule, and the coarse-grained atomic sequence extractor named molecule Mamba captures one-dimensional molecular features. We design the mol-attention mechanism block, enabling it to align coarse and fine-grained atomic features and capture relationships between atomic spatial and sequential structures. TransMA achieves state-of-the-art performance in predicting transfection efficiency using the scaffold and cliff data splitting methods on the current largest LNPs dataset, including Hela and RAW cell lines. Moreover, we find that TransMA captures the relationship between subtle structural changes and significant transfection efficiency variations, providing valuable insights for LNPs design. Additionally, TransMA’s predictions on external transfection efficiency data maintain a consistent order with actual transfection efficiencies, demonstrating its robust generalization capability. We hope that high-accuracy transfection prediction models in the future can aid in LNPs design and initial screening, thereby assisting in accelerating the mRNA design process.</p></abstract><kwd-group><kwd>ionizable lipid nanoparticles</kwd><kwd>multimodal molecular structure</kwd><kwd>interpretability</kwd><kwd>transfection cliffs</kwd></kwd-group><counts><page-count count="13"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Messenger RNA (mRNA)-based technologies hold promise for therapeutic applications in fields such as viral vaccines, protein replacement therapies, cancer immunotherapies, and genome editing [<xref rid="ref1" ref-type="bibr">1–6</xref>], and have the potential to reshape the landscape of life science research and medicine [<xref rid="ref7" ref-type="bibr">7–9</xref>]. However, achieving targeted delivery and intracellular release from endosomes remains challenging for mRNA delivery systems, emphasizing the critical demand for safe and effective mRNA delivery materials. Specifically, lipid nanoparticles (LNPs) have undergone extensive investigation and have successfully transitioned into clinical use for the delivery of mRNA [<xref rid="ref10" ref-type="bibr">10–12</xref>]. For example, mRNA1273 and BNT162b21 utilize LNPs for the delivery of antigen mRNA [<xref rid="ref13" ref-type="bibr">13–15</xref>]. LNPs consist of four components: ionizable lipid, phospholipid, cholesterol, and PEGylated lipid. Among these, the ionizable lipid component holds the highest molar ratio, which determines the formulation’s delivery efficiency and stability, serving as the core structure of LNPs [<xref rid="ref16" ref-type="bibr">16</xref>]. Therefore, the key to selecting for efficient LNPs lies in the selection of the ionizable lipid [<xref rid="ref17" ref-type="bibr">17</xref>, <xref rid="ref18" ref-type="bibr">18</xref>].</p><p>Although component chemistry methods based on three-component reactions (3-CR) [<xref rid="ref19" ref-type="bibr">19</xref>, <xref rid="ref20" ref-type="bibr">20</xref>] and four-component reactions (4-CR) [<xref rid="ref21" ref-type="bibr">21</xref>] can synthesize a number of ionizable lipids, manually testing the transfection efficiency of each synthesized lipid is time-consuming and costly [<xref rid="ref22" ref-type="bibr">22</xref>, <xref rid="ref23" ref-type="bibr">23</xref>]. Several works have shown that artificial intelligence represented by machine learning and deep learning can achieve automatic prediction of LNPs transfection efficiency. For instance, Ding <italic toggle="yes">et al</italic>. [<xref rid="ref9" ref-type="bibr">9</xref>] employed four machine learning methods—support vector machine, random forest, eXtreme gradient boosting, and multilayer perceptron—to classify the transfection efficiency of 572 LNPs into two categories, achieving a classification accuracy of 98<inline-formula><tex-math notation="LaTeX" id="ImEquation1"><?equation-image-name ImEquation1.gif?><?equation-image-status READY?><?equation-image-md5 a5e0af3486256418233e9789fa69f4f0?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a5e0af348625/ImEquation1.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\%$\end{document}</tex-math></inline-formula>. AGILE [<xref rid="ref24" ref-type="bibr">24</xref>] is a prediction platform for LNPs transfection efficiency based on graph convolutional neural networks (CNNs) and pretraining, achieving a mean squared error (MSE) of <inline-formula><tex-math notation="LaTeX" id="ImEquation2"><?equation-image-name ImEquation2.gif?><?equation-image-status READY?><?equation-image-md5 204af1d4eeef9f0869ec94d7e9df107f?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/204af1d4eeef/ImEquation2.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\sim $\end{document}</tex-math></inline-formula>6 in predicting LNPs transfection efficiency. TransLNP [<xref rid="ref25" ref-type="bibr">25</xref>], which is a model based on Transformer architecture and data balancing, achieved an MSE of <inline-formula><tex-math notation="LaTeX" id="ImEquation3"><?equation-image-name ImEquation3.gif?><?equation-image-status READY?><?equation-image-md5 204af1d4eeef9f0869ec94d7e9df107f?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/204af1d4eeef/ImEquation3.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\sim $\end{document}</tex-math></inline-formula>5 on the AGILE dataset.</p><p>Despite significant progress in previous works, it must be acknowledged that there are notable limitations in achieving automatic prediction of LNPs transfection efficiency based on machine learning and deep learning. These limitations hinder the accuracy and generalizability of the models. These limitations include (i) <bold>The lack of multimodal information interaction.</bold> Previous works only extract single-modal information from molecules, which limits their ability to capture Quantitative Structure-Activity Relationships between ionizable lipids and transfection efficiency. For instance, chemberta [<xref rid="ref26" ref-type="bibr">26</xref>] relies on one-dimensional representations to predict molecular properties. Integrating multimodal information from molecules is crucial for further improving prediction accuracy. (ii) <bold>Previous works lacks interpretability.</bold> Although previous works can predict transfection efficiency accurately, it is unclear which atoms play a key role in this process. Explainable AI (xAI) is key for molecular property prediction, supporting drug screening and discovery [<xref rid="ref27" ref-type="bibr">27</xref>]. While <italic toggle="yes">post hoc</italic> methods like SHAP [<xref rid="ref28" ref-type="bibr">28</xref>] and LIME [<xref rid="ref29" ref-type="bibr">29</xref>] work across models, they struggle with complex ones like Transformer and Mamba fusion models. Transformers’ multi-head attention makes it hard to capture layer details, and Mamba fusion models’ integration of different architectures adds complexity, making decision interpretation challenging [<xref rid="ref30" ref-type="bibr">30</xref>]. These methods also face computational and transparency issues. A <italic toggle="yes">pre hoc</italic> explanation approach, integrated from model construction, is crucial for improving interpretability in such complex models. (iii) <bold>Limited attention to the impact of transfection cliffs.</bold> Pairs of molecules that are structurally very similar but have significantly different transfection efficiencies—known as transfection cliffs—capture the knowledge hidden in the elusive structure–property relationships but have received limited attention.</p><p>To address the challenges, we introduce an explainable LNPs transfection efficiency prediction model called TransMA, which adopts a multimodal molecular structure fusion architecture. TransMA integrates 3D geometric information and 1D atomic sequence information of molecules to predict LNPs transfection efficiency. A self-attention mechanism SE(3) Transformer architecture named molecule 3D Transformer is employed to extract 3D geometric information. Molecule 3D Transformer is pretrained by reconstructing atomic 3D coordinates and masked atom prediction. To extract atomic sequence information, the state space model designated as molecule Mamba is presented to obtain coarse-grained atomic sequence information. By constructing multilevel molecular structure data pairs, the model jointly learns the multidimensional structural features of molecules. Specifically, we design the mol-attention mechanism block to align and concatenate the fusion features. The fusion features include atomic sequence distribution information, atomic coordinates information, relative atomic positions information, and types of bonds between atoms information. Compared with state-of-the-art molecular graph convolutional networks and Transformer models, TransMA demonstrates the best performance, reducing MSE by 43<inline-formula><tex-math notation="LaTeX" id="ImEquation4"><?equation-image-name ImEquation4.gif?><?equation-image-status READY?><?equation-image-md5 a5e0af3486256418233e9789fa69f4f0?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a5e0af348625/ImEquation4.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\%$\end{document}</tex-math></inline-formula> compared with the baseline model AGILE and by 35<inline-formula><tex-math notation="LaTeX" id="ImEquation5"><?equation-image-name ImEquation5.gif?><?equation-image-status READY?><?equation-image-md5 a5e0af3486256418233e9789fa69f4f0?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a5e0af348625/ImEquation5.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\%$\end{document}</tex-math></inline-formula> compared with TransLNP. Additionally, TransMA possesses interpretability to better understand the mapping relationship between molecular structure and biochemical properties [<xref rid="ref31" ref-type="bibr">31</xref>, <xref rid="ref32" ref-type="bibr">32</xref>]. The mol-attention mechanism block not only integrates multimodal molecular features but also reveal critical sites that influence transfection efficiency. Transfection cliffs represent pairs of molecules that are structurally similar but exhibit substantial differences in transfection efficiency. Extracting these transfection cliff data can help us understand the elusive transfection efficiency. A total of 4267 and 2104 transfection cliffs are screened from Hela and RAW 264.7 cell lines, respectively, constituting 68<inline-formula><tex-math notation="LaTeX" id="ImEquation6"><?equation-image-name ImEquation6.gif?><?equation-image-status READY?><?equation-image-md5 a5e0af3486256418233e9789fa69f4f0?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a5e0af348625/ImEquation6.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\%$\end{document}</tex-math></inline-formula> and 81<inline-formula><tex-math notation="LaTeX" id="ImEquation7"><?equation-image-name ImEquation7.gif?><?equation-image-status READY?><?equation-image-md5 a5e0af3486256418233e9789fa69f4f0?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a5e0af348625/ImEquation7.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\%$\end{document}</tex-math></inline-formula> of all data, indicating the widespread occurrence of transfection cliffs. Our findings is that atoms with high attention scores calculated by the mol-attention mechanism block corresponded to key atoms in transfection cliff pairs. This finding indicates that significant differences in transfection efficiency caused by subtle structural changes. To test the generalization capability of TransMA, the results demonstrate that TransMA’s predicted values maintain a consistent ranking with the actual transfection efficiency values without training on the external dataset.</p><p>In this study, our primary contributions can be summarized as follows:
+</p><list list-type="order"><list-item id="item1"><p>We propose an explainable LNPs transfection efficiency prediction model, named TransMA, which adopts a multimodal molecular structure fusion architecture. The fine-grained atomic spatial relationship extractor named molecule 3D Transformer captures molecular 3D geometric features, while the coarse-grained atomic sequence extractor named molecule Mamba captures 1D SMILES representation molecular features.</p></list-item><list-item id="item2"><p>TransMA achieves state-of-the-art performance on the current largest LNPs dataset, showing significant improvement across various metrics compared with previous methods.</p></list-item><list-item id="item3"><p>TransMA demonstrates strong interpretability. We construct 4267 and 2104 pairs of transfection cliffs in Hela and RAW 264.7 cell lines to validate the model’s identification of key molecular structures. While validating TransMA’s prediction results, we find that it can detect substantial transfection efficiency differences caused by minor structural variations.</p></list-item><list-item id="item4"><p>We collect independent external test data from several sources. TransMA’s predicted values consistently maintain the same order as the actual transfection efficiencies, highlighting its robust generalization capacity.</p></list-item></list></sec><sec id="sec2"><title>Materials and methods</title><sec id="sec2a"><title>The method of TransMA to predict LNPs transfection efficiency</title><p>Deep learning is a powerful tool for accelerating research in the molecular field [<xref rid="ref33" ref-type="bibr">33</xref>, <xref rid="ref34" ref-type="bibr">34</xref>]. We develop an explainable deep learning approach to predict the transfection efficiency of LNPs. This model not only achieves high-precision predictions but also elucidates the key molecular structures that the model focuses on. The overall architecture of TransMA is illustrated in <xref rid="f1" ref-type="fig">Fig. 1</xref>. The TransMA framework consists of three components: molecule 3D Transformer, molecule Mamba, and mol-attention mechanism block.</p><fig position="float" id="f1" orientation="portrait"><label>Figure 1</label><caption><p>The overall architecture of TransMA processes multimodal structural information of ionizable lipids, including 3D molecular features and 1D SMILES representations, using a Molecule 3D Transformer and Molecule Mamba module, and integrates the extracted spatial and sequential features through a mol-attention mechanism to predict transfection efficiency.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bbaf307f1.jpg"><?image-name bbaf307f1.jpg?><?image-size 78653?><?image-md5 ef47641e20488937d0f691bdb90d5eab?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 883?><?image-original-width 1168?><?image-scaled-height 588?><?image-scaled-width 778?><?image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/ef47641e2048/bbaf307f1.jpg?><?thumb-name bbaf307f1.gif?><?thumb-size 4219?><?thumb-md5 2d3c336043db4273168132c8f11014ab?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 105?><?thumb-cloudpmc-urn urn:cdn:blobs/3f77/12206448/2d3c336043db/bbaf307f1.gif?><alt-text>Overview of the TransMA architecture, showing multimodal molecular inputs processed by the Molecule 3D Transformer and Molecule Mamba modules, with a mol-attention mechanism to identify key atoms related to transfection efficiency.</alt-text></graphic></fig><sec id="sec2a1"><title>Molecule 3D transformer</title><p>The molecule 3D Transformer is employed to extract the three-dimensional structural information features of molecules. These three-dimensional structural details include the atomic type sequences, atomic three-dimensional coordinates, Euclidean distance matrices between atoms, and matrices representing the types of bonds between atoms in ionizable lipid molecules. TransLNP adopts a pre-training followed by fine-tuning training approach shown in <xref rid="f2" ref-type="fig">Fig. 2A</xref>. Despite the scarcity of labeled data with LNPs properties in the LNPs field, we can leverage various molecular structure information from other small molecules to train the model. The pre-training task utilizes masked language modeling: randomly masking 15<inline-formula><tex-math notation="LaTeX" id="ImEquation9"><?equation-image-name ImEquation9.gif?><?equation-image-status READY?><?equation-image-md5 a5e0af3486256418233e9789fa69f4f0?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a5e0af348625/ImEquation9.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\%$\end{document}</tex-math></inline-formula> of the atoms and introducing mask tokens. Subsequently, an embedding layer is used to map the atomic sequences to representations of atomic types, providing each atom with semantic information. Equation <xref rid="deqn01" ref-type="disp-formula">1</xref> illustrates the process of self-attention mechanism addressing interactions between atoms:</p><disp-formula id="deqn01">
+<label>(1)</label>
+<tex-math notation="LaTeX" id="DmEquation1"><?equation-image-name DmEquation1.gif?><?equation-image-status READY?><?equation-image-md5 e4b6f0bc8b31cab1de0f105e35410fc1?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/e4b6f0bc8b31/DmEquation1.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; attention = \text{softmax}\left(\frac{QK}{\sqrt{d}} + bias\right)V.\end{align*}\end{document}</tex-math>
+</disp-formula><fig position="float" id="f2" orientation="portrait"><label>Figure 2</label><caption><p>The overall architectures of the Molecule 3D Transformer (subfigure A) and Molecule Mamba (subfigure B) involve pretraining tasks such as masked language modeling and noisy coordinate prediction for the Transformer, and a selective scan operation with a discretized SSM equation for molecule mamba, which extracts high-dimensional features from SMILES representations to predict transfection efficiency.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bbaf307f2.jpg"><?image-name bbaf307f2.jpg?><?image-size 96344?><?image-md5 5f4ccb2a3730a3df36b9649f086b8c99?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1018?><?image-original-width 1133?><?image-scaled-height 678?><?image-scaled-width 755?><?image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/5f4ccb2a3730/bbaf307f2.jpg?><?thumb-name bbaf307f2.gif?><?thumb-size 4560?><?thumb-md5 89fc29de0d3f6f0f307133fe5262c7da?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 90?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/3f77/12206448/89fc29de0d3f/bbaf307f2.gif?><alt-text>Diagram illustrating the overall architectures of the molecule 3D Transformer and molecule mamba. Subfigure A depicts the structure and workflow of the molecule 3D Transformer, while subfigure B presents the architecture of the molecule mamba.</alt-text></graphic></fig><p>The masked atomic types are linearly represented as Queries (Q), Keys (K), and Values (V) in the self-attention module. <inline-formula><tex-math notation="LaTeX" id="ImEquation10"><?equation-image-name ImEquation10.gif?><?equation-image-status READY?><?equation-image-md5 d2bc0732200548db3f2565a2ac1722b1?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/d2bc07322005/ImEquation10.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\sqrt{d}$\end{document}</tex-math></inline-formula> represents the dimensions of vectors Q, K, and V. The attention bias in the self-attention mechanism is first derived by extracting the atomic distance matrix and atomic bond type 3D matrix from the molecular SMILES, with the third dimension expanded into feature dimensions. These matrices are then initialized with a Gaussian distribution. Finally, a trainable gate variable is introduced to fuse the two matrices, resulting in the final bias.</p><p>After considering the relationships between atoms, uniform noise is introduced and added to the 3D coordinates of the molecule. This process of coordinate updating effectively incorporates the noise into the molecular representation. In the pretraining phase, atomic type heads, atomic coordinate heads, and atomic pairwise Euclidean distance heads are employed to predict masked atomic types, coordinates, and relative distances, respectively. Smooth L1 is used as the loss function for predicting Euclidean distances and masked atomic coordinates, while cross-entropy is used for predicting atomic types. During fine-tuning, the pretrained model is loaded, following the data processing procedures from pretraining. Finally, molecular prediction heads are used for transfection efficiency prediction.</p></sec><sec id="sec2a2"><title>Molecule Mamba</title><p>Mamba is a linear-time sequence modeling method based on selective state spaces [<xref rid="ref35" ref-type="bibr">35</xref>]. Variants of Mamba have demonstrated outstanding performance in natural language processing, image processing, remote sensing, and audio domains [<xref rid="ref36" ref-type="bibr">36–39</xref>]. State Space Sequence Models (SSMs) [<xref rid="ref40" ref-type="bibr">40</xref>] form the theoretical foundation of Mamba, capable of mapping a one-dimensional function or sequence <inline-formula><tex-math notation="LaTeX" id="ImEquation11"><?equation-image-name ImEquation11.gif?><?equation-image-status READY?><?equation-image-md5 f33df978a71db18911cdbdeb97f4a7ba?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/f33df978a71d/ImEquation11.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$u(t)$\end{document}</tex-math></inline-formula> to <inline-formula><tex-math notation="LaTeX" id="ImEquation12"><?equation-image-name ImEquation12.gif?><?equation-image-status READY?><?equation-image-md5 e2043caf28eac061c3ead5425cf2d0d3?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/e2043caf28ea/ImEquation12.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$y(t) \in \mathbb{R}$\end{document}</tex-math></inline-formula> through a hidden state <inline-formula><tex-math notation="LaTeX" id="ImEquation13"><?equation-image-name ImEquation13.gif?><?equation-image-status READY?><?equation-image-md5 f7106962f40fd6b38df0e8bd25164d65?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/f7106962f40f/ImEquation13.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$x(t)$\end{document}</tex-math></inline-formula>. This mapping can be represented by the following linear ordinary differential equation shown in equation <xref rid="deqn02" ref-type="disp-formula">2</xref>:</p><disp-formula id="deqn02">
+<label>(2)</label>
+<tex-math notation="LaTeX" id="DmEquation2"><?equation-image-name DmEquation2.gif?><?equation-image-status READY?><?equation-image-md5 6d5429024cc0db94197ac493d3d731de?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/6d5429024cc0/DmEquation2.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; \dot{x}(t) = Ax(t) + Bu(t), \quad y(t) = Cx(t),\end{align*}\end{document}</tex-math>
+</disp-formula><p>where the state matrix <inline-formula><tex-math notation="LaTeX" id="ImEquation14"><?equation-image-name ImEquation14.gif?><?equation-image-status READY?><?equation-image-md5 94ea9a4aa680c8b088b8d776b5d56fe2?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/94ea9a4aa680/ImEquation14.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$A \in \mathbb{R^{N \times N}}$\end{document}</tex-math></inline-formula> serves as the evolution parameter and <inline-formula><tex-math notation="LaTeX" id="ImEquation15"><?equation-image-name ImEquation15.gif?><?equation-image-status READY?><?equation-image-md5 fac30bb1bda42e1a7175595eab679ca3?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/fac30bb1bda4/ImEquation15.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$B \in \mathbb{R^{N \times 1}}$\end{document}</tex-math></inline-formula>, <inline-formula><tex-math notation="LaTeX" id="ImEquation16"><?equation-image-name ImEquation16.gif?><?equation-image-status READY?><?equation-image-md5 e44badf39ac4ca777538074242522759?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/e44badf39ac4/ImEquation16.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$C \in \mathbb{R^{1 \times N}}$\end{document}</tex-math></inline-formula> act as projection parameters, representing the implicit latent state.</p><p>Due to its combination of recurrent neural networks and CNNs, Mamba has advantages in handling long sequence data. The SMILES representation of ionizable lipids can be viewed as a long sequence for processing. Therefore, we first apply Mamba to the field of molecular property prediction, using one-dimensional SMILES representation of ionizable lipids as sequence inputs. <xref rid="f2" ref-type="fig">Figure 2B</xref> illustrates the overall process of Molecule Mamba. Molecule Mamba involves four parameters <inline-formula><tex-math notation="LaTeX" id="ImEquation17"><?equation-image-name ImEquation17.gif?><?equation-image-status READY?><?equation-image-md5 8c5319ff04d3f1e7849681dac8751521?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/8c5319ff04d3/ImEquation17.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$(Delta(\Delta ), A, B, C)$\end{document}</tex-math></inline-formula>. Firstly, the feature dimension of the SMILES representation molecule sequence is doubled through linear projection. After the split operation, the SMILES representation molecule is represented in two parts. One part undergoes one-dimensional convolution and Sliu activation function to extract molecular features. The use of convolution is to compensate for the SSM’s limitation in modeling local patterns and to provide a content-aware foundation for parameter generation in the SSM. After linear projection and split operation, parameters (Delta, B, C) are obtained. Delta is updated through softplus. At the same time, parameters (A, D) are initialized, where A and D are independent of the input. <inline-formula><tex-math notation="LaTeX" id="ImEquation18"><?equation-image-name ImEquation18.gif?><?equation-image-status READY?><?equation-image-md5 a2876d929e7d9d8c1de15968be1b297d?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a2876d929e7d/ImEquation18.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$A$\end{document}</tex-math></inline-formula> is discretized using zero-order hold discretization, while <inline-formula><tex-math notation="LaTeX" id="ImEquation19"><?equation-image-name ImEquation19.gif?><?equation-image-status READY?><?equation-image-md5 65008bc80c37330fa4f3a6783605841c?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/65008bc80c37/ImEquation19.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$B$\end{document}</tex-math></inline-formula> is discretized using a simplified Euler discretization shown in Equation <xref rid="deqn03" ref-type="disp-formula">3</xref>.</p><disp-formula id="deqn03">
+<label>(3)</label>
+<tex-math notation="LaTeX" id="DmEquation3"><?equation-image-name DmEquation3.gif?><?equation-image-status READY?><?equation-image-md5 82ead82f546a076c7f890646849ddb8a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/82ead82f546a/DmEquation3.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; \overline{A} = \exp(\Delta A), \overline{B} = x + \Delta \cdot f(x, u) .\end{align*}\end{document}</tex-math>
+</disp-formula><p>Combining equation <xref rid="deqn02" ref-type="disp-formula">2</xref> with the scanning operation, the sequential processing of elements in the SMILES representation molecule involves updating atoms at each time step based on the cumulative effect of the previous atom and the current input, effectively propagating information across the entire sequence. Equation <xref rid="deqn04" ref-type="disp-formula">4</xref> describes this process. Finally, the output is the multiplication of another portion of the input with the output of the scanning operation.</p><disp-formula id="deqn04">
+<label>(4)</label>
+<tex-math notation="LaTeX" id="DmEquation4"><?equation-image-name DmEquation4.gif?><?equation-image-status READY?><?equation-image-md5 5c9e19087b45b7f2cf81fa1892607a2f?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/5c9e19087b45/DmEquation4.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; \dot{x}(t) = \overline{A}x(t) + \overline{B}u(t), \quad y(t) = Cx(t),\end{align*}\end{document}</tex-math>
+</disp-formula></sec><sec id="sec2a3"><title>Mol-attention mechanism block</title><p>The purpose of the mol-attention mechanism block is to integrate the output features of the molecule 3D Transformer and molecule Mamba, and introduce an attention mechanism to explain the model’s attention to each atom. The output feature <inline-formula><tex-math notation="LaTeX" id="ImEquation20"><?equation-image-name ImEquation20.gif?><?equation-image-status READY?><?equation-image-md5 578741cb161d84ac72ae4ece3787950b?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/578741cb161d/ImEquation20.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ z_{1} $\end{document}</tex-math></inline-formula> of the molecule 3D Transformer has a size of <inline-formula><tex-math notation="LaTeX" id="ImEquation21"><?equation-image-name ImEquation21.gif?><?equation-image-status READY?><?equation-image-md5 5088cda64a12e0ae3ec5323d75d9ae44?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/5088cda64a12/ImEquation21.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ [n,512] $\end{document}</tex-math></inline-formula>, where <inline-formula><tex-math notation="LaTeX" id="ImEquation22"><?equation-image-name ImEquation22.gif?><?equation-image-status READY?><?equation-image-md5 8c6f618fcae152441eaf85c2e6525e54?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/8c6f618fcae1/ImEquation22.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ n $\end{document}</tex-math></inline-formula> represents the number of atoms in the ionizable lipid. Meanwhile, the output feature <inline-formula><tex-math notation="LaTeX" id="ImEquation23"><?equation-image-name ImEquation23.gif?><?equation-image-status READY?><?equation-image-md5 d642e76f4d4514b031ac175da1a41b27?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/d642e76f4d45/ImEquation23.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ z_{2} $\end{document}</tex-math></inline-formula> of molecule Mamba has a size of <inline-formula><tex-math notation="LaTeX" id="ImEquation24"><?equation-image-name ImEquation24.gif?><?equation-image-status READY?><?equation-image-md5 258215187e3a963ee8c09c2a1bda0127?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/258215187e3a/ImEquation24.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ [m,512] $\end{document}</tex-math></inline-formula>, where <inline-formula><tex-math notation="LaTeX" id="ImEquation25"><?equation-image-name ImEquation25.gif?><?equation-image-status READY?><?equation-image-md5 1366073af62fe4ea6e8076dfe52c86e9?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/1366073af62f/ImEquation25.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ m $\end{document}</tex-math></inline-formula> denotes the sequence length of the SMILES representation molecule. Apart from containing atomic features, <inline-formula><tex-math notation="LaTeX" id="ImEquation26"><?equation-image-name ImEquation26.gif?><?equation-image-status READY?><?equation-image-md5 d642e76f4d4514b031ac175da1a41b27?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/d642e76f4d45/ImEquation26.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ z_{2} $\end{document}</tex-math></inline-formula> also includes features of characters in the SMILES representation molecule. Before concatenating the features, all atomic features <inline-formula><tex-math notation="LaTeX" id="ImEquation27"><?equation-image-name ImEquation27.gif?><?equation-image-status READY?><?equation-image-md5 479927c69226db8cf79180e934ddf4ed?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/479927c69226/ImEquation27.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ z_{2}^{\prime} $\end{document}</tex-math></inline-formula> need to be extracted from <inline-formula><tex-math notation="LaTeX" id="ImEquation28"><?equation-image-name ImEquation28.gif?><?equation-image-status READY?><?equation-image-md5 d642e76f4d4514b031ac175da1a41b27?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/d642e76f4d45/ImEquation28.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ z_{2} $\end{document}</tex-math></inline-formula> to match the size of <inline-formula><tex-math notation="LaTeX" id="ImEquation29"><?equation-image-name ImEquation29.gif?><?equation-image-status READY?><?equation-image-md5 578741cb161d84ac72ae4ece3787950b?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/578741cb161d/ImEquation29.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ z_{1} $\end{document}</tex-math></inline-formula>. Therefore each atomic feature in <inline-formula><tex-math notation="LaTeX" id="ImEquation30"><?equation-image-name ImEquation30.gif?><?equation-image-status READY?><?equation-image-md5 479927c69226db8cf79180e934ddf4ed?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/479927c69226/ImEquation30.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ z_{2}^{\prime} $\end{document}</tex-math></inline-formula> corresponds to one atomic feature in <inline-formula><tex-math notation="LaTeX" id="ImEquation31"><?equation-image-name ImEquation31.gif?><?equation-image-status READY?><?equation-image-md5 578741cb161d84ac72ae4ece3787950b?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/578741cb161d/ImEquation31.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ z_{1} $\end{document}</tex-math></inline-formula>, ensuring correct alignment during feature fusion. Like attention mechanisms in the image domain [<xref rid="ref41" ref-type="bibr">41–43</xref>], the mol-attention mechanism block aims to weight each atom, compressing the fused features containing global information of size <inline-formula><tex-math notation="LaTeX" id="ImEquation32"><?equation-image-name ImEquation32.gif?><?equation-image-status READY?><?equation-image-md5 bc6b101f267f8199a652b5916f4902ff?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/bc6b101f267f/ImEquation32.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ n \times 1024 $\end{document}</tex-math></inline-formula> directly into a <inline-formula><tex-math notation="LaTeX" id="ImEquation33"><?equation-image-name ImEquation33.gif?><?equation-image-status READY?><?equation-image-md5 10e110de8281a565148c83dc2ba22692?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/10e110de8281/ImEquation33.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ n \times 1 $\end{document}</tex-math></inline-formula> feature vector <inline-formula><tex-math notation="LaTeX" id="ImEquation34"><?equation-image-name ImEquation34.gif?><?equation-image-status READY?><?equation-image-md5 26532f24c49aaf3fe381c907c5264783?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/26532f24c49a/ImEquation34.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ z $\end{document}</tex-math></inline-formula>. The first fully connected layer <inline-formula><tex-math notation="LaTeX" id="ImEquation35"><?equation-image-name ImEquation35.gif?><?equation-image-status READY?><?equation-image-md5 f548939d0320eaa58b8a4e1708c7079d?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/f548939d0320/ImEquation35.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$W_{1}$\end{document}</tex-math></inline-formula> compresses the 1024 concatenated features into <inline-formula><tex-math notation="LaTeX" id="ImEquation36"><?equation-image-name ImEquation36.gif?><?equation-image-status READY?><?equation-image-md5 a992fed9807a0ffd1f15b50b83019e44?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a992fed9807a/ImEquation36.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ 1024/r $\end{document}</tex-math></inline-formula> channels to reduce computational complexity, where <inline-formula><tex-math notation="LaTeX" id="ImEquation37"><?equation-image-name ImEquation37.gif?><?equation-image-status READY?><?equation-image-md5 0a33f142b04d4b3cd850a4b1bf7f5fde?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/0a33f142b04d/ImEquation37.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ r $\end{document}</tex-math></inline-formula> denotes the compression ratio. Following a ReLU non-linear activation layer <inline-formula><tex-math notation="LaTeX" id="ImEquation38"><?equation-image-name ImEquation38.gif?><?equation-image-status READY?><?equation-image-md5 549c4fa8ad3b18f3d686300640eaf1c4?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/549c4fa8ad3b/ImEquation38.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\delta $\end{document}</tex-math></inline-formula>, the second fully connected layer <inline-formula><tex-math notation="LaTeX" id="ImEquation39"><?equation-image-name ImEquation39.gif?><?equation-image-status READY?><?equation-image-md5 8633ed08113fe0dcb81fa7befdde5d37?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/8633ed08113f/ImEquation39.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$W_{2}$\end{document}</tex-math></inline-formula> produces weights <inline-formula><tex-math notation="LaTeX" id="ImEquation40"><?equation-image-name ImEquation40.gif?><?equation-image-status READY?><?equation-image-md5 4198931687aa9564db312e36e70fd375?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/4198931687aa/ImEquation40.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$attention\ scores $\end{document}</tex-math></inline-formula> through a Sigmoid activation <inline-formula><tex-math notation="LaTeX" id="ImEquation41"><?equation-image-name ImEquation41.gif?><?equation-image-status READY?><?equation-image-md5 2aabd379ce4aada1c5e60e331efa0786?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/2aabd379ce4a/ImEquation41.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\sigma $\end{document}</tex-math></inline-formula>. The dimension of <inline-formula><tex-math notation="LaTeX" id="ImEquation42"><?equation-image-name ImEquation42.gif?><?equation-image-status READY?><?equation-image-md5 4198931687aa9564db312e36e70fd375?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/4198931687aa/ImEquation42.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$attention\ scores$\end{document}</tex-math></inline-formula> obtained is <inline-formula><tex-math notation="LaTeX" id="ImEquation43"><?equation-image-name ImEquation43.gif?><?equation-image-status READY?><?equation-image-md5 10e110de8281a565148c83dc2ba22692?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/10e110de8281/ImEquation43.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$ n \times 1 $\end{document}</tex-math></inline-formula>, which is shown as Equation <xref rid="deqn05" ref-type="disp-formula">5</xref>:</p><disp-formula id="deqn05">
+<label>(5)</label>
+<tex-math notation="LaTeX" id="DmEquation5"><?equation-image-name DmEquation5.gif?><?equation-image-status READY?><?equation-image-md5 3c52a1e4b8d3b11d93bf79e5e4bd991a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3c52a1e4b8d3/DmEquation5.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; scores =\sigma(W_{2} \delta (W_{1}\text{concat}(z_{1}, z_{2}^{\prime}))).\end{align*}\end{document}</tex-math>
+</disp-formula><p>Finally, the scale operation and a regression layer are applied to predict the transfection efficiency, which is shown as Equation <xref rid="deqn06" ref-type="disp-formula">6</xref>:</p><disp-formula id="deqn06">
+<label>(6)</label>
+<tex-math notation="LaTeX" id="DmEquation6"><?equation-image-name DmEquation6.gif?><?equation-image-status READY?><?equation-image-md5 b6619400f1f5b72eacd45b4c2be8890d?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/b6619400f1f5/DmEquation6.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; pred =\tanh (W_{2}(\tanh( W_{1}(z \cdot scores)))),\end{align*}\end{document}</tex-math>
+</disp-formula><p>where <inline-formula><tex-math notation="LaTeX" id="ImEquation44"><?equation-image-name ImEquation44.gif?><?equation-image-status READY?><?equation-image-md5 9d2f048a48bf4c14bdb03130ced22c7a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/9d2f048a48bf/ImEquation44.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\tanh $\end{document}</tex-math></inline-formula> denotes the tanh activation function.</p></sec></sec><sec id="sec2e"><title>Loss function</title><p>The loss function of the TransMA model combines the MSE loss function and the triplet loss function, constructing a hybrid loss function. Minimizing Triplet loss brings the features of similar molecules closer and pushes apart those with different predicted values. Combining triplet loss with MSE loss strengthens molecular similarity learning and improves prediction accuracy. Equation <xref rid="deqn07" ref-type="disp-formula">7</xref> is shown as</p><disp-formula id="deqn07">
+<label>(7)</label>
+<tex-math notation="LaTeX" id="DmEquation7"><?equation-image-name DmEquation7.gif?><?equation-image-status READY?><?equation-image-md5 12411fe86aab278e29a566baf27840ad?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/12411fe86aab/DmEquation7.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; hybrid{\_}loss = \frac{1}{N} \sum_{i=1}^{N} (y_{i} - \hat{y}_{i})^{2} + \beta \times \mathcal{L}_{\text{triplet}}(z_{1}, z_{2}^{\prime}),\end{align*}\end{document}</tex-math>
+</disp-formula><p>where <inline-formula><tex-math notation="LaTeX" id="ImEquation45"><?equation-image-name ImEquation45.gif?><?equation-image-status READY?><?equation-image-md5 f5e0e8aa5fabbad67de69a5e03cc4170?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/f5e0e8aa5fab/ImEquation45.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\beta $\end{document}</tex-math></inline-formula> is a weight parameter, <inline-formula><tex-math notation="LaTeX" id="ImEquation46"><?equation-image-name ImEquation46.gif?><?equation-image-status READY?><?equation-image-md5 e1842c3527849ac4e6ae61014ffec72a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/e1842c352784/ImEquation46.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$N$\end{document}</tex-math></inline-formula> is the number of samples, <inline-formula><tex-math notation="LaTeX" id="ImEquation47"><?equation-image-name ImEquation47.gif?><?equation-image-status READY?><?equation-image-md5 be7b98aa2870051864058efee61e17b4?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/be7b98aa2870/ImEquation47.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$y_{i}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math notation="LaTeX" id="ImEquation48"><?equation-image-name ImEquation48.gif?><?equation-image-status READY?><?equation-image-md5 3bdf561f596890b346c23c6bf5304f89?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3bdf561f5968/ImEquation48.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\hat{y}_{i}$\end{document}</tex-math></inline-formula>, respectively, represent the true values and the predicted values, and the definitions of <inline-formula><tex-math notation="LaTeX" id="ImEquation49"><?equation-image-name ImEquation49.gif?><?equation-image-status READY?><?equation-image-md5 578741cb161d84ac72ae4ece3787950b?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/578741cb161d/ImEquation49.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$z_{1}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math notation="LaTeX" id="ImEquation50"><?equation-image-name ImEquation50.gif?><?equation-image-status READY?><?equation-image-md5 479927c69226db8cf79180e934ddf4ed?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/479927c69226/ImEquation50.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$z_{2}^{\prime}$\end{document}</tex-math></inline-formula> are consistent with equation <xref rid="deqn05" ref-type="disp-formula">5</xref>. Equation <xref rid="deqn08" ref-type="disp-formula">8</xref> describes the triplet loss:</p><disp-formula id="deqn08">
+<label>(8)</label>
+<tex-math notation="LaTeX" id="DmEquation8"><?equation-image-name DmEquation8.gif?><?equation-image-status READY?><?equation-image-md5 aff014a7c55d5b9f364f61598f0cf806?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/aff014a7c55d/DmEquation8.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; \begin{split} \mathcal{L}_{\text{triplet}} = \frac{1}{\text{np} + \epsilon} \sum_{i=1}^{2b} \sum_{j=1}^{2b} \sum_{k=1}^{2b} L\cdot \text{mask}_{ijk},\\ L=\max(d(z_{1i}, z_{1j}) - d(z_{1i}, z_{2k}) + \text{margin}, 0), \end{split}\end{align*}\end{document}</tex-math>
+</disp-formula><p>where <inline-formula><tex-math notation="LaTeX" id="ImEquation51"><?equation-image-name ImEquation51.gif?><?equation-image-status READY?><?equation-image-md5 07f08451fa632de140a54b09ba8d93fd?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/07f08451fa63/ImEquation51.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$b$\end{document}</tex-math></inline-formula> represents the batch size, <inline-formula><tex-math notation="LaTeX" id="ImEquation52"><?equation-image-name ImEquation52.gif?><?equation-image-status READY?><?equation-image-md5 1c0447d0bb1e22e089823fa4a5b25d3d?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/1c0447d0bb1e/ImEquation52.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$z_{1i}$\end{document}</tex-math></inline-formula> represents the feature extracted from the molecule 3D Transformer for the <inline-formula><tex-math notation="LaTeX" id="ImEquation53"><?equation-image-name ImEquation53.gif?><?equation-image-status READY?><?equation-image-md5 a086866e21601ad74805d6570a71c210?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a086866e2160/ImEquation53.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$i$\end{document}</tex-math></inline-formula>th sample, <inline-formula><tex-math notation="LaTeX" id="ImEquation54"><?equation-image-name ImEquation54.gif?><?equation-image-status READY?><?equation-image-md5 7b5dd1f65a716d96057ef0bcb0d3f4cb?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/7b5dd1f65a71/ImEquation54.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$z_{2k}^{\prime}$\end{document}</tex-math></inline-formula> denotes the feature extracted from the molecule Mamba for the <inline-formula><tex-math notation="LaTeX" id="ImEquation55"><?equation-image-name ImEquation55.gif?><?equation-image-status READY?><?equation-image-md5 10c81be4a07d107a40db35768d838852?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/10c81be4a07d/ImEquation55.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$k$\end{document}</tex-math></inline-formula>th sample, <inline-formula><tex-math notation="LaTeX" id="ImEquation56"><?equation-image-name ImEquation56.gif?><?equation-image-status READY?><?equation-image-md5 11784469c530e2ef29e2ddf675b30f3e?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/11784469c530/ImEquation56.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$d(\cdot )$\end{document}</tex-math></inline-formula> denotes the Euclidean distance, <inline-formula><tex-math notation="LaTeX" id="ImEquation57"><?equation-image-name ImEquation57.gif?><?equation-image-status READY?><?equation-image-md5 dba0cd104320d19f46b8edbe3d8cebc3?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/dba0cd104320/ImEquation57.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\text{np}$\end{document}</tex-math></inline-formula> is the number of positive losses, <inline-formula><tex-math notation="LaTeX" id="ImEquation58"><?equation-image-name ImEquation58.gif?><?equation-image-status READY?><?equation-image-md5 cd8253eb5575435e66b79e1213a74a13?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/cd8253eb5575/ImEquation58.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\epsilon $\end{document}</tex-math></inline-formula> is a small number used for numerical stability, <inline-formula><tex-math notation="LaTeX" id="ImEquation59"><?equation-image-name ImEquation59.gif?><?equation-image-status READY?><?equation-image-md5 294547d568cb5beee6453b740c387371?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/294547d568cb/ImEquation59.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$margin$\end{document}</tex-math></inline-formula> is a hyperparameter controlling the margin size for effective triplets, and <inline-formula><tex-math notation="LaTeX" id="ImEquation60"><?equation-image-name ImEquation60.gif?><?equation-image-status READY?><?equation-image-md5 4ba136c9e6edb999836ee60186fa0a29?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/4ba136c9e6ed/ImEquation60.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\text{mask}_{ijk}$\end{document}</tex-math></inline-formula> is a triplet mask used to filter out invalid triplets.</p><p>The Triplet Loss first computes the Euclidean distance between <inline-formula><tex-math notation="LaTeX" id="ImEquation61"><?equation-image-name ImEquation61.gif?><?equation-image-status READY?><?equation-image-md5 578741cb161d84ac72ae4ece3787950b?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/578741cb161d/ImEquation61.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$z_{1}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math notation="LaTeX" id="ImEquation62"><?equation-image-name ImEquation62.gif?><?equation-image-status READY?><?equation-image-md5 d642e76f4d4514b031ac175da1a41b27?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/d642e76f4d45/ImEquation62.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$z_{2}$\end{document}</tex-math></inline-formula>. This loss value is calculated as the difference between the distance from the anchor sample to the positive sample and the distance from the anchor sample to the negative sample, with a margin added, and then taking the maximum value. Subsequently, invalid triplets are filtered out using a triplet mask, and the average loss value is computed as the final result of the triplet Loss. Triplet loss maps the molecular 3D structural features extracted by the molecule 3D Transformer and molecule Mamba, along with the one-dimensional sequence features, to a unified embedding space.</p><disp-formula>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bbaf307f1001.jpg"><?image-name bbaf307f1001.jpg?><?image-size 35653?><?image-md5 9eb4aa3aa262ad4541a117c5d166e549?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 389?><?image-original-width 1406?><?image-scaled-height 195?><?image-scaled-width 703?><?image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/9eb4aa3aa262/bbaf307f1001.jpg?></graphic>
+</disp-formula></sec></sec><sec id="sec3"><title>Experimental section</title><sec id="sec3a"><title>Dataset</title><p>The dataset for TransMA predicting LNPs transfection efficiency comprises two main components. One part is utilized for pretraining the molecule 3D Transformer, while the other part is used for training the molecule Mamba and fine-tuning the molecule 3D Transformer. The dataset used for pretraining the molecule 3D Transformer is sourced from Unimol [<xref rid="ref44" ref-type="bibr">44</xref>], which comprises 19 datasets (The 19 datasets include Targetmol (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.targetmol.com/" ext-link-type="uri">link</ext-link>), Chemdiv (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.chemdiv.com/" ext-link-type="uri">link</ext-link>), Enamine (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://enamine.net/" ext-link-type="uri">link</ext-link>), Chembridge (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.chembridge.com/" ext-link-type="uri">link</ext-link>), Life Chemical (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://lifechemicals.com/" ext-link-type="uri">link</ext-link>), Specs (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.specs.net/" ext-link-type="uri">link</ext-link>), Vitas-M (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://vitasmlab.biz/" ext-link-type="uri">link</ext-link>), InterBioScreen (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ibscreen.com/" ext-link-type="uri">link</ext-link>), Maybridge (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.thermofisher.in/" ext-link-type="uri">link</ext-link>), Bionet-Key Organics (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.keyorganics.net/" ext-link-type="uri">link</ext-link>), Asinex (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.asinex.com/" ext-link-type="uri">link</ext-link>), UkrOrgSynthesis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://uorsy.com/" ext-link-type="uri">link</ext-link>), Eximed (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://eximedlab.com/" ext-link-type="uri">link</ext-link>), HTS Biochemie Innovationen (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.hts-biochemie.de/" ext-link-type="uri">link</ext-link>), Princeton BioMolecular (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://princetonbio.com/" ext-link-type="uri">link</ext-link>), Otava (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://otavachemicals.com/" ext-link-type="uri">link</ext-link>), Alinda Chemical (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.alinda.ru/" ext-link-type="uri">link</ext-link>), Analyticon (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.analyticon-diagnostics.com/" ext-link-type="uri">link</ext-link>), ZINC (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zinc.docking.org/" ext-link-type="uri">link</ext-link>), and ChemBL (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ebi.ac.uk/chembl/" ext-link-type="uri">link</ext-link>)). The dataset utilized for training the molecule Mamba and fine-tuning the molecule 3D Transformer is obtained from AGILE (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/bowang-lab/AGILE" ext-link-type="uri">https://github.com/bowang-lab/AGILE</ext-link>), consisting of 1200 ionizable lipid SMILES representation molecules along with their corresponding transfection efficiency data in Hela and RAW 264.7 cell lines. Hela cells are primarily used to assess high transfection efficiency in nonimmune cells, making them suitable for gene therapy and vaccine development, while the RAW cell line simulates transfection in immune cells, providing valuable data on the role and performance of LNPs in immune responses. The reason for choosing Hela and RAW cell lines lies in their significant differences in LNPs-mRNA transfection efficiency, with immune cells being more difficult to transfect than Hela cells. By obtaining data from these two cell lines, TransMA can learn the characteristics of different transfection efficiency ranges, enhancing the generalization ability and prediction accuracy of the TransMA model,</p><p>Ionizable lipids comprises 20 head groups, 12 carbon chains with ester bonds, and five carbon chains with isocyanide head groups. High-throughput synthesis of LNPs entails mixing an aqueous phase containing mRNA and an ethanol phase containing lipids using the OT-2 pipetting robot. The aqueous phase, prepared in pH 4.0 10 mM sodium citrate buffer, contains firefly luciferase mRNA, Cre recombinase mRNA, or EGFP-mRNA. Meanwhile, the ethanol phase comprises a mixture of 1200 ionizable lipids and fixed proportions of helper phospholipids (DOTAP, DOPE, cholesterol, and C14-PEG 2000), with a lipid-to-mRNA weight ratio of 10:1. Transfection efficiency data were obtained by applying these 1200 mRNA-LNPs to Hela and RAW 264.7 cell lines for in vitro transfection experiments.</p></sec><sec id="sec3b"><title>Experimental processing</title><p>The tasks of molecule 3D Transformer pretraining include using random positions as corrupted input 3D positions and training the model to predict the correct positions, employing different heads to predict distances between corrupted atom pairs, the correct coordinates of corrupted atoms, and to mask and predict the atom types of corrupted atoms. Atomic type prediction employs the cross-entropy loss function with a weight of 1. Prediction related to atomic coordinates and interatomic distances utilizes the smooth L1 loss function with weights set to 5 and 10, respectively. Pretraining parameters are set as follows: model layers are 15, batch size is 128, atom types are 30, learning rate is adjusted using linear decay, and the optimizer is Adam with <inline-formula><tex-math notation="LaTeX" id="ImEquation63"><?equation-image-name ImEquation63.gif?><?equation-image-status READY?><?equation-image-md5 cd8253eb5575435e66b79e1213a74a13?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/cd8253eb5575/ImEquation63.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\epsilon $\end{document}</tex-math></inline-formula>. Parameters for molecule 3D Transformer fine-tuning are as follows: model layers are 16, batch size is 4, epochs are set to 200, and the initial learning rate is set to 1e-5.</p><p>Molecule Mamba first tokenizes 1200 ionizable lipid SMILES molecular representation. The tokenizer used is ChemBERTa-77M-MTR from Deepchem. The purpose of tokenization is to segment SMILES molecule repren into tokens and convert these tokens into numerical representations that the model can process. The parameters of the Molecule Mamba model are set as follows: the feature dimension is 512, the number of layers is 2, the vocabulary size is 100, and the training process parameters are the same as molecule 3D Transformer fine-tuning. In TransMA’s hybrid loss function, the parameter <inline-formula><tex-math notation="LaTeX" id="ImEquation64"><?equation-image-name ImEquation64.gif?><?equation-image-status READY?><?equation-image-md5 f5e0e8aa5fabbad67de69a5e03cc4170?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/f5e0e8aa5fab/ImEquation64.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\beta $\end{document}</tex-math></inline-formula> is set to 6 during the scaffpld data splitting and 3 during the cliff data splitting.</p></sec><sec id="sec3c"><title>Comparison with representative deep learning-based molecular property prediction models</title><p>To demonstrate the superiority of the proposed method, compare the predictive transfection efficiency accuracy of TransMA with advanced molecular property prediction models based on graph CNNs and Transformer on the LNPs dataset. The compared five models include AGILE, large-scale self-supervised pretraining for molecular property prediction model named ChemBERTa [<xref rid="ref26" ref-type="bibr">26</xref>], self-supervised graph neural network framework named MolCLR [<xref rid="ref45" ref-type="bibr">45</xref>], and geometry enhanced molecular representation learning model named GEM [<xref rid="ref46" ref-type="bibr">46</xref>], TransLNP.</p><p>The LNPs dataset includes 1200 ionizable lipid SMILES molecules and transfection efficiency data obtained from Hela and RAW 264.7 cell lines. In model comparison, the LNPs dataset is divided into cliff [<xref rid="ref47" ref-type="bibr">47</xref>] and scaffold data splitting approaches. <xref rid="f3" ref-type="fig">Figure 3</xref> represents LNPs dataset distributions under two data splitting methods in Hela and RAW 264.7 cell lines. Scaffold splitting divides LNPs dataset into training set, validation set and testing set as shown in <xref rid="f3" ref-type="fig">Fig. 3A</xref> and <xref rid="f3" ref-type="fig">Fig. 3D</xref>. Cliff splitting utilizes molecular extended connectivity fingerprints (ECFP) descriptors to represent their structures, employing algorithms like spectral clustering to partition molecules into five clusters. Cliff splitting divides LNPs dataset into training set, validation set, and testing set as shown in <xref rid="f3" ref-type="fig">Fig. 3B</xref> and <xref rid="f3" ref-type="fig">Fig. 3E</xref>. For each cluster, a stratified sampling strategy is employed to allocate 10<inline-formula><tex-math notation="LaTeX" id="ImEquation65"><?equation-image-name ImEquation65.gif?><?equation-image-status READY?><?equation-image-md5 a5e0af3486256418233e9789fa69f4f0?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a5e0af348625/ImEquation65.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\%$\end{document}</tex-math></inline-formula> of the molecules to the testing set and other molecules to the training set and validation set in an 8:2 ratio. Cliff splitting ensures that training and test sets contain the proportion of cliff molecule pairs in the training and testing sets while preserving information about molecular structural similarity. Scaffold splitting involves grouping molecules based on their core structural scaffolds, ensuring that both training and test sets contain molecules from diverse scaffold structures [<xref rid="ref48" ref-type="bibr">48</xref>]. Cliff splitting considers the similarity of data, while scaffold splitting considers the diversity of data. Therefore, combining both cliff and scaffold data splitting methods can comprehensively validate the model’s generalization capability.</p><fig position="float" id="f3" orientation="portrait"><label>Figure 3</label><caption><p>The distribution of the transfection efficiency dataset across two data splitting methods in Hela and RAW 264.7 cell lines is shown, with pie charts representing the training (outer ring), validation (middle ring), and test (inner ring) sets, where subfigures A-C show Hela cell splits (scaffold-based, cliff-based, and overall), and subfigures D-F show the corresponding splits for RAW 264.7 cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bbaf307f3.jpg"><?image-name bbaf307f3.jpg?><?image-size 45391?><?image-md5 384a01af5b44887521bc81d71a999600?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 704?><?image-original-width 1333?><?image-scaled-height 352?><?image-scaled-width 666?><?image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/384a01af5b44/bbaf307f3.jpg?><?thumb-name bbaf307f3.gif?><?thumb-size 5014?><?thumb-md5 c807c392498ba616adef0d98816d3d5a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 151?><?thumb-cloudpmc-urn urn:cdn:blobs/3f77/12206448/c807c392498b/bbaf307f3.gif?><alt-text>Visualization of transfection efficiency data in Hela and RAW 264.7 cell lines under scaffold-based and cliff-based splits. Subfigures A and B show scaffold- and cliff-based splits in Hela; C shows the overall distribution in Hela. Subfigures D and E show scaffold- and cliff-based splits in RAW 264.7; F shows the overall distribution. In all pie charts, outer, middle, and inner rings represent training, validation, and test sets, respectively.</alt-text></graphic></fig><p>
+<xref rid="TB1" ref-type="table">Table 1</xref> presents the results of TransMA and the compared models in predicting transfection efficiency on the LNPs dataset. Evaluation metrics for assessing prediction performance include MSE, mean absolute error (MAE), the coefficient of determination R<inline-formula><tex-math notation="LaTeX" id="ImEquation66"><?equation-image-name ImEquation66.gif?><?equation-image-status READY?><?equation-image-md5 e00f5e278321ff9f06aa179860de6fbc?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/e00f5e278321/ImEquation66.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$^{2}$\end{document}</tex-math></inline-formula>, and the Pearson correlation coefficient (PCC). The results demonstrate that TransMA exhibits superior performance compared with the five other models. <xref rid="f4" ref-type="fig">Figure 4</xref> shows the boxplots of MSE for six models in Hela and RAW 264.7 cell lines. It can be observed that TransMA exhibits the lowest MSE in predicting transfection efficiency on both cell lines, indicating the smallest fluctuation in prediction errors. <xref rid="f5" ref-type="fig">Figure 5</xref> show TransMA’s capability to extract multimodal fused molecular features under the scaffold and cliff data splitting methods in Hela and RAW 264.7 cell lines. It can be observed that the molecular features extracted by molecule 3D Transformer and molecule Mamba exhibit discrete states in different transfection efficiency intervals. After feature fusion by TransMA, the molecular features of TransMA show localization, meaning that the distribution of features for the same transfection efficiency interval is close. <xref rid="f5" ref-type="fig">Figure 5</xref> indicates that TransMA has successfully established a mapping relationship between the ionizable lipid structure and transfection efficiency.</p><table-wrap position="float" id="TB1" orientation="portrait"><label>Table 1</label><caption><p>The results of predicting LNPs transfection efficiency in both Hela and Raw 264.7 cell lines by six models under scaffold and cliff data splitting methods are presented. Prediction accuracy is assessed using MSE (smaller values indicate better performance), MAE(smaller values indicate better performance), R<inline-formula><tex-math notation="LaTeX" id="ImEquation67"><?equation-image-name ImEquation67.gif?><?equation-image-status READY?><?equation-image-md5 e00f5e278321ff9f06aa179860de6fbc?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/e00f5e278321/ImEquation67.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$^{2}$\end{document}</tex-math></inline-formula> (larger values indicate better performance), and PCC (larger values indicate better performance). “BERTa” refers to the chemBERTa model, while “RAW” refers to Raw 264.7 cells. The best results are highlighted in bold</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col span="2" align="left"/><col span="3" align="left"/><col span="4" align="left"/><col span="5" align="left"/><col span="6" align="left"/><col span="7" align="left"/><col span="8" align="left"/><col span="9" align="left"/><col span="10" align="left"/><col span="11" align="left"/><col span="12" align="left"/><col span="13" align="left"/><col span="14" align="left"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Splitting</th><td rowspan="1" colspan="1"/><th colspan="2" align="left" rowspan="1">TransMA</th><th colspan="2" align="left" rowspan="1">AGILE</th><th colspan="2" align="left" rowspan="1">BERTa</th><th colspan="2" align="left" rowspan="1">MolCLR</th><th colspan="2" align="left" rowspan="1">GEM</th><th colspan="2" align="left" rowspan="1">TransLNP</th></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Scaffold</td><td rowspan="1" colspan="1">MSE<inline-formula><tex-math notation="LaTeX" id="ImEquation68"><?equation-image-name ImEquation68.gif?><?equation-image-status READY?><?equation-image-md5 3ad61e7544078aa357477d755cee682a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3ad61e754407/ImEquation68.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\downarrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>3.64</bold>
+</td><td rowspan="1" colspan="1">
+<bold>1.63</bold>
+</td><td rowspan="1" colspan="1">6.38</td><td rowspan="1" colspan="1">2.07</td><td rowspan="1" colspan="1">4.38</td><td rowspan="1" colspan="1">2.11</td><td rowspan="1" colspan="1">6.18</td><td rowspan="1" colspan="1">2.00</td><td rowspan="1" colspan="1">5.89</td><td rowspan="1" colspan="1">2.24</td><td rowspan="1" colspan="1">5.58</td><td rowspan="1" colspan="1">1.88</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MAE<inline-formula><tex-math notation="LaTeX" id="ImEquation69"><?equation-image-name ImEquation69.gif?><?equation-image-status READY?><?equation-image-md5 3ad61e7544078aa357477d755cee682a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3ad61e754407/ImEquation69.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\downarrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>1.57</bold>
+</td><td rowspan="1" colspan="1">
+<bold>0.98</bold>
+</td><td rowspan="1" colspan="1">1.92</td><td rowspan="1" colspan="1">1.11</td><td rowspan="1" colspan="1">1.70</td><td rowspan="1" colspan="1">1.13</td><td rowspan="1" colspan="1">1.98</td><td rowspan="1" colspan="1">1.09</td><td rowspan="1" colspan="1">1.92</td><td rowspan="1" colspan="1">1.16</td><td rowspan="1" colspan="1">1.92</td><td rowspan="1" colspan="1">1.06</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<inline-formula>
+<tex-math notation="LaTeX" id="ImEquation70"><?equation-image-name ImEquation70.gif?><?equation-image-status READY?><?equation-image-md5 97ad5a66b6d3ee88b3552861ad97594f?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/97ad5a66b6d3/ImEquation70.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$R^{2}$\end{document}</tex-math>
+</inline-formula>  <inline-formula><tex-math notation="LaTeX" id="ImEquation71"><?equation-image-name ImEquation71.gif?><?equation-image-status READY?><?equation-image-md5 1cdeeae8e81756da3447aac47165f765?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/1cdeeae8e817/ImEquation71.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\uparrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>0.49</bold>
+</td><td rowspan="1" colspan="1">
+<bold>0.23</bold>
+</td><td rowspan="1" colspan="1">0.11</td><td rowspan="1" colspan="1">0.02</td><td rowspan="1" colspan="1">0.39</td><td rowspan="1" colspan="1">0.01</td><td rowspan="1" colspan="1">0.12</td><td rowspan="1" colspan="1">0.05</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">-0.05</td><td rowspan="1" colspan="1">0.22</td><td rowspan="1" colspan="1">0.12</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">PCC <inline-formula><tex-math notation="LaTeX" id="ImEquation72"><?equation-image-name ImEquation72.gif?><?equation-image-status READY?><?equation-image-md5 1cdeeae8e81756da3447aac47165f765?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/1cdeeae8e817/ImEquation72.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\uparrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>0.75</bold>
+</td><td rowspan="1" colspan="1">
+<bold>0.54</bold>
+</td><td rowspan="1" colspan="1">0.46</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">0.63</td><td rowspan="1" colspan="1">0.36</td><td rowspan="1" colspan="1">0.42</td><td rowspan="1" colspan="1">0.25</td><td rowspan="1" colspan="1">0.48</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">0.47</td><td rowspan="1" colspan="1">0.37</td></tr><tr><td rowspan="1" colspan="1">Cliff</td><td rowspan="1" colspan="1">MSE <inline-formula><tex-math notation="LaTeX" id="ImEquation73"><?equation-image-name ImEquation73.gif?><?equation-image-status READY?><?equation-image-md5 3ad61e7544078aa357477d755cee682a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3ad61e754407/ImEquation73.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\downarrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>4.36</bold>
+</td><td rowspan="1" colspan="1">
+<bold>2.88</bold>
+</td><td rowspan="1" colspan="1">5.94</td><td rowspan="1" colspan="1">2.90</td><td rowspan="1" colspan="1">5.34</td><td rowspan="1" colspan="1">2.98</td><td rowspan="1" colspan="1">5.96</td><td rowspan="1" colspan="1">3.07</td><td rowspan="1" colspan="1">5.51</td><td rowspan="1" colspan="1">3.17</td><td rowspan="1" colspan="1">4.47</td><td rowspan="1" colspan="1">3.06</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MAE <inline-formula><tex-math notation="LaTeX" id="ImEquation74"><?equation-image-name ImEquation74.gif?><?equation-image-status READY?><?equation-image-md5 3ad61e7544078aa357477d755cee682a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3ad61e754407/ImEquation74.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\downarrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>1.62</bold>
+</td><td rowspan="1" colspan="1">
+<bold>1.24</bold>
+</td><td rowspan="1" colspan="1">1.79</td><td rowspan="1" colspan="1">1.33</td><td rowspan="1" colspan="1">1.78</td><td rowspan="1" colspan="1">1.34</td><td rowspan="1" colspan="1">1.89</td><td rowspan="1" colspan="1">1.35</td><td rowspan="1" colspan="1">1.72</td><td rowspan="1" colspan="1">1.33</td><td rowspan="1" colspan="1">1.55</td><td rowspan="1" colspan="1">1.30</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<inline-formula>
+<tex-math notation="LaTeX" id="ImEquation75"><?equation-image-name ImEquation75.gif?><?equation-image-status READY?><?equation-image-md5 97ad5a66b6d3ee88b3552861ad97594f?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/97ad5a66b6d3/ImEquation75.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$R^{2}$\end{document}</tex-math>
+</inline-formula>  <inline-formula><tex-math notation="LaTeX" id="ImEquation76"><?equation-image-name ImEquation76.gif?><?equation-image-status READY?><?equation-image-md5 1cdeeae8e81756da3447aac47165f765?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/1cdeeae8e817/ImEquation76.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\uparrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>0.61</bold>
+</td><td rowspan="1" colspan="1">
+<bold>0.09</bold>
+</td><td rowspan="1" colspan="1">0.47</td><td rowspan="1" colspan="1">0.08</td><td rowspan="1" colspan="1">0.53</td><td rowspan="1" colspan="1">0.06</td><td rowspan="1" colspan="1">0.47</td><td rowspan="1" colspan="1">0.05</td><td rowspan="1" colspan="1">0.51</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">0.60</td><td rowspan="1" colspan="1">0.04</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">PCC <inline-formula><tex-math notation="LaTeX" id="ImEquation77"><?equation-image-name ImEquation77.gif?><?equation-image-status READY?><?equation-image-md5 1cdeeae8e81756da3447aac47165f765?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/1cdeeae8e817/ImEquation77.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\uparrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>0.79</bold>
+</td><td rowspan="1" colspan="1">
+<bold>0.34</bold>
+</td><td rowspan="1" colspan="1">0.69</td><td rowspan="1" colspan="1">0.30</td><td rowspan="1" colspan="1">0.73</td><td rowspan="1" colspan="1">0.27</td><td rowspan="1" colspan="1">0.69</td><td rowspan="1" colspan="1">0.29</td><td rowspan="1" colspan="1">0.74</td><td rowspan="1" colspan="1">0.29</td><td rowspan="1" colspan="1">0.78</td><td rowspan="1" colspan="1">0.27</td></tr></tbody></table></table-wrap><fig position="float" id="f4" orientation="portrait"><label>Figure 4</label><caption><p>The comparison of TransMA's performance in predicting transfection efficiency against five different models under scaffold-based and cliff-based data splitting methods for Hela and RAW 264.7 cell lines is presented, with subfigure A showing box plots for the Hela cell line and subfigure B showing similar comparisons for the RAW 264.7 cell line.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bbaf307f4.jpg"><?image-name bbaf307f4.jpg?><?image-size 25130?><?image-md5 0b900fff9ba8183481c8027d41ec9999?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 345?><?image-original-width 1333?><?image-scaled-height 172?><?image-scaled-width 666?><?image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/0b900fff9ba8/bbaf307f4.jpg?><?thumb-name bbaf307f4.gif?><?thumb-size 4404?><?thumb-md5 ca9f504bca3fc2c3c530192344999108?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 52?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/3f77/12206448/ca9f504bca3f/bbaf307f4.gif?><alt-text>Box plots comparing TransMA and five models in predicting transfection efficiency under scaffold- and cliff-based splits. Subfigure A shows results in Hela cells; Subfigure B shows results in RAW 264.7 cells.</alt-text></graphic></fig><fig position="float" id="f5" orientation="portrait"><label>Figure 5</label><caption><p>The UMAP visualization of TransMA's multimodal feature fusion process, based on the Molecule 3D Transformer and Molecule Mamba under scaffoldbased and cliff-based data splitting methods, is shown for Hela and RAW 264.7 cell lines, with subfigures A and B representing fusion features in Hela cells (scaffold-based and cliff-based, respectively), and subfigures C and D showing the corresponding splits in RAW 264.7 cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bbaf307f5.jpg"><?image-name bbaf307f5.jpg?><?image-size 119803?><?image-md5 30492e7cecef0a30cce4b1a8869f68e9?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1435?><?image-original-width 1333?><?image-scaled-height 717?><?image-scaled-width 666?><?image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/30492e7cecef/bbaf307f5.jpg?><?thumb-name bbaf307f5.gif?><?thumb-size 6710?><?thumb-md5 0dbc1c05a747b2d19eca358defb8de74?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 108?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/3f77/12206448/0dbc1c05a747/bbaf307f5.gif?><alt-text>UMAP plots showing TransMA’s multimodal feature fusion in Hela and RAW 264.7 cell lines under scaffold- and cliff-based splits. Subfigures A–B show Hela results; C–D show RAW 264.7 results.</alt-text></graphic></fig></sec><sec id="sec3d"><title>Ablation experiment</title><p>TransMA’s ability to extract molecular features comes from both molecule 3D Transformer and molecule Mamba. To demonstrate the superiority of multimodal feature extraction for molecules, a ablation experiment is designed: comparing the accuracy of predicting transfection efficiency between TransMA, molecule 3D Transformer, and molecule Mamba under scaffold and cliff data splitting methods in Hela and RAW 264.7 cell lines. In the ablation experiment, TransMA, molecule 3D Transformer, and molecule Mamba ensure consistency in training set and testing set, as well as parameter settings. <xref rid="TB2" ref-type="table">Table 2</xref> presents the performance of TransMA, molecule 3D Transformer, and molecule Mamba in predicting transfection efficiency under two different data splitting methods in Hela and RAW 264.7 cell lines. The results demonstrate that TransMA outperforms both molecule 3D Transformer and molecule Mamba in predicting transfection efficiency. The ablation experiment indicates that the fusion of molecule 3D Transformer and molecule Mamba for extracting multidimensional molecular structural features is a key factor in achieving superior performance in the task of transfection efficiency prediction.</p><table-wrap position="float" id="TB2" orientation="portrait"><label>Table 2</label><caption><p>The results of predicting LNPs transfection efficiency by TransMA, molecule 3D Transformer, and molecule Mamba under scaffold and cliff data splitting methods in Hela and RAW 264.7 cell lines are presented. The best results are highlighted in bold</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col span="2" align="left"/><col span="3" align="left"/><col span="4" align="left"/><col span="5" align="left"/><col span="6" align="left"/><col span="7" align="left"/><col span="8" align="left"/><col span="9" align="left"/><col span="10" align="left"/><col span="11" align="left"/><col span="12" align="left"/><col span="13" align="left"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Splitting</th><th colspan="6" align="left" rowspan="1">Scaffold</th><th colspan="6" align="left" rowspan="1">Cliff</th></tr><tr><th align="left" rowspan="1" colspan="1">Method</th><th colspan="2" align="left" rowspan="1">TransMA</th><th colspan="2" align="left" rowspan="1">Molecule Transformer</th><th colspan="2" align="left" rowspan="1">Molecule Mamba</th><th colspan="2" align="left" rowspan="1">TransMA</th><th colspan="2" align="left" rowspan="1">Molecule Transformer</th><th colspan="2" align="left" rowspan="1">Molecule Mamba</th></tr><tr><td rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">MSE <inline-formula><tex-math notation="LaTeX" id="ImEquation78"><?equation-image-name ImEquation78.gif?><?equation-image-status READY?><?equation-image-md5 3ad61e7544078aa357477d755cee682a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3ad61e754407/ImEquation78.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\downarrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>3.64</bold>
+</td><td rowspan="1" colspan="1">
+<bold>1.63</bold>
+</td><td rowspan="1" colspan="1">5.13</td><td rowspan="1" colspan="1">1.77</td><td rowspan="1" colspan="1">6.38</td><td rowspan="1" colspan="1">1.90</td><td rowspan="1" colspan="1">
+<bold>4.36</bold>
+</td><td rowspan="1" colspan="1">
+<bold>2.88</bold>
+</td><td rowspan="1" colspan="1">4.63</td><td rowspan="1" colspan="1">3.02</td><td rowspan="1" colspan="1">5.29</td><td rowspan="1" colspan="1">3.00</td></tr><tr><td rowspan="1" colspan="1">MAE <inline-formula><tex-math notation="LaTeX" id="ImEquation79"><?equation-image-name ImEquation79.gif?><?equation-image-status READY?><?equation-image-md5 3ad61e7544078aa357477d755cee682a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3ad61e754407/ImEquation79.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\downarrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>1.57</bold>
+</td><td rowspan="1" colspan="1">
+<bold>0.98</bold>
+</td><td rowspan="1" colspan="1">1.88</td><td rowspan="1" colspan="1">1.02</td><td rowspan="1" colspan="1">2.17</td><td rowspan="1" colspan="1">1.07</td><td rowspan="1" colspan="1">
+<bold>1.62</bold>
+</td><td rowspan="1" colspan="1">
+<bold>1.24</bold>
+</td><td rowspan="1" colspan="1">
+<bold>1.62</bold>
+</td><td rowspan="1" colspan="1">1.29</td><td rowspan="1" colspan="1">1.74</td><td rowspan="1" colspan="1">1.30</td></tr><tr><td rowspan="1" colspan="1">
+<inline-formula>
+<tex-math notation="LaTeX" id="ImEquation80"><?equation-image-name ImEquation80.gif?><?equation-image-status READY?><?equation-image-md5 97ad5a66b6d3ee88b3552861ad97594f?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/97ad5a66b6d3/ImEquation80.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$R^{2}$\end{document}</tex-math>
+</inline-formula>  <inline-formula><tex-math notation="LaTeX" id="ImEquation81"><?equation-image-name ImEquation81.gif?><?equation-image-status READY?><?equation-image-md5 1cdeeae8e81756da3447aac47165f765?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/1cdeeae8e817/ImEquation81.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\uparrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">0.49</td><td rowspan="1" colspan="1">
+<bold>0.23</bold>
+</td><td rowspan="1" colspan="1">
+<bold>0.56</bold>
+</td><td rowspan="1" colspan="1">0.17</td><td rowspan="1" colspan="1">0.11</td><td rowspan="1" colspan="1">0.10</td><td rowspan="1" colspan="1">
+<bold>0.61</bold>
+</td><td rowspan="1" colspan="1">
+<bold>0.09</bold>
+</td><td rowspan="1" colspan="1">0.59</td><td rowspan="1" colspan="1">0.05</td><td rowspan="1" colspan="1">0.53</td><td rowspan="1" colspan="1">0.06</td></tr><tr><td rowspan="1" colspan="1">PCC <inline-formula><tex-math notation="LaTeX" id="ImEquation82"><?equation-image-name ImEquation82.gif?><?equation-image-status READY?><?equation-image-md5 1cdeeae8e81756da3447aac47165f765?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/1cdeeae8e817/ImEquation82.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\uparrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">
+<bold>0.75</bold>
+</td><td rowspan="1" colspan="1">
+<bold>0.54</bold>
+</td><td rowspan="1" colspan="1">0.28</td><td rowspan="1" colspan="1">0.43</td><td rowspan="1" colspan="1">0.39</td><td rowspan="1" colspan="1">0.34</td><td rowspan="1" colspan="1">
+<bold>0.79</bold>
+</td><td rowspan="1" colspan="1">
+<bold>0.34</bold>
+</td><td rowspan="1" colspan="1">0.78</td><td rowspan="1" colspan="1">0.27</td><td rowspan="1" colspan="1">0.74</td><td rowspan="1" colspan="1">0.30</td></tr></tbody></table></table-wrap></sec><sec id="sec3e"><title>Analysis of model interpretability</title><p>In this section, the interpretability of the model is analyzed to verify whether TransMA can identify the key atoms in ionizable lipids that affect transfection efficiency. First, identifying the locations of key atoms in ionizable lipids is fundamental for interpretability analysis. Therefore, constructing transfection cliffs is employed to pinpoint key atoms. Concurrently, the mol-attention mechanism block calculates the influence scores of all atoms in ionizable lipids on transfection efficiency. If the high-scoring atoms identified by the mol-attention mechanism align with the key atoms found through the construction of transfection cliffs, it proves that the model can accurately recognize the key atoms in ionizable lipids that impact transfection efficiency.</p><sec id="sec3e1"><title>Transfection cliffs</title><p>Transfection cliff molecular pairs refer to ionizable lipid molecules that are structurally very similar but have significantly different transfection efficiencies. The phenomenon of transfection cliffs exists in LNP datasets and can be observed through UMAP plots where points that are close in space exhibit large differences in mapped colors. Despite the structural similarity of transfection cliff molecular pairs, there are differences in their atomic compositions, which lead to significant differences in transfection efficiency. Therefore, the atoms that differ between the structures of transfection cliff molecular pairs are considered key atoms affecting transfection efficiency. To quantify the similarity of ionizable lipid molecules, similarity scores based on substructure similarity, scaffold similarity, and SMILES string similarity are constructed [<xref rid="ref49" ref-type="bibr">49</xref>]. Substructure similarity and scaffold similarity are determined by calculating the Tanimoto coefficient of the ECFP [<xref rid="ref50" ref-type="bibr">50</xref>, <xref rid="ref51" ref-type="bibr">51</xref>] and the Molecular ACCess System (MACCS) keys [<xref rid="ref52" ref-type="bibr">52</xref>, <xref rid="ref53" ref-type="bibr">53</xref>] for the molecular graph frameworks, respectively. SMILES string similarity is assessed by calculating the Levenshtein distance [<xref rid="ref54" ref-type="bibr">54</xref>] between the SMILES string representations of the molecules. Equation <xref rid="deqn09" ref-type="disp-formula">9</xref> calculates the Tanimoto coefficient shown as</p><disp-formula id="deqn09">
+<label>(9)</label>
+<tex-math notation="LaTeX" id="DmEquation10"><?equation-image-name DmEquation10.gif?><?equation-image-status READY?><?equation-image-md5 0c299b77a98287670b2ddc6c04c22574?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/0c299b77a982/DmEquation10.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; \text{Tanimoto coefficient} = \frac{c}{a + b - c}.\end{align*}\end{document}</tex-math>
+</disp-formula><p>For substructure similarity, <inline-formula><tex-math notation="LaTeX" id="ImEquation83"><?equation-image-name ImEquation83.gif?><?equation-image-status READY?><?equation-image-md5 3cf2268982016931f688a2d62956d6fe?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3cf226898201/ImEquation83.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$a$\end{document}</tex-math></inline-formula> counts the number of set bits (1s) in molecule A’s ECFP fingerprint, <inline-formula><tex-math notation="LaTeX" id="ImEquation84"><?equation-image-name ImEquation84.gif?><?equation-image-status READY?><?equation-image-md5 07f08451fa632de140a54b09ba8d93fd?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/07f08451fa63/ImEquation84.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$b$\end{document}</tex-math></inline-formula> does the same for molecule B, and <inline-formula><tex-math notation="LaTeX" id="ImEquation85"><?equation-image-name ImEquation85.gif?><?equation-image-status READY?><?equation-image-md5 906e271ec85ee34e7d1c70563dff9fbc?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/906e271ec85e/ImEquation85.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$c$\end{document}</tex-math></inline-formula> counts the number of common set bits in both fingerprints. For scaffold similarity, <inline-formula><tex-math notation="LaTeX" id="ImEquation86"><?equation-image-name ImEquation86.gif?><?equation-image-status READY?><?equation-image-md5 3cf2268982016931f688a2d62956d6fe?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3cf226898201/ImEquation86.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$a$\end{document}</tex-math></inline-formula> counts set bits in molecule A’s MACCS keys, <inline-formula><tex-math notation="LaTeX" id="ImEquation87"><?equation-image-name ImEquation87.gif?><?equation-image-status READY?><?equation-image-md5 07f08451fa632de140a54b09ba8d93fd?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/07f08451fa63/ImEquation87.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$b$\end{document}</tex-math></inline-formula> does the same for molecule B, and <inline-formula><tex-math notation="LaTeX" id="ImEquation88"><?equation-image-name ImEquation88.gif?><?equation-image-status READY?><?equation-image-md5 906e271ec85ee34e7d1c70563dff9fbc?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/906e271ec85e/ImEquation88.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$c$\end{document}</tex-math></inline-formula> counts common set bits in both molecules’ MACCS keys. Equation <xref rid="deqn10" ref-type="disp-formula">10</xref> computes SMILES molecular similarity shown as</p><disp-formula id="deqn10">
+<label>(10)</label>
+<tex-math notation="LaTeX" id="DmEquation11"><?equation-image-name DmEquation11.gif?><?equation-image-status READY?><?equation-image-md5 a3ed2f67df2c23cd6a7e8b8751896eec?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a3ed2f67df2c/DmEquation11.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; \text{smis} = 1 - \frac{d(s_{1}, s_{2})}{\max(|s_{1}|, |s_{2}|)} ,\end{align*}\end{document}</tex-math>
+</disp-formula><p>where <inline-formula><tex-math notation="LaTeX" id="ImEquation89"><?equation-image-name ImEquation89.gif?><?equation-image-status READY?><?equation-image-md5 d0a80065ecdd381f6498fac7f9de843a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/d0a80065ecdd/ImEquation89.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$d(s1, s2)$\end{document}</tex-math></inline-formula> is the Levenshtein distance between the SMILES strings of two molecules.</p><p>Similar molecule pairs are defined as pairs with a structural similarity greater than 0.9. Equation <xref rid="deqn11" ref-type="disp-formula">11</xref> describes the structural similarity, which is the average of substructure similarity, scaffold similarity, and SMILES string similarity shown as</p><disp-formula id="deqn11">
+<label>(11)</label>
+<tex-math notation="LaTeX" id="DmEquation12"><?equation-image-name DmEquation12.gif?><?equation-image-status READY?><?equation-image-md5 7912ca4730381188a002a7c7ea712179?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/7912ca473038/DmEquation12.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; \text{structure similarity} = \frac{subs + scas + smis}{3} ,\end{align*}\end{document}</tex-math>
+</disp-formula><p>where <inline-formula><tex-math notation="LaTeX" id="ImEquation90"><?equation-image-name ImEquation90.gif?><?equation-image-status READY?><?equation-image-md5 f4900e6648ba293c41a254e6e381d5f6?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/f4900e6648ba/ImEquation90.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$subs$\end{document}</tex-math></inline-formula> represents substructure similarity, <inline-formula><tex-math notation="LaTeX" id="ImEquation91"><?equation-image-name ImEquation91.gif?><?equation-image-status READY?><?equation-image-md5 6309918adceb5c6a9ce2722ccb1e320e?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/6309918adceb/ImEquation91.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$scas$\end{document}</tex-math></inline-formula> represents scaffold similarity, and <inline-formula><tex-math notation="LaTeX" id="ImEquation92"><?equation-image-name ImEquation92.gif?><?equation-image-status READY?><?equation-image-md5 6df5581c14125cce2efb8418f864b53c?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/6df5581c1412/ImEquation92.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$smis$\end{document}</tex-math></inline-formula> represents SMILES string similarity. Since the transfection efficiency in the LNPs dataset has been log2-transformed, similar molecule pairs are identified as transfection cliff pairs when the transfection difference exceeds 1. Equation <xref rid="deqn12" ref-type="disp-formula">12</xref> describes the transfection difference (TD) shown as</p><disp-formula id="deqn12">
+<label>(12)</label>
+<tex-math notation="LaTeX" id="DmEquation13"><?equation-image-name DmEquation13.gif?><?equation-image-status READY?><?equation-image-md5 4a6f631eb54016ac295b10eee642c537?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/4a6f631eb540/DmEquation13.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+\begin{align*}&amp; TD = |\log_{10}(2^{{m_{2}-m1}})|,\end{align*}\end{document}</tex-math>
+</disp-formula><p>where <inline-formula><tex-math notation="LaTeX" id="ImEquation93"><?equation-image-name ImEquation93.gif?><?equation-image-status READY?><?equation-image-md5 3247e7c49489c0446eb0aa7cc55cab54?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3247e7c49489/ImEquation93.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$m_{1}$\end{document}</tex-math></inline-formula> and <inline-formula><tex-math notation="LaTeX" id="ImEquation94"><?equation-image-name ImEquation94.gif?><?equation-image-status READY?><?equation-image-md5 339e147fb56a07918f9807523916e9cd?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/339e147fb56a/ImEquation94.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$m_{2}$\end{document}</tex-math></inline-formula> represent the transfection efficiencies of the two molecules in the similar pair. A total of 4267 and 2104 transfection cliff pairs are identified in the Hela and RAW 264.7 cell lines, respectively. <xref rid="f6" ref-type="fig">Figure 6</xref> shows the scatter plots of structural similarity and transfection difference for transfection cliff pairs in the Hela and RAW 264.7 cell lines. From the figure, it can be seen that when the structural similarity of the molecules is greater than 0.9, the transfection difference is significant, reaching up to a thousand-fold or even 10 000-fold difference.</p><fig position="float" id="f6" orientation="portrait"><label>Figure 6</label><caption><p>Scatter plots illustrating the relationship between structural similarity and transfection difference for transfection cliff pairs in Hela and RAW 264.7 cell lines are presented, with subfigure A showing the plot for Hela cells and subfigure B showing the plot for RAW 264.7 cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bbaf307f6.jpg"><?image-name bbaf307f6.jpg?><?image-size 40817?><?image-md5 d46cb2bb85e5e632194c0ab097c5e6c6?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 409?><?image-original-width 1333?><?image-scaled-height 204?><?image-scaled-width 666?><?image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/d46cb2bb85e5/bbaf307f6.jpg?><?thumb-name bbaf307f6.gif?><?thumb-size 6775?><?thumb-md5 875318e703a40f3f40bdc3da0772e35b?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 61?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/3f77/12206448/875318e703a4/bbaf307f6.gif?><alt-text>Scatter plots showing structural similarity versus transfection difference for transfection cliff pairs. Subfigure A shows data from the Hela cell line; Subfigure B from the RAW 264.7 cell line.</alt-text></graphic></fig></sec><sec id="sec3e2"><title>Model interpretability</title><p>The transfection cliff phenomenon can help identify key atoms in ionizable lipids that affect transfection efficiency. <xref rid="f6" ref-type="fig">Figure 6</xref> shows that even when the molecular similarity of transfection cliff pairs is close to 1, the transfection difference remains significant. This implies that the one or two differing atoms between the two molecules in the transfection cliff pairs are the cause of the large transfection difference. Therefore, the key atoms are those differing atoms in the transfection cliff pairs. When predicting the transfection efficiency of transfection cliff pairs, the mol-attention mechanism block in TransMA calculates the attention scores for all atoms. <xref rid="f7" ref-type="fig">Figure 7</xref> shows the attention scores calculated by the mol-attention mechanism block and the key atoms of the transfection cliff pairs. It can be seen that the atoms with the highest attention scores are precisely the key atoms responsible for the differences in the transfection cliff pairs. For example, in <xref rid="f7" ref-type="fig">Fig. 7</xref>, the similarity of the transfection cliff pair is 0.91, and the transfection difference is 1.69. This indicates that the transfection efficiency of one molecule is <inline-formula><tex-math notation="LaTeX" id="ImEquation95"><?equation-image-name ImEquation95.gif?><?equation-image-status READY?><?equation-image-md5 757d140cfec01cd35aa0d4472d3beca6?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/757d140cfec0/ImEquation95.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$10^{1.69}$\end{document}</tex-math></inline-formula> times higher than the other. The two molecules differ by only one carbon atom (C) and one nitrogen atom (N) in structure. The attention scores corresponding to the differing C and N atoms are 0.84 and 0.86, significantly higher than the attention scores for other atoms. Therefore, TransMA can identify the key atoms affecting transfection efficiency, demonstrating the interpretability of the model.</p><fig position="float" id="f7" orientation="portrait"><label>Figure 7</label><caption><p>A scatter plot illustrating the distribution of attention scores (ranging from 0 to 1) and highlighting key atoms for transfection cliff pairs, where the transfection difference (expressed as a power of 10) indicates the multiplicative change in transfection efficiency between two molecules, and structural similarity ranges from 0 to 1.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bbaf307f7.jpg"><?image-name bbaf307f7.jpg?><?image-size 69892?><?image-md5 ce822af53c8b2abeac77b4df0c2b458c?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 774?><?image-original-width 1333?><?image-scaled-height 387?><?image-scaled-width 666?><?image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/ce822af53c8b/bbaf307f7.jpg?><?thumb-name bbaf307f7.gif?><?thumb-size 5996?><?thumb-md5 52bf232e95ca6d9f076fe11ff45a4c7d?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 137?><?thumb-cloudpmc-urn urn:cdn:blobs/3f77/12206448/52bf232e95ca/bbaf307f7.gif?><alt-text>Scatter plot showing attention score distribution and key atoms for transfection cliff pairs. Axes include attention score (0–1), structural similarity (0–1), and log-scale transfection difference between molecule pairs.</alt-text></graphic></fig></sec></sec><sec id="sec3h"><title>External test</title><p>While TransMA achieves accurate predictions of transfection efficiency on the LNPs dataset, we aim to evaluate its generalization capability by testing it on an external dataset without additional training. We compile an external dataset based on published studies, consisting of 15 LNPs with ionizable lipids as the only variable and their transfection efficiency levels. Among these, 11 ionizable lipids, which are from different combinations of six head groups, one ester linkage, and five hydrophobic tails shown in <xref rid="f8" ref-type="fig">Fig. 8</xref>, and their transfection efficiencies [<xref rid="ref55" ref-type="bibr">55</xref>] are obtained from Balb/c mice using a fixed LNP formulation. The remaining four ionizable lipids and their transfection efficiencies [<xref rid="ref56" ref-type="bibr">56–58</xref>] are derived from different cell lines. Since the TransMA model is also trained on different cell lines, it possesses the capability to predict transfection efficiency across various cell lines.</p><fig position="float" id="f8" orientation="portrait"><label>Figure 8</label><caption><p>The molecular structures of the 11 ionizable lipids derived from external data sources are presented.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bbaf307f8.jpg"><?image-name bbaf307f8.jpg?><?image-size 26792?><?image-md5 9ba16bb10779782b5e7b4cfbd8e8e76e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 443?><?image-original-width 1333?><?image-scaled-height 221?><?image-scaled-width 666?><?image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/9ba16bb10779/bbaf307f8.jpg?><?thumb-name bbaf307f8.gif?><?thumb-size 3228?><?thumb-md5 9cc1a38eb717bdcf4226253ab6d06b24?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 66?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/3f77/12206448/9cc1a38eb717/bbaf307f8.gif?><alt-text>Structures of 11 ionizable lipids obtained from external data sources.</alt-text></graphic></fig><p>
+<xref rid="f9" ref-type="fig">Figure 9</xref> shows the results of TransMA directly testing on an external dataset without training. The predicted maximum and minimum transfection efficiencies of lipids 1-11 by TransMA are consistent with the true values, and the order of predicted values is similar to that of true values. For lipids 12 and 13, the prediction error is &lt;1. As for lipids 14 and 15, the authors only provided the transfection efficiency of lipid 14 being lower than that of lipid 15 during collection, which is consistent with the prediction result. TransMA achieves good predictions of transfection efficiency even without training on the external dataset, demonstrating its strong generalization capability.</p><fig position="float" id="f9" orientation="portrait"><label>Figure 9</label><caption><p>Predicted transfection efficiency results for the first 11 ionizable lipids are shown, along with both molecular structures and predicted results for ionizable lipids 12–15.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bbaf307f9.jpg"><?image-name bbaf307f9.jpg?><?image-size 31847?><?image-md5 ca49016df30212c1ae15b1d9a077f379?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 511?><?image-original-width 1333?><?image-scaled-height 255?><?image-scaled-width 666?><?image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/ca49016df302/bbaf307f9.jpg?><?thumb-name bbaf307f9.gif?><?thumb-size 4072?><?thumb-md5 3378af19c6c869337e271afd945b853c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 77?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3378af19c6c8/bbaf307f9.gif?><alt-text>Predicted transfection efficiency for ionizable lipids 1–11, and molecular structures with predictions for lipids 12–15.</alt-text></graphic></fig></sec><sec id="sec3i"><title>Model complexity</title><p>The parameter count of TransMA comes from the six-layer Molecular 3D Transformer, the two-layer Molecular Mamba, and the Mol-attention mechanism block shown in <xref rid="TB3" ref-type="table">Table 3</xref>. <xref rid="TB3" ref-type="table">Table 3</xref> indicates that the majority of TransMA’s parameters come from the molecule 3D Transformer, accounting for 91<inline-formula><tex-math notation="LaTeX" id="ImEquation96"><?equation-image-name ImEquation96.gif?><?equation-image-status READY?><?equation-image-md5 a5e0af3486256418233e9789fa69f4f0?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/a5e0af348625/ImEquation96.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\%$\end{document}</tex-math></inline-formula> of the total. To demonstrate that TransMA’s superior performance is not merely due to a large number of parameters, <xref rid="TB2" ref-type="table">Table 2</xref> compares TransMA with the molecule 3D Transformer, showing that TransMA outperforms it despite having a similar number of parameters.</p><table-wrap position="float" id="TB3" orientation="portrait"><label>Table 3</label><caption><p>Parameter counts for different components of TransMA</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col span="2" align="left"/></colgroup><thead><tr><td rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Params</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Molecule 3D Transformer</td><td rowspan="1" colspan="1">47 593 795</td></tr><tr><td rowspan="1" colspan="1">Molecule Mamba</td><td rowspan="1" colspan="1">3379 201</td></tr><tr><td rowspan="1" colspan="1">Mol-attention mechanism block</td><td rowspan="1" colspan="1">1050 626</td></tr></tbody></table></table-wrap><p>Additionally, increasing the number of layers in Molecule Mamba to 33 results in a parameter count that surpasses that of TransMA. The performance of the 33-layer molecule Mamba on the LNPs dataset is shown in <xref rid="TB4" ref-type="table">Table 4</xref>. The results in <xref rid="TB4" ref-type="table">Table 4</xref> show that, despite molecule Mamba having more parameters than TransMA, its predictive performance is still inferior to that of TransMA. Finally, an ablation study concerning the mol-attention mechanism block is added. The LNPs property predictions made by TransMA without the mol-attention mechanism block are also shown in <xref rid="TB4" ref-type="table">Table 4</xref>. The ablation study demonstrates that the mol-attention mechanism block not only enables the calculation of atomic scores but also enhances prediction accuracy. In summary, the outstanding performance of TransMA is not due to a simple accumulation of parameters from the molecule 3D Transformer or molecule Mamba.</p><table-wrap position="float" id="TB4" orientation="portrait"><label>Table 4</label><caption><p>Prediction results of the 33-layer molecule Mamba (Params: 54 915 585) and TransMA without the Mol-attention mechanism block under scaffold and cliff data splitting methods in Hela and RAW 264.7 cells on the LNPs dataset</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col span="2" align="left"/><col span="3" align="left"/><col span="4" align="left"/><col span="5" align="left"/><col span="6" align="left"/><col span="7" align="left"/><col span="8" align="left"/><col span="9" align="left"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Method</th><th colspan="4" align="left" rowspan="1">
+<inline-formula>
+<tex-math notation="LaTeX" id="ImEquation97"><?equation-image-name ImEquation97.gif?><?equation-image-status READY?><?equation-image-md5 8ae415e63a166ac2677ee6b206867fe4?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/8ae415e63a16/ImEquation97.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\text{Mamba}_{\text{33 layers}}$\end{document}</tex-math>
+</inline-formula>
+</th><th colspan="4" align="left" rowspan="1">
+<inline-formula>
+<tex-math notation="LaTeX" id="ImEquation98"><?equation-image-name ImEquation98.gif?><?equation-image-status READY?><?equation-image-md5 bab76aafb9a6ee8ada1c2afb61464c45?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/bab76aafb9a6/ImEquation98.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\text{TransMA}_{\text{without att}}$\end{document}</tex-math>
+</inline-formula>
+</th></tr><tr><th align="left" rowspan="1" colspan="1">Splitting</th><th colspan="2" align="left" rowspan="1">Scaffold</th><th colspan="2" align="left" rowspan="1">Cliff</th><th colspan="2" align="left" rowspan="1">Scaffold</th><th colspan="2" align="left" rowspan="1">Cliff</th></tr><tr><th align="left" rowspan="1" colspan="1">Cells</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th><th align="left" rowspan="1" colspan="1">Hela</th><th align="left" rowspan="1" colspan="1">RAW</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">MSE <inline-formula><tex-math notation="LaTeX" id="ImEquation99"><?equation-image-name ImEquation99.gif?><?equation-image-status READY?><?equation-image-md5 3ad61e7544078aa357477d755cee682a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3ad61e754407/ImEquation99.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\downarrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">5.37</td><td rowspan="1" colspan="1">1.87</td><td rowspan="1" colspan="1">5.08</td><td rowspan="1" colspan="1">2.89</td><td rowspan="1" colspan="1">4.18</td><td rowspan="1" colspan="1">1.98</td><td rowspan="1" colspan="1">4.96</td><td rowspan="1" colspan="1">3.20</td></tr><tr><td rowspan="1" colspan="1">MAE <inline-formula><tex-math notation="LaTeX" id="ImEquation100"><?equation-image-name ImEquation100.gif?><?equation-image-status READY?><?equation-image-md5 3ad61e7544078aa357477d755cee682a?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/3ad61e754407/ImEquation100.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\downarrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">1.89</td><td rowspan="1" colspan="1">1.06</td><td rowspan="1" colspan="1">1.70</td><td rowspan="1" colspan="1">1.30</td><td rowspan="1" colspan="1">1.70</td><td rowspan="1" colspan="1">1.12</td><td rowspan="1" colspan="1">1.76</td><td rowspan="1" colspan="1">1.29</td></tr><tr><td rowspan="1" colspan="1">
+<inline-formula>
+<tex-math notation="LaTeX" id="ImEquation101"><?equation-image-name ImEquation101.gif?><?equation-image-status READY?><?equation-image-md5 97ad5a66b6d3ee88b3552861ad97594f?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/97ad5a66b6d3/ImEquation101.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$R^{2}$\end{document}</tex-math>
+</inline-formula>  <inline-formula><tex-math notation="LaTeX" id="ImEquation102"><?equation-image-name ImEquation102.gif?><?equation-image-status READY?><?equation-image-md5 1cdeeae8e81756da3447aac47165f765?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/1cdeeae8e817/ImEquation102.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\uparrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">0.25</td><td rowspan="1" colspan="1">0.12</td><td rowspan="1" colspan="1">0.55</td><td rowspan="1" colspan="1">0.09</td><td rowspan="1" colspan="1">0.42</td><td rowspan="1" colspan="1">0.07</td><td rowspan="1" colspan="1">0.56</td><td rowspan="1" colspan="1">0.00</td></tr><tr><td rowspan="1" colspan="1">PCC <inline-formula><tex-math notation="LaTeX" id="ImEquation103"><?equation-image-name ImEquation103.gif?><?equation-image-status READY?><?equation-image-md5 1cdeeae8e81756da3447aac47165f765?><?equation-image-cloudpmc-urn urn:cdn:blobs/3f77/12206448/1cdeeae8e817/ImEquation103.gif?>\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+$\uparrow $\end{document}</tex-math></inline-formula></td><td rowspan="1" colspan="1">0.50</td><td rowspan="1" colspan="1">0.36</td><td rowspan="1" colspan="1">0.75</td><td rowspan="1" colspan="1">0.34</td><td rowspan="1" colspan="1">0.67</td><td rowspan="1" colspan="1">0.38</td><td rowspan="1" colspan="1">0.77</td><td rowspan="1" colspan="1">0.20</td></tr></tbody></table></table-wrap></sec></sec><sec id="sec4"><title>Discussion and conclusion</title><p>In this work, we propose an explainable high-accuracy LNPs transfection efficiency prediction model called TransMA. To achieve high-accuracy predictions, TransMA employs a multimodal molecular structure fusion architecture, where the substructure molecule 3D Transformer extracts three-dimensional spatial features of the molecule, and molecule mamba extracts one-dimensional molecular features. To achieve model interpretability and feature fusion, we design the mol-attention mechanism block. This block can integrate multidimensional features and reveal atom-level structure–transfection relationships based on the molecular channel attention mechanism. Compared with advanced molecular graph convolutional networks and Transformer models, TransMA achieves the highest accuracy in predicting transfection efficiency under the scaffold and cliff data splitting methods in Hela and RAW 264.7 cell lines. Moreover, we introduce transfection cliff pairs. The results demonstrate that the atoms with high attention scores computed by the mol-attention mechanism block correspond to the key atoms in the transfection cliff pairs, showing that TransMA can identify the key atoms affecting transfection efficiency. Additionally, the external test results indicate that even on the untrained external dataset, TransMA’s predicted values maintain a consistent order with the actual transfection efficiencies.</p><p>Although TransMA has demonstrated excellent performance in predicting transfection efficiency, there are still limitations in prediction accuracy due to the scarcity of LNPs datasets. Additionally, since ionizable lipids are composed mainly of head and tail groups, different ionizable lipids tend to have high structural similarity, making the occurrence of transfection cliffs more likely. These transfection cliffs increase the difficulty for TransMA to capture the mapping relationship between molecular structure and transfection efficiency. Therefore, future work should focus on addressing the transfection cliff phenomenon to further improve prediction accuracy. Although TransMA has validated the accuracy of predicting transfection efficiency in cultured cells, translating this to therapeutic settings remains challenging due to differences between <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic> environments. Factors such as LNP stability, immune responses, cell type diversity, and tissue distribution can affect transfection efficiency <italic toggle="yes">in vivo</italic>, requiring greater generalization from the model. However, TransMA has shown strong generalization ability in external data testing. We believe that with further data and optimizations, TransMA can play a crucial role in improving LNP delivery efficiency in clinical settings.</p><boxed-text id="box01" position="float" orientation="portrait"><sec id="sec24a"><title>Key Points</title><list list-type="bullet"><list-item id="item5"><p>An explainable LNPs transfection efficiency prediction model called TransMA.</p></list-item><list-item id="item6"><p>TransMA employs a multimodal molecular structure fusion architecture.</p></list-item><list-item id="item7"><p>TransMA reveals the atomic-level structure–transfection relationships.</p></list-item><list-item id="item8"><p>TransMA achieves state-of-the-art performance on the largest current LNPs dataset.</p></list-item></list></sec></boxed-text></sec></body><back><ack id="ack1"><title>Acknowledgments</title><p>The authors thank the anonymous reviewers for their valuable suggestions.</p></ack><sec id="sec50"><title>Author contributions</title><p>Kun Wu (Conceptualization, Formal analysis, Visualization, Writingoriginal draft, Writingreview &amp; editing), Zixu Wang (Conceptualization, Formal analysis, Visualization, Writingoriginal draft, Writingreview &amp; editing), Xiulong Yang (Conceptualization, Formal analysis, Visualization, Writingoriginal draft, Writingreview &amp; editing), Yangyang Chen (Conceptualization, Writingreview &amp; editing), Fulvio Mastrogiovanni (Conceptualization, Writingreview &amp; editing), Jialu Zhang (Conceptualization, Writingreview &amp; editing), and Lizhuang Liu (Conceptualization, Supervision). All authors have read and approved the final manuscript for submission.</p></sec><sec sec-type="COI-statement" id="sec51"><title>Competing interests</title><p>No competing interest is declared.</p></sec><sec id="sec52"><title>Funding</title><p>None declared.</p></sec><sec sec-type="data-availability" id="sec53"><title>Data availability</title><p>The code, model, and data are made publicly available at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/wklix/TransMA/tree/master" ext-link-type="uri">https://github.com/wklix/TransMA/tree/master</ext-link>.</p></sec><ref-list id="bib1"><title>References</title><ref id="ref1"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hou</surname>  <given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Zaks</surname>  <given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Langer</surname>  <given-names>R</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Lipid nanoparticles for mRNA delivery</article-title>. <source><italic toggle="yes">Nat Rev Mater</italic></source>  <year>2021</year>;<volume>6</volume>:<fpage>1078</fpage>–<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1038/s41578-021-00358-0</pub-id><pub-id pub-id-type="pmid">34394960</pub-id>
+<pub-id pub-id-type="pmcid">PMC8353930</pub-id></mixed-citation></ref><ref id="ref2"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Uchida</surname>  <given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Perche</surname>  <given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Pichon</surname>  <given-names>C</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Nanomedicine-based approaches for mRNA delivery</article-title>. <source><italic toggle="yes">Mol Pharm</italic></source>  <year>2020</year>;<volume>17</volume>:<fpage>3654</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1021/acs.molpharmaceut.0c00618</pub-id><pub-id pub-id-type="pmid">32845639</pub-id>
+</mixed-citation></ref><ref id="ref3"><label>3.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Meng</surname>  <given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>  <given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>  <given-names>G</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Nanoplatforms for mRNA therapeutics</article-title>. <source><italic toggle="yes">Adv Ther</italic></source>  <year>2021</year>;<volume>4</volume>:<fpage>2000099</fpage>. <pub-id pub-id-type="doi">10.1002/adtp.202000099</pub-id></mixed-citation></ref><ref id="ref4"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Gebre</surname>  <given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Brito</surname>  <given-names>LA</given-names></string-name>, <string-name name-style="western"><surname>Tostanoski</surname>  <given-names>LH</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Novel approaches for vaccine development</article-title>. <source><italic toggle="yes">Cell</italic></source>  <year>2021</year>;<volume>184</volume>:<fpage>1589</fpage>–<lpage>603</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2021.02.030</pub-id><pub-id pub-id-type="pmid">33740454</pub-id>
+<pub-id pub-id-type="pmcid">PMC8049514</pub-id></mixed-citation></ref><ref id="ref5"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Weng</surname>  <given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>  <given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>  <given-names>T</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>The challenge and prospect of mRNA therapeutics landscape</article-title>. <source><italic toggle="yes">Biotechnol Adv</italic></source>  <year>2020</year>;<volume>40</volume>:<fpage>107534</fpage>. <pub-id pub-id-type="doi">10.1016/j.biotechadv.2020.107534</pub-id><pub-id pub-id-type="pmid">32088327</pub-id>
+</mixed-citation></ref><ref id="ref6"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kim</surname>  <given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Eygeris</surname>  <given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Gupta</surname>  <given-names>M</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Self-assembled mRNA vaccines</article-title>. <source><italic toggle="yes">Adv Drug Deliv Rev</italic></source>  <year>2021</year>;<volume>170</volume>:<fpage>83</fpage>–<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1016/j.addr.2020.12.014</pub-id><pub-id pub-id-type="pmid">33400957</pub-id>
+<pub-id pub-id-type="pmcid">PMC7837307</pub-id></mixed-citation></ref><ref id="ref7"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Li</surname>  <given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>  <given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>  <given-names>J</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>All-trans-retinoic acid-adjuvanted mRNA vaccine induces mucosal anti-tumor immune responses for treating colorectal cancer</article-title>. <source>Adv Sci</source>  <year>2024</year>;<volume>11</volume>:2309770.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/advs.202309770</pub-id><pub-id pub-id-type="pmcid">PMC11165559</pub-id><pub-id pub-id-type="pmid">38528670</pub-id></mixed-citation></ref><ref id="ref8"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Song</surname>  <given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>  <given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>  <given-names>Y</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Aldolase A accelerates cancer progression by modulating mRNA translation and protein biosynthesis via noncanonical mechanisms</article-title>. <source><italic toggle="yes">Adv Sci</italic></source>  <year>2023</year>;<volume>10</volume>:<fpage>e2302425</fpage>. <pub-id pub-id-type="doi">10.1002/advs.202302425</pub-id><pub-id pub-id-type="pmcid">PMC10502857</pub-id><pub-id pub-id-type="pmid">37431681</pub-id></mixed-citation></ref><ref id="ref9"><label>9.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ding</surname>  <given-names>DY</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>  <given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Jia</surname>  <given-names>Y</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Machine learning-guided lipid nanoparticle design for mRNA delivery</article-title>. In: <source>ICML 2023 CompBio Workshop</source>, p. <fpage>2023</fpage>.</mixed-citation></ref><ref id="ref10"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Qin</surname>  <given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Tang</surname>  <given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>  <given-names>Y</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>mRNA-based therapeutics: powerful and versatile tools to combat diseases</article-title>. <source><italic toggle="yes">Signal Transduct Target Ther</italic></source>  <year>2022</year>;<volume>7</volume>:<fpage>166</fpage>.<pub-id pub-id-type="pmid">35597779</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41392-022-01007-w</pub-id><pub-id pub-id-type="pmcid">PMC9123296</pub-id></mixed-citation></ref><ref id="ref11"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Tenchov</surname>  <given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Bird</surname>  <given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Curtze</surname>  <given-names>AE</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Lipid nanoparticles-from liposomes to mRNA vaccine delivery, a landscape of research diversity and advancement</article-title>. <source><italic toggle="yes">ACS Nano</italic></source>  <year>2021</year>;<volume>15</volume>:<fpage>16982</fpage>–<lpage>7015</lpage>.<pub-id pub-id-type="pmid">34181394</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acsnano.1c04996</pub-id></mixed-citation></ref><ref id="ref12"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Huang</surname>  <given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Duan</surname>  <given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>  <given-names>J</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Lipid nanoparticle delivery system for mRNA encoding b7h3-redirected bispecific antibody displays potent antitumor effects on malignant tumors</article-title>. <source><italic toggle="yes">Adv Sci</italic></source>  <year>2023</year>;<volume>10</volume>:<fpage>2205532</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/advs.202205532</pub-id><pub-id pub-id-type="pmcid">PMC9875623</pub-id><pub-id pub-id-type="pmid">36403209</pub-id></mixed-citation></ref><ref id="ref13"><label>13.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Patrignani</surname>  <given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Schicchi</surname>  <given-names>N’</given-names></string-name>, <string-name name-style="western"><surname>Calcagnoli</surname>  <given-names>F</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Acute myocarditis following Comirnaty vaccination in a healthy man with previous SARS-COV-2 infection</article-title>. <source><italic toggle="yes">Radiol Case Rep</italic></source>  <year>2021</year>;<volume>16</volume>:<fpage>3321</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">34367386</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.radcr.2021.07.082</pub-id><pub-id pub-id-type="pmcid">PMC8326008</pub-id></mixed-citation></ref><ref id="ref14"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sulaiman</surname>  <given-names>SK</given-names></string-name>, <string-name name-style="western"><surname>Musa</surname>  <given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Isma’il Tsiga-Ahmed</surname>  <given-names>F</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>A systematic review and meta-analysis of the global prevalence and determinants of Covid-19 vaccine acceptance and uptake in people living with HIV</article-title>. <source><italic toggle="yes">Nat Hum Behav</italic></source> 2024;<volume>8</volume>:100–14.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41562-023-01733-3</pub-id><pub-id pub-id-type="pmcid">PMC10810755</pub-id><pub-id pub-id-type="pmid">37904021</pub-id></mixed-citation></ref><ref id="ref15"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Liu</surname>  <given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>  <given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Luo</surname>  <given-names>D</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Cm-siRPred: predicting chemically modified siRNA efficiency based on multi-view learning strategy</article-title>. <source><italic toggle="yes">Int J Biol Macromol</italic></source>  <year>2024</year>;<volume>264</volume>:<fpage>130638</fpage>.<pub-id pub-id-type="pmid">38460652</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijbiomac.2024.130638</pub-id></mixed-citation></ref><ref id="ref16"><label>16.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kim</surname>  <given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Jeong</surname>  <given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Hur</surname>  <given-names>S</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Engineered ionizable lipid nanoparticles for targeted delivery of RNA therapeutics into different types of cells in the liver. <italic toggle="yes">Science</italic></article-title>. <source><italic toggle="yes">Advances</italic></source>  <year>2021</year>;<volume>7</volume>:<fpage>eabf4398</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/sciadv.abf4398</pub-id><pub-id pub-id-type="pmcid">PMC7909888</pub-id><pub-id pub-id-type="pmid">33637537</pub-id></mixed-citation></ref><ref id="ref17"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hajj</surname>  <given-names>KA</given-names></string-name>, <string-name name-style="western"><surname>Whitehead</surname>  <given-names>KA</given-names></string-name></person-group>. <article-title>Tools for translation: non-viral materials for therapeutic mRNA delivery</article-title>. <source><italic toggle="yes">Nat Rev Mater</italic></source>  <year>2017</year>;<volume>2</volume>:<fpage>17056</fpage>.</mixed-citation></ref><ref id="ref18"><label>18.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kowalski</surname>  <given-names>PS</given-names></string-name>, <string-name name-style="western"><surname>Rudra</surname>  <given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Miao</surname>  <given-names>L</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Delivering the messenger: advances in technologies for therapeutic mRNA delivery</article-title>. <source><italic toggle="yes">Mol Ther</italic></source>  <year>2019</year>;<volume>27</volume>:<fpage>710</fpage>–<lpage>28</lpage>.<pub-id pub-id-type="pmid">30846391</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ymthe.2019.02.012</pub-id><pub-id pub-id-type="pmcid">PMC6453548</pub-id></mixed-citation></ref><ref id="ref19"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Miao</surname>  <given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>  <given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>  <given-names>Y</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Delivery of mRNA vaccines with heterocyclic lipids increases anti-tumor efficacy by sting-mediated immune cell activation</article-title>. <source><italic toggle="yes">Nat Biotechnol</italic></source>  <year>2019</year>;<volume>37</volume>:<fpage>1174</fpage>–<lpage>85</lpage>.<pub-id pub-id-type="pmid">31570898</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41587-019-0247-3</pub-id></mixed-citation></ref><ref id="ref20"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Li</surname>  <given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Manan</surname>  <given-names>RS</given-names></string-name>, <string-name name-style="western"><surname>Liang</surname>  <given-names>S-Q</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Combinatorial design of nanoparticles for pulmonary mRNA delivery and genome editing</article-title>. <source><italic toggle="yes">Nat Biotechnol</italic></source>  <year>2023</year>;<volume>41</volume>:<fpage>1410</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">36997680</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41587-023-01679-x</pub-id><pub-id pub-id-type="pmcid">PMC10544676</pub-id></mixed-citation></ref><ref id="ref21"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Li</surname>  <given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Raji</surname>  <given-names>IO</given-names></string-name>, <string-name name-style="western"><surname>Gordon</surname>  <given-names>AGR</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Accelerating ionizable lipid discovery for mRNA delivery using machine learning and combinatorial chemistry</article-title>. <source><italic toggle="yes">Nat Mater</italic></source>  <year>2024</year>;<volume>23</volume>:1002–8.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41563-024-01867-3</pub-id><pub-id pub-id-type="pmid">38740955</pub-id></mixed-citation></ref><ref id="ref22"><label>22.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Han</surname>  <given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>  <given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Butowska</surname>  <given-names>K</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>An ionizable lipid toolbox for RNA delivery</article-title>. <source><italic toggle="yes">Nat Commun</italic></source>  <year>2021</year>;<volume>12</volume>:<fpage>7233</fpage>.<pub-id pub-id-type="pmid">34903741</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-021-27493-0</pub-id><pub-id pub-id-type="pmcid">PMC8668901</pub-id></mixed-citation></ref><ref id="ref23"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Meng</surname>  <given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Grimm</surname>  <given-names>D</given-names></string-name></person-group>. <article-title>Membrane-destabilizing ionizable phospholipids: novel components for organ-selective mRNA delivery and CRISPR-Cas gene editing</article-title>. <source><italic toggle="yes">Signal Transduct Target Ther</italic></source>  <year>2021</year>;<volume>6</volume>:<fpage>206</fpage>.<pub-id pub-id-type="pmid">34035211</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41392-021-00642-z</pub-id><pub-id pub-id-type="pmcid">PMC8149719</pub-id></mixed-citation></ref><ref id="ref24"><label>24.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Yue</surname>  <given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Ma</surname>  <given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Cui</surname>  <given-names>H</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Agile platform: a deep learning powered approach to accelerate LNP development for mRNA delivery.</article-title>  <source><italic toggle="yes">Nat Commun</italic></source>  <year>2024</year>;<volume>15</volume>:<fpage>6305</fpage>.<pub-id pub-id-type="pmid">39060305</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-024-50619-z</pub-id><pub-id pub-id-type="pmcid">PMC11282250</pub-id></mixed-citation></ref><ref id="ref25"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Wu</surname>  <given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>  <given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>  <given-names>Z</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Data-balanced transformer for accelerated ionizable lipid nanoparticles screening in mRNA delivery</article-title>. <source><italic toggle="yes">Brief Bioinform</italic></source>  <year>2024</year>;<volume>25</volume>:<fpage>bbae186</fpage>.<pub-id pub-id-type="pmid">38670158</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bib/bbae186</pub-id><pub-id pub-id-type="pmcid">PMC11052633</pub-id></mixed-citation></ref><ref id="ref26"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Chithrananda</surname>  <given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Grand</surname>  <given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Ramsundar</surname>  <given-names>B</given-names></string-name></person-group>. <article-title>ChemBERTa: large-scale self-supervised pretraining for molecular property prediction</article-title>. <source><italic toggle="yes">CoRR</italic></source>  <year>2020</year>;<volume>abs/2010.09885</volume>.</mixed-citation></ref><ref id="ref27"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Retzlaff</surname>  <given-names>CO</given-names></string-name>, <string-name name-style="western"><surname>Angerschmid</surname>  <given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Saranti</surname>  <given-names>A</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Post-hoc vs ante-hoc explanations: xAI design guidelines for data scientists</article-title>. <source><italic toggle="yes">Cognit Syst Res</italic></source>  <year>2024</year>;<volume>86</volume>:<fpage>101243</fpage>.</mixed-citation></ref><ref id="ref28"><label>28.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Lundberg</surname>  <given-names>SM</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>  <given-names>S-I</given-names></string-name></person-group>. <article-title>A unified approach to interpreting model predictions</article-title>. In: <string-name name-style="western"><surname>Guyon</surname>  <given-names>I</given-names></string-name>, <string-name name-style="western"><surname>Von Luxburg</surname>  <given-names>U</given-names></string-name>, <string-name name-style="western"><surname>Bengio</surname>  <given-names>S</given-names></string-name>. et al. (eds.), <source><italic toggle="yes">Advances in Neural Information Processing Systems</italic></source>, Vol. <volume>30</volume>. Long Beach, California, USA: <publisher-name>Curran Associates, Inc.</publisher-name>, <year>2017</year>.</mixed-citation></ref><ref id="ref29"><label>29.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ribeiro</surname>  <given-names>MT</given-names></string-name>, <string-name name-style="western"><surname>Singh</surname>  <given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Guestrin</surname>  <given-names>C</given-names></string-name></person-group>. <article-title>Why Should I Trust You?</article-title> In: Krishnapuram B, Shah M, Smola AJ et al. (eds.), <source>Explaining the Predictions of any Classifier. KDD</source>, Vol. <volume>16</volume>, pp. <fpage>1135</fpage>–<lpage>44</lpage>. <publisher-loc>New York, NY, USA</publisher-loc>: <publisher-name>Association for Computing Machinery</publisher-name>, <year>2016</year>.</mixed-citation></ref><ref id="ref30"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Rodríguez-Pérez</surname>  <given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Bajorath</surname>  <given-names>J</given-names></string-name></person-group>. <article-title>Interpretation of compound activity predictions from complex machine learning models using local approximations and shapley values</article-title>. <source><italic toggle="yes">J Med Chem</italic></source>  <year>2020</year>;<volume>63</volume>:<fpage>8761</fpage>–<lpage>77</lpage>.<pub-id pub-id-type="pmid">31512867</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jmedchem.9b01101</pub-id></mixed-citation></ref><ref id="ref31"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Jiménez-Luna</surname>  <given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Grisoni</surname>  <given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Schneider</surname>  <given-names>G</given-names></string-name></person-group>. <article-title>Drug discovery with explainable artificial intelligence</article-title>. <source><italic toggle="yes">Nat Mach Intell</italic></source>  <year>2020</year>;<volume>2</volume>:<fpage>573</fpage>–<lpage>84</lpage>.</mixed-citation></ref><ref id="ref32"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Meng</surname>  <given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Trinh</surname>  <given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Nan</surname>  <given-names>X</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Interpretability and fairness evaluation of deep learning models on MIMIC-IV dataset</article-title>. <source><italic toggle="yes">Sci Rep</italic></source>  <year>2022</year>;<volume>12</volume>:<fpage>7166</fpage>.<pub-id pub-id-type="pmid">35504931</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-022-11012-2</pub-id><pub-id pub-id-type="pmcid">PMC9065125</pub-id></mixed-citation></ref><ref id="ref33"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Liu</surname>  <given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Huang</surname>  <given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Luo</surname>  <given-names>D</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Cm-siRPred: Predicting chemically modified siRNA efficiency based on multi-view learning strategy</article-title>. <source><italic toggle="yes">Int J Biol Macromol</italic></source>  <year>2024</year>;<volume>264</volume>:<fpage>130638</fpage>.<pub-id pub-id-type="pmid">38460652</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijbiomac.2024.130638</pub-id></mixed-citation></ref><ref id="ref34"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Liu</surname>  <given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Qiao</surname>  <given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>  <given-names>Z</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>CodLncScape provides a self-enriching framework for the systematic collection and exploration of coding lncRNAs</article-title>. <source><italic toggle="yes">Adv Sci</italic></source>  <year>2024</year>;<volume>11</volume>:<fpage>2400009</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/advs.202400009</pub-id><pub-id pub-id-type="pmcid">PMC11165466</pub-id><pub-id pub-id-type="pmid">38602457</pub-id></mixed-citation></ref><ref id="ref35"><label>35.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Albert</surname>  <given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Dao</surname>  <given-names>T</given-names></string-name></person-group>. <article-title>Mamba: linear-time sequence modeling with selective state spaces</article-title>. arXiv:2312.00752, <year>2023</year>.</mixed-citation></ref><ref id="ref36"><label>36.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ma</surname>  <given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>  <given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>  <given-names>B</given-names></string-name></person-group>. <article-title>U-Mamba: enhancing long-range dependency for biomedical image segmentation</article-title>. arXiv:2401.04722, <year>2024</year>.</mixed-citation></ref><ref id="ref37"><label>37.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Wang</surname>  <given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Ma</surname>  <given-names>C</given-names></string-name></person-group>. <article-title>Weak-Mamba-UNet: visual Mamba makes CNN and ViT work better for scribble-based medical image segmentation</article-title>. arXiv:2402.10887, <year>2024</year>.</mixed-citation></ref><ref id="ref38"><label>38.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Liu</surname>  <given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Tian</surname>  <given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Zhao</surname>  <given-names>Y</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>VMamba: visual state space model</article-title>. arXiv:2401.10166, <year>2024</year>.</mixed-citation></ref><ref id="ref39"><label>39.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Zhao</surname>  <given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Chen</surname>  <given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>  <given-names>X</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>RS-Mamba for large remote sensing image dense prediction</article-title>. arXiv:2404.02668, <year>2024</year>.</mixed-citation></ref><ref id="ref40"><label>40.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Albert</surname>  <given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Goel</surname>  <given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Re</surname>  <given-names>C</given-names></string-name></person-group>. <article-title>Efficiently modeling long sequences with structured state spaces</article-title>. In: <source>International Conference on Learning Representations</source>. arXiv:2111.00396, <year>2022</year>.</mixed-citation></ref><ref id="ref41"><label>41.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Woo</surname>  <given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Park</surname>  <given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>  <given-names>J-Y</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>CBAM: convolutional block attention module</article-title>. In: <string-name name-style="western"><surname>Ferrari</surname>  <given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Hebert</surname>  <given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Sminchisescu</surname>  <given-names>C</given-names></string-name>. et al. (eds.), <source><italic toggle="yes">Computer Vision – ECCV 2018</italic></source>, pp. <fpage>3</fpage>–<lpage>19</lpage>. <publisher-loc>Cham</publisher-loc>: <publisher-name>Springer International Publishing</publisher-name>, <year>2018</year>.</mixed-citation></ref><ref id="ref42"><label>42.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Park</surname>  <given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Woo</surname>  <given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>  <given-names>J-Y</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>BAM: bottleneck attention module</article-title>. In: Forsyth DA, González JS, Aggarwal JK et al. (eds.), <source>British Machine Vision Conference 2018, BMVC 2018</source>, Vol. <volume>2018</volume>, p. <fpage>147</fpage>. <publisher-loc>Newcastle, UK</publisher-loc>: <publisher-name>BMVA Press</publisher-name>, <year>2018</year>.</mixed-citation></ref><ref id="ref43"><label>43.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hu</surname>  <given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Shen</surname>  <given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Sun</surname>  <given-names>G</given-names></string-name></person-group>. <article-title>Squeeze-and-excitation networks</article-title>. In: Avidan S, Black MJ, Chandraker M (eds.), <source>2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition</source>, pp. <fpage>7132</fpage>. Salt Lake City, UT, USA, <fpage>2018</fpage>–<lpage>41</lpage>.</mixed-citation></ref><ref id="ref44"><label>44.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Zhou</surname>  <given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Gao</surname>  <given-names>Z</given-names></string-name>, <string-name name-style="western"><surname>Ding</surname>  <given-names>Q</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Uni-Mol: a universal 3D molecular representation learning framework</article-title>. In: Gidel G, Bengio Y, Lacoste P (eds.), <source>The Eleventh International Conference on Learning Representations</source>, <year>2023</year>.</mixed-citation></ref><ref id="ref45"><label>45.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Wang</surname>  <given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Wang</surname>  <given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Cao</surname>  <given-names>Z</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Molecular contrastive learning of representations via graph neural networks</article-title>. <source><italic toggle="yes">Nat Mach Intell</italic></source>  <year>2022</year>;<volume>4</volume>:<fpage>279</fpage>–<lpage>87</lpage>.</mixed-citation></ref><ref id="ref46"><label>46.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Fang</surname>  <given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Liu</surname>  <given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Lei</surname>  <given-names>J</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Geometry-enhanced molecular representation learning for property prediction</article-title>. <source><italic toggle="yes">Nat Mach Intell</italic></source>  <year>2022</year>;<volume>4</volume>:<fpage>127</fpage>–<lpage>34</lpage>.</mixed-citation></ref><ref id="ref47"><label>47.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>van Tilborg</surname>  <given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Alenicheva</surname>  <given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Grisoni</surname>  <given-names>F</given-names></string-name></person-group>. <article-title>Exposing the limitations of molecular machine learning with activity cliffs</article-title>. <source><italic toggle="yes">J Chem Inf Model</italic></source>  <year>2022</year>;<volume>62</volume>:<fpage>5938</fpage>–<lpage>51</lpage>.<pub-id pub-id-type="pmid">36456532</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jcim.2c01073</pub-id><pub-id pub-id-type="pmcid">PMC9749029</pub-id></mixed-citation></ref><ref id="ref48"><label>48.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Yang</surname>  <given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Swanson</surname>  <given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Jin</surname>  <given-names>W</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Analyzing learned molecular representations for property prediction</article-title>. <source><italic toggle="yes">J Chem Inf Model</italic></source>  <year>2019</year>;<volume>59</volume>:<fpage>3370</fpage>–<lpage>88</lpage>.<pub-id pub-id-type="pmid">31361484</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jcim.9b00237</pub-id><pub-id pub-id-type="pmcid">PMC6727618</pub-id></mixed-citation></ref><ref id="ref49"><label>49.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>van Tilborg</surname>  <given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Alenicheva</surname>  <given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Grisoni</surname>  <given-names>F</given-names></string-name></person-group>. <article-title>Exposing the limitations of molecular machine learning with activity cliffs</article-title>. <source><italic toggle="yes">J Chem Inf Model</italic></source>  <year>2022</year>;<volume>62</volume>:<fpage>5938</fpage>–<lpage>51</lpage>. DY.<pub-id pub-id-type="pmid">36456532</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jcim.2c01073</pub-id><pub-id pub-id-type="pmcid">PMC9749029</pub-id></mixed-citation></ref><ref id="ref50"><label>50.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Rogers</surname>  <given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Hahn</surname>  <given-names>M</given-names></string-name></person-group>. <article-title>Extended-connectivity fingerprints</article-title>. <source><italic toggle="yes">J Chem Inf Model</italic></source>  <year>2010</year>;<volume>50</volume>:<fpage>742</fpage>–<lpage>54</lpage>.<pub-id pub-id-type="pmid">20426451</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/ci100050t</pub-id></mixed-citation></ref><ref id="ref51"><label>51.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Asahara</surname>  <given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Miyao</surname>  <given-names>T</given-names></string-name></person-group>. <article-title>Extended connectivity fingerprints as a chemical reaction representation for enantioselective organophosphorus-catalyzed asymmetric reaction prediction</article-title>. <source><italic toggle="yes">ACS Omega</italic></source>  <year>2022</year>;<volume>7</volume>:<fpage>26952</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">35936487</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acsomega.2c03812</pub-id><pub-id pub-id-type="pmcid">PMC9352214</pub-id></mixed-citation></ref><ref id="ref52"><label>52.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Yuan</surname>  <given-names>X</given-names></string-name>, <string-name name-style="western"><surname>Li</surname>  <given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Shi</surname>  <given-names>Z</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Molecular-fingerprint machine-learning-assisted design and prediction for high-performance MOFs for capture of NMHCs from air</article-title>. <source><italic toggle="yes">Adv Powder Mater</italic></source>  <year>2022</year>;<volume>1</volume>:<fpage>100026</fpage>.</mixed-citation></ref><ref id="ref53"><label>53.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ucak</surname>  <given-names>UV</given-names></string-name>, <string-name name-style="western"><surname>Kang</surname>  <given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Ko</surname>  <given-names>J</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Substructure-based neural machine translation for retrosynthetic prediction</article-title>. <source><italic toggle="yes">J Chem</italic></source>  <year>2021</year>;<volume>13</volume>:<fpage>4</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13321-020-00482-z</pub-id><pub-id pub-id-type="pmcid">PMC7802345</pub-id><pub-id pub-id-type="pmid">33431017</pub-id></mixed-citation></ref><ref id="ref54"><label>54.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Berger</surname>  <given-names>B</given-names></string-name>, <string-name name-style="western"><surname>Waterman</surname>  <given-names>MS</given-names></string-name>, <string-name name-style="western"><surname>Yun William</surname>  <given-names>Y</given-names></string-name></person-group>. <article-title>Levenshtein distance, sequence comparison and biological database search</article-title>. <source><italic toggle="yes">IEEE Trans Inf Theory</italic></source>  <year>2021</year>;<volume>67</volume>:<fpage>3287</fpage>–<lpage>94</lpage>.<pub-id pub-id-type="pmid">34257466</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1109/tit.2020.2996543</pub-id><pub-id pub-id-type="pmcid">PMC8274556</pub-id></mixed-citation></ref><ref id="ref55"><label>55.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>You</surname>  <given-names>Z</given-names></string-name>
+</person-group>. <source>Design and synthesis of ionizable cationic lipids and their application in personalized antitumor vaccine</source>  <comment>Master’s thesis</comment>. <publisher-name>Central China Normal University</publisher-name>, <year>2023</year>.</mixed-citation></ref><ref id="ref56"><label>56.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Xu</surname>  <given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Xu</surname>  <given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Nicholas</surname>  <given-names>C</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Tumor-tailored ionizable lipid nanoparticles facilitate IL-12 circular RNA delivery for enhanced lung cancer immunotherapy</article-title>. <source>Adv Mater</source> 2024;<volume>36</volume>:2400307.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adma.202400307</pub-id><pub-id pub-id-type="pmid">38657273</pub-id></mixed-citation></ref><ref id="ref57"><label>57.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Radmand</surname>  <given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Lokugamage</surname>  <given-names>MP</given-names></string-name>, <string-name name-style="western"><surname>Kim</surname>  <given-names>H</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>The transcriptional response to lung-targeting lipid nanoparticles in vivo</article-title>. <source><italic toggle="yes">Nano Lett</italic></source>  <year>2023</year>;<volume>23</volume>:<fpage>993</fpage>–<lpage>1002</lpage>. <comment>PMID: 36701517</comment>.<pub-id pub-id-type="pmid">36701517</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.nanolett.2c04479</pub-id><pub-id pub-id-type="pmcid">PMC9912332</pub-id></mixed-citation></ref><ref id="ref58"><label>58.</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ding</surname>  <given-names>DY</given-names></string-name>, <string-name name-style="western"><surname>Zhang</surname>  <given-names>Y</given-names></string-name>, <string-name name-style="western"><surname>Jia</surname>  <given-names>Y</given-names></string-name>. <etal>et al.</etal></person-group>  <article-title>Machine learning-guided lipid nanoparticle design for mRNA delivery</article-title>. In: <source>ICML 2023 CompBio Workshop</source>, p. <fpage>2023</fpage>.</mixed-citation></ref></ref-list></back></article>

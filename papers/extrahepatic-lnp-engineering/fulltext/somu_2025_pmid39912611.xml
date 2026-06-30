@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">822</journal-id><journal-id journal-id-type="pmc-domain">acssd</journal-id><journal-title-group><journal-title>ACS Nano</journal-title><abbrev-journal-title>ACS Nano</abbrev-journal-title></journal-title-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11841047</article-id><article-id pub-id-type="pmcaid">11841047</article-id><article-id pub-id-type="pmcaiid">11841047</article-id><article-id pub-id-type="pmid">39912611</article-id><article-id pub-id-type="doi">10.1021/acsnano.4c18636</article-id><title-group><article-title>Ionizable
+Lipids with Optimized Linkers Enable Lung-Specific,
+Lipid Nanoparticle-Mediated mRNA Delivery for Treatment of Metastatic
+Lung Tumors</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Somu Naidu</surname><given-names initials="G">Gonna</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff2">‡</xref><xref ref-type="aff" rid="aff3">§</xref><xref ref-type="aff" rid="aff4">∥</xref></contrib><contrib><name name-style="western"><surname>Rampado</surname><given-names initials="R">Riccardo</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff2">‡</xref><xref ref-type="aff" rid="aff3">§</xref><xref ref-type="aff" rid="aff4">∥</xref><xref ref-type="aff" rid="aff5">⊥</xref></contrib><contrib><name name-style="western"><surname>Sharma</surname><given-names initials="P">Preeti</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff2">‡</xref><xref ref-type="aff" rid="aff3">§</xref><xref ref-type="aff" rid="aff4">∥</xref></contrib><contrib><name name-style="western"><surname>Ezra</surname><given-names initials="A">Assaf</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff2">‡</xref><xref ref-type="aff" rid="aff3">§</xref><xref ref-type="aff" rid="aff4">∥</xref></contrib><contrib><name name-style="western"><surname>Kundoor</surname><given-names initials="GR">Govinda Reddy</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff2">‡</xref><xref ref-type="aff" rid="aff3">§</xref><xref ref-type="aff" rid="aff4">∥</xref></contrib><contrib><name name-style="western"><surname>Breier</surname><given-names initials="D">Dor</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff2">‡</xref><xref ref-type="aff" rid="aff3">§</xref><xref ref-type="aff" rid="aff4">∥</xref></contrib><contrib><name name-style="western"><surname>Peer</surname><given-names initials="D">Dan</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff2">‡</xref><xref ref-type="aff" rid="aff3">§</xref><xref ref-type="aff" rid="aff4">∥</xref><xref rid="cor1" ref-type="author-notes">*</xref></contrib></contrib-group><aff id="aff1"><label>†</label>Laboratory
+of Precision Nanomedicine, Shmunis School of Biomedicine and Cancer
+Research, Tel Aviv University, Tel Aviv-Yafo 69978, Israel</aff><aff id="aff2"><label>‡</label>Department
+of Materials Sciences and Engineering, Tel
+Aviv University, Tel Aviv-Yafo 69978, Israel</aff><aff id="aff3"><label>§</label>Center
+for Nanoscience and Nanotechnology, Tel
+Aviv University, Tel Aviv-Yafo 69978, Israel</aff><aff id="aff4"><label>∥</label>Cancer
+Biology Research Center, Tel Aviv University, Tel Aviv-Yafo 69978, Israel</aff><aff id="aff5"><label>⊥</label>Department
+of Pharmaceutical Sciences, University of
+Padova, Padova 35131, Italy</aff><author-notes><fn id="cor1"><label>*</label><p>Email: <email>peer@tauex.tau.ac.il</email>.</p></fn></author-notes><pub-date><day>6</day><month>2</month><year>2025</year></pub-date><volume>19</volume><issue>6</issue><fpage>6571</fpage><page-range>6571–6587</page-range><pub-history><event event-type="pmc-release"><date><day>21</day><month>2</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© 2025 The Authors. Published by American Chemical Society</copyright-statement><license><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c18636.pdf" content-type="pmc-pdf"><?cloudpmc-path b91a/11841047/1a9bfa38f642/nn4c18636.pdf?><?cloudpmc-bucket app?><?size 10955820?></self-uri><abstract id="abstract1"><title>Abstract</title><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="ab-tgr1" xlink:href="nn4c18636_0008.jpg"><?cloudpmc-path blobs/b91a/11841047/fed4eb2ca9e8/nn4c18636_0008.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?><?original-height 558?><?original-width 582?><?scaled-height 558?><?scaled-width 582?></graphic><p>Lipid nanoparticles
+(LNPs) have emerged as a groundbreaking delivery
+system for vaccines and therapeutic mRNAs. Ionizable lipids are the
+most pivotal component of LNPs due to their ability to electrostatically
+interact with mRNA, allowing its encapsulation while concurrently
+enabling its endosomal escape following cellular internalization.
+Thus, extensive research has been performed to optimize the ionizable
+lipid structure and to develop formulations that are well tolerated
+and allow efficient targeting of different organs that result in a
+high and sustained mRNA expression. However, one facet of the ionizable
+lipids’ structure has been mostly overlooked: the linker segment
+between the ionizable headgroup and their tails. Here, we screened
+a rationally designed library of ionizable lipids with different biodegradable
+linkers. We extensively characterized LNPs formulated using these
+ionizable lipids and elucidated how these minor structural changes
+in the ionizable lipids structure radically influenced the LNPs’
+biodistribution in vivo. We showed how the use of amide and urea linkers
+can modulate the LNPs’ p<italic>K</italic><sub>a</sub>, resulting
+in an improved specificity for lung transfection. Finally, we demonstrated
+how one of these lipids (lipid 35) that form LNPs entrapping a bacterial
+toxin [pseudomonas exotoxin A (mmPE)] in the form of an mRNA reduced
+tumor burden and significantly increased the survival of mice with
+lung metastasis.</p><sec id="kwd-group1" sec-type="kwd-group" disp-level="2"><p><bold>Keywords:</bold> ionizable lipids, lipid nanoparticle, mRNA
+delivery, biodegradable linkers, lung delivery, genetic medicines</p></sec></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-in-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Received 2024 Dec 23; Accepted 2025 Jan 31; Revised 2025 Jan 31; Collection date 2025 Feb 18.</p></sec></notes></front><body><sec id="sec1" disp-level="1"><title>Introduction</title><p>Messenger RNA (mRNA) delivery has emerged
+as an innovative approach
+to prevent and treat a variety of pathological conditions such as
+cancers, infections, and hereditary genetic diseases.<sup><xref rid="ref1" ref-type="bibr">1</xref>−<xref rid="ref5" ref-type="bibr">5</xref></sup> The US Food and Drug Administration (FDA)’s recent approval
+of three mRNA vaccines (Spikevax, Comirnaty, and mRESVIA) for COVID-19
+and respiratory syncytial virus prevention significantly enhanced
+research efforts in this field.<sup><xref rid="ref6" ref-type="bibr">6</xref>,<xref rid="ref7" ref-type="bibr">7</xref></sup> Furthermore, several
+other mRNA-based therapeutics have been developed and are currently
+under clinical evaluation for preventing and treating various diseases.<sup><xref rid="ref8" ref-type="bibr">8</xref>,<xref rid="ref9" ref-type="bibr">9</xref></sup></p><p>However, the clinical success of these transformative therapeutics
+relies heavily on developing safe, effective, and highly selective
+delivery systems for targeted mRNA delivery to specific tissues and
+cell types.<sup><xref rid="ref10" ref-type="bibr">10</xref>−<xref rid="ref12" ref-type="bibr">12</xref></sup> LNPs are the most advanced and clinically approved
+platforms developed to this end.<sup><xref rid="ref8" ref-type="bibr">8</xref>,<xref rid="ref13" ref-type="bibr">13</xref>−<xref rid="ref16" ref-type="bibr">16</xref></sup> Typical LNPs are formulated using ionizable lipids, phospholipids,
+cholesterol, and polyethylene glycol (PEG)-conjugated lipids.<sup><xref rid="ref8" ref-type="bibr">8</xref>,<xref rid="ref16" ref-type="bibr">16</xref></sup> Among these components, ionizable lipids play a critical role in
+encapsulating, protecting, and transfecting the mRNA cargo into cells.
+Ionizable lipids are characterized by their environment-responsive
+behavior. Indeed, they assume a positive charge at acidic pH, a feature
+that promotes their interactions with negatively charged mRNAs during
+LNP formation and that can destabilize cellular membranes, facilitating
+endosomal escape after LNPs undergo cellular internalization. On the
+other hand, at physiological pH, ionizable lipids retain a neutral
+charge that is useful to minimize the particle’s interactions
+with anionic cell membranes, limiting LNP toxicity and immunogenicity,
+as well as improving their pharmacokinetic properties.<sup><xref rid="ref17" ref-type="bibr">17</xref></sup> The structure of ionizable lipids typically
+consists of a hydrophilic headgroup, two hydrophobic tails, and a
+linker connecting these components (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A).<sup><xref rid="ref14" ref-type="bibr">14</xref></sup> In general,
+the amino/hydroxyl groups have been used as hydrophilic head groups,
+linoleyl, and branched aliphatic carbon chains have been used as hydrophobic
+tails, and ester bonds have been often selected as linkers to design
+ionizable lipids for efficient mRNA delivery.<sup><xref rid="ref14" ref-type="bibr">14</xref></sup></p><fig id="fig1" position="float"><?disp-level 2?><label>Figure 1</label><caption><p>(A)
+Schematic representation of the workflow of the present study
+(created with Biorender). (B) Chemical structure of ionizable lipids.
+Chemical stability of lipids with different linkers dissolved in absolute
+ethanol (C) and in water: ethanol 1:3 mixture (D) measured by HPLC
+with a CAD detector. (E) Size and PDI of the LNPs formulated using
+the different lipids. (F) ζ of the formulated LNP. (G) mRNA
+encapsulation efficiency measured by a Ribogreen assay for every LNP
+formulation (<italic>n</italic> = 3 for every group, ***: <italic>p</italic> &lt; 0.001).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr1" xlink:href="nn4c18636_0001.jpg"><?cloudpmc-path blobs/b91a/11841047/d9d6a9f8974a/nn4c18636_0001.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 2055?><?original-width 2079?><?scaled-height 685?><?scaled-width 693?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="nn4c18636_0001.gif"><?cloudpmc-path blobs/b91a/11841047/7387637e319a/nn4c18636_0001.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Despite rapid progress
+in optimizing LNP formulations, delivering
+mRNA beyond the liver and to specific cells is still considered a
+significant challenge as the majority of mRNA-LNPs still accumulate
+in the liver upon systemic administration. Several efforts have focused
+on developing mRNA-LNPs using surface-modifying active targeting moieties
+such as peptides, antibodies (or their fragments), and natural ligands.<sup><xref rid="ref18" ref-type="bibr">18</xref>−<xref rid="ref23" ref-type="bibr">23</xref></sup> However, modifying the surface of LNPs by adding targeting moieties
+can require extensive effort in recombinant protein expression or
+chemical conjugation and subsequent purification, resulting in a very
+cumbersome process that is not easily scalable, and could also lead
+to LNP instability and immunogenicity issues.<sup><xref rid="ref15" ref-type="bibr">15</xref>,<xref rid="ref24" ref-type="bibr">24</xref></sup></p><p>Another important breakthrough includes the development of
+organ-selective
+LNPs for tissue-specific mRNA delivery obtained by modifying the LNPs’
+zeta potential (ζ) with charged lipid molecules.<sup><xref rid="ref25" ref-type="bibr">25</xref>−<xref rid="ref27" ref-type="bibr">27</xref></sup> This strategy is conceptually simpler but is based on radical changes
+in the LNPs’ composition that might require additional characterization.</p><p>A different approach is based on pretreating the patient with “decoy”
+nanoparticles to saturate the liver’s clearing capacity; however,
+this requires the administration of a high amount of decoy particles,
+leading to safety concerns.<sup><xref rid="ref28" ref-type="bibr">28</xref>,<xref rid="ref29" ref-type="bibr">29</xref></sup></p><p>Considering the
+unique accessibility granted by lung anatomy, the
+use of topical delivery routes such as nebulization or intratracheal
+instillation has also been employed for direct delivery to the lungs.<sup><xref rid="ref30" ref-type="bibr">30</xref></sup> However, these approaches require the careful
+modulation of the LNP composition that would enable them to reach
+into the deep segments of the respiratory tract and adhere to the
+alveoli, and the bioavailability of the currently used formulations
+is still limited.<sup><xref rid="ref31" ref-type="bibr">31</xref></sup></p><p>Other than these
+strategies, a few reports have shown that the
+structure of ionizable lipids could lead to relevant changes in the
+resulting LNP organ and cellular tropism.<sup><xref rid="ref32" ref-type="bibr">32</xref>−<xref rid="ref37" ref-type="bibr">37</xref></sup> For instance, piperazine-containing lipids have demonstrated preferential
+delivery to a wide range of immune cell populations in both the liver
+and spleen, as well as various cell types in the placenta.<sup><xref rid="ref32" ref-type="bibr">32</xref>,<xref rid="ref33" ref-type="bibr">33</xref></sup> Furthermore, we recently reported cell-type-specific mRNA delivery
+to CD11b<sup>hi</sup> macrophages using specific ionizable lipids,
+without any additional targeting moiety.<sup><xref rid="ref34" ref-type="bibr">34</xref></sup> Another interesting study showed the change of organ selectivity
+from the liver to the lung by using ester and amide-containing tails.<sup><xref rid="ref38" ref-type="bibr">38</xref></sup> Recently, multicomponent synthetic approaches
+have been shown to enable spleen-selective mRNA delivery.<sup><xref rid="ref35" ref-type="bibr">35</xref>,<xref rid="ref37" ref-type="bibr">37</xref></sup> These detailed studies highlight how the structure of ionizable
+lipids plays a significant role in governing the delivery of mRNA
+to specific organs and cell types. However, predicting the specificity
+of new ionizable lipids based solely on their chemical structure is
+still a challenge and requires extensive study, and the impact of
+different lipid linkers on LNP stability, biodistribution, and mRNA
+delivery remains poorly understood.<sup><xref rid="ref39" ref-type="bibr">39</xref>,<xref rid="ref40" ref-type="bibr">40</xref></sup></p><p>To address
+this knowledge gap, we designed and synthesized a library
+of 11 ionizable lipids using different biodegradable linkers, including
+ester, carbonate, amide, and urea moieties (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B). By extensively screening the LNPs produced
+with these new lipids, we demonstrated how amide and urea linker-containing
+lipids resulted in enhanced chemical stability under storage, making
+them suitable for large-scale production and formulation. Furthermore,
+we gained insights into the structure–activity relationship
+of ionizable lipids, showing how the presence of amide and urea groups
+in the lipid can fine-tune the LNPs’ p<italic>K</italic><sub>a</sub>, resulting in improved LNP lung tropism. Finally, we showed
+how LNPs formulated with lung-targeting lipids improve the therapeutic
+efficacy of mRNA encoding for the pseudomonas exotoxin A (mPE-A) in
+reducing lung tumor metastasis progression compared to particles containing
+the commercially available SM-102 lipid, resulting in improved survival.</p><p>This work provides innovative insights that are useful for the
+future design of organ-specific LNP formulations to achieve selective
+mRNA delivery.</p></sec><sec id="sec2" disp-level="1"><title>Results and Discussion</title><sec id="sec2.1" disp-level="2"><title>Ionizable Lipid Design,
+Characterization, and Stability</title><p>Our primary objective was
+to design and synthesize new biocompatible
+ionizable lipids for extrahepatic delivery of mRNA. Over the past
+few years, we have developed several ionizable lipids for various
+RNA-based therapeutic and vaccine applications.<sup><xref rid="ref34" ref-type="bibr">34</xref>,<xref rid="ref41" ref-type="bibr">41</xref>−<xref rid="ref48" ref-type="bibr">48</xref></sup> Lipid 14 stood out as one of the top-performing lipids in our library,
+with its ester-branched aliphatic tails enabling the development of
+COVID-19 and bacterial vaccines.<sup><xref rid="ref46" ref-type="bibr">46</xref>−<xref rid="ref48" ref-type="bibr">48</xref></sup> However, lipid 14 could
+be susceptible to hydrolytic degradation in ethanol and aqueous environments
+due to its ester linker, which hinders its utility following long-term
+storage. Thus, the use of different linkers could provide more stability
+to the structure of the ionizable lipid. Therefore, keeping lipid
+14 with its backbone, we designed a combinatorial library of ionizable
+lipids using different biodegradable linkers (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B). In particular, for lipid 14 and lipid
+34, an ester linker was used, whereas a reverse-ester linker was employed
+for lipid 32 and lipid 38. In the case of lipid 33 and lipid 39, a
+carbonate linker was selected, while an amide linker was used for
+lipid 34 and lipid 40. For lipid 35 and lipid 41, a urea linker was
+employed, whereas a reverse-amide linker was used for lipid 36 and
+lipid 42. All lipids were synthesized using standard organic synthesis
+procedures and underwent characterization by NMR and mass spectroscopic
+techniques (see the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link>).</p><p>Upon synthesizing the lipids, we investigated their stability
+in different solvents. To this end, we dissolved the lipids in either
+ethanol or a water/ethanol mixture (1:3) and monitored their stability
+for 3 months using a high-performance liquid chromatography (HPLC)
+device equipped with a charged aerosol detector (CAD). We observed
+that while the amide (lipid 34), urea (lipid 35), and reverse-amide
+(lipid 36) linkers were stable and did not undergo hydrolysis in both
+solvent systems, the ester (lipid 14), reverse-ester (lipid 32), and
+carbonate (lipid 33) linkers rapidly degraded in the water–ethanol
+mixture as compared ethanol (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C,D, respectively).</p></sec><sec id="sec2.2" disp-level="2"><title>LNP Preparation and Characterization</title><p>LNPs’ composition
+was optimized by performing a small design of experiment (DoE)-based
+screening. Briefly, different lipid critical process parameters (CPPs)
+and critical quality attributes (CQAs) were used to generate a custom
+design (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S1A</ext-link>) containing 20 formulations.
+After formulating and characterizing these LNPs, statistical analysis
+elucidated how the CPPs influencing LNPs’ features were the
+different lipid proportions as well as the ionizable lipids’
+identity (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S1B</ext-link>). We used these CPPs
+to interpolate a mathematical model correlating them to CQAs and simulated
+10,000 theoretical formulations using a Monte Carlo simulation. Among
+these LNPs, a series of thresholds were applied to select the formulations
+with the highest theoretical performance (top 10%). As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S1C</ext-link>, the best-performing theoretical formulations
+presented a very similar composition, with the average composition
+being ionizable lipid, cholesterol, DSPC, and PEG-DMG in molar ratios
+of 40:48.5:10:1.5, respectively. Thus, LNPs were formulated with these
+molar ratios using the synthesized lipids. As model cargo, firefly
+luciferase mRNA (mLuc) was encapsulated using the NanoAssemblr microfluidic
+mixing device, as described in the Experimental Section.</p><p>The
+p<italic>K</italic><sub>a</sub> of LNPs formulated with different
+lipids was also estimated by using a 6-(<italic>p</italic>-toluidino)-2-naphthalenesulfonic
+acid (TNS)-based fluorometric assay. Most of the new lipids had a
+p<italic>K</italic><sub>a</sub> between 5.9 and 6.5, which is considered
+suitable for most ionizable lipid-based LNP formulations (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S2</ext-link>).<sup><xref rid="ref49" ref-type="bibr">49</xref></sup> Interestingly,
+LNPs formulated with lipids containing either urea or reverse-amide
+linkers (lipids 35, 36, 41, and 42) had a p<italic>K</italic><sub>a</sub> close to or higher than 7, suggesting that the number and
+orientation of the amide linkers can influence the lipid environmental
+response.</p><p>Noticeable variations were observed in the hydrodynamic
+diameter
+and zeta potential (ζ) of the produced LNPs (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>E,F). The <italic>N</italic>-methylpiperazine head-containing lipids (lipid 37–lipid 42)
+yielded higher-sized LNPs as compared to dimethylamine head lipids
+(lipid 14 and lipid 32–lipid 36). Also, LNPs formulated with
+ester, reverse-ester, and carbonate linker-containing lipids (lipid
+14, lipid 32, lipid 33, and lipid 37–39) had a negative ζ,
+whereas LNPs consisting of amide, urea, and reverse-amide-containing
+lipids had a positive ζ (lipid 34–lipid 36 and lipid
+40–lipid 42). The polydispersity index (PDI) was less than
+0.1 for all LNPs, making the formulations monodisperse. The encapsulation
+efficiency was &gt;95% for all the LNP formulations (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>G), and mRNA encapsulation
+as well as retention of its integrity was further confirmed by agarose
+gel electrophoresis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S3</ext-link>).</p></sec><sec id="sec2.3" disp-level="2"><title>In Vitro
+LNP Transfection Efficiency</title><p>Upon confirming
+the LNPs’ physio-chemical properties, we screened the formulations’
+transfection efficiency in HeLa, RAW 264.7, and HepG2 cell lines by
+encapsulating mLuc as model cargo (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>). HepG2 and RAW 264.7 cells were selected
+to represent the liver and the mononuclear phagocytic system as compartments
+that are often targeted by nanoparticles after systemic administration.
+In addition, HeLa cells were selected as a more general, fibroblast-like
+cell line.</p><fig id="fig2" position="float"><?disp-level 3?><label>Figure 2</label><caption><p>In vitro assessment of Luc expression in HeLa (A), Raw264.7 (B),
+and HepG2 (C) cells. Every measurement was performed in triplicate
+(<italic>n</italic> = 3 for every group, ***: <italic>p</italic> &lt;
+0.001 compared to the 0.25 μg/mL treatment with lipid 14).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr2" xlink:href="nn4c18636_0002.jpg"><?cloudpmc-path blobs/b91a/11841047/15b324750429/nn4c18636_0002.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 2306?><?original-width 1750?><?scaled-height 922?><?scaled-width 700?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="nn4c18636_0002.gif"><?cloudpmc-path blobs/b91a/11841047/9ed6a4cabbd7/nn4c18636_0002.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Looking at individual lipids, in HeLa cells (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A), all of the LNPs
+formulated with amide
+or urea linkers were the best-performing ones. Conversely, in RAW
+264.7 cells (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B), the best-performing LNPs were the ones formulated with lipid
+36, lipid 38, and lipids 40–42, while HepG2 cells (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>C) were transfected
+best by lipids 33–36 and lipids 40–42.</p><p>However,
+to elucidate the structure–activity relationship
+of the new ionizable lipids, it is important to account for how these
+molecules can influence the LNP features, which in turn can change
+the particles’ biological behavior, constituting noise factors.
+Thus, accounting for the effect of ionizable lipids on particles’
+properties such as size, apparent p<italic>K</italic><sub>a</sub>,
+and ζ would help us to discern the direct effect of these molecules
+on the LNP activity.</p><p>Since it is technically challenging to
+control for these variables
+in an experimental setting, we assessed the possible correlations
+between LNP size, ζ, and Luc signal from the tested cell lines,
+demonstrating how there was no correlation between the LNP size and
+their Luc signal in vitro (Pearson’s correlation coefficient
+(PCC) &lt; 0.4 for all cell lines, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S4A</ext-link>).</p><p>However, the data demonstrated a positive correlation between
+the
+ζ and the Luc signal in HeLa and HepG2 cells (PCC = 0.69 and
+0.65; <italic>p</italic> = 0.0132 and 0.0220, respectively) with positively
+charged LNPs (lipids 34, 35, 36, 40, 41, 42) showing slightly higher
+transfection efficacy (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S4B</ext-link>). These
+observations are reinforced by a similar positive correlation between
+these two cell lines and the LNPs’ p<italic>K</italic><sub>a</sub> (PCC = 0.74 and 0.72 and <italic>p</italic> = 0.0064 and
+0.0079, respectively, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S4C</ext-link>). This
+can be explained by the higher electrostatic interaction of positive
+LNPs with the cellular surface, leading to higher uptake.<sup><xref rid="ref51" ref-type="bibr">51</xref></sup> Interestingly, all the lipids with <italic>N</italic>-methyl-piperazine groups yielded particles with slightly higher
+transfection efficiency, although the difference was not significant
+compared to the dimethylamine head lipids (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S4D–F</ext-link>).</p><p>Overall, these in vitro studies allow
+us to elucidate some fundamental
+interactions between LNPs and different cell lines, providing an inkling
+for further in vivo studies.</p></sec><sec id="sec2.4" disp-level="2"><title>In Vivo Screening of LNPs for mRNA Delivery</title><p>To test
+these ionizable lipids in vivo, C57BL/6J mice were systemically injected
+with a volume of particles corresponding to 10 μg of mLuc per
+animal via retro-orbital injection. The luminescence signal in major
+organs was assessed after 6 h (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A). Once again, to account for the presence of possible
+correlations between LNP features and organ biodistribution, we performed
+the same correlation analysis discussed in the previous section.</p><fig id="fig3" position="float"><?disp-level 3?><label>Figure 3</label><caption><p>(A) Summary
+of the administration route and timing used for the
+Luc expression study (created with Biorender). (B) Representative
+images of Luciferase signal detected in mice hearts (H). Lungs (Lu).
+Livers (Li). Spleens (Sp). Kidneys (<italic>K</italic><sub>i</sub>). Quantification of the average radiance measured in the lungs (C),
+livers (D), and spleens (E) and the relative ratios between Luc signals
+among different organs (F–H). Four mice were included in every
+experimental group (*: <italic>p</italic> &gt; 0.05, **: <italic>p</italic> &lt; 0.01, ***: <italic>p</italic> &lt; 0.001).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr3" xlink:href="nn4c18636_0003.jpg"><?cloudpmc-path blobs/b91a/11841047/7da259abfd2e/nn4c18636_0003.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 2625?><?original-width 1712?><?scaled-height 1049?><?scaled-width 684?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="nn4c18636_0003.gif"><?cloudpmc-path blobs/b91a/11841047/ed0fc0d4ae76/nn4c18636_0003.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Notably, the size of LNPs was reversely correlated with the liver
+Luc signal, underlining how smaller particles tended to accumulate
+more in this tissue (PCC = −0.6741, <italic>p</italic> = 0.0162, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S5A</ext-link>). Conversely, LNPs with positive ζ
+(lipids 34–36 and lipids 40–42) showed higher luminescence
+in the lung (PCC = 0.6345, <italic>p</italic> = 0.0267) and lower
+luminescence in the liver (PCC = −0.5815, <italic>p</italic> = 0.0474) and kidneys (PCC = −0.7378, <italic>p</italic> =
+0.0062, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S5B</ext-link>). Furthermore, the apparent
+TNS-measured LNPs’ p<italic>K</italic><sub>a</sub> values had
+a strong positive correlation with the lungs’ expression (PCC
+= 0.8417, <italic>p</italic> = 0.0006) and a negative correlation
+with the kidneys’ signal (PCC = −0.6978, <italic>p</italic> = 0.0116, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S5C</ext-link>).</p><p>When looking
+at the possible correlations between in vitro and
+in vivo results, it is interesting to note how the Luc signal in RAW
+264.7 cells and the one detected in the animal spleens were positively
+correlated with each other (PCC = 0.7746, <italic>p</italic> = 0.0031, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S5D</ext-link>). From a biological standpoint, this
+observation could be attributed to the presence of phagocytic cells
+in the spleen that have somewhat similar behavior to the RAW 264.7
+macrophage-like cells. It is also important to note how both the behaviors
+of HeLa and HepG2 hepatocyte cells were positively correlated with
+the lung signal (PCC = 0.8843 and 0.8428 and <italic>p</italic> =
+0.0006 and <italic>p</italic> = 0.0001, respectively, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S5E,F</ext-link>). Ultimately, these correlations
+can be easily explained by the LNP positive ζ that increases
+both cellular expression and lung expression.</p><p>Despite these
+correlations, the positive ζ LNPs formulated
+using ionizable lipids with amide and urea linkers behaved heterogeneously
+for both head groups. Lipids 40–42 were not well tolerated
+by the animals, and some of them displayed obvious behavioral signs
+of discomfort and had to be sacrificed soon after injection for ethical
+reasons. This acute adverse reaction could be attributed to the combination
+of larger LNP size (above 200 nm) derived from the <italic>N</italic>-methylpiperazine headgroup and positive ζ, which could have
+resulted in LNP aggregation after injection, causing embolism in the
+mice. Thus, lipids 40–42 were excluded from further studies.
+The other positively charged ionizable lipids (lipids 34–36)
+were well tolerated by animals and showed high lung specificity, with
+lipids 35 and 36 showing both a slightly higher lung signal (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>C) and high lung/liver
+and lung/spleen ratios when compared with ester, reverse-ester, and
+carbonate linkers (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>F,G). Since the particles formulated with these three lipids
+had analogous size and surface charge, the difference between lipid
+34 and lipids 35 and 36 can be strictly attributed to the lipid structures
+themselves. Indeed, the presence of amide groups in the lipid linker
+resulted in increased LNPs ζ and, therefore, lung transfection.
+However, lung tropism is further improved by either positioning this
+nitrogen closer to the dimethyl-amine head (lipids 36) or having nitrogen
+on both sides of the linker (lipid 35), suggesting the nuanced effect
+of even minor structural changes on LNP tropism. Thus, lipids 35 and
+36 were selected as lead lipids for delivery of mRNA to the lungs.</p><p>Lipid 33, despite showing a similar Luc signal in the liver (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>D) to lipid 14, displayed
+much lower signals in other organs, especially the lungs and spleen,
+resulting in a higher specificity in the liver, as highlighted by
+the low lungs/liver and the high liver/spleen ratios (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>F,H). Comparing the behavior
+of lipid 33 to lipids 14, 32, and 37–39, for each of these
+lipids with dimethylamine heads, their <italic>N</italic>-methyl-piperazine
+equivalent always resulted in a lower liver signal (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>D). This corroborates the effect
+of LNP size on liver biodistribution since all the piperazine lipids
+yielded bigger particles than their counterparts. Similarly, lipid
+38 displayed higher spleen specificity in the form of a slightly better
+spleen luminescence (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>E) and Lung/spleen ratio (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>G). Thus, lipids 33 and 38 were selected,
+respectively, as lead lipids for the liver and spleen.</p><p>It is
+especially notable to observe how the combination of a carbonate
+linker and an <italic>N</italic>-methylpiperazine head in lipid 39
+seems to abolish lipid activity in all the tested cell lines and organs,
+making it the worst-performing lipid. The mechanism behind this could
+warrant further investigation and the study of additional organs.</p><p>Finally, the heart and kidney signal measured was barely detectable
+compared to the background radiance, and no clear trend was visible
+among ionizable lipids (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S6A,B</ext-link>, respectively).</p><p>As presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S7</ext-link>, in which
+the different lipids are arranged in a ternary plot based on their
+different proportions of organ radiance, also allows us to evidence
+some clear trends: all the lipids with ester, reverse-ester, or carbonate
+linkers are mostly clustered between the liver and spleen, with the
+dimethylamine lipids among these being the ones oriented toward the
+liver while the <italic>N</italic>-methyl-piperazine clustered toward
+the spleen. All the lipids having amide, reverse-amide, or urea linkers
+were distributed between the lungs and spleen, with the <italic>N</italic>-methyl-piperazine lipid accumulation proportionally higher in the
+spleen compared to the dimethylamine lipids. Furthermore, this graphical
+summary helps us observe how lipid 33, lipids 35–36, and lipid
+38 have the highest proportional signal for the liver, lungs, and
+spleen, respectively, since they are the ones closer to the vertex
+of each organ, representing higher luminescence signal. These data
+make them the most selective lipids in our library for these tissues,
+confirming them as lead compounds to deliver mRNA toward them for
+further investigation.</p><p>Taken together, these results show how
+small differences in the
+linker structure of ionizable lipids can have radical effects on the
+resulting particles’ transfection and tropism in different
+organs.</p></sec><sec id="sec2.5" disp-level="2"><title>LNPs’ Cellular Transfection Profile and Biodistribution
+In Vivo</title><p>We next investigated the cellular specificity of
+LNPs’ transfection formulated with the selected leads lipid
+35 and lipid 36. To elucidate this, we formulated LNPs with Cre recombinase
+mRNA (mCre) and injected them in Ai9-tdTomato mice as previously described
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S8</ext-link>).<sup><xref rid="ref5" ref-type="bibr">5</xref>,<xref rid="ref43" ref-type="bibr">43</xref></sup> As can be
+seen in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S9A,B</ext-link>, the mCre-LNPs displayed
+analogous size distribution and mRNA encapsulation compared to their
+mLuc-loaded equivalents. We quantified the functional mRNA delivery
+as a percentage of tdTomato<sup>+</sup> cells in different organs
+72 h post-systemic administration (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A). Using flow cytometry, we quantified successful
+mRNA transfection and expression in different cell types, including
+myeloid immune cells (CD45<sup>+</sup> CD326<sup>–</sup> CD11b<sup>+</sup>), dendritic cells (CD45<sup>+</sup> CD326<sup>–</sup> CD11c<sup>+</sup>), endothelial cells (CD45<sup>–</sup> CD11b<sup>–</sup> CD326<sup>–</sup> CD31<sup>+</sup>), and epithelial
+cells (CD45<sup>–</sup> CD326<sup>+</sup>).</p><fig id="fig4" position="float"><?disp-level 3?><label>Figure 4</label><caption><p>(A) Summary of the experimental
+setup used to assess cellular transfection
+in vivo (created with Biorender). Flow cytometric quantification of
+different lung cell populations in TdTomato mice for epithelial cells
+(B), endothelial cells (C), myeloid cells (D), and dendritic cells
+(E) (<italic>n</italic> = 3 mice/group). (F) Assessment of the general
+trends across the correlations between the p<italic>K</italic><sub>a</sub> values of LNPs and the lung luminescence signal and the percentage
+of transfected cells observed in the lungs of TdTomato mice (3 mice
+were included in each group, **: <italic>p</italic> &lt; 0.01, ***: <italic>p</italic> &lt; 0.001).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr4" xlink:href="nn4c18636_0004.jpg"><?cloudpmc-path blobs/b91a/11841047/aae972256c7e/nn4c18636_0004.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1753?><?original-width 1769?><?scaled-height 701?><?scaled-width 707?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="nn4c18636_0004.gif"><?cloudpmc-path blobs/b91a/11841047/3ddcae03cc18/nn4c18636_0004.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>In concurrence with the
+in vivo mLuc expression data, the lungs
+of mice treated with lipids 35 and 36 resulted in significantly more
+tdTomato<sup>+</sup> cells than the lungs of mice injected with lipids
+14, 33, and 38. Comparing lipids 35 and 36 for their transfection
+efficiency in different lung cells, we observed that lipid 35 efficiently
+reached nonimmune cells, with &gt;60% of endothelial cells and ∼40%
+of epithelial cells expressing tdTomato (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B,C). Albeit to a lesser extent, this lipid
+also showed higher transfection levels in myeloid cells and dendritic
+cells (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>D,E).
+It should be noted that despite lipids 35 and 36 having similar physicochemical
+properties and mLuc expression profiles, lipid 35 displayed a significantly
+higher transfection efficiency in all the analyzed lung cell populations.
+The lung specificity of lipids 35 and 36 is further confirmed by the
+complete absence of tdTomato<sup>+</sup> cells in the spleen and the
+liver (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S10E–M</ext-link>) of mice injected
+with these LNPs. Therefore, we decided to focus our efforts on further
+assessment of lipids 35 and 36 as lead lipids for mRNA delivery to
+the lungs. However, lipids 33 and 38 did not confirm their liver and
+spleen selectively in this model (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S10</ext-link>).</p><p>When comparing the mLuc results with the Cre-tdTomato murine
+models,
+lipids 35 and 36 strongly validated the previous mLuc results by showing
+efficient transfection in all of the lung cell populations analyzed,
+with lipid 35 showing a remarkably higher transfection compared to
+all other formulations and across all of the lung cells.</p><p>When
+focusing on the lead formulations, LNPs with higher p<italic>K</italic><sub>a</sub> resulted in LNPs with higher ζ, which
+in turn appeared to have higher lung tropism. Indeed, the lung transfection
+observed in vivo mLuc expression starts to significantly increase
+only for LNPs with p<italic>K</italic><sub>a</sub> values above 6.5
+and seems to reach a plateau for mLuc transfection of the lungs at
+a p<italic>K</italic><sub>a</sub> of 7.2 (lipid 36, <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>E). However, when comparing
+the mLuc results with tdTomato expression, the percentage of positive
+cells steeply increased among cell populations for LNPs containing
+lipid 35 (p<italic>K</italic><sub>a</sub> = 7.6), compared to ones
+formulated with lipid 36. Thus, there seems to be a threshold value
+for the p<italic>K</italic><sub>a</sub> above which the transfection
+efficiency in lung cells significantly improved as reported previously.<sup><xref rid="ref52" ref-type="bibr">52</xref></sup></p><p>We also analyzed the biodistribution of
+LNPs loaded with fluorescently
+labeled RNA, assessing the possible correlations between the transfection
+efficiency observed in the tdTomato model and simple particle accumulation.
+In this instance, we investigated lipid 14 as a benchmark and lipids
+35 and 36 as our main leads for lung targeting. As summarized in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S11A–D</ext-link>, lipids 35 and 36 accumulated
+more than lipid 14 in all the lung cell populations analyzed but with
+a percentage of positive cells that was significantly lower compared
+to the tdTomato model. Furthermore, unlike the lung data in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>, there was no clear
+difference between lipids 35 and 36. Thus, lipid 35 and lipid 36 particles
+had similar lung targeting capacity. However, lipid 35 displayed higher
+transfection efficiency in tdTomato animals, suggesting a possible
+alternative mechanism behind lipid 35 specificity that is not strictly
+dependent on particle accumulation. When considering instead the LNP
+biodistribution in the liver (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S11E–H</ext-link>) and spleen (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S11I–M</ext-link>), we
+observed an overall similar accumulation for all three lipids, with
+lipids 35 and 36 accumulating slightly more in the liver endothelial
+cells, and at the same time significantly less in the spleen B-cells.
+Despite these small differences, the different ionizable lipids yielded
+LNPs with overall similar biodistribution, in contrast with the data
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S10</ext-link>. This reinforces the possible
+contribution of a different, perhaps intracellular, mechanism behind
+the observed transfection selectivity. Furthermore, the comparable
+liver deposition allows us to exclude first-pass lung accumulation
+as the mechanism behind transfection in these organs.</p><p>Taken
+together, these results underline how minor changes in the
+structure of ionizable lipids can radically affect the resulting LNP
+organ transfection. In particular, the addition of nitrogen atoms
+to the lipid linker enables the fine-tuning of the LNPs p<italic>K</italic><sub>a</sub>, which can be leveraged to achieve not only high levels
+of protein expressions selectively in the lungs without using additional
+targeting moieties but also a more widespread transfection across
+all the major lung cell populations. Based on these results, we selected
+lipid 35 as the definitive lead for lung targeting.</p></sec><sec id="sec2.6" disp-level="2"><title>Safety Profile
+of Lipid 35</title><p>Focusing on the best-performing
+lipid 35, we extensively tested its biocompatibility after a single
+bolus intravenous injection. To this end, a volume of LNPs equivalent
+to 10 μg of mRNA was injected through the retro-orbital vein.
+To assess a possible acute immune response to LNP injection, mice
+blood was collected at 2 and 24 h after injection and the concentrations
+of Monocyte Chemoattractant Protein-1 (MCP-1), interleukin 6 (IL-6),
+tumor necrosis factor α (TNF-α), and interleukin 10 (IL-10)
+in mice plasma were measured by ELISA (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A). As a control, we selected the clinically
+approved SM-102 ionizable lipid.</p><fig id="fig5" position="float"><?disp-level 3?><label>Figure 5</label><caption><p>(A) Summarized experimental design used
+for the assessment of LNPs’
+biocompatibility (created with Biorender). ELISA-based assessment
+of the plasmatic levels of MCP-1 (B,C), IL-6 (D,E), TNF-α (F,G),
+and IL-10 (H,I). Quantification of the plasma levels of ALP (J), AST
+(K), ALT (L), and GGTP (M) after 24 h from a single LNP IV injection.
+(N) Representative hematoxylin/eosin-stained sections of paraffin-included
+tissues harvested 24 h from LNP injection (5× magnification,
+scale bar was set at 500 μm). Three mice were included in each
+experimental group (*: <italic>p</italic> &lt; 0.05).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr5" xlink:href="nn4c18636_0005.jpg"><?cloudpmc-path blobs/b91a/11841047/ba3bcdfcc823/nn4c18636_0005.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 2640?><?original-width 1524?><?scaled-height 1320?><?scaled-width 762?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="nn4c18636_0005.gif"><?cloudpmc-path blobs/b91a/11841047/81f98d498f45/nn4c18636_0005.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>At 2 h postinjection, all cytokines were slightly elevated
+in the
+serum. Pro-inflammatory MCP-1, IL-6, and TNF-α were similarly
+elevated compared to the control SM-102 (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B,D,F). The elevation was comparable between
+lipid 14 and lipid 35 and resulted in significantly higher levels
+of IL-6 compared to SM-102 but not for any other cytokine. Conversely,
+the immunomodulatory cytokine IL-10 was only slightly induced by lipid
+35 (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>H). Nevertheless,
+the increase in serum cytokines was transient as all cytokines dropped
+to the level of untreated animals within 24 h postinjection, with
+only a very small amount of MCP-1 detectable (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C,E,G,I).</p><p>After 24 h of injection,
+we also measured the concentration of
+key serum markers, including alkaline phosphatase (ALP) and liver
+transaminases: serum aspartate aminotransferase (AST) and alanine
+transaminase (ALT). All markers were comparable between the untreated
+mice, SM-102, and lipid 35-treated animals. AST and ALT were slightly
+not significantly increased by lipid 14 (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>J–M).</p><p>Finally, we investigated
+whether any tissue damage is caused by
+the different lipids in the lungs, the livers, and the spleens of
+injected animals. To this end, we harvested these organs 24 h post-systemic
+administration and performed histological assessment using hematoxylin/eosin-stained
+sections. As shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>N, no visible sign of tissue inflammation, infiltration of
+leukocytes, necrosis, or fibrosis was detectable in any treatment
+group.</p><p>Taken together, these results highlight that lipid 35
+after bolus
+injection is well tolerated with no liver or other major organ damage
+detected, as confirmed by blood markers and histological analysis.</p></sec><sec id="sec2.7" disp-level="2"><title>Assessment of Lipid 35-LNPs as an mRNA Carrier in a Murine Model
+of Metastatic Lung Cancer</title><p>The therapeutic potential of LNPs
+formulated with lipid 35 was tested in a murine model of metastatic
+lung cancer. To this end, C57BL/6J mice were intravenously injected
+with B16F10.9 melanoma cells (as detailed in the Experimental Section
+in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>A). LNPs
+loaded with mRNA encoding for domain III of the pseudomonas exotoxin
+A domain (mmPE), a toxic subunit produced by the bacteria <italic>Pseudomonas aeruginosa</italic> were systemically administrated
+(as detailed in the <xref rid="sec4" ref-type="sec">Experimental section</xref>).<sup><xref rid="ref53" ref-type="bibr">53</xref></sup> As a control group for these experiments, we
+used lipid SM-102 as a commercial benchmark ionizable lipid formulated
+with mmPE.</p><fig id="fig6" position="float"><?disp-level 3?><label>Figure 6</label><caption><p>(A) Summary of the experimental design used to assess the LNPs’
+biocompatibility (I), reduction of lung metastases (II), and survival
+in tumor-bearing mice (III) (created with Biorender). Measurement
+of the plasma levels of AST (B) and ALT (C) in tumor-bearing mice
+after treatment with different LNPs. (D) Assessment of the increase
+in lung weight and number of metastases after treatment. (E) Survival
+percentage of metastasis-bearing mice after LNP treatment (<italic>n</italic> = 7 mice/group; *: <italic>p</italic> &lt; 0.05, **: <italic>p</italic> &lt; 0.01, ***: <italic>p</italic> &lt; 0.001).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr6" xlink:href="nn4c18636_0006.jpg"><?cloudpmc-path blobs/b91a/11841047/da1fa2fe9e6a/nn4c18636_0006.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 2328?><?original-width 1779?><?scaled-height 930?><?scaled-width 711?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="nn4c18636_0006.gif"><?cloudpmc-path blobs/b91a/11841047/aae47c275756/nn4c18636_0006.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>We first assessed the mmPE-A-loaded LNPs’
+(mPE-A LNP) tolerability
+after systemic administration. Interestingly, the treatment with SM-102
+mPE-A LNPs caused an increase in the serum levels of AST, ALT, and
+ALP 24 h of injection (<xref rid="fig6" ref-type="fig">Figures <xref rid="fig6" ref-type="fig">6</xref></xref>B,C and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">S12A</ext-link>) that remained elevated
+at 72h, possibly because of accumulation of particles in the liver.
+However, enzyme levels in lipid 35 mPE-A LNP-treated individuals,
+despite being elevated in the first 24 h, went down to baseline levels
+after 72 h from treatment, and ALP levels were not affected by lipid
+35. Similarly, blood chemistry 72 h after injection (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S12B–E</ext-link>) displayed a slight increase of total
+protein and urea levels only for SM-102 mPE-A LNP. This could be attributed
+to the increased lung specificity of lipid 35, which reduces its off-target
+accumulation compared to the benchmark and results in improved tolerance
+of the treatment.</p><p>Next, the therapeutic efficacy of the LNPs
+was assessed. As shown
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C, after
+sacrifice, tumor-bearing animals treated with lipid 35 LNPs loaded
+with the mock mLuc mRNA did not show any decrease in lung weight or
+number of metastases. However, treatment with mmPE-loaded LNPs did
+result in a decrease of lung weight for both SM-102 (124 ± 17%)
+and lipid 35, which was slightly, albeit not significantly, more effective
+than the benchmark (69 ± 7%). Similarly, the number of metastases
+was decreased further by lipid 35 (12 ± 2) than SM-102 (21 ±
+5) compared to both untreated (47 ± 6) and mLuc LNP-treated mice
+(42 ± 9), albeit the difference was not statistically significant.</p><p>When animal survival was assessed after treatment (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>D), both SM-102 and lipid 35
+mmPE LNPs displayed a protective effect. However, animals injected
+with lipid 35 mm PE LNPs had a remarkably higher median survival of
+34 days compared to the 24 days of those injected with SM-102 mmPE-LNPs.</p><p>Taken together, these results show how the use of lung-targeting
+lipid 35 can be translated to a significant improvement in the therapeutic
+profile of LNPs.</p></sec><sec id="sec2.8" disp-level="2"><title>LNP Stability under Storage</title><p>To determine
+whether lipid
+35 provided LNPs with improved colloidal stability and reliable transfection
+efficiency, we tested LNPs when stored in mild conditions and dispersed
+in 1× PBS at 4 °C. As summarized in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>A, all of the tested LNPs retained their
+average size distribution over 2 months of storage. The PDI of lipid
+14 gradually increased over time, while lipid 35 showed only a small
+increase in PDI (around 0.1) on day 63 (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>B). Thus, positively charged lipid 35 provided
+a high ζ, preventing LNP aggregation by electrostatic repulsion.
+The ζ of the LNPs formulated with lipid 14 decreased over time,
+going from an average of −6 mV to almost −20 mV at day
+63 (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>C). This
+phenomenon could be attributed to the aggregation of LNP. Of note,
+there were no changes in the mRNA encapsulation efficiency in both
+tested formulations (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>D).</p><fig id="fig7" position="float"><?disp-level 3?><label>Figure 7</label><caption><p>Assessment of the LNP size (A), PDI (B), zeta potential (C), and
+encapsulation efficiency (D) under storage at 4 °C in 1×
+PBS (<italic>n</italic> = 3).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr7" xlink:href="nn4c18636_0007.jpg"><?cloudpmc-path blobs/b91a/11841047/ccdb6f815206/nn4c18636_0007.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1245?><?original-width 1705?><?scaled-height 498?><?scaled-width 682?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="nn4c18636_0007.gif"><?cloudpmc-path blobs/b91a/11841047/a1fe3e8108e3/nn4c18636_0007.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>In summary, these results indicate that using lipid 35 provides
+the resulting LNPs with colloidal stability. Combined with the longer
+chemical stability discussed above, this lipid appears very suitable
+to produce a stable LNP.</p></sec></sec><sec id="sec3" disp-level="1"><title>Conclusions</title><p>In the present work,
+we performed a combinatorial screening on
+ionizable lipids with different biodegradable linkers with the aim
+of formulating LNPs for organ-specific mRNA delivery. To the best
+of our knowledge, most studies on ionizable lipid design so far have
+focused on the comparison of different head groups or on using hydrophobic
+lipid tails with different structures, overlooking the linkers as
+a potential space for ionizable lipid optimization.</p><p>After ionizable
+lipids with different biodegradable linkers were
+synthesized, their chemical stability was assessed in ethanol or a
+water and ethanol mixture, showing how amide, reverse-amide, and urea
+linkers provided these molecules with increased stability.</p><p>Subsequently,
+LNPs were formulated using the new lipids and were
+extensively characterized, highlighting how the structure of ionizable
+lipids could have a stark effect on LNP features. Specifically, when
+introducing <italic>N</italic>-methyl-piperazine head groups, the
+particles displayed larger size compared to their relative formulations
+with dimethyl-amine heads. Furthermore, LNPs formulated with lipids
+presenting amide, reverse-amide, or urea linkers were positively charged
+at neutral pH. Nevertheless, all LNPs were homogeneous in size and
+had optimal mRNA encapsulation efficiency. The in vitro results yielded
+some evidence in favor of the use of positively charged lipids, most
+likely due to improved electrostatic interaction with cell membranes.</p><p>These trends partially translated the in vivo results, in which
+mLuc transfection was especially efficient in the lungs for the amide-
+and urea linker-containing lipids, especially for lipids 35 and 36.
+Conversely, the carbonate lipid 33 resulted in higher liver-specific
+mLuc expression, and the <italic>N</italic>-methyl-piperazine head
+and reverse ester structure of lipid 38 resulted in selective spleen
+transfection.</p><p>Notably, despite being very structurally similar
+to lipid 36, lipid
+35 displayed a much higher transfection efficiency in the lungs of
+Cre-TdTomato mice, possibly due to the pivotal effect of the LNPs
+p<italic>K</italic><sub>a</sub> on their in vivo biodistribution.</p><p>Leveraging this lung tropism, we demonstrated how lipid 35 mmPE-LNPs
+induced a reduction of tumor burden and remarkably increased the survival
+of lung metastasis-bearing mice.</p><p>Despite the promising results
+discussed, further studies would
+be required to elucidate the mechanism behind the observed trends
+and the potential of lipid 35. In particular, the observed relevance
+of p<italic>K</italic><sub>a</sub> in radically increasing the LNP
+lung transfection efficiency across different cell populations suggests
+a common, underlying mechanism driving this phenomenon that is not
+both independent from LNP accumulation and specific cell lineage and
+therefore likely receptor-independent. Thus, we hypothesized that
+a higher p<italic>K</italic><sub>a</sub> could lead to improved transfection
+by improving intracellular trafficking and endosomal escape. On the
+other hand, the presence of the amide end urea linkers makes the ionizable
+lipids more resistant to hydrolysis but also slows down their biodegradation.
+Thus, further studies could address the long-term biocompatibility
+of lipid 35, with particular attention to repeated administrations
+that could lead to the accumulation of this lipid in the organism.</p><p>This study lays the groundwork for further investigations into
+the structure of ionizable lipids to achieve more specific organ transfection
+efficiency with particular attention to the molecular and cellular
+mechanisms involved in these processes.</p></sec><sec id="sec4" disp-level="1"><title>Experimental
+Section</title><sec id="sec4.1" disp-level="2"><title>Chemicals and Cell Culture</title><p>1,2-Distearoyl-<italic>sn</italic>-glycero-3-phosphocholine (DSPC, cat. no. 850365P-1g), cholesterol
+(cat. no. 700000P-5g), and 1,2-dimyristoyl-rac-<italic>glycero</italic>-3-methoxypolyethylene glycol-2000 (PEG-DMG 2000, cat. no. 880151P-5g)
+were purchased from Avanti Polar lipids. Ethanol absolute (cat. no.
+000525052100) and 2-propanol (cat. no. 001626052100) were provided
+by Bio-Lab. DPBS 1× was purchased from Gibco (Cat# 14190–169),
+PBS 10X from Hylabs (Cat# BP507/500D), DEPC-treated water from BioPrep
+(Cat# DPH20-500 ML), and 0.5 M citrate buffer solution from Thermo
+Scientific (pH = 4.5, Cat# J60024.AK).</p><p>Fetal bovine serum was
+purchased from Biowest (FBS, heat-inactivated, EU origin, Cat# S140H-500). <sc>l</sc>-Glutamine 200 mM (100×, cat. no. 25030-024), 0.25% trypsin–EDTA
+(1×, cat. no. 25200-114), penicillin–streptomycin solution
+(10,000 U/mL of penicillin +10,000 μg/mL of streptomycin, cat.
+no. 15140-122), DMEM (1×, cat. no. 41965-039), and RPMI Medium
+1640 (1×, cat. no. 21875-034) were provided by Gibco.</p><p>RAW264.7
+cells (cat. no. TIB-71), HeLa cells (cat. no. CCL-2),
+and HepG2 cells (cat. no. HB-8065) were provided by ATCC. Cell cultures
+were maintained in an incubator at 37 °C in a controlled atmosphere
+(5% CO<sub>2</sub>, 95% humidity) using the culture media required
+by the producer using T25 and T75 flasks.</p></sec><sec id="sec4.2" disp-level="2"><title>Ionizable Lipid Synthesis</title><p>See the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Supporting Information</ext-link>.</p></sec><sec id="sec4.3" disp-level="2"><title>mRNAs</title><p>Chemically modified mRNAs encoding firefly luciferase
+(62 kDa) and Cre recombinase (39 kDa) were provided by BioNTech or
+purchased from TriLink Biotechnologies. Custom mRNA encoding mmPE-A
+was acquired from Trilink with the following open reading frame:</p><p>5′-ATGgccgaagaagctttcctcggcgacggcggcgacgtcagcttcagcacccgcggcacgcagaactggacggtgg
+agcggctgctccaggcgcaccgccaactggaggagcgcggctatgtgttcgtcggctaccacggcaccttcctcgaagc
+ggcgcaaagcatcgtcttcggcggggtgcgcgcgcgcagccaggacctcgacgcgatctggcgcggtttctatatcgcc
+ggcgatccggcgctggcctacggctacgcccaggaccaggaacccgacgcacgcggccggatccgcaacggtgccct
+gctgcgggtctatgtgccgcgctcgagcctgccgggcttctaccgcaccagcctgaccctggccgcgccggaggcggc
+gggcgaggtcgaacggctgatcggccatccgctgccgctgcgcctggacgccatcaccggccccgaggaggaaggcg
+ggcgcctggagaccattctcggctggccgctggccgagcgcaccgtggtgattccctcggcgatccccaccgacccgcg
+caacgtcggcggcgacctcgacccgtccagcatccccgacaaggaacaggcgatcagcgccctgccggactacgcca
+gccagcccggcaaaccgccgcgcgaggacctgaagTAA-3′</p></sec><sec id="sec4.4" disp-level="2"><title>Lipid Stability</title><p>The stability of lipids was assessed
+by HPLC (Agilent, 1260 Infinity II) equipped with Thermo Fisher’s
+CAD using a Poroshell 120 EC-C18 (2.7 μm, 3 × 150 mm) column
+following the reverse phase method (Solvent-A: 0.1% TFA in 55% MeOH,
+15% IPA and 30% water; solvent-B: 0.1% TFA in 70% MeOH and 30% IPA).
+Briefly, 3 mg of lipid was dissolved in 1 mL of ethanol and a water–ethanol
+mixture (1:3) solvent and then filtered into Agilent scintillation
+vials. Three μL of the sample was injected into the HPLC-CAD
+instrument each time. The study was carried out over a period of 90
+days at specific intervals (days 0, 1, 2, 3, 7, 14, 21, 28, 35, 60,
+and 90). The samples were stored at room temperature throughout the
+study. The stability study graph was plotted by taking time (days)
+on the <italic>x</italic>-axis and the percentage of lipid purity
+on the <italic>y</italic>-axis.</p></sec><sec id="sec4.5" disp-level="2"><title>Design of Experiment-Based
+Screening</title><p>The screening
+was designed by using JMP Pro. The CPP ranges selected were: 30 to
+45% ionizable lipid molar proportion; 20% to 45% cholesterol molar
+proportion, 5% to 45% helper lipid molar proportion; PEG-DMG/PEG/OME
+ratio from 0 to 1; total lipid concentrations between 1 mM and 7 mM;
+formulation temperature between 20 and 60 °C; as possible previously
+published ionizable lipids; as helper lipids DSPC or DOPE, and an
+N/P ratio between 5 and 12 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S1A</ext-link>).
+These ranges were used to create a custom design with 20 experimental
+runs, including center points and repeated measures. The selected
+CQAs were the particle size, PDI, and zeta potential measured by DLS,
+mRNA encapsulation measured by RiboGreen, as well as in vitro and
+in vivo Luc expression. After formulating and characterizing these
+formulations, JMP Pro was used to understand which CPPs were statistically
+significant in determining the CQAs. Then, the critical CPPs were
+selected to simulate in silico 10<sup>4</sup> possible formulations
+and their relative projected features and transfection efficiency
+using Monte Carlo Simulation. Finally, ad hoc quality thresholds were
+applied (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figure S1C</ext-link>) to select a small
+range of possible optimal formulations.</p></sec><sec id="sec4.6" disp-level="2"><title>LNP Formulation</title><p>LNPs were formulated using a NanoAssemblr
+Benchtop device (catalog no. NIT0055) equipped with a heating block
+(catalog no. NIT0026) and relative cartridges (catalog no. NIS0009,
+Precision Nanosystems). The lipids were dissolved in absolute ethanol
+and kept at 55 °C. mRNA was diluted in a 25 mM citrate buffer
+(pH 4.5, Thermo Scientific, Cat# J60024.AK). To prepare the LNP organic
+phase, lipids were mixed in the following molar ratios: 40% ionizable
+lipid, 48.5% cholesterol, 1.5% PEG-DMG, and 10% DSPC to a final concentration
+of 6 mM. The N/P ratio of ionizable lipids to mRNA was 9. The lipid
+and aqueous phases were loaded in the NanoAssemblr in 1 and 3 mL syringes,
+respectively. The particles were assembled at 45 °C, using a
+flow rate ratio (FRR) of 3:1 (aqueous: ethanol), a total flow rate
+(TFR) of 12 mL/min, using a pre- and postwaste of 50 μL. Particles
+were subsequently dialyzed using MAXI GeBaFlex-tubes, 14 kDa MWCO
+(Gene Bio-Application LTD, cat. no. D050-100), against 1× PBS
+(Hylabs, cat. no. BP507/500D), which was replaced after 4 h. Particles
+were recovered after dialysis the next day.</p></sec><sec id="sec4.7" disp-level="2"><title>Size and Zeta-Potential
+Analysis of LNPs</title><p>The nanosize
+and ζ-potential of prepared mRNA-LNPs were analyzed by dynamic
+light scattering (DLS) using a Malvern Zetasizer (Malvern Instruments).
+Briefly, mRNA-LNPs were diluted in double-distilled water (1:50, volume
+ratio) and PBS (1:50, volume ratio) for ζ-potential and size
+measurements, respectively.</p></sec><sec id="sec4.8" disp-level="2"><title>RNA Encapsulation and Quantification</title><p>The Quant-iT RiboGreen
+RNA assay kit (Life Technologies) was used to measure the mRNA encapsulation
+in LNP. In summary, 2 μL of LNPs was diluted in a final volume
+of 350 μL of TE buffer (20 mM EDTA, 10 μM Tris–HCL)
+with or without Triton X-100 (0.5%, Sigma-Aldrich). The samples with
+Triton were incubated at 55 °C for 5 min. Following this, 100
+μL of each sample was added in triplicate to a black 96-well
+plate (Costar, Corning), and 100 μL of TE buffer (0.5% v/v,
+RiboGreen reagent) was added to each well. The fluorescence was detected
+using a microplate reader (Biotek Industries) following the manufacturer’s
+protocol. To estimate the percentage of encapsulated RNA, <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref> was used</p><disp-formula id="eq1"><label>1</label><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="nn4c18636_m001.jpg"><?cloudpmc-path blobs/b91a/11841047/1930cd035fb2/nn4c18636_m001.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?><?original-height 33?><?original-width 344?><?scaled-height 33?><?scaled-width 344?></graphic></disp-formula><p>where <italic>E</italic> is the
+encapsulation
+percentage of mRNA; FluoLNPs and FluoLNPTr are the fluorescence signals
+without and with Triton, respectively; Blank and BlankTr are the fluorescence
+signals of blanks without and with Triton, respectively.</p></sec><sec id="sec4.9" disp-level="2"><title>p<italic>K</italic><sub>a</sub> Measurement</title><p>As previously
+described, the p<italic>K</italic><sub>a</sub> values of LNPs were
+measured using the 2-(<italic>p</italic>-toluidino)-6-naphthalenesulfonic
+acid (TNS) assay.<sup><xref rid="ref33" ref-type="bibr">33</xref></sup> Briefly, the master
+buffer was prepared using 10 mM 4-(2-hydroxyethyl)-1-piperazineethanesulfonic
+acid (HEPES), 10 mM 4-morpholineethanesulfonic acid (MES), 10 mM ammonium
+acetate, and 130 mM sodium chloride (NaCl). Sixteen buffers with pH
+ranging from 2.5 to 10 were prepared using 1.0 M sodium hydroxide
+and 1.0 M hydrochloric acid based on the master buffer. The TNS reagent
+was prepared as a 0.1 mM stock solution in Milli-Q water. 90 μL
+of each buffer was added in triplicate to a black 96-well plate, and
+then 6 μL of 0.1 mM total lipid LNPs were added to each well.
+Then, 5 μL of the TNS stock solution was added to each well
+and kept on the shaker to mix properly for 10 min by covering the
+plate with aluminum foil. Fluorescence intensity was measured using
+excitation and emission wavelengths of 322 and 431 nm, respectively.
+p<italic>K</italic><sub>a</sub> curves were prepared by plotting the
+pH values on the <italic>x</italic>-axis and the normalized fluorescence
+values on the <italic>y</italic>-axis. Estimation of the p<italic>K</italic><sub>a</sub> values was performed using GraphPad Prism
+to perform nonlinear regression with variable slope.</p></sec><sec id="sec4.10" disp-level="2"><title>LNP In Vitro
+Testing</title><p>HeLa, HepG2, and RAW 264.7 cells
+were cultured according to the producer’s instructions, periodically
+checked to ensure the absence of Mycoplasma infections, and kept below
+passage 10. To test LNP activity in vitro, these different cell lines
+were seeded at a density of 10,000 cells per well in a 96-well plate.
+The day after seeding, cells were treated with LNPs at an mLuc mRNA
+concentration of 0.5 μg/mL, 0.25 μg/mL, and 0.125 μg/mL
+diluted in a complete cell culture medium. Every treatment was performed
+in quadruplicate. 24 h after treatment, cells were lysed using 50
+μL of passive lysis buffer 1× (Promega) per well. Afterward,
+30 μL of the cell lysates was pipetted in a white 96-well plate
+(Costar, White flat bottom, nontreated no lid, cat. no. 3912) and
+their luminescence was read using a GloMax plate reader equipped with
+dual injectors. 50 μL of the Luciferase Assay System (Promega)
+substrate was injected per well and the exposure time was set to 10
+s.</p></sec><sec id="sec4.11" disp-level="2"><title>Animal Studies</title><p>All animal studies were performed in
+accordance with ethical guidelines and were approved by the Tel Aviv
+University Ethics Committee (Protocol # TAU-LS-IL—2201-108-3).</p></sec><sec id="sec4.12" disp-level="2"><title>LNP In Vivo Organ Biodistribution</title><p>Healthy, 8–10
+weeks old, female C57BL/6J mice were injected retro-orbitally with
+a volume of LNPs loaded with luciferase-encoding mRNA (mLuc) corresponding
+to 10 μg of mRNA. 6 h after the injection, mice were injected
+intraperitoneally with 200 μL of 15 mg/mL of IVISbrite D-luciferin
+diluted in 1× PBS (PerkinElmer Cat#122799). After 5 min, mice
+were anesthetized with isoflurane and sacrificed by cervical dislocation.
+Their hearts, lungs, livers, spleens, and kidneys were harvested,
+and the Luc signal was measured using an IVIS Lumina device with automatic
+settings. For analysis, the pictures were processed using the Living
+Image Software (version 4.1) to measure the average radiance (measured
+in photons/sec/cm<sup>2</sup>/sr) within ad hoc defined ROIs. Every
+experimental group included 4 mice. Mice that displayed obvious signs
+of discomfort after LNP injections were sacrificed for ethical reasons
+and removed from the experiment.</p></sec><sec id="sec4.13" disp-level="2"><title>LNPs’ In Vivo Cellular
+Transfection</title><p>For this
+application, LNPs were loaded with mRNA encoding the Cre recombinase
+enzyme (GeneScript). Female, 8–10 weeks old B6g.Cg-Gt(ROSA)26Sortm9(CAG-tdTomato)/Hze/j
+mice (referred to as Cre-tdTomato mice) were injected retro-orbitally
+with a volume of particles corresponding to 20 μg of Cre mRNA.
+After 72 h, mice were anesthetized and sacrificed by cervical dislocation,
+and lungs, livers, and spleens were harvested.</p><p>Spleens were
+ruptured through 70 μm cutoff strainers, and the obtained single-cell
+suspension was centrifuged at 300<italic>g</italic> for 5 min at 4
+°C. After pipetting the supernatant, cells were resuspended in
+red blood cell lysis buffer (Sigma-Aldrich) for 1 min quenched by
+adding 10 mL of 1× PBS and centrifuged at 300<italic>g</italic> for 5 min at 4 °C. After decanting the supernatant again, cells
+were resuspended in 0.5 mL of FACS buffer for cell counting and antibody
+staining.</p><p>Livers and lungs were processed using the Miltenyi
+mouse liver
+dissociation kit (Cat# 130-105-807) or the Miltenyi mouse lungs dissociation
+kit (Cat# 130-095-927), respectively, following the manufacturer’s
+instructions.</p><p>Cells were then incubated with mouse FcR blocker
+reagent (Cat#
+130-092-575 Miltenyi) according to manufacturer’s instructions
+and then stained with different antibody panels as reported in <xref rid="tbl1" ref-type="table">Tables <xref rid="tbl1" ref-type="table">1</xref></xref> and <xref rid="tbl2" ref-type="table">2</xref>.</p><table-wrap id="tbl1" position="float"><?disp-level 3?><label>Table 1</label><caption><title>Antibody Panel Used to Stain Cells
+Population in Mice Livers and Lungs to Assess tdTomato-Positive Cells</title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">antigen</th><th style="border:none;" align="center" colspan="1" rowspan="1">fluorophore</th><th style="border:none;" align="center" colspan="1" rowspan="1">producer</th><th style="border:none;" align="center" colspan="1" rowspan="1">catalog #</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD45</td><td style="border:none;" align="left" colspan="1" rowspan="1">APC-fire 750</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">147714</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD31</td><td style="border:none;" align="left" colspan="1" rowspan="1">AlexaFluor488</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">102414</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD326</td><td style="border:none;" align="left" colspan="1" rowspan="1">APC</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">118213</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD11b</td><td style="border:none;" align="left" colspan="1" rowspan="1">PE-Cy7</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">101215</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD11c</td><td style="border:none;" align="left" colspan="1" rowspan="1">PerCP</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">117325</td></tr></tbody></table></table-wrap><table-wrap id="tbl2" position="float"><?disp-level 3?><label>Table 2</label><caption><title>Antibody Panel Used to Stain Cell
+Population in Mice Spleens to Assess tdTomato-Positive Cells</title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">antigen</th><th style="border:none;" align="center" colspan="1" rowspan="1">fluorophore</th><th style="border:none;" align="center" colspan="1" rowspan="1">producer</th><th style="border:none;" align="center" colspan="1" rowspan="1">catalog #</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD3e</td><td style="border:none;" align="left" colspan="1" rowspan="1">PerCP</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">100325</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD19</td><td style="border:none;" align="left" colspan="1" rowspan="1">FITC</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">152404</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD11b</td><td style="border:none;" align="left" colspan="1" rowspan="1">APC-Cy7</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">101226</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD11c</td><td style="border:none;" align="left" colspan="1" rowspan="1">APC</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">117309</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">F4/80</td><td style="border:none;" align="left" colspan="1" rowspan="1">PE-Cy7</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">123113</td></tr></tbody></table></table-wrap><p>After 30 min of incubation at 4 °C, cells were
+centrifuged
+at 500<italic>g</italic> for 5 min and finally resuspended in 100
+μL of FACS buffer supplemented with DAPI 5 μg/mL before
+analyzing them on a Cytoflex Flow cytometer (Beckman) using the gating
+strategy summarized in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figures S13 and 14</ext-link>.</p></sec><sec id="sec4.14" disp-level="2"><title>LNPs’ In Vivo Cellular Transfection</title><p>To assess
+the LNPs’ biodistribution, LNPs were loaded with noncoding
+siRNA labeled with Cy5 and nonmodified Luc mRNA in a 50:50 (w/w) ratio.
+The particles were then injected IV in 10 week old female C57BL6/j
+mice at a dose of 10 μg of total mRNA per mouse. 18 h after
+administration, mice were sacrificed and their lungs, livers, and
+spleens were harvested and processed for flow cytometry as previously
+described. The extracted cells were then stained using the antibody
+panels summarized in <xref rid="tbl3" ref-type="table">Tables <xref rid="tbl3" ref-type="table">3</xref></xref> and <xref rid="tbl4" ref-type="table">4</xref> and analyzed using the gating
+strategies analogous to the ones presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">Figures S13 and 14</ext-link>. LNP accumulation was measured as a percentage
+of Cy5-positive cells.</p><table-wrap id="tbl3" position="float"><?disp-level 3?><label>Table 3</label><caption><title>Antibody Panel Used
+to Stain Cells
+Population in Mice Livers and Lungs to Assess Cy5-LNP Deposition</title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">antigen</th><th style="border:none;" align="center" colspan="1" rowspan="1">fluorophore</th><th style="border:none;" align="center" colspan="1" rowspan="1">producer</th><th style="border:none;" align="center" colspan="1" rowspan="1">catalog #</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD45</td><td style="border:none;" align="left" colspan="1" rowspan="1">PE</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">103106</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD31</td><td style="border:none;" align="left" colspan="1" rowspan="1">AlexaFluor488</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">102414</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD326</td><td style="border:none;" align="left" colspan="1" rowspan="1">APC-AlexaFluor 700</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">118240</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD11b</td><td style="border:none;" align="left" colspan="1" rowspan="1">PE-Cy7</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">101215</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD11c</td><td style="border:none;" align="left" colspan="1" rowspan="1">PerCP</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">117325</td></tr></tbody></table></table-wrap><table-wrap id="tbl4" position="float"><?disp-level 3?><label>Table 4</label><caption><title>Antibody Panel Used to Stain Cells
+Population in Mice Spleens to Assess Cy5-LNP Deposition</title></caption><table frame="hsides" rules="groups" border="0"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th style="border:none;" align="center" colspan="1" rowspan="1">antigen</th><th style="border:none;" align="center" colspan="1" rowspan="1">fluorophore</th><th style="border:none;" align="center" colspan="1" rowspan="1">producer</th><th style="border:none;" align="center" colspan="1" rowspan="1">catalog #</th></tr></thead><tbody><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD3e</td><td style="border:none;" align="left" colspan="1" rowspan="1">PerCP</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">100325</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD19</td><td style="border:none;" align="left" colspan="1" rowspan="1">FITC</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">152404</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD11b</td><td style="border:none;" align="left" colspan="1" rowspan="1">APC-Cy7</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">101226</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">CD11c</td><td style="border:none;" align="left" colspan="1" rowspan="1">PE</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">117308</td></tr><tr><td style="border:none;" align="left" colspan="1" rowspan="1">F4/80</td><td style="border:none;" align="left" colspan="1" rowspan="1">PE-Cy7</td><td style="border:none;" align="left" colspan="1" rowspan="1">Biolegend</td><td style="border:none;" align="center" colspan="1" rowspan="1">123113</td></tr></tbody></table></table-wrap></sec><sec id="sec4.15" disp-level="2"><title>Biocompatibility Studies</title><p>Female
+8–10 weeks old,
+C57BL/6J mice were injected retro-orbitally with a volume corresponding
+to 10 μg of mRNA of LNPs loaded with luciferase-encoding mRNA
+(mLuc). 2 and 24 h after injection, approximately 300 μL of
+blood per mouse was recovered via cheek bleed in a Microtainer SST
+Blood collection tube (ref# 365,968, BD). To isolate the plasma from
+whole blood, the collection tubes were centrifuged at 3500 rpm for
+10 min. The supernatant plasma was recovered in 1.5 mL Eppendorf tubes
+and stored at −80 °C for future analysis.</p><p>The concentrations
+of TNF-α, IL-6, MCP-1, and IL-6 in the plasma were measured
+using ad hoc ELISA kits from R&amp;D Systems: Mouse CCL2/JE/MCP-1
+DuoSet ELISA (ref # DY 479), Mouse IL-6 DuoSet ELISA (ref # DY 406),
+Mouse IL-10 DuoSet ELISA (ref # DT 417), Mouse TNF-alpha DuoSet ELISA
+(ref # DY410).</p><p>The plasma concentrations of alkaline phosphatase
+(ALP), serum
+glutamic oxaloacetic transaminase (SGOT), and serum glutamate pyruvate
+transaminase (SGPT) were analyzed by AML Lab Services.</p><p>24 h
+after injection, the livers, spleens, and lungs were also
+harvested and fixed in a paraffin solution (Sigma-Aldrich). The tissue
+processing, embedding in paraffin, sectioning, and hematoxylin/eosin
+staining were performed by Histospek.</p></sec><sec id="sec4.16" disp-level="2"><title>Assessment of LNPs’
+Efficacy in a Lung Metastatic Model</title><p>The protocols were adapted
+from ref (<xref rid="ref54" ref-type="bibr">54</xref>). B16F10.9
+cells (5 × 10<sup>5</sup> diluted
+in 100 μL of PBS) were administered intravenously into 10- to
+12 week old male C57BL/6 mice. Treatment groups (<italic>n</italic> = 7 mice/group) included (1) mock treatment (1× PBS), (2) mLuc-loaded
+lipid 35 LNP, (3) mmPE-loaded SM-102 LNPs, and (4) mmPE-loaded lipid
+35 LNP. An additional group of untreated tumor-free mice served as
+control (<italic>n</italic> = 7). The dose in each formulation was
+0.09 mg/kg mRNA encoding PE.<sup><xref rid="ref52" ref-type="bibr">52</xref></sup> Treatments
+were administered on days 1, 5, and 9 from tumor inoculation. Administration
+was by intravenous injection of 100 μL of the selected formulation
+to the lateral tail vein using 26-gauge needles.</p><p>Two independent
+experiments were run: one to evaluate lung metastatic burden and the
+other to evaluate survival.</p><p>For mmPE-LNP, the general toxicity
+was evaluated using liver enzyme
+levels (AST and ALT), as well as ALP, urea, bilirubin, total protein,
+and creatinine measured in the blood. Mice bearing B16F10.9 tumors
+(B16F10.9) received three doses of either PBS, mLuc-loaded lipid 35
+LNP, mmPE-loaded SM-102 LNPs, or mmPE-loaded lipid 35 LNPs at a dose
+of 0.09 mg/kg mRNA (<italic>n</italic> = 4 mice/group). AST and ALT
+levels were assessed 24 and 72 h from the end of treatment while the
+other markers were measured 72 h post-treatment.</p><p>For evaluation
+of lung metastatic burden, the experiment was terminated
+20 days post-tumor injection. The lungs of all animals in the experiment
+were removed, weighed, and fixed in Blouin’s solution. The
+increase in lung weight was calculated using <xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>(<xref rid="ref53" ref-type="bibr">53</xref>)</p><disp-formula id="eq2"><label>2</label><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="nn4c18636_m002.jpg"><?cloudpmc-path blobs/b91a/11841047/a5fb1ba8e44e/nn4c18636_m002.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?><?original-height 35?><?original-width 395?><?scaled-height 35?><?scaled-width 395?></graphic></disp-formula><p>Surface metastases
+were counted, using a dissecting microscope,
+by a pathologist blinded to the experimental groups involved. For
+evaluation of survival, 7 animals were included in each experimental
+group. After the end of treatment, they were monitored every other
+day and the experiment was terminated on day 38. Statistical significance
+for the difference in survival was assessed using the Log-rank (Mantel–Cox)
+Test.</p></sec><sec id="sec4.17" disp-level="2"><title>LNP Stability under Storage</title><p>After assembly, LNPs formulated
+using the lead lipids (lipids 14, 35, and 36) were stored as suspension
+in 1× PBS in sealed 2 mL clear glass vials (Merck, catalog no.
+27265) and kept at 4 °C. A small nanoparticle aliquot was withdrawn,
+and DLS, Ribogreen, and in vitro Luciferase assay were performed as
+previously presented at day 1 and then every 7 days until 2 months.</p></sec><sec id="sec4.18" disp-level="2"><title>Statistical Analysis</title><p>Data are presented as the data
+mean ± the standard error. Before analysis, normality tests were
+performed to assess the data Gaussian distributions. Statistical comparisons
+of two different groups were performed using a two-tailed paired <italic>t</italic>-test. For experiments involving multiple groups, one-way
+ANOVA with multiple comparison post-hoc tests was employed instead.
+All analyses were performed on Graph Pad Prism version 5.00 (GraphPad
+Software, San Diego, California, USA, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.graphpad.com" ext-link-type="uri">www.graphpad.com</ext-link>). To elucidate
+possible correlations between the LNP sizes, zeta potentials, p<italic>K</italic><sub>a</sub>, and in vitro and in vivo signals, we performed
+correlation analysis using GraphPad Prism. The correlations were assessed
+by plotting variables in pairs and assessing the function in GraphPad
+Prism. <italic>P</italic> values below 0.05 were considered statistically
+significant. Significance intervals for p were designed as follows:
+* for <italic>p</italic> &lt; 0.05, ** for <italic>p</italic> &lt;
+0.01, *** for <italic>p</italic> &lt; 0.001.</p></sec></sec><sec id="ack1" sec-type="ack" disp-level="1"><title>Acknowledgments</title><p>D.P. acknowledges the support from the European
+Research Council (ERC Adv. Grant # 101055029), the EXPERT project
+(European Union’s Horizon 2020) research and innovation programme
+(under grant agreement # 825828), and the ISF grant (2012/20). The
+TOC image was entirely Created by G.S.N. using Licensed Biorender.</p></sec><sec id="dl1" sec-type="glossary" disp-level="1"><title>Glossary</title><def-list><title>Abbreviations</title><def-item><term>ALP</term><def><p>alkaline
+phosphatase</p></def></def-item><def-item><term>ALT</term><def><p>alanine aminotransferase</p></def></def-item><def-item><term>AST</term><def><p>aspartate aminotransferase</p></def></def-item><def-item><term>CAD</term><def><p>charged aerosol
+detector</p></def></def-item><def-item><term>CPP</term><def><p>critical
+process parameter</p></def></def-item><def-item><term>CQA</term><def><p>critical quality attribute</p></def></def-item><def-item><term>HPLC</term><def><p>high-performance liquid chromatography</p></def></def-item><def-item><term>IL-6</term><def><p>interleukin-6</p></def></def-item><def-item><term>IL-10</term><def><p>interleukin 10</p></def></def-item><def-item><term>LNP</term><def><p>lipid nanoparticles</p></def></def-item><def-item><term>MCP-1</term><def><p>monocyte chemoattractant
+protein-1</p></def></def-item><def-item><term>mCre</term><def><p>Cre-encoding
+mRNA</p></def></def-item><def-item><term>mLuc</term><def><p>firefly
+luciferase-encoding mRNA</p></def></def-item><def-item><term>mPE-A</term><def><p>pseudomonas exotoxin A-encoding mRNA</p></def></def-item><def-item><term>PCC</term><def><p>Pearson’s correlation coefficient</p></def></def-item><def-item><term>PEG</term><def><p>polyethylene glycol</p></def></def-item><def-item><term>TNF-α</term><def><p>tumor necrosis
+factor-α</p></def></def-item><def-item><term>ζ</term><def><p>zeta potential.</p></def></def-item></def-list></sec><sec id="notes1" disp-level="1"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/10.1021/acsnano.4c18636?goto=supporting-info" ext-link-type="uri">https://pubs.acs.org/doi/10.1021/acsnano.4c18636</ext-link>.</p><list list-type="simple" id="silist"><list-item><p>DoE-based LNP optimization;
+p<italic>K</italic><sub>a</sub> measurements; agarose gel electrophoresis
+of LNP formulations;
+correlation analysis between LNP features and their in vitro or in
+vivo transfection; radiance measure in the mice hearts and kidneys;
+proportional signal of LNPs formulated with different lipids among
+mice lungs, livers, and spleens; schematic representation of tdTomato
+expression; characterization of mCre-loaded LNPs; cellular biodistribution
+of LNPs in tdTomato mice; cellular biodistribution of Cy-5-labeled
+LNPs in vivo; safety profile of mmPE-A-loaded LNPs; gating strategies
+used for flow cytometry; and synthesis and characterization of the
+ionizable lipids (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c18636/suppl_file/nn4c18636_si_001.pdf" ext-link-type="uri">PDF</ext-link>)</p></list-item></list></sec><sec id="notes3" disp-level="1"><title>Author Contributions</title><p><sup>#</sup> G.S.N. and R.R.
+contributed equally. The manuscript was written through
+contributions of all authors. All authors have given approval to the
+final version of the manuscript.</p></sec><sec id="notes2" disp-level="1"><p>The authors
+declare the following competing financial interest(s): D.P. receives
+licensing fees (to patents on which he was an inventor) from the following
+entities: ART Biosciences, BioNtech SE, Earli Inc., LAND Medicine
+Inc.., Kernal Biologics Inc., Newphase Ltd., NeoVac Ltd., RiboX Therapeutics,
+Roche, and Teva Pharmaceuticals Inc. He also invested and consults
+or serves on the scientific advisory boards or boards of directors
+of some of these companies, and lectured (and received a fee) or conducts
+sponsored research for the companies. All other authors declare no
+competing interests.</p></sec><sec id="sec31" disp-level="1"><title>Supplementary Material</title><supplementary-material id="sifile1" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c18636_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path b91a/11841047/8ce122daa65c/nn4c18636_si_001.pdf?><?cloudpmc-bucket app?><?size 2707916?><caption><p>nn4c18636_si_001.pdf</p></caption></media></supplementary-material></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="ref1"><mixed-citation id="cit1"><named-content content-type="citation-string">Kon E.; Ad-El N.; Hazan-Halevy I.; Stotsky-Oterin L.; Peer D.
+Targeting cancer with mRNA-lipid
+nanoparticles: key considerations
+and future prospects. Nat. Rev. Clin. Oncol.
+2023, 20 (11), 739–754. 10.1038/s41571-023-00811-9.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41571-023-00811-9"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37587254"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Clin. Oncol.&amp;title=Targeting cancer with mRNA-lipid nanoparticles: key considerations and future prospects&amp;author=E. Kon&amp;author=N. Ad-El&amp;author=I. Hazan-Halevy&amp;author=L. Stotsky-Oterin&amp;author=D. Peer&amp;volume=20&amp;issue=11&amp;publication_year=2023&amp;pages=739-754&amp;pmid=37587254&amp;doi=10.1038/s41571-023-00811-9&amp;"/></mixed-citation></ref><ref id="ref2"><mixed-citation id="cit2"><named-content content-type="citation-string">Rohner E.; Yang R.; Foo K. S.; Goedel A.; Chien K. R.
+Unlocking
+the promise of mRNA therapeutics. Nat. Biotechnol.
+2022, 40 (11), 1586–1600. 10.1038/s41587-022-01491-z.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41587-022-01491-z"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36329321"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Biotechnol.&amp;title=Unlocking the promise of mRNA therapeutics&amp;author=E. Rohner&amp;author=R. Yang&amp;author=K. S. Foo&amp;author=A. Goedel&amp;author=K. R. Chien&amp;volume=40&amp;issue=11&amp;publication_year=2022&amp;pages=1586-1600&amp;pmid=36329321&amp;doi=10.1038/s41587-022-01491-z&amp;"/></mixed-citation></ref><ref id="ref3"><mixed-citation id="cit3"><named-content content-type="citation-string">Huang X.; Kong N.; Zhang X.; Cao Y.; Langer R.; Tao W.
+The landscape of mRNA nanomedicine. Nat. Med.
+2022, 28 (11), 2273–2287. 10.1038/s41591-022-02061-1.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41591-022-02061-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36357682"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Med.&amp;title=The landscape of mRNA nanomedicine&amp;author=X. Huang&amp;author=N. Kong&amp;author=X. Zhang&amp;author=Y. Cao&amp;author=R. Langer&amp;volume=28&amp;issue=11&amp;publication_year=2022&amp;pages=2273-2287&amp;pmid=36357682&amp;doi=10.1038/s41591-022-02061-1&amp;"/></mixed-citation></ref><ref id="ref4"><mixed-citation id="cit4"><named-content content-type="citation-string">Chaudhary N.; Weissman D.; Whitehead K. A.
+mRNA vaccines
+for infectious diseases:
+principles, delivery and clinical translation. Nat. Rev. Drug Discovery
+2021, 20 (11), 817–838. 10.1038/s41573-021-00283-5.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41573-021-00283-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8386155"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34433919"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Drug Discovery&amp;title=mRNA vaccines for infectious diseases: principles, delivery and clinical translation&amp;author=N. Chaudhary&amp;author=D. Weissman&amp;author=K. A. Whitehead&amp;volume=20&amp;issue=11&amp;publication_year=2021&amp;pages=817-838&amp;pmid=34433919&amp;doi=10.1038/s41573-021-00283-5&amp;"/></mixed-citation></ref><ref id="ref5"><mixed-citation id="cit5"><named-content content-type="citation-string">Akinc A.; Maier M. A.; Manoharan M.; Fitzgerald K.; Jayaraman M.; Barros S.; Ansell S.; Du X.; Hope M. J.; Madden T. D.; Mui B. L.; Semple S. C.; Tam Y. K.; Ciufolini M.; Witzigmann D.; Kulkarni J. A.; van der Meel R.; Cullis P. R.
+The Onpattro story
+and the clinical translation of nanomedicines containing nucleic acid-based
+drugs. Nat. Nanotechnol.
+2019, 14 (12), 1084–1087. 10.1038/s41565-019-0591-y.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41565-019-0591-y"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31802031"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Nanotechnol.&amp;title=The Onpattro story and the clinical translation of nanomedicines containing nucleic acid-based drugs&amp;author=A. Akinc&amp;author=M. A. Maier&amp;author=M. Manoharan&amp;author=K. Fitzgerald&amp;author=M. Jayaraman&amp;volume=14&amp;issue=12&amp;publication_year=2019&amp;pages=1084-1087&amp;pmid=31802031&amp;doi=10.1038/s41565-019-0591-y&amp;"/></mixed-citation></ref><ref id="ref6"><mixed-citation id="cit6"><named-content content-type="citation-string">Kon E.; Elia U.; Peer D.
+Principles
+for designing an optimal
+mRNA lipid nanoparticle vaccine. Curr. Opin.
+Biotechnol.
+2022, 73, 329–336. 10.1016/j.copbio.2021.09.016.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.copbio.2021.09.016"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8547895"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34715546"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Curr. Opin. Biotechnol.&amp;title=Principles for designing an optimal mRNA lipid nanoparticle vaccine&amp;author=E. Kon&amp;author=U. Elia&amp;author=D. Peer&amp;volume=73&amp;publication_year=2022&amp;pages=329-336&amp;pmid=34715546&amp;doi=10.1016/j.copbio.2021.09.016&amp;"/></mixed-citation></ref><ref id="ref7"><mixed-citation id="cit7"><named-content content-type="citation-string">Huang X.; Kon E.; Han X.; Zhang X.; Kong N.; Mitchell M. J.; Peer D.; Tao W.
+Nanotechnology-based strategies against
+SARS-CoV-2 variants. Nat. Nanotechnol.
+2022, 17 (10), 1027–1037. 10.1038/s41565-022-01174-5.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41565-022-01174-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35982317"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Nanotechnol.&amp;title=Nanotechnology-based strategies against SARS-CoV-2 variants&amp;author=X. Huang&amp;author=E. Kon&amp;author=X. Han&amp;author=X. Zhang&amp;author=N. Kong&amp;volume=17&amp;issue=10&amp;publication_year=2022&amp;pages=1027-1037&amp;pmid=35982317&amp;doi=10.1038/s41565-022-01174-5&amp;"/></mixed-citation></ref><ref id="ref8"><mixed-citation id="cit8"><named-content content-type="citation-string">Hou X.; Zaks T.; Langer R.; Dong Y.
+Lipid nanoparticles
+for mRNA delivery. Nat. Rev. Mater.
+2021, 6 (12), 1078–1094. 10.1038/s41578-021-00358-0.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41578-021-00358-0"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8353930"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34394960"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Mater.&amp;title=Lipid nanoparticles for mRNA delivery&amp;author=X. Hou&amp;author=T. Zaks&amp;author=R. Langer&amp;author=Y. Dong&amp;volume=6&amp;issue=12&amp;publication_year=2021&amp;pages=1078-1094&amp;pmid=34394960&amp;doi=10.1038/s41578-021-00358-0&amp;"/></mixed-citation></ref><ref id="ref9"><mixed-citation id="cit9"><named-content content-type="citation-string">Sahin U.; Oehm P.; Derhovanessian E.; Jabulowsky R. A.; Vormehr M.; Gold M.; Maurus D.; Schwarck-Kokarakis D.; Kuhn A. N.; Omokoko T.; Kranz L. M.; Diken M.; Kreiter S.; Haas H.; Attig S.; Rae R.; Cuk K.; Kemmer-Brück A.; Breitkreuz A.; Tolliver C.; Caspar J.; Quinkhardt J.; Hebich L.; Stein M.; Hohberger A.; Vogler I.; Liebig I.; Renken S.; Sikorski J.; Leierer M.; Müller V.; Mitzel-Rink H.; Miederer M.; Huber C.; Grabbe S.; Utikal J.; Pinter A.; Kaufmann R.; Hassel J. C.; Loquai C.; Türeci Ö.
+An RNA vaccine drives immunity in checkpoint-inhibitor-treated
+melanoma. Nature
+2020, 585 (7823), 107–112. 10.1038/s41586-020-2537-9.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41586-020-2537-9"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32728218"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nature&amp;title=An RNA vaccine drives immunity in checkpoint-inhibitor-treated melanoma&amp;author=U. Sahin&amp;author=P. Oehm&amp;author=E. Derhovanessian&amp;author=R. A. Jabulowsky&amp;author=M. Vormehr&amp;volume=585&amp;issue=7823&amp;publication_year=2020&amp;pages=107-112&amp;pmid=32728218&amp;doi=10.1038/s41586-020-2537-9&amp;"/></mixed-citation></ref><ref id="ref10"><mixed-citation id="cit10"><named-content content-type="citation-string">Kowalski P. S.; Rudra A.; Miao L.; Anderson D. G.
+Delivering the Messenger:
+Advances in Technologies for Therapeutic mRNA Delivery. Mol. Ther.
+2019, 27 (4), 710–728. 10.1016/j.ymthe.2019.02.012.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ymthe.2019.02.012"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6453548"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30846391"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Ther.&amp;title=Delivering the Messenger: Advances in Technologies for Therapeutic mRNA Delivery&amp;author=P. S. Kowalski&amp;author=A. Rudra&amp;author=L. Miao&amp;author=D. G. Anderson&amp;volume=27&amp;issue=4&amp;publication_year=2019&amp;pages=710-728&amp;pmid=30846391&amp;doi=10.1016/j.ymthe.2019.02.012&amp;"/></mixed-citation></ref><ref id="ref11"><mixed-citation id="cit11"><named-content content-type="citation-string">Hajj K.; Whitehead K.
+Tools for translation: non-viral
+materials for therapeutic
+mRNA delivery. Nat. Rev. Mater.
+2017, 2, 17056. 10.1038/natrevmats.2017.56.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/natrevmats.2017.56"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Mater.&amp;title=Tools for translation: non-viral materials for therapeutic mRNA delivery&amp;author=K. Hajj&amp;author=K. Whitehead&amp;volume=2&amp;publication_year=2017&amp;pages=17056&amp;doi=10.1038/natrevmats.2017.56&amp;"/></mixed-citation></ref><ref id="ref12"><mixed-citation id="cit12"><named-content content-type="citation-string">Dowdy S. F.
+Overcoming
+cellular barriers for RNA therapeutics. Nat.
+Biotechnol.
+2017, 35 (3), 222–229. 10.1038/nbt.3802.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/nbt.3802"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28244992"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Biotechnol.&amp;title=Overcoming cellular barriers for RNA therapeutics&amp;author=S. F. Dowdy&amp;volume=35&amp;issue=3&amp;publication_year=2017&amp;pages=222-229&amp;pmid=28244992&amp;doi=10.1038/nbt.3802&amp;"/></mixed-citation></ref><ref id="ref13"><mixed-citation id="cit13"><named-content content-type="citation-string">Han X.; Zhang H.; Butowska K.; Swingle K. L.; Alameh M. G.; Weissman D.; Mitchell M. J.
+An ionizable
+lipid toolbox for RNA
+delivery. Nat. Commun.
+2021, 12 (1), 7233. 10.1038/s41467-021-27493-0.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41467-021-27493-0"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8668901"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34903741"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Commun.&amp;title=An ionizable lipid toolbox for RNA delivery&amp;author=X. Han&amp;author=H. Zhang&amp;author=K. Butowska&amp;author=K. L. Swingle&amp;author=M. G. Alameh&amp;volume=12&amp;issue=1&amp;publication_year=2021&amp;pages=7233&amp;pmid=34903741&amp;doi=10.1038/s41467-021-27493-0&amp;"/></mixed-citation></ref><ref id="ref14"><mixed-citation id="cit14"><named-content content-type="citation-string">Zhang Y.; Sun C.; Wang C.; Jankovic K. E.; Dong Y.
+Lipids and Lipid Derivatives
+for RNA Delivery. Chem. Rev.
+2021, 121 (20), 12181–12277. 10.1021/acs.chemrev.1c00244.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.chemrev.1c00244"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10088400"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34279087"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chem. Rev.&amp;title=Lipids and Lipid Derivatives for RNA Delivery&amp;author=Y. Zhang&amp;author=C. Sun&amp;author=C. Wang&amp;author=K. E. Jankovic&amp;author=Y. Dong&amp;volume=121&amp;issue=20&amp;publication_year=2021&amp;pages=12181-12277&amp;pmid=34279087&amp;doi=10.1021/acs.chemrev.1c00244&amp;"/></mixed-citation></ref><ref id="ref15"><mixed-citation id="cit15"><named-content content-type="citation-string">Sharma P.; Hoorn D.; Aitha A.; Breier D.; Peer D.
+The immunostimulatory
+nature of mRNA lipid nanoparticles. Adv. Drug
+Deliv Rev.
+2024, 205, 115175. 10.1016/j.addr.2023.115175.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.addr.2023.115175"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38218350"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adv. Drug Deliv Rev.&amp;title=The immunostimulatory nature of mRNA lipid nanoparticles&amp;author=P. Sharma&amp;author=D. Hoorn&amp;author=A. Aitha&amp;author=D. Breier&amp;author=D. Peer&amp;volume=205&amp;publication_year=2024&amp;pages=115175&amp;pmid=38218350&amp;doi=10.1016/j.addr.2023.115175&amp;"/></mixed-citation></ref><ref id="ref16"><mixed-citation id="cit16"><named-content content-type="citation-string">Samaridou E.; Heyes J.; Lutwyche P.
+Lipid nanoparticles
+for nucleic acid
+delivery: Current perspectives. Adv. Drug Deliv
+Rev.
+2020, 154–155, 37–63. 10.1016/j.addr.2020.06.002.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.addr.2020.06.002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32526452"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adv. Drug Deliv Rev.&amp;title=Lipid nanoparticles for nucleic acid delivery: Current perspectives&amp;author=E. Samaridou&amp;author=J. Heyes&amp;author=P. Lutwyche&amp;volume=154–155&amp;publication_year=2020&amp;pages=37-63&amp;pmid=32526452&amp;doi=10.1016/j.addr.2020.06.002&amp;"/></mixed-citation></ref><ref id="ref17"><mixed-citation id="cit17"><named-content content-type="citation-string">Chatterjee S.; Kon E.; Sharma P.; Peer D.
+Endosomal escape: A bottleneck for
+LNP-mediated therapeutics. Proc. Natl. Acad.
+Sci. U.S.A.
+2024, 121 (11), e2307800120 10.1073/pnas.2307800120.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1073/pnas.2307800120"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10945858"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38437552"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Proc. Natl. Acad. Sci. U.S.A.&amp;title=Endosomal escape: A bottleneck for LNP-mediated therapeutics&amp;author=S. Chatterjee&amp;author=E. Kon&amp;author=P. Sharma&amp;author=D. Peer&amp;volume=121&amp;issue=11&amp;publication_year=2024&amp;pages=e2307800120&amp;pmid=38437552&amp;doi=10.1073/pnas.2307800120&amp;"/></mixed-citation></ref><ref id="ref18"><mixed-citation id="cit18"><named-content content-type="citation-string">Kedmi R.; Veiga N.; Ramishetti S.; Goldsmith M.; Rosenblum D.; Dammes N.; Hazan-Halevy I.; Nahary L.; Leviatan-Ben-Arye S.; Harlev M.; Behlke M.; Benhar I.; Lieberman J.; Peer D.
+A modular platform
+for targeted RNAi therapeutics. Nat. Nanotechnol.
+2018, 13 (3), 214–219. 10.1038/s41565-017-0043-5.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41565-017-0043-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29379205"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Nanotechnol.&amp;title=A modular platform for targeted RNAi therapeutics&amp;author=R. Kedmi&amp;author=N. Veiga&amp;author=S. Ramishetti&amp;author=M. Goldsmith&amp;author=D. Rosenblum&amp;volume=13&amp;issue=3&amp;publication_year=2018&amp;pages=214-219&amp;pmid=29379205&amp;doi=10.1038/s41565-017-0043-5&amp;"/></mixed-citation></ref><ref id="ref19"><mixed-citation id="cit19"><named-content content-type="citation-string">Li Q.; Chan C.; Peterson N.; Hanna R. N.; Alfaro A.; Allen K. L.; Wu H.; Dall’Acqua W. F.; Borrok M. J.; Santos J. L.
+Engineering Caveolae-Targeted
+Lipid
+Nanoparticles To Deliver mRNA to the Lungs. ACS Chem. Biol.
+2020, 15 (4), 830–836. 10.1021/acschembio.0c00003.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acschembio.0c00003"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32155049"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=ACS Chem. Biol.&amp;title=Engineering Caveolae-Targeted Lipid Nanoparticles To Deliver mRNA to the Lungs&amp;author=Q. Li&amp;author=C. Chan&amp;author=N. Peterson&amp;author=R. N. Hanna&amp;author=A. Alfaro&amp;volume=15&amp;issue=4&amp;publication_year=2020&amp;pages=830-836&amp;pmid=32155049&amp;doi=10.1021/acschembio.0c00003&amp;"/></mixed-citation></ref><ref id="ref20"><mixed-citation id="cit20"><named-content content-type="citation-string">Lam F. C.; Morton S. W.; Wyckoff J.; Vu Han T. L.; Hwang M. K.; Maffa A.; Balkanska-Sinclair E.; Yaffe M. B.; Floyd S. R.; Hammond P. T.
+Enhanced efficacy
+of combined Temozolomide and bromodomain
+inhibitor therapy for gliomas using targeted nanoparticles. Nat. Commun.
+2018, 9 (1), 1991. 10.1038/s41467-018-04315-4.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41467-018-04315-4"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5959860"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29777137"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Commun.&amp;title=Enhanced efficacy of combined Temozolomide and bromodomain inhibitor therapy for gliomas using targeted nanoparticles&amp;author=F. C. Lam&amp;author=S. W. Morton&amp;author=J. Wyckoff&amp;author=T. L. Vu Han&amp;author=M. K. Hwang&amp;volume=9&amp;issue=1&amp;publication_year=2018&amp;pages=1991&amp;pmid=29777137&amp;doi=10.1038/s41467-018-04315-4&amp;"/></mixed-citation></ref><ref id="ref21"><mixed-citation id="cit21"><named-content content-type="citation-string">Lei S.; Chen X.; Gao Y.; Shuai M.; Zhou W.; Li J.; Wu J.; Men K.; Duan X.
+ALPPL2-Binding Peptide
+Facilitates Targeted mRNA Delivery for Efficient Hepatocellular Carcinoma
+Gene Therapy. Adv. Funct. Mater.
+2022, 32, 2204342. 10.1002/adfm.202204342.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/adfm.202204342"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adv. Funct. Mater.&amp;title=ALPPL2-Binding Peptide Facilitates Targeted mRNA Delivery for Efficient Hepatocellular Carcinoma Gene Therapy&amp;author=S. Lei&amp;author=X. Chen&amp;author=Y. Gao&amp;author=M. Shuai&amp;author=W. Zhou&amp;volume=32&amp;publication_year=2022&amp;pages=2204342&amp;doi=10.1002/adfm.202204342&amp;"/></mixed-citation></ref><ref id="ref22"><mixed-citation id="cit22"><named-content content-type="citation-string">Xiao Y.; Chen J.; Zhou H.; Zeng X.; Ruan Z.; Pu Z.; Jiang X.; Matsui A.; Zhu L.; Amoozgar Z.; Chen D. S.; Han X.; Duda D. G.; Shi J.
+Combining
+p53 mRNA nanotherapy with immune checkpoint blockade reprograms the
+immune microenvironment for effective cancer therapy. Nat. Commun.
+2022, 13 (1), 758. 10.1038/s41467-022-28279-8.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41467-022-28279-8"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8828745"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35140208"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Commun.&amp;title=Combining p53 mRNA nanotherapy with immune checkpoint blockade reprograms the immune microenvironment for effective cancer therapy&amp;author=Y. Xiao&amp;author=J. Chen&amp;author=H. Zhou&amp;author=X. Zeng&amp;author=Z. Ruan&amp;volume=13&amp;issue=1&amp;publication_year=2022&amp;pages=758&amp;pmid=35140208&amp;doi=10.1038/s41467-022-28279-8&amp;"/></mixed-citation></ref><ref id="ref23"><mixed-citation id="cit23"><named-content content-type="citation-string">Rurik J. G.; Tombácz I.; Yadegari A.; Méndez Fernández P. O.; Shewale S. V.; Li L.; Kimura T.; Soliman O. Y.; Papp T. E.; Tam Y. K.; Mui B. L.; Albelda S. M.; Puré E.; June C. H.; Aghajanian H.; Weissman D.; Parhiz H.; Epstein J. A.
+CAR T cells produced <italic>in vivo</italic> to treat cardiac injury. Science
+2022, 375 (6576), 91–96. 10.1126/science.abm0594.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1126/science.abm0594"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9983611"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34990237"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Science&amp;title=CAR T cells produced in vivo to treat cardiac injury&amp;author=J. G. Rurik&amp;author=I. Tombácz&amp;author=A. Yadegari&amp;author=P. O. Méndez Fernández&amp;author=S. V. Shewale&amp;volume=375&amp;issue=6576&amp;publication_year=2022&amp;pages=91-96&amp;pmid=34990237&amp;doi=10.1126/science.abm0594&amp;"/></mixed-citation></ref><ref id="ref24"><mixed-citation id="cit24"><named-content content-type="citation-string">Lee Y.; Jeong M.; Park J.; Jung H.; Lee H.
+Immunogenicity
+of lipid nanoparticles and its impact on the efficacy of mRNA vaccines
+and therapeutics. Exp. Mol. Med.
+2023, 55 (10), 2085–2096. 10.1038/s12276-023-01086-x.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s12276-023-01086-x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10618257"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37779140"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Exp. Mol. Med.&amp;title=Immunogenicity of lipid nanoparticles and its impact on the efficacy of mRNA vaccines and therapeutics&amp;author=Y. Lee&amp;author=M. Jeong&amp;author=J. Park&amp;author=H. Jung&amp;author=H. Lee&amp;volume=55&amp;issue=10&amp;publication_year=2023&amp;pages=2085-2096&amp;pmid=37779140&amp;doi=10.1038/s12276-023-01086-x&amp;"/></mixed-citation></ref><ref id="ref25"><mixed-citation id="cit25"><named-content content-type="citation-string">Cheng Q.; Wei T.; Farbiak L.; Johnson L. T.; Dilliard S. A.; Siegwart D. J.
+Selective
+organ targeting (SORT) nanoparticles for tissue-specific mRNA delivery
+and CRISPR-Cas gene editing. Nat. Nanotechnol.
+2020, 15 (4), 313–320. 10.1038/s41565-020-0669-6.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41565-020-0669-6"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7735425"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32251383"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Nanotechnol.&amp;title=Selective organ targeting (SORT) nanoparticles for tissue-specific mRNA delivery and CRISPR-Cas gene editing&amp;author=Q. Cheng&amp;author=T. Wei&amp;author=L. Farbiak&amp;author=L. T. Johnson&amp;author=S. A. Dilliard&amp;volume=15&amp;issue=4&amp;publication_year=2020&amp;pages=313-320&amp;pmid=32251383&amp;doi=10.1038/s41565-020-0669-6&amp;"/></mixed-citation></ref><ref id="ref26"><mixed-citation id="cit26"><named-content content-type="citation-string">Zhao Z.; Cui X.; Ma X.; Wang Z.
+Preparation, characterization, and
+evaluation of antioxidant activity and bioavailability of a self-nanoemulsifying
+drug delivery system (SNEDDS) for buckwheat flavonoids. Acta Biochim Biophys Sin
+2020, 52 (11), 1265–1274. 10.1093/abbs/gmaa124.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/abbs/gmaa124"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7731523"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33216131"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Acta Biochim Biophys Sin&amp;title=Preparation, characterization, and evaluation of antioxidant activity and bioavailability of a self-nanoemulsifying drug delivery system (SNEDDS) for buckwheat flavonoids&amp;author=Z. Zhao&amp;author=X. Cui&amp;author=X. Ma&amp;author=Z. Wang&amp;volume=52&amp;issue=11&amp;publication_year=2020&amp;pages=1265-1274&amp;pmid=33216131&amp;doi=10.1093/abbs/gmaa124&amp;"/></mixed-citation></ref><ref id="ref27"><mixed-citation id="cit27"><named-content content-type="citation-string">LoPresti S. T.; Arral M. L.; Chaudhary N.; Whitehead K. A.
+The replacement
+of helper lipids with charged alternatives in lipid nanoparticles
+facilitates targeted mRNA delivery to the spleen and lungs. J. Controlled Release
+2022, 345, 819–831. 10.1016/j.jconrel.2022.03.046.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jconrel.2022.03.046"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9447088"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35346768"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Controlled Release&amp;title=The replacement of helper lipids with charged alternatives in lipid nanoparticles facilitates targeted mRNA delivery to the spleen and lungs&amp;author=S. T. LoPresti&amp;author=M. L. Arral&amp;author=N. Chaudhary&amp;author=K. A. Whitehead&amp;volume=345&amp;publication_year=2022&amp;pages=819-831&amp;pmid=35346768&amp;doi=10.1016/j.jconrel.2022.03.046&amp;"/></mixed-citation></ref><ref id="ref28"><mixed-citation id="cit28"><named-content content-type="citation-string">Saunders N. R. M.; Paolini M. S.; Fenton O. S.; Poul L.; Devalliere J.; Mpambani F.; Darmon A.; Bergère M.; Jibault O.; Germain M.; Langer R.
+A Nanoprimer
+To Improve
+the Systemic Delivery of siRNA and mRNA. Nano
+Lett.
+2020, 20 (6), 4264–4269. 10.1021/acs.nanolett.0c00752.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.nanolett.0c00752"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32357299"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nano Lett.&amp;title=A Nanoprimer To Improve the Systemic Delivery of siRNA and mRNA&amp;author=N. R. M. Saunders&amp;author=M. S. Paolini&amp;author=O. S. Fenton&amp;author=L. Poul&amp;author=J. Devalliere&amp;volume=20&amp;issue=6&amp;publication_year=2020&amp;pages=4264-4269&amp;pmid=32357299&amp;doi=10.1021/acs.nanolett.0c00752&amp;"/></mixed-citation></ref><ref id="ref29"><mixed-citation id="cit29"><named-content content-type="citation-string">Palomba R.; di Francesco M.; di Francesco V.; Piccardi F.; Catelani T.; Ferreira M.; Palange A. L.; Decuzzi P.
+Boosting nanomedicine
+performance by conditioning macrophages with methyl palmitate nanoparticles. Mater. Horiz.
+2021, 8 (10), 2726–2741. 10.1039/d1mh00937k.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1039/d1mh00937k"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8489400"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34617542"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mater. Horiz.&amp;title=Boosting nanomedicine performance by conditioning macrophages with methyl palmitate nanoparticles&amp;author=R. Palomba&amp;author=M. di Francesco&amp;author=V. di Francesco&amp;author=F. Piccardi&amp;author=T. Catelani&amp;volume=8&amp;issue=10&amp;publication_year=2021&amp;pages=2726-2741&amp;pmid=34617542&amp;doi=10.1039/d1mh00937k&amp;"/></mixed-citation></ref><ref id="ref30"><mixed-citation id="cit30"><named-content content-type="citation-string">Neary M. T.; Mulder L. M.; Kowalski P. S.; MacLoughlin R.; Crean A. M.; Ryan K. B.
+Nebulised delivery of RNA formulations
+to the lungs: From aerosol to cytosol. J. Controlled
+Release
+2024, 366, 812–833. 10.1016/j.jconrel.2023.12.012.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jconrel.2023.12.012"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38101753"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Controlled Release&amp;title=Nebulised delivery of RNA formulations to the lungs: From aerosol to cytosol&amp;author=M. T. Neary&amp;author=L. M. Mulder&amp;author=P. S. Kowalski&amp;author=R. MacLoughlin&amp;author=A. M. Crean&amp;volume=366&amp;publication_year=2024&amp;pages=812-833&amp;pmid=38101753&amp;doi=10.1016/j.jconrel.2023.12.012&amp;"/></mixed-citation></ref><ref id="ref31"><mixed-citation id="cit31"><named-content content-type="citation-string">Lokugamage M. P.; Vanover D.; Beyersdorf J.; Hatit M. Z. C.; Rotolo L.; Echeverri E. S.; Peck H. E.; Ni H.; Yoon J. K.; Kim Y.; Santangelo P. J.; Dahlman J. E.
+Optimization of
+lipid nanoparticles for the delivery of nebulized therapeutic mRNA
+to the lungs. Nat. Biomed. Eng.
+2021, 5 (9), 1059–1068. 10.1038/s41551-021-00786-x.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41551-021-00786-x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10197923"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34616046"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Biomed. Eng.&amp;title=Optimization of lipid nanoparticles for the delivery of nebulized therapeutic mRNA to the lungs&amp;author=M. P. Lokugamage&amp;author=D. Vanover&amp;author=J. Beyersdorf&amp;author=M. Z. C. Hatit&amp;author=L. Rotolo&amp;volume=5&amp;issue=9&amp;publication_year=2021&amp;pages=1059-1068&amp;pmid=34616046&amp;doi=10.1038/s41551-021-00786-x&amp;"/></mixed-citation></ref><ref id="ref32"><mixed-citation id="cit32"><named-content content-type="citation-string">Ni H.; Hatit M. Z. C.; Zhao K.; Loughrey D.; Lokugamage M. P.; Peck H. E.; Cid A. D.; Muralidharan A.; Kim Y.; Santangelo P. J.; Dahlman J. E.
+Piperazine-derived
+lipid nanoparticles deliver mRNA to immune cells <italic>in vivo</italic>. Nat. Commun.
+2022, 13 (1), 4766. 10.1038/s41467-022-32281-5.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41467-022-32281-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9376583"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35970837"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Commun.&amp;title=Piperazine-derived lipid nanoparticles deliver mRNA to immune cells in vivo&amp;author=H. Ni&amp;author=M. Z. C. Hatit&amp;author=K. Zhao&amp;author=D. Loughrey&amp;author=M. P. Lokugamage&amp;volume=13&amp;issue=1&amp;publication_year=2022&amp;pages=4766&amp;pmid=35970837&amp;doi=10.1038/s41467-022-32281-5&amp;"/></mixed-citation></ref><ref id="ref33"><mixed-citation id="cit33"><named-content content-type="citation-string">Swingle K. L.; Safford H. C.; Geisler H. C.; Hamilton A. G.; Thatte A. S.; Billingsley M. M.; Joseph R. A.; Mrksich K.; Padilla M. S.; Ghalsasi A. A.; Alameh M. G.; Weissman D.; Mitchell M. J.
+Ionizable
+Lipid Nanoparticles for <italic>In Vivo</italic> mRNA Delivery to
+the Placenta during Pregnancy. J. Am. Chem.
+Soc.
+2023, 145 (8), 4691–4706. 10.1021/jacs.2c12893.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/jacs.2c12893"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9992266"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36789893"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Am. Chem. Soc.&amp;title=Ionizable Lipid Nanoparticles for In Vivo mRNA Delivery to the Placenta during Pregnancy&amp;author=K. L. Swingle&amp;author=H. C. Safford&amp;author=H. C. Geisler&amp;author=A. G. Hamilton&amp;author=A. S. Thatte&amp;volume=145&amp;issue=8&amp;publication_year=2023&amp;pages=4691-4706&amp;pmid=36789893&amp;doi=10.1021/jacs.2c12893&amp;"/></mixed-citation></ref><ref id="ref34"><mixed-citation id="cit34"><named-content content-type="citation-string">Naidu G. S.; Yong S. B.; Ramishetti S.; Rampado R.; Sharma P.; Ezra A.; Goldsmith M.; Hazan-Halevy I.; Chatterjee S.; Aitha A.; Peer D.
+A Combinatorial Library
+of Lipid Nanoparticles for Cell Type-Specific mRNA Delivery. Adv. Sci.
+2023, 10 (19), e2301929 10.1002/advs.202301929.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/advs.202301929"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10323619"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37092557"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adv. Sci.&amp;title=A Combinatorial Library of Lipid Nanoparticles for Cell Type-Specific mRNA Delivery&amp;author=G. S. Naidu&amp;author=S. B. Yong&amp;author=S. Ramishetti&amp;author=R. Rampado&amp;author=P. Sharma&amp;volume=10&amp;issue=19&amp;publication_year=2023&amp;pages=e2301929&amp;pmid=37092557&amp;doi=10.1002/advs.202301929&amp;"/></mixed-citation></ref><ref id="ref35"><mixed-citation id="cit35"><named-content content-type="citation-string">Chen J.; Ye Z.; Huang C.; Qiu M.; Song D.; Li Y.; Xu Q.
+Lipid nanoparticle-mediated lymph node-targeting delivery of mRNA
+cancer vaccine elicits robust CD8+ T cell response. Proc. Natl. Acad. Sci. U.S.A.
+2022, 119 (34), e2207841119 10.1073/pnas.2207841119.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1073/pnas.2207841119"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9407666"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35969778"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Proc. Natl. Acad. Sci. U.S.A.&amp;title=Lipid nanoparticle-mediated lymph node-targeting delivery of mRNA cancer vaccine elicits robust CD8+ T cell response&amp;author=J. Chen&amp;author=Z. Ye&amp;author=C. Huang&amp;author=M. Qiu&amp;author=D. Song&amp;volume=119&amp;issue=34&amp;publication_year=2022&amp;pages=e2207841119&amp;pmid=35969778&amp;doi=10.1073/pnas.2207841119&amp;"/></mixed-citation></ref><ref id="ref36"><mixed-citation id="cit36"><named-content content-type="citation-string">He Z.; Le Z.; Shi Y.; Liu L.; Liu Z.; Chen Y.
+A Multidimensional
+Approach to Modulating Ionizable Lipids for High-Performing and Organ-Selective
+mRNA Delivery. Angew. Chem., Int. Ed. Engl.
+2023, 62 (43), e202310401 10.1002/anie.202310401.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/anie.202310401"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37661193"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Angew. Chem., Int. Ed. Engl.&amp;title=A Multidimensional Approach to Modulating Ionizable Lipids for High-Performing and Organ-Selective mRNA Delivery&amp;author=Z. He&amp;author=Z. Le&amp;author=Y. Shi&amp;author=L. Liu&amp;author=Z. Liu&amp;volume=62&amp;issue=43&amp;publication_year=2023&amp;pages=e202310401&amp;pmid=37661193&amp;doi=10.1002/anie.202310401&amp;"/></mixed-citation></ref><ref id="ref37"><mixed-citation id="cit37"><named-content content-type="citation-string">Dong W.; Li Z.; Hou T.; Shen Y.; Guo Z.; Su Y. T.; Chen Z.; Pan H.; Jiang W.; Wang Y.
+Multicomponent
+Synthesis of Imidazole-Based Ionizable Lipids for Highly Efficient
+and Spleen-Selective Messenger RNA Delivery. J. Am. Chem. Soc.
+2024, 146 (22), 15085–15095. 10.1021/jacs.4c00451.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/jacs.4c00451"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38776232"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Am. Chem. Soc.&amp;title=Multicomponent Synthesis of Imidazole-Based Ionizable Lipids for Highly Efficient and Spleen-Selective Messenger RNA Delivery&amp;author=W. Dong&amp;author=Z. Li&amp;author=T. Hou&amp;author=Y. Shen&amp;author=Z. Guo&amp;volume=146&amp;issue=22&amp;publication_year=2024&amp;pages=15085-15095&amp;pmid=38776232&amp;doi=10.1021/jacs.4c00451&amp;"/></mixed-citation></ref><ref id="ref38"><mixed-citation id="cit38"><named-content content-type="citation-string">Qiu M.; Tang Y.; Chen J.; Muriph R.; Ye Z.; Huang C.; Evans J.; Henske E. P.; Xu Q.
+Lung-selective
+mRNA delivery of synthetic lipid nanoparticles for the treatment of
+pulmonary lymphangioleiomyomatosis. Proc. Natl.
+Acad. Sci. U.S.A.
+2022, 119 (8), e2116271119 10.1073/pnas.2116271119.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1073/pnas.2116271119"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8872770"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35173043"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Proc. Natl. Acad. Sci. U.S.A.&amp;title=Lung-selective mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis&amp;author=M. Qiu&amp;author=Y. Tang&amp;author=J. Chen&amp;author=R. Muriph&amp;author=Z. Ye&amp;volume=119&amp;issue=8&amp;publication_year=2022&amp;pages=e2116271119&amp;pmid=35173043&amp;doi=10.1073/pnas.2116271119&amp;"/></mixed-citation></ref><ref id="ref39"><mixed-citation id="cit39"><named-content content-type="citation-string">Tilstra G.; Couture-Senécal J.; Lau Y. M. A.; Manning A. M.; Wong D. S. M.; Janaeska W. W.; Wuraola T. A.; Pang J.; Khan O. F.
+Iterative Design of Ionizable Lipids for Intramuscular
+mRNA Delivery. J. Am. Chem. Soc.
+2023, 145 (4), 2294–2304. 10.1021/jacs.2c10670.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/jacs.2c10670"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36652629"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Am. Chem. Soc.&amp;title=Iterative Design of Ionizable Lipids for Intramuscular mRNA Delivery&amp;author=G. Tilstra&amp;author=J. Couture-Senécal&amp;author=Y. M. A. Lau&amp;author=A. M. Manning&amp;author=D. S. M. Wong&amp;volume=145&amp;issue=4&amp;publication_year=2023&amp;pages=2294-2304&amp;pmid=36652629&amp;doi=10.1021/jacs.2c10670&amp;"/></mixed-citation></ref><ref id="ref40"><mixed-citation id="cit40"><named-content content-type="citation-string">Miao L.; Lin J.; Huang Y.; Li L.; Delcassian D.; Ge Y.; Shi Y.; Anderson D. G.
+Synergistic
+lipid compositions for
+albumin receptor mediated delivery of mRNA to the liver. Nat. Commun.
+2020, 11 (1), 2424. 10.1038/s41467-020-16248-y.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41467-020-16248-y"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7229004"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32415122"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Commun.&amp;title=Synergistic lipid compositions for albumin receptor mediated delivery of mRNA to the liver&amp;author=L. Miao&amp;author=J. Lin&amp;author=Y. Huang&amp;author=L. Li&amp;author=D. Delcassian&amp;volume=11&amp;issue=1&amp;publication_year=2020&amp;pages=2424&amp;pmid=32415122&amp;doi=10.1038/s41467-020-16248-y&amp;"/></mixed-citation></ref><ref id="ref41"><mixed-citation id="cit41"><named-content content-type="citation-string">Ramishetti S.; Hazan-Halevy I.; Palakuri R.; Chatterjee S.; Naidu Gonna S.; Dammes N.; Freilich I.; Kolik Shmuel L.; Danino D.; Peer D.
+A Combinatorial Library of Lipid
+Nanoparticles for RNA Delivery to Leukocytes. Adv. Mater.
+2020, 32 (12), e1906128 10.1002/adma.201906128.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/adma.201906128"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31999380"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adv. Mater.&amp;title=A Combinatorial Library of Lipid Nanoparticles for RNA Delivery to Leukocytes&amp;author=S. Ramishetti&amp;author=I. Hazan-Halevy&amp;author=R. Palakuri&amp;author=S. Chatterjee&amp;author=S. Naidu Gonna&amp;volume=32&amp;issue=12&amp;publication_year=2020&amp;pages=e1906128&amp;pmid=31999380&amp;doi=10.1002/adma.201906128&amp;"/></mixed-citation></ref><ref id="ref42"><mixed-citation id="cit42"><named-content content-type="citation-string">Tarab-Ravski D.; Hazan-Halevy I.; Goldsmith M.; Stotsky-Oterin L.; Breier D.; Naidu G. S.; Aitha A.; Diesendruck Y.; Ng B. D.; Barsheshet H.; Berger T.; Vaxman I.; Raanani P.; Peer D.
+Delivery of Therapeutic RNA to the
+Bone Marrow in Multiple Myeloma Using CD38-Targeted Lipid Nanoparticles. Adv. Sci.
+2023, 10 (21), e2301377 10.1002/advs.202301377.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/advs.202301377"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10375190"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37171801"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adv. Sci.&amp;title=Delivery of Therapeutic RNA to the Bone Marrow in Multiple Myeloma Using CD38-Targeted Lipid Nanoparticles&amp;author=D. Tarab-Ravski&amp;author=I. Hazan-Halevy&amp;author=M. Goldsmith&amp;author=L. Stotsky-Oterin&amp;author=D. Breier&amp;volume=10&amp;issue=21&amp;publication_year=2023&amp;pages=e2301377&amp;pmid=37171801&amp;doi=10.1002/advs.202301377&amp;"/></mixed-citation></ref><ref id="ref43"><mixed-citation id="cit43"><named-content content-type="citation-string">Chatterjee S.; Naidu G. S.; Hazan-Halevy I.; Grobe H.; Ezra A.; Sharma P.; Goldsmith M.; Ramishetti S.; Sprinzak D.; Zaidel-Bar R.; Peer D.
+Therapeutic gene silencing
+of CKAP5 leads to lethality in genetically unstable cancer cells. Sci. Adv.
+2023, 9 (14), eade4800 10.1126/sciadv.ade4800.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1126/sciadv.ade4800"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10075965"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37018392"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Adv.&amp;title=Therapeutic gene silencing of CKAP5 leads to lethality in genetically unstable cancer cells&amp;author=S. Chatterjee&amp;author=G. S. Naidu&amp;author=I. Hazan-Halevy&amp;author=H. Grobe&amp;author=A. Ezra&amp;volume=9&amp;issue=14&amp;publication_year=2023&amp;pages=eade4800&amp;pmid=37018392&amp;doi=10.1126/sciadv.ade4800&amp;"/></mixed-citation></ref><ref id="ref44"><mixed-citation id="cit44"><named-content content-type="citation-string">Yong S. B.; Ramishetti S.; Goldsmith M.; Diesendruck Y.; Hazan-Halevy I.; Chatterjee S.; Somu Naidu G.; Ezra A.; Peer D.
+Dual-Targeted Lipid Nanotherapeutic
+Boost for Chemo-Immunotherapy of Cancer. Adv.
+Mater.
+2022, 34 (13), e2106350 10.1002/adma.202106350.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/adma.202106350"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35044699"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adv. Mater.&amp;title=Dual-Targeted Lipid Nanotherapeutic Boost for Chemo-Immunotherapy of Cancer&amp;author=S. B. Yong&amp;author=S. Ramishetti&amp;author=M. Goldsmith&amp;author=Y. Diesendruck&amp;author=I. Hazan-Halevy&amp;volume=34&amp;issue=13&amp;publication_year=2022&amp;pages=e2106350&amp;pmid=35044699&amp;doi=10.1002/adma.202106350&amp;"/></mixed-citation></ref><ref id="ref45"><mixed-citation id="cit45"><named-content content-type="citation-string">Rosenblum D.; Gutkin A.; Kedmi R.; Ramishetti S.; Veiga N.; Jacobi A. M.; Schubert M. S.; Friedmann-Morvinski D.; Cohen Z. R.; Behlke M. A.; Lieberman J.; Peer D.
+CRISPR-Cas9 genome editing using targeted lipid nanoparticles for
+cancer therapy. Sci. Adv.
+2020, 6, eabc9450 10.1126/sciadv.abc9450.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1126/sciadv.abc9450"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7673804"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33208369"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Adv.&amp;title=CRISPR-Cas9 genome editing using targeted lipid nanoparticles for cancer therapy&amp;author=D. Rosenblum&amp;author=A. Gutkin&amp;author=R. Kedmi&amp;author=S. Ramishetti&amp;author=N. Veiga&amp;volume=6&amp;publication_year=2020&amp;pages=eabc9450&amp;pmid=33208369&amp;doi=10.1126/sciadv.abc9450&amp;"/></mixed-citation></ref><ref id="ref46"><mixed-citation id="cit46"><named-content content-type="citation-string">Elia U.; Ramishetti S.; Rosenfeld R.; Dammes N.; Bar-Haim E.; Naidu G. S.; Makdasi E.; Yahalom-Ronen Y.; Tamir H.; Paran N.; Cohen O.; Peer D.
+Design of
+SARS-CoV-2 hFc-Conjugated Receptor-Binding Domain mRNA Vaccine Delivered
+via Lipid Nanoparticles. ACS Nano
+2021, 15 (6), 9627–9637. 10.1021/acsnano.0c10180.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acsnano.0c10180"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33480671"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=ACS Nano&amp;title=Design of SARS-CoV-2 hFc-Conjugated Receptor-Binding Domain mRNA Vaccine Delivered via Lipid Nanoparticles&amp;author=U. Elia&amp;author=S. Ramishetti&amp;author=R. Rosenfeld&amp;author=N. Dammes&amp;author=E. Bar-Haim&amp;volume=15&amp;issue=6&amp;publication_year=2021&amp;pages=9627-9637&amp;pmid=33480671&amp;doi=10.1021/acsnano.0c10180&amp;"/></mixed-citation></ref><ref id="ref47"><mixed-citation id="cit47"><named-content content-type="citation-string">Elia U.; Rotem S.; Bar-Haim E.; Ramishetti S.; Naidu G. S.; Gur D.; Aftalion M.; Israeli M.; Bercovich-Kinori A.; Alcalay R.; Makdasi E.; Chitlaru T.; Rosenfeld R.; Israely T.; Melamed S.; Abutbul
+Ionita I.; Danino D.; Peer D.; Cohen O.
+Lipid Nanoparticle
+RBD-hFc mRNA Vaccine Protects hACE2 Transgenic Mice against a Lethal
+SARS-CoV-2 Infection. Nano Lett.
+2021, 21 (11), 4774–4779. 10.1021/acs.nanolett.1c01284.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.nanolett.1c01284"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34032435"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nano Lett.&amp;title=Lipid Nanoparticle RBD-hFc mRNA Vaccine Protects hACE2 Transgenic Mice against a Lethal SARS-CoV-2 Infection&amp;author=U. Elia&amp;author=S. Rotem&amp;author=E. Bar-Haim&amp;author=S. Ramishetti&amp;author=G. S. Naidu&amp;volume=21&amp;issue=11&amp;publication_year=2021&amp;pages=4774-4779&amp;pmid=34032435&amp;doi=10.1021/acs.nanolett.1c01284&amp;"/></mixed-citation></ref><ref id="ref48"><mixed-citation id="cit48"><named-content content-type="citation-string">Kon E.; Levy Y.; Elia U.; Cohen H.; Hazan-Halevy I.; Aftalion M.; Ezra A.; Bar-Haim E.; Naidu G. S.; Diesendruck Y.; Rotem S.; Ad-El N.; Goldsmith M.; Mamroud E.; Peer D.; Cohen O.
+A single-dose F1-based
+mRNA-LNP vaccine provides protection against the lethal plague bacterium. Sci. Adv.
+2023, 9 (10), eadg1036 10.1126/sciadv.adg1036.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1126/sciadv.adg1036"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9995031"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36888708"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Adv.&amp;title=A single-dose F1-based mRNA-LNP vaccine provides protection against the lethal plague bacterium&amp;author=E. Kon&amp;author=Y. Levy&amp;author=U. Elia&amp;author=H. Cohen&amp;author=I. Hazan-Halevy&amp;volume=9&amp;issue=10&amp;publication_year=2023&amp;pages=eadg1036&amp;pmid=36888708&amp;doi=10.1126/sciadv.adg1036&amp;"/></mixed-citation></ref><ref id="ref49"><mixed-citation id="cit49"><named-content content-type="citation-string">Patel P.; Ibrahim N. M.; Cheng K.
+The Importance of Apparent pK<sub>a</sub> in the Development of Nanoparticles Encapsulating siRNA and
+mRNA. Trends Pharmacol. Sci.
+2021, 42 (6), 448–460. 10.1016/j.tips.2021.03.002.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tips.2021.03.002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8148296"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33875229"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Trends Pharmacol. Sci.&amp;title=The Importance of Apparent pKa in the Development of Nanoparticles Encapsulating siRNA and mRNA&amp;author=P. Patel&amp;author=N. M. Ibrahim&amp;author=K. Cheng&amp;volume=42&amp;issue=6&amp;publication_year=2021&amp;pages=448-460&amp;pmid=33875229&amp;doi=10.1016/j.tips.2021.03.002&amp;"/></mixed-citation></ref><ref id="ref51"><mixed-citation id="cit51"><named-content content-type="citation-string">Kauffman K. J.; Oberli M. A.; Dorkin J. R.; Hurtado J. E.; Kaczmarek J. C.; Bhadani S.; Wyckoff J.; Langer R.; Jaklenec A.; Anderson D. G.
+Rapid, Single-Cell
+Analysis and Discovery of Vectored
+mRNA Transfection <italic>In Vivo</italic> with a loxP-Flanked tdTomato
+Reporter Mouse. Mol. Ther Nucleic Acids
+2018, 10, 55–63. 10.1016/j.omtn.2017.11.005.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.omtn.2017.11.005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5734870"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29499956"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Ther Nucleic Acids&amp;title=Rapid, Single-Cell Analysis and Discovery of Vectored mRNA Transfection In Vivo with a loxP-Flanked tdTomato Reporter Mouse&amp;author=K. J. Kauffman&amp;author=M. A. Oberli&amp;author=J. R. Dorkin&amp;author=J. E. Hurtado&amp;author=J. C. Kaczmarek&amp;volume=10&amp;publication_year=2018&amp;pages=55-63&amp;pmid=29499956&amp;doi=10.1016/j.omtn.2017.11.005&amp;"/></mixed-citation></ref><ref id="ref52"><mixed-citation id="cit52"><named-content content-type="citation-string">Dilliard S. A.; Cheng Q.; Siegwart D. J.
+On the
+mechanism of tissue-specific
+mRNA delivery by selective organ targeting nanoparticles. Proc. Natl. Acad. Sci. U.S.A.
+2021, 118 (52), e2109256118 10.1073/pnas.2109256118.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1073/pnas.2109256118"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8719871"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34933999"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Proc. Natl. Acad. Sci. U.S.A.&amp;title=On the mechanism of tissue-specific mRNA delivery by selective organ targeting nanoparticles&amp;author=S. A. Dilliard&amp;author=Q. Cheng&amp;author=D. J. Siegwart&amp;volume=118&amp;issue=52&amp;publication_year=2021&amp;pages=e2109256118&amp;pmid=34933999&amp;doi=10.1073/pnas.2109256118&amp;"/></mixed-citation></ref><ref id="ref53"><mixed-citation id="cit53"><named-content content-type="citation-string">Granot-Matok Y.; Ezra A.; Ramishetti S.; Sharma P.; Naidu G. S.; Benhar I.; Peer D.
+Lipid nanoparticles-loaded
+with toxin
+mRNA represents a new strategy for the treatment of solid tumors. Theranostics
+2023, 13 (11), 3497–3508. 10.7150/thno.82228.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.7150/thno.82228"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10334842"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37441597"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Theranostics&amp;title=Lipid nanoparticles-loaded with toxin mRNA represents a new strategy for the treatment of solid tumors&amp;author=Y. Granot-Matok&amp;author=A. Ezra&amp;author=S. Ramishetti&amp;author=P. Sharma&amp;author=G. S. Naidu&amp;volume=13&amp;issue=11&amp;publication_year=2023&amp;pages=3497-3508&amp;pmid=37441597&amp;doi=10.7150/thno.82228&amp;"/></mixed-citation></ref><ref id="ref54"><mixed-citation id="cit54"><named-content content-type="citation-string">Peer D.; Margalit R.
+Tumor-targeted hyaluronan nanoliposomes increase the
+antitumor activity of liposomal Doxorubicin in syngeneic and human
+xenograft mouse tumor models. Neoplasia
+2004, 6 (4), 343–353. 10.1593/neo.03460.
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1593/neo.03460"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1502115"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15256056"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Neoplasia&amp;title=Tumor-targeted hyaluronan nanoliposomes increase the antitumor activity of liposomal Doxorubicin in syngeneic and human xenograft mouse tumor models&amp;author=D. Peer&amp;author=R. Margalit&amp;volume=6&amp;issue=4&amp;publication_year=2004&amp;pages=343-353&amp;pmid=15256056&amp;doi=10.1593/neo.03460&amp;"/></mixed-citation></ref></ref-list></sec></sec><sec id="_ad93_" xml:lang="en" sec-type="associated-data" disp-level="1"><title>Associated Data</title><sec id="_adsm93_" xml:lang="en" sec-type="supplementary-materials" disp-level="2"><title>Supplementary Materials</title><supplementary-material id="db_ds_supplementary-material1_reqid_" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c18636_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path b91a/11841047/8ce122daa65c/nn4c18636_si_001.pdf?><?cloudpmc-bucket app?><?size 2707916?><caption><p>nn4c18636_si_001.pdf</p></caption></media></supplementary-material></sec></sec></body></article>
