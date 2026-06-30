@@ -1,0 +1,1871 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="advs12367" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="pmc-domain-id">2933</journal-id><journal-id journal-id-type="pmc-domain">advsci</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12199344</article-id><article-id pub-id-type="pmcid-ver">PMC12199344.1</article-id><article-id pub-id-type="pmcaid">12199344</article-id><article-id pub-id-type="pmcaiid">12199344</article-id><article-id pub-id-type="pmid">40364590</article-id><article-id pub-id-type="doi">10.1002/advs.202500362</article-id><article-id pub-id-type="publisher-id">ADVS12367</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Pia Mater‐Penetrable Lipopolymer Nanoparticles for Gliocyte‐Targeted IL‐10 mRNA Therapy Alleviate Paclitaxel‐Induced Peripheral Neuropathy</article-title></title-group><contrib-group><contrib id="advs12367-cr-0001" contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="X">Xinrou</given-names></name><xref rid="advs12367-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs12367-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs12367-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs12367-cr-0002" contrib-type="author"><name name-style="western"><surname>Wei</surname><given-names initials="L">Lingyu</given-names></name><xref rid="advs12367-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs12367-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs12367-cr-0003" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="X">Xiangpen</given-names></name><xref rid="advs12367-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs12367-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="advs12367-cr-0004" contrib-type="author"><name name-style="western"><surname>Zeng</surname><given-names initials="L">Ling</given-names></name><xref rid="advs12367-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs12367-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs12367-cr-0005" contrib-type="author"><name name-style="western"><surname>Tang</surname><given-names initials="Y">Yingsen</given-names></name><xref rid="advs12367-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs12367-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs12367-cr-0006" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="H">Hongjin</given-names></name><xref rid="advs12367-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="advs12367-cr-0007" contrib-type="author"><name name-style="western"><surname>Lu</surname><given-names initials="H">Hengjian</given-names></name><xref rid="advs12367-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs12367-cr-0008" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="C">Chenguang</given-names></name><xref rid="advs12367-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs12367-cr-0009" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="H">Hongxuan</given-names></name><xref rid="advs12367-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs12367-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>Chen</surname><given-names initials="J">Jinjin</given-names></name><xref rid="advs12367-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs12367-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs12367-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>chenjj365@mail.sysu.edu.cn</email></address></contrib><contrib id="advs12367-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Peng</surname><given-names initials="Y">Ying</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4924-1430</contrib-id><xref rid="advs12367-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs12367-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs12367-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>pengy2@mail.sysu.edu.cn</email></address></contrib></contrib-group><aff id="advs12367-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<named-content content-type="organisation-division">Sun Yat‐Sen Memorial Hospital</named-content>
+<institution>Sun Yat‐Sen University</institution>
+<city>Guangzhou</city>
+<postal-code>510000</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs12367-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Nanhai Translational Innovation Center of Precision Immunology</named-content>
+<institution>Sun Yat‐Sen Memorial Hospital</institution>
+<city>Foshan</city>
+<postal-code>528200</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs12367-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Anesthesiology</named-content>
+<named-content content-type="organisation-division">Sun Yat‐Sen Memorial Hospital</named-content>
+<institution>Sun Yat‐Sen University</institution>
+<city>Guangzhou</city>
+<postal-code>510000</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs12367-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation</named-content>
+<named-content content-type="organisation-division">Sun Yat‐Sen Memorial Hospital</named-content>
+<institution>Sun Yat‐Sen University</institution>
+<city>Guangzhou</city>
+<postal-code>510000</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs12367-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Shenshan Medical Center</named-content>
+<named-content content-type="organisation-division">Sun Yat‐Sen Memorial Hospital</named-content>
+<institution>Sun Yat‐Sen University</institution>
+<city>Shanwei</city>
+<postal-code>516600</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs12367-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Urology</named-content>
+<named-content content-type="organisation-division">Sun Yat‐Sen Memorial Hospital</named-content>
+<institution>Sun Yat‐Sen University</institution>
+<city>Guangzhou</city>
+<postal-code>510000</postal-code>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E‐mail: <email>chenjj365@mail.sysu.edu.cn</email>; <email>pengy2@mail.sysu.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2025</year></pub-date><volume>12</volume><issue seq="730">23</issue><issue-id pub-id-type="pmc-issue-id">491502</issue-id><issue-id pub-id-type="doi">10.1002/advs.v12.23</issue-id><elocation-id>2500362</elocation-id><history>
+<date date-type="rev-recd"><day>16</day><month>4</month><year>2025</year></date>
+<date date-type="received"><day>07</day><month>1</month><year>2025</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>13</day><month>05</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>27</day><month>06</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-06-28 00:25:18.720"><day>28</day><month>06</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). Advanced Science published by Wiley‐VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ADVS-12-2500362.pdf"><?pdf-name ADVS-12-2500362.pdf?><?pdf-size 15390120?><?pdf-md5 d39d39faf3381fcae7d683b46cb48c98?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:ad07/12199344/d39d39faf338/ADVS-12-2500362.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ADVS-12-2500362.pdf"/><abstract><title>Abstract</title><p>Paclitaxel (PTX) is a commonly used chemotherapeutic agent for treating various solid tumors; however, it often leads to a severe side effect known as paclitaxel‐induced peripheral neuropathy (PIPN), for which effective treatments are limited. Although mRNA therapies have shown promise in addressing central nervous system (CNS) disorders, the successful delivery of mRNA therapeutics to the nervous system is still hindered by many biological barriers. In this study, it is demonstrated that, compared with commercial MC3 lipid nanoparticles (MC3 LNPs), mRNA‐loaded P6CIT‐derived lipopolymer nanoparticles (P6CIT LPNPs), which are delivered via intrathecal injection, achieve effective penetration through the pia mater. More importantly, this P6CIT LPNP demonstrates the ability to achieve highly targeted mRNA transfection in gliocytes within the spinal cord and dorsal root ganglia (DRG), which is essential for the regulation of neuroinflammation. Furthermore, two intrathecal injections of P6CIT LPNPs encapsulating mIL‐10 (P6CIT/mIL‐10) significantly alleviate PIPN by reducing proinflammatory cytokine production, gliocyte activation, and presynaptic NMDA receptor hyperactivity in both male and female mice. This study presents a promising and clinically translatable platform for using mRNA‐loaded LPNPs to treat PIPN.</p></abstract><abstract id="advs12367-abs-0001" abstract-type="graphical"><p>The P6CIT lipopolymer demonstrates superior transfection efficacy in the spinal cord and DRG, as well as enhanced penetration of the pia mater compared to the MC3 ionizable lipid. Intrathecal delivery of P6CIT LPNPs enables effective transfection in the gliocytes in the spinal cord and DRG. Notably, intrathecal administration of P6CIT/mIL‐10 significantly alleviates allodynia in paclitaxel‐induced peripheral neuropathy mice.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ADVS-12-2500362-g005.jpg"><?image-name ADVS-12-2500362-g005.jpg?><?image-size 17043?><?image-md5 686132c5a217b26d441b855e17797764?><?image-image-server-status NEVER_LOAD?><?image-original-height 144?><?image-original-width 180?><?image-scaled-height 144?><?image-scaled-width 180?><?image-cloudpmc-urn urn:cdn:blobs/ad07/12199344/686132c5a217/ADVS-12-2500362-g005.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs12367-kwd-0001">dorsal root ganglion</kwd><kwd id="advs12367-kwd-0002">IL‐10</kwd><kwd id="advs12367-kwd-0003">lipopolymer nanoparticle</kwd><kwd id="advs12367-kwd-0004">mRNA</kwd><kwd id="advs12367-kwd-0005">paclitaxel‐induced peripheral neuropathy</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>China and Germany Collaboration &amp; Exchange Project</funding-source><award-id>M‐0746</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Natural Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>52473328</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>National Key R&amp;D Program of China
+</institution><institution-id institution-id-type="doi">10.13039/501100012166</institution-id></institution-wrap></funding-source><award-id>2018YFC1314400</award-id><award-id>2018 YFC13144‐01</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="13"/><word-count count="8615"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 20, 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.7 mode:remove_FC converted:20.06.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs12367-cit-0056">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Peng</surname>
+</string-name>, <article-title>Pia Mater‐Penetrable Lipopolymer Nanoparticles for Gliocyte‐Targeted IL‐10 mRNA Therapy Alleviate Paclitaxel‐Induced Peripheral Neuropathy</article-title>. <source>Adv. Sci.</source>
+<year>2025</year>, <volume>12</volume>, <elocation-id>2500362</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202500362</pub-id>
+<pub-id pub-id-type="pmcid">PMC12199344</pub-id><pub-id pub-id-type="pmid">40364590</pub-id></mixed-citation>
+</p></notes></front><body><sec id="advs12367-sec-0010"><label>1</label><title>Introduction</title><p>Paclitaxel (PTX) is one of the most widely used chemotherapeutic agents for treating various solid tumors.<sup>[</sup>
+<xref rid="advs12367-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> However, approximately 40–60% of patients undergoing PTX treatment develop PTX‐induced peripheral neuropathy (PIPN), for which efficient therapies remain limited.<sup>[</sup>
+<xref rid="advs12367-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>]</sup> The mechanism of PIPN primarily involves the activation of gliocytes in the spinal cord and dorsal root ganglia (DRG), which triggers the onset of neuroinflammation.<sup>[</sup>
+<xref rid="advs12367-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> Additionally, elevated presynaptic N‐Methyl‐D‐aspartate receptor (NMDAR) activity in primary sensory neurons within the DRG enhances glutamate release to neurons in the superficial dorsal horn (SDH), thereby amplifying pain signaling in PIPN.<sup>[</sup>
+<xref rid="advs12367-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> Previous studies have identified intrathecal delivery of recombinant IL‐10 protein or adeno‐associated virus encapsulated IL‐10 DNA as a promising therapeutic for resolving PIPN.<sup>[</sup>
+<xref rid="advs12367-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>]</sup> Compared with DNA and direct protein delivery, mRNA therapeutics offer several advantages, including no risk of insertional mutagenesis, the facilitation of transient protein expression, and the allowance for natural posttranslational modifications.<sup>[</sup>
+<xref rid="advs12367-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> Lipid nanoparticles (LNPs) have emerged as crucial non‐viral delivery platforms for mRNA therapeutics in vivo to enhance mRNA stability and intracellular delivery.<sup>[</sup>
+<xref rid="advs12367-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup> However, current LNPs for intrathecal IL‐10 mRNA therapy in PIPN still face challenges of crossing multiple biological barriers.<sup>[</sup>
+<xref rid="advs12367-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup>
+</p><p>Similar to the well‐known blood‐brain barrier (BBB) for intravenous drug delivery, the cerebrospinal fluid (CSF)‐brain/spinal cord barrier also exists for intrathecal drug delivery.<sup>[</sup>
+<xref rid="advs12367-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> The CSF, which is a clear, watery liquid that circulates within the space between the arachnoid layer and the pia mater, surrounds and protects the brain and spinal cord.<sup>[</sup>
+<xref rid="advs12367-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> The pia mater consists of a thin layer of pial cells, and the subpial tissues are rich in collagen fibers.<sup>[</sup>
+<xref rid="advs12367-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> Drugs delivered via intrathecal injection must pass through these structures to reach the spinal cord and DRG. Previous studies have shown that large molecules or particles preferentially circulate within the spinal leptomeninges but exhibit limited entry into the underlying parenchyma.<sup>[</sup>
+<xref rid="advs12367-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs12367-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> LNPs used for mRNA delivery usually have larger size than biomolecules, making it challenging for LNPs that are administered via intrathecal injection to effectively cross this barrier.</p><p>In this study, we developed lipopolymer nanoparticles (LPNPs) encapsulating IL‐10 mRNA with high pia mater permeability and gliocyte targetability to treat PIPN (<bold>Figure</bold> <xref rid="advs12367-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>). First, the branched polyethyleneimine (PEI)‐derived lipopolymer P6CIT was synthesized and formulated into LPNPs, which showed smaller size and increased zeta potential compared with commercial MC3 LNPs. Second, P6CIT LPNPs were demonstrated to exhibit superior mRNA transfection efficacy, CSF stability, and pia mater barrier permeability compared to MC3 LNPs. More importantly, the intrathecal delivery of P6CIT LPNPs majorly expressed in gliocytes including astrocytes and microglia, which is essential for modulating neuroinflammation. Finally, P6CIT LPNPs encapsulating IL‐10 mRNA (P6CIT/mIL‐10), significantly alleviated pain in both female and male PIPN mice. Treatment with P6CIT/mIL‐10 dramatically reduced the paclitaxel‐induced upregulation of IL‐1β, TNFα, GFAP, and IBA1 expression and mitigated presynaptic NMDAR hyperactivity in the lumbar spinal cord and DRG. These findings suggest that LPNPs represent promising platforms for mRNA delivery in spinal cord and DRG‐related disorders, with P6CIT/mIL‐10 potentially serving as an effective therapeutic strategy for PIPN.</p><fig position="float" fig-type="Figure" id="advs12367-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Schematic illustration of the intrathecal delivery of IL‐10 mRNA encapsulated in LPNPs for the treatment of paclitaxel‐induced peripheral neuropathy. The P6CIT lipopolymer demonstrates higher transfection efficacy in the spinal cord and DRG, as well as enhanced penetration of the pia mater and subpial tissues compared to the MC3 ionizable lipid. Intrathecal delivery of P6CIT LPNPs enables successful transfection in the gliocytes in the spinal cord and DRG. P6CIT/mIL‐10 is synthesized and intrathecally injected into mice for the treatment of PIPN. The secreted IL‐10 ameliorates glial cell activation and presynaptic NMDAR hyperactivity, leading to the alleviation of allodynia in PIPN mice.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ADVS-12-2500362-g001.jpg"><?image-name ADVS-12-2500362-g001.jpg?><?image-size 109007?><?image-md5 d8634f4d8ec837173867e694659e5c04?><?image-image-server-status NEVER_LOAD?><?image-original-height 345?><?image-original-width 800?><?image-scaled-height 345?><?image-scaled-width 800?><?image-cloudpmc-urn urn:cdn:blobs/ad07/12199344/d8634f4d8ec8/ADVS-12-2500362-g001.jpg?><?thumb-name ADVS-12-2500362-g001.gif?><?thumb-size 10742?><?thumb-md5 c2e52e49be668b26b5dda234b69fc6e0?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 185?><?thumb-cloudpmc-urn urn:cdn:blobs/ad07/12199344/c2e52e49be66/ADVS-12-2500362-g001.gif?></graphic></fig></sec><sec id="advs12367-sec-0020"><label>2</label><title>Results</title><sec id="advs12367-sec-0030"><label>2.1</label><title>P6CIT LPNPs Enhanced mRNA Transfection and Penetration Compared with MC3 LNPs In Vitro</title><p>P6CIT LPNPs were synthesized and formulated for optimal mRNA delivery to the spinal cord and DRG via intrathecal injection. The mass ratio of P6CIT, cholesterol, DSPC and PEG‐DMG2000 was 16:12:8:4 (<bold>Figure</bold> <xref rid="advs12367-fig-0002" ref-type="fig">
+<bold>2</bold>A</xref>). For comparison, commercial ionizable MC3 LNPs (8.5:2.1:4:1) were also used for mRNA encapsulation. The mass ratio of the ionizable lipids to the mRNA was 10: 1.</p><fig position="float" fig-type="Figure" id="advs12367-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Cellular uptake, transfection efficacy, and CSF‐spinal cord barrier penetration of the mRNA‐loaded MC3 and P6CIT LPNPs in vitro. A) Structure of the P6CIT lipopolymer and synthesis of P6CIT LPNPs. B,C) Cellular uptake of P6CIT/DID in comparison with the uptakes of MC3/DID and free DID was determined using FACS analysis in B) MA and BV2 cells, and quantitative analysis of C) the mean fluorescence intensity (MFI). <italic toggle="yes">n</italic> = 3. D) Representative fluorescence images of MA cells transfected with EGFP mRNA‐loaded LPNPs. Scale bar = 100 µm. E) Quantitative analysis of EGFP expression in MA and BV2 cells transfected with EGFP mRNA‐loaded LPNPs observed via fluorescence microscopy. <italic toggle="yes">n</italic> = 8–10 random fields. F) Quantitative analysis of luciferase activity in MA and BV2 cells transfected with luciferase mRNA‐loaded LPNPs. <italic toggle="yes">n</italic> = 3. G) Schematic of primary meningeal cells seeded in the upper chamber, and incubated with P6CIT/DID or MC3/DID in the transwell assay. H) IVIS imaging showing DID fluorescence in the lower chambers. <italic toggle="yes">n</italic> = 3. I) Relative DID MFI in the lower chambers measured using a microplate reader. <italic toggle="yes">n</italic> = 3. J) Schematic of primary meningeal cells seeded in the upper chamber, and incubated with P6CIT/mEGFP and MC3/mEGFP in the transwell assay. K) Representative fluorescence images of MA cells seeded in the lower chambers. Scale bar = 20 µm. L) Schematic illustrating the Matrigel coating in the upper chamber, with incubation of P6CIT/DID and MC3/DID in the transwell assay. M) DID MFI in the lower chambers at predefined time points. <italic toggle="yes">n</italic> = 3. N) Schematic of Matrigel coating in the upper chamber, with incubation of P6CIT/DID and MC3/DID along with MA cells seeded in the lower chambers in the transwell assay. O,P) Cellular uptake of P6CIT/DID in comparison with MC3/DID in MA cells, analyzed using O) FACS, and P) quantitative analysis of MFI. <italic toggle="yes">n</italic> = 3. Statistical analysis was performed using one‐way ANOVA in (C, E, F, I, and P). The data are expressed as the mean ± SEM; *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001; ns, nonsignificant.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ADVS-12-2500362-g008.jpg"><?image-name ADVS-12-2500362-g008.jpg?><?image-size 222600?><?image-md5 c2d2b0459a858bb99902741cf46f9a94?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 862?><?image-original-width 800?><?image-scaled-height 862?><?image-scaled-width 800?><?image-cloudpmc-urn urn:cdn:blobs/ad07/12199344/c2d2b0459a85/ADVS-12-2500362-g008.jpg?><?thumb-name ADVS-12-2500362-g008.gif?><?thumb-size 9352?><?thumb-md5 927f7474ee43eb0ffbac70462b5c01b9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 108?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ad07/12199344/927f7474ee43/ADVS-12-2500362-g008.gif?></graphic></fig><p>Given that astrocytes and microglia modulate the inflammatory state in the CNS, we transfected DID‐labeled nanoparticles into the astrocytic cell line MA and the microglial cell line BV2 to evaluate their cellular uptake abilities. FACS analysis revealed that both MA and BV2 cells exhibited higher uptake of DID‐labeled nanoparticles compared to free DID, suggesting that LPNPs facilitate the cellular internalization of cargos (Figure <xref rid="advs12367-fig-0002" ref-type="fig">2B,C</xref>). Moreover, both MA and BV2 cells demonstrated increased uptake of DID‐labeled P6CIT LPNPs (P6CIT/DID) in comparison to DID‐labeled MC3 LNPs (MC3/DID).</p><p>mEGFP and mFLuc were used as models to assess the transfection efficacy of mRNAs encapsulated in P6CIT LPNPs and MC3 LNPs in vitro. Lipo3000 served as a positive control for in vitro transfection. Fluorescence images (Figure <xref rid="advs12367-fig-0002" ref-type="fig">2D</xref> and Figure <xref rid="advs12367-supinfo-0001" ref-type="">S1</xref>, Supporting Information) and statistical data (Figure <xref rid="advs12367-fig-0002" ref-type="fig">2E</xref>) revealed that P6CIT LPNPs demonstrated superior transfection performance of mEGFP compared to MC3 LNPs. In MA cells, P6CIT LPNPs showed lower gene expression of EGFP mRNA than Lipo3000, while in BV2 cells, the difference was not statistically significant (Figure <xref rid="advs12367-fig-0002" ref-type="fig">2D,E</xref> and Figure <xref rid="advs12367-supinfo-0001" ref-type="">S1</xref>, Supporting Information). For mFLuc‐loaded nanoparticles, P6CIT LPNPs achieved higher transfection efficacy than MC3 LNPs in both MA and BV2 cells, although the efficiency was lower than that of Lipo3000 (Figure <xref rid="advs12367-fig-0002" ref-type="fig">2F</xref>).</p><p>We then conducted transwell assays to investigate the penetration of LPNPs across the pia mater and subpial tissues in vitro. The upper chamber was seeded with primary meningeal cells to mimic the pia mater and the lower chamber was seeded with MA cells to mimic glia in the spinal cord (Figure <xref rid="advs12367-fig-0002" ref-type="fig">2G,J</xref>). First, P6CIT LPNPs were labeled with DID. As shown in Figure <xref rid="advs12367-fig-0002" ref-type="fig">2H,I</xref>, a higher fluorescence intensity of DID in the medium of the lower chamber was observed in the P6CIT/DID group compared to the MC3/DID group. Second, the mRNA transfection by P6CIT LPNPs was evaluated by the model EGFP mRNA. The fluorescence of EGFP in the MA cells seeded in the lower chamber was also higher in the P6CIT/mEGFP group compared to the MC3/mEGFP group (Figure <xref rid="advs12367-fig-0002" ref-type="fig">2K</xref>). Additionally, the bottom of the upper chamber was coated with Matrigel to simulate the collagens located within subpial tissues (Figure <xref rid="advs12367-fig-0002" ref-type="fig">2L,N</xref>). At each predefined time point, the DID MFI in the lower chamber was also higher in the P6CIT/DID group compared to the MC3/DID group, both with and without Matrigel coating in the upper chamber (Figure <xref rid="advs12367-fig-0002" ref-type="fig">2M</xref>). The fluorescence of DID in the MA cells seeded in the lower chamber was also higher in the P6CIT/DID group compared to the MC3/DID group, with or without Matrigel coating in the upper chamber (Figure <xref rid="advs12367-fig-0002" ref-type="fig">2P</xref>).</p></sec><sec id="advs12367-sec-0040"><label>2.2</label><title>P6CIT LPNPs Exhibited Pia Mater‐Penetrable and Glia‐Targeted mRNA Delivery In Vivo</title><p>To confirm the in vivo efficiency of P6CIT LPNPs, mFLuc was encapsulated into LPNPs and intrathecally injected into ICR mice. Six hours post‐injection, the mice received an intraperitoneal injection of D‐luciferin sodium, and bioluminescent signals were assessed using an IVIS system (<bold>Figure</bold> <xref rid="advs12367-fig-0003" ref-type="fig">
+<bold>3</bold>A</xref>). The mFLuc‐loaded P6CIT LPNPs (P6CIT/mFLuc) showed over two‐fold higher gene expression in comparison to mFLuc‐loaded MC3 LNPs (MC3/mFLuc) (Figure <xref rid="advs12367-fig-0003" ref-type="fig">3B,C</xref>). Given that the DRG and spinal dorsal horn (SDH) are key regions involved in nociception and the integration of pain signals, these regions were then excised (Figure <xref rid="advs12367-fig-0003" ref-type="fig">3D</xref>), and IVIS imaging confirmed mFLuc expression in both organs (Figure <xref rid="advs12367-fig-0003" ref-type="fig">3E,F</xref>).<sup>[</sup>
+<xref rid="advs12367-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> Higher bioluminescence signals were observed in the excised spinal cord and DRG tissues in the P6CIT/mFLuc group compared to the MC3/mFLuc group.</p><fig position="float" fig-type="Figure" id="advs12367-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Transfection efficiency in the spinal cord and DRG of ICR mice following the intrathecal injection of mFLuc‐loaded LPNPs. A) Schematic demonstrating LPNP screening in ICR mice via intrathecal injection. B) IVIS images showing luciferase expression in MC3 LPNP‐treated mice and P6CIT LPNP‐treated mice compared with that in untreated mice, C) as well as the corresponding statistical data. <italic toggle="yes">n</italic> = 3–4. D) Anatomical atlas of the spinal cord and DRG, and tissue collection procedure. E,F) IVIS images of E) excised spinal cord and F) DRG from ICR mice treated with MC3 LNPs or P6CIT LPNPs compared with those from untreated controls. Statistical analysis was performed using one‐way ANOVA in (C). The data are expressed as the mean ± SEM; *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001; ns, nonsignificant.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ADVS-12-2500362-g007.jpg"><?image-name ADVS-12-2500362-g007.jpg?><?image-size 107874?><?image-md5 d2c7c3259485b094d3f7acba202dad51?><?image-image-server-status NEVER_LOAD?><?image-original-height 410?><?image-original-width 800?><?image-scaled-height 410?><?image-scaled-width 800?><?image-cloudpmc-urn urn:cdn:blobs/ad07/12199344/d2c7c3259485/ADVS-12-2500362-g007.jpg?><?thumb-name ADVS-12-2500362-g007.gif?><?thumb-size 9966?><?thumb-md5 68c43249cb75039a5cc6879c56878e70?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 156?><?thumb-cloudpmc-urn urn:cdn:blobs/ad07/12199344/68c43249cb75/ADVS-12-2500362-g007.gif?></graphic></fig><p>Ai9 mice carry a fluorescent tdTomato gene that is controlled by loxP‐flanked STOP cassettes. Upon activation by Cre recombinase, the tdTomato gene is expressed, resulting in fluorescence in Cre mRNA‐expressing cells (<bold>Figure</bold> <xref rid="advs12367-fig-0004" ref-type="fig">
+<bold>4</bold>A</xref>). Ai9 mice received intrathecal injections of Cre mRNA‐loaded nanoparticles every other day, for a total of two injections. To assess tdTomato expression, spinal cord and DRG tissues were collected one week after the initial injection for analysis using IVIS and microscopy (Figure <xref rid="advs12367-fig-0004" ref-type="fig">4B</xref>). IVIS imaging revealed significantly higher tdTomato fluorescence in the P6CIT/mCre group compared to the control group and the MC3/mCre group in both the spinal cord and DRG tissues (Figure <xref rid="advs12367-fig-0004" ref-type="fig">4C</xref> and Figure <xref rid="advs12367-supinfo-0001" ref-type="">S2</xref>, Supporting Information). Confocal microscopy images further confirmed that the P6CIT/mCre group exhibited the highest number of tdTomato‐positive cells in the lumbar spinal cord and DRG, in comparison to the MC3/mCre and control groups (Figure <xref rid="advs12367-fig-0004" ref-type="fig">4D</xref>). In the P6CIT/mCre group, tdTomato‐positive cells were abundant in the white matter of the spinal cord, whereas in the MC3/mCre group, these cells were concentrated at the edge of the spinal cord (Figure <xref rid="advs12367-fig-0004" ref-type="fig">4D</xref>). The deeper distribution of mRNA expression further suggested that the P6CIT lipopolymer has higher penetration of pia mater and subpial tissues compared to the MC3 ionizable lipid (Figure <xref rid="advs12367-fig-0004" ref-type="fig">4D</xref>).</p><fig position="float" fig-type="Figure" id="advs12367-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Transfection efficiency and cell type specificity in the spinal cord and DRG of Ai9 mice following the intrathecal injection of mCre‐loaded LPNPs. A) Schematic of the intrathecal delivery of mCre‐loaded LPNPs in Ai9 mice and Cre‐mediated recombination of the tdTomato gene. B) Procedure for assessing tdTomato expression. C) IVIS images of the spinal cord (left) and DRG (right) from Ai9 mice treated with MC3/mCre or P6CIT/mCre. <italic toggle="yes">n</italic> = 3. D) Fluorescence images and schematic of the tdTomato‐positive areas in the lumbar spinal cord and DRG of Ai9 mice treated with mCre‐loaded LPNPs. Scale bars = 200 µm (left) and 50 µm (right). E,F) Representative immunofluorescence images showing the colocalization of GFAP (green), IBA1(green), and MAP2 (green) with tdTomato (red) in E) the lumbar spinal cord and F) DRG of Ai9 mice treated with P6CIT/mCre. E) Scale bar = 20 µm and F) Scale bar = 10 µm. G) Percentages of GFAP+ tdTomato+ cells, IBA1+ tdTomato+ cells, and MAP2+ tdTomato+ cells among total tdTomato+ cells in the lumbar spinal cord and DRG of Ai9 mice treated with P6CIT/mCre. <italic toggle="yes">n</italic> = 8–10 random fields from 3 mice. H) Cell type distribution of tdTomato‐positive cells in the lumbar spinal cord and DRG of Ai9 mice treated with P6CIT/mCre. Statistical analysis was performed using one‐way ANOVA in (G). The data are expressed as the mean ± SEM; *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001; ns, nonsignificant.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ADVS-12-2500362-g004.jpg"><?image-name ADVS-12-2500362-g004.jpg?><?image-size 337076?><?image-md5 19b04c043d83c43d80fd7a554c4fa87e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 980?><?image-original-width 777?><?image-scaled-height 980?><?image-scaled-width 777?><?image-cloudpmc-urn urn:cdn:blobs/ad07/12199344/19b04c043d83/ADVS-12-2500362-g004.jpg?><?thumb-name ADVS-12-2500362-g004.gif?><?thumb-size 11565?><?thumb-md5 089e34cf812b61486c52b9303d8d4d35?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 126?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ad07/12199344/089e34cf812b/ADVS-12-2500362-g004.gif?></graphic></fig><p>To determine the cell types that were transfected by our P6CIT LPNPs, we conducted immunofluorescence staining of spinal cord and DRG tissues after Cre mRNA delivery. One‐week after the intrathecal injection of P6CIT/mCre into Ai9 mice, the lumbar spinal cord and DRG tissues were fixed, cryosectioned, and stained. In the lumbar spinal cord, GFAP, IBA1, and MAP2 antibodies were used to label astrocytes, microglia, and neurons, respectively. In the DRG, GFAP, IBA1, and MAP2 antibodies were used to label GFAP‐expressing glial cells, IBA1‐positive macrophage‐like cells, and neurons, respectively.<sup>[</sup>
+<xref rid="advs12367-bib-0003" ref-type="bibr">
+<sup>3d,e</sup>
+</xref>
+<sup>]</sup> In both the lumbar spinal cord and DRG, GFAP, IBA1, and MAP2 were all colocalized with tdTomato (Figure <xref rid="advs12367-fig-0004" ref-type="fig">4E,F</xref>). The percentages of GFAP+ tdTomato+ areas (44.7% ± 5.3%) and IBA1+ tdTomato+ areas (37.7% ± 5.0%) in the tdTomato+ areas were significantly higher than the MAP2+ tdTomato+ areas (10.4% ± 2.4%) in the lumbar spinal cord (Figure <xref rid="advs12367-fig-0004" ref-type="fig">4G</xref>). The percentages of GFAP+ tdTomato+ areas (33.0% ± 4.5%) and IBA1+ tdTomato+ areas (21.9% ± 4.2%) in the tdTomato+ areas were also significantly higher than the MAP2+ tdTomato+ areas (5.1% ± 1.3%) in the DRG (Figure <xref rid="advs12367-fig-0004" ref-type="fig">4G</xref>). These findings suggest that P6CIT/mCre was primarily absorbed and expressed in gliocytes rather than in neurons (Figure <xref rid="advs12367-fig-0004" ref-type="fig">4H</xref>). The co‐localization of tdTomato with GFAP did not show a significant difference when compared to its co‐localization with IBA1 (Figure <xref rid="advs12367-fig-0004" ref-type="fig">4G</xref>).</p></sec><sec id="advs12367-sec-0050"><label>2.3</label><title>P6CIT LPNPs Successfully Delivered mIL‐10 into the Spinal Cord and DRG</title><p>After confirmation of the delivery efficiency of the P6CIT LPNPs, mIL‐10 was synthesized and encapsulated into P6CIT LPNPs to form P6CIT/mIL‐10, after which a comprehensive evaluation was performed, including characterization, in vitro cellular assays, and in vivo animal experiments.<sup>[</sup>
+<xref rid="advs12367-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> The mIL‐10 was observed to be greater than 500 bases in length (Figure <xref rid="advs12367-supinfo-0001" ref-type="">S3</xref>, Supporting Information). The hydrodynamic size, PDI, and zeta potential of P6CIT LPNPs were 116.7 ± 1.6 nm, 0.191 ± 0.025, and 13.07 ± 0.26 mV, respectively (<bold>Figure</bold> <xref rid="advs12367-fig-0005" ref-type="fig">
+<bold>5</bold>A</xref>). After encapsulation of IL‐10 mRNA, the hydrodynamic size increased to 121.9 ± 1.0 nm and the zeta potential decreased to −6.93 ± 0.45 mV, respectively (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5A</xref>). TEM images revealed that both P6CIT LPNPs and P6CIT/mIL‐10 had uniform and spherical structures (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5B</xref>).</p><fig position="float" fig-type="Figure" id="advs12367-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Characterization and gene expression of P6CIT/mIL‐10. A) Average particle size, PDI and zeta potential measurements of P6CIT and P6CIT/mIL‐10. <italic toggle="yes">n</italic> = 3. B) TEM images of P6CIT and P6CIT/mIL‐10. Scale bar = 300 nm. C) Procedure for assessing the stability of P6CIT/mIL‐10 in human CSF. D) Stability comparison of free IL‐10 mRNA and mIL‐10 encapsulated in P6CIT LPNPs after incubation with human CSF for 12 h. E) Schematic of mIL‐10 expression validation in vitro and in vivo. ELISA analysis of F) the intracellular IL‐10 levels and G) supernatant IL‐10 levels in MA cells and BV2 cells transfected with P6CIT/mIL‐10. <italic toggle="yes">n</italic> = 3. ELISA analysis of IL‐10 levels in H) the lumbar spinal cord and DRG tissues, and I) in the serum and CSF of C57BL/6J mice at 6 hours or 24 h after the intrathecal injection of P6CIT LPNPs or P6CIT/mIL‐10. <italic toggle="yes">n</italic> = 3–4. J) Schematic of the blood‐spinal cord barrier (BSCB). Statistical analysis was performed via two‐tailed unpaired <italic toggle="yes">t</italic>‐tests for (F,G), and one‐way ANOVA for (H,I). The data are expressed as the mean ± SEM; *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001; ns, nonsignificant.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ADVS-12-2500362-g006.jpg"><?image-name ADVS-12-2500362-g006.jpg?><?image-size 171813?><?image-md5 e57e797a86a79a0116f603e9610d9147?><?image-image-server-status NEVER_LOAD?><?image-original-height 724?><?image-original-width 800?><?image-scaled-height 724?><?image-scaled-width 800?><?image-cloudpmc-urn urn:cdn:blobs/ad07/12199344/e57e797a86a7/ADVS-12-2500362-g006.jpg?><?thumb-name ADVS-12-2500362-g006.gif?><?thumb-size 8045?><?thumb-md5 5ca1ba88168d44960a601c329febb135?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 91?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ad07/12199344/5ca1ba88168d/ADVS-12-2500362-g006.gif?></graphic></fig><p>We then evaluated the stability of P6CIT/mIL‐10 in human CSF (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5C</xref>). After incubation with human CSF at 37 °C for 12 h, P6CIT/mIL‐10 demonstrated excellent stability, with the size and PDI remaining at approximately 100 nm and 0.2, respectively (Table <xref rid="advs12367-supinfo-0001" ref-type="">S3</xref>, Supporting Information). Electrophoresis results showed that P6CIT LPNPs efficiently encapsulated mIL‐10, as evidenced by the nearly undetectable band in the lane for P6CIT/mIL‐10 (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5D</xref>). A positive band appeared when mIL‐10 was extracted from P6CIT/mIL‐10 by 1% Triton X‐100 (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5D</xref>). Human CSF did not contain any free mIL‐10 (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5D</xref>). Moreover, free mIL‐10 was rapidly degraded within twelve hours of incubation with human CSF at 37 °C, while mIL‐10 encapsulated within P6CIT LPNPs maintained excellent stability (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5D</xref>). The mIL‐10 encapsulated within P6CIT LPNPs exhibited a gradual decline in stability as the duration of incubation with human CSF increased (Figure <xref rid="advs12367-supinfo-0001" ref-type="">S4</xref>, Supporting Information).</p><p>The translational efficacy of IL‐10 mRNA delivered by P6CIT LPNPs was evaluated using ELISA both in vitro and in vivo (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5E</xref>). In both MA and MV2 cells, treatment with P6CIT/mIL‐10 markedly increased the IL‐10 expression levels within the cells (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5F</xref>) and in the cellular supernatant (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5G</xref>). Moreover, IL‐10 expression levels in the lumbar spinal cord, DRG, serum, and CSF of C57BL/6J mice were significantly elevated six hours following a single intrathecal injection of P6CIT/mIL‐10, but returned to baseline levels after 24 hours (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5H,I</xref>). Notably, intrathecal injection predominantly increased IL‐10 expression in the CSF but not in the serum (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5I</xref>). This finding suggested that this administration route of administration may prevent P6CIT/mIL‐10 and IL‐10 from crossing the blood‐spinal cord barrier (BSCB) (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5J</xref>), thereby potentially reducing side effects on organs located outside of the CNS. In contrast, P6CIT LPNPs alone did not induce significant changes in IL‐10 expression in the spinal cord, DRG, serum, or CSF of mice following a single intrathecal injection (Figure <xref rid="advs12367-fig-0005" ref-type="fig">5H,I</xref>).</p></sec><sec id="advs12367-sec-0060"><label>2.4</label><title>Intrathecal Administration of P6CIT/mIL‐10 Ameliorates PIPN by Inhibiting Glial Cell Activation and Presynaptic NMDAR Hyperactivity</title><p>We then evaluated the therapeutic efficacy of P6CIT/mIL‐10 in a C57BL/6J mouse PIPN model (<bold>Figure</bold> <xref rid="advs12367-fig-0006" ref-type="fig">
+<bold>6</bold>A</xref>). Considering the sex‐specific sensitivity of PIPN, we administered PTX and P6CIT/mIL‐10 to both male and female mice.<sup>[</sup>
+<xref rid="advs12367-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> Mechanical allodynia was assessed using the Von‐Frey test, and thermal hyperalgesia was evaluated with the hot plate test (Figure <xref rid="advs12367-fig-0006" ref-type="fig">6B</xref>). Following PTX treatment, both male and female mice exhibited persistent pain behaviors, which were characterized by significant and prolonged reductions in the paw‐withdrawal threshold and paw‐withdrawal latency (Figure <xref rid="advs12367-fig-0006" ref-type="fig">6C–F</xref>). Two intrathecal injections of P6CIT LPNPs did not significantly affect paclitaxel‐induced nociceptive behaviors (Figure <xref rid="advs12367-fig-0006" ref-type="fig">6C–F</xref>). In contrast, treatment with P6CIT/mIL‐10 significantly improved the paclitaxel‐induced decreases in both the paw withdrawal threshold and latency in both male and female mice, indicating a reduction in mechanical and thermal allodynia (Figure <xref rid="advs12367-fig-0006" ref-type="fig">6C–F</xref>).</p><fig position="float" fig-type="Figure" id="advs12367-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>Therapeutic effects of P6CIT/mIL‐10 on pain relief in PIPN mice and high‐throughput RNA sequencing results. A) Schematic illustration of paclitaxel treatment, LPNP treatment, behavioral assessment, and tissue collection in C57BL/6J mice. B) Schematic of the Von‐Frey test and the hot plate test. Measurement of mechanical allodynia in C) male mice and E) female mice following paclitaxel and LPNPs treatments. <italic toggle="yes">n</italic> = 10 mice per group. Measurements of thermal hyperalgesia in D) male mice and F) female mice following paclitaxel and LPNPs treatments. <italic toggle="yes">n</italic> = 10 mice per group. G) GSEA of the IL‐10 signaling pathway in the DRG of mice treated with PTX + P6CIT/mIL‐10 compared to those treated with PTX alone. H) GO enrichment of significantly differentially expressed genes in the DRG of mice treated with PTX + P6CIT/mIL‐10 compared to those treated with PTX alone. I) Top 20 enriched KEGG pathways of significantly differentially expressed genes in the DRG of mice treated with PTX + P6CIT/mIL‐10 compared to those treated with PTX alone. Statistical analysis was performed via two‐way ANOVA for (C–F). The data are expressed as the mean ± SEM; *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001; ns, nonsignificant. Two‐way ANOVA followed by Tukey's post hoc test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="ADVS-12-2500362-g003.jpg"><?image-name ADVS-12-2500362-g003.jpg?><?image-size 154587?><?image-md5 969ac59bc8398c48692ce3d7f1a8ec11?><?image-image-server-status NEVER_LOAD?><?image-original-height 677?><?image-original-width 800?><?image-scaled-height 677?><?image-scaled-width 800?><?image-cloudpmc-urn urn:cdn:blobs/ad07/12199344/969ac59bc839/ADVS-12-2500362-g003.jpg?><?thumb-name ADVS-12-2500362-g003.gif?><?thumb-size 7036?><?thumb-md5 47bc726943a25179b3dc444ab3ca58e5?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 85?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ad07/12199344/47bc726943a2/ADVS-12-2500362-g003.gif?></graphic></fig><p>To explore the mechanisms underlying the therapeutic effects of P6CIT/mIL‐10 on PIPN, high‐throughput RNA sequencing (RNAseq) was conducted on DRG tissues from the PTX group and the PTX+P6CIT/mIL‐10 group. Approximately 50 million reads per sample were generated. Differential expression analysis between the PTX+P6CIT/mIL‐10 group and the PTX group identified 231 significantly differentially expressed genes (DEGs). Of these, 54 genes were upregulated in the PTX+P6CIT/mIL‐10 group, and 177 genes were downregulated (Figure <xref rid="advs12367-supinfo-0001" ref-type="">S5</xref>, Supporting Information). GSEA demonstrated significant upregulation of IL‐10 signaling in the DRG following the intrathecal injection of P6CIT/mIL‐10 in the presence of PTX (Figure <xref rid="advs12367-fig-0006" ref-type="fig">6G</xref>). GO analysis, focusing on cellular components (CC), revealed notable enrichment of DEGs in targets associated with astrocyte projection (Figure <xref rid="advs12367-fig-0006" ref-type="fig">6H</xref>). KEGG analysis revealed that DEGs were enriched in pathways associated with “NF‐𝜅B signaling pathway”, “Glutamatergic synapse”, and “Cytokine‐cytokine receptor interaction” (Figure <xref rid="advs12367-fig-0006" ref-type="fig">6I</xref>).</p><p>To further confirm the RNA‐seq results, the production of proinflammatory cytokines, glial cell activation, and the presynaptic NMDAR activity were evaluated, as shown in <bold>Figure</bold> <xref rid="advs12367-fig-0007" ref-type="fig">
+<bold>7</bold>
+</xref>. PTX significantly increased IL‐1β and TNFα production in the lumbar spinal cord and DRG, and these effects were reversed by P6CIT/mIL‐10 treatment (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7B</xref>). The administration of PTX or P6CIT/mIL‐10 did not significantly alter the levels of IL‐6 or TGF‐β in the lumbar spinal cord or DRG (Figure <xref rid="advs12367-supinfo-0001" ref-type="">S6</xref>, Supporting Information). Additionally, PTX administration increased the expression levels of GFAP and IBA1 (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7C–F</xref>) in the SDH, indicating the activation of astrocytes and microglia. In the DRG, PTX increased GFAP and IBA1 expression, suggesting the activation of GFAP‐expressing glial cells and the infiltration of IBA1‐positive microphage‐like cells (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7C–F</xref>). P6CIT LPNPs without mIL‐10 treatment did not significantly alter GFAP or IBA1 levels in the presence of PTX (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7C–F</xref>). In contrast, P6CIT/mIL‐10 treatment significantly reduced the overexpression of GFAP (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7C,D</xref>) and IBA1 (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7E,F</xref>) induced by PTX in both the SDH and DRG. Besides, PTX caused microglial de‐ramification and astrocyte hypertrophy in the SDH, representing reactive morphological changes, which were reversed by P6CIT/mIL‐10 treatment (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7C,E</xref>). Furthermore, in the DRG, PTX increased the mRNA expression of NMDAR subunits, including Grin1, Grin2a, Grin2b and Grin2c, indicating an increase in presynaptic glutamate release to neurons in the SDH (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7G</xref>). P6CIT/mIL‐10 treatment reduced the elevated mRNA levels of Grin2a and Grin2b induced by PTX, while the mRNA levels of Grin1 and Grin2c remained unchanged (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7G</xref>). PTX also raised the protein levels of GluN2A and GluN2B in the DRG; however, these levels decreased with P6CIT/mIL‐10 treatment (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7H,I</xref>). Protein levels of GluN1 did not show significant difference following PTX or P6CIT/mIL‐10 treatment (Figure <xref rid="advs12367-fig-0007" ref-type="fig">7H,I</xref>).</p><fig position="float" fig-type="Figure" id="advs12367-fig-0007" orientation="portrait"><label>Figure 7</label><caption><p>Effects of P6CIT/mIL‐10 on the alleviation of proinflammatory cytokine production, glial cell activation, and presynaptic NMDAR hyperactivity in PIPN mice. A) Schematic of the underlying mechanisms of P6CIT/mIL‐10 for pain relief in PIPN mice. B) ELISA analysis of IL‐1β and TNFα levels in the lumbar spinal cord and DRG of mice following different treatments. <italic toggle="yes">n</italic> = 3. C) Representative immunofluorescence images and D) quantitative analysis of GFAP (green) in the SDH and DRG of mice following different treatments. <italic toggle="yes">n</italic> = 4. Scale bar = 10 µm. E) Representative immunofluorescence images and F) quantitative analysis of IBA1 (green) in the SDH and DRG of mice following different treatments. <italic toggle="yes">n</italic> = 4. Scale bar = 10 µm. G) mRNA expression levels of Grin1, Grin2a, Grin2b, Grin2c and Grin2d in the DRG of mice following different treatments. <italic toggle="yes">n</italic> = 4. H) Representative immunoblots and I) quantitative analysis of GluN1, GluN2A, and GluN2B in the DRG of mice following different treatments. <italic toggle="yes">n</italic> = 3. Statistical analysis was performed using one‐way ANOVA in (B, D, F, G, and I). The data are expressed as the mean ± SEM; *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001; ns, nonsignificant.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-15" orientation="portrait" xlink:href="ADVS-12-2500362-g002.jpg"><?image-name ADVS-12-2500362-g002.jpg?><?image-size 342817?><?image-md5 392889de9e38098312c5b962a6d36277?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 903?><?image-original-width 800?><?image-scaled-height 903?><?image-scaled-width 800?><?image-cloudpmc-urn urn:cdn:blobs/ad07/12199344/392889de9e38/ADVS-12-2500362-g002.jpg?><?thumb-name ADVS-12-2500362-g002.gif?><?thumb-size 11167?><?thumb-md5 b53ba046f70ac31aefe3433203a776d7?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 113?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ad07/12199344/b53ba046f70a/ADVS-12-2500362-g002.gif?></graphic></fig></sec><sec id="advs12367-sec-0070"><label>2.5</label><title>Biosafety Evaluation of P6CIT LPNPs</title><p>The safety of P6CIT LPNPs was evaluated both in vitro and in vivo. No significant cytotoxicity was observed in P6CIT LPNP‐treated MA or BV2 cells compared with the control group (Figure <xref rid="advs12367-supinfo-0001" ref-type="">S7</xref>, Supporting Information). Additionally, there were no increases in the levels of GFAP, IBA1, or caspase 3 in the spinal cord and DRG of C57BL/6J mice at one day, one week, or one month after intrathecal injection of P6CIT LPNPs (Figure <xref rid="advs12367-supinfo-0001" ref-type="">S8A</xref>, Supporting Information), indicating that the intrathecal injection of P6CIT LPNPs was not able to induce glial cell activation and cell apoptosis. H&amp;E staining showed no signs of injury in major organs (heart, liver, spleen, lung, and kidney) of mice at one day, one week, or one month after the intrathecal injection of P6CIT LPNPs (Figure <xref rid="advs12367-supinfo-0001" ref-type="">S8B</xref>, Supporting Information). Taken together, P6CIT LPNPs were selected for further treatment studies.</p></sec></sec><sec id="advs12367-sec-0080"><label>3</label><title>Discussion</title><p>The high incidence of PIPN observed in cancer patients undergoing PTX treatment is coupled with limited effective management options.<sup>[</sup>
+<xref rid="advs12367-bib-0002" ref-type="bibr">
+<sup>2a</sup>
+</xref>
+<sup>]</sup> Recently, mRNA therapeutics have been explored for treating neurological disorders. Intracerebral injections of mRNA‐loaded LPNPs have been shown to transfect approximately 50% of cells within the striatum and hippocampus.<sup>[</sup>
+<xref rid="advs12367-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> However, intracerebral delivery causes significant damage to the brain, limiting its clinical application. As an alternative, the intrathecal administration of therapeutic agents offers a less invasive approach to modulate cells in the brain and spinal cord and is commonly used in clinical practice. However, the intrathecal delivery of mRNA is also limited by the biological barriers of the pia mater. In our study, we intrathecally delivered IL‐10 mRNA encapsulated in P6CIT LPNPs to treat PIPN.</p><p>Nanoparticles that are capable of consistently crossing the BSCB have been developed for the treatment of spinal cord diseases.<sup>[</sup>
+<xref rid="advs12367-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> However, the ability of nanoparticles to cross the CSF‐brain/spinal cord barrier remains largely unexplored. Previous studies have shown that larger molecules exhibit lower permeability across the CSF‐brain barrier compared to smaller molecules.<sup>[</sup>
+<xref rid="advs12367-bib-0009" ref-type="bibr">
+<sup>9b</sup>
+</xref>
+<sup>]</sup> Our findings suggest that the enhanced penetration capability of P6CIT LPNPs, compared to MC3 LNPs, may be attributed to their smaller particle size. Additionally, the interstitial fluid surrounding the brain and spinal cord carries a negative charge,<sup>[</sup>
+<xref rid="advs12367-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> which could further explain the diminished penetration capability of MC3/mCre, as it possesses a more negative zeta potential compared to P6CIT/mCre. Our study also demonstrates successful transfection and gene expression of mRNA‐loaded P6CIT LPNPs in the spinal cord and DRG of mice by intrathecal injection, which was superior to the effects of MC3 LNPs. The intrinsic physicochemical properties of lipids, including headgroup chemistry, hydrophobic tail chain length, degree of branching, and saturation level, directly modulate their transfection efficiency.<sup>[</sup>
+<xref rid="advs12367-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> P6CIT features shorter hydrophobic chains and exhibits stronger lipophilicity compared to MC3, which enhances its cellular internalization and endosomal escape capabilities, thereby leading to higher delivery efficiency. Moreover, P6CIT LPNPs primarily transfected astrocytes and microglia in the spinal cord, with limited neuronal transfection. In contrast, MC3 LNPs, administered intracerebrally, predominantly transfect astrocytes and neurons in the striatum and hippocampus.<sup>[</sup>
+<xref rid="advs12367-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup>
+</p><p>The intrathecal delivery of IL‐10 mRNA by our P6CIT LPNPs also exhibited restricted expression of IL‐10, which benefited the local therapeutic outcomes and reduced systematic side effects. The BBB and BSCB in the CNS, which are composed of endothelial cells with specialized tight junctions, protect neural tissue by limiting the passage of substances across these barriers.<sup>[</sup>
+<xref rid="advs12367-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> Intrathecal delivery of LPNPs allows encapsulated mRNA to be primarily expressed within CNS tissues, enabling effective mRNA‐based therapies with minimal side effects on non‐CNS organs in treating neurological disorders. The slight increase in serum IL‐10 observed in mice following the intrathecal injection of P6CIT/mIL‐10 may be attributed to leakage of fluid during the withdrawal of the micro‐syringe at the end of the injection.</p><p>The mechanism for IL‐10 mRNA therapy was also evaluated in our study. Paclitaxel induces microglial and astrocytic activation, which promotes the release of proinflammatory cytokines, leading to neuronal damage and glutamatergic neuronal hyperexcitability.<sup>[</sup>
+<xref rid="advs12367-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs12367-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> Complementary therapies using IL‐10 have been shown to reduce paclitaxel‐induced immune responses,<sup>[</sup>
+<xref rid="advs12367-bib-0005" ref-type="bibr">
+<sup>5a,b</sup>
+</xref>
+<sup>]</sup> which aligns with our current findings. IL‐10 has also been found to suppress abnormal paclitaxel‐induced spontaneous discharges and stimulate the Nrf2‐HO1 pathway in DRG neurons.<sup>[</sup>
+<xref rid="advs12367-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs12367-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup> Intrathecal injection of P6CIT/mIL‐10 alleviated alleviates presynaptic NMDAR hyperactivity, which may be partly attributed to decreased glial cell activation and decreased production of proinflammatory cytokines. Previous research has demonstrated that the IL‐10 receptor (IL‐10R) is expressed on the membrane of DRG sensory neurons.<sup>[</sup>
+<xref rid="advs12367-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> These findings suggest that exogenous IL‐10 may also bind to IL‐10R on the membrane of DRG neurons and then elicit neuroprotective effects in PIPN mice treated with P6CIT/mIL‐10. Further research is required to investigate the mechanism of IL‐10 in DRG neurons.</p><p>Although we have demonstrated the effective transfection of LPNPs in the spinal cord and DRG, as well as the therapeutic effects of engineered P6CIT/mIL‐10 in PIPN mice, several limitations should be noted. First, intrathecal injection allows LPNPs to circulate freely in the CSF, which flow throughout the CNS. This distribution could potentially lead to unintended side effects in brain tissues. Additionally, presynaptic NMDAR hyperactivity in DRG neurons amplifies nociceptive input to SDH neurons.<sup>[</sup>
+<xref rid="advs12367-bib-0004" ref-type="bibr">
+<sup>4a</sup>
+</xref>
+<sup>]</sup> Unfortunately, due to technical constraints, we were unable to use whole‐cell patch‐clamp techniques to record excitatory postsynaptic currents in SDH neurons.</p></sec><sec id="advs12367-sec-0090"><label>4</label><title>Conclusions </title><p>In summary, we developed a pia mater‐penetrable P6CIT LPNP for gliocyte‐targeted delivery of IL‐10 mRNA to treat PIPN. Our self‐developed P6CIT LPNPs exhibited superior transfection efficacy and CSF‐spinal cord barrier penetration compared to commercial MC3 LNPs both in vitro and in vivo. Intrathecal injection of engineered P6CIT/mIL‐10 showed significant therapeutic efficacy in PIPN mice. These findings provide valuable insights into advancing mRNA therapeutics for the treatment of spinal cord‐ and DRG‐related diseases.</p></sec><sec id="advs12367-sec-0100"><label>5</label><title>Experimental Section</title><sec id="advs12367-sec-0130"><title>Materials</title><p>1,2‐Distearoyl‐sn‐glycero‐3‐phosphocholine (DSPC), 1,2‐dimyristoyl‐rac‐glycero‐3‐methoxy polyethylene glycol‐2000 (DMG‐PEG 2000), Dlin‐MC3‐DMA (MC3), and D‐Luciferin sodium were purchased from Bide (Shanghai, China). The linearization kit and IVT kit were purchased from Changchun Golden Transfer Science and Technology Co., Ltd. (Changchun, China). Cholesterol and DAPI were purchased from Solarbio (Beijing, China). The Firefly Luciferase mRNA (mFLuc), EGFP mRNA (mEGFP) and Cre mRNA (mCre) were purchased from MagicRNA (Shenzhen, China). A luciferase reporter gene assay kit, GelRed, SYBR GOLD, and cell counting kit (CCK8) were purchased from Yeasen (Shanghai, China). TRIzol reagent, the PrimeScript RT Reagent Kit, and SYBR Green reaction mix were purchased from Vazyme (Nanjing, China). Paclitaxel was purchased from MedChemExpress (Monmouth Junction, USA). Lipofectamine 3000 (Lipo3000) was purchased from ThermoFisher (Waltham, USA). RIPA lysis buffer, protease inhibitors, and phosphatase inhibitors were purchased from Beyotime (Shanghai, China). Transwell chambers and Matrigel were purchased from Corning (Corning, USA). The DNA ladder was purchased from CWBIO (Beijing, China), and the ssRNA ladder was purchased from NEB (Ipswich, USA). Human CSF was obtained from Sun Yat‐Sen Memorial Hospital with patient consent and ethical approval.</p></sec><sec id="advs12367-sec-0140"><title>Plasmid Extraction and In Vitro Transcription (IVT) of mRNA</title><p>The coding sequence of mouse IL‐10 mRNA (mIL‐10) was referred to as NCBI (gene ID 22262) (Table <xref rid="advs12367-supinfo-0001" ref-type="">S1</xref>, Supporting Information). In vitro transcription (IVT) was performed using the Standard mRNA Synthesis kit (E2060s, NEB). The linearization of the plasmid containing the IL‐10 sequence was carried out using BspQ1 digestion, and the linearized plasmid was taken as an IVT template. IVT was carried out as indicated by the manufacturer's protocol with 3‐OH AG (cap1). The VAHTS mRNA capture beads were used to purify the final transcribed mRNAs, and the final mRNA concentration was determined using Nanodrop.</p></sec><sec id="advs12367-sec-0150"><title>Synthesis and Characterization of LPNPs</title><p>The P6CIT lipopolymer was synthesized by the reaction of branched polyethyleneimine (PEI) (<italic toggle="yes">M</italic>W = 600) between 3,7‐dimethyl‐6‐octen‐1‐yl acrylate at a molar ratio of 1:28 at 75 °C for 3 d. The LPNP was formulated with cholesterol, DSPC, and DMG‐PEG2000 at the weight ratio of 16:12:8:4. The hydrodynamic size, polydispersity index (PDI), and zeta potential of LPNPs were determined using dynamic light scattering (DLS, Malvern, UK). The morphology of LPNPs was determined using transmission electron microscopy (TEM).</p></sec><sec id="advs12367-sec-0160"><title>Cell Culture</title><p>The BV2 mouse microglial cell line and the MA mouse astrocytic cell line were purchased from American Type Culture Collection (ATCC). The cells were cultured in Dulbecco's modified Eagle's medium (DMEM, Gibco, USA) supplemented with 10% fetal bovine serum (FBS, Excellbio, China) and 1% penicillin and streptomycin (Gibco, USA) at 37 °C with 5% CO2.</p></sec><sec id="advs12367-sec-0170"><title>Cellular Uptake Activity</title><p>BV2 cells and MA cells were seeded and cultured on 24‐well plates overnight. Free DID (0.8 µg mL<sup>−1</sup>) or LPNPs encapsulating 2% DID were incubated with cells at 37 °C for 1 h. Next, the cells were digested, washed with PBS, and analyzed using a CytoFLEX flow cytometer (Beckman, USA).</p></sec><sec id="advs12367-sec-0180"><title>In Vitro Transfection of LPNPs</title><p>Cells were seeded overnight and then transfected with mRNA‐loaded LPNPs at 1 µg mRNA per well. After 24 hours, the cells were collected for analysis: EGFP fluorescence was examined using an inverted fluorescence microscope (Olympus IX73), luciferase activity was measured via luciferase reporter gene assay kits with a BioTek Synergy H1 Multi‐Mode Microplate Reader (Agilent), and the IL‐10 concentration was assessed via ELISA assays.</p></sec><sec id="advs12367-sec-0190"><title>Transwell Assays</title><p>Primary meningeal cells were isolated from C57BL/6J mouse pups on postnatal day 0–1, as previously described.<sup>[</sup>
+<xref rid="advs12367-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> The leptomeninges were carefully dissected from the cerebral hemispheres under a microscope and digested in 0.125% trypsin for 20 min at 37 °C. The cells were then centrifuged at 1000 × <italic toggle="yes">g</italic> for 5 min and resuspended in cell culture medium. Cells were maintained in DMEM supplemented with 10% FBS and 1% penicillin and streptomycin.</p><p>Transwell assays were performed using Transwell chambers, primary meningeal cells, and Matrigel. To evaluate the penetration of LPNPs into the pia mater, primary meningeal cells were seeded in the upper chamber of the Transwell system with complete medium. LPNPs containing DID were added to the upper chamber and incubated for 2 hours. After incubation, the mean fluorescence intensity (MFI) of DID in the lower chamber was measured using an in vivo imaging system (IVIS) or a Microplate Reader. Additionally, LPNPs containing EGFP mRNA were added to the upper chamber, and after 24 h of incubation, the fluorescence of EGFP in the MA cells inoculated in the lower chamber was assessed using a confocal laser scanning microscope (Olympus FV3000).</p><p>To evaluate the penetration of LPNPs into subpial tissues, the bottom of the upper chamber of the Transwell system was coated with Matrigel, and LPNPs containing DID were added to the upper chamber. The MFI of DID in the lower chamber was measured at predefined time points using a Microplate Reader. Additionally, after 24 h of incubation, the MFI of DID in the MA cells inoculated in the lower chamber was assessed using a CytoFLEX flow cytometer.</p></sec><sec id="advs12367-sec-0200"><title>mRNA LPNPs Stability Assessment</title><p>Agarose gel electrophoresis was used to evaluate the protective capability of P6CIT LPNPs in preventing mIL‐10 degradation in human CSF. Briefly, free mIL‐10 or P6CIT/mIL‐10 was incubated with CSF at 37 °C. P6CIT/mIL‐10 was incubated with 1% Triton X‐100 to extract the encapsulated mRNA. At 12 hours, the hydrodynamic sizes of LPNPs were determined by DLS. Afterwards, mIL‐10 was extracted from P6CIT/mIL‐10, electrophoresed on a 1.5% agarose gel stained with GelRed, and visualized using the ChemiDoc system (Bio‐Rad, USA). A DNA marker was used to roughly estimate the IL‐10 mRNA's position.</p></sec><sec id="advs12367-sec-0210"><title>Animals</title><p>Eight‐ to ten‐week‐old female and male C57BL/6J mice and ICR mice were purchased from Zhuhai BesTest Bio‐Tech Co., Ltd. Ai9 mice were obtained from The Jackson Laboratory (Stock number: 007909). The use of animals was approved by the Animal Care and Use Committees of the Laboratory Animal Research Center at Sun Yat‐Sen Memorial Hospital, Sun Yat‐Sen University (No. AP20240032, No. AP20240156).</p></sec><sec id="advs12367-sec-0220"><title>Establishment of the PIPN Model and Treatment by Intrathecal Injection</title><p>A mouse model of PIPN was established following previously described methods.<sup>[</sup>
+<xref rid="advs12367-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> In brief, paclitaxel was prepared as a stock solution at a concentration of 6 mg mL<sup>−1</sup> by diluting it in a mixture of 50% Cremophor EL and 50% absolute ethanol. The stock solution was further diluted with 0.9% saline to achieve a concentration of 1 mg mL<sup>−1</sup> and was intraperitoneally administered to the mice at a dose of 2 mg kg<sup>−1</sup> on Days 1, 3, 5, and 7. Mice in the sham group received injections of an equivalent volume of saline.</p><p>Mice were anesthetized with sodium pentobarbital (50 mg kg<sup>−1</sup>) and positioned horizontally. A 10 µL Hamilton micro‐syringe was carefully inserted into the subarachnoid space between the L5 and L6 vertebrae. A slight wag or flick of the tail reflected a successful injection. A volume of 5 µL of LPNPs was used for each intrathecal injection.</p></sec><sec id="advs12367-sec-0230"><title>Behavior Tests: Von Frey Assay</title><p>Mechanical allodynia was assessed using Von Frey tests (KEW Basis, China).<sup>[</sup>
+<xref rid="advs12367-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> Briefly, mice were put into a transparent box with a grid floor and allowed to acclimate for 15 min. A calibrated filament was gently applied to the plantar surface of the right hind paw, and pressure was gradually increased until a paw withdrawal response (such as sudden claw retraction, shaking or licking) was observed. The paw withdrawal threshold was quantitatively measured using an electronic Von Frey esthesiometer. Each mouse underwent five trials, and the average of these five measurements was recorded as the final paw withdrawal threshold.</p></sec><sec id="advs12367-sec-0240"><title>Hot Plate Test</title><p>Thermal hyperalgesia was measured by a hot plate test using a thermal plantar analgesia apparatus (KEW Basis, China).<sup>[</sup>
+<xref rid="advs12367-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>]</sup> Briefly, mice were placed on a hot plate heated to 55 °C, and a timer was started at the moment of exposure. The timer was stopped when the mice exhibited a response, such as lifting their paws, licking, or jumping. To prevent tissue injury, a maximum cutoff time of 20 s was set. Each mouse underwent two trials, with at least a 5 min interval occurring between the tests, and the paw withdrawal latency was obtained by averaging the two measurements.</p></sec><sec id="advs12367-sec-0250"><title>Collection of Mouse CSF, Serum, Spinal Cord Tissue, and DRG Tissue</title><p>Mouse CSF was collected following a previously described method.<sup>[</sup>
+<xref rid="advs12367-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup> Briefly, mice were anesthetized and secured in a stereotactic instrument. The cisterna magna was exposed and punctured with a 1 mL insulin syringe, thus allowing for approximately 10 µL of CSF to be withdrawn. Blood was collected from the retro‐orbital plexuses by carefully removing the eyeballs, followed by storage at room temperature for 1 h. The samples were then centrifuged at 3000 × <italic toggle="yes">g</italic> for 15 min to obtain serum (clear supernatant). Finally, the mice were intracardially perfused with 50 mL of 0.9% saline. Following perfusion, a 5 mL syringe filled with 0.9% saline was used to gently flush the spinal cord out of the spine. The bilateral lumbar DRG (L4–L6) tissues were then carefully dissected from the spine under a stereomicroscope.</p></sec><sec id="advs12367-sec-0260"><title>RNA‐Seq</title><p>DRG tissues from three mice were pooled to form a single sample. Two samples from the PTX+P6CIT/mIL‐10 group and one sample from the PTX group were used for whole transcriptome sequencing. A total of 1 µg of RNA per sample was used as input for RNA sample preparation. Sequencing libraries were created using NEBNext Ultra RNA Library Prep Kit for Illumina (NEB, USA). Index‐coded samples were clustered on a cBot Cluster Generation System with the TruSeq PE Cluster Kit v3‐cBot‐HS (Illumina). Following cluster generation, libraries were sequenced on an Illumina NovaSeq platform, and 150 bp paired‐end reads were generated. Subsequent analyses were performed using high‐quality clean data. The FPKM for each gene was calculated based on gene length and the number of reads mapped to it. Differentially expressed genes were analyzed for Gene Ontology (GO) enrichment, Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment, and Gene Set Enrichment Analysis (GSEA) using established methodologies.<sup>[</sup>
+<xref rid="advs12367-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup>
+</p></sec><sec id="advs12367-sec-0270"><title>Statistical Analysis</title><p>All of the statistical analyses were conducted using GraphPad Prism software. Data are expressed as means ± standard errors of the means (SEMs). To assess differences between two groups, a two‐tailed Student's t‐test was used. For comparisons across multiple groups, one‐way or two‐way analysis of variance (ANOVA) followed by Tukey's post hoc test was applied. A <italic toggle="yes">p</italic>‐value of less than 0.05 was considered to be statistically significant (*<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, and ***<italic toggle="yes">p</italic> &lt; 0.001).</p></sec></sec><sec sec-type="COI-statement" id="advs12367-sec-0290"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="advs12367-sec-0300"><title>Author Contributions</title><p>X.L., L.W., and X.L. contributed equally to this work. X.L., J.C., and Y.P. were involved in the conceptualization of the study. X.L., L.W., X.L., L.Z., Y.T., H.W., H.L., C.L., and H.W. performed the experiments and analyzed the data. J.C., X.L., and Y.P. supervised the project. X.L., L.W., J.C., and Y.P. prepared the figures, and edited the manuscript. J.C. and Y.P. acquired funding for the studies. All authors contributed to the article and approved the submission of the manuscript.</p></sec><sec id="advs12367-sec-0310"><title>Consent to Participate</title><p>The patient consent and ethical approval were obtained from the Institutional Ethics Committee of Sun Yat‐Sen Memorial Hospital, Sun Yat‐Sen University.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs12367-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="advs12367-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-12-2500362-s001.docx" position="float" orientation="portrait"><?suppdata-name ADVS-12-2500362-s001.docx?><?suppdata-size 3676301?><?suppdata-md5 34669160345ef2210e0d1782422791b7?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:ad07/12199344/34669160345e/ADVS-12-2500362-s001.docx?></media></supplementary-material></sec></body><back><ack id="advs12367-sec-0280"><title>Acknowledgements</title><p>The authors acknowledge BioRender (BioRender.com) for its help in creating the schematic illustration. This work was supported by a grant from the China and Germany Collaboration &amp; Exchange Project (N0: M‐0746 to Y.P.), National Natural Science Foundation of China (No. 52473328 to J.C.), and partly supported by a grant from the National Key R&amp;D Program of China (2018YFC1314400 and 2018 YFC13144‐01 to Y.P.).</p></ack><sec sec-type="data-availability" id="advs12367-sec-0330"><title>Data Availability Statement</title><p>The datasets used and/or analyzed during the current study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs12367-bibl-0001"><ref id="advs12367-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs12367-cit-0001">a) <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Gornstein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <source>Neuropharmacology</source>
+<year>2014</year>, <volume>76</volume>, <fpage>175</fpage>;<pub-id pub-id-type="pmid">23978385</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuropharm.2013.08.016</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0002">b) <string-name name-style="western">
+<given-names>F. E.</given-names>
+<surname>Walker</surname>
+</string-name>, <source>Semin. Oncol. Nurs.</source>
+<year>1993</year>, <volume>9</volume>, <fpage>6</fpage>.<pub-id pub-id-type="pmid">7904378</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0749-2081(16)30036-5</pub-id></mixed-citation></ref><ref id="advs12367-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs12367-cit-0003">a) <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Seretny</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. L.</given-names>
+<surname>Currie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. S.</given-names>
+<surname>Sena</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ramnarine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Grant</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>MacLeod</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Colvin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Fallon</surname>
+</string-name>, <source>Pain</source>
+<year>2014</year>, <volume>155</volume>, <fpage>2461</fpage>;<pub-id pub-id-type="pmid">25261162</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2014.09.020</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0004">b) <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ruan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Di</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. Y.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <source>Acta Pharmacol. Sin.</source>
+<year>2024</year>, <volume>45</volume>, <fpage>2061</fpage>.<pub-id pub-id-type="pmid">38789495</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41401-024-01301-z</pub-id><pub-id pub-id-type="pmcid">PMC11420356</pub-id></mixed-citation></ref><ref id="advs12367-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs12367-cit-0005">a) <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Tonello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ling</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. J.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Berta</surname>
+</string-name>, <source>J. Neuroinflammation</source>
+<year>2019</year>, <volume>16</volume>, <fpage>209</fpage>;<pub-id pub-id-type="pmid">31707979</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-019-1619-9</pub-id><pub-id pub-id-type="pmcid">PMC6842526</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0006">b) <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wedel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hahnefeld</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Schreiber</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Namendorf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Heymann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Uhr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. V.</given-names>
+<surname>Schmidt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>de Bruin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Hausch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Geisslinger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sisignano</surname>
+</string-name>, <source>J. Neuroinflammation</source>
+<year>2023</year>, <volume>20</volume>, <fpage>149</fpage>;<pub-id pub-id-type="pmid">37355700</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-023-02835-5</pub-id><pub-id pub-id-type="pmcid">PMC10290418</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0007">c) <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>J. Neuroinflammation</source>
+<year>2021</year>, <volume>18</volume>, <fpage>48</fpage>;<pub-id pub-id-type="pmid">33602238</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-021-02098-y</pub-id><pub-id pub-id-type="pmcid">PMC7890637</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0008">d) <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Ward</surname>
+</string-name>, <source>Int. J. Mol. Sci.</source>
+<year>2024</year>, <volume>25</volume>, <fpage>4277</fpage>;<pub-id pub-id-type="pmid">38673862</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms25084277</pub-id><pub-id pub-id-type="pmcid">PMC11050247</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0009">e) <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Miao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Neuropharmacology</source>
+<year>2023</year>, <volume>236</volume>, <elocation-id>109584</elocation-id>.<pub-id pub-id-type="pmid">37225085</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuropharm.2023.109584</pub-id></mixed-citation></ref><ref id="advs12367-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs12367-cit-0010">a) <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <source>J. Clin. Invest.</source>
+<year>2024</year>, <volume>134</volume>, <elocation-id>174847</elocation-id>;<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI174847</pub-id><pub-id pub-id-type="pmcid">PMC10940092</pub-id><pub-id pub-id-type="pmid">38319733</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0011">b) <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. L.</given-names>
+<surname>Pan</surname>
+</string-name>, <source>J. Neurochem.</source>
+<year>2019</year>, <volume>148</volume>, <fpage>252</fpage>.<pub-id pub-id-type="pmid">30431158</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jnc.14627</pub-id><pub-id pub-id-type="pmcid">PMC6340760</pub-id></mixed-citation></ref><ref id="advs12367-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs12367-cit-0012">a) <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Krukowski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Eijkelkamp</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Laumet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Hack</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Dougherty</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Heijnen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kavelaars</surname>
+</string-name>, <source>J. Neurosci.</source>
+<year>2016</year>, <volume>36</volume>, <elocation-id>11074</elocation-id>;<pub-id pub-id-type="pmid">27798187</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.3708-15.2016</pub-id><pub-id pub-id-type="pmcid">PMC5098842</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0013">b) <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ledeboer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. M.</given-names>
+<surname>Jekich</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Sloane</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Mahoney</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Langer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. D.</given-names>
+<surname>Milligan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Martin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. F.</given-names>
+<surname>Maier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. W.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Leinwand</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Chavez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. R.</given-names>
+<surname>Watkins</surname>
+</string-name>, <source>Brain, Behav., Immun.</source>
+<year>2007</year>, <volume>21</volume>, <fpage>686</fpage>;<pub-id pub-id-type="pmid">17174526</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2006.10.012</pub-id><pub-id pub-id-type="pmcid">PMC2063454</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0014">c) <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Sankaranarayanan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Tavares‐Ferreira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Mwirigi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. L.</given-names>
+<surname>Mejia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Burton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Price</surname>
+</string-name>, <source>J. Neuroinflammation</source>
+<year>2023</year>, <volume>20</volume>, <fpage>32</fpage>;<pub-id pub-id-type="pmid">36774519</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-023-02719-8</pub-id><pub-id pub-id-type="pmcid">PMC9922469</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0015">d) <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Ha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>You</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. S.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Kwon</surname>
+</string-name>, <source>Arch. Pharm. Res.</source>
+<year>2019</year>, <volume>42</volume>, <fpage>359</fpage>.<pub-id pub-id-type="pmid">30852731</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12272-019-01137-w</pub-id></mixed-citation></ref><ref id="advs12367-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs12367-cit-0016">
+<string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Kaczmarek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Kowalski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. G.</given-names>
+<surname>Anderson</surname>
+</string-name>, <source>Genome Med.</source>
+<year>2017</year>, <volume>9</volume>, <fpage>60</fpage>.<pub-id pub-id-type="pmid">28655327</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13073-017-0450-0</pub-id><pub-id pub-id-type="pmcid">PMC5485616</pub-id></mixed-citation></ref><ref id="advs12367-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs12367-cit-0017">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Akinc</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zumbuehl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Goldberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. S.</given-names>
+<surname>Leshchiner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Busini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Hossain</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Bacallado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. N.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Fuller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Alvarez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Borodovsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Borland</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Constien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>de Fougerolles</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Dorkin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Narayanannair Jayaprakash</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jayaraman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>John</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Koteliansky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Manoharan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Nechev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Racie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Raitcheva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. G.</given-names>
+<surname>Rajeev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Sah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Soutschek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Toudjarska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. P.</given-names>
+<surname>Vornlocher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. S.</given-names>
+<surname>Zimmermann</surname>
+</string-name>, et al., <source>Nat. Biotechnol.</source>
+<year>2008</year>, <volume>26</volume>, <fpage>561</fpage>.<pub-id pub-id-type="pmid">18438401</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt1402</pub-id><pub-id pub-id-type="pmcid">PMC3014085</pub-id></mixed-citation></ref><ref id="advs12367-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs12367-cit-0018">a) <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Palanki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Bose</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dave</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. M.</given-names>
+<surname>White</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Berkowitz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Luks</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Yaqoob</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Swingle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Menon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hodgson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Biswas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Billingsley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Yiping</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Carpenter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Trokhan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yeo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Johana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. Y.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Alameh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. C.</given-names>
+<surname>Bennett</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. B.</given-names>
+<surname>Storm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jain</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Weissman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Mitchell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. H.</given-names>
+<surname>Peranteau</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2023</year>, <volume>17</volume>, <elocation-id>13594</elocation-id>;<pub-id pub-id-type="pmid">37458484</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acsnano.3c02268</pub-id><pub-id pub-id-type="pmcid">PMC11025390</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0019">b) <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Ho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2024</year>, <volume>18</volume>, <fpage>3260</fpage>;<pub-id pub-id-type="pmid">38227975</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acsnano.3c09817</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0020">c) <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Mao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Nie</surname>
+</string-name>, <source>Acta Biomater.</source>
+<year>2024</year>, <volume>174</volume>, <fpage>297</fpage>.<pub-id pub-id-type="pmid">38096960</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.actbio.2023.12.009</pub-id></mixed-citation></ref><ref id="advs12367-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs12367-cit-0021">a) <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Cousins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hodges</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Schubert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Veronese</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Turkheimer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Miyan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Engelhardt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Roncaroli</surname>
+</string-name>, <source>Neuropathol. Appl. Neurobiol.</source>
+<year>2022</year>, <volume>48</volume>, <elocation-id>12789</elocation-id>;<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/nan.12789</pub-id><pub-id pub-id-type="pmid">34935179</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0022">b) <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Whish</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Dziegielewska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Møllgård</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. M.</given-names>
+<surname>Noor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Liddelow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Habgood</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Richardson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. R.</given-names>
+<surname>Saunders</surname>
+</string-name>, <source>Front. Neurosci.</source>
+<year>2015</year>, <volume>9</volume>, <fpage>16</fpage>;<pub-id pub-id-type="pmid">25729345</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnins.2015.00016</pub-id><pub-id pub-id-type="pmcid">PMC4325900</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0023">c) <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Bartanusz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Jezova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Alajajian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Digicaylioglu</surname>
+</string-name>, <source>Ann. Neurol.</source>
+<year>2011</year>, <volume>70</volume>, <fpage>194</fpage>.<pub-id pub-id-type="pmid">21674586</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.22421</pub-id></mixed-citation></ref><ref id="advs12367-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs12367-cit-0024">
+<string-name name-style="western">
+<given-names>A. P.</given-names>
+<surname>Ligocki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. V.</given-names>
+<surname>Vinson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. T.</given-names>
+<surname>Yachnis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. A.</given-names>
+<surname>Dunn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Scott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. V.</given-names>
+<surname>Alvarez‐Castanon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Baez Montalvo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O. G.</given-names>
+<surname>Frisone</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. A. J.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Pessa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Scott</surname>
+</string-name>, <source>Sci. Adv.</source>
+<year>2024</year>, <volume>10</volume>, <elocation-id>adn3259</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/sciadv.adn3259</pub-id><pub-id pub-id-type="pmcid">PMC11373606</pub-id><pub-id pub-id-type="pmid">39231237</pub-id></mixed-citation></ref><ref id="advs12367-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs12367-cit-0025">a) <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Reina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>De León Casasola Ode</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Villanueva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>López</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Machés</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>De Andrés</surname>
+</string-name>, <source>Anesth. Analg.</source>
+<year>2004</year>, <volume>98</volume>, <fpage>1479</fpage>;<pub-id pub-id-type="pmid">15105235</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1213/01.ane.0000113240.09354.e9</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0026">b) <string-name name-style="western">
+<given-names>M. I.</given-names>
+<surname>Papisov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. V.</given-names>
+<surname>Belov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. S.</given-names>
+<surname>Gannon</surname>
+</string-name>, <source>Mol. Pharm.</source>
+<year>2013</year>, <volume>10</volume>, <fpage>1522</fpage>;<pub-id pub-id-type="pmid">23316936</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/mp300474m</pub-id><pub-id pub-id-type="pmcid">PMC3646927</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0027">c) <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Koleske</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. M.</given-names>
+<surname>Koller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. L.</given-names>
+<surname>Halupnik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. O.</given-names>
+<surname>Alli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Koneru</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>DeFreitas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ramagiri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Strahle</surname>
+</string-name>, <source>Fluids Barriers CNS</source>
+<year>2024</year>, <volume>21</volume>, <fpage>4</fpage>.<pub-id pub-id-type="pmid">38191402</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12987-023-00503-7</pub-id><pub-id pub-id-type="pmcid">PMC10773070</pub-id></mixed-citation></ref><ref id="advs12367-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs12367-cit-0028">
+<string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Levine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Povlishock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. P.</given-names>
+<surname>Becker</surname>
+</string-name>, <source>Brain Res.</source>
+<year>1982</year>, <volume>241</volume>, <fpage>31</fpage>.<pub-id pub-id-type="pmid">7104707</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0006-8993(82)91225-2</pub-id></mixed-citation></ref><ref id="advs12367-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs12367-cit-0029">a) <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Guha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. F.</given-names>
+<surname>Shamji</surname>
+</string-name>, <source>Neurosurgery</source>
+<year>2016</year>, <volume>63</volume>, <fpage>118</fpage>;<pub-id pub-id-type="pmid">27399376</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1227/NEU.0000000000001255</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0030">b) <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Eur. J. Pharmacol.</source>
+<year>2022</year>, <volume>933</volume>, <elocation-id>175288</elocation-id>.<pub-id pub-id-type="pmid">36122757</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejphar.2022.175288</pub-id></mixed-citation></ref><ref id="advs12367-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs12367-cit-0031">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Exploration</source>
+<year>2024</year>, <volume>4</volume>, <elocation-id>20230147</elocation-id>.<pub-id pub-id-type="pmid">39713203</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/EXP.20230147</pub-id><pub-id pub-id-type="pmcid">PMC11655307</pub-id></mixed-citation></ref><ref id="advs12367-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs12367-cit-0032">
+<string-name name-style="western">
+<given-names>L. F.</given-names>
+<surname>Ferrari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Araldi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. G.</given-names>
+<surname>Green</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Levine</surname>
+</string-name>, <source>Pain</source>
+<year>2020</year>, <volume>161</volume>, <fpage>865</fpage>.<pub-id pub-id-type="pmid">31917777</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/j.pain.0000000000001798</pub-id><pub-id pub-id-type="pmcid">PMC7085433</pub-id></mixed-citation></ref><ref id="advs12367-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs12367-cit-0033">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Tuma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Collins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Paul</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Murthy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Biochemistry</source>
+<year>2023</year>, <volume>62</volume>, <fpage>3533</fpage>.<pub-id pub-id-type="pmid">37729550</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.biochem.3c00371</pub-id><pub-id pub-id-type="pmcid">PMC10760911</pub-id></mixed-citation></ref><ref id="advs12367-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs12367-cit-0034">a) <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2024</year>, <volume>36</volume>, <elocation-id>2307624</elocation-id>;<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adma.202307624</pub-id><pub-id pub-id-type="pmid">39478649</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0035">b) <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Al Mamun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <source>Mater. Today Bio</source>
+<year>2023</year>, <volume>18</volume>, <elocation-id>100546</elocation-id>;<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.mtbio.2023.100546</pub-id><pub-id pub-id-type="pmcid">PMC9860515</pub-id><pub-id pub-id-type="pmid">36691606</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0036">c) <string-name name-style="western">
+<given-names>T. W.</given-names>
+<surname>Leong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. T.</given-names>
+<surname>David</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Mwirigi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Giannotta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Dejana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wiggins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Krishnagiri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Bachoo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Ge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Price</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Qin</surname>
+</string-name>, <source>ACS Nano</source>
+<year>2024</year>, <volume>18</volume>, <elocation-id>34720</elocation-id>.<pub-id pub-id-type="pmid">39655357</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acsnano.4c06030</pub-id></mixed-citation></ref><ref id="advs12367-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs12367-cit-0037">a) <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Syková</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Nicholson</surname>
+</string-name>, <source>Physiol. Rev.</source>
+<year>2008</year>, <volume>88</volume>, <fpage>1277</fpage>;<pub-id pub-id-type="pmid">18923183</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physrev.00027.2007</pub-id><pub-id pub-id-type="pmcid">PMC2785730</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0038">b) <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>AAPS J.</source>
+<year>2021</year>, <volume>23</volume>, <fpage>61</fpage>;<pub-id pub-id-type="pmid">33942198</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1208/s12248-021-00587-9</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0039">c) <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Hladky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Barrand</surname>
+</string-name>, <source>Fluids Barriers CNS</source>
+<year>2014</year>, <volume>11</volume>, <fpage>26</fpage>.<pub-id pub-id-type="pmid">25678956</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/2045-8118-11-26</pub-id><pub-id pub-id-type="pmcid">PMC4326185</pub-id></mixed-citation></ref><ref id="advs12367-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs12367-cit-0040">a) <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Piao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. K. H.</given-names>
+<surname>Slater</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Tang</surname>
+</string-name>, <source>Chin. Chem. Lett.</source>
+<year>2025</year>, <elocation-id>110833</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.cclet.2025.110833</pub-id>;</mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0041">b) <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Bioorg. Med. Chem.</source>
+<year>2025</year>, <volume>120</volume>, <elocation-id>118080</elocation-id>;<pub-id pub-id-type="pmid">39893759</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bmc.2025.118080</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0042">c) <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Alshehry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cole</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Zhu</surname>
+</string-name>, <source>AAPS J.</source>
+<year>2025</year>, <volume>27</volume>, <fpage>66</fpage>;<pub-id pub-id-type="pmid">40102316</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1208/s12248-025-01051-8</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0043">d) <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Lam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Leung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Martin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wood</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Schreiner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Palmer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Daly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>McClintock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Heyes</surname>
+</string-name>, <source>Adv. Mater.</source>
+<year>2023</year>, <volume>35</volume>, <elocation-id>2209624</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adma.202209624</pub-id><pub-id pub-id-type="pmid">36680477</pub-id></mixed-citation></ref><ref id="advs12367-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs12367-cit-0044">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Maixner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Yadav</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. W.</given-names>
+<surname>Ali</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Hooks</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. R.</given-names>
+<surname>Weng</surname>
+</string-name>, <source>Glia</source>
+<year>2019</year>, <volume>67</volume>, <fpage>482</fpage>.<pub-id pub-id-type="pmid">30578561</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/glia.23557</pub-id></mixed-citation></ref><ref id="advs12367-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs12367-cit-0045">
+<string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. L.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Front. Immunol.</source>
+<year>2023</year>, <volume>14</volume>, <elocation-id>1091753</elocation-id>.<pub-id pub-id-type="pmid">36993950</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2023.1091753</pub-id><pub-id pub-id-type="pmcid">PMC10040838</pub-id></mixed-citation></ref><ref id="advs12367-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs12367-cit-0046">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>de Souza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rosario Claudio</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Inyang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dagenais</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Monahan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ramakrishnan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Parmar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Geron</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Scherrer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. K.</given-names>
+<surname>Folger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Laumet</surname>
+</string-name>, <source>Brain Behav. Immun.</source>
+<year>2024</year>, <volume>116</volume>, <fpage>193</fpage>.<pub-id pub-id-type="pmid">38081433</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2023.12.013</pub-id><pub-id pub-id-type="pmcid">PMC10843623</pub-id></mixed-citation></ref><ref id="advs12367-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs12367-cit-0047">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Frisén</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Risling</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Korhonen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Zirrgiebel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. B.</given-names>
+<surname>Johansson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Cullheim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Lindholm</surname>
+</string-name>, <source>J. Neurosci.</source>
+<year>1998</year>, <volume>18</volume>, <fpage>5714</fpage>.<pub-id pub-id-type="pmid">9671662</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.18-15-05714.1998</pub-id><pub-id pub-id-type="pmcid">PMC6793076</pub-id></mixed-citation></ref><ref id="advs12367-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs12367-cit-0048">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Giniatullin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Jolkkonen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <source>Cell Rep.</source>
+<year>2023</year>, <volume>42</volume>, <elocation-id>113386</elocation-id>.<pub-id pub-id-type="pmid">37948181</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.celrep.2023.113386</pub-id></mixed-citation></ref><ref id="advs12367-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs12367-cit-0049">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Wakatsuki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kiryu‐Seo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Yasui</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Yokota</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kida</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Konishi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kiyama</surname>
+</string-name>, <source>J. Neuroinflammation</source>
+<year>2024</year>, <volume>21</volume>, <fpage>25</fpage>.<pub-id pub-id-type="pmid">38238800</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-024-03018-6</pub-id><pub-id pub-id-type="pmcid">PMC10795366</pub-id></mixed-citation></ref><ref id="advs12367-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs12367-cit-0050">a) <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Zhuo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>An</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Cell Commun. Signal.</source>
+<year>2024</year>, <volume>22</volume>, <fpage>335</fpage>;<pub-id pub-id-type="pmid">38890746</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12964-024-01709-4</pub-id><pub-id pub-id-type="pmcid">PMC11186255</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0051">b) <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Chi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Miao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Br. J. Pharmacol.</source>
+<year>2024</year>, <volume>181</volume>, <fpage>3136</fpage>.<pub-id pub-id-type="pmid">38715438</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bph.16397</pub-id></mixed-citation></ref><ref id="advs12367-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs12367-cit-0052">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kaur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shuken</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Iram</surname>
+</string-name>, <source>STAR Protoc.</source>
+<year>2023</year>, <volume>4</volume>, <elocation-id>102015</elocation-id>.<pub-id pub-id-type="pmid">36638015</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.xpro.2022.102015</pub-id><pub-id pub-id-type="pmcid">PMC9852694</pub-id></mixed-citation></ref><ref id="advs12367-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs12367-cit-0053">a) <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Sang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hou</surname>
+</string-name>, <source>J. Neuroinflammation</source>
+<year>2024</year>, <volume>21</volume>, <fpage>148</fpage>;<pub-id pub-id-type="pmid">38840180</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-024-03143-2</pub-id><pub-id pub-id-type="pmcid">PMC11155181</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs12367-cit-0054">b) <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Saiding</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Sarmento</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Cui</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2024</year>, <volume>11</volume>, <elocation-id>2406742</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/advs.202406742</pub-id><pub-id pub-id-type="pmcid">PMC11538653</pub-id><pub-id pub-id-type="pmid">39120009</pub-id></mixed-citation></ref><ref id="advs12367-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs12367-cit-0055">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Nicolazzo</surname>
+</string-name>, <source>Br. J. Pharmacol.</source>
+<year>2022</year>, <volume>179</volume>, <fpage>2577</fpage>.<pub-id pub-id-type="pmid">35048358</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bph.15802</pub-id></mixed-citation></ref></ref-list></back></article>
