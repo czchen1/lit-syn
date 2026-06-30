@@ -1,0 +1,1768 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="advs202406545" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="pmc-domain-id">2933</journal-id><journal-id journal-id-type="pmc-domain">advsci</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11744645</article-id><article-id pub-id-type="pmcid-ver">PMC11744645.1</article-id><article-id pub-id-type="pmcaid">11744645</article-id><article-id pub-id-type="pmcaiid">11744645</article-id><article-id pub-id-type="pmid">39601152</article-id><article-id pub-id-type="doi">10.1002/advs.202406545</article-id><article-id pub-id-type="publisher-id">ADVS202406545</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Vector‐Free Deep Tissue Targeting of DNA/RNA Therapeutics via Single Capacitive Discharge Conductivity‐Clamped Gene Electrotransfer</article-title></title-group><contrib-group><contrib id="advs202406545-cr-0001" contrib-type="author"><name name-style="western"><surname>Pinyon</surname><given-names initials="JL">Jeremy L.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6261-3927</contrib-id><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs202406545-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs202406545-cr-0002" contrib-type="author"><name name-style="western"><surname>von Jonquieres</surname><given-names initials="G">Georg</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7423-3355</contrib-id><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs202406545-cr-0003" contrib-type="author"><name name-style="western"><surname>Mow</surname><given-names initials="SL">Stephen L.</given-names></name><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs202406545-cr-0004" contrib-type="author"><name name-style="western"><surname>Abed</surname><given-names initials="AA">Amr Al</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5560-4771</contrib-id><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs202406545-cr-0005" contrib-type="author"><name name-style="western"><surname>Lai</surname><given-names initials="KY">Keng‐Yin</given-names></name><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs202406545-cr-0006" contrib-type="author"><name name-style="western"><surname>Manoharan</surname><given-names initials="M">Mathumathi</given-names></name><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs202406545-cr-0007" contrib-type="author"><name name-style="western"><surname>Crawford</surname><given-names initials="EN">Edward N.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2158-1962</contrib-id><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs202406545-cr-0008" contrib-type="author"><name name-style="western"><surname>Xue</surname><given-names initials="SH">Stanley H.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0009-5687-4747</contrib-id><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs202406545-cr-0009" contrib-type="author"><name name-style="western"><surname>Smith‐Moore</surname><given-names initials="S">Sarah</given-names></name><xref rid="advs202406545-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs202406545-cr-0010" contrib-type="author"><name name-style="western"><surname>Caproni</surname><given-names initials="LJ">Lisa J.</given-names></name><xref rid="advs202406545-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs202406545-cr-0011" contrib-type="author"><name name-style="western"><surname>Milsom</surname><given-names initials="S">Sarah</given-names></name><xref rid="advs202406545-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs202406545-cr-0012" contrib-type="author"><name name-style="western"><surname>Klugmann</surname><given-names initials="M">Matthias</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0574-612X</contrib-id><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs202406545-cr-0013" contrib-type="author"><name name-style="western"><surname>Lovell</surname><given-names initials="NH">Nigel H.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1637-1079</contrib-id><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs202406545-cr-0014" contrib-type="author" corresp="yes"><name name-style="western"><surname>Housley</surname><given-names initials="GD">Gary D.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8413-588X</contrib-id><xref rid="advs202406545-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>g.housley@unsw.edu.au</email></address></contrib></contrib-group><aff id="advs202406545-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Translational Neuroscience Facility</named-content>
+<named-content content-type="organisation-division">Department of Physiology</named-content>
+<named-content content-type="organisation-division">School of Biomedical Sciences</named-content>
+<named-content content-type="organisation-division">Graduate School of Biomedical Engineering</named-content>
+<named-content content-type="organisation-division">Tyree Institute for Health Engineering (IHealthE)</named-content>
+<institution>UNSW</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">NSW</named-content>
+<postal-code>2052</postal-code>
+<country country="AU">Australia</country>
+</aff><aff id="advs202406545-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Charles Perkins Centre</named-content>
+<named-content content-type="organisation-division">School of Medical Sciences</named-content>
+<named-content content-type="organisation-division">Faculty of Medicine and Health</named-content>
+<institution>University of Sydney</institution>
+<city>Camperdown</city>
+<named-content content-type="country-part">NSW</named-content>
+<postal-code>2006</postal-code>
+<country country="AU">Australia</country>
+</aff><aff id="advs202406545-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Touchlight Genetics Ltd</institution>
+<named-content content-type="street">Lower Sunbury Road</named-content>
+<city>Hampton</city>
+<country country="GB">UK</country>
+<postal-code>TW12 2ER</postal-code>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E‐mail: <email>g.housley@unsw.edu.au</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>11</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2025</year></pub-date><volume>12</volume><issue seq="110">3</issue><issue-id pub-id-type="pmc-issue-id">479985</issue-id><issue-id pub-id-type="doi">10.1002/advs.v12.3</issue-id><elocation-id>2406545</elocation-id><history>
+<date date-type="rev-recd"><day>10</day><month>9</month><year>2024</year></date>
+<date date-type="received"><day>13</day><month>6</month><year>2024</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>27</day><month>11</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>21</day><month>01</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-01-29 01:25:36.520"><day>29</day><month>01</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). Advanced Science published by Wiley‐VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ADVS-12-2406545.pdf"><?pdf-name ADVS-12-2406545.pdf?><?pdf-size 4259284?><?pdf-md5 9c782a2807c156ae1aaaaacaeb765435?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:540d/11744645/9c782a2807c1/ADVS-12-2406545.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ADVS-12-2406545.pdf"/><abstract><title>Abstract</title><p>Viral vector and lipid nanoparticle based gene delivery have limitations around spatiotemporal control, transgene packaging size, and vector immune reactivity, compromising translation of nucleic acid (NA) therapeutics. In the emerging field of DNA and particularly RNA‐based gene therapies, vector‐free delivery platforms are identified as a key unmet need. Here, this work addresses these challenges through gene electrotransfer (GET) of “naked” polyanionic DNA/mRNA using a single needle form‐factor which supports “electro‐lens” based compression of the local electric field, and local control of tissue conductivity, enabling single capacitive discharge minimal charge gene delivery. Proof‐of‐concept studies for “single capacitive discharge conductivity‐clamped gene electrotransfer” (SCD‐CC‐GET) deep tissue delivery of naked DNA and mRNA in the mouse hindlimb skeletal muscle achieve stable (&gt;18 month) expression of luciferase reporter synthetic DNA, and mRNA encoding the reporter yield rapid onset (&lt;3 h) high transient expression for several weeks. Delivery of DNAs encoding secreted alkaline phosphatase and Cal/09 influenza virus hemagglutinin antigen generate high systemic circulating recombinant protein levels and antibody titres. The findings support adoption of SCD‐CC‐GET for vaccines and immunotherapies, and extend the utility of this technology to meet the demand for efficient vector‐free, precision, deep tissue delivery of NA therapeutics.</p></abstract><abstract id="advs202406545-abs-0001" abstract-type="graphical"><p>Vector‐free spatially controlled deep tissue gene expression is achieved using single capacitive discharge conductivity‐clamped gene electrotransfer (SCD‐CC‐GET) via an electro‐lens integrated into a needle probe. In mouse hindlimb skeletal muscle, delivery of naked reporter DNA produces stable gene expression, whereas reporter mRNA expression is faster and persists for weeks. In a proof‐of‐concept for DNA/mRNA immunotherapy applications, SCD‐CC‐GET achieves high titres of secreted protein and influenza virus epitope antibodies.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ADVS-12-2406545-g006.jpg"><?image-name ADVS-12-2406545-g006.jpg?><?image-size 17154?><?image-md5 405ad5defce962851775c76c3b4a1028?><?image-image-server-status NEVER_LOAD?><?image-original-height 122?><?image-original-width 180?><?image-scaled-height 122?><?image-scaled-width 180?><?image-cloudpmc-urn urn:cdn:blobs/540d/11744645/405ad5defce9/ADVS-12-2406545-g006.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs202406545-kwd-0001">DNA and RNA vaccines</kwd><kwd id="advs202406545-kwd-0002">electric field focusing</kwd><kwd id="advs202406545-kwd-0003">nonviral gene therapy</kwd><kwd id="advs202406545-kwd-0004">nucleic acid electrotransfer</kwd><kwd id="advs202406545-kwd-0005">precision gene delivery platform</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Australian Research Council
+</institution><institution-id institution-id-type="doi">10.13039/501100000923</institution-id></institution-wrap></funding-source><award-id>DP151014754</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Health and Medical Research Council
+</institution><institution-id institution-id-type="doi">10.13039/501100000925</institution-id></institution-wrap></funding-source><award-id>APP1189113</award-id><award-id>APP2013285</award-id></award-group><award-group id="funding-0003"><funding-source>Australian Government Department of Education Australia's Economic Accelerator Seed</funding-source><award-id>AE230100118</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="14"/><word-count count="10052"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 20, 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.2 mode:remove_FC converted:20.01.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs202406545-cit-0051">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Pinyon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>von Jonquieres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Mow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Abed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.‐Y.</given-names>
+<surname>Lai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Manoharan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. N.</given-names>
+<surname>Crawford</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Smith‐Moore</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Caproni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Milsom</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Klugmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Lovell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Housley</surname>
+</string-name>, <article-title>Vector‐Free Deep Tissue Targeting of DNA/RNA Therapeutics via Single Capacitive Discharge Conductivity‐Clamped Gene Electrotransfer</article-title>. <source>Adv. Sci.</source>
+<year>2025</year>, <volume>12</volume>, <elocation-id>2406545</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202406545</pub-id>
+<pub-id pub-id-type="pmcid">PMC11744645</pub-id><pub-id pub-id-type="pmid">39601152</pub-id></mixed-citation>
+</p></notes></front><body><sec id="advs202406545-sec-0010"><label>1</label><title>Introduction</title><p>The landscape of nucleic acid (NA) therapeutics is extending broadly across infectious disease control, treatment of noncommunicable diseases, regenerative medicine, and highly personalized treatments of gene disorders.<sup>[</sup>
+<xref rid="advs202406545-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> The sophistication of precision gene‐based therapeutics leverages the expanding knowledge of functional genomics, AI‐based DNA/RNA design and cell‐free manufacturing technologies.<sup>[</sup>
+<xref rid="advs202406545-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>]</sup> At the center of this paradigm shift in molecular medicine are advances in NA delivery technologies matched to the therapeutic applications. The drive to develop nonviral DNA and RNA delivery platforms<sup>[</sup>
+<xref rid="advs202406545-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> has been vindicated by the response to the COVID19 pandemic, where efficacy, development speed, and cost‐effectiveness have driven adoption. Unifying challenges of vector‐based DNA and RNA delivery approaches include their unrestricted dispersion, limited packaging capacities, and inherent immunogenicity.<sup>[</sup>
+<xref rid="advs202406545-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="advs202406545-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>]</sup> Consequently, there is a pressing need for safe and efficacious vector‐free NA delivery platforms for modern gene medicines ranging from vaccines to personalized focal gene editing. Current methods for vector‐free in vivo gene transfer including the ballistic gene gun, sonoporation, and conventional “open field” electroporation/gene electrotransfer (GET), that mediate uptake of therapeutic NA, are typically cytotoxic, tissue damaging, and painful.<sup>[</sup>
+<xref rid="advs202406545-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup>
+</p><p>GET is an effective gene delivery modality for “naked” NA delivery that utilizes an electric field to facilitate localized and instantaneous binding of the polyanionic NA molecules of mega Dalton size to the cathode‐facing cell membranes, where endocytosis enables DNA uptake followed by subsequent payload delivery to the nucleus for expression,<sup>[</sup>
+<xref rid="advs202406545-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup> or cytosolic protein translation with mRNA. GET is increasingly being adopted in clinical settings for applications ranging from DNA vaccines,<sup>[</sup>
+<xref rid="advs202406545-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs202406545-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> cancer treatments,<sup>[</sup>
+<xref rid="advs202406545-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="advs202406545-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> and gene augmentation directed at vision disorders,<sup>[</sup>
+<xref rid="advs202406545-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> or enhancing hearing outcomes for medical bionics. The latter utilized “close‐field” GET via pulsed electric field focusing, creating an “electro‐lens” using a multielectrode bionic array for precision delivery of neurotrophin encoding NAs to the cochlea, promoting directed ectopic auditory nerve regeneration.<sup>[</sup>
+<xref rid="advs202406545-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs202406545-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs202406545-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="advs202406545-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> The efficiency of this bionic array‐directed gene electrotransfer technology (BaDGE) was enhanced several‐fold by integrating microfluidics to bias electrical conductivity to the polyanionic DNA species, described as “conductivity‐clamped gene electrotransfer” (CC‐GET).<sup>[</sup>
+<xref rid="advs202406545-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="advs202406545-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup>
+</p><p>Here we demonstrate a paradigm shift in precision vector‐free DNA and mRNA delivery in vivo achieved using single capacitive discharge (SCD) CC‐GET integrated into a disposable needle‐hub configuration. The development of this SCD‐CC‐GET technology proved highly efficient for stable DNA expression in skeletal muscle and achieved superior early onset protein translation with mRNA delivery. SCD‐CC‐GET is minimally invasive and enabled titratable secreted alkaline phosphatase production and immune‐priming responses against Influenza A H1N1 Cal/09 hemagglutinin encoded by synthetic DNAs. These proof‐of‐concept studies reflect the broad potential for SCD‐CC‐GET to enable precision nonviral NA therapeutics across focal gene therapy applications.</p></sec><sec id="advs202406545-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="advs202406545-sec-0030"><label>2.1</label><title>Optimizing ConductivityClamped Gene Electrotransfer in Skeletal Muscle</title><p>The initial prototype CC‐GET “electro‐lens” probe (CC‐GET probe) was constructed as a co‐axial “needle” with anode and cathode elements separated by a nonconductive electric field focusing zone, with delivery of the NA via the tip<sup>[</sup>
+<xref rid="advs202406545-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs202406545-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> (<bold>Figure</bold> <xref rid="advs202406545-fig-0001" ref-type="fig">
+<bold>1</bold>a,b</xref>). An iso‐osmotic nonconductive carrier solution reduced local conductivity, biased to the polyanionic “naked” NA. Electric iso‐potential and electric field profiles (Figure <xref rid="advs202406545-fig-0001" ref-type="fig">1a</xref>) were modeled using COMSOL for the CC‐GET probe, based on an applied voltage of 200 V via a custom‐built controller. The predicted ellipsoid‐shaped electric field profile is congruent with the in vivo gene transfer area observed in the adult C57BL/6J mouse hindlimb, where 50 µL of reporter plasmid DNA (pDNA; CMVp‐mCHERRYnls or CAGp‐eGFP pDNA; 2 µg µL<sup>−1</sup>) was injected, followed by delivery of 5 × 4 ms or 10 × 100 µs square wave pulses (50 mA/≈60 V) respectively; imaged at 4 and 7 days in the whole‐mount hindlimb muscle (Figure <xref rid="advs202406545-fig-0001" ref-type="fig">1c–g</xref>).</p><fig position="float" fig-type="Figure" id="advs202406545-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Pulsed CC‐GET of naked DNA achieves high efficiency gene expression in mouse hindlimb skeletal muscle in vivo. a) Modeled maps of electric potential and derived electric field in the mouse hindlimb muscle tissue surrounding the CC‐GET probe (COMSOL Multiphysics) based on local conductivity matched to baseline measurements, for a 200 V pulse across the electrodes. Dashed boundary in the electric field map indicates CC‐GET threshold for gene expression (≈120 V cm<sup>−1</sup>). b) CC‐GET probe showing “electro‐lens” established by the nonconductive space separating two Pt‐Ir electrodes (after electro‐lens patent application<sup>[</sup>
+<xref rid="advs202406545-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup>). c) Image of a shaved adult mouse hindlimb with the CC‐GET probe inserted and pDNA in 10% sucrose carrier (50 µL) injected (simulated electric field overlay in red). d,e) Whole‐mount low‐power LSM images of mCherry expression in mouse hindlimb flexor digitorium longus and gastrocnemius muscle groups from two mice 7 days following CC‐GET (CMVp‐mCHERRYnls pDNA; 2 µg µL<sup>−1</sup>; 50 µL in 10% sucrose carrier; 1 min delay prior to delivery of 5 × 4 ms 50 mA/60 V square wave pulses). f) Transverse and g) longitudinal cryosections of the mouse gastrocnemius muscle 4 days after electrotransfer of a CAGp‐eGFP reporter plasmid (2 µg µL<sup>−1</sup>; 50 µL; in 10% sucrose;10 × 100 µs pulses at 500 µs intervals, 50 mA/60 V) demonstrates widespread and high efficiency gene expression in the target muscle. h) fLuc – encoding dbCMVp‐fLuc dbDNA; 2 µg µL<sup>−1</sup>; 50 µL in 10% sucrose was delivered into the mouse hindlimb, with electrotransfer with the CC‐GET probe 1 (5 × 4 ms, 50 mA) performed immediately (0 min), 1 min, or 5 min following injection (n = 10). A significant correlation between the achieved local conductance between the electrodes [mS] and the dbCMVp‐fLuc dbDNA incubation time prior to electrotransfer was recorded. Conductance during immediate CC‐GET (0.552 ± 0.025 mS) was significantly lower than conductance measured after 1 min (0.748 ± 0.042 mS; <italic toggle="yes">p</italic> = 0.012) and conductance increased further following a 5 min incubation of dbCMVp‐fLuc dbDNA (1.275 ± 0.087 mS; <italic toggle="yes">p</italic> &lt; 0.001) prior to CC‐GET. This indicated that immediate pulse delivery achieves superior conductivity‐clamping and hence highest electric field strength for a fixed current pulse train. i) Luciferin–Luciferase bioluminescence imaging of dbCMVp‐fLuc dbDNA expression demonstrates that photon emission was inversely correlated to the delay between incubation time before CC‐GET pulse delivery (<italic toggle="yes">n</italic> = 30). Bioluminescence increase over the no‐GET control (2.15 × 10<sup>7</sup> ± 8.05 × 10<sup>6</sup>) was highly significant <italic toggle="yes">p</italic> &lt; 0.001 for each 0 min (2.79 × 10<sup>9</sup> ± 3.55 × 10<sup>8</sup>), 1 min (1.22 × 10<sup>9</sup> ± 1.80 × 10<sup>8</sup>), and 5 min (8.18 × 10<sup>9</sup> ± 7.95 × 10<sup>7</sup>) incubation time before CC‐GET (bioluminescence data from 1, 3, and 7 days combined). Significantly elevated bioluminescence emission was detected using immediate post‐injection CC‐GET compared to 1 min (<italic toggle="yes">p</italic> = 0.014) or 5 min (<italic toggle="yes">p</italic> &lt; 0.001) pulse delay after injection. Box plots show 25% and 75% percentile, median and mean (dashed lines), with 95% confidence intervals. One‐way ANOVA on ranks with Tukey post‐hoc test for all pairwise multiple comparison was performed on both data sets. Electro‐lens controlled GET described in patent application.<sup>[</sup>
+<xref rid="advs202406545-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup>
+</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ADVS-12-2406545-g002.jpg"><?image-name ADVS-12-2406545-g002.jpg?><?image-size 113029?><?image-md5 1a595644b5f9009e43778aca42c7dbb2?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 841?><?image-original-width 820?><?image-scaled-height 560?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/540d/11744645/1a595644b5f9/ADVS-12-2406545-g002.jpg?><?thumb-name ADVS-12-2406545-g002.gif?><?thumb-size 9369?><?thumb-md5 c63e0d4c56bf9cf2e7dfabc96cbd4dc1?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 103?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/540d/11744645/c63e0d4c56bf/ADVS-12-2406545-g002.gif?></graphic></fig><p>Given that conductivity‐clamping efficiency was likely to depend on timing of the pulsed electric field following NA injection, this was systematically tested. CC‐GET (5 × 4 ms pulses) was performed immediately, 1 min, or 5 min after injection of a synthetic luciferase‐encoding DNA (dbCMVp‐fLuc dbDNA) into the hindlimb muscle. The control system (DS5 clinical stimulator and custom interface) captured the applied voltage required (<italic toggle="yes">V</italic>
+<sub>a</sub>) across the electrodes to drive the specified 50 mA current (where <italic toggle="yes">V</italic>
+<sub>a</sub> is a surrogate measure of field strength, the driving force for GET), thus enabling calculation of local conductance (<italic toggle="yes">G</italic> = <italic toggle="yes">V</italic>
+<sub>a</sub>/<italic toggle="yes">I</italic>). A maximum reduction in tissue conductivity of 45% occurred immediately following injection of the DNA in the nonconductive carrier (baseline 1.01 ± 0.025 mS, <italic toggle="yes">n</italic> = 6, reduced to 0.552 ± 0.025 mS at time zero, <italic toggle="yes">n</italic> = 10; <italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">t</italic>‐test). A delay of 1 min produced a significant 43% return of conductivity (0.748 ± 0.042 mS; <italic toggle="yes">p</italic> = 0.012), with baseline restored within 5 min (Figure <xref rid="advs202406545-fig-0001" ref-type="fig">1h</xref>). The bioluminescence readout of expression (reporting field strength) correlated with the local conductivity analysis, with maximum expression achieved when CC‐GET immediately followed NA delivery (Figure <xref rid="advs202406545-fig-0001" ref-type="fig">1i</xref>). Subsequent experiments used immediate electrotransfer. Notably, injection of 50 µL of normal saline (0.9% NaCl), a typical GET carrier, resulted in a significant increase in local conductance (1.662 ± 0.208 mS; <italic toggle="yes">p</italic> = 0.0111; <italic toggle="yes">t</italic>‐test compared to baseline), diminishing field strength for a fixed current amplitude.</p></sec><sec id="advs202406545-sec-0040"><label>2.2</label><title>Adoption of a Single Exponential Decay Pulse Enables Efficient “Naked” pDNA Electrotransfer</title><p>The exceptionally low charge transfer required for efficient gene expression using CC‐GET in mouse skeletal muscle prompted evaluation of the efficacy of single exponential decay pulses. This was first tested on HEK293 cell monolayers using CMVp‐mCHERRYnls pDNA, and either a 10 × 100 µs 200 V square wave pulse train or a single 200 V exponential decay pulse with fixed time constants (<italic toggle="yes">τ</italic>) ranging from 400 µs to 10 ms (<bold>Figure</bold> <xref rid="advs202406545-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>). Quantification of the reporter fluorescence at 72 h showed the single exponential decay pulse was highly effective, with the transfected field of mCherry positive cells increasing significantly as the time constant extended from 400 µs to plateau at 10 ms (Figure <xref rid="advs202406545-fig-0002" ref-type="fig">2b</xref>). The 1 ms exponential decay pulse and the 10 × 100 µs square wave pulse control showed intermediate expression.</p><fig position="float" fig-type="Figure" id="advs202406545-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Single exponential decay CC‐GET enables field focused, titratable gene expression. a) Reference image of HEK293 cells expressing nuclear localized mCherry fluorescence 3 days following CC‐GET using a conventional 10 × 100 µs constant current (50 mA) pulse train delivered via a Digitimer DS5 stimulator (CMVp‐mCHERRYnls pDNA (2 µg µL) in 7.5% sucrose + 0.225% NaCl, pH 7.4), compared with single exponential decay CC‐GET with varying decay constants (<italic toggle="yes">τ</italic>), generated by D‐A control of an analog stimulator (DS5, Digitimer), driving the CC‐GET probe. This demonstrated titratable scaling of gene expression. The area of expression is a bioreporter for the suprathreshold electric field. b) Integrated pixel intensity in fluorescence arbitrary units (FAU) demonstrate that while the single 1 ms exponential decay pulse (3.504 ± 0.955 FAU) and the positive control using 10 × 100 µs pulses (4.009 ± 1.354 FAU) showed intermediate expression with no significant difference, the single “capacitor‐like” exponential decay with longer time constants significantly improves mCherry expression (<italic toggle="yes">τ</italic> 4 ms, 8.356 ± 2.058; <italic toggle="yes">p</italic> = 0.022 FAU; <italic toggle="yes">τ</italic> 10 ms 8.165 ± 1.674; <italic toggle="yes">p</italic> = 0.017; compared with <italic toggle="yes">τ</italic> 400 µs (1.312 ± 0.468 FAU; <italic toggle="yes">n</italic> = 5 per group; Kruskal‐Wallis one‐way analysis of variance on ranks with Tukey post‐hoc test for multiple comparisons). Box plots reflect 25% and 75% quartiles, with data overlay. Dashed lines show mean values; solid lines show the median and error bars outline the 95<sup>th</sup> percentile confidence intervals. c) In vivo comparison of luciferase reporter expression using SCD‐CC‐GET versus conventional CC‐GET pulse train in the hindlimbs of a mouse with repeated bioluminescence readout out to 524 days (luciferase plasmid CAGp‐fLuc;1 µg µL<sup>−1</sup> in 10% sucrose delivered via a 2.2 µF capacitor charged to 120 V (SCD‐GET controller) driving the CC‐GET probe in the left hindlimb, compared with delivery of these pDNAs through the same CC‐GET probe, via a conventional 5 × 4 ms × 120 V square wave pulse train (Digitimer DS5 stimulator) in the opposite hindlimb muscle. Following i.p. luciferin injection, bioluminescence peak was measured (IVIS Spectrum CT imaging platform). d) Time course of repeated luciferase activity bioluminescence measurements in the hindlimbs of the mouse shown in c, at 1, 3, 7, 95, 145, 201, 263, 308, and 524 days; measured as photons per second per centimeter squared per steradian (p s<sup>−1</sup>–cm<sup>2</sup> sr<sup>−1</sup>). e) Repeated luciferin – luciferase bioluminescence recording on days 1, 3, 7, 14, 51, 108, 170, 215, 300, and 431 following SCD‐CC‐GET of the CAGp‐fLuc pDNA (10 µg at 0.5 µg µL<sup>−1</sup>) with the tethered CC‐GET probe delivering a 120 V (red) or 250 V (blue) discharge from a 2.2 µF capacitor via the SCD‐GET controller in opposite legs (mean ± SEM; <italic toggle="yes">n</italic> = 3 per group; two‐way repeated measures ANOVA; <italic toggle="yes">p</italic> = 0.253); see Table <xref rid="advs202406545-supinfo-0001" ref-type="">S1</xref> (Supporting Information) for individual data.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ADVS-12-2406545-g004.jpg"><?image-name ADVS-12-2406545-g004.jpg?><?image-size 66521?><?image-md5 ecb287f6e384e2936079f7d9eda53c1d?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 853?><?image-original-width 820?><?image-scaled-height 568?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/540d/11744645/ecb287f6e384/ADVS-12-2406545-g004.jpg?><?thumb-name ADVS-12-2406545-g004.gif?><?thumb-size 6948?><?thumb-md5 440eb528ab28164f20b1e4d29e7206ab?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 104?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/540d/11744645/440eb528ab28/ADVS-12-2406545-g004.gif?></graphic></fig><p>We proceeded to examine the efficiency and longevity of SCD‐CC‐GET in vivo, in the hindlimb muscle of adult C57BL/6J wildtype mice, utilizing a custom‐built “SCD‐GET controller” for pulse delivery through the tethered CC‐GET probe to drive GET of a firefly luciferase‐encoding pDNA (CAGp–fLuc; Figure <xref rid="advs202406545-fig-0002" ref-type="fig">2c–e</xref>). The CAGp‐fLuc pDNA (in nonconductive carrier solution for conductivity‐clamping) was delivered to the gastrocnemius muscle by SCD‐CC‐GET using a 120 V, 2.2 µF SCD, or using a conventional 5 × 4 ms 120 V square wave pulse train, to opposite hindlimb muscles (Figure <xref rid="advs202406545-fig-0002" ref-type="fig">2c</xref>). Transgenic luciferase‐mediated conversion of intraperitoneally injected luciferin generated sustained high photon emissions, recorded from 24 h out to 524 days post‐GET (Figure <xref rid="advs202406545-fig-0002" ref-type="fig">2c–e</xref>). Figure <xref rid="advs202406545-fig-0002" ref-type="fig">2d</xref> graphs the total photon flux at each timepoint and demonstrates superior and extended expression following SCD‐CC‐GET compared to the 5 × 4 ms square wave pulse train. We next sought to assess the impact of the capacitor charging voltage on SCD‐CC‐GET efficiency. Both 120 and 250 V charging levels using a 2.2 µF capacitor showed comparable fLuc expression (Figure <xref rid="advs202406545-fig-0002" ref-type="fig">2e</xref>), indicating tolerance across a broad range of electric field strength. The mice were behaviorally unremarkable, with normal locomotion out to 61 weeks post‐gene transfer. We note that in this study, the luciferin‐luciferase bioluminescence reporter emission intensity in the older mice was higher than the levels in the initial few weeks post‐GET. This may reflect differences in uptake of the luciferin substrate following weight‐based intraperitoneal injection (with the mice doubling weight over time), and potentially age‐dependent differences in luciferin metabolism in these older mice. Variations in K<sub>M</sub>, biodistribution, and pharmacokinetics of the luciferin substrate are known to affect bioluminescence output arising from luciferin oxidation catalyzed by the recombinant luciferase reporter protein.<sup>[</sup>
+<xref rid="advs202406545-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup>
+</p></sec><sec id="advs202406545-sec-0050"><label>2.3</label><title>mRNA Electrotransfer to Mouse Skeletal Muscle via SCD‐CC‐GET</title><p>Applications for mRNA therapeutics are challenged by the constraints of nanoparticle packaging strategies to achieve plasma membrane translocation and efficient protein translation.<sup>[</sup>
+<xref rid="advs202406545-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> Given the efficiency of pDNA delivery using the SCD‐CC‐GET platform, the efficacy of in vivo mRNA delivery to skeletal muscle was evaluated. In a randomized comparison, SCD‐CC‐GET delivered either the CAGp‐fLuc pDNA or the equivalent mRNA fLuc reporter, to opposing adult (8 weeks) mouse hindlimb muscles at equal (w/v) concentrations. Luciferase reporter expression was assayed periodically out to 2 weeks post‐GET (<bold>Figure</bold> <xref rid="advs202406545-fig-0003" ref-type="fig">
+<bold>3</bold>a,b</xref>). The study showed significantly higher mRNA over pDNA GET‐mediated fLuc expression, with rapid onset of fLuc mRNA translation and peak bioluminescence exceeding that of pDNA at the first readout time point (10 h post‐GET), reaching a 20‐fold differential over pDNA at 3 days, before decreasing.</p><fig position="float" fig-type="Figure" id="advs202406545-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>SCD‐CC‐GET drives efficient delivery of naked mRNA in skeletal muscle. a) Luciferin‐luciferase bioluminescence images from a representative mouse that received SCD‐CC‐GET (CC‐GET probe, 120 V, 2.2 µF via the SCD‐GET controller) of fLuc mRNA (left hindlimb; Trilink L‐7202 0.5 µg µL<sup>−1</sup>; 30 µL in 10% sucrose) and the CAGp‐fLuc pDNA (right hindlimb; 0.5 µg µL<sup>−1</sup>; 30 µL in 10% sucrose), 10 h, 24 h, 3 days, 7 days, and 2 weeks following GET. b) Peak photon flux over randomly paired hindlimbs from five mice receiving fLuc–pDNA (blue) and fLuc–mRNA (red) SCD‐CC‐GET (2.2 µF, 120 V). mRNA SCD‐CC‐GET resulted in a significantly stronger photon flux over the over the first 2 weeks (<italic toggle="yes">p</italic> &lt; 0.001) due to quicker onset and substantially higher peak expression (total photon flux p s<sup>−1</sup> cm<sup>−2</sup> sr<sup>−1</sup>) 10 h mRNA: 1.81 × 10<sup>8</sup> ± 0.59 × 10<sup>7</sup>; pDNA: 1.87 × 10<sup>6</sup> ± 3.70 × 10<sup>5</sup>; <italic toggle="yes">p</italic> = 0.171), 24 h (mRNA: 4.14 × 10<sup>8</sup> ± 9.07 × 10<sup>7</sup>; pDNA: 5.83 × 10<sup>6</sup> ± 1.71 × 10<sup>6</sup>; <italic toggle="yes">p</italic> = 0.007), 72 h (mRNA: 8.82 × 108 ± 2.09 × 10<sup>8</sup>; pDNA: 3.93 × 10<sup>7</sup> ± 1.32 × 10<sup>7</sup>; <italic toggle="yes">p</italic> &lt; 0.001), and 7 days (mRNA: 3.40 × 10<sup>8</sup> ± 1.42 × 10<sup>8</sup>; pDNA: 2.80 × 10<sup>7</sup> ± 8.59 × 10<sup>6</sup>; <italic toggle="yes">p</italic> = 0.027). Decline of mRNA expression was evident at 14 days, from peak at 3 days, compared to relatively stable pDNA‐based expression (mRNA: 4.31 × 10<sup>7</sup> ± 1.23 × 10<sup>7</sup>; pDNA: 1.21 × 10<sup>7</sup> ± 3.99 × 10<sup>6</sup>; <italic toggle="yes">p</italic> = 0.802) (<italic toggle="yes">n</italic> = 5; two‐way repeated measures ANOVA with Holm–Sidak post‐hoc test for multiple comparisons; Box plots reflect 25% and 75% quartiles, with data overlay. Dashed lines show mean values; solid lines show the median and error bars outline the 95<sup>th</sup> percentile confidence intervals). Data from the representative mouse shown in A are highlighted by white frames. Figure <xref rid="advs202406545-supinfo-0001" ref-type="">S1</xref> (Supporting Information, top row) hematoxylin and eosin (H&amp;E) histochemistry of target gastrocnemius muscle at the 14 day timepoint indicates an absence of pathology.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ADVS-12-2406545-g001.jpg"><?image-name ADVS-12-2406545-g001.jpg?><?image-size 40003?><?image-md5 a3f47b942951affbb0ea7e6451f73b66?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 449?><?image-original-width 820?><?image-scaled-height 299?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/540d/11744645/a3f47b942951/ADVS-12-2406545-g001.jpg?><?thumb-name ADVS-12-2406545-g001.gif?><?thumb-size 7409?><?thumb-md5 51cdb60631bd90fc58ab2b04fbdf0600?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 146?><?thumb-cloudpmc-urn urn:cdn:blobs/540d/11744645/51cdb60631bd/ADVS-12-2406545-g001.gif?></graphic></fig></sec><sec id="advs202406545-sec-0060"><label>2.4</label><title>Development of a Wireless SCD‐CC‐GET Gene Delivery System</title><p>The minimal charge transfer required for efficient pDNA/mRNA SCD‐CC‐GET lent itself to the development of a wireless single‐use NA GET device in a minimalist form‐factor approximating a conventional needle‐syringe. This could facilitate integration of NA therapeutics into an extended range of clinical gene augmentation applications, including DNA/RNA vaccines, and intratumoral immunotherapy. We designed a SCD‐CC‐GET needle probe (SCD‐CC‐GET probe) which incorporates fluidics and SCD electronics in the needle hub (minimum dead space = 25 µL) allowing “naked” NA therapeutics delivery through attachment of a conventional low dead space syringe (<bold>Figure</bold> <xref rid="advs202406545-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>). The integration of the capacitor into the needle hub enables charging via a charging dock (SCD‐GET charger; Figure <xref rid="advs202406545-fig-0004" ref-type="fig">4b</xref>). The NA is injected into the center of the tissue target via the SCD‐CC‐GET probe needle/syringe, which disperses orthogonally around the electrodes to control local tissue conductivity and maximize the electric field strength during the electric pulse (Figure <xref rid="advs202406545-fig-0004" ref-type="fig">4a,c</xref>). The predetermined capacitive discharge (capacitor size and charging voltage) is triggered at the push of a button on the SCD‐CC‐GET probe hub, generating the intended electric field pulse.</p><fig position="float" fig-type="Figure" id="advs202406545-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>SCD‐CC‐GET needle probe/syringe device achieves rapid onset kinetics for mRNA delivery and long‐term stable expression following pDNA delivery. a) SCD‐CC‐GET probe with in‐built capacitor and coaxial insulated needle with two conductive electrodes separated by the insulated electro‐lens element and b) SCD‐GET charger, for the SCD‐CC‐GET probe (after patent application<sup>[</sup>
+<xref rid="advs202406545-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup>). c) Close up of the SCD‐CC‐GET probe targeting the gastrocnemius muscle in the mouse hindlimb. d) Repeated intravital imaging of luciferin–luciferase bioluminescence at various timepoints from 3 h to ≈1 year following SCD‐CC‐GET probe‐mediated GET (2.2 µF, 200 V) of fLuc mRNA (right; 30 µL @ 0.5 µg µL<sup>−1</sup> in 10% sucrose) or fLuc pDNA (left; CAGp‐fLuc, 30 µL @ 2 µg µL<sup>−1</sup> in 10% sucrose) to BALB/c mouse hindlimb muscles. Images from 24 h onwards are from the same mouse. e) Time course of luciferase activity following fLuc mRNA SCD‐CC‐GET (red – 0.5 µg µL<sup>−1</sup> in 10% sucrose, 2.2 µF, 200 V) fLuc pDNA SCD‐CC‐GET (blue – 2 µg µL<sup>−1</sup>; CAGp‐fLuc in 10% sucrose, 2.2 µF, 200 V) (<italic toggle="yes">n</italic> = 5) compared to fLuc mRNA no‐GET (cyan) and fLuc pDNA no‐GET (cream) controls (<italic toggle="yes">n</italic> = 3). Bioluminescence (total photon flux) was measured periodically at 1, 3, 7, 14, 28, 56, 80, 180, and 320 days confirming that GET is required for substantive gene expression, and that long‐term stable luciferase gene expression is achieved by pDNA SCD‐CC‐GET while mRNA SCD‐CC‐GET supports transient (weeks) albeit significantly higher expression levels (<italic toggle="yes">p</italic> &lt; 0.001; <italic toggle="yes">t</italic>‐test) and rapid onset. mRNA‐mediated luciferase expression peaked at 6.68 × 10<sup>8</sup> ± 3.19 × 10<sup>7</sup> 3 days following SCD‐CC‐GET compared to pDNA driven expression reaching a peak of 3.91 × 10<sup>8</sup> ± 4.17 × 10<sup>7</sup> at 14 days. Data represent mean ± SEM; Table <xref rid="advs202406545-supinfo-0001" ref-type="">S2</xref> (Supporting Information) for individual data. f) Onset of luciferase reporter expression following fLuc‐mRNA SCD–GET (0.5 mg mL<sup>−1</sup> in 10% sucrose, 2.2 µF, 200 V). Bioluminescence (peak photon flux p s<sup>−1</sup> cm<sup>−2</sup> sr<sup>−1</sup>) was measured at 3 h (1.24 × 10<sup>8</sup> ± 4.62 × 10<sup>7</sup>; <italic toggle="yes">n</italic> = 4), 12 h (1.24 × 10<sup>8</sup> ± 6.82 × 10<sup>7</sup>; <italic toggle="yes">n</italic> = 6), 24 h (7.19 × 10<sup>8</sup> ± 4.88 × 10<sup>7</sup>; <italic toggle="yes">n</italic> = 4), 48 h (9.47 × 10<sup>8</sup> ± 1.83 × 10<sup>8</sup>; <italic toggle="yes">n</italic> = 4), and 96 h (4.99 × 10<sup>8</sup> ± 6.71 × 10<sup>7</sup>; <italic toggle="yes">n</italic> = 4). Box plots show 25% and 75% percentile, median and mean (dashed lines), with 95% confidence intervals. ANOVA with Holm–Sidak post‐hoc test for multiple comparisons <sup>*</sup>
+<italic toggle="yes">p </italic>&lt; 0.05; <sup>**</sup>
+<italic toggle="yes">p</italic> &lt; 0.01, <sup>***</sup>
+<italic toggle="yes">p </italic>&lt; 0.001. g) Immunofluorescence detection of recombinant luciferase (fLuc – green) in BALB/c mouse gastrocnemius muscle 24‐h after mRNA SCD‐CC‐GET (2.2 µF, 200 V). Nuclei labeled with DAPI (blue).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ADVS-12-2406545-g007.jpg"><?image-name ADVS-12-2406545-g007.jpg?><?image-size 93483?><?image-md5 d85e662bf671f3b74c9c819f1cc7bca6?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 707?><?image-original-width 820?><?image-scaled-height 471?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/540d/11744645/d85e662bf671/ADVS-12-2406545-g007.jpg?><?thumb-name ADVS-12-2406545-g007.gif?><?thumb-size 9038?><?thumb-md5 bef4bbda95002a931bf86d04c5d8f01a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 86?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/540d/11744645/bef4bbda9500/ADVS-12-2406545-g007.gif?></graphic></fig><p>We evaluated the efficiency of the SCD‐CC‐GET probe–driven gene expression in the mouse hindlimb model, comparing onset kinetics alongside longevity following delivery of pDNA (CAGp‐fLuc) versus mRNA (fLuc). This study utilized white BALB/c mice which improved the intravital bioluminescence imaging compared with the (hyperpigmented) C57BL/6J strain used in the preceding experiments. The 2.2 µF capacitor in the SCD‐CC‐GET probe hub was charged to 200 V using the SCD‐CC‐GET charger. SCD‐CC‐GET of pDNA (CAGp‐fLuc) or fLuc mRNA (equivalent number of NA molecules) was randomized across opposing hindlimb muscles. Figure <xref rid="advs202406545-fig-0004" ref-type="fig">4d</xref> provides representative bioluminescence images at peak emission for each timepoint, recorded on days: 1, 3, 7, 14, 28, 56, 80, 180, and 320 (Figure <xref rid="advs202406545-fig-0004" ref-type="fig">4e</xref>). mRNA SCD‐CC‐GET produced significantly higher peak bioluminescence (≈2‐fold) than pDNA, but expression was transient, falling to baseline by 28 days. Consistent with our previous study, pDNA SCD‐CC‐GET led to stable fLuc expression across the nearly 1‐year study in all animals. For both mRNA and pDNA SCD‐CC‐GET, bioluminescence in the no‐GET controls were negligible, indicative of the bio‐inert nature of the “naked” pDNA and mRNA. To resolve onset kinetics of mRNA expression, fLuc bioluminescence was assessed 3, 12, 24, 48, and 96 h post SCD‐CC‐GET using the SCD‐CC‐GET probe with an integrated 2.2 µF capacitor charged to 200 V (Figure <xref rid="advs202406545-fig-0004" ref-type="fig">4f</xref>). Expression at this earliest timepoint (3 h) was substantially greater than the previously established baseline (mRNA no‐GET) at 24 h (1.24 × 10<sup>8</sup> ± 4.62 × 10<sup>7</sup> p s<sup>−1</sup> cm<sup>−2</sup> sr<sup>−1</sup>; <italic toggle="yes">n</italic> = 4 versus 4.94 × 10<sup>6</sup> ± 2.67 × 10<sup>6</sup> p s<sup>−1</sup> cm<sup>−2</sup> sr<sup>−1</sup>; <italic toggle="yes">n</italic> = 3; <italic toggle="yes">t</italic>‐test). Peak mRNA expression was reached at 48 h, declining thereafter. Recombinant fLuc protein was confirmed in the target hindlimb myocytes through immunohistochemistry 24 h post SCD‐CC‐GET (Figure <xref rid="advs202406545-fig-0004" ref-type="fig">4g</xref>). H&amp;E histology of the gastrocnemius muscles (GET target region) spanning the 3 h to 320 day timepoints was unremarkable relative to reference tissue, with the absence of macrophage (or other myeloid cell) infiltration, and comparable muscle mass and myocyte density, supporting the long‐term safety of SCD‐CC‐GET (Figure <xref rid="advs202406545-supinfo-0001" ref-type="">S1</xref>, Supporting Information; bottom three rows).</p><p>SCD‐CC‐GET is highly efficient at achieving translocation of pDNA and mRNA across the plasma membrane. The naked NA macromolecules (MDa) are known to require active endocytotic uptake, including clatherin‐associated endosome transport, with protein–DNA complex migration through the cytoplasm to the nucleus requiring dynein‐microtubule engagement. Nuclear pore transition in post‐mitotic cells is enhanced by interaction with nuclear localization signal containing proteins including transcription factors, which promoter and enhancer element binding sites on pDNA engage.<sup>[</sup>
+<xref rid="advs202406545-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs202406545-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup> The rapid onset of luciferin‐luciferase bioluminescence reporter detection (&lt;3 h) speaks to the efficiency of internalization and trafficking of the mRNA to the ribosomes. Onset of episomal pDNA expression took ≈12 h, and was weaker (Figures <xref rid="advs202406545-fig-0002" ref-type="fig">2</xref>, <xref rid="advs202406545-fig-0003" ref-type="fig">3</xref>, <xref rid="advs202406545-fig-0004" ref-type="fig">4</xref>), reflecting the nuclear membrane barrier and the requirement for subsequent mRNA transcription and translation. A previous study using electro‐lens GET in the rapidly dividing HEK293 mammalian cell model estimated that on average ≈64 functional plasmid DNA copies were transported to the nucleus.<sup>[</sup>
+<xref rid="advs202406545-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> The present in vivo studies show efficient expression in post‐mitotic skeletal myocytes, indicative of efficient nuclear pore translocation. Given that CC‐GET occurs at charge transfer levels which minimize plasma membrane electroporation,<sup>[</sup>
+<xref rid="advs202406545-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> and in the present study, SCD‐CC‐GET is achieved in a single electric pulse of just a few ms duration, while DNA migration to the nucleus is known to take several hours, an associated increase in nuclear membrane permeability seems less likely to contribute to the efficiency of nuclear DNA delivery than the inherent effectiveness of DNA binding to the plasma membrane.</p></sec><sec id="advs202406545-sec-0070"><label>2.5</label><title>SCD‐CC‐GET in the Mouse Hindlimb Supports Synthetic DNA Vaccine Immunotherapy Proof‐of‐Concept</title><p>Current clinical trials for DNA immunotherapies utilizing clinical electroporator systems to stimulate innate immune responses show utility across oncology and DNA vaccines. Broad adoption of this NA delivery technology, particularly in the vaccine space would benefit from efficient low‐cost minimally‐invasive GET devices, inherently avoiding vector‐based side‐effects. Such GET delivery takes particular advantage from advances in rapid scalable production of synthetic DNA and mRNA. The potential for the SCD‐CC‐GET electro‐lens technology to achieve significant immunological efficacy was therefore investigated using nonplasmid‐based DNAs. Doggybone DNA (dbDNA) constructs are linear, double‐stranded, covalently closed DNA sequences<sup>[</sup>
+<xref rid="advs202406545-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="advs202406545-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> that have eliminated elements such as antibiotic resistance (a regulatory recommendation<sup>[</sup>
+<xref rid="advs202406545-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup>). SCD‐CC‐GET was evaluated in the mouse hindlimb model for efficacy in production of secreted alkaline phosphatase (SeAP) encoded within a dbDNA construct. The gene dosing study evaluated serum levels of recombinant secreted alkaline phosphatase (SeAP) 3 or 5 days post‐SCD‐CC‐GET of 10 and 100 µg dbCMVp‐SeAP dbDNA (<bold>Figure</bold> <xref rid="advs202406545-fig-0005" ref-type="fig">
+<bold>5</bold>a</xref>). A significant threefold increase in serum SeAP levels was measured between the 10 and the 100 µg dbCMVp‐SeAP dbDNA cohorts at 3 days. In the untreated no‐dbDNA no‐SCD‐GET control, SeAP expression was negligible. In a separate cohort of animals assessed 5 days following SCD‐CC‐GET, there was a further significant increase in both the 10 µg dbCMVp‐SeAP dbDNA and 100 µg dbCMVp‐SeAP dbDNA cohorts, where the 10 µg dbCMVp‐SeAP dbDNA exceeded the day 3 dose result for 100 µg. The cohort of control dbCMVp‐SeAP dbDNA injections (100 µg) no‐GET control, exhibited minimal SeAP signal at 5 days. This experiment confirmed the capacity for SCD‐CC‐GET to drive substantial protein secretion which would facilitate systemic immunopriming for DNA vaccines.</p><fig position="float" fig-type="Figure" id="advs202406545-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Titratable gene dose delivery via SCD‐CC‐GET for naked NA vaccines. a) SeAP serum levels measured by ELISA at 3 or 5 days (separate cohorts <italic toggle="yes">n</italic> = 5 per treatment group) following GET (2.2 µF, 120 V) of 10 µg dbCMVp‐SeAP dbDNA (20 µL; 0.5 µg µL<sup>−1</sup>) or 100 µg dbCMVp‐SeAP dbDNA (50 µL; 2 µg µL<sup>−1</sup>) in CC‐GET carrier solution. Serum SeAP levels were proportionate to the DNA concentration at 3 days (10 µg dbCMVp‐SeAP dbDNA = 44.35 ± 7.46 pg µL<sup>−1</sup>; 100 µg dbCMVp‐SeAP dbDNA = 136.81 ± 14.35; no DNA; no‐GET control = 2.83 ± 0.37) and increased by 5 days (10 µg dbCMVp‐SeAP dbDNA = 231.37 ± 26.00, 100 µg dbCMVp‐SeAP dbDNA = 327.91 ± 22.82; 100 µg; no‐GET control = 34.00 ± 6.90; <sup>***</sup>
+<italic toggle="yes">p</italic> &lt; 0.001 two‐way ANOVA with Holm–Sidak post‐hoc test for multiple comparison). b) dbDNA luciferase bioluminescence reporter (dbCMVp‐fLuc) was delivered in a cocktail by SCD‐CC‐GET to one hindlimb, alongside dbDNA encoding an hemagglutinin antigen against the influenza Cal/09 strain (dbCMVp‐Cal/09; both DNAs 2 µg µL<sup>−1</sup>, 50 µL). Four GET levels were evaluated, spanning 60 V versus 250 V applied to 2.2 and 4.7 µF capacitors. Luciferase expression was measured by repeated bioluminescence imaging on day 1, 3, and 7 (<italic toggle="yes">n</italic> = 5) against a no electrotransfer control (<italic toggle="yes">n</italic> = 6). Within each individual treatment group, no significant differences in bioluminescence were detected between day 1, 3, and 7. As no significant difference was found between timepoints within experimental groups (two‐way ANOVA with Holm–Sidak post‐hoc test for multiple comparisons), data were combined. The statistically significant distinctions reflect combination of the data from the three timepoints within treatment groups (average peak photon flux p s<sup>−1</sup> cm<sup>−2</sup> sr<sup>−1</sup>: no‐GET control 1.38 × 10<sup>7</sup> ± 6.09 × 10<sup>6</sup>; 2.2 µF – 60 V 2.24 × 10<sup>8</sup> ± 1.24 × 10<sup>8</sup>; 2.2 µF – 250 V 1.34 × 10<sup>9</sup> ± 5.81 × 10<sup>8</sup>; 4.7 µF – 60 V 2.89 × 10<sup>8</sup> ± 1.60 × 10<sup>8</sup>; 4.7 µF – 250 V 6.96 × 10<sup>8</sup> ± 3.77 × 10<sup>8</sup>). Kruskal–Wallis one‐way ANOVA on Ranks with Dunn's post‐hoc test for multiple comparisons. c) Immunosorbant assay detection of the anti‐influenza Cal/09 hemagglutinin IgG in the serum of these animals collected 7 days post SCD–GET. No electrotransfer control 0.297 ± 0.122; <italic toggle="yes">n</italic> = 5; 2.2 µF – 60 V 0.412 ± 0.153; <italic toggle="yes">n</italic> = 4; 2.2 µF – 250 V 1.067 ± 0.166; <italic toggle="yes">n</italic> = 4; 4.7 µF – 60 V 0.550 ± 0.05; <italic toggle="yes">n</italic> = 4; 4.7 µF – 250 V 0.837 ± 0.195 <italic toggle="yes">n</italic> = 4. One‐way ANOVA with Bonferroni post‐hoc test for pairwise multiple comparison. Since no statistically significant difference was detected between the 4.7 µF charging voltages, combining the data for 4.7 µF SCD‐CC‐GET at 60 and 250 V (0.693 ± 0.108) yielded a statistically significant difference to the no‐GET control (<sup>*</sup>Student <italic toggle="yes">t</italic>‐test with a two‐tailed <italic toggle="yes">p</italic>‐value of 0.0371). All box plots show 25% and 75% percentile, median and mean (dashed lines), with 95% confidence intervals. All experiments utilized the CC‐GET probe and SCD‐GET controller.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ADVS-12-2406545-g005.jpg"><?image-name ADVS-12-2406545-g005.jpg?><?image-size 68959?><?image-md5 1cf6072135c5d09e3385139336100336?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 980?><?image-original-width 315?><?image-scaled-height 980?><?image-scaled-width 315?><?image-cloudpmc-urn urn:cdn:blobs/540d/11744645/1cf6072135c5/ADVS-12-2406545-g005.jpg?><?thumb-name ADVS-12-2406545-g005.gif?><?thumb-size 10574?><?thumb-md5 1b2b1ee00f9d1bbe03519ce1f6941214?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 311?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/540d/11744645/1b2b1ee00f9d/ADVS-12-2406545-g005.gif?></graphic></fig><p>We next sought to demonstrate that SCD‐CC‐GET could elicit an immune response and boost serum antibody levels following in vivo GET of the influenza virus Cal/09 hemaggutinin antigen coding sequence, positioning the platform for “naked” DNA and mRNA vaccine applications. The study design incorporated dual SCD‐CC‐GET delivery of dbDNA, where luciferase reporter (dbCMVp‐fLuc dbDNA) and the influenza hemaggutinin protein dbCMVp‐Cal/09 dbDNA were co‐delivered to the hindlimb in 8 to 12 week‐old C57BL/6J mice. Subsequent expression of fLuc and antibody titres generated against Cal/09‐hemagglutinin were evaluated against SCD‐CC‐GET pulse parameters. Intravital luciferin–luciferase bioluminescence was recorded on day 1, 3, and 7 following SCD‐CC‐GET and compared to a no‐GET control. All treatment groups for SCD‐CC‐GET showed significant expression compared with the no‐GET control (Figure <xref rid="advs202406545-fig-0005" ref-type="fig">5b</xref>). For both 2.2 and 4.7 µF capacitors, increasing the charging voltage from 60 to 250 V produced increases in mean expression (Figure <xref rid="advs202406545-fig-0005" ref-type="fig">5b</xref>). In parallel with the luciferase reporter readout in these mice, end‐point DNA vaccine antibody titres were established against SCD‐CC‐GET delivery of dbCMVp‐Cal/09 dbDNA. The serum was analyzed for Cal/09 hemagglutinin‐specific IgG content across the four GET parameters by Enzyme Linked Immunosorbent Assay (ELISA), with significantly elevated antibody titres achieved for both 2.2 and 4.7 µF – 250 V SCD‐CC‐GET groups compared to the no‐GET control (Figure <xref rid="advs202406545-fig-0005" ref-type="fig">5c</xref>). The Cal/09 antibody titres were measured 7 days after SCD‐CC‐GET delivery of dbCal/09 antigen DNA. This is an early time point for evaluation of immune titres, and IgG levels can continue to rise for several weeks after antigen presentation.<sup>[</sup>
+<xref rid="advs202406545-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> This initial proof‐of‐concept study establishes a platform for future longitudinal preclinical studies which could include booster delivery and pathogen challenges for immunoglobulin and cytokine profiling, alongside assessment of pathogen neutralization.</p><p>Our data establish the effectiveness of a simple disposable SCD‐CC‐GET device enabling highly efficient delivery of next generation NA vaccines and therapeutics within a predetermined tissue area defined by electro‐lens focusing of a single pulse electric field, augmented by local reduction in tissue conductivity (conductivity‐clamping) (<bold>Figure</bold> <xref rid="advs202406545-fig-0006" ref-type="fig">
+<bold>6</bold>
+</xref>).</p><fig position="float" fig-type="Figure" id="advs202406545-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>SCD‐CC‐GET electro‐lens focusing enables single pulse naked DNA/mRNA delivery in a needle/syringe‐style format. The SCD‐CC‐GET probe needle hub contains a small capacitor that on discharge enables production of a local electric field at the needle tip, driving efficient GET after local delivery of the NA therapeutic via the needle. The capacitor is charged remotely via a charging station (SCD‐GET charger), with the capacitor storing the energy until insertion of the needle into the target tissue. In a DNA/mRNA vaccine application, delivery could be intramuscular, equivalent to a conventional inoculation, where immediately following injection, the capacitor discharges to establish instantaneous GET. The “naked” therapeutic NA molecules are biologically inert unless bound to the target cells by this process, which is delineated by a critical electric field strength. a) Detail of the SCD‐CC‐GET needle hub showing the integrated capacitor, switch, charging pins and electro‐lens at the needle tip. b,c) Insertion of the SCD‐CC‐GET probe into the SCD‐GET charging station rapidly charges the device. d–f) Intramuscular SCD‐CC‐GET delivery, where the low conductivity carrier enhances the local electric field strength (conductivity‐clamping) for highly efficient gene delivery. SCD‐CC‐GET system described in patent.<sup>[</sup>
+<xref rid="advs202406545-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup>
+</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="ADVS-12-2406545-g003.jpg"><?image-name ADVS-12-2406545-g003.jpg?><?image-size 49683?><?image-md5 45ce86042b40b6479eae17744bb631ac?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 527?><?image-original-width 820?><?image-scaled-height 351?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/540d/11744645/45ce86042b40/ADVS-12-2406545-g003.jpg?><?thumb-name ADVS-12-2406545-g003.gif?><?thumb-size 8137?><?thumb-md5 474ee28c9d08d7f8f5692328fb33dd21?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 124?><?thumb-cloudpmc-urn urn:cdn:blobs/540d/11744645/474ee28c9d08/ADVS-12-2406545-g003.gif?></graphic></fig></sec><sec id="advs202406545-sec-0080"><label>2.6</label><title>Strategic Advantages of SCD‐CC‐GET for Deep Tissue Vector‐Free DNA/mRNA Gene Augmentation Therapeutics</title><p>NA therapeutics have broad potential to complement pharmacological treatments beyond conventional gene therapy. Central to this is efficient targeting of DNA/RNA delivery while minimizing adverse reactions. To this end, there is a strong drive to achieve vector‐free platforms.<sup>[</sup>
+<xref rid="advs202406545-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> SCD‐CC‐GET provides significant advantages over current NA delivery modalities. Most notably are the precision spatiotemporal targeting and control of gene dosing, lack of NA packing constraints, and elimination of adverse immunological responses against the vector. Additional attributes facilitating translation include enhanced stability and reduced cost of the therapeutic, and access to conventional (non‐GMO) drug/device regulatory approval pathways.</p><p>A key point of difference for SCD‐CC‐GET within the electrotherapeutics space is the significant reduction in charge transfer required for efficient gene expression, minimizing adverse effects such as tissue injury and sustained pain. The latter is a significant adverse reaction reported by patients in clinical trials utilizing current clinical electroporators.<sup>[</sup>
+<xref rid="advs202406545-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs202406545-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup> SCD‐CC‐GET has been subjectively evaluated by the team during development and found to be painless.</p><p>By way of comparison with current clinical GET devices, Figure <xref rid="advs202406545-fig-0005" ref-type="fig">5b</xref> shows significant transgene expression in mouse muscle following SCD‐CC‐GET with a 2.2 µF capacitor charged to 60 V, equating a minimal 132 µC charge transfer with the sucrose‐based vehicle for local conductivity‐clamping intrinsic to the SCD‐CC‐GET gene expression efficiency.<sup>[</sup>
+<xref rid="advs202406545-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="advs202406545-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> Importantly, reduced local conductivity provides longer discharge time constants (<italic toggle="yes">t</italic> = RC) enhancing NA electrotransfer over the shorter time constant of “unclamped” tissue conductivity (refer to Pinyon et al., 2024,<sup>[</sup>
+<xref rid="advs202406545-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> Figure <xref rid="advs202406545-fig-0001" ref-type="fig">1j</xref>). In addition to this substantial gain in GET efficiency, the SCD‐CC‐GET needle form‐factor is likely to promote patient adoption. A review of pulse parameters used routinely in conventional “open‐field” multi‐electrode clinical electroporation devices typically reports use of several pulses of hundreds of mA for tens of milliseconds (e.g., equating to ≈78 mC charge delivery<sup>[</sup>
+<xref rid="advs202406545-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup>), which is ≈600 times greater than the SCD‐CC‐GET example above. This is comparable to studies using conventional multi‐electrode GET to deliver pDNAs to mouse hindlimb muscle,<sup>[</sup>
+<xref rid="advs202406545-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="advs202406545-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> where despite high charge transfer requirements, the transduction efficiency was variable.</p></sec><sec id="advs202406545-sec-0090"><label>2.7</label><title>SCD‐CC‐GET Enables Vector‐Free DNA/mRNA‐Based Immunotherapeutics</title><p>In the DNA/RNA vaccine space, minimizing response time at the early local epidemic stage is critical for successful control of a global infectious threat to prevent pandemic spread.<sup>[</sup>
+<xref rid="advs202406545-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="advs202406545-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> NA vaccines are now established as core tools in the control of emerging high‐risk vector‐borne diseases.<sup>[</sup>
+<xref rid="advs202406545-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="advs202406545-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup> Due to their selective advantages, both synthetic DNA and mRNA‐based vaccination strategies are being pursued against communicable and noncommunicable diseases with notable advances around codon optimization and synthetic vector‐free production improving antigen expression and associated antibody titres.<sup>[</sup>
+<xref rid="advs202406545-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="advs202406545-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup> Particularly the discovery that uracil modifications can be utilized to limit inherent immunogenicity of “naked” exogenous mRNA have been pivotal for the recent expansion of mRNA vaccine research, culminating in the emergency approval of vaccines during the COVID‐19 pandemic.<sup>[</sup>
+<xref rid="advs202406545-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="advs202406545-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="advs202406545-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="advs202406545-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> In the current clinical trial landscape, mRNA vaccines have already surpassed inactivated, conjugated, attenuated, toxoid, and viral vector‐based vaccine candidates, falling second only to recombinant protein vaccines.<sup>[</sup>
+<xref rid="advs202406545-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<sup>]</sup> Artificial intelligence driven NA design and clinical grade NA production facilities are expanding worldwide, reflecting adoption of NAs as flexible, safe, and efficacious tool for rapid local epidemic response. However, an efficient stable delivery system that overcomes the limitations of current NA packaging vectors is a pressing unmet need.<sup>[</sup>
+<xref rid="advs202406545-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs202406545-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="advs202406545-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+<sup>]</sup> While pandemic level NA vaccine responses may continue to adopt lipid nanoparticle‐based NA inoculations, rapid local response will benefit from highly efficient, rapid development and delivery, to which SCD‐CC‐GET is well matched. The current study demonstrated robust antibody titres against the Cal/09 hemagglutinin epitope encoded in the synthetic dbDNA with a single SCD‐CC‐GET treatment. It is notable that in a preceding study repeated dosing of a comparable influenza antigen encoding dbDNA (H1N1 PR8 hemagglutinin) more than doubled the immunoglobulin titres.<sup>[</sup>
+<xref rid="advs202406545-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> Adoption of painless SCD‐CC‐GET delivery would obviate potential reluctance for booster treatments likely faced when using current clinical electroporators. Electroporation/electrotransfer has proven effective in the immunotherapy oncology space<sup>[</sup>
+<xref rid="advs202406545-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>]</sup> with currently ≈300 clinical trials listed in the USA registry.<sup>[</sup>
+<xref rid="advs202406545-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+<sup>]</sup> In clinical trial patients DNA encoding inflammatory cytokines, such as IL12, delivered to discrete melanomas by GET have been reported to achieve abscopal clearance.<sup>[</sup>
+<xref rid="advs202406545-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="advs202406545-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>]</sup> In the broader context of vector‐free NA therapeutics, conventional multi‐needle or plate electrode configurations of clinical electroporation systems limit deep tissue applications. SCD‐CC‐GET in a scalable single needle format enables these approaches, considerably broadening the range of targets, including the potential to apply GET intratumorally, or in vulnerable tissues such as the brain, where previously pulsed electric field‐based gene delivery was prohibitive.</p><p>The long‐term reporter gene expression observed in vivo in the gastrocnemius muscle myocytes with pDNA SCD‐CC‐GET raises the question of whether this reflects (in‐part) genomic integration alongside stable extrachromosomal (episomal) expression. Genomic integration raises safety concerns across viral and nonviral DNA vaccine or other gene augmentation therapy applications, due to potential for insertional mutagenesis and tumorigenesis. Integration of vector genome varies widely across viral vectors. Although instances of adeno‐associated virus (AAV) vector‐mediated integration have been associated with oncogenesis, such as hepatocellular carcinoma in mice,<sup>[</sup>
+<xref rid="advs202406545-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>
+<sup>]</sup> a subset of AAV serotypes have been established as being clinically safe, despite the generally low integration rate (≈0.1%).<sup>[</sup>
+<xref rid="advs202406545-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>]</sup>
+</p><p>A study using lipofectamine‐based transfection in HEK293 cells found that integration of supercoiled circular plasmid GFP reporter DNA occurs at significantly lower probability than linearized pDNA; based on clonal genomic sequencing after GFP expression had declined to a minima.<sup>[</sup>
+<xref rid="advs202406545-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+<sup>]</sup> While genomic integration of the circular pDNAs utilized in the present study was not specifically investigated, the high densities of transgene expressing myocytes within the bulk of the gastrocnemius muscle (Figures <xref rid="advs202406545-fig-0001" ref-type="fig">1d–g</xref> and <xref rid="advs202406545-fig-0004" ref-type="fig">4g</xref>), alongside maintenance of expression levels close to peak, is counter‐indicative, but warrants future consideration. The safety of electro‐lens CC‐GET delivery of circular pDNA encoding neurotrophins has been validated, with progression of the platform to a phase I/IIa first‐in‐human clinical trial for auditory nerve regeneration.<sup>[</sup>
+<xref rid="advs202406545-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="advs202406545-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> Long‐term expression of the dbDNA transgenes was not evaluated in the present study, however prior analysis of episome expression for generation of induced pluripotent stem cells using dbDNA supports its strong safety profile.<sup>[</sup>
+<xref rid="advs202406545-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+<sup>]</sup> Overall, the data from the current extended longitudinal studies, with no occurrence of tumorigenesis, indicate that the SCD‐CC‐GET delivery of naked DNA can achieve substantive long‐term extrachromosomal expression in nondividing cells such as myocytes and neurons with a good safety profile.</p></sec></sec><sec id="advs202406545-sec-0100"><label>3</label><title>Conclusion</title><p>In conclusion, this study reports the efficiency and safety gains achieved for DNA/mRNA delivery electrotransfer using conductivity‐clamped single capacitive discharge, linked to optimization of the decay time constant of that single‐pulse electric field. The development of the SCD‐CC‐GET delivery platform for “naked” DNA and mRNA overcome significant limitations of current viral vector and liposomal modalities when precision control of gene expression is required, and is particularly well matched to the challenges in precision deep tissue targeting of NA therapeutics. In the rapidly emerging field of RNA therapeutics, achievement of vector‐free dial‐up gene dosing, where the delivery is effectively instantaneous, constrained by a highly predictable electric field volume, and nondispersing, offers significant advantages of current technologies, including re‐dosing; facilitating lower‐cost accelerated clinical translation across a wide range of gene augmentation‐based therapeutic applications.</p></sec><sec id="advs202406545-sec-0110"><label>4</label><title>Experimental Section</title><sec id="advs202406545-sec-0140"><title>SCD‐CC‐GET Device Manufacture</title><p>The early prototype GET device series, CC‐GET probe (Figure <xref rid="advs202406545-fig-0001" ref-type="fig">1</xref>) consisted of two Pt/Ir tube electrodes (2 mm length, 400 µm outer diameter (O.D.)) bonded to an insulated 34 gauge INViSIBLE needle (TSK, Laboratory Europe, Netherlands), and connected to an external current‐regulated electric pulse controller. To manufacture these CC‐GET probes, the INViSIBLE needles (9 mm length, 200 µm O.D.,) were fully insulated with PUC polyurethane conformal coating (Electrolube, Australia; total thickness = 300 µm). Both electrodes were fixed in place with a 1 mm separation, defining the “electro‐lens”; after patent application.<sup>[</sup>
+<xref rid="advs202406545-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> For GET a 1 mL low dead space syringe containing the DNA/mRNA was coupled to the CC‐GET probe, for local delivery of the NA solution through the tip of the needle‐type electro‐lens.</p><p>Phase 2 of the GET device prototype development (SCD‐CC‐GET probe; see Figure <xref rid="advs202406545-fig-0004" ref-type="fig">4</xref>; patent application<sup>[</sup>
+<xref rid="advs202406545-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup>) was based on a co‐axial stainless steel needle configuration, where inner (34 gauge with cutting bevel) and outer (28 gauge; rounded bevel) needles (Vita Needle, Company, MA, USA) were first insulated using vapor‐phase parylene C deposition (LabTop 3000 Parylene coater, Para Tech Coating). Two 2 mm length electrode surfaces, separated by the insulated 1 mm electro‐lens (as above), were then etched out using a 193 nm excimer laser, Optec PHyLS‐300, Belgium). Distal to the electro‐lens needle tip, the two concentric stainless steel needles were separately connected to a custom printed circuit board (PCB; manufactured by JLCPCB, China). This PCB, which was integrated into the GET electro‐lens needle hub, was populated with a 2.2 µF multilayer ceramic capacitor (TDK, Japan), charging port pins, and GET discharge button switch. The SCD‐GET charger for the SCD‐CC‐GET probe consisted of a custom PCB, containing a step‐up power supply from 18 V DC (external), to a controllable delivery voltage (60–300 V max; typically set to 200 V). Charging of the SCD‐CC‐GET probe, was confirmed by LED display on the SCD‐GET charger (Figure <xref rid="advs202406545-fig-0004" ref-type="fig">4</xref>).<sup>[</sup>
+<xref rid="advs202406545-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup>
+</p></sec><sec id="advs202406545-sec-0150"><title>Modeling of the “Electro‐Lens” Electric Field Compression</title><p>Electric field potential and derived electric field maps for the muscle tissue surrounding the CC‐GET probe (Figure <xref rid="advs202406545-fig-0001" ref-type="fig">1</xref>) were modeled using COMSOL Multiphysics (COMSOL AB, Sweden), where the local skeletal muscle conductivity of 0.202 S m<sup>−1</sup> reflected the reported baseline conductivity measurements across the electrodes (1.01 mS). Dirichlet boundary conditions were used to define the anode and cathode. A stationary form of Maxwell's equations was solved to generate the electric potential and electric field maps. The modeled 120 V cm<sup>−1</sup> electric field contour reflects the previously established threshold for GFP reporter pDNA GET established in HEK293 cell monolayers.<sup>[</sup>
+<xref rid="advs202406545-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup>
+</p></sec><sec id="advs202406545-sec-0160"><title>HEK293 Cell‐Based In Vitro Bioreporter Model for GET</title><p>As shown in Figure <xref rid="advs202406545-fig-0002" ref-type="fig">2</xref>, HEK293 cell monolayers were used as an in vitro fluorescent bioreporter platform to quantify threshold GET electric field strengths and associated gene expression boundaries (after<sup>[</sup>
+<xref rid="advs202406545-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup>), using the CC‐GET probe. Adherent HEK293 cells were grown in Dulbecco's Modified Eagle Medium (Gibco #11995‐065) supplemented with 10% fetal bovine serum, non‐essential amino acids (Thermo Fisher # 11140050), sodium pyruvate (Thermo Fisher # 11360070), and penicillin/streptamycine antibiotic (# 15140122Thermo Fisher Scientific). HEK293 cells were maintained and split with TrypLE (Thermo Fisher # 12605028) for transfection experiments by seeding onto 13 mm round glass coverslips (G400‐13, ProSciTech) 24 h prior to transfection at ≈50% cell confluence. pDNA resuspended at 2 mg mL<sup>−1</sup> was delivered to the HEK293‐coated coverslips in 20 µL of 10% sucrose, with 0.5 × 10<sup>−3</sup>
+<sc>m</sc> NaOH, and saline, with or without 50 × 10<sup>−3</sup>
+<sc>m</sc> Tris buffer.</p><p>CC‐GET experiments used pulse trains (current‐regulated) and single exponential decay current pulses (after patent application<sup>[</sup>
+<xref rid="advs202406545-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup>), generated via an isolated stimulator (DS5 Digitimer) using custom‐built waveform control and monitoring interface. Transfected coverslips were imaged for GFP reporter fluorescence by confocal microscopy 2–3 days after GET (561 nm ex., LSM710, Zeiss). Tiling was used to overlay images to capture the full expression field. Boundaries around the region of transfected cells were delineated and the area of transfection calculated using image J software (NIH, USA).</p></sec><sec id="advs202406545-sec-0170"><title>Animals</title><p>Animal studies were conducted in accordance with the Australian Code of Practice for the Care and Use of Animals for Scientific Purposes<sup>[</sup>
+<xref rid="advs202406545-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+<sup>]</sup> and were approved by the UNSW Sydney Animal Care and Ethics Committee. C57BL/6J or BALB/c mice were housed in a temperature‐controlled room (4–5 mice per cage, separated by sex, in ventilated racks, 21–22 °C; 49–55% humidity) with 12 h light–dark cycle. Food and water were available ad libitum.</p></sec><sec id="advs202406545-sec-0180"><title>Gene Electrotransfer to the Mouse Hind Limb Skeletal Muscles</title><p>Under isoflurane anesthesia (4% induction, 1–2% maintenance), hindlimbs of young adult C57BL/6J or female BALB/c mice (8–12‐week‐old) were shaved. A range of plasmid and fully synthetic DNAs, and mRNA reporter constructs were delivered (described in Table <xref rid="advs202406545-supinfo-0001" ref-type="">S3</xref>, Supporting Information) using the CC‐GET devices. For example, firefly luciferase encoding DNA (2 mg mL<sup>−1</sup>, dbCMVp‐Luc dbDNA, Touchlight Genetics Ltd, UK) or mRNA (0.5 mg mL<sup>−1</sup>, Trilink CleanCap luciferase mRNA (L‐7202)) in 10% isotonic sucrose CC‐GET carrier solution were loaded into either the CC‐GET probe or the SCD‐CC‐GET probe with a low dead space syringe, until a satellite drop appeared at the tip of the needle. The needle‐type electro‐lens was inserted into the mouse gastrocnemius muscle to the point of transition between the first and second electrode where the first electrode had completely penetrated the fascia. Then 20–50 µL of DNA or mRNA in CC‐GET carrier solution was injected into the center of the gastrocnemius muscle. The electro‐lens needle was then inserted the final 2 mm, completely penetrating the fascia of the gastrocnemius muscle, effectively placing the electro‐lens in the center of the injected NA containing CC‐GET carrier solution bolus, thereby suppressing local conductivity within the target electric field space. The subsequent electrical pulse delivery was dependent on the experimental design. Square wave pulse trains with a maximum voltage limit of 120 V set to constant current output of 50 mA were delivered by a DS5 Digitimer stimulator through a custom software developed in house. Similarly modeled SCD with fixed decay constants were driven by in‐house custom developed software. Alternatively, SCD current pulses were delivered from a 2.2 µF capacitor charged between 60 and 250 V. Note, in experiments in Figure <xref rid="advs202406545-fig-0005" ref-type="fig">5</xref>, capacitors (2.2 or 4.7 µF) were coupled to the electro‐lens needle and hub via an external connector. The Trilink CleanCap luciferase base‐modified Cap‐1 mRNA (L‐7202, 1922 nucleotides) includes 5‐methoxyuridine modification and ≈120 base polyA tail.</p></sec><sec id="advs202406545-sec-0190"><title>Luciferase Bioluminescence Intravital Imaging</title><p>For bioluminescence imaging of DNA and mRNA luciferase reporter expression, mice underwent isoflurane anesthesia (4% induction, 1–2% maintenance), hindlimbs were shaved if required and luciferin substrate was injected intraperitoneally (D‐luciferin potassium salt, Gold Biotech, USA, 150 mg kg<sup>−1</sup> in normal saline) just prior to data capture (IVIS Spectrum CT, Perkin Elmer, USA). Total photon flux within a set 1 cm<sup>2</sup> circular region of interest (ROI) was acquired over each hindlimb every minute (two mice at a time). Recording continued until the recorded total flux dropped for at least five consecutive measurements. The mice were removed for recovery. This was repeated periodically up to ≈18 months. Peak bioluminescence for each hindlimb was used for analysis.</p></sec><sec id="advs202406545-sec-0200"><title>Luciferase Immunofluorescence</title><p>Immunohistochemistry was performed following standard procedures.<sup>[</sup>
+<xref rid="advs202406545-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>
+<sup>]</sup> Briefly, 24 h following firefly luciferase mRNA (Trilink CleanCap FLuc mRNA cat. L‐7202) SCD‐CC‐GET, the gastrocnemius muscle of the mouse was dissected and fixed in fresh 4% paraformaldehyde solution overnight. The tissue was cryopreserved in 30% sucrose and 50 µm cryosections blocked with 10% donkey serum in PBS containing 1% Triton‐X‐100 for 1 h. The tissue was then incubated with the primary anti‐fLuc antibody (Thermo Fisher Scientific # 35–6700; 1:20 dilution) in PBS containing 4% donkey serum and 0.1% Triton‐X‐100 overnight. Cryosections were then washed three times with PBS and incubated with the goat anti‐mouse IgG (H+L), Alexa Fluor 488 (Thermo Fisher Scientific #A28175; 1:1000) in PBS containing 4% donkey serum and 0.1% Triton‐X‐100 for 4 h. Sections were then counterstained with 4′,6‐diamidino‐2‐phenylindolen (DAPI), washed three times with PBS and mounted with ProLong Gold Antifade for imaging on a Zeiss Z1 AxioExaminer NLO710 confocal microscope (Carl Zeiss MicroImaging).</p></sec><sec id="advs202406545-sec-0210"><title>Secreted Alkaline Phosphatase Assay</title><p>The chemiluminescence readout from the SeAP gene dosing study (Figure <xref rid="advs202406545-fig-0005" ref-type="fig">5</xref>) was performed following the manufacturer's instructions and protocol after Best et al.<sup>[</sup>
+<xref rid="advs202406545-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+<sup>]</sup> Briefly, 8–10 week‐old C57BL/6J mice received SCD‐CC‐GET of dbCMVp‐SeAP dbDNA (10 or 100 µg; Touchlight Genetics Ltd, UK) to the left gastrocnemius muscle. At day 3 or 5 after SCD‐CC‐GET, mice were euthanized and blood was drawn by cardiac puncture and serum extracted. Colorimetric detection of the transgenic SeAP was performed using the Phospha‐Light System (Applied Biosystems; cat#T1015, USA). In a 96‐well plate, 50 µL of serum (1:50 in Dilution Buffer), or 50 µL of control SeAP enzyme, across a standard range, was applied, and 50 µL of Assay Buffer added. A total of 5 min later 50 µL reaction buffer was added and chemiluminescence read on a FlexStation 3 Multi‐Mode Microplate Reader (Molecular Devices, USA) at 0.1–1 s well<sup>−1</sup>. Serum SeAP concentration was calculated from the standard curve generated in Sigma Plot (Sigmaplot v. 14).</p></sec><sec id="advs202406545-sec-0220"><title>Cal/09 Hemagglutinin Protein Assay Using ELISA</title><p>In 8–12 week‐old C57BL/6J mice under isoflurane anesthesia (as above), SCD‐CC‐GET was used for parallel delivery of luciferase reporter‐encoding synthetic DNA (dbCMVp‐Luc dbDNA, Touchlight Genetics Ltd, UK; 2 mg mL<sup>−1</sup>, 50 µL, SCD‐CC‐GET) into one mouse hindlimb, and synthetic DNA encoding an hemagglutinin antigen target for influenza Cal/09 (dbCMVp‐Cal/09 dbDNA, Touchlight Genetics Ltd, UK; 2 mg mL<sup>−1</sup>, 50 µL, SCD‐CC‐GET) into the opposite hindlimb muscle. At 7 days, following bioluminescence imaging as above, mice were euthanized, whole blood drawn by cardiac puncture, and serum extracted. Anti‐Cal/09 antibodies against the Cal/09 hemagglutinin protein were measured by direct colourimetric ELISA following Hettinga et al.<sup>[</sup>
+<xref rid="advs202406545-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+<sup>]</sup> Maxisorp 96‐well plates (DIS‐971‐010P (439454), Nunc) were coated with 50 µL of 10 µg mL<sup>−1</sup> Cal/09 protein (IT‐003‐SW12p, Immune Technology Corp, New York, USA) at 4 °C overnight. Wells were then washed six times with PBS containing 0.05% Tween20 and blocked with 50 µL of Pierce Protein‐Free (PBS) Blocking Buffer (37572, ThermoFisher Scientific) for 1 h at RT. A total of 100 µL of serum (1:100 in PBS) was then added to each well and incubated for 2 h at room temperature, then washed with PBS six times and the goat anti‐mouse HRP secondary antibody (# 31430, ThermoFisher Scientific 1; 10.000) applied. Following repeated six washes, 50 µL of Ultra‐TMB HRP substrate (PN34028, ThermoFisher Scientific) was applied and the colorimetric reaction stopped after 20 min by addition of 50 µL of stop solution (0.5 <sc>m</sc> H<sub>2</sub>SO<sub>4</sub>) to each well and absorbance at 450 nm determined immediately on a, FLUOstar Omega plate reader (BMG LabTech, Australia).</p></sec><sec id="advs202406545-sec-0230"><title>Statistics</title><p>Data were analyzed for normal distribution and where appropriate, statistical <italic toggle="yes">t</italic>‐tests (single comparisons) or ANOVA, including one or two‐way (repeated measures) ANOVA with Holm–Sidak or Bonferroni‐corrected multiple pair‐wise post‐hoc comparisons, were performed. Statistical significance was determined using alpha value = 0.05; no data were excluded as outliers (evaluated using the Grubb's test (ESD, extreme studentized deviate; PRISM)). Nonparametric statistical comparisons were undertaken when data failed the normal distribution inspection. The data were then transformed and analyzed using Kruskal–Wallis one way analysis of variance on rank, with Tukey, or Dunn's, post‐hoc tests for multiple comparisons (Sigmaplot v.14, SysStat, Germany).</p></sec></sec><sec sec-type="COI-statement" id="advs202406545-sec-0250"><title>Conflict of Interest</title><p>G.D.H., J.L.P., N.H.L., E.N.C., A.A.A., and G.v.J. are inventors on cited patents assigned to UNSW Sydney. This relates of the UNSW trademark BaDGE. Patents: US Patent No. US 11,213,671 B2; US 2022/0054827 A1; US 2024/0100324 A1. S.S.‐M., L.J.C., and S.M are affiliated with Touchlight Genetics Ltd., manufacturer of the synthetic doggybone DNA constructs.</p></sec><sec id="advs202406545-sec-0260"><title>Author Contributions</title><p>J.L.P. and G.v.J. contributed equally to this work. J.L.P. and G.v.J. contributed equally to the design and execution of the experimental work and data analysis. G.v.J., G.D.H., and J.L.P. wrote the drafts of the manuscript with input from the other authors. S.L.M., A.A.A., K‐Y.L., and M.M. undertook the primary SCD‐CC‐GET device prototype design and fabrication supported by N.H.L., G.D.H., and J.L.P. E.N.C. contributed to the design and construction of the SCD‐CC‐GET charger supported by S.L.M., G.D.H., N.H.L, and J.L.P. A.A.A. undertook the GET electro‐lens modeling of electric field profiles. S.X. contributed to the mCherry reporter expression studies in mouse hindlimb. S.S‐M., L.J.C., and S.M. from Touchlight Genetics Ltd. supported the doggybone DNA – studies in design and analysis, including luciferase, SeAP and Cal/09 studies. M.K. contributed to the design, analysis, and manuscript. Project administration by G.D.H., J.L.P., and G.v.J. Primary supervision by G.D.H.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs202406545-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="advs202406545-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-12-2406545-s001.pdf" position="float" orientation="portrait"><?suppdata-name ADVS-12-2406545-s001.pdf?><?suppdata-size 862042?><?suppdata-md5 175e0c6184f36d2ebb8d47a9e6cc1a91?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:540d/11744645/175e0c6184f3/ADVS-12-2406545-s001.pdf?></media></supplementary-material></sec></body><back><ack id="advs202406545-sec-0240"><title>Acknowledgements</title><p>The authors thank the UNSW Biomedical Imaging Laboratory (BRIL) for the in situ fluorescence spectral imaging of gene expression and support for the longitudinal bioluminescence studies. This work used the NSW node of the NCRIS‐enabled Australian National Fabrication Facility (ANFF‐NSW). Richard Sokolov, Will Postel, William Mason of IDE Group Sydney are thanked for the graphical representation of the SCD‐CC‐GET device shown in Figure <xref rid="advs202406545-fig-0006" ref-type="fig">6</xref>. The personnel at the UNSW Katharina Gaus Light Microscopy Facility are acknowledged for histochemistry support. Funded through Australian Research Council DP151014754 (G.D.H., N.H.L., M.K.), National Health and Medical Research Council (NHMRC): APP1189113 (G.D.H., J.L.P., G.v.J., M.K., N.H.L.); APP2013285 (G.D.H., N.H.L., M.K., A.A.A., G.v.J., J.L.P. Australia's economic accelerator seed grant AE230100118 (G.v.J., G.D.H., N.H.L., E.N.C., A.A.A., J.L.P). Supported by a collaborative research agreement between UNSW Sydney and Touchlight Genetics Ltd., U.K.</p></ack><sec sec-type="data-availability" id="advs202406545-sec-0280"><title>Data Availability Statement</title><p>The data that support the findings of this study are available in the supplementary material of this article.</p></sec><ref-list id="advs202406545-bibl-0001"><ref id="advs202406545-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs202406545-cit-0001">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Kulkarni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Witzigmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Thomson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. R.</given-names>
+<surname>Leavitt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. R.</given-names>
+<surname>Cullis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>van der Meel</surname>
+</string-name>, <source>Nat. Nanotechnol.</source>
+<year>2021</year>, <volume>16</volume>, <fpage>630</fpage>.<pub-id pub-id-type="pmid">34059811</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41565-021-00898-0</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs202406545-cit-0002">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. H.</given-names>
+<surname>Mathews</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Huang</surname>
+</string-name>, <source>Nature</source>
+<year>2023</year>, <volume>621</volume>, <fpage>396</fpage>.<pub-id pub-id-type="pmid">37130545</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-023-06127-z</pub-id><pub-id pub-id-type="pmcid">PMC10499610</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs202406545-cit-0003">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Sheridan</surname>
+</string-name>, <source>Nat. Biotechnol.</source>
+<year>2023</year>, <volume>41</volume>, <fpage>737</fpage>.<pub-id pub-id-type="pmid">37316735</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41587-023-01824-6</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs202406545-cit-0004">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Langer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Tao</surname>
+</string-name>, <source>Nat. Med.</source>
+<year>2022</year>, <volume>28</volume>, <fpage>2273</fpage>.<pub-id pub-id-type="pmid">36357682</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-022-02061-1</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs202406545-cit-0005">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Greig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Martins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Breton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Lamontagne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>White</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.‐X.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Chichester</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Wilson</surname>
+</string-name>, <source>Nat. Biotechnol.</source>
+<year>2024</year>, <volume>42</volume>, <fpage>1232</fpage>.<pub-id pub-id-type="pmid">37932420</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41587-023-01974-7</pub-id><pub-id pub-id-type="pmcid">PMC11324525</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs202406545-cit-0006">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Lacković</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Magjarević</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Miklavćić</surname>
+</string-name>, <source>IEEE Trans. Dielectr. Electr. Insul.</source>
+<year>2009</year>, <volume>16</volume>, <fpage>1338</fpage>.</mixed-citation></ref><ref id="advs202406545-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs202406545-cit-0007">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Rosazza</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Deschout</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Buntz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Braeckmans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Rols</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zumbusch</surname>
+</string-name>, <source>Mol. Ther. Nucleic Acids</source>
+<year>2016</year>, <volume>5</volume>, <elocation-id>e286</elocation-id>.<pub-id pub-id-type="pmid">26859199</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mtna.2015.59</pub-id><pub-id pub-id-type="pmcid">PMC4884790</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs202406545-cit-0008">
+<string-name name-style="western">
+<given-names>V. L.</given-names>
+<surname>Scott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Patel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. O.</given-names>
+<surname>Villarreal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Hensley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ragwan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. Y.</given-names>
+<surname>Sardesai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Rothwell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Extance</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Caproni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Weiner</surname>
+</string-name>, <source>Hum. Vaccines Immunother.</source>
+<year>2015</year>, <volume>11</volume>, <fpage>1972</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/21645515.2015.1022008</pub-id><pub-id pub-id-type="pmcid">PMC4635705</pub-id><pub-id pub-id-type="pmid">26091432</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs202406545-cit-0009">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Allen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Caproni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Sugiyarto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Harden</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. R.</given-names>
+<surname>Douglas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Duriez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Karbowniczek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Extance</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Rothwell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Orefo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Tite</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. K.</given-names>
+<surname>Stevenson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>Ottensmeier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Savelyeva</surname>
+</string-name>, <source>Cancer Immunol. Immunother.</source>
+<year>2018</year>, <volume>67</volume>, <fpage>627</fpage>.<pub-id pub-id-type="pmid">29330557</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00262-017-2111-y</pub-id><pub-id pub-id-type="pmcid">PMC5860099</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs202406545-cit-0010">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Russano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Del Fiore</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Di Prata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Pasqual</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Marconato</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Campana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Spina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Gianesini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Collodetto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Tropea</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Dall'Olmo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Carraro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Parisi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Galuppo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Scarzello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>De Terlizzi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rastrelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mocellin</surname>
+</string-name>, <source>Front. Oncol.</source>
+<year>2021</year>, <volume>11</volume>, <elocation-id>772144</elocation-id>.<pub-id pub-id-type="pmid">34993137</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fonc.2021.772144</pub-id><pub-id pub-id-type="pmcid">PMC8724516</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs202406545-cit-0011">
+<string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Campana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Peric</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mascherini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Spina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kunte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Kis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Rozsa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Quaglino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Jones</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J. P.</given-names>
+<surname>Clover</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Curatolo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Giorgione</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Cemazar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Terlizzi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bosnjak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Sersa</surname>
+</string-name>, <source>Cancers</source>
+<year>2021</year>, <volume>13</volume>, <fpage>4289</fpage>.<pub-id pub-id-type="pmid">34503099</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cancers13174289</pub-id><pub-id pub-id-type="pmcid">PMC8428335</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs202406545-cit-0012">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Touchard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Berdugo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bigey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>El Sanharawi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Savoldelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Naud</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Jeanny</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Behar‐Cohen</surname>
+</string-name>, <source>Mol. Ther.</source>
+<year>2012</year>, <volume>20</volume>, <fpage>1559</fpage>.<pub-id pub-id-type="pmid">22252448</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mt.2011.304</pub-id><pub-id pub-id-type="pmcid">PMC3412485</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs202406545-cit-0013">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Pinyon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. F.</given-names>
+<surname>Tadros</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Froud</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. W.</given-names>
+<surname>AC</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. T.</given-names>
+<surname>Tompson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. N.</given-names>
+<surname>Crawford</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Morris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Klugmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Housley</surname>
+</string-name>, <source>Sci. Transl. Med.</source>
+<year>2014</year>, <volume>6</volume>, <elocation-id>233ra54</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.3008177</pub-id><pub-id pub-id-type="pmid">24760189</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs202406545-cit-0014">
+<string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Browne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Pinyon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Housley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. N.</given-names>
+<surname>Crawford</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Lovell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Klugmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Housley</surname>
+</string-name>, <source>Gene Ther.</source>
+<year>2016</year>, <volume>23</volume>, <fpage>369</fpage>.<pub-id pub-id-type="pmid">26826485</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/gt.2016.8</pub-id><pub-id pub-id-type="pmcid">PMC4827009</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs202406545-cit-0015">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Pinyon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>von Jonquieres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. N.</given-names>
+<surname>Crawford</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Duxbury</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Al Abed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Lovell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Klugmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Wise</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Fallon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. K.</given-names>
+<surname>Shepherd</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. S.</given-names>
+<surname>Birman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Lai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>McAlpine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>McMahon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Carter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. L.</given-names>
+<surname>Enke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Patrick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G. M.</given-names>
+<surname>Schilder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Marie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Scherman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Housley</surname>
+</string-name>, <source>Hear. Res.</source>
+<year>2019</year>, <volume>380</volume>, <fpage>137</fpage>.<pub-id pub-id-type="pmid">31301514</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.heares.2019.06.002</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0016"><label>16</label><mixed-citation publication-type="miscellaneous" id="advs202406545-cit-0016">
+<collab collab-type="authors">Australia_&amp;_New_Zealand_Clinical_Trials_Registry_(ANZCTR)</collab>
+, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12618001556235" ext-link-type="uri">http://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12618001556235</ext-link>, <year>2024</year>.</mixed-citation></ref><ref id="advs202406545-bib-0017"><label>17</label><mixed-citation publication-type="miscellaneous" id="advs202406545-cit-0017">
+<string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Housley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Lovell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pinyon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. N.</given-names>
+<surname>Crawford</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Browne</surname>
+</string-name>, <article-title>US Patent No. US 11,213,671 B2</article-title>, <year>2022</year>.</mixed-citation></ref><ref id="advs202406545-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs202406545-cit-0018">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Pinyon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>von Jonquieres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. N.</given-names>
+<surname>Crawford</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Al Abed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Power</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Klugmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Browne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Housley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Wise</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Fallon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. K.</given-names>
+<surname>Shepherd</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>McMahon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>McAlpine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. S.</given-names>
+<surname>Birman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Lai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. L.</given-names>
+<surname>Enke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Carter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Patrick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. D.</given-names>
+<surname>Gay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Marie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Scherman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Lovell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Housley</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2024</year>, <volume>11</volume>, <elocation-id>2401392</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/advs.202401392</pub-id><pub-id pub-id-type="pmcid">PMC11321635</pub-id><pub-id pub-id-type="pmid">38874431</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0019"><label>19</label><mixed-citation publication-type="miscellaneous" id="advs202406545-cit-0019">
+<string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Housley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pinyon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Lovell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Abed</surname>
+</string-name>, <article-title>US 2022/0054827 A1</article-title>, <year>2022</year>.</mixed-citation></ref><ref id="advs202406545-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs202406545-cit-0020">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. T.</given-names>
+<surname>Adams</surname>
+<suffix>Jr.</suffix>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Miller</surname>
+</string-name>, <source>Methods Enzymol.</source>
+<year>2020</year>, <volume>640</volume>, <fpage>165</fpage>.<pub-id pub-id-type="pmid">32560797</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/bs.mie.2020.04.033</pub-id><pub-id pub-id-type="pmcid">PMC8345814</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0021"><label>21</label><mixed-citation publication-type="miscellaneous" id="advs202406545-cit-0021">
+<string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Housley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J. L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Lovell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Crawford</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Abed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Von Jonquieres</surname>
+</string-name>, <article-title>US 2024/0100324 A1</article-title>, <year>2024</year>.</mixed-citation></ref><ref id="advs202406545-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs202406545-cit-0022">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. M. S.</given-names>
+<surname>Lester</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Petishnok</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Dean</surname>
+</string-name>, <source>Biosci. Rep.</source>
+<year>2017</year>, <volume>37</volume>, <elocation-id>BSR20160616</elocation-id>.<pub-id pub-id-type="pmid">29054961</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BSR20160616</pub-id><pub-id pub-id-type="pmcid">PMC5705778</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs202406545-cit-0023">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Pinyon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Klugmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Lovell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Housley</surname>
+</string-name>, <source>Hum. Gene Ther.</source>
+<year>2019</year>, <volume>30</volume>, <fpage>211</fpage>.<pub-id pub-id-type="pmid">30032660</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/hum.2018.062</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs202406545-cit-0024">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mignon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Sodoyer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Werle</surname>
+</string-name>, <source>Pathogens</source>
+<year>2015</year>, <volume>4</volume>, <fpage>157</fpage>.<pub-id pub-id-type="pmid">25854922</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/pathogens4020157</pub-id><pub-id pub-id-type="pmcid">PMC4493468</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs202406545-cit-0025">
+<string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Vogel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Kanevsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. E.</given-names>
+<surname>Che</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Swanson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Muik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vormehr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Kranz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. C.</given-names>
+<surname>Walzer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Güler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Loschko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Maddur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ota‐Setlik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Tompkins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cole</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. G.</given-names>
+<surname>Lui</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Ziegenhals</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Plaschke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Eisel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Dany</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Fesser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Erbar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Bates</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Jesionek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Sänger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.‐K.</given-names>
+<surname>Wallisch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Feuchter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Junginger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Krumm</surname>
+</string-name>, et al., <source>Nature</source>
+<year>2021</year>, <volume>592</volume>, <fpage>283</fpage>.<pub-id pub-id-type="pmid">33524990</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-021-03275-y</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs202406545-cit-0026">
+<string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Bagarazzi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Morrow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Parker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Giffear</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Pankhong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Khan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Broderick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Knott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Boyer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Draghia‐Akli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>White</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Weiner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. Y.</given-names>
+<surname>Sardesai</surname>
+</string-name>, <source>Sci. Transl. Med.</source>
+<year>2012</year>, <volume>4</volume>, <elocation-id>155ra138</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.3004414</pub-id><pub-id pub-id-type="pmcid">PMC4317299</pub-id><pub-id pub-id-type="pmid">23052295</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs202406545-cit-0027">
+<string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Broderick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Humeau</surname>
+</string-name>, <source>Expert Rev. Vaccines</source>
+<year>2015</year>, <volume>14</volume>, <fpage>195</fpage>.<pub-id pub-id-type="pmid">25487734</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1586/14760584.2015.990890</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs202406545-cit-0028">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Aihara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Miyazaki</surname>
+</string-name>, <source>Nat. Biotechnol.</source>
+<year>1998</year>, <volume>16</volume>, <fpage>867</fpage>.<pub-id pub-id-type="pmid">9743122</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt0998-867</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs202406545-cit-0029">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rudolf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mongillo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Magalhaes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Pozzan</surname>
+</string-name>, <source>J. Cell Biol.</source>
+<year>2004</year>, <volume>166</volume>, <fpage>527</fpage>.<pub-id pub-id-type="pmid">15314066</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1083/jcb.200403102</pub-id><pub-id pub-id-type="pmcid">PMC2172216</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs202406545-cit-0030">
+<string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Baker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Mahmud</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. F.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rajeev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Rasambainarivo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. L.</given-names>
+<surname>Rice</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Takahashi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Tatem</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Wagner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.‐F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Wesolowski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J. E.</given-names>
+<surname>Metcalf</surname>
+</string-name>, <source>Nat. Rev. Microbiol.</source>
+<year>2022</year>, <volume>20</volume>, <fpage>193</fpage>.<pub-id pub-id-type="pmid">34646006</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-021-00639-z</pub-id><pub-id pub-id-type="pmcid">PMC8513385</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs202406545-cit-0031">
+<string-name name-style="western">
+<given-names>J.‐L.</given-names>
+<surname>Excler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Saville</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Berkley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <source>Nat. Med.</source>
+<year>2021</year>, <volume>27</volume>, <fpage>591</fpage>.<pub-id pub-id-type="pmid">33846611</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01301-0</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs202406545-cit-0032">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Duffy</surname>
+</string-name>, <source>PLoS Biol.</source>
+<year>2018</year>, <volume>16</volume>, <elocation-id>e3000003</elocation-id>.<pub-id pub-id-type="pmid">30102691</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pbio.3000003</pub-id><pub-id pub-id-type="pmcid">PMC6107253</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs202406545-cit-0033">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Lawrence</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Heung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Nave</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Henkel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Escudero‐Pérez</surname>
+</string-name>, <source>Curr. Opin. Virol.</source>
+<year>2023</year>, <volume>63</volume>, <elocation-id>101377</elocation-id>.<pub-id pub-id-type="pmid">37995425</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.coviro.2023.101377</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs202406545-cit-0034">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hoose</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Vellacott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Storch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Freemont</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Ryadnov</surname>
+</string-name>, <source>Nat. Rev. Chem.</source>
+<year>2023</year>, <volume>7</volume>, <fpage>144</fpage>.<pub-id pub-id-type="pmid">36714378</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41570-022-00456-9</pub-id><pub-id pub-id-type="pmcid">PMC9869848</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs202406545-cit-0035">
+<string-name name-style="western">
+<given-names>V. P.</given-names>
+<surname>Mauro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Chappell</surname>
+</string-name>, <source>Trends Mol. Med.</source>
+<year>2014</year>, <volume>20</volume>, <fpage>604</fpage>.<pub-id pub-id-type="pmid">25263172</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molmed.2014.09.003</pub-id><pub-id pub-id-type="pmcid">PMC4253638</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs202406545-cit-0036">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Karikó</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Buckstein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Weissman</surname>
+</string-name>, <source>Immunity</source>
+<year>2005</year>, <volume>23</volume>, <fpage>165</fpage>.<pub-id pub-id-type="pmid">16111635</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2005.06.008</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs202406545-cit-0037">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Karikó</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Muramatsu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. A.</given-names>
+<surname>Welsh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ludwig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kato</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Akira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Weissman</surname>
+</string-name>, <source>Mol. Ther.</source>
+<year>2008</year>, <volume>16</volume>, <fpage>1833</fpage>.<pub-id pub-id-type="pmid">18797453</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mt.2008.200</pub-id><pub-id pub-id-type="pmcid">PMC2775451</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs202406545-cit-0038">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Pardi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Hogan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. W.</given-names>
+<surname>Porter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Weissman</surname>
+</string-name>, <source>Nat. Rev. Drug Discovery</source>
+<year>2018</year>, <volume>17</volume>, <fpage>261</fpage>.<pub-id pub-id-type="pmid">29326426</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrd.2017.243</pub-id><pub-id pub-id-type="pmcid">PMC5906799</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs202406545-cit-0039">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Bi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Liang</surname>
+</string-name>, <source>Nat. Rev. Drug Discovery</source>
+<year>2023</year>, <volume>22</volume>, <fpage>867</fpage>.<pub-id pub-id-type="pmid">37474662</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/d41573-023-00119-4</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs202406545-cit-0040">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, <source>Exp. Mol. Med.</source>
+<year>2023</year>, <volume>55</volume>, <fpage>2085</fpage>.<pub-id pub-id-type="pmid">37779140</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s12276-023-01086-x</pub-id><pub-id pub-id-type="pmcid">PMC10618257</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs202406545-cit-0041">
+<string-name name-style="western">
+<given-names>T. F.</given-names>
+<surname>Justesen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Orhan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Raskov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Nolsoe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Gogenur</surname>
+</string-name>, <source>Cancers</source>
+<year>2022</year>, <volume>14</volume>, <fpage>2876</fpage>.<pub-id pub-id-type="pmid">35740542</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cancers14122876</pub-id><pub-id pub-id-type="pmcid">PMC9221311</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0042"><label>42</label><mixed-citation publication-type="miscellaneous" id="advs202406545-cit-0042">
+<collab collab-type="authors">USA_Clinical_Trials_Registry</collab>
+, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT04601974" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT04601974</ext-link> (accessed: July <year>2023</year>).</mixed-citation></ref><ref id="advs202406545-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs202406545-cit-0043">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Algazi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bhatia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Agarwala</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Molina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Lewis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Faries</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Fong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. P.</given-names>
+<surname>Levine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Franco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Oglesby</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Ballesteros‐Merino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. B.</given-names>
+<surname>Bifulco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. A.</given-names>
+<surname>Fox</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bannavong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Talia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Browning</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. H.</given-names>
+<surname>Le</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. H.</given-names>
+<surname>Pierce</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gargosky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>Tsai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Twitty</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. I.</given-names>
+<surname>Daud</surname>
+</string-name>, <source>Ann. Oncol.</source>
+<year>2020</year>, <volume>31</volume>, <fpage>532</fpage>.<pub-id pub-id-type="pmid">32147213</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.annonc.2019.12.008</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs202406545-cit-0044">
+<string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Deyle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Russell</surname>
+</string-name>, <source>Curr. Opin. Mol. Ther.</source>
+<year>2009</year>, <volume>11</volume>, <fpage>442</fpage>.<pub-id pub-id-type="pmid">19649989</pub-id>
+<pub-id pub-id-type="pmcid">PMC2929125</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs202406545-cit-0045">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. R.</given-names>
+<surname>Yocum</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Silver</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Way</surname>
+</string-name>, <source>Sci. Rep.</source>
+<year>2023</year>, <volume>13</volume>, <fpage>6835</fpage>.<pub-id pub-id-type="pmid">37100816</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-023-33862-0</pub-id><pub-id pub-id-type="pmcid">PMC10133325</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs202406545-cit-0046">
+<string-name name-style="western">
+<given-names>C. D.</given-names>
+<surname>Thornton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Fielding</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Karbowniczek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Roig‐Merino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. E.</given-names>
+<surname>Burrows</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>FitzPatrick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sharaireh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Tite</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Mole</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Harbottle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Caproni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. R.</given-names>
+<surname>McKay</surname>
+</string-name>, <source>Mol. Ther. Methods Clin. Dev.</source>
+<year>2021</year>, <volume>23</volume>, <fpage>348</fpage>.<pub-id pub-id-type="pmid">34729381</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.omtm.2021.09.018</pub-id><pub-id pub-id-type="pmcid">PMC8546411</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0047"><label>47</label><mixed-citation publication-type="miscellaneous" id="advs202406545-cit-0047">
+<collab collab-type="authors">NHMRC</collab>
+, <article-title>
+<italic toggle="yes">Australian Code for the Care and Use of Animals for Scientific Purposes</italic>, 8th ed., Australian Federal Government National Health and Medical Research Council, Australia</article-title>
+<year>2013</year>.</mixed-citation></ref><ref id="advs202406545-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs202406545-cit-0048">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>von Jonquieres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. H. T.</given-names>
+<surname>Spencer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. D.</given-names>
+<surname>Rowlands</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. B.</given-names>
+<surname>Klugmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bongers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. E.</given-names>
+<surname>Harasta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Parley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cederholm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Teahan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Pickford</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Delerue</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Ittner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Frohlich</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>McLean</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Don</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Housley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. D.</given-names>
+<surname>Rae</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Klugmann</surname>
+</string-name>, <source>Acta Neuropathol.</source>
+<year>2018</year>, <volume>135</volume>, <fpage>95</fpage>.<pub-id pub-id-type="pmid">29116375</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-017-1784-9</pub-id><pub-id pub-id-type="pmcid">PMC5756261</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs202406545-cit-0049">
+<string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Best</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Juang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Hung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Hannaman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Saunders</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. I.</given-names>
+<surname>Pai</surname>
+</string-name>, <source>Vaccine</source>
+<year>2009</year>, <volume>27</volume>, <fpage>5450</fpage>.<pub-id pub-id-type="pmid">19622402</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.vaccine.2009.07.005</pub-id><pub-id pub-id-type="pmcid">PMC2745985</pub-id></mixed-citation></ref><ref id="advs202406545-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs202406545-cit-0050">
+<string-name name-style="western">
+<given-names>J. K.</given-names>
+<surname>Hettinga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Lyons</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Balkaran</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Rijal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Dunn‐Lawless</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Caproni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gray</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. S.</given-names>
+<surname>Suslick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. C.</given-names>
+<surname>Coussios</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Carlisle</surname>
+</string-name>, <source>Adv. Ther.</source>
+<year>2023</year>, <volume>6</volume>, <elocation-id>2300102</elocation-id>.</mixed-citation></ref></ref-list></back></article>
