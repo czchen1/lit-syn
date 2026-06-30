@@ -1,0 +1,1791 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="hem370328" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Hemasphere</journal-id><journal-id journal-id-type="iso-abbrev">Hemasphere</journal-id><journal-id journal-id-type="pmc-domain-id">3722</journal-id><journal-id journal-id-type="pmc-domain">hemasphere</journal-id><journal-id journal-id-type="publisher-id">HEM3</journal-id><journal-title-group><journal-title>HemaSphere</journal-title></journal-title-group><issn pub-type="epub">2572-9241</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13127696</article-id><article-id pub-id-type="pmcid-ver">PMC13127696.1</article-id><article-id pub-id-type="pmcaid">13127696</article-id><article-id pub-id-type="pmcaiid">13127696</article-id><article-id pub-id-type="pmid">42064385</article-id><article-id pub-id-type="doi">10.1002/hem3.70328</article-id><article-id pub-id-type="publisher-id">HEM370328</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>In vivo CAR therapies: Turning the patient into their own CAR factory</article-title></title-group><contrib-group><contrib id="hem370328-cr-0001" contrib-type="author"><name name-style="western"><surname>Vilcot</surname><given-names initials="F">François</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0000-3009-9601</contrib-id><xref rid="hem370328-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hem370328-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hem370328-cr-0002" contrib-type="author"><name name-style="western"><surname>Brugère</surname><given-names initials="CA">Carole‐Anne</given-names></name><xref rid="hem370328-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hem370328-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hem370328-cr-0003" contrib-type="author"><name name-style="western"><surname>Fuentealba</surname><given-names initials="J">Jaime</given-names></name><xref rid="hem370328-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hem370328-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hem370328-cr-0004" contrib-type="author" corresp="yes"><name name-style="western"><surname>Houot</surname><given-names initials="R">Roch</given-names></name><xref rid="hem370328-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="hem370328-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><address><email>roch.houot@chu-rennes.fr</email></address></contrib></contrib-group><aff id="hem370328-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Laboratory of Genome Dynamics in Human Diseases, Equipe Labellisée LIGUE 2026, Université Paris Cité, INSERM UMR 1163, Institut Imagine</institution>
+<city>Paris</city>
+<country country="FR">France</country>
+</aff><aff id="hem370328-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>UNITC: French Consortium of Cell and Gene Therapies for Cancer</institution>
+<country country="FR">France</country>
+</aff><aff id="hem370328-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Institut Carnot CALYM</institution>
+<city>Paris</city>
+<country country="FR">France</country>
+</aff><aff id="hem370328-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>CellAction, Institut Curie</institution>
+<city>Saint‐Cloud</city>
+<country country="FR">France</country>
+</aff><aff id="hem370328-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>University Hospital of Rennes, UMR U1236, INSERM</institution>
+<institution>University of Rennes</institution>
+<city>Rennes</city>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Roch Houot (<email>roch.houot@chu-rennes.fr</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>4</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2026</year></pub-date><volume>10</volume><issue seq="20">5</issue><issue-id pub-id-type="pmc-issue-id">512562</issue-id><issue-id pub-id-type="doi">10.1002/hem3.v10.5</issue-id><elocation-id>e70328</elocation-id><history>
+<date date-type="rev-recd"><day>17</day><month>1</month><year>2026</year></date>
+<date date-type="received"><day>18</day><month>12</month><year>2025</year></date>
+<date date-type="accepted"><day>08</day><month>2</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>29</day><month>04</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>30</day><month>04</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-05-01 09:25:17.693"><day>01</day><month>05</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">HemaSphere</italic> published by John Wiley &amp; Sons Ltd on behalf of European Hematology Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEM3-10-e70328.pdf"><?pdf-name HEM3-10-e70328.pdf?><?pdf-size 1161813?><?pdf-md5 586af69633186e1a0c00a205d9f2985b?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:df81/13127696/586af6963318/HEM3-10-e70328.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEM3-10-e70328.pdf"/><abstract><title>Abstract</title><p>Over the past decade, ex vivo autologous chimeric antigen receptor (CAR)‐T‐cell therapies have reshaped the treatment of B‐cell malignancies. Despite their remarkable clinical efficacy, their application remains limited by complex manufacturing processes, demanding logistics, long turnaround times, and substantial costs. In vivo CAR approaches are emerging as a potential solution to address these barriers by enabling direct induction of CAR expression in T cells and other immune cells through in‐patient delivery of genetic constructs. This review provides an overview of the current landscape of in vivo CAR therapies. We describe the major delivery platforms under clinical development, with a focus on lentiviral vectors (LVVs) and lipid nanoparticles (LNPs), and discuss their distinct features in terms of manufacturing, mechanism of action, safety, therapeutic applications, and optimization strategies. We also summarize ongoing clinical trials exploring in vivo CAR approaches for hematologic malignancies, solid tumors, and autoimmune diseases. Finally, we highlight the key scientific and clinical challenges that remain, and examine strategies under investigation to overcome these limitations and advance in vivo CAR therapies toward broader clinical translation.</p></abstract><counts><fig-count count="2"/><table-count count="4"/><page-count count="12"/><word-count count="8073"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.6 mode:remove_FC converted:29.04.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="hem370328-sec-0010"><title>INTRODUCTION</title><p>Chimeric antigen receptor (CAR)‐T cells have transformed the therapeutic landscape of hematologic malignancies.<xref rid="hem370328-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="hem370328-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Since the first clinical report in 2011, tens of thousands of patients have received CAR‐T‐cell therapy worldwide.<xref rid="hem370328-bib-0003" ref-type="bibr">3</xref>, <xref rid="hem370328-bib-0004" ref-type="bibr">4</xref>, <xref rid="hem370328-bib-0005" ref-type="bibr">5</xref> As of 2026, seven CAR‐T‐cell therapies targeting either CD19 or BCMA have been approved in the United States and Europe for the treatment of B‐cell acute lymphoblastic leukemia, B‐cell lymphomas, and multiple myeloma.<xref rid="hem370328-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="hem370328-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="hem370328-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Early clinical data suggest that CAR‐T cells may also have therapeutic potential in autoimmune diseases.<xref rid="hem370328-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="hem370328-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="hem370328-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p><p>Despite their remarkable efficacy, CAR‐T cells, often described as “living drugs,” present significant limitations. Conventional CAR‐T‐cell therapy relies on autologous cells manufactured ex vivo, which entails complex logistics, lengthy production times, and high costs.<xref rid="hem370328-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="hem370328-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="hem370328-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><p>To overcome these challenges, efforts are underway to develop “universal” or “off‐the‐shelf” CAR‐T cells. One strategy uses allogeneic CAR‐T cells derived from healthy donors.<xref rid="hem370328-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> This approach requires genome editing, such as <italic toggle="yes">TRAC</italic> and <italic toggle="yes">B2M</italic> knockout via CRISPR/Cas9 or TALENs, to prevent graft‐versus‐host disease and CAR‐T‐cell rejection.<xref rid="hem370328-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="hem370328-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="hem370328-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> However, allogeneic CAR‐T cells face inherent limitations, including complex ex vivo genome engineering, the need for highly immunosuppressive lymphodepletion, and limited persistence in vivo.<xref rid="hem370328-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="hem370328-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</p><p>Recent technological advances in in vivo gene delivery, exemplified by mRNA–lipid nanoparticle (LNPs) vaccines developed for COVID‐19, have accelerated the exploration of in vivo CAR‐T‐cell approaches.<xref rid="hem370328-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> In this review, we discuss the advantages and limitations of in vivo versus ex vivo CAR‐T‐cell therapies. We describe the mechanisms of the two in vivo CAR strategies currently under clinical investigation: lentiviral vectors (LVVs) and LNPs. We then compare these approaches in terms of efficacy, safety, and potential clinical indications. Finally, we summarize ongoing clinical trials and outline future perspectives for in vivo CAR‐T‐cell therapy.</p></sec><sec id="hem370328-sec-0020"><title>HOW IN VIVO CAR‐T CELLS MAY OVERCOME THE LIMITATIONS OF EX VIVO CAR‐T CELLS</title><p>Despite their remarkable efficacy and established long‐term safety, autologous, ex vivo CAR‐T cells present several limitations.<xref rid="hem370328-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="hem370328-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Their personalized production involves a complex and time‐consuming process (Figure <xref rid="hem370328-fig-0001" ref-type="fig">1</xref>). Patient's T cells are first collected via apheresis and shipped to a centralized manufacturing facility. Then, they are transduced with lentiviral or retroviral vectors, allowing stable integration of the CAR genetic sequence, followed by ex vivo expansion. The resulting CAR‐T cells undergo rigorous quality control, including vector copy number assessment, immunophenotyping, and sterility testing.<xref rid="hem370328-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Once validated, the cells are released and shipped back to the treatment center for infusion after the patient receives lymphodepleting chemotherapy.<xref rid="hem370328-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> This elaborate and highly personalized process entails heavy logistics, prolonged turnaround times (several weeks), and costs exceeding hundreds of thousands of dollars.<xref rid="hem370328-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="hem370328-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><fig position="float" fig-type="Figure" id="hem370328-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>
+<bold>Overview of ex vivo and in vivo chimeric antigen receptor (CAR)‐T‐cell technologies.</bold> The left panel illustrates the manufacturing workflow of ex vivo CAR‐T‐cell therapies, whereas the right panel depicts a simplified scheme for in vivo CAR‐T‐cell generation following systemic delivery of lentiviral vectors (LVVs) or lipid nanoparticles (LNPs). Key advantages and limitations of each approach are summarized at the top and bottom of the figure, respectively. CRS, cytokine release syndrome; ICANS, immune effector cell‐associated‐neurotoxicity syndrome; QC, quality check.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HEM3-10-e70328-g002.jpg"><?image-name HEM3-10-e70328-g002.jpg?><?image-size 144291?><?image-md5 634773fa58094825ab48c797e041668e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 937?><?image-original-width 1054?><?image-scaled-height 624?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/df81/13127696/634773fa5809/HEM3-10-e70328-g002.jpg?><?thumb-name HEM3-10-e70328-g002.gif?><?thumb-size 5666?><?thumb-md5 f184f083ab10060d28e39cc71635d721?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 89?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/df81/13127696/f184f083ab10/HEM3-10-e70328-g002.gif?></graphic></fig><p>In contrast, in vivo CAR‐T cells are generated directly within the patient following administration of LVVs or LNPs (Figure <xref rid="hem370328-fig-0001" ref-type="fig">1</xref>). Their composition and mechanism of action are detailed in Figure <xref rid="hem370328-fig-0002" ref-type="fig">2</xref>. In vivo CAR‐T cells are “universal”, eliminating the need for patient‐specific cell production and immediately available off‐the‐shelf. Compared with ex vivo approaches, in vivo CAR‐T cells offer simpler logistics and manufacturing, as they bypass apheresis, cell shipping, and ex vivo manipulation. These features could make the therapy more scalable, cost‐effective, and globally accessible.<xref rid="hem370328-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Additionally, they may obviate the need for lymphodepleting chemotherapy and its potential short and long‐term toxicities, including immune effector cell‐associated hematotoxicity (ICAHT) and infectious complications.<xref rid="hem370328-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p><fig position="float" fig-type="Figure" id="hem370328-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>
+<bold>Lentiviral vectors (LVVs) and lipid nanoparticles (LNPs) allow in vivo chimeric antigen receptor (CAR) expression.</bold> Schematic comparison of composition, mechanism of action, and expression kinetics of LVV‐based and LNP‐based in vivo CAR platforms. LVVs deliver CAR‐encoding genetic material that integrates into the host genome, enabling durable CAR expression and long‐term cell persistence after a single administration. In contrast, LNPs deliver CAR‐encoding RNA that is translated in the cytoplasm without genomic integration, resulting in transient CAR expression that typically requires repeat dosing. These distinct kinetic profiles underlie key differences in durability, safety, and clinical use. IRES, internal ribosome entry site; ORF, open reading frame; PEG, polyethylene glycol; ssRNA, single‐stranded RNA; VSV‐G, vesicular stomatitis virus G.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="HEM3-10-e70328-g001.jpg"><?image-name HEM3-10-e70328-g001.jpg?><?image-size 119257?><?image-md5 826ebb3e896bc08989cf3083613970fb?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 818?><?image-original-width 1054?><?image-scaled-height 545?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/df81/13127696/826ebb3e896b/HEM3-10-e70328-g001.jpg?><?thumb-name HEM3-10-e70328-g001.gif?><?thumb-size 5658?><?thumb-md5 3c3053142bf5efaf750df3d1198eda72?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 103?><?thumb-cloudpmc-urn urn:cdn:blobs/df81/13127696/3c3053142bf5/HEM3-10-e70328-g001.gif?></graphic></fig><p>However, in vivo CAR‐T‐cell therapy also carries distinct challenges (Figure <xref rid="hem370328-fig-0001" ref-type="fig">1</xref>). Clinical experience is very limited, with only a few patients treated to date.<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="hem370328-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="hem370328-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Potential risks include off‐target transduction (e.g., in non‐T cells and tumor cells, raising concerns of insertional mutagenesis or epitope masking, respectively), accumulation in organs such as the liver, and immune reactions, particularly in patients previously exposed to viral epitopes.<xref rid="hem370328-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="hem370328-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="hem370328-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="hem370328-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+</p></sec><sec sec-type="methods" id="hem370328-sec-0030"><title>IN VIVO CAR METHODS AND DELIVERY SYSTEMS</title><p>LVVs are the gold standard for ex vivo CAR‐T‐cell generation, but their historical use for in vivo delivery has been limited because conventional vectors display broad, non‐selective tropism and raise safety concerns when administered systemically.<xref rid="hem370328-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="hem370328-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> LVVs are engineered, replication‐incompetent viruses derived from human immunodeficiency virus 1 (HIV‐1) and designed to stably deliver genes into both proliferating and resting cells.<xref rid="hem370328-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Production relies on transient transfection of HEK293T cells with different plasmids encoding (i) the CAR transgene under the regulation of a specific promoter, (ii) the structural and enzymatic proteins that form the viral core, and (iii) an envelope glycoprotein, most commonly vesicular stomatitis virus G (VSV‐G), which is widely used to pseudotype LVVs and confers broad cellular tropism through interactions with low‐density lipoprotein receptor (LDLR) family members.<xref rid="hem370328-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Upon target cell engagement, LVVs undergo envelope‐mediated receptor binding and membrane fusion, which may occur at the plasma membrane or following endocytic uptake in a pH‐dependent manner, depending on the envelope glycoprotein (Figure <xref rid="hem370328-fig-0002" ref-type="fig">2</xref>). Subsequently, the viral core is released into the cytoplasm, where reverse transcription of the RNA genome into double‐stranded viral DNA occurs, followed by nuclear import of the pre‐integration complex and semi‐random integration into the host genome.<xref rid="hem370328-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="hem370328-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+</p><p>For in vivo CAR delivery, this intracellular replication‐incompetent lifecycle is preserved; however, the viral envelope must be retargeted to restrict cell entry and avoid the broad tropism conferred by conventional pseudotyping (Table <xref rid="hem370328-tbl-0001" ref-type="table">1</xref>).<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="hem370328-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="hem370328-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> This can be achieved by modifying the envelope glycoprotein itself or by displaying additional targeting moieties on the vector surface to guide transduction toward T cells.<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="hem370328-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="hem370328-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Tropism restriction is further strengthened by the use of lineage‐restricted synthetic or engineered promoters, which help limit CAR expression to the intended immune cell population.<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="hem370328-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Once LVVs successfully transduce T cells in vivo, they enable stable expression of the CAR, leading to CAR‐T‐cell activation, expansion, and tumor‐cell killing (Figure <xref rid="hem370328-fig-0002" ref-type="fig">2</xref>). After antigen clearance, CAR‐T cell numbers usually contract, but long‐term follow‐up studies with ex vivo CARs have shown that CAR‐T cells can remain detectable for many years in responding patients.<xref rid="hem370328-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> This ability to support durable CAR‐T‐cell persistence is a key feature of integrating vectors compared with transient approaches. Accordingly, LVV‐based in vivo CAR approaches are generally envisioned as single‐administration therapies, whereas mRNA–LNP platforms would require repeated dosing to sustain CAR expression due to their transient nature.</p><table-wrap position="float" id="hem370328-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Comparison of lentiviral vectors (LVVs) and lipid nanoparticles (LNPs) as in vivo chimeric antigen receptor (CAR) delivery systems.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<bold>LVVs</bold>
+</th><th style="background-color:#FFEFF7" align="left" rowspan="1" colspan="1">
+<bold>LNPs</bold>
+</th></tr></thead><tbody><tr><td style="background-color:#E1F4DA" valign="middle" rowspan="4" align="left" colspan="1">
+<bold>Pros</bold>
+</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Efficacy</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Genomic integration</bold>
+</p><p>
+<italic toggle="yes">CAR‐T‐cell amplification and persistence</italic>
+</p></list-item><list-item><p>
+<bold>Quiescent cells are transducible</bold>
+</p></list-item></list>
+</p>
+</td><td style="background-color:#FFEFF7" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Immediate CAR expression</bold>
+</p><p>
+<italic toggle="yes">Fast recognition and killing of tumor cells</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Safety</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Engineered envelope</bold>
+</p><p>
+<italic toggle="yes">Pseudotyping, VSV‐G mutations, CD47 for macrophage evasion</italic>
+</p></list-item><list-item><p>
+<bold>Tissue‐specific promoter</bold>
+</p></list-item><list-item><p>
+<bold>Safety switches</bold>
+</p><p>
+<italic toggle="yes">iCasp9, RQR8, tEGFR</italic>
+</p></list-item><list-item><p>
+<bold>Cell‐type specificity</bold>
+</p><p>
+<italic toggle="yes">scFv or VHH targeting CD3, CD5, CD7, CD8, TCR or CD46, …</italic>
+</p></list-item></list>
+</p>
+</td><td style="background-color:#FFEFF7" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>No insertional mutagenesis</bold>
+</p></list-item><list-item><p>
+<bold>Transiency</bold>
+</p><p>
+<italic toggle="yes">Fast CAR decay, controllability of dosing</italic>
+</p></list-item><list-item><p>
+<bold>Cell‐type specificity</bold>
+</p><p>
+<italic toggle="yes">Immunotropic lipids, scFv or VHH targeting CD3, CD5 or CD8, …</italic>
+</p></list-item><list-item><p>
+<bold>No infusion reaction against viral epitopes</bold>
+</p></list-item></list>
+</p>
+</td></tr><tr><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Experience</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Autologous ex vivo CAR‐T‐cell manufacturing</bold>
+</p><p>
+<italic toggle="yes">Mature technology and clinical experience</italic>
+</p></list-item></list>
+</p>
+</td><td style="background-color:#FFEFF7" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Recent developments to treat/prevent human diseases</bold>
+</p><p>
+<italic toggle="yes">COVID‐19 vaccines</italic>
+</p></list-item><list-item><p>
+<bold>Flexibility of payload and formulation</bold>
+</p></list-item></list>
+</p>
+</td></tr><tr><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Cost</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Single injection required</bold>
+</p></list-item></list>
+</p>
+</td><td style="background-color:#FFEFF7" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Highly scalable manufacturing</bold>
+</p></list-item></list>
+</p>
+</td></tr><tr><td style="background-color:#F6BF93" valign="middle" rowspan="4" align="left" colspan="1">
+<bold>Cons</bold>
+</td><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Efficacy</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Limited payload capacity</bold> (8–10 kb)</p><p>
+<italic toggle="yes">Limited enhancements such as armoring, logic gating, (epi)genome editing, …</italic>
+</p></list-item><list-item><p>
+<bold>Immunogenicity</bold>
+</p><p>
+<italic toggle="yes">Immunization and possible pre‐existing neutralizing antibodies</italic>
+</p></list-item></list>
+</p>
+</td><td style="background-color:#FFEFF7" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Absence of CAR‐T persistence</bold>
+</p><p>
+<italic toggle="yes">Need for repeated dosing in some contexts</italic>
+</p></list-item><list-item><p>
+<bold>Macrophages non‐specific uptake</bold>
+</p></list-item></list>
+</p>
+</td></tr><tr><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Safety</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Risk of insertional mutagenesis</bold>
+</p></list-item><list-item><p>
+<bold>Risk of non‐specific transduction</bold>
+</p><p>
+<italic toggle="yes">Tumor cells or non‐T cells</italic>
+</p></list-item><list-item><p>
+<bold>Persistence of side effects and B‐cell aplasia due to CAR‐T persistence</bold>
+</p></list-item><list-item><p>
+<bold>Presence of producer cell‐derived membrane components</bold>
+</p></list-item></list>
+</p>
+</td><td style="background-color:#FFEFF7" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Liver toxicity</bold>
+</p><p>
+<italic toggle="yes">Strongly reduced with optimized formulations</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Experience</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Limited experience</bold>
+</p><p>In vivo gene therapy</p></list-item></list>
+</p>
+</td><td style="background-color:#FFEFF7" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Complex functionalization methods</bold>
+</p></list-item><list-item><p>
+<bold>Limited clinical experience</bold>
+</p><p>
+<italic toggle="yes">Apart from vaccines</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Cost</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>More expensive</bold>
+</p></list-item><list-item><p>
+<bold>Limited scalability</bold>
+</p></list-item></list>
+</p>
+</td><td style="background-color:#FFEFF7" align="left" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<bold>Functionalization</bold>
+</p></list-item><list-item><p>
+<bold>Repeated dosing</bold>
+</p></list-item></list>
+</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="hem370328-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: This table summarizes the differences (pros highlighted in green and cons in orange) in terms of efficacy, safety, experience, and costs between the two main in vivo CAR particles (LVVs highlighted in blue and LNPs in pink).</p></fn><fn id="hem370328-tbl1-note-0002"><p>Abbreviations: iCasp9, inducible caspase‐9; scFv, single‐chain fragment variable; tEGFR, truncated epidermal growth factor receptor; VHH, variable domain of the heavy chain; VSV‐G, vesicular stomatitis virus G.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>The main safety concern with LVV‐based in vivo CAR approaches is the potential risk of insertional mutagenesis. In the ex vivo CAR‐T setting, very rare cases of vector‐associated T‐cell lymphoproliferation have been reported, including both benign clonal expansions and a single malignant event linked to lentiviral integration within a tumor‐suppressor locus.<xref rid="hem370328-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="hem370328-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="hem370328-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> These observations underscore the importance of minimizing off‐target integration. In the in vivo context, this risk is compounded by the inability to perform product‐level genomic quality control and by the possibility that LVVs may transduce non‐T cells, including malignant cells, which may alter tumor biology, promote clonal expansion, or mask target antigens.<xref rid="hem370328-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> To mitigate these risks, several safety systems have been incorporated into CAR designs, including the inducible caspase‐9 suicide switch,<xref rid="hem370328-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> the RQR8 depletion marker enabling rituximab‐mediated clearance,<xref rid="hem370328-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> and truncated epidermal growth factor receptor (EGFR), which allows antibody‐mediated elimination with cetuximab.<xref rid="hem370328-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> Together, these considerations highlight a fundamental trade‐off between durability and safety in in vivo CAR‐T‐cell engineering, thereby motivating the exploration of non‐viral delivery platforms such as LNPs for transient CAR expression.</p><p>LNPs carrying mRNA, widely used during the COVID‐19 pandemic, are now being developed for in vivo CAR delivery. Their transient expression profile improves safety by avoiding permanent genomic modification (Figure <xref rid="hem370328-fig-0002" ref-type="fig">2</xref>).<xref rid="hem370328-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="hem370328-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> In addition, this transiency may enable faster immune reconstitution and reduce long‐term toxicity.<xref rid="hem370328-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Because conventional LNPs preferentially accumulate in the liver and are readily taken up by cells of the mononuclear phagocyte system, targeted LNPs (tLNPs) are engineered to redirect uptake toward specific immune subsets. This can be achieved through optimization of lipid composition, often complemented by cell‐specific binders, which together influence biodistribution and support delivery to T cells.<xref rid="hem370328-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> tLNPs formulations typically include an ionizable lipid, helper lipids, cholesterol, a polyethylene glycol (PEG)–lipid, and the mRNA payload, with surface binders added when additional cell‐type specificity is required.<xref rid="hem370328-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="hem370328-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> Their design aims to enhance biodegradability and minimize reactogenicity while maintaining efficient delivery to defined immune subsets.<xref rid="hem370328-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="hem370328-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> Compared with integrating viral vectors, LNPs platforms provide highly scalable, cell‐free manufacturing while avoiding the risks associated with genomic integration (Table <xref rid="hem370328-tbl-0001" ref-type="table">1</xref>). Production involves controlled mixing of lipid components with in vitro–transcribed (IVT) mRNA, followed by purification and sterile filtration.<xref rid="hem370328-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> A key limitation of standard mRNA is its short intracellular half‐life, prompting the development of long‐acting RNA formats.<xref rid="hem370328-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> Circular RNA (circRNA) is now entering early clinical evaluation for in vivo CAR applications (Figure <xref rid="hem370328-fig-0002" ref-type="fig">2</xref>).<xref rid="hem370328-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="hem370328-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Other RNA technologies, including self‐amplifying RNA (saRNA), are being explored as approaches to extend RNA expression.<xref rid="hem370328-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> In parallel, the physical stability of LNPs formulations presents challenges for global distribution, motivating efforts to develop lyophilized mRNA–LNP products and microfluidic systems capable of on‐demand synthesis.<xref rid="hem370328-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+</p><p>In addition to lymphocytes, the intrinsic uptake of LNPs by myeloid cells has enabled the extension of in vivo CAR approaches to this lineage. CAR‐macrophages (CAR‐M) represent an emerging extension of in vivo CAR strategies, particularly for solid tumors. In this context, mRNA–LNP delivery has been preferentially used to program macrophages in vivo, enabling transient CAR expression without genomic integration. While CAR‐M constructs share the antigen‐binding architecture of CAR‐T cells, their intracellular signaling domains are adapted to macrophage biology to promote phagocytosis, immune activation, and tumor‐microenvironment remodeling rather than direct cytotoxic killing.<xref rid="hem370328-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="hem370328-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="hem370328-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+</p></sec><sec id="hem370328-sec-0040"><title>ENHANCING CELL‐SPECIFIC DELIVERY AND STABILITY OF IN VIVO CAR PARTICLES</title><p>LVVs and LNPs require dedicated optimization to achieve cell‐type specificity for in vivo CAR delivery. Specificity‐enhancing strategies can be broadly divided into binder‐based and non‐binder–based approaches. The first strategy, which is applicable across vector platforms, relies on surface‐displayed targeting moieties that engage defined cell‐surface receptors. These moieties can include binders directed against lineage‐associated markers, such as CD3, CD5, CD7, CD8, or the αβ T‐cell receptor,<xref rid="hem370328-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="hem370328-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="hem370328-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="hem370328-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> as well as targeting modalities that engage costimulatory receptors, through either antibody‐derived binders or engineered ligand–receptor interactions, most prominently explored in LVV‐based systems (e.g., CD80‐CD28 or CD58‐CD2).<xref rid="hem370328-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Targeting moieties can be introduced by chemical conjugation to engineered vectors, particularly LNPs, using established bioconjugation approaches, including click chemistry, maleimide coupling, and PEG–lipid anchoring.<xref rid="hem370328-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> For LNP‐based systems, the stability and persistence of surface‐displayed targeting molecules in circulation represent an additional challenge that may affect targeting efficiency and systemic immune interactions.<xref rid="hem370328-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+</p><p>Beyond binders, LVVs offer multiple non‐binder–based strategies to enhance T‐cell specificity and safety. Vector tropism can be modulated through envelope engineering, including mutations of VSV‐G or the use of alternative glycoproteins with altered cell‐entry properties.<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="hem370328-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> A critical additional safety layer is provided by post‐entry restriction, most commonly achieved using lineage‐restricted synthetic promoters to confine CAR expression.<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="hem370328-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Further vector surface and production‐cell modifications can limit off‐target uptake and immunogenicity, including incorporation of the phagocytosis‐inhibitory ligand CD47 to reduce macrophage clearance and deletion of MHC Class I expression in producer cells to attenuate immune recognition.<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Together, these strategies allow LVVs to combine permissive entry with highly selective CAR expression in vivo.</p><p>In LNP‐based in vivo CAR delivery, specificity is driven mainly by formulation‐dependent biodistribution. Accordingly, LNP composition must be carefully optimized to favor immune cell transfection while limiting preferential uptake by hepatocytes, which otherwise predominates following systemic administration through apolipoprotein E (ApoE) adsorption and LDLR‐mediated uptake.<xref rid="hem370328-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> Among LNPs components, the ionizable cationic lipid is essential for endosomal escape and efficient mRNA delivery in vivo, and its chemistry is actively optimized to modulate biodistribution, support immune cell delivery, and minimize innate immune activation to allow repeat dosing.<xref rid="hem370328-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="hem370328-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> The encapsulated RNA payload represents a second major lever to enhance stability and expression. Optimization of untranslated regions and coding sequences improves mRNA stability and translation efficiency in specific immune cell types.<xref rid="hem370328-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Increasingly, data‐driven and computational approaches are used to guide mRNA sequence optimization, followed by experimental validation of expression and function.<xref rid="hem370328-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> Finally, modern in vitro–transcribed RNAs incorporate established structural features, including modified nucleosides, optimized 5′ cap structures, and poly(A) tails, to reduce innate immune sensing and prolong expression.</p></sec><sec id="hem370328-sec-0050"><title>IN VIVO CAR DEVELOPMENTS AND CLINICAL TRIALS</title><p>Since the launch of the first in vivo CAR clinical trial in mid‐2023 in Australia by Create Medicines with MT‐302 in solid tumors, a CAR‐M therapy, the clinical landscape has expanded at a remarkable speed.<xref rid="hem370328-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> In less than 2 years, more than 15 first‐in‐humans Phase 1 clinical trials have been registered for in vivo CAR platforms (Tables <xref rid="hem370328-tbl-0002" ref-type="table">2</xref> and <xref rid="hem370328-tbl-0003" ref-type="table">3</xref>). CAR‐M aside, all current platforms lead to second‐generation CAR expression directed against well‐validated targets, including CD19, CD20, CD22, and BCMA for B‐cell malignancies and autoimmune diseases, where they have largely demonstrated efficacy and safety in ex vivo autologous CAR‐T cells (Tables <xref rid="hem370328-tbl-0002" ref-type="table">2</xref> and <xref rid="hem370328-tbl-0003" ref-type="table">3</xref>). In solid tumors, the focus is on CAR‐M targeting antigens such as TROP2, GPC3, and HER2.<xref rid="hem370328-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref>, <xref rid="hem370328-bib-0083" ref-type="bibr">
+<sup>83</sup>
+</xref> The use of these well‐established targets enables optimization of each platform and supports rapid clinical and commercial translation.</p><table-wrap position="float" id="hem370328-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Lentiviral vector (LVV)‐based in vivo chimeric antigen receptor (CAR) in development.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Company</bold> (licensed/acquired by)</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Vector</bold>
+</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Targeting</bold> specificity</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>CAR</bold> payload</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Preclinical</bold> results</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Indications</bold>
+</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Development stage</bold>
+</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Phase 1</bold> location</th></tr></thead><tbody><tr><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>Esobiotec</p>
+<p>(AstraZeneca)</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">LVV</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>aTCR‐VHH</p>
+<p>+MHCI<sup>KO</sup>
+</p>
+<p>+CD47</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">BCMA</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">PoP in mice</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>MM</p>
+<p>Autoimmunity</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">IIT initiated in 2025, Initial clinical outcomes reported in 4 patients with MM<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">China</td></tr><tr><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>Kelonia</p>
+<p>(J&amp;J, Astellas)</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">LVV</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">aCD3‐scFv</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">BCMA</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">PoP in mice and NHP<xref rid="hem370328-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>MM</p>
+<p>Autoimmunity</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Phase 1 initiated in 2025, Initial clinical outcomes reported in 4 patients with MM<xref rid="hem370328-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Australia</td></tr><tr><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Shenzhen Genecury</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">LVV</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">aCD3‐scFv</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">CD19</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Undisclosed</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>BCM</p>
+<p>Autoimmunity</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">IIT initiated in 2023, Initial clinical outcomes reported in 1 patient with B‐NHL<xref rid="hem370328-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">China</td></tr><tr><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>Interius</p>
+<p>(Gilead Kite)</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">LVV</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">aCD7‐scFv</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>CD19</p>
+<p>CD20</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">PoP in mice and NHP<xref rid="hem370328-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>BCM</p>
+<p>Autoimmunity</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Phase 1 initiated in 2024 with CD20‐CAR<xref rid="hem370328-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>, <xref rid="hem370328-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>Australia</p>
+<p>Germany</p>
+<p>Spain</p>
+</td></tr><tr><td style="background-color:#EEF5FB" rowspan="2" align="left" colspan="1">
+<p>Umoja (AbbVie, IASO)</p>
+</td><td style="background-color:#EEF5FB" rowspan="2" align="left" colspan="1">LVV</td><td style="background-color:#EEF5FB" rowspan="2" align="left" colspan="1">
+<p>aCD3‐scFv</p>
+<p>+CD80‐CD58</p>
+<p>+RACR</p>
+</td><td style="background-color:#EEF5FB" rowspan="2" align="left" colspan="1">
+<p>CD19</p>
+<p>CD20</p>
+<p>CD22</p>
+</td><td style="background-color:#EEF5FB" rowspan="2" align="left" colspan="1">PoP in mice and NHP<xref rid="hem370328-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</td><td style="background-color:#EEF5FB" rowspan="2" align="left" colspan="1">
+<p>BCM</p>
+<p>Autoimmunity</p>
+</td><td style="background-color:#EEF5FB" rowspan="2" align="left" colspan="1">
+<p>Phase 1 initiated in 2024 with CD19‐CAR<xref rid="hem370328-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>
+</p>
+<p>FDA Fast Track in 2025</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">United States</td></tr><tr><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">China</td></tr><tr><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Legend</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">LVV</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">aCD3‐scFv</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>CD19</p>
+<p>xCD20</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Undisclosed</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">BCM</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Phase 1 initiated in 2025<xref rid="hem370328-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">China</td></tr><tr><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Sana</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">LVV</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">
+<p>aCD8‐scFv</p>
+<p>+fusogen</p>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">CD19</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">PoP in mice and NHP<xref rid="hem370328-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">BCM</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Preclinical</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">‐</td></tr><tr><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Exuma</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">LVV</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">aCD3‐scFv</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">CD19</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">PoP in mice<xref rid="hem370328-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>
+</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">BCM</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">Preclinical</td><td style="background-color:#EEF5FB" align="left" rowspan="1" colspan="1">‐</td></tr><tr><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">Ensoma</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">VLP</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">
+<p>aCD46‐scFv</p>
+<p>
+<italic toggle="yes">multi‐lineage</italic>
+</p>
+</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">
+<p>HER2</p>
+<p>+ SB100x</p>
+</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">PoP in mice<xref rid="hem370328-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref>
+</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">Solid tumors</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">Preclinical</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">‐</td></tr><tr><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">Azalea</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">
+<p>EDV<xref rid="hem370328-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>
+</p>
+<p>+AAV</p>
+</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">aCD3‐scFv</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">insertion with TRAC‐RNP</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">PoP in mice and NHP<xref rid="hem370328-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref>
+</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">
+<p>BCM</p>
+<p>Autoimmunity</p>
+<p>Solid tumors</p>
+</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">Preclinical</td><td style="background-color:#DEEAF6" align="left" rowspan="1" colspan="1">‐</td></tr></tbody></table><table-wrap-foot><fn id="hem370328-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: This table summarizes current LVV‐based in vivo CAR clinical trials and a selection of promising preclinical results. LVV‐based CARs are highlighted in light blue and VLP‐based CARs in dark blue.</p></fn><fn id="hem370328-tbl2-note-0002"><p>Abbreviations: a, anti; AAV, adeno‐associated virus; BCM, B‐cell malignancies; B‐NHL, B‐cell non‐Hodgkin lymphoma; EDV, enveloped delivery vehicle; IIT, investigator‐initiated trial; KO, knockout; MM, multiple myeloma; NHP, non‐human primate; PoP, proof of principle; RNP, ribonucleoprotein; scFv, single‐chain fragment variable; VLP, virus‐like particle.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="hem370328-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Lipid nanoparticle (LNP)‐based in vivo chimeric antigen receptor (CAR) in development.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Company</bold> (licensed/acquired by)</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Vector</bold>
+</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Targeting</bold> specificity</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>CAR</bold> payload</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Preclinical</bold> results</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Indications</bold>
+</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Development stage</bold>
+</th><th style="background-color:#F0F0F0" align="left" rowspan="1" colspan="1">
+<bold>Phase 1</bold> location</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">MagicRNA Biotechnology</td><td align="left" rowspan="1" colspan="1">tLNP</td><td align="left" rowspan="1" colspan="1">aCD8</td><td align="left" rowspan="1" colspan="1">
+<p>CD19</p>
+<p>
+<italic toggle="yes">mRNA</italic>
+</p>
+</td><td align="left" rowspan="1" colspan="1">PoP in mice and NHP<xref rid="hem370328-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Autoimmunity</td><td align="left" rowspan="1" colspan="1">Phase 1 initiated in 2025, Initial clinical outcomes reported in 5 patients with SLE<xref rid="hem370328-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">China</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>CREATE Medicines</p>
+<p>(<italic toggle="yes">formerly Myeloid Therapeutics</italic>)</p>
+</td><td align="left" rowspan="1" colspan="1">LNP</td><td align="left" rowspan="1" colspan="1">Natural macrophage tropism</td><td align="left" rowspan="1" colspan="1">
+<p>TROP2</p>
+<p>GPC3</p>
+<p>HER2</p>
+<p>
+<italic toggle="yes">mRNA</italic>
+</p>
+</td><td align="left" rowspan="1" colspan="1">PoP in mice and NHP<xref rid="hem370328-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<p>Solid tumors</p>
+<p>(HCC, BC, carcinomas)</p>
+</td><td align="left" rowspan="1" colspan="1">Phase 1 initiated in 2023 with TROP2‐CAR, clinical outcomes reported in 27 patients<xref rid="hem370328-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref> and IIT in 2025<xref rid="hem370328-bib-0073" ref-type="bibr">
+<sup>73</sup>
+</xref>; GPC3‐CAR in 2024<xref rid="hem370328-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref>; HER2‐CAR in 2025<xref rid="hem370328-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<p>Australia</p>
+<p>United States</p>
+<p>NLD</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Capstan</p>
+<p>(AbbVie)</p>
+</td><td align="left" rowspan="1" colspan="1">tLNP</td><td align="left" rowspan="1" colspan="1">aCD8‐scFv</td><td align="left" rowspan="1" colspan="1">
+<p>CD19</p>
+<p>
+<italic toggle="yes">mRNA</italic>
+</p>
+</td><td align="left" rowspan="1" colspan="1">PoP in mice and NHP<xref rid="hem370328-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="hem370328-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Autoimmunity</td><td align="left" rowspan="1" colspan="1">Phase 1 initiated in 2025 in healthy adults<xref rid="hem370328-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Australia</td></tr><tr><td align="left" rowspan="1" colspan="1">Grit Biotechnology</td><td align="left" rowspan="1" colspan="1">tLNP</td><td align="left" rowspan="1" colspan="1">Undisclosed</td><td align="left" rowspan="1" colspan="1">
+<p>CD19</p>
+<p>
+<italic toggle="yes">mRNA</italic>
+</p>
+</td><td align="left" rowspan="1" colspan="1">PoP in mice and NHP<xref rid="hem370328-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Autoimmunity BCM</td><td align="left" rowspan="1" colspan="1">
+<p>IIT initiated in 2025</p>
+<p>Initial clinical outcomes reported in 4 patients with B‐NHL<xref rid="hem370328-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref>
+</p>
+</td><td align="left" rowspan="1" colspan="1">China</td></tr><tr><td align="left" rowspan="1" colspan="1">Immorna</td><td align="left" rowspan="1" colspan="1">tLNP</td><td align="left" rowspan="1" colspan="1">Undisclosed</td><td align="left" rowspan="1" colspan="1">
+<p>CD19</p>
+<p>
+<italic toggle="yes">RNA</italic>
+</p>
+</td><td align="left" rowspan="1" colspan="1">Undisclosed</td><td align="left" rowspan="1" colspan="1">BCM</td><td align="left" rowspan="1" colspan="1">Phase 1 initiated in 2025<xref rid="hem370328-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">China</td></tr><tr><td align="left" rowspan="1" colspan="1">Orna (Lilly)<xref rid="hem370328-tbl3-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">LNP</td><td align="left" rowspan="1" colspan="1">Immunotropic lipids</td><td align="left" rowspan="1" colspan="1">
+<p>BCMA</p>
+<p>CD19 <italic toggle="yes">circRNA</italic>
+</p>
+</td><td align="left" rowspan="1" colspan="1">PoP in mice and NHP<xref rid="hem370328-bib-0079" ref-type="bibr">
+<sup>79</sup>
+</xref>, <xref rid="hem370328-bib-0080" ref-type="bibr">
+<sup>80</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Autoimmunity BCM</td><td align="left" rowspan="1" colspan="1">Preclinical—Phase 1 planned in 2026 in autoimmunity</td><td align="left" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" rowspan="1" colspan="1">Orbital (BMS)</td><td align="left" rowspan="1" colspan="1">LNP</td><td align="left" rowspan="1" colspan="1">Undisclosed</td><td align="left" rowspan="1" colspan="1">
+<p>CD19</p>
+<p>
+<italic toggle="yes">circRNA</italic>
+</p>
+</td><td align="left" rowspan="1" colspan="1">Undisclosed</td><td align="left" rowspan="1" colspan="1">Autoimmunity</td><td align="left" rowspan="1" colspan="1">Preclinical</td><td align="left" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" rowspan="1" colspan="1">NanoCell</td><td align="left" rowspan="1" colspan="1">tLNP</td><td align="left" rowspan="1" colspan="1">
+<p>aCD3‐scFv</p>
+<p>aCD7‐VHH</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>CD19</p>
+<p>xCD22 <italic toggle="yes">mcDNA</italic>
+</p>
+<p>+ SB100x <italic toggle="yes">mRNA</italic>
+</p>
+</td><td align="left" rowspan="1" colspan="1">PoP in mice<xref rid="hem370328-bib-0081" ref-type="bibr">
+<sup>81</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">BCM</td><td align="left" rowspan="1" colspan="1">Preclinical</td><td align="left" rowspan="1" colspan="1">‐</td></tr></tbody></table><table-wrap-foot><fn id="hem370328-tbl3-note-0001"><p>
+<italic toggle="yes">Note</italic>: This table summarizes the current LNP‐based in vivo CAR clinical trials and a selection of promising preclinical results.</p></fn><fn id="hem370328-tbl3-note-0002"><p>Abbreviations: a, anti; BC, breast cancer; BCM, B‐cell malignancies; HCC, hepatocellular carcinoma; IIT, investigator‐initiated trial; NHP, non‐human primate; NLD, the Netherlands; PoP, proof of principle; SB100x: Sleeping Beauty transposase; scFv, single‐chain fragment variable; SLE, systemic lupus erythematosus; tLNP, targeted lipid nanoparticle.</p></fn><fn id="hem370328-tbl3-note-0003"><p>
+<sup>a</sup>
+</p><p>Orna Therapeutics is subject to an announced acquisition by Eli Lilly.<xref rid="hem370328-bib-0082" ref-type="bibr">
+<sup>82</sup>
+</xref>
+</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><sec id="hem370328-sec-0060"><title>Initial clinical outcomes and development of LVV‐based in vivo CAR</title><p>The first clinical evidence reporting that LVV‐based in vivo CAR therapies could achieve antitumor activity was an abstract from Genocury in 2024 (Table <xref rid="hem370328-tbl-0002" ref-type="table">2</xref>). It provided the first data on a single patient treated for a diffuse large B‐cell lymphoma who achieved partial remission by Day 35 post‐infusion.<xref rid="hem370328-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>
+</p><p>However, the first series of patients treated in a first‐in‐human trial were later reported by Wuhan Union Hospital and EsoBiotec, a Belgian biotech company acquired by AstraZeneca (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06691685">NCT06691685</ext-link>).<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> ESO‐T01 is an LVV platform, derived from their ENaBL platform, engineered to express an anti‐BCMA nanobody CAR in T cells. This LVV is optimized with VSV‐G mutations, CD47 overexpression, <italic toggle="yes">B2M</italic> (MHC‐I) knockout, a T‐cell‐specific synthetic promoter, and an anti‐TCR VHH (Table <xref rid="hem370328-tbl-0002" ref-type="table">2</xref>).<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Four patients with heavily pre‐treated multiple myeloma received ESO‐T01 at a single dose and achieved a 100% overall response rate. Two of the four patients presented a stringent complete response, and the two others presented a partial response at a 2‐month follow‐up.<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Immediately after the infusion, all patients developed acute inflammatory reactions within the first day, some of them with hypotension requiring vasopressor support and hypoxemia requiring supplemental oxygen. Three patients developed Grade 3 cytokine release syndrome (CRS), and immune effector cell‐associated‐neurotoxicity syndrome (ICANS) occurred in one patient.<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> ESO‐T01 showed a cellular kinetic profile comparable to that of autologous CAR‐T products, with a slightly delayed expansion peak occurring between Days 10 and 17.<xref rid="hem370328-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p><p>More recently, Kelonia presented preliminary data from the first‐in‐human Phase 1 inMMyCAR study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT07075185">NCT07075185</ext-link>) in a late‐breaking oral session at the ASH meeting 2025.<xref rid="hem370328-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="hem370328-bib-0084" ref-type="bibr">
+<sup>84</sup>
+</xref> Four patients with relapsed or refractory multiple myeloma received a single infusion of KLN‐1010. KLN‐1010 is an LVV originating from Kelonia's iGPS platform, engineered to express a BCMA‐CAR in T cells with a modified VSV‐G fusogen co‐expressed with an anti‐CD3 binder (Table <xref rid="hem370328-tbl-0002" ref-type="table">2</xref>).<xref rid="hem370328-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Peak expansion occurred at Day 15 at a level that was comparable to what has been reported with ex vivo CAR‐T cells. CAR‐T cells remained detectable at 3 months post‐infusion. All four patients achieved MRD negativity at 1 month, sustained up to 3 months in the two patients with the longest follow‐up. Toxicity was manageable, with no severe CRS, no ICANS or delayed neurotoxicity, and mild cytopenias. All four patients achieved an objective response according to the International Myeloma Working Group (IMWG)'s criteria: one complete response and 3 partial responses (which were still improving over time).<xref rid="hem370328-bib-0084" ref-type="bibr">
+<sup>84</sup>
+</xref>
+</p><p>Other assets entered first‐in‐human Phase 1 clinical trials in the past year. UB‐VV111 originates from Umoja's VivoVec LVV platform.<xref rid="hem370328-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> UB‐VV111 encodes a payload transgene composed of a CD19‐CAR and the rapamycin‐activated cytokine receptor (RACR) system to promote expansion and persistence of transduced T cells in vivo (Table <xref rid="hem370328-tbl-0002" ref-type="table">2</xref>).<xref rid="hem370328-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> UB‐VV111 additionally incorporates a multidomain fusion protein (CD58, CD80 molecules and anti‐CD3 scFv) to augment T‐cell activation, proliferation, and transduction efficiency, which was validated in non‐human primates (NHPs).<xref rid="hem370328-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> In September 2025, UB‐VV111 was granted Fast Track designation from the FDA for the treatment of relapsed or refractory Large B‐cell Lymphoma and Chronic Lymphocytic Leukemia and is currently being investigated in a Phase 1 clinical trial in CD19+ B‐cell malignancies (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06528301">NCT06528301</ext-link>).</p><p>Developed by Interius and acquired by Gilead Kite, INT2104 is an LVV allowing the expression of a CD20‐CAR in T and NK cells.<xref rid="hem370328-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> This tropism is enabled by an anti‐CD7 scFv and the Gen 2.1 Fusogen, made of three substitutions in the VSV‐G protein, blinding it to the LDLR (Table <xref rid="hem370328-tbl-0002" ref-type="table">2</xref>).<xref rid="hem370328-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> INT2104 showed preclinical activity in both humanized mouse models and cynomolgus macaques, generating CAR‐expressing T and NK cells after intravenous administration. In NHPs, it selectively transduced CD7+ T and NK cells in lymphoid tissues without detectable off‐target CAR expression, supporting precise targeting and a favorable safety profile.<xref rid="hem370328-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> A first‐in‐human Phase 1 trial is now assessing the safety of INT2104 in patients with relapsed or refractory B‐cell malignancies (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06539338">NCT06539338</ext-link>).</p></sec><sec id="hem370328-sec-0070"><title>Initial clinical outcomes and development of mRNA–LNP‐based in vivo CAR</title><p>Several LNP‐based candidates have also advanced into clinical trials, including MT‐302 and MT‐303, the first in vivo CAR therapies developed for solid tumors by Create Medicines (formerly Myeloid Therapeutics). MT‐302 is an mRNA–LNP targeting macrophages, encoding a TROP2‐scFv fused to a truncated CD89, indicated for patients with advanced or metastatic epithelial tumors (Table <xref rid="hem370328-tbl-0003" ref-type="table">3</xref>).<xref rid="hem370328-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="hem370328-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref> In November 2025, first‐in‐human results of MT‐302 were reported in 27 patients with advanced solid tumors, showing a manageable safety profile, intratumoral CAR+ myeloid cells with T‐cell recruitment, evidence of tumor‐microenvironment remodeling, and early clinical activity, including one confirmed partial response in a breast cancer patient under long‐term repeat dosing (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05969041">NCT05969041</ext-link>).<xref rid="hem370328-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref> MT‐303 is also an mRNA–LNP targeting macrophages, encoding a GPC3‐CAR, indicated in advanced or metastatic hepatocellular carcinoma. MT‐303 is currently under investigation in a Phase 1 study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06478693">NCT06478693</ext-link>).<xref rid="hem370328-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref>, <xref rid="hem370328-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref>
+</p><p>HN2301 is a CD19‐CAR mRNA anti‐CD8‐LNP developed by MagicRNA (Table <xref rid="hem370328-tbl-0003" ref-type="table">3</xref>).<xref rid="hem370328-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In September 2025, early clinical outcomes of five patients from a first‐in‐human Phase 1 were published<xref rid="hem370328-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06801119">NCT06801119</ext-link>). At a 3‐month follow‐up, all five patients showed a decreased systemic lupus erythematosus (SLE) activity index 2000.<xref rid="hem370328-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> After one injection, the levels of CAR‐T cells peaked at 6 h and returned to baseline after 2–3 days.<xref rid="hem370328-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Treatment was well tolerated with no severe CRS and no ICANS reported.<xref rid="hem370328-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>GT801, developed by Grit Biotechnology, is an in vivo CD19‐CAR mRNA–LNP conjugated with a VHH specific of a T‐cell target (Table <xref rid="hem370328-tbl-0003" ref-type="table">3</xref>).<xref rid="hem370328-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> Very early clinical outcomes presented at the ASH meeting 2025 in four patients with non‐Hodgkin lymphoma (NHL) showed a favorable safety profile, the generation of in vivo CAR‐T cells, the feasibility of repeat dosing, and the depletion of B‐cell in the periphery and in tissues.<xref rid="hem370328-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref>
+</p><p>Other LNP‐based candidates currently being explored in Phase 1 include CPTX2309 (Table <xref rid="hem370328-tbl-0003" ref-type="table">3</xref>). Capstan Therapeutics, acquired by AbbVie, developed the ionizable lipid L829, which was evaluated in combination with anti‐CD5 antibodies in rats and anti‐CD8 antibodies in mice and NHPs.<xref rid="hem370328-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="hem370328-bib-0086" ref-type="bibr">
+<sup>86</sup>
+</xref> Two intravenous injections induced rapid and durable B‐cell depletion lasting approximately 1 month, with CAR expression peaking at 6 h and declining over 72 h, and no notable toxicity reported.<xref rid="hem370328-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+</p></sec></sec><sec id="hem370328-sec-0080"><title>IN VIVO CAR CURRENT CHALLENGES AND FUTURE DEVELOPMENTS</title><p>While early clinical studies demonstrate the feasibility and antitumor activity of in vivo CAR therapies, several challenges remain. These include achieving the optimal balance between durability and safety, ensuring efficient and selective immune‐cell targeting, and preserving the fitness and function of in vivo‐engineered cells (Table <xref rid="hem370328-tbl-0004" ref-type="table">4</xref>). Multiple preclinical strategies are therefore being explored to address these limitations.</p><table-wrap position="float" id="hem370328-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>In vivo chimeric antigen receptor (CAR) current challenges and future developments.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">
+<bold>Challenges</bold>
+</th><th style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">
+<bold>Potential solutions</bold>
+</th></tr></thead><tbody><tr><td style="background-color:#E7E6E6" valign="middle" rowspan="2" align="left" colspan="1">Production</td><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Produce low‐cost batches</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">
+<p>Develop scalable manufacturing platforms.</p>
+<p>Optimize vector or lipid formulations to match scalable productions.</p>
+</td></tr><tr><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Limit immunogenicity</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Optimize vector and lipid formulations to mitigate pre‐existing immunity.</td></tr><tr><td style="background-color:#E7E6E6" valign="middle" rowspan="2" align="left" colspan="1">Delivery</td><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Intratumoral administration</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Improve tissue‐restricted or localized delivery strategies (e.g., injectable carriers, implantable scaffolds).</td></tr><tr><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Enhance immune specificity</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Enable high and selective targeting through vector engineering and surface binders.</td></tr><tr><td style="background-color:#E7E6E6" valign="middle" rowspan="2" align="left" colspan="1">Expression</td><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Improve mRNAs half‐life</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">
+<p>Optimize RNA design (circRNA, saRNA, and modified nucleotides).</p>
+<p>Use AI‐based prediction of RNA stability and translation efficiency.</p>
+<p>Design LNPs with enhanced endosomal escape.</p>
+</td></tr><tr><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Improve transduction rates</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Incorporate inducible expansion modules (e.g., RACR).</td></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Efficacy</td><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Prevent resistance/relapses</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">
+<p>Evaluate combination strategies with small molecules or other immunotherapies.</p>
+<p>Develop logic‐gated constructs.</p>
+<p>Develop mRNA mixes with multiple CAR or cytokines.</p>
+</td></tr><tr><td style="background-color:#E7E6E6" valign="middle" rowspan="2" align="left" colspan="1">Safety</td><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Limit genotoxicity</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Ensure site‐specific knock‐in (e.g., <italic toggle="yes">TRAC</italic>).</td></tr><tr><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Treat acute CAR toxicities or reactions to vectors/particles</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">
+<p>Incorporate safety mechanisms to enable selective elimination/control of CAR+ cells.</p>
+<p>Use dose escalation and checkpoints.</p>
+</td></tr><tr><td style="background-color:#E7E6E6" valign="middle" rowspan="2" align="left" colspan="1">Indication</td><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Choose the right delivery vehicle for the right disease</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Find a balance between the persistence needed and the safety for each indication. There is a possible need for long‐term persistence for hematological malignancies, whereas autoimmune diseases may require transient B‐cell depletion.</td></tr><tr><td style="background-color:#F6BF93" align="left" rowspan="1" colspan="1">Position in vivo CAR in the current therapeutic landscape</td><td style="background-color:#E1F4DA" align="left" rowspan="1" colspan="1">Compare the efficacy of in vivo CAR‐T versus ex vivo CAR‐T and clinically approved bispecific antibodies in hematological malignancies and autoimmune diseases.</td></tr></tbody></table><table-wrap-foot><fn id="hem370328-tbl4-note-0001"><p>
+<italic toggle="yes">Note</italic>: Overview of the major challenges facing in vivo CAR strategies (highlighted in orange) and the hypothetical or actively explored solutions in preclinical models (highlighted in green).</p></fn><fn id="hem370328-tbl4-note-0002"><p>Abbreviations: AI, artificial intelligence; circRNA, circular RNA; LNP, lipid nanoparticle; RACR, rapamycin‐activated cytokine receptor; saRNA, self‐amplifying RNA; TRAC, T‐cell receptor alpha constant chain.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Beyond mRNA–LNP platforms, alternative non‐viral delivery systems, including polymer‐based nanoparticles, have been shown to enable targeted in vivo delivery of CAR‐ or TCR‐encoding mRNA to circulating T cells.<xref rid="hem370328-bib-0087" ref-type="bibr">
+<sup>87</sup>
+</xref> Additional non‐viral integrating strategies leveraging LNPs to deliver DNA transposons together with RNA‐encoded transposases are being investigated to enable stable CAR integration in vivo,<xref rid="hem370328-bib-0081" ref-type="bibr">
+<sup>81</sup>
+</xref> while requiring careful management of insertional safety. Parallel efforts are also exploring localized delivery strategies, including tissue‐restricted administration<xref rid="hem370328-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> and bioinstructive implantable or injectable carrier systems designed to program immune cells in situ, to reduce systemic exposure and promote localized immune activity.<xref rid="hem370328-bib-0088" ref-type="bibr">
+<sup>88</sup>
+</xref>, <xref rid="hem370328-bib-0089" ref-type="bibr">
+<sup>89</sup>
+</xref> Most recently, targeted genome‐editing approaches have emerged that employ a dual‐particle delivery strategy, combining cell‐selective enveloped delivery vehicles (EDVs),<xref rid="hem370328-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref> carrying Cas9 ribonucleoprotein complexes with adeno‐associated viral (AAV) donor templates to enable site‐specific CAR knock‐in at the <italic toggle="yes">TRAC</italic> locus via homology‐directed repair, placing CAR expression under endogenous transcriptional control and potentially improving persistence, potency, and safety.<xref rid="hem370328-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref>, <xref rid="hem370328-bib-0090" ref-type="bibr">
+<sup>90</sup>
+</xref>
+</p><p>From a vector design standpoint, there is currently no intrinsic limitation preventing LVVs from incorporating advanced CAR control features already explored in ex vivo CAR‐T cells, including safety switches and drug‐regulated architectures that enable conditional control of CAR activity and proliferation, as exemplified by Umoja's RACR platform.<xref rid="hem370328-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Overall, in vivo CAR development currently appears to be focused on more precise immune‐cell targeting, improved control of expression durability, and safer strategies enabled by site‐specific knock‐in, whereas antigen discovery and CAR construct refinements have so far dominated the ex vivo CAR‐T field and are expected to gain importance as in vivo platforms mature.</p><p>The strategies presented in this review depend on the presence of endogenous T cells with sufficient functional capacity to be reprogrammed and to mediate antitumor activity. Consequently, functional impairment resulting from prior treatments or ageing may reduce their therapeutic performance.<xref rid="hem370328-bib-0091" ref-type="bibr">
+<sup>91</sup>
+</xref>, <xref rid="hem370328-bib-0092" ref-type="bibr">
+<sup>92</sup>
+</xref> Preclinical studies in non‐CAR‐T settings suggest that strategies aimed at enhancing T‐cell fitness, such as transient systemic immune modulation using thymus‐derived factors encoded by mRNAs, may help mitigate age‐associated immune deficits.<xref rid="hem370328-bib-0093" ref-type="bibr">
+<sup>93</sup>
+</xref> Although not yet evaluated in the context of in vivo CAR‐T cells, such approaches could conceptually be leveraged to improve the efficacy of these therapies.</p><p>Finally, in vivo CAR‐T therapies will likely compete with bispecific antibodies, which offer off‐the‐shelf immune redirection of in vivo T cells.<xref rid="hem370328-bib-0094" ref-type="bibr">
+<sup>94</sup>
+</xref> Compared with bispecific antibodies, in vivo CAR‐T may provide greater functional persistence, while avoiding the individualized manufacturing required for ex vivo CAR‐T cells. However, this potential advantage must be weighed against the relative maturity, controllability, and clinical experience of bispecific antibodies, which currently represent a more established therapeutic modality. Ultimately, it remains to be determined how these differences will translate into clinical benefit as the field continues to evolve.</p></sec><sec sec-type="conclusions" id="hem370328-sec-0090"><title>CONCLUSION</title><p>In vivo CAR‐T‐cell therapies are emerging as a transformative evolution of cellular immunotherapy. By enabling direct genetic engineering of immune cells within the patient, these approaches offer the prospect of simplified logistics, reduced manufacturing constraints, and global accessibility compared with conventional ex vivo CAR‐T cells. Early clinical data from both LVV‐ and LNP‐based platforms demonstrate that in vivo CAR‐T cells can expand and mediate antitumor activity while maintaining manageable safety profiles.</p><p>Viral and non‐viral in vivo CAR technologies, however, present distinct trade‐offs. LVVs offer stable genomic integration, robust expansion, and long‐term persistence, but carry risks of insertional mutagenesis and require highly selective targeting to avoid off‐target transduction. In contrast, LNP platforms provide safer, transient expression with no genomic integration and highly scalable manufacturing, though they may require repeat dosing and still face challenges in efficient, cell‐specific delivery. These complementary strengths highlight that no single platform is universally optimal, and that indications may ultimately be matched to the technology best suited to their biological requirements.</p><p>Despite these encouraging results, important challenges remain, including the need to optimize cell‐specific targeting, enhance delivery efficiency, ensure safety, and achieve durable persistence where required. Continued advances in vector engineering, RNA technologies, and cell‐selective tropism are rapidly expanding the therapeutic potential of in vivo CAR platforms. As the field moves forward, in vivo CAR therapies may not only broaden access to established CAR‐T‐cell indications but also open the door to treating a wider range of diseases, including autoimmune disorders and solid tumors, ultimately reshaping the future of gene and cell therapy.</p></sec><sec id="hem370328-sec-0110"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>François Vilcot</bold>: Conceptualization; methodology; investigation; writing—original draft; writing—review and editing. <bold>Carole‐Anne Brugère</bold>: Conceptualization; investigation; methodology; writing—original draft; writing—review and editing. <bold>Jaime Fuentealba</bold>: Conceptualization; investigation; writing—original draft; methodology; writing—review and editing. <bold>Roch Houot</bold>: Conceptualization; investigation; writing—original draft; methodology; writing—review and editing; funding acquisition; supervision.</p></sec><sec sec-type="COI-statement" id="hem370328-sec-0120"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest.</p></sec><sec id="hem370328-sec-0150"><title>ETHICS STATEMENT</title><p>This article is a review of previously published literature and does not involve human participants or animals. Therefore, ethics committee approval was not required.</p></sec><sec id="hem370328-sec-0160"><title>FUNDING</title><p>This research received no funding.</p></sec></body><back><ack id="hem370328-sec-0100"><title>ACKNOWLEDGMENTS</title><p>We thank the UNITC Consortium and Institut National du Cancer (INCa) for their support. Figures were created in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://BioRender.com" ext-link-type="uri">https://BioRender.com</ext-link>.</p></ack><sec sec-type="data-availability" id="hem370328-sec-0140"><title>DATA AVAILABILITY STATEMENT</title><p>Data sharing is not applicable to this article as no datasets were generated or analyzed during the current study.</p></sec><ref-list content-type="cited-references" id="hem370328-bibl-0001"><title>REFERENCES</title><ref id="hem370328-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hem370328-cit-0001">
+<string-name name-style="western">
+<surname>June</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadelain</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Chimeric antigen receptor therapy</article-title>. <source>N Engl J Med</source>. <year>2018</year>;<volume>379</volume>(<issue>1</issue>):<fpage>64</fpage>‐<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMra1706169</pub-id>
+<pub-id pub-id-type="pmid">29972754</pub-id>
+<pub-id pub-id-type="pmcid">PMC7433347</pub-id></mixed-citation></ref><ref id="hem370328-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hem370328-cit-0002">
+<string-name name-style="western">
+<surname>Patel</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tariveranmoshabad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kadu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shobaki</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>June</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>From concept to cure: the evolution of CAR‐T cell therapy</article-title>. <source>Mol Ther</source>. <year>2025</year>;<volume>33</volume>(<issue>5</issue>):<fpage>2123</fpage>‐<lpage>2140</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymthe.2025.03.005</pub-id>
+<pub-id pub-id-type="pmid">40070120</pub-id>
+<pub-id pub-id-type="pmcid">PMC12126787</pub-id></mixed-citation></ref><ref id="hem370328-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hem370328-cit-0003">
+<string-name name-style="western">
+<surname>Porter</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levine</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalos</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bagg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>June</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Chimeric antigen receptor‐modified T cells in chronic lymphoid leukemia</article-title>. <source>N Engl J Med</source>. <year>2011</year>;<volume>365</volume>(<issue>8</issue>):<fpage>725</fpage>‐<lpage>733</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1103849</pub-id>
+<pub-id pub-id-type="pmid">21830940</pub-id>
+<pub-id pub-id-type="pmcid">PMC3387277</pub-id></mixed-citation></ref><ref id="hem370328-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hem370328-cit-0004">
+<string-name name-style="western">
+<surname>Cappell</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kochenderfer</surname>
+<given-names>JN</given-names>
+</string-name>. <article-title>Long‐term outcomes following CAR T cell therapy: what we know so far</article-title>. <source>Nat Rev Clin Oncol</source>. <year>2023</year>;<volume>20</volume>(<issue>6</issue>):<fpage>359</fpage>‐<lpage>371</lpage>. <pub-id pub-id-type="doi">10.1038/s41571-023-00754-1</pub-id>
+<pub-id pub-id-type="pmid">37055515</pub-id>
+<pub-id pub-id-type="pmcid">PMC10100620</pub-id></mixed-citation></ref><ref id="hem370328-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hem370328-cit-0005">
+<string-name name-style="western">
+<surname>Pagliuca</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malard</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mooyaart</surname>
+<given-names>JE</given-names>
+</string-name>, et al. <article-title>The landscape of immune monitoring in CAR‐T cell therapy: a comprehensive review and survey study by the Cellular Therapy and Immunobiology Working Party of the EBMT</article-title>. <source>Blood Rev</source>. <year>2025</year>;<volume>71</volume>:<elocation-id>101272</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.blre.2025.101272</pub-id>
+<pub-id pub-id-type="pmid">39986989</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hem370328-cit-0006">
+<string-name name-style="western">
+<surname>Mahat</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Das</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prasad</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Advancing CAR T‐cell therapy: evidence‐based trial design for chimeric antigen receptor T‐cell therapy in oncology</article-title>. <source>JAMA</source>. Published online December 8, <year>2025</year>. <pub-id pub-id-type="doi">10.1001/jama.2025.21721</pub-id>
+<pub-id pub-id-type="pmid">41359310</pub-id></mixed-citation></ref><ref id="hem370328-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hem370328-cit-0007">
+<string-name name-style="western">
+<surname>Melenhorst</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Decade‐long leukaemia remissions with persistence of CD4+ CAR T cells</article-title>. <source>Nature</source>. <year>2022</year>;<volume>602</volume>(<issue>7897</issue>):<fpage>503</fpage>‐<lpage>509</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-021-04390-6</pub-id>
+<pub-id pub-id-type="pmid">35110735</pub-id>
+<pub-id pub-id-type="pmcid">PMC9166916</pub-id></mixed-citation></ref><ref id="hem370328-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hem370328-cit-0008">
+<string-name name-style="western">
+<surname>Al Hadidi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szabo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Esselmann</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Clinical outcome of patients with relapsed refractory multiple myeloma listed for BCMA directed commercial CAR‐T therapy</article-title>. <source>Bone Marrow Transplant</source>. <year>2023</year>;<volume>58</volume>(<issue>4</issue>):<fpage>443</fpage>‐<lpage>445</lpage>. <pub-id pub-id-type="doi">10.1038/s41409-022-01905-1</pub-id>
+<pub-id pub-id-type="pmid">36550200</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hem370328-cit-0009">
+<string-name name-style="western">
+<surname>Mougiakakos</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krönke</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Völkl</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>CD19‐targeted CAR T cells in refractory systemic lupus erythematosus</article-title>. <source>N Engl J Med</source>. <year>2021</year>;<volume>385</volume>(<issue>6</issue>):<fpage>567</fpage>‐<lpage>569</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMc2107725</pub-id>
+<pub-id pub-id-type="pmid">34347960</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hem370328-cit-0010">
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wirsching</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>CD19 CAR‐T cells for treatment‐refractory autoimmune diseases: the phase 1/2 CASTLE basket trial</article-title>. <source>Nat Med</source>. Published online January 7, <year>2026</year>. <pub-id pub-id-type="doi">10.1038/s41591-025-04185-6</pub-id>
+<pub-id pub-id-type="pmcid">PMC13004673</pub-id><pub-id pub-id-type="pmid">41501497</pub-id></mixed-citation></ref><ref id="hem370328-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hem370328-cit-0011">
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taubmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bucci</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>CD19 CAR T‐cell therapy in autoimmune disease — a case series with follow‐up</article-title>. <source>N Engl J Med</source>. <year>2024</year>;<volume>390</volume>(<issue>8</issue>):<fpage>687</fpage>‐<lpage>700</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa2308917</pub-id>
+<pub-id pub-id-type="pmid">38381673</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hem370328-cit-0012">
+<string-name name-style="western">
+<surname>Ramos</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Auletta</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Receiving CAR T‐cells gets faster, but not for all in need</article-title>. <source>Blood Adv</source>. <year>2025</year>;<volume>9</volume>(<issue>2</issue>):<fpage>436</fpage>‐<lpage>438</lpage>. <pub-id pub-id-type="doi">10.1182/bloodadvances.2024015013</pub-id>
+<pub-id pub-id-type="pmid">39874028</pub-id>
+<pub-id pub-id-type="pmcid">PMC11846599</pub-id></mixed-citation></ref><ref id="hem370328-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hem370328-cit-0013">
+<string-name name-style="western">
+<surname>Dreyzin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Immunophenotype of CAR T cells and apheresis products predicts response in CD22 CAR T cell trial for B cell acute lymphoblastic leukemia</article-title>. <source>Mol Ther</source>. <year>2025</year>;<volume>33</volume>(<issue>7</issue>):<fpage>3360</fpage>‐<lpage>3374</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymthe.2025.03.019</pub-id>
+<pub-id pub-id-type="pmid">40087865</pub-id>
+<pub-id pub-id-type="pmcid">PMC12265959</pub-id></mixed-citation></ref><ref id="hem370328-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hem370328-cit-0014">
+<string-name name-style="western">
+<surname>Abdo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Batista‐Silva</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonamino</surname>
+<given-names>MH</given-names>
+</string-name>. <article-title>Cost‐effective strategies for CAR‐T cell therapy manufacturing</article-title>. <source>Mol Ther Oncol</source>. <year>2025</year>;<volume>33</volume>(<issue>2</issue>):<elocation-id>200980</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.omton.2025.200980</pub-id>
+<pub-id pub-id-type="pmid">40291594</pub-id>
+<pub-id pub-id-type="pmcid">PMC12022644</pub-id></mixed-citation></ref><ref id="hem370328-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hem370328-cit-0015">
+<string-name name-style="western">
+<surname>Locke</surname>
+<given-names>FL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munoz</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tees</surname>
+<given-names>MT</given-names>
+</string-name>, et al. <article-title>Allogeneic chimeric antigen receptor T‐cell products cemacabtagene ansegedleucel/ALLO‐501 in relapsed/refractory large B‐cell lymphoma: phase I experience from the ALPHA2/ALPHA clinical studies</article-title>. <source>J Clin Oncol</source>. <year>2025</year>;<volume>43</volume>(<issue>14</issue>):<fpage>1695</fpage>‐<lpage>1705</lpage>. <pub-id pub-id-type="doi">10.1200/JCO-24-01933</pub-id>
+<pub-id pub-id-type="pmid">39946666</pub-id>
+<pub-id pub-id-type="pmcid">PMC12058369</pub-id></mixed-citation></ref><ref id="hem370328-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hem370328-cit-0016">
+<string-name name-style="western">
+<surname>Benjamin</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maus</surname>
+<given-names>MV</given-names>
+</string-name>, et al. <article-title>UCART19, a first‐in‐class allogeneic anti‐CD19 chimeric antigen receptor T‐cell therapy for adults with relapsed or refractory B‐cell acute lymphoblastic leukaemia (CALM): a phase 1, dose‐escalation trial</article-title>. <source>Lancet Haematol</source>. <year>2022</year>;<volume>9</volume>(<issue>11</issue>):<fpage>e833</fpage>‐<lpage>e843</lpage>. <pub-id pub-id-type="doi">10.1016/S2352-3026(22)00245-9</pub-id>
+<pub-id pub-id-type="pmid">36228643</pub-id>
+<pub-id pub-id-type="pmcid">PMC11575699</pub-id></mixed-citation></ref><ref id="hem370328-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hem370328-cit-0017">
+<string-name name-style="western">
+<surname>Chiesa</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Georgiadis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rashed</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Universal base‐edited CAR7 T cells for T‐cell acute lymphoblastic leukemia</article-title>. <source>N Engl J Med</source>. Published online December 8, <year>2025</year>. <pub-id pub-id-type="doi">10.1056/NEJMoa2505478</pub-id>
+<pub-id pub-id-type="pmid">41363805</pub-id></mixed-citation></ref><ref id="hem370328-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hem370328-cit-0018">
+<string-name name-style="western">
+<surname>Iyer</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sica</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>
+<given-names>PJ</given-names>
+</string-name>, et al. <article-title>Safety and activity of CTX130, a CD70‐targeted allogeneic CRISPR‐Cas9‐engineered CAR T‐cell therapy, in patients with relapsed or refractory T‐cell malignancies (COBALT‐LYM): a single‐arm, open‐label, phase 1, dose‐escalation study</article-title>. <source>Lancet Oncol</source>. <year>2025</year>;<volume>26</volume>(<issue>1</issue>):<fpage>110</fpage>‐<lpage>122</lpage>. <pub-id pub-id-type="doi">10.1016/S1470-2045(24)00508-4</pub-id>
+<pub-id pub-id-type="pmid">39617017</pub-id>
+<pub-id pub-id-type="pmcid">PMC12918653</pub-id></mixed-citation></ref><ref id="hem370328-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hem370328-cit-0019">
+<string-name name-style="western">
+<surname>Parhiz</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atochina‐Vasserman</surname>
+<given-names>EN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weissman</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>mRNA‐based therapeutics: looking beyond COVID‐19 vaccines</article-title>. <source>Lancet</source>. <year>2024</year>;<volume>403</volume>(<issue>10432</issue>):<fpage>1192</fpage>‐<lpage>1204</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(23)02444-3</pub-id>
+<pub-id pub-id-type="pmid">38461842</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hem370328-cit-0020">
+<string-name name-style="western">
+<surname>Gajra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zalenski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sannareddy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeune‐Smith</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapinos</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kansagra</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Barriers to chimeric antigen receptor T‐cell (CAR‐T) therapies in clinical practice</article-title>. <source>Pharm Med</source>. <year>2022</year>;<volume>36</volume>(<issue>3</issue>):<fpage>163</fpage>‐<lpage>171</lpage>. <pub-id pub-id-type="doi">10.1007/s40290-022-00428-w</pub-id>
+<pub-id pub-id-type="pmcid">PMC9217916</pub-id><pub-id pub-id-type="pmid">35672571</pub-id></mixed-citation></ref><ref id="hem370328-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hem370328-cit-0021">
+<string-name name-style="western">
+<surname>Sterner</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sterner</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>CAR‐T cell therapy: current limitations and potential strategies</article-title>. <source>Blood Cancer J</source>. <year>2021</year>;<volume>11</volume>(<issue>4</issue>):<fpage>69</fpage>. <pub-id pub-id-type="doi">10.1038/s41408-021-00459-7</pub-id>
+<pub-id pub-id-type="pmid">33824268</pub-id>
+<pub-id pub-id-type="pmcid">PMC8024391</pub-id></mixed-citation></ref><ref id="hem370328-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hem370328-cit-0022">
+<string-name name-style="western">
+<surname>Lickefett</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortiz‐Maldonado</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Lymphodepletion – an essential but undervalued part of the chimeric antigen receptor T‐cell therapy cycle</article-title>. <source>Front Immunol</source>. <year>2023</year>;<volume>14</volume>:<elocation-id>1303935</elocation-id>. <pub-id pub-id-type="doi">10.3389/fimmu.2023.1303935</pub-id>
+<pub-id pub-id-type="pmid">38187393</pub-id>
+<pub-id pub-id-type="pmcid">PMC10770848</pub-id></mixed-citation></ref><ref id="hem370328-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hem370328-cit-0023">
+<string-name name-style="western">
+<surname>Mitchell</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pham</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clay</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>The long‐term effects of chemotherapy on normal blood cells</article-title>. <source>Nat Genet</source>. <year>2025</year>;<volume>57</volume>(<issue>7</issue>):<fpage>1684</fpage>‐<lpage>1694</lpage>. <pub-id pub-id-type="doi">10.1038/s41588-025-02234-x</pub-id>
+<pub-id pub-id-type="pmid">40596443</pub-id>
+<pub-id pub-id-type="pmcid">PMC12283364</pub-id></mixed-citation></ref><ref id="hem370328-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hem370328-cit-0024">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parone</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>In‐vivo B‐cell maturation antigen CAR T‐cell therapy for relapsed or refractory multiple myeloma</article-title>. <source>Lancet</source>. <year>2025</year>;<volume>406</volume>(<issue>10500</issue>):<fpage>228</fpage>‐<lpage>231</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(25)01030-X</pub-id>
+<pub-id pub-id-type="pmid">40617243</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hem370328-cit-0025">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>ZX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>In vivo CD19 CAR T‐cell therapy for refractory systemic lupus erythematosus</article-title>. <source>N Engl J Med</source>. <year>2025</year>;<volume>393</volume>(<issue>15</issue>):<fpage>1542</fpage>‐<lpage>1544</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMc2509522</pub-id>
+<pub-id pub-id-type="pmid">40961420</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hem370328-cit-0026">
+<string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lim</surname>
+<given-names>SL</given-names>
+</string-name>, et al. <article-title>Minimal residual disease (MRD)‐negative outcomes following a novel, in vivo gene therapy generating anti–B‐cell maturation antigen (BCMA) chimeric antigen receptor (CAR)‐T cells in patients with relapsed and refractory multiple myeloma (RRMM): preliminary results from inMMyCAR, the first‐in‐human phase 1 study of KLN‐1010</article-title>. <source>Blood</source>. <year>2025</year>;<volume>146</volume>:<elocation-id>LBA‐1</elocation-id>. <pub-id pub-id-type="doi">10.1182/blood-2025-LBA-1</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hem370328-cit-0027">
+<string-name name-style="western">
+<surname>Nicolai</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parker</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>In vivo CAR T‐cell generation in nonhuman primates using lentiviral vectors displaying a multidomain fusion ligand</article-title>. <source>Blood</source>. <year>2024</year>;<volume>144</volume>(<issue>9</issue>):<fpage>977</fpage>‐<lpage>987</lpage>. <pub-id pub-id-type="doi">10.1182/blood.2024024523</pub-id>
+<pub-id pub-id-type="pmid">38861668</pub-id>
+<pub-id pub-id-type="pmcid">PMC11406189</pub-id></mixed-citation></ref><ref id="hem370328-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hem370328-cit-0028">
+<string-name name-style="western">
+<surname>Alcantara</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tesio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>June</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Houot</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>CAR T‐cells for T‐cell malignancies: challenges in distinguishing between therapeutic, normal, and neoplastic T‐cells</article-title>. <source>Leukemia</source>. <year>2018</year>;<volume>32</volume>(<issue>11</issue>):<fpage>2307</fpage>‐<lpage>2315</lpage>. <pub-id pub-id-type="doi">10.1038/s41375-018-0285-8</pub-id>
+<pub-id pub-id-type="pmid">30315238</pub-id>
+<pub-id pub-id-type="pmcid">PMC7433349</pub-id></mixed-citation></ref><ref id="hem370328-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hem370328-cit-0029">
+<string-name name-style="western">
+<surname>Dulery</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guiraud</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choquet</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>T cell malignancies after CAR T cell therapy in the DESCAR‐T registry</article-title>. <source>Nat Med</source>. <year>2025</year>;<volume>31</volume>(<issue>4</issue>):<fpage>1130</fpage>‐<lpage>1133</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-024-03458-w</pub-id>
+<pub-id pub-id-type="pmid">39779930</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hem370328-cit-0030">
+<string-name name-style="western">
+<surname>Verdun</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marks</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Secondary cancers after chimeric antigen receptor T‐cell therapy</article-title>. <source>N Engl J Med</source>. <year>2024</year>;<volume>390</volume>(<issue>7</issue>):<fpage>584</fpage>‐<lpage>586</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMp2400209</pub-id>
+<pub-id pub-id-type="pmid">38265704</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hem370328-cit-0031">
+<string-name name-style="western">
+<surname>Milone</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Doherty</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Clinical use of lentiviral vectors</article-title>. <source>Leukemia</source>. <year>2018</year>;<volume>32</volume>(<issue>7</issue>):<fpage>1529</fpage>‐<lpage>1541</lpage>. <pub-id pub-id-type="doi">10.1038/s41375-018-0106-0</pub-id>
+<pub-id pub-id-type="pmid">29654266</pub-id>
+<pub-id pub-id-type="pmcid">PMC6035154</pub-id></mixed-citation></ref><ref id="hem370328-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hem370328-cit-0032">
+<string-name name-style="western">
+<surname>Geng</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Viral and non‐viral vectors in gene therapy: current state and clinical perspectives</article-title>. <source>EBioMedicine</source>. <year>2025</year>;<volume>118</volume>:<elocation-id>105834</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.ebiom.2025.105834</pub-id>
+<pub-id pub-id-type="pmid">40602323</pub-id>
+<pub-id pub-id-type="pmcid">PMC12271757</pub-id></mixed-citation></ref><ref id="hem370328-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hem370328-cit-0033">
+<string-name name-style="western">
+<surname>Arduini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katiyar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Progress in pseudotyping lentiviral vectors towards cell‐specific gene delivery in vivo</article-title>. <source>Viruses</source>. <year>2025</year>;<volume>17</volume>(<issue>6</issue>):<elocation-id>802</elocation-id>. <pub-id pub-id-type="doi">10.3390/v17060802</pub-id>
+<pub-id pub-id-type="pmid">40573393</pub-id>
+<pub-id pub-id-type="pmcid">PMC12197403</pub-id></mixed-citation></ref><ref id="hem370328-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="hem370328-cit-0034">
+<string-name name-style="western">
+<surname>Andorko</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Russell</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schnepp</surname>
+<given-names>BC</given-names>
+</string-name>, et al. <article-title>Targeted in vivo delivery of genetic medicines utilizing an engineered lentiviral vector platform results in CAR T and NK cell generation</article-title>. <source>Mol Ther</source>. <year>2025</year>;<volume>33</volume>(<issue>10</issue>):<fpage>4937</fpage>‐<lpage>4952</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymthe.2025.06.036</pub-id>
+<pub-id pub-id-type="pmid">40581818</pub-id>
+<pub-id pub-id-type="pmcid">PMC12848171</pub-id></mixed-citation></ref><ref id="hem370328-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="hem370328-cit-0035">
+<string-name name-style="western">
+<surname>Fraietta</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nobles</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sammons</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Disruption of <italic toggle="yes">TET2</italic> promotes the therapeutic efficacy of CD19‐targeted T cells</article-title>. <source>Nature</source>. <year>2018</year>;<volume>558</volume>(<issue>7709</issue>):<fpage>307</fpage>‐<lpage>312</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-018-0178-z</pub-id>
+<pub-id pub-id-type="pmid">29849141</pub-id>
+<pub-id pub-id-type="pmcid">PMC6320248</pub-id></mixed-citation></ref><ref id="hem370328-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="hem370328-cit-0036">
+<string-name name-style="western">
+<surname>Ghilardi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fraietta</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gerson</surname>
+<given-names>JN</given-names>
+</string-name>, et al. <article-title>T cell lymphoma and secondary primary malignancy risk after commercial CAR T cell therapy</article-title>. <source>Nat Med</source>. <year>2024</year>;<volume>30</volume>(<issue>4</issue>):<fpage>984</fpage>‐<lpage>989</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-024-02826-w</pub-id>
+<pub-id pub-id-type="pmid">38266761</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="hem370328-cit-0037">
+<string-name name-style="western">
+<surname>Ruella</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barrett</surname>
+<given-names>DM</given-names>
+</string-name>, et al. <article-title>Induction of resistance to chimeric antigen receptor T cell therapy by transduction of a single leukemic B cell</article-title>. <source>Nat Med</source>. <year>2018</year>;<volume>24</volume>(<issue>10</issue>):<fpage>1499</fpage>‐<lpage>1503</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-018-0201-9</pub-id>
+<pub-id pub-id-type="pmid">30275568</pub-id>
+<pub-id pub-id-type="pmcid">PMC6511988</pub-id></mixed-citation></ref><ref id="hem370328-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hem370328-cit-0038">
+<string-name name-style="western">
+<surname>Straathof</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pulè</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yotnda</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>An inducible caspase 9 safety switch for T‐cell therapy</article-title>. <source>Blood</source>. <year>2005</year>;<volume>105</volume>(<issue>11</issue>):<fpage>4247</fpage>‐<lpage>4254</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2004-11-4564</pub-id>
+<pub-id pub-id-type="pmid">15728125</pub-id>
+<pub-id pub-id-type="pmcid">PMC1895037</pub-id></mixed-citation></ref><ref id="hem370328-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="hem370328-cit-0039">
+<string-name name-style="western">
+<surname>Philip</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kokalaki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mekkaoui</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>A highly compact epitope‐based marker/suicide gene for easier and safer T‐cell therapy</article-title>. <source>Blood</source>. <year>2014</year>;<volume>124</volume>(<issue>8</issue>):<fpage>1277</fpage>‐<lpage>1287</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2014-01-545020</pub-id>
+<pub-id pub-id-type="pmid">24970931</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="hem370328-cit-0040">
+<string-name name-style="western">
+<surname>Shabaneh</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moffett</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stull</surname>
+<given-names>SM</given-names>
+</string-name>, et al. <article-title>Safety switch optimization enhances antibody‐mediated elimination of CAR T cells</article-title>. <source>Front Mol Med</source>. <year>2022</year>;<volume>2</volume>:<elocation-id>1026474</elocation-id>. <pub-id pub-id-type="doi">10.3389/fmmed.2022.1026474</pub-id>
+<pub-id pub-id-type="pmid">39086975</pub-id>
+<pub-id pub-id-type="pmcid">PMC11285702</pub-id></mixed-citation></ref><ref id="hem370328-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="hem370328-cit-0041">
+<string-name name-style="western">
+<surname>Hunter</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>In vivo CAR T cell generation to treat cancer and autoimmune disease</article-title>. <source>Science</source>. <year>2025</year>;<volume>388</volume>(<issue>6753</issue>):<fpage>1311</fpage>‐<lpage>1317</lpage>. <pub-id pub-id-type="doi">10.1126/science.ads8473</pub-id>
+<pub-id pub-id-type="pmid">40536974</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="hem370328-cit-0042">
+<string-name name-style="western">
+<surname>Stock</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bücklein</surname>
+<given-names>VL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blumenberg</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Prognostic significance of immune reconstitution following CD19 CAR T‐cell therapy for relapsed/refractory B‐cell lymphoma</article-title>. <source>HemaSphere</source>. <year>2025</year>;<volume>9</volume>(<issue>1</issue>):<elocation-id>e70062</elocation-id>. <pub-id pub-id-type="doi">10.1002/hem3.70062</pub-id>
+<pub-id pub-id-type="pmid">39807276</pub-id>
+<pub-id pub-id-type="pmcid">PMC11726691</pub-id></mixed-citation></ref><ref id="hem370328-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="hem370328-cit-0043">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chong</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Recent advances in lipid nanoparticles and their safety concerns for mRNA delivery</article-title>. <source>Vaccines</source>. <year>2024</year>;<volume>12</volume>(<issue>10</issue>):<elocation-id>1148</elocation-id>. <pub-id pub-id-type="doi">10.3390/vaccines12101148</pub-id>
+<pub-id pub-id-type="pmid">39460315</pub-id>
+<pub-id pub-id-type="pmcid">PMC11510967</pub-id></mixed-citation></ref><ref id="hem370328-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="hem370328-cit-0044">
+<string-name name-style="western">
+<surname>McMillan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Druschitz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rumbelow</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Influence of ionisable lipid and sterol variations on lipid nanoparticle properties and performance</article-title>. <source>J Control Release</source>. <year>2025</year>;<volume>386</volume>:<elocation-id>114056</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.jconrel.2025.114056</pub-id>
+<pub-id pub-id-type="pmid">40695375</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="hem370328-cit-0045">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Deep generative models design mRNA sequences with enhanced translational capacity and stability</article-title>. <source>Science</source>. <year>2025</year>;<volume>390</volume>(<issue>6773</issue>):<elocation-id>eadr8470</elocation-id>. <pub-id pub-id-type="doi">10.1126/science.adr8470</pub-id>
+<pub-id pub-id-type="pmid">40875799</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="hem370328-cit-0046">
+<string-name name-style="western">
+<surname>Wesselhoeft</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kowalski</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anderson</surname>
+<given-names>DG</given-names>
+</string-name>. <article-title>Engineering circular RNA for potent and stable translation in eukaryotic cells</article-title>. <source>Nat Commun</source>. <year>2018</year>;<volume>9</volume>(<issue>1</issue>):<fpage>2629</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-018-05096-6</pub-id>
+<pub-id pub-id-type="pmid">29980667</pub-id>
+<pub-id pub-id-type="pmcid">PMC6035260</pub-id></mixed-citation></ref><ref id="hem370328-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="hem370328-cit-0047">
+<string-name name-style="western">
+<surname>Hu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Scarless circular mRNA‐based CAR‐T cell therapy elicits superior antitumor efficacy</article-title>. <source>Signal Transduct Target Ther</source>. <year>2025</year>;<volume>10</volume>(<issue>1</issue>):<fpage>411</fpage>. <pub-id pub-id-type="doi">10.1038/s41392-025-02512-4</pub-id>
+<pub-id pub-id-type="pmid">41430032</pub-id>
+<pub-id pub-id-type="pmcid">PMC12722250</pub-id></mixed-citation></ref><ref id="hem370328-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="hem370328-cit-0048">
+<string-name name-style="western">
+<surname>Casmil</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Won</surname>
+<given-names>EJ</given-names>
+</string-name>, et al. <article-title>The advent of clinical self‐amplifying RNA vaccines</article-title>. <source>Mol Ther</source>. <year>2025</year>;<volume>33</volume>(<issue>6</issue>):<fpage>2565</fpage>‐<lpage>2582</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymthe.2025.03.060</pub-id>
+<pub-id pub-id-type="pmid">40186353</pub-id>
+<pub-id pub-id-type="pmcid">PMC12172325</pub-id></mixed-citation></ref><ref id="hem370328-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="hem370328-cit-0049">
+<string-name name-style="western">
+<surname>Zilberzwige‐Tal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ezra</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>On‐chip de novo production of mRNA vaccine in lipid nanoparticles</article-title>. <source>Small</source>. <year>2025</year>;<volume>21</volume>(<issue>32</issue>):<elocation-id>e2500114</elocation-id>. <pub-id pub-id-type="doi">10.1002/smll.202500114</pub-id>
+<pub-id pub-id-type="pmid">40545892</pub-id>
+<pub-id pub-id-type="pmcid">PMC12366276</pub-id></mixed-citation></ref><ref id="hem370328-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="hem370328-cit-0050">
+<string-name name-style="western">
+<surname>Alrehaili</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Couto</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khalife</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rafiq</surname>
+<given-names>QA</given-names>
+</string-name>. <article-title>CAR‐macrophages in solid tumors: promise, progress, and prospects</article-title>. <source>npj Precis Oncol</source>. <year>2025</year>;<volume>9</volume>(<issue>1</issue>):<fpage>382</fpage>. <pub-id pub-id-type="doi">10.1038/s41698-025-01170-7</pub-id>
+<pub-id pub-id-type="pmid">41309977</pub-id>
+<pub-id pub-id-type="pmcid">PMC12660692</pub-id></mixed-citation></ref><ref id="hem370328-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="hem370328-cit-0051">
+<string-name name-style="western">
+<surname>Reiss</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Angelos</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dees</surname>
+<given-names>EC</given-names>
+</string-name>, et al. <article-title>CAR‐macrophage therapy for HER2‐overexpressing advanced solid tumors: a phase 1 trial</article-title>. <source>Nat Med</source>. <year>2025</year>;<volume>31</volume>(<issue>4</issue>):<fpage>1171</fpage>‐<lpage>1182</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-025-03495-z</pub-id>
+<pub-id pub-id-type="pmid">39920391</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="hem370328-cit-0052">
+<string-name name-style="western">
+<surname>Argueta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>In vivo programmed myeloid cells expressing novel chimeric antigen receptors show potent anti‐tumor activity in preclinical solid tumor models</article-title>. <source>Front Immunol</source>. <year>2024</year>;<volume>15</volume>:<elocation-id>1501365</elocation-id>. <pub-id pub-id-type="doi">10.3389/fimmu.2024.1501365</pub-id>
+<pub-id pub-id-type="pmid">39735543</pub-id>
+<pub-id pub-id-type="pmcid">PMC11671302</pub-id></mixed-citation></ref><ref id="hem370328-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="hem370328-cit-0053">
+<string-name name-style="western">
+<surname>Rurik</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tombácz</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yadegari</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>CAR T cells produced in vivo to treat cardiac injury</article-title>. <source>Science</source>. <year>2022</year>;<volume>375</volume>(<issue>6576</issue>):<fpage>91</fpage>‐<lpage>96</lpage>. <pub-id pub-id-type="doi">10.1126/science.abm0594</pub-id>
+<pub-id pub-id-type="pmid">34990237</pub-id>
+<pub-id pub-id-type="pmcid">PMC9983611</pub-id></mixed-citation></ref><ref id="hem370328-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="hem370328-cit-0054">
+<string-name name-style="western">
+<surname>Abbrederis</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paloglou</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Astakhova</surname>
+<given-names>KG</given-names>
+</string-name>. <article-title>Smart lipid nanoparticles: the chemistry driving targeted therapeutics</article-title>. <source>Trends Chem</source>. <year>2025</year>;<volume>7</volume>(<issue>12</issue>):<fpage>827</fpage>‐<lpage>840</lpage>. <pub-id pub-id-type="doi">10.1016/j.trechm.2025.09.011</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="hem370328-cit-0055">
+<string-name name-style="western">
+<surname>Björgvinsdóttir</surname>
+<given-names>UJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larsen</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bak</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andresen</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Münter</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Targeting antibodies dissociate from drug delivery liposomes during blood circulation</article-title>. <source>J Control Release</source>. <year>2025</year>;<volume>379</volume>:<fpage>982</fpage>‐<lpage>992</lpage>. <pub-id pub-id-type="doi">10.1016/j.jconrel.2025.01.047</pub-id>
+<pub-id pub-id-type="pmid">39884438</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="hem370328-cit-0056">
+<string-name name-style="western">
+<surname>Michels</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheih</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hernandez</surname>
+<given-names>SA</given-names>
+</string-name>, et al. <article-title>Preclinical proof of concept for VivoVec, a lentiviral‐based platform for in vivo CAR T‐cell engineering</article-title>. <source>J Immunother Cancer</source>. <year>2023</year>;<volume>11</volume>(<issue>3</issue>):<elocation-id>e006292</elocation-id>. <pub-id pub-id-type="doi">10.1136/jitc-2022-006292</pub-id>
+<pub-id pub-id-type="pmid">36918221</pub-id>
+<pub-id pub-id-type="pmcid">PMC10016276</pub-id></mixed-citation></ref><ref id="hem370328-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="hem370328-cit-0057">
+<string-name name-style="western">
+<surname>Kulkarni</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cullis</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van der Meel</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Lipid nanoparticles enabling gene therapies: from concepts to clinical utility</article-title>. <source>Nucleic Acid Ther</source>. <year>2018</year>;<volume>28</volume>(<issue>3</issue>):<fpage>146</fpage>‐<lpage>157</lpage>. <pub-id pub-id-type="doi">10.1089/nat.2018.0721</pub-id>
+<pub-id pub-id-type="pmid">29683383</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="hem370328-cit-0058">
+<string-name name-style="western">
+<surname>Castillo‐Hair</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fedak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Optimizing 5′UTRs for mRNA‐delivered gene editing using deep learning</article-title>. <source>Nat Commun</source>. <year>2024</year>;<volume>15</volume>(<issue>1</issue>):<fpage>5284</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-024-49508-2</pub-id>
+<pub-id pub-id-type="pmid">38902240</pub-id>
+<pub-id pub-id-type="pmcid">PMC11189900</pub-id></mixed-citation></ref><ref id="hem370328-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="hem370328-cit-0059">
+<string-name name-style="western">
+<surname>Beura</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Latimer</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wong</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Abstract 48: T cell‐specific in vivo transduction with preclinical candidate KLN‐1010 generates BCMA directed CAR T cells with potent anti‐multiple myeloma activity</article-title>. <source>Cancer Res</source>. <year>2024</year>;<volume>84</volume>(<issue>6_suppl</issue>):<elocation-id>48</elocation-id>. <pub-id pub-id-type="doi">10.1158/1538-7445.AM2024-48</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="hem370328-cit-0060">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>XF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>JY</given-names>
+</string-name>, et al. <article-title>In‐vivo CAR‐T cells produced by specific virus in refractory B cell lymphoma</article-title>. <source>J Immunother Cancer</source>. <year>2024</year>;<volume>12</volume>(<issue>suppl 3</issue>):<elocation-id>1482</elocation-id>. <pub-id pub-id-type="doi">10.1136/jitc-2024-SITC2024.1482</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0061"><label>61</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0061">
+<string-name name-style="western">
+<surname>Grinstein</surname>
+<given-names>JD</given-names>
+</string-name>. First patient dosed with in vivo gene therapy for CAR T. Inside Precision Medicine. October 23, <year>2024</year>. Accessed December 11, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.insideprecisionmedicine.com/topics/precision-medicine/first-patient-dosed-with-in-vivo-gene-therapy-for-car-t/" ext-link-type="uri">https://www.insideprecisionmedicine.com/topics/precision-medicine/first-patient-dosed-with-in-vivo-gene-therapy-for-car-t/</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0062"><label>62</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0062">
+<collab collab-type="authors">Interius BioTherapeutics Inc</collab>
+. <article-title>
+Safety of INT2104 in Participants Aged 18 Years and Older Who Have B‐Cell Cancer That Came Back After Prior Treatment
+</article-title>. clinicaltrials.gov; <year>2025</year>. Accessed December 11, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT06539338" ext-link-type="uri">https://clinicaltrials.gov/study/NCT06539338</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0063"><label>63</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0063">
+<collab collab-type="authors">Umoja Biopharma</collab>
+. <article-title>
+A Phase 1 Study of UB‐VV111 With and Without Rapamycin in Relapsed/Refractory CD19+ B‐Cell Malignancies
+</article-title>. clinicaltrials.gov; <year>2025</year>. Accessed December 9, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT06528301" ext-link-type="uri">https://clinicaltrials.gov/study/NCT06528301</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0064"><label>64</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0064">
+<string-name name-style="western">
+<surname>Fan</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>
+A Phase I Clinical Study to Evaluate the Safety, Tolerability, and Efficacy of the LVIVO‐TaVec100 Product in the Treatment of Relapsed/Refractory B‐Cell Malignancies
+</article-title>. clinicaltrials.gov; <year>2025</year>. Accessed December 9, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT07002112" ext-link-type="uri">https://clinicaltrials.gov/study/NCT07002112</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="hem370328-cit-0065">
+<string-name name-style="western">
+<surname>Cunningham</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chandra</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Emmanuel</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>
+<italic toggle="yes">In vivo</italic> delivery of a CD20 CAR using a CD8‐targeted fusosome in southern pig‐tail macaques (<italic toggle="yes">M. nemestrina</italic>) results in B cell depletion</article-title>. <source>Blood</source>. <year>2021</year>;<volume>138</volume>:<fpage>2769</fpage>. <pub-id pub-id-type="doi">10.1182/blood-2021-148709</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="hem370328-cit-0066">
+<string-name name-style="western">
+<surname>Vigant</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kundu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yarlagadda</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Abstract 2918: in vivo delivery of CD3‐directed CD19‐CAR lentivectors leads to the generation of CAR T and NK‐like (CAR‐TaNK) cells capable of complete ablation of B cells in the blood, bone marrow, and tissue of NSG‐SGM3 CD34+ humanized mice</article-title>. <source>Cancer Res</source>. <year>2023</year>;<volume>83</volume>(<issue>7_suppl</issue>):<elocation-id>2918</elocation-id>. <pub-id pub-id-type="doi">10.1158/1538-7445.AM2023-2918</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="hem370328-cit-0067">
+<string-name name-style="western">
+<surname>Chokshi</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>ASGCT 28th Annual Meeting Abstracts</article-title>. <source>Mol Ther</source>. <year>2025</year>;<volume>33</volume>(<issue>4, suppl 1</issue>):<fpage>1</fpage>‐<lpage>1667</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymthe.2025.04.028</pub-id>
+39615482
+</mixed-citation></ref><ref id="hem370328-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="hem370328-cit-0068">
+<string-name name-style="western">
+<surname>Hamilton</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perez</surname>
+<given-names>BS</given-names>
+</string-name>, et al. <article-title>In vivo human T cell engineering with enveloped delivery vehicles</article-title>. <source>Nat Biotechnol</source>. <year>2024</year>;<volume>42</volume>(<issue>11</issue>):<fpage>1684</fpage>‐<lpage>1692</lpage>. <pub-id pub-id-type="doi">10.1038/s41587-023-02085-z</pub-id>
+<pub-id pub-id-type="pmid">38212493</pub-id>
+<pub-id pub-id-type="pmcid">PMC11236958</pub-id></mixed-citation></ref><ref id="hem370328-bib-0069"><label>69</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0069">
+<collab collab-type="authors">Azalea Therapeutics</collab>
+. Azalea Therapeutics presents new preclinical data demonstrating robust in vivo generation of TRAC‐CAR T cells using enveloped delivery vehicles (EDVs). GlobeNewswire News Room. November 20, <year>2025</year>. Accessed December 17, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.globenewswire.com/news-release/2025/11/20/3192000/0/en/Azalea-Therapeutics-Presents-New-Preclinical-Data-Demonstrating-Robust-In-Vivo-Generation-of-TRAC-CAR-T-Cells-Using-Enveloped-Delivery-Vehicles-EDVs.html" ext-link-type="uri">https://www.globenewswire.com/news-release/2025/11/20/3192000/0/en/Azalea-Therapeutics-Presents-New-Preclinical-Data-Demonstrating-Robust-In-Vivo-Generation-of-TRAC-CAR-T-Cells-Using-Enveloped-Delivery-Vehicles-EDVs.html</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="hem370328-cit-0070">
+<string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>ASGCT 28th annual meeting abstracts</article-title>. <source>Mol Ther</source>. <year>2025</year>;<volume>33</volume>(<issue>4, suppl 1</issue>):<fpage>1</fpage>‐<lpage>1667</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymthe.2025.04.028</pub-id>
+39615482
+</mixed-citation></ref><ref id="hem370328-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="hem370328-cit-0071">
+<string-name name-style="western">
+<surname>Argueta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melber</surname>
+<given-names>FK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gorgievski</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Preclinical development of MT‐303, a novel LNP‐formulated GPC3‐specific CAR mRNA, for in vivo programming of monocytes to treat hepatocellular carcinoma</article-title>. <source>J Immunother Cancer</source>. <year>2024</year>;<volume>12</volume>(<issue>suppl 2</issue>):<elocation-id>1125</elocation-id>. <pub-id pub-id-type="doi">10.1136/jitc-2024-SITC2024.1125</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0072"><label>72</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0072">
+<collab collab-type="authors">Myeloid Therapeutics</collab>
+. Myeloid Therapeutics initiates patient dosing with MT‐302, a novel TROP2‐targeting RNA CAR, in phase 1 study for advanced or metastatic epithelial tumors. Accessed December 11, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.prnewswire.com/news-releases/myeloid-therapeutics-initiates-patient-dosing-with-mt-302-a-novel-trop2-targeting-rna-car-in-phase-1-study-for-advanced-or-metastatic-epithelial-tumors-301924593.html" ext-link-type="uri">https://www.prnewswire.com/news-releases/myeloid-therapeutics-initiates-patient-dosing-with-mt-302-a-novel-trop2-targeting-rna-car-in-phase-1-study-for-advanced-or-metastatic-epithelial-tumors-301924593.html</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0073"><label>73</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0073">CREATE Medicines. CREATE medicines and Amsterdam University Medical Center initiate first in vivo CAR therapy trial in frontline setting for solid tumors. Accessed December 12, <year>2025</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.prnewswire.com/news-releases/create-medicines-and-amsterdam-university-medical-center-initiate-first-in-vivo-car-therapy-trial-in-frontline-setting-for-solid-tumors-302596696.html" ext-link-type="uri">https://www.prnewswire.com/news-releases/create-medicines-and-amsterdam-university-medical-center-initiate-first-in-vivo-car-therapy-trial-in-frontline-setting-for-solid-tumors-302596696.html</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0074"><label>74</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0074">CREATE Medicines. Myeloid Therapeutics rebrands as CREATE medicines, focused on transforming immunotherapy through RNA‐based in vivo multi‐immune programming. Accessed December 11, <year>2025</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.prnewswire.com/news-releases/myeloid-therapeutics-rebrands-as-create-medicines-focused-on-transforming-immunotherapy-through-rna-based-in-vivo-multi-immune-programming-302575510.html" ext-link-type="uri">https://www.prnewswire.com/news-releases/myeloid-therapeutics-rebrands-as-create-medicines-focused-on-transforming-immunotherapy-through-rna-based-in-vivo-multi-immune-programming-302575510.html</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="hem370328-cit-0075">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galvan</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Effective engineering of CD8+ T cells from autoimmune disease patients utilizing a CD8‐targeted lipid nanoparticle encoding an anti‐CD19 CAR mRNA(CPTX2309)</article-title>. <source>Arthritis Rheumatol</source>. <year>2024</year>;<volume>76</volume>(<issue>suppl 9</issue>). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://acrabstracts.org/abstract/effective-engineering-of-cd8-t-cells-from-autoimmune-disease-patients-utilizing-a-cd8-targeted-lipid-nanoparticleencoding-an-anti-cd19-car-mrnacptx2309/" ext-link-type="uri">https://acrabstracts.org/abstract/effective-engineering-of-cd8-t-cells-from-autoimmune-disease-patients-utilizing-a-cd8-targeted-lipid-nanoparticleencoding-an-anti-cd19-car-mrnacptx2309/</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0076"><label>76</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0076">
+<collab collab-type="authors">Capstan Therapeutics</collab>
+. <article-title>
+A First‐in‐Human, Phase 1, Single‐Center, Open‐Label, Single and Multiple Ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of CPTX2309 by Intravenous Administration in Healthy Volunteers
+</article-title>. clinicaltrials.gov; <year>2025</year>. Accessed December 11, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT06917742" ext-link-type="uri">https://clinicaltrials.gov/study/NCT06917742</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="hem370328-cit-0077">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Precision in vivo CAR‐T generation via CLAMP‐enabled mRNA delivery: toward scalable and translatable cell therapy</article-title>. <source>Blood</source>. <year>2025</year>;<volume>146</volume>:<elocation-id>103</elocation-id>. <pub-id pub-id-type="doi">10.1182/blood-2025-103</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0078"><label>78</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0078">
+<string-name name-style="western">
+<surname>Hu</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>
+Open‐Label, Single‐Arm, Exploratory Clinical Trial to Evaluate the Safety, Tolerability and Efficacy of JCXH‐213 in Patients With Relapsed/Refractory B‐Cell Non‐Hodgkin Lymphoma
+</article-title>. clinicaltrials.gov; <year>2025</year>. Accessed December 11, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT06618313" ext-link-type="uri">https://clinicaltrials.gov/study/NCT06618313</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="hem370328-cit-0079">
+<string-name name-style="western">
+<surname>Silver</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schindler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oseghali</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>In vivo pan CAR therapy utilizing circular RNA for treatment of multiple myeloma</article-title>. <source>Blood</source>. <year>2025</year>;<volume>146</volume>:<elocation-id>4117</elocation-id>. <pub-id pub-id-type="doi">10.1182/blood-2025-4117</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="hem370328-cit-0080">
+<string-name name-style="western">
+<surname>Soto</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crabtree</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>In vivo pan CAR therapy utilizing circular RNA for treatment of autoimmune diseases</article-title>. <source>Blood</source>. <year>2025</year>;<volume>146</volume>:<elocation-id>104</elocation-id>. <pub-id pub-id-type="doi">10.1182/blood-2025-104</pub-id>
+40090008
+</mixed-citation></ref><ref id="hem370328-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="hem370328-cit-0081">
+<string-name name-style="western">
+<surname>Bimbo</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Diest</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murphy</surname>
+<given-names>DE</given-names>
+</string-name>, et al. <article-title>T cell‐specific non‐viral DNA delivery and in vivo CAR‐T generation using targeted lipid nanoparticles</article-title>. <source>J Immunother Cancer</source>. <year>2025</year>;<volume>13</volume>(<issue>7</issue>):<elocation-id>e011759</elocation-id>. <pub-id pub-id-type="doi">10.1136/jitc-2025-011759</pub-id>
+<pub-id pub-id-type="pmid">40659448</pub-id>
+<pub-id pub-id-type="pmcid">PMC12258353</pub-id></mixed-citation></ref><ref id="hem370328-bib-0082"><label>82</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0082">
+<collab collab-type="authors">Eli Lilly and Company</collab>
+. <article-title>Lilly to acquire Orna Therapeutics to advance cell therapies</article-title>. Accessed December 11, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.prnewswire.com/news-releases/lilly-to-acquire-orna-therapeutics-to-advance-cell-therapies-302682157.html" ext-link-type="uri">https://www.prnewswire.com/news-releases/lilly-to-acquire-orna-therapeutics-to-advance-cell-therapies-302682157.html</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0083"><label>83</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0083">
+<collab collab-type="authors">Myeloid Therapeutics</collab>
+. <article-title>Myeloid Therapeutics Initiates Patient Dosing With MT‐303, a Novel GPC3 Targeting RNA CAR, in Phase 1 Study for Advanced Hepatocellular Carcinoma (HCC)</article-title>. Accessed December 11, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.prnewswire.com/news-releases/myeloid-therapeutics-initiates-patient-dosing-with-mt-303-a-novel-gpc3-targeting-rna-car-in-phase-1-study-for-advanced-hepatocellular-carcinoma-hcc-302210394.html" ext-link-type="uri">https://www.prnewswire.com/news-releases/myeloid-therapeutics-initiates-patient-dosing-with-mt-303-a-novel-gpc3-targeting-rna-car-in-phase-1-study-for-advanced-hepatocellular-carcinoma-hcc-302210394.html</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0084"><label>84</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0084">Kelonia Therapeutics. Kelonia Therapeutics presents first‐in‐human data from phase 1 inMMyCAR study of KLN‐1010 in vivo BCMA CAR‐T therapy at the American Society of Hematology (ASH) 2025 annual meeting. Accessed December 11, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.businesswire.com/news/home/20251209935959/en/Kelonia-Therapeutics-Presents-First-in-Human-Data-From-Phase-1-inMMyCAR-Study-of-KLN-1010-in-vivo-BCMA-CAR-T-Therapy-at-the-American-Society-of-Hematology-ASH-2025-Annual-Meeting" ext-link-type="uri">https://www.businesswire.com/news/home/20251209935959/en/Kelonia-Therapeutics-Presents-First-in-Human-Data-From-Phase-1-inMMyCAR-Study-of-KLN-1010-in-vivo-BCMA-CAR-T-Therapy-at-the-American-Society-of-Hematology-ASH-2025-Annual-Meeting</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0085"><label>85</label><mixed-citation publication-type="miscellaneous" id="hem370328-cit-0085">CREATE Medicines. CREATE medicines doses first patient in frontline HCC trial evaluating MT‐303, an in vivo CAR therapy, in combination with standard‐of‐care immunotherapy. Accessed December 11, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.prnewswire.com/news-releases/create-medicines-doses-first-patient-in-frontline-hcc-trial-evaluating-mt-303-an-in-vivo-car-therapy-in-combination-with-standard-of-care-immunotherapy-302636561.html" ext-link-type="uri">https://www.prnewswire.com/news-releases/create-medicines-doses-first-patient-in-frontline-hcc-trial-evaluating-mt-303-an-in-vivo-car-therapy-in-combination-with-standard-of-care-immunotherapy-302636561.html</ext-link>
+</mixed-citation></ref><ref id="hem370328-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="hem370328-cit-0086">
+<string-name name-style="western">
+<surname>Mullard</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>In vivo CAR T cells gain traction, with AbbVie's US$2.1 billion acquisition of Capstan Therapeutics</article-title>. <source>Nat Rev Drug Discov</source>. <year>2025</year>;<volume>24</volume>(<issue>9</issue>):<fpage>653</fpage>. <pub-id pub-id-type="doi">10.1038/d41573-025-00131-w</pub-id>
+<pub-id pub-id-type="pmid">40731162</pub-id>
+</mixed-citation></ref><ref id="hem370328-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="hem370328-cit-0087">
+<string-name name-style="western">
+<surname>Parayath</surname>
+<given-names>NN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stephan</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koehne</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nelson</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stephan</surname>
+<given-names>MT</given-names>
+</string-name>. <article-title>In vitro‐transcribed antigen receptor mRNA nanocarriers for transient expression in circulating T cells in vivo</article-title>. <source>Nat Commun</source>. <year>2020</year>;<volume>11</volume>(<issue>1</issue>):<fpage>6080</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-020-19486-2</pub-id>
+<pub-id pub-id-type="pmid">33247092</pub-id>
+<pub-id pub-id-type="pmcid">PMC7695830</pub-id></mixed-citation></ref><ref id="hem370328-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="hem370328-cit-0088">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ke</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ao</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Injectable supramolecular hydrogels for in situ programming of Car‐T cells toward solid tumor immunotherapy</article-title>. <source>Adv Mater Deerfield</source>. <year>2024</year>;<volume>36</volume>(<issue>5</issue>):<elocation-id>e2310078</elocation-id>. <pub-id pub-id-type="doi">10.1002/adma.202310078</pub-id>
+<pub-id pub-id-type="pmid">37947048</pub-id></mixed-citation></ref><ref id="hem370328-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="hem370328-cit-0089">
+<string-name name-style="western">
+<surname>Agarwalla</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ogunnaike</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahn</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Bioinstructive implantable scaffolds for rapid in vivo manufacture and release of CAR‐T cells</article-title>. <source>Nat Biotechnol</source>. <year>2022</year>;<volume>40</volume>(<issue>8</issue>):<fpage>1250</fpage>‐<lpage>1258</lpage>. <pub-id pub-id-type="doi">10.1038/s41587-022-01245-x</pub-id>
+<pub-id pub-id-type="pmid">35332339</pub-id>
+<pub-id pub-id-type="pmcid">PMC9376243</pub-id></mixed-citation></ref><ref id="hem370328-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="hem370328-cit-0090">
+<string-name name-style="western">
+<surname>Eyquem</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mansilla‐Soto</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giavridis</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Targeting a CAR to the <italic toggle="yes">TRAC</italic> locus with CRISPR/Cas9 enhances tumour rejection</article-title>. <source>Nature</source>. <year>2017</year>;<volume>543</volume>(<issue>7643</issue>):<fpage>113</fpage>‐<lpage>117</lpage>. <pub-id pub-id-type="doi">10.1038/nature21405</pub-id>
+<pub-id pub-id-type="pmid">28225754</pub-id>
+<pub-id pub-id-type="pmcid">PMC5558614</pub-id></mixed-citation></ref><ref id="hem370328-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="hem370328-cit-0091">
+<string-name name-style="western">
+<surname>Hope</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Sostoa</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ginefra</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Age‐associated nicotinamide adenine dinucleotide decline drives CAR‐T cell failure</article-title>. <source>Nat Cancer</source>. <year>2025</year>;<volume>6</volume>(<issue>9</issue>):<fpage>1524</fpage>‐<lpage>1536</lpage>. <pub-id pub-id-type="doi">10.1038/s43018-025-00982-7</pub-id>
+<pub-id pub-id-type="pmid">40394194</pub-id>
+<pub-id pub-id-type="pmcid">PMC12463664</pub-id></mixed-citation></ref><ref id="hem370328-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="hem370328-cit-0092">
+<string-name name-style="western">
+<surname>Tao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chyra</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotulová</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Impact of T cell characteristics on CAR‐T cell therapy in hematological malignancies</article-title>. <source>Blood Cancer J</source>. <year>2024</year>;<volume>14</volume>(<issue>1</issue>):<fpage>213</fpage>. <pub-id pub-id-type="doi">10.1038/s41408-024-01193-6</pub-id>
+<pub-id pub-id-type="pmid">39627220</pub-id>
+<pub-id pub-id-type="pmcid">PMC11615218</pub-id></mixed-citation></ref><ref id="hem370328-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="hem370328-cit-0093">
+<string-name name-style="western">
+<surname>Friedrich</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pham</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tian</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Transient hepatic reconstitution of trophic factors enhances aged immunity</article-title>. <source>Nature</source>. Published online December 17, <year>2025</year>. <pub-id pub-id-type="doi">10.1038/s41586-025-09873-4</pub-id>
+<pub-id pub-id-type="pmcid">PMC12893904</pub-id><pub-id pub-id-type="pmid">41407851</pub-id></mixed-citation></ref><ref id="hem370328-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="hem370328-cit-0094">
+<string-name name-style="western">
+<surname>Costa</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bahlis</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perrot</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Teclistamab plus daratumumab in relapsed or refractory multiple myeloma</article-title>. <source>N Engl J Med</source>. Published online December 9, <year>2025</year>. <pub-id pub-id-type="doi">10.1056/NEJMoa2514663</pub-id>
+<pub-id pub-id-type="pmcid">PMC13218738</pub-id><pub-id pub-id-type="pmid">41363801</pub-id></mixed-citation></ref></ref-list></back></article>
