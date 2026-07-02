@@ -1,0 +1,46 @@
+foundational_platform: 'TITLE:"bispecific antibody" AND TITLE:("T cell" OR' -> 23
+foundational_platform: '("hetero-crosslinked" OR "heteroconjugate") AND "c' -> 33
+foundational_platform: 'TITLE:("BiTE" OR "bispecific T-cell engager" OR "T' -> 60
+foundational_platform: '"trifunctional antibody" AND "T cell"' -> 60
+foundational_platform: 'TITLE:"tandem diabody" AND "T cell"' -> 5
+foundational_platform: '("DART" OR "dual-affinity re-targeting") AND "T ce' -> 60
+foundational_platform: 'TITLE:("T-cell engager" OR "T cell engager") AND (' -> 60
+CD19: 'blinatumomab AND (preclinical OR mechanism OR "pha' -> 60
+CD19: 'TITLE:("CD19" AND ("bispecific" OR "T-cell engager' -> 60
+CD20: '(glofitamab OR mosunetuzumab OR epcoritamab OR odr' -> 60
+CD20: 'TITLE:("CD20" AND ("bispecific" OR "T-cell engager' -> 60
+BCMA: '(teclistamab OR elranatamab OR "AMG 420" OR pavuru' -> 60
+BCMA: 'TITLE:("BCMA" AND ("bispecific" OR "T-cell engager' -> 60
+GPRC5D: 'talquetamab AND myeloma' -> 60
+GPRC5D: 'TITLE:("GPRC5D" AND ("bispecific" OR "T-cell engag' -> 35
+CD33_FLT3_AML: 'TITLE:("CD33" OR "FLT3" OR "CD123") AND ("T-cell e' -> 60
+CD33_FLT3_AML: '(flotetuzumab OR vibecotamab OR "AMG 330" OR "AMG ' -> 60
+EpCAM: 'catumaxomab AND (EpCAM OR ascites OR "malignant as' -> 60
+EpCAM: 'TITLE:("EpCAM" AND ("bispecific" OR "T-cell engage' -> 0
+EpCAM: '"solitomab" OR "MT110" OR "AMG 110"' -> 48
+CEA_CEACAM5: '(cibisatamab OR "CEA-TCB" OR "RO6958688") AND (CEA' -> 60
+CEA_CEACAM5: 'TITLE:("CEA" OR "CEACAM5") AND ("bispecific" OR "T' -> 60
+gp100_ImmTAC: 'tebentafusp AND (gp100 OR uveal OR melanoma)' -> 60
+gp100_ImmTAC: 'ImmTAC AND ("T cell" OR melanoma OR gp100)' -> 60
+PSMA: '(pasotuxizumab OR "AMG 212" OR "BAY2010112" OR "HP' -> 60
+PSMA: 'TITLE:("PSMA" AND ("bispecific" OR "T-cell engager' -> 32
+HER2_ERBB2: 'TITLE:("HER2" OR "ERBB2") AND ("bispecific" OR "T-' -> 60
+HER2_ERBB2: '(zanidatamab OR "ertumaxomab" OR "runimotamab") AN' -> 60
+EGFR_EGFRvIII: 'TITLE:("EGFR" OR "EGFRvIII") AND ("bispecific" OR ' -> 60
+EGFR_EGFRvIII: 'EGFRvIII AND "T-cell engager" AND (glioma OR gliob' -> 60
+DLL3: '(tarlatamab OR "AMG 757" OR "BI 764532" OR obrixta' -> 60
+DLL3: 'TITLE:("DLL3" AND ("bispecific" OR "T-cell engager' -> 18
+B7H3_CD276: 'TITLE:("B7-H3" OR "B7H3" OR "CD276") AND ("bispeci' -> 60
+B7H3_CD276: '("HPN536" OR "vudalimab") AND ("T cell" OR B7-H3)' -> 60
+GD2: 'TITLE:("GD2") AND ("bispecific" OR "T-cell engager' -> 60
+GD2: 'GD2 AND "bispecific antibody" AND (neuroblastoma O' -> 60
+Claudin18_2: 'TITLE:("claudin 18.2" OR "CLDN18.2" OR "claudin-18' -> 58
+Claudin18_2: '(givastomig OR "ASKB589" OR "Q-1802" OR "AMG 910")' -> 60
+Mesothelin_MUC_PSCA: 'TITLE:("mesothelin" OR "MUC16" OR "MUC1" OR "PSCA"' -> 60
+Mesothelin_MUC_PSCA: '(REGN5668 OR "HPN536" OR "AMG 199") AND (mesotheli' -> 51
+solid_tumor_other: 'TITLE:("FAP" OR "EGFRvIII" OR "ROR1" OR "5T4" OR "' -> 60
+solid_tumor_other: 'TITLE:("T-cell engager" OR "BiTE") AND (glioma OR ' -> 46
+cart_tce_combination: '"CAR-T" AND ("secreting" OR "secrete") AND ("BiTE"' -> 60
+cart_tce_combination: '("CAR T" OR "CAR-T") AND "T-cell engager" AND (com' -> 60
+cart_tce_combination: '"STAb-T" OR ("secreting T-cell" AND bispecific)' -> 32
+cart_tce_combination: 'TITLE:("BiTE" OR "T-cell engager") AND ("CAR" AND ' -> 60
