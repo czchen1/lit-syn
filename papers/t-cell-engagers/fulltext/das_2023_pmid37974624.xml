@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">3799</journal-id><journal-id journal-id-type="pmc-domain">acspts</journal-id><journal-title-group><journal-title>ACS Pharmacology &amp; Translational Science</journal-title><abbrev-journal-title>ACS Pharmacol Transl Sci</abbrev-journal-title></journal-title-group><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10644396</article-id><article-id pub-id-type="pmcaid">10644396</article-id><article-id pub-id-type="pmcaiid">10644396</article-id><article-id pub-id-type="pmid">37974624</article-id><article-id pub-id-type="doi">10.1021/acsptsci.3c00159</article-id><title-group><article-title>Targeting Prostate
+Cancer Using Bispecific T-Cell
+Engagers against Prostate-Specific Membrane Antigen</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Das</surname><given-names initials="G">Gargi</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Ptacek</surname><given-names initials="J">Jakub</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Havlinova</surname><given-names initials="B">Barbora</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Nedvedova</surname><given-names initials="J">Jana</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Barinka</surname><given-names initials="C">Cyril</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Novakova</surname><given-names initials="Z">Zora</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref rid="cor1" ref-type="author-notes">*</xref></contrib></contrib-group><aff id="aff1"><label>†</label>Laboratory
+of Structural Biology, Institute of Biotechnology
+of the Czech Academy of Sciences, BIOCEV, Prumyslova 595, 252
+50 Vestec, Czech
+Republic</aff><aff id="aff2"><label>‡</label>Department
+of Cell Biology, Faculty of Science, Charles
+University, 128 00 Prague, Czech Republic</aff><author-notes><fn id="cor1"><label>*</label><p><email>zora.novakova@ibt.cas.cz</email>; +420 325 873 736</p></fn></author-notes><pub-date><day>6</day><month>10</month><year>2023</year></pub-date><volume>6</volume><issue>11</issue><fpage>1703</fpage><page-range>1703–1714</page-range><pub-history><event event-type="pmc-release"><date><day>6</day><month>10</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© 2023 The Authors. Published by American Chemical Society</copyright-statement><license><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pt3c00159.pdf" content-type="pmc-pdf"><?cloudpmc-path 0799/10644396/b198f247b3f3/pt3c00159.pdf?><?cloudpmc-bucket app?><?size 5124472?></self-uri><abstract id="abstract1"><title>Abstract</title><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="ab-tgr1" xlink:href="pt3c00159_0006.jpg"><?cloudpmc-path blobs/0799/10644396/9f3a744d86cc/pt3c00159_0006.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 429?><?original-width 952?><?scaled-height 286?><?scaled-width 634?></graphic><p>Prostate cancer (PCa) tops the list of cancer-related
+deaths in
+men worldwide. Prostate-specific membrane antigen (PSMA) is currently
+the most prominent PCa biomarker, as its expression levels are robustly
+enhanced in advanced stages of PCa. As such, PSMA targeting is highly
+efficient in PCa imaging as well as therapy. For the latter, PSMA-positive
+tumors can be targeted directly by using small molecules or macromolecules
+with cytotoxic payloads or indirectly by engaging the immune system
+of the host. Here we describe the engineering, expression, purification,
+and biological characterization of bispecific T-cell engagers (BiTEs)
+that enable targeting PSMA-positive tumor cells by host T lymphocytes.
+To this end, we designed the 5D3-αCD3 BiTE as a fusion of single-chain
+fragments of PSMA-specific 5D3 and anti-CD3 antibodies. Detailed characterization
+of BiTE was performed by a combination of size-exclusion chromatography,
+differential scanning fluorimetry, and flow cytometry. Expressed in
+insect cells, BiTE was purified in monodisperse form and retained
+thermal stability of both functional parts and nanomolar affinity
+to respective antigens. 5D3-αCD3’s efficiency and specificity
+were further evaluated <italic>in vitro</italic> using PCa-derived
+cell lines together with peripheral blood mononuclear cells isolated
+from human blood. Our data revealed that T-cells engaged via 5D3-αCD3
+can efficiently eliminate tumor cells already at an 8 pM BiTE concentration
+in a highly specific manner. Overall, the data presented here demonstrate
+that the 5D3-αCD3 BiTE is a candidate molecule of high potential
+for further development of immunotherapeutic modalities for
+PCa treatment.</p><sec id="kwd-group1" sec-type="kwd-group" disp-level="2"><p><bold>Keywords:</bold> prostate cancer, glutamate carboxypeptidase II, antibody engineering, bispecific T-cell engager (BiTE), immunotherapy, prostate-specific membrane antigen (PSMA)</p></sec></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Received 2023 Jul 24; Collection date 2023 Nov 10.</p></sec></notes></front><body><p id="sec1">Prostate cancer (PCa) is the
+second leading cause of cancer-related death in men.<sup><xref rid="ref1" ref-type="bibr">1</xref></sup> Unlike localized PCa, which can often be treated successfully
+with surgery or radiation, there is currently no cure for metastatic
+PCa, and the development of new treatment modalities is thus critical
+for the successful management of metastatic PCa.</p><p>Prostate-specific
+membrane antigen (PSMA, EC 3.4.17.21), also known
+as glutamate carboxypeptidase II, N-acetylated-alpha-linked acidic
+dipeptidase, and folate hydrolase, is a class II transmembrane protein
+expressed in various tissues, including the prostate gland, Schwann
+cells of the central nervous system, duodenal brush border cells of
+the small intestine, and the proximal renal tubules of the kidney.<sup><xref rid="ref2" ref-type="bibr">2</xref>−<xref rid="ref6" ref-type="bibr">6</xref></sup> This clinically well-established marker of PCa<sup><xref rid="ref7" ref-type="bibr">7</xref></sup> shows progressive upregulation throughout almost all stages
+of PCa, from prostatic neoplasia to the metastatic form of castration-resistant
+prostate cancer (mCRPC).<sup><xref rid="ref8" ref-type="bibr">8</xref>−<xref rid="ref11" ref-type="bibr">11</xref></sup> The highly specific and abundant expression makes
+PSMA an excellent target for PCa imaging and therapy.</p><p>Immuno-oncology
+is a rapidly developing field with high promise
+for the development of effective cancer therapies.<sup><xref rid="ref12" ref-type="bibr">12</xref>,<xref rid="ref13" ref-type="bibr">13</xref></sup> Accordingly, various immunotherapy approaches and tools intended
+for clinical treatments of PCa are currently being intensively studied,
+with the interest focused mainly on PSMA-specific monoclonal antibodies.<sup><xref rid="ref14" ref-type="bibr">14</xref></sup> These antibodies might be preferred over small
+molecules in therapy of PCa since the majority of small molecules
+targeting PSMA also bind glutamate carboxypeptidase III, a poorly
+characterized PSMA paralog.<sup><xref rid="ref15" ref-type="bibr">15</xref>,<xref rid="ref16" ref-type="bibr">16</xref></sup> The <sup>177</sup>Lu-DOTA-J591
+conjugate can serve as an example of a PSMA-specific antibody evaluated
+for radiotherapy of mCRPC. While treatment with the radiopharmaceutical
+resulted in a significant decrease in prostate-specific antigen (PSA)
+in 60% of the patients, myelotoxicity was a major undesired
+side effect, limiting its potential therapeutic value.<sup><xref rid="ref17" ref-type="bibr">17</xref></sup> Antibody–drug conjugate (ADC) therapy
+is yet another example of an immuno-oncology approach targeting PSMA
+that advantageously exploits PSMA internalization upon binding of
+an ADC conjugate.<sup><xref rid="ref18" ref-type="bibr">18</xref>,<xref rid="ref19" ref-type="bibr">19</xref></sup> PSMA-specific antibodies conjugated
+to microtubule-targeting toxins entered clinical studies; however,
+the efficient anti-tumor effects of these drug conjugates were accompanied
+by adverse effects, including peripheral neuropathy and neutropenia.<sup><xref rid="ref20" ref-type="bibr">20</xref></sup></p><p>In various cancer treatments, antibodies
+are also used as mediators
+of interactions between cancer cells and host immune cells. Such interactions
+can specifically attract immune cells toward targeted cancer cells,
+resulting in directed attack on a tumor. Engagement between immune
+and tumor cells could be controlled by distinctly engineered molecules,
+including chimeric antigen T-cell receptors (CAR Ts) and bispecific
+T-cell engagers (BiTEs),<sup><xref rid="ref21" ref-type="bibr">21</xref>−<xref rid="ref23" ref-type="bibr">23</xref></sup> which are designed to selectively
+recruit T-cells to the tumor site. The focus on T-cells is rationalized
+by their high abundance in peripheral blood as well as their ability
+to kill target cells by secreted perforins and granzymes or by inducing
+programmed cell death via Fas ligand signaling.<sup><xref rid="ref21" ref-type="bibr">21</xref>,<xref rid="ref22" ref-type="bibr">22</xref>,<xref rid="ref24" ref-type="bibr">24</xref>−<xref rid="ref27" ref-type="bibr">27</xref></sup> BiTEs can be a preferred choice
+over CAR Ts due to their significantly lower production costs, as
+they do not require the complex and expensive manufacturing process
+necessary for CAR T-cells. A BiTE consists of two structurally independent
+parts, where one site specifically binds a T-cell receptor while the
+second site is derived from a binder molecule (antibody) to recognize
+a target antigen on the surface of a tumor cell.<sup><xref rid="ref24" ref-type="bibr">24</xref>,<xref rid="ref28" ref-type="bibr">28</xref>,<xref rid="ref29" ref-type="bibr">29</xref></sup> Simultaneous binding to the ε-chain
+of the T-cell receptor and the tumor-specific antigen enables BiTE
+to form an immunologic synapse between the cancer cell and the
+T lymphocyte to activate the latter.<sup><xref rid="ref30" ref-type="bibr">30</xref></sup> In
+response, the T-cell is activated, and the process is accompanied
+by enhanced surface presentation of CD69 and CD25, which are early
+and late activation markers, respectively.<sup><xref rid="ref31" ref-type="bibr">31</xref>−<xref rid="ref33" ref-type="bibr">33</xref></sup> Additionally,
+BiTE technology brings the advantage of polyclonal T-cell activation
+independent of MHC (the major histocompatibility complex)-driven
+antigen presentation. Consequently, BiTEs can even target tumor cells
+that escape the immune surveillance through downregulation of MHC
+expression.<sup><xref rid="ref34" ref-type="bibr">34</xref></sup></p><p>Pasotuxizumab (AMG-212)
+is a first-generation PSMA-targeting BiTE
+designed for PCa therapy.<sup><xref rid="ref35" ref-type="bibr">35</xref></sup> While AMG-212
+has shown some promise in a Phase I clinical trial, 90% of patients
+developed drug-neutralizing antibodies,<sup><xref rid="ref35" ref-type="bibr">35</xref>,<xref rid="ref36" ref-type="bibr">36</xref></sup> thus necessitating
+the development of AMG-160, an advanced derivative of AMG-212, which
+is currently under active investigation. These results clearly show
+that the development of BiTEs for PCa therapy is a viable approach,
+and data presented in this report extend the findings in the literature.
+Here, we use our recently developed 5D3 antibody with high specificity
+and nanomolar affinity toward PSMA<sup><xref rid="ref37" ref-type="bibr">37</xref>−<xref rid="ref39" ref-type="bibr">39</xref></sup> to engineer 5D3 BiTE
+derivatives that effectively mediate T-cell cytotoxicity toward PSMA-expressing
+cells in sub-nanomolar concentrations. Our data thus further illustrate
+the high potential of 5D3 BiTE as a lead molecule for the development
+of modalities for immunotherapy of prostate cancer.</p><sec id="sec2" disp-level="1"><title>Results</title><sec id="sec2.1" disp-level="2"><title>Design, Expression, and Purification of Recombinant Constructs</title><p>Two 5D3 BiTE variants were designed to test the effect of single-chain
+variable fragment (scFv) order on expression levels, purity, and stability
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). The sequence
+of 5D3-scFv originated from the previously published 5D3-scFv HL plasmid,<sup><xref rid="ref39" ref-type="bibr">39</xref></sup> whereas the αCD3-scFv sequence was derived
+from the αCD19/αCD3 Blinatumomab BiTE.<sup><xref rid="ref40" ref-type="bibr">40</xref>,<xref rid="ref41" ref-type="bibr">41</xref></sup> In the fusion constructs, both scFvs were connected by flexible
+linkers of 16 and 17 amino acids for 5D3-αCD3 and αCD3-5D3,
+respectively. The fusions were inserted in the pMT expression vector,
+enabling secretion of overexpressed proteins into cultivation media
+directed by a cleavable BiP leader sequence at the N-terminus of a
+fusion. The SA-strep tag II was inserted at the C-terminus of fusion
+proteins to facilitate purification steps. The αCD3-scFv construct
+was designed with the N-terminal Twin-strep tag. All constructs were
+heterologously expressed in insect Schneider’s S2 cells and
+purified from culture media by a combination of affinity and size
+exclusion chromatography (SEC). 5D3-αCD3, αCD3-5D3, and
+αCD3-scFv constructs were produced in a predominantly monomeric
+form with yields of 1.6, 1.8, and 3.5 mg/L, respectively, and with
+purity &gt;95% as estimated by Coomassie-stained SDS-PAGE (<xref rid="fig2" ref-type="fig">Figures <xref rid="fig2" ref-type="fig">2</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsptsci.3c00159/suppl_file/pt3c00159_si_001.pdf" ext-link-type="uri">S1</ext-link>).</p><fig id="fig1" position="float"><?disp-level 3?><label>Figure 1</label><caption><p>Scheme of 5D3 BiTE variants and individual single
+chains. Amino
+acid sequences of 5D3-αCD3, αCD3-5D3, 5D3-scFv, and αCD3-scFv
+are shown on the left, and schematic representations of the corresponding
+proteins are shown on the right; VH and VL refer to variable heavy
+and light domains, respectively. The N-terminal BiP secretion signal
+sequence and affinity SA-Strep II/Twin-Strep tags are colored
+gray and purple, respectively. Antibody-variable domains of 5D3 and
+αCD3 are colored green and orange, respectively. Created with
+BioRender.com.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr1" xlink:href="pt3c00159_0001.jpg"><?cloudpmc-path blobs/0799/10644396/4381b548c1a2/pt3c00159_0001.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1492?><?original-width 1874?><?scaled-height 596?><?scaled-width 749?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="pt3c00159_0001.gif"><?cloudpmc-path blobs/0799/10644396/3a9915f82dba/pt3c00159_0001.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><fig id="fig2" position="float"><?disp-level 3?><label>Figure 2</label><caption><p>Analytical SEC of final protein preparations: 5D3-αCD3
+(A),
+αCD3-5D3 (B), αCD3-scFv (C), and 5D3-scFv (D), revealing
+a homogeneous monomeric fraction. Protein purity &gt;95% is documented
+by the Coomassie Brilliant Blue G-250-stained gel (E).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr2" xlink:href="pt3c00159_0002.jpg"><?cloudpmc-path blobs/0799/10644396/b9918b99d2cf/pt3c00159_0002.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 875?><?original-width 1924?><?scaled-height 350?><?scaled-width 769?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="pt3c00159_0002.gif"><?cloudpmc-path blobs/0799/10644396/d725e7d505f8/pt3c00159_0002.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="sec2.2" disp-level="2"><title>Thermal Stability</title><p>The thermal stability of purified
+5D3 BiTEs was assessed by using nano differential scanning fluorimetry
+(nanoDSF). The thermal profile of 5D3-αCD3 revealed two peaks,
+corresponding to melting temperatures (<italic>T</italic><sub>m</sub>) of 53.3 and 72.1 °C, while αCD3-5D3 showed <italic>T</italic><sub>m</sub> values of 46.6 and 66 °C (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A). By comparing the temperature profiles
+of our fusions with the melting temperatures of isolated 5D3-scFv
+(<italic>T</italic><sub>m</sub> = 53.4 °C; ref (<xref rid="ref39" ref-type="bibr">39</xref>)) and αCD3-scFv (<italic>T</italic><sub>m</sub> = 71.8 °C, <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B), we found an excellent correlation in
+the case of the 5D3-αCD3 BiTE, indicating retained stability
+of individual domains in the fusion. On the other hand, αCD3-5D3
+showed significantly decreased <italic>T</italic><sub>m</sub> by 6
+°C for both functional parts, suggesting compromised stability
+of the αCD3-5D3 fusion. Consequently, only the more stable 5D3-αCD3
+BiTE was used in subsequent experiments.</p><fig id="fig3" position="float"><?disp-level 3?><label>Figure 3</label><caption><p>Characterization of 
+purified BiTE variants. (A, B) Thermal stability
+determined by nanoDSF. The first derivatives of intrinsic fluorescence
+(ratio 350/330 nm) of 5D3 BiTE variants (A) and αCD3-scFv (B)
+are shown. (C–E) Target specificity of individual arms of the
+5D3-αCD3 BiTE determined using PSMA-positive LNCaP cells (the
+5D3 arm at 10 nM concentration; panel C) and CD3-positive Jurkat cells
+(the αCD3 arm at 100 nM concentration; panel D) using flow cytometry.
+αCD3-scFv (1000 nM) was included as a specific control of the
+αCD3 arm (panel E). DU145 and HL-60 cells served as PSMA- and
+CD3-negative controls, respectively. Approximately 50,000 live cells
+were used to generate individual histograms. (F, G) Affinities (<italic>K</italic><sub>D</sub>) of 5D3 (F) and αCD3 (G) arms of the
+BiTE, and αCD3 scFv (G) determined by flow cytometry using LNCaP
+and Jurkat cells, respectively. DU145 and HL-60 cells were used as
+negative controls.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr3" xlink:href="pt3c00159_0003.jpg"><?cloudpmc-path blobs/0799/10644396/a8f36a053d1e/pt3c00159_0003.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1980?><?original-width 1691?><?scaled-height 792?><?scaled-width 676?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="pt3c00159_0003.gif"><?cloudpmc-path blobs/0799/10644396/dd711fb2b57e/pt3c00159_0003.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="sec2.3" disp-level="2"><title>Specificity and Binding Affinity of 5D3-αCD3</title><p>The specificity of 5D3-αCD3 toward the respective target antigens
+was determined by flow cytometry. For the PSMA-targeting arm, PSMA-positive
+LNCaP, HEK 293T/PSMA, and PC-3 PIP cells together with PSMA-negative
+controls (DU145, HEK 293T/17, and PC-3) were used. Similarly, the
+specificity of the αCD3 arm was evaluated using CD3-positive
+Jurkat cells together with CD3-negative HL-60, Raji, and U-937 controls
+(<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>C,D and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsptsci.3c00159/suppl_file/pt3c00159_si_001.pdf" ext-link-type="uri">S2</ext-link>). In line with predicted specificity, markedly
+increased fluorescence intensity was observed only for PSMA- and CD3-positive
+cell lines when compared to matching PSMA- and CD3-negative controls,
+demonstrating highly specific recognition of target antigens on the
+surface of live cells by 5D3-αCD3. These staining patterns were
+virtually identical when isolated αCD3-scFv and 5D3-scFv fragments
+were used in an identical experimental setup (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>E and ref (<xref rid="ref39" ref-type="bibr">39</xref>)).</p><p>Furthermore, the specificity of the
+BiTE against subsets of human immune cells from the peripheral blood
+mononuclear cells (PBMCs) pool was also determined by flow cytometry
+using double staining by 500 nM BiTE in combination with antibodies
+targeting CD3, CD14, CD19, and CD56 surface antigens as specific markers
+of T-cells, monocytes, B-cells, and NK-cells, respectively. As only
+the CD3-positive population, corresponding to T-cells, revealed binding
+of 5D3-αCD3 (as revealed by double-staining positivity in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsptsci.3c00159/suppl_file/pt3c00159_si_001.pdf" ext-link-type="uri">Figure S3</ext-link>), these findings show that the BiTE
+binding is limited to T-cells exclusively.</p><p>In the next step,
+we determined the affinity of individual arms
+of the 5D3-αCD3 BiTE using LNCaP and Jurkat cell lines. Here,
+3-fold dilution series of the BiTE ranging from 9 μM to 2 pM
+were incubated with target cells, and cell surface binding was visualized
+by subsequent incubation with the mixture of the anti-Strep tag antibody
+and a fluorescently labeled secondary antibody using flow cytometry.
+Experimental data were fitted using a non-linear regression algorithm,
+and apparent dissociation constants (<italic>K</italic><sub>D</sub>) were calculated to be 3.1 and 24.6 nM for the 5D3 and αCD3
+arms, respectively (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>F,G). For comparison, <italic>K</italic><sub>D</sub> values
+of isolated 5D3-scFv and αCD3-scFv fragments were determined
+to be 1.5 and 61.5 nM, respectively (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>G and ref (<xref rid="ref39" ref-type="bibr">39</xref>)).</p></sec><sec id="sec2.4" disp-level="2"><title>T-Cell Activation by 5D3-αCD3</title><p>To evaluate whether
+the 5D3-αCD3 BiTE can specifically activate T-cells in the presence
+of target PSMA-positive cancer cells, isolated human PBMCs were co-cultured
+with LNCaP cells (or DU145 controls) at the optimized effector-to-target
+ratio (E:T) of 3:1<sup><xref rid="ref42" ref-type="bibr">42</xref></sup> in the medium supplemented
+with 0.2 nM and 5 nM BiTE. Following 48-h incubation, the activation
+of the CD3-positive T-cell population in co-cultures was analyzed
+by flow cytometry using combinations of antibodies against CD25 and
+CD69, which represent early and late T-cell surface activation markers,
+respectively (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). In PBMC/LNCaP co-cultures in the presence of the 5D3-αCD3
+BiTE, the surface expression of both activation markers was increased
+significantly, reaching 68.2% and 36.1% of CD25/CD69 double-positive
+CD3+ T-cells for 5D3-αCD3 BiTE concentrations of 5 and 0.2 nM,
+respectively (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A). On the other hand, no significant T-cell activation was observed
+in the absence of the BiTE or in PBMC/DU145 co-cultures. These data
+clearly show that 5D3-αCD3 can mediate PSMA-directed T-cell
+activation at sub-nanomolar concentrations <italic>in vitro</italic>. Of note, low levels of activated T-cells were also observed for
+5 nM BiTE concentrations in the absence of PSMA-positive cells.</p><fig id="fig4" position="float"><?disp-level 3?><label>Figure 4</label><caption><p>Activation
+of T-cells mediated by 5D3-αCD3. Human PBMCs (ctrl)
+were co-cultured with LNCaP or DU145 cells in the presence or absence
+of 5 or 0.2 nM 5D3-αCD3, as shown in panel A in green and purple,
+respectively. Expression levels of CD25/CD69 surface activation markers
+were determined by flow cytometry in the CD3-positive cell population.
+(A) Percentage of CD69/CD25 double-positive cells in the CD3+ T-cell
+population originated from isolated PBMCs. Statistical analysis was
+performed by non-parametric Student’s <italic>t</italic> test
+(<italic>P</italic>-value &lt;0.01 (**), &lt;0.001 (***)). (B–G)
+Scatter plots analyzing CD25 (vertical axis) and CD69 (horizontal
+axis) expression levels in isolated PBMCs (B), PBMCs co-cultured with
+LNCaP cells (C), PBMCs co-cultured with DU145 cells (D), PBMCs + 0.2
+nM 5D3-αCD3 (E), PBMC/DU145 co-cultures + 0.2 nM 5D3-αCD3
+(F), and PBMC/LNCaP co-cultures + 0.2 nM 5D3-αCD3 (G). The percentage
+of CD25/CD69 double-positive T-cells is shown inside individual plots.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr4" xlink:href="pt3c00159_0004.jpg"><?cloudpmc-path blobs/0799/10644396/a522a1edb8e2/pt3c00159_0004.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1235?><?original-width 1716?><?scaled-height 494?><?scaled-width 686?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="pt3c00159_0004.gif"><?cloudpmc-path blobs/0799/10644396/a232519c7a2e/pt3c00159_0004.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="sec2.5" disp-level="2"><title>5D3-αCD3-Mediated Cytotoxicity</title><p>PSMA-targeted
+immunotoxicity mediated by 5D3-αCD3 was determined by quantifying
+the metabolic activity of live cells using the MTT cell viability
+assay. We first determined that, in the absence of PBMCs, 5D3-αCD3
+alone does not negatively influence the viability of LNCaP or DU145
+target cells (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsptsci.3c00159/suppl_file/pt3c00159_si_001.pdf" ext-link-type="uri">Figure S4</ext-link>). At the same time,
+in the absence of 5D3-αCD3, the co-incubation of target cells
+and effector PBMCs (at the optimized E:T ratio of 3:1, see below)
+led to a slight decrease in target cell viability, irrespective of
+the presence of PSMA expression at their surface. The latter findings
+suggest weak non-specific activation of isolated PBMCs under our experimental
+conditions.</p><p>To optimize assay conditions, we then tested several
+E:T ratios, and our data revealed that the 3-fold excess of effectors
+has sufficient potential for significant killing of the target cells
+in comparison to the control groups (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsptsci.3c00159/suppl_file/pt3c00159_si_001.pdf" ext-link-type="uri">Figure S5</ext-link>). Next, PBMCs were co-cultured with target cells at the E:T ratio
+of 3:1 in the presence of a dilution series of the BiTE, and the cell
+viability was quantified using the MTT assay following 48-h incubation
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>). When LNCaP
+cells were co-cultured with PBMCs in the presence of 5D3-αCD3,
+we observed a marked decrease in cell viability in a concentration-dependent
+manner (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A).
+The specific killing of PSMA-positive cells was detected already at
+a BiTE concentration as low as 8 pM, manifested by a 12% decrease
+in cell viability. Killing efficacy was even more pronounced at higher
+5D3-αCD3 concentrations, reaching a 46% decrease in cell viability
+in the presence of 5 nM BiTE. On the other hand, the viability of
+the PSMA-negative DU145 cells co-cultured with PBMCs under identical
+conditions was not diminished to a significant degree at any 5D3-αCD3
+concentration tested (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A). Additionally, the specificity and efficacy of the fusion
+BiTE were verified by testing individual isolated scFvs, as neither
+5D3-scFv nor αCD3-scFv significantly affected cell viability
+under any conditions tested (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B,C). Overall, these results confirmed that 5D3-αCD3
+is highly specific and efficient in mediating killing of PSMA-positive
+targets via cytotoxic action of activated T lymphocytes.</p><fig id="fig5" position="float"><?disp-level 3?><label>Figure 5</label><caption><p>5D3-αCD3-mediated
+cytotoxicity. PBMCs were co-cultured with
+DU145 (orange) and LNCaP (green) cell lines in the presence of dilution
+series of 5D3-αCD3 (A), 5D3-scFv (B), and αCD3-scFv (C).
+Cell viability was determined by the MTT assay following 48-h incubation.
+Statistical analysis was performed by non-parametric Student’s <italic>t</italic> test (ns = non-significant, <italic>P</italic>-values
+&lt;0.001 (***) and &lt;0.0001 (****)).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr5" xlink:href="pt3c00159_0005.jpg"><?cloudpmc-path blobs/0799/10644396/6827b6111664/pt3c00159_0005.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 666?><?original-width 1833?><?scaled-height 266?><?scaled-width 733?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="pt3c00159_0005.gif"><?cloudpmc-path blobs/0799/10644396/0b3e1792f016/pt3c00159_0005.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec></sec><sec id="sec3" disp-level="1"><title>Discussion</title><p>Immunotherapy has made remarkable progress
+as a therapeutic strategy
+targeting PSMA-positive PCa, primarily focused on T-cell-directed
+cytotoxicity.<sup><xref rid="ref19" ref-type="bibr">19</xref>,<xref rid="ref36" ref-type="bibr">36</xref>,<xref rid="ref43" ref-type="bibr">43</xref>−<xref rid="ref48" ref-type="bibr">48</xref></sup> Despite these advancements, immunotherapy of PCa is still in early
+developmental stages, mostly due to the significant challenges posed
+by the heterogeneity of the tumor microenvironment. Consequently,
+intensive development of new immunotherapy treatments and tools is
+still warranted.</p><p>We have successfully produced PSMA-specific
+BiTEs using a heterologous
+S2 insect cell expression system.<sup><xref rid="ref39" ref-type="bibr">39</xref>,<xref rid="ref49" ref-type="bibr">49</xref>,<xref rid="ref50" ref-type="bibr">50</xref></sup> The decision to use BiTEs as mediators of T-cell
+cytotoxicity was rationalized based on several advantageous features
+of BiTEs over CAR T-cells. While both strategies share similar mechanisms
+of action, BiTE technology is simpler compared to the production of
+CAR T-cells, and undesired effects are also not so prominent. The
+efficacy of BiTEs treatment is exclusively influenced by the spectrum
+of T-cells present in host tissues at the time of BiTE administration.
+In contrast, the efficiency of CAR T-cell technology depends strongly
+on the composition and sufficient numbers of circulating host T-cells
+available for CAR engineering during leukapheresis. Moreover,
+the efficiency of CAR T-cell therapy could be compromised by various
+disease-related factors that might manifest after CAR T-cell infusion.
+Notably, CAR T-cells have shown remarkable expansion in hematologic
+cancers but reveal very low efficacy against solid cancers. In contrast,
+BiTE technology, which does not rely on expansion of imported T-cells,
+offers superior potential for treatment of solid tumors such as PCa.<sup><xref rid="ref21" ref-type="bibr">21</xref>,<xref rid="ref51" ref-type="bibr">51</xref></sup></p><p>It shall be noted that several PSMA-targeting BiTEs, including
+AMG-212, AMG-160, MOR-209, CC-1, and JNJ-081, have been tested in
+preclinical settings and/or entered clinical trials.<sup><xref rid="ref52" ref-type="bibr">52</xref>−<xref rid="ref55" ref-type="bibr">55</xref></sup> While these drugs showed positive effects in targeting PCa, (pre)clinical
+data also highlighted challenges and adverse effects that need to
+be addressed and mitigated to develop safe and efficacious immunotherapeutics
+against PCa. For example, the short half-life of BiTE constructs limits
+their overall therapeutic efficacy, requiring engineering of constructs
+with prolonged serum half-lives and increased stability that could
+be achieved, e.g., by incorporating an albumin-binding domain, Fc
+antibody fragments, or pasylation sequences.<sup><xref rid="ref56" ref-type="bibr">56</xref>−<xref rid="ref61" ref-type="bibr">61</xref></sup> Administration of BiTEs is also often accompanied by the development
+of anti-drug antibody (ADA) responses, leading to lower efficacy and
+unacceptable systemic toxicity. In such cases, antibody humanization,
+different routes of administration, or combination therapies, e.g.,
+with prophylactic dexamethasone, might be used to mitigate ADA responses.<sup><xref rid="ref52" ref-type="bibr">52</xref>,<xref rid="ref62" ref-type="bibr">62</xref></sup> Cytokine release syndrome is yet another “typical”
+adverse effect associated with (not only) anti-PSMA BiTE administration
+that must be closely monitored during clinical trials.<sup><xref rid="ref54" ref-type="bibr">54</xref>,<xref rid="ref63" ref-type="bibr">63</xref>−<xref rid="ref65" ref-type="bibr">65</xref></sup></p><p>PSMA-specific 5D3-αCD3 demonstrates highly
+specific binding
+to its respective antigens, as no binding was observed for either
+PSMA-negative cell lines (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsptsci.3c00159/suppl_file/pt3c00159_si_001.pdf" ext-link-type="uri">S2</ext-link>) or CD3-negative
+immune cells, including B-cell, monocyte, and NK-cell populations
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsptsci.3c00159/suppl_file/pt3c00159_si_001.pdf" ext-link-type="uri">Figure S3</ext-link>). It shall be noted, however,
+that our BiTE (and CD3-targeting BiTEs in general) will, in principle,
+activate both CD8<sup>+</sup> cytotoxic and CD4<sup>+</sup> helper
+T-cell populations and the “off-target” activation of
+CD4<sup>+</sup> cells can be manifested differently <italic>in vitro</italic> and <italic>in vivo</italic>. As for <italic>in vitro</italic> settings,
+activation of CD4<sup>+</sup> cells can lead to more pronounced cytotoxic
+effects, as these cells are capable of eliminating cancer cells through
+the granzyme perforin pathway.<sup><xref rid="ref31" ref-type="bibr">31</xref>,<xref rid="ref66" ref-type="bibr">66</xref>−<xref rid="ref68" ref-type="bibr">68</xref></sup> On the other hand, activation of CD4<sup>+</sup> T-cells, including
+regulatory T-cells (T-regs), <italic>in vivo</italic> might be associated
+with suppression of immune responses and lower BiTE efficacy. In fact,
+poor prognosis and low survival rates have been reported for PCa patients
+with higher T-regs counts.<sup><xref rid="ref69" ref-type="bibr">69</xref></sup> Consequently,
+combination therapies including Treg depletion along with the BiTE
+treatment might be preferred for better personalized treatment.<sup><xref rid="ref70" ref-type="bibr">70</xref></sup> Overall, the above examples highlight challenges
+encountered in immunotherapy of solid tumors and accent the
+need for the development of novel molecules for the treatment of PCa.</p><p>While the 5D3 arm of the BiTE has affinity for PSMA comparable
+to that of the original 5D3-scFv,<sup><xref rid="ref39" ref-type="bibr">39</xref></sup> the
+αCD3-scFv arm surprisingly exhibits a significantly lower apparent <italic>K</italic><sub>d</sub> (24.6 nM) than that determined for the clinically
+approved BiTE Blinatumomab (260 nM).<sup><xref rid="ref71" ref-type="bibr">71</xref>,<xref rid="ref72" ref-type="bibr">72</xref></sup> The difference
+can point toward more efficient folding and function of the αCD3
+arm when present in combination with the 5D3 part.</p><p>It is interesting
+to note that, while <italic>K</italic><sub>D</sub> values for individual
+arms of the 5D3-αCD3 BiTE are in the
+low nanomolar range, biological effects are observed at sub-nanomolar
+concentrations. This phenomenon has already been observed for other
+bispecific molecules, including MOR209/ES414 that had <italic>K</italic><sub>D</sub> = 4 and 2 nM for the anti-PSMA and anti-CD3
+arms, respectively.<sup><xref rid="ref53" ref-type="bibr">53</xref></sup> Another BiTE, Blinatumomab,
+revealed <italic>K</italic><sub>D</sub> = 1.49 and 260 nM for the
+anti-CD19 and anti-CD3 arms, respectively.<sup><xref rid="ref72" ref-type="bibr">72</xref></sup> In contrast to <italic>K</italic><sub>D</sub> values running in
+the nanomolar range, both drugs were reported to show significant
+killing efficiency already in the pico- to femtomolar concentration
+range. Moreover, in Blinatumomab application, the absence of cell
+clustering and the presence of cytolytic synapses were well documented,
+together with the ability of activated T-cells to kill the target
+cells in a serial manner.<sup><xref rid="ref71" ref-type="bibr">71</xref></sup></p><p>Pronounced
+cytotoxic effects of 5D3-αCD3 were observed even
+at the E:T ratio of 3:1 after 48-h co-cultivation. Interestingly,
+the killing efficiency of the BiTE at higher E:T ratios did not increase
+significantly, proving that an increased number of T-cells, while
+effective, is not a prerequisite. The data suggest that the limiting
+factor of the 5D3-αCD3 killing efficiency is the pool of BiTE
+molecules bound to target cells and not the number of T-cells available.
+We can thus hypothesize that the BiTE would be efficient also in
+patients harboring compromised numbers of functional T-cells. Interestingly,
+other studies show comparable killing efficiency with E:T ratios varying
+from 5:1 to 10:1.<sup><xref rid="ref36" ref-type="bibr">36</xref>,<xref rid="ref47" ref-type="bibr">47</xref>,<xref rid="ref57" ref-type="bibr">57</xref>,<xref rid="ref73" ref-type="bibr">73</xref></sup> The 5D3-αCD3 molecule exhibited excellent
+efficacy in killing target cells, achieving 46% cell killing at 5
+nM concentration (0.3 μg/mL) and E:T ratio of 3:1 after 48-h
+incubation. In comparison, one of the leading molecules, BiJ591 (BiTE
+constructed from the anti-PSMA J591 antibody), at a concentration
+5 μg/mL, demonstrated 20% target cell killing efficiency with
+the same E:T ratio following 5-h incubation.<sup><xref rid="ref74" ref-type="bibr">74</xref></sup> Moreover, BiJ591 reached 50% killing efficiency only with an E:T
+ratio of 12:1. These results suggest that the performance of our BiTE
+in comparison to BiJ591 might be superior due to its low nanomolar
+affinity for PSMA, emphasizing its enhanced ability to effectively
+eliminate target cells.</p><p>Our results clearly document the high
+specificity of 5D3-αCD3.
+The BiTE activates T-cells only when associated with PSMA-positive
+targets, mitigating undesired off-target effects. The reported BiTE
+can benefit from the much higher affinity of the 5D3 arm toward PSMA
+(as compared, for example, with the J591 antibody<sup><xref rid="ref37" ref-type="bibr">37</xref></sup>), and its strict specificity can contribute to the enhanced
+safety profile and ensure effective cancer cell eradication as a result
+of direct contacts between the target and effector T-cells.<sup><xref rid="ref75" ref-type="bibr">75</xref></sup> At the same time, it is clear that further optimization/engineering,
+such as 5D3 humanization, might be needed to improve the translatability
+of the reported 5D3 into the clinic, and only clinical trials could
+address its real-life scenario therapeutic potential.</p></sec><sec id="sec4" disp-level="1"><title>Conclusion</title><p>We have developed a novel 5D3-based BiTE
+that can mediate specific
+interactions between PSMA-positive prostate cancer cells and cytotoxic
+T-cells. Both functional parts of the BiTE have low-nanomolar affinity
+and high selectivity toward respective antigens. Additionally, sub-nanomolar
+concentrations of 5D3-αCD3 were highly efficient in killing
+PSMA-positive cells in picomolar concentrations <italic>in vitro</italic>. Given the encouraging <italic>in vitro</italic> performance, ensuing
+investigations including <italic>in vivo</italic> testing are warranted
+to evaluate the biomedical potential of the 5D3-αCD3 BiTE in
+more detail. Moreover, the molecule could be potentially involved
+in the studies of other solid tumors expressing the PSMA antigen.</p></sec><sec id="sec5" disp-level="1"><title>Methods</title><sec id="sec5.1" disp-level="2"><title>Chemicals and Reagents</title><p>All chemicals and reagents
+were purchased from Sigma (Steinheim, Germany) unless specified otherwise.
+Restriction enzymes and ligase were purchased from New England Biolabs
+(Ipswich, MA, USA).</p></sec><sec id="sec5.2" disp-level="2"><title>Cells</title><p>LNCaP cells were kindly provided by Z. Hodny
+(IMG, Prague, Czech Republic), whereas PC-3 and PC-3 PIP cells were
+kindly provided by Dr. Warren Heston (Cleveland Clinic, Cleveland,
+OH, USA). DU145, HL-60, Raji, U-937, and Jurkat cell lines were obtained
+from the American Type Culture Collection (ATCC, USA). The HEK 293T/17
+cell line overexpressing PSMA (HEK 293T/PSMA) was established in-house
+previously.<sup><xref rid="ref76" ref-type="bibr">76</xref></sup> HEK 293T/17 cells were cultivated
+in high-glucose DMEM media, whereas other cell lines and PBMCs were
+cultivated in RPMI-1640 media under a 5% CO<sub>2</sub> atmosphere
+at 37 °C. Both media were supplemented with 10% fetal bovine
+serum (FBS) and 2 mM <sc>l</sc>-glutamine (Life Technologies, Thermo
+Fisher Scientific, Carlsbad, CA, USA). Penicillin 50 U/mL and streptomycin
+50 μg/mL were used during PBMCs’ cultivation. Insect
+Schneider’s S2 cells (Invitrogen, Thermo Fisher Scientific,
+Carlsbad, CA, USA) were maintained at 26 °C in Insect-XPRESS
+media (Lonza, Basel, Switzerland) supplemented with 2 mM <sc>l</sc>-glutamine.</p></sec><sec id="sec5.3" disp-level="2"><title>Isolation of Peripheral Blood Mononuclear Cells</title><p>Buffy
+coats derived from the full blood of human donors were kindly provided
+by Dr. Petr Turek (Department of Transfusion Medicine and Blood Bank,
+Thomayer University Hospital, Prague, Czech Republic). The buffy coats
+were diluted in phosphate-buffered saline (PBS) at a 1:1 ratio, mixture
+was split to 35 mL aliquots and layered onto 15 mL aliquots of Ficoll
+Histopaque. Cells were centrifuged at 400<italic>g</italic> for 30
+min with brakes switched off, and PBMCs were isolated as described
+previously.<sup><xref rid="ref77" ref-type="bibr">77</xref></sup> Cells were cryopreserved
+at a concentration of 6 × 10<sup>6</sup> cells/mL in freezing
+media containing 20% dimethyl sulfoxide (DMSO) and 80% FBS and stored
+in liquid nitrogen. To pass the resting phase of PBMCs before experiment,
+cells were thawed and cultivated at a concentration of 2 × 10<sup>6</sup> cells/mL in the cultivation medium (RPMI-1640, 10% FBS, 2
+mM <sc>l</sc>-glutamine, 50 U/mL penicillin, and 50 μg/mL streptomycin)
+supplemented with 10 U/mL interleukin 2 overnight.<sup><xref rid="ref78" ref-type="bibr">78</xref></sup> The next day, PBMCs were washed in the cultivation medium
+and used in further experiments.</p></sec><sec id="sec5.4" disp-level="2"><title>Construction of Expression Vectors</title><p>To construct expression
+vectors of 5D3 BiTE variants, the 5D3-scFv gene (heavy-to-light chain
+orientation) was excised from the scFv HL plasmid as described by
+Novakova et al.<sup><xref rid="ref39" ref-type="bibr">39</xref></sup> and ligated into the
+pMT/BiP vector backbone using Blunt/TA Ligase Master Mix. The αCD3-scFv
+gene (heavy-to-light chain orientation) was commercially synthesized
+based on the αCD3-scFv amino acid sequence<sup><xref rid="ref40" ref-type="bibr">40</xref>,<xref rid="ref41" ref-type="bibr">41</xref></sup> and amplified by PCR using gene-specific primers (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsptsci.3c00159/suppl_file/pt3c00159_si_001.pdf" ext-link-type="uri">Table S1</ext-link>). Amplified DNA was ligated into pMT/BiP/5D3-scFv
+vectors to prepare the desired pMT/BiP/5D3-αCD3 and
+pMT/BiP/αCD3-5D3 expression vectors, respectively. In
+parallel, an isolated αCD3-scFv fragment was cloned into the
+pMT/BiP vector. The final plasmid sequence was confirmed by using
+Sanger sequencing (GATC Biotech, Ebersberg, Germany).</p></sec><sec id="sec5.5" disp-level="2"><title>Stably Transfected S2 Cells</title><p>The expression plasmids
+were transfected in Drosophila Schneider’s S2 cells using Effectene
+transfection reagent (Qiagen, Hilden, Germany), along with the selection
+plasmid pCoBLAST (Invitrogen), as described previously.<sup><xref rid="ref39" ref-type="bibr">39</xref></sup> Transfected cultures were grown in the presence
+of 40 μg/mL blasticidine (InvivoGen, San Diego, CA, USA) for
+approximately 3 weeks until stable transfectants were selected.</p></sec><sec id="sec5.6" disp-level="2"><title>Expression and Purification of 5D3 BiTEs</title><p>Stably transfected
+S2 cells were expanded, and the expression of recombinant proteins
+was induced with 0.7 mM CuSO<sub>4</sub>. After 7 days of cultivation,
+the conditioned medium was harvested as described previously<sup><xref rid="ref39" ref-type="bibr">39</xref></sup> and concentrated approximately 20-fold using
+a 10 kDa ultrafiltration membrane fitted into a tangential flow filtration
+apparatus (Sartorius, Göttingen, Germany). 5D3 BiTEs were purified
+via Strep-Tactin XT affinity chromatography (IBA Lifesciences, Göttingen,
+Germany) with equilibration buffer comprising 50 mM Tris-HCl, 150
+mM NaCl, and 10% glycerol, pH 8.0. Proteins were eluted by 5 mM <sc>d</sc>-biotin (VWR, Radnor, PA, USA) in the equilibration buffer
+and then further purified by SEC using a Superdex 200, 16/600 column
+(GE Healthcare Biosciences, Uppsala, Sweden) and an Enrich 650, 10/300
+column (Bio-Rad Laboratories, Hercules, CA, USA) for the 5D3-αCD3
+and αCD3-5D3 variants, respectively. PBS supplemented with 3%
+glycerol was used as a mobile phase in SEC runs operated by the NGC
+chromatography system (Bio-Rad Laboratories, Hercules, CA, USA). SEC
+fractions containing purified monodisperse fusion proteins were pooled,
+concentrated, and flash-frozen in liquid nitrogen for long-term storage
+at −80 °C. Analytical SEC of purified proteins (load equal
+to 7 μg) was performed using an Agilent Bio SEC-3, 100A column
+connected to an Agilent 1290 Infinity II liquid chromatography system
+(Santa Clara, CA, USA) that was equipped with an HPLC G7121B 1260
+FLD detector (Agilent).</p></sec><sec id="sec5.7" disp-level="2"><title>Differential Scanning Fluorimetry (nanoDSF)—Thermal Stability</title><p>Purified constructs diluted in PBS to 0.3–0.5 mg/mL were
+loaded into glass capillaries, and protein unfolding was monitored
+using a Prometheus NT.48 fluorimeter (NanoTemper Technologies, München,
+Germany) with a temperature gradient from 25 to 95 °C at a rate
+set to 1 °C/min. <italic>T</italic><sub>m</sub> values of individual
+constructs were calculated from the ratio of fluorescence signals
+at 350 and 330 nm.</p></sec><sec id="sec5.8" disp-level="2"><title>Flow Cytometry</title><p>Cell harvesting, antibody staining,
+and signal detection were carried out according to Novakova et al.<sup><xref rid="ref39" ref-type="bibr">39</xref></sup> with minor modifications. Briefly, LNCaP, DU145,
+HEK 293T/17, HEK-293T/PSMA, PC-3, and PC-3 PIP cells were harvested
+by 0.025% Trypsin/0.01% EDTA/PBS, whereas Jurkat, HL-60, U-937, and
+Raji cells were harvested without trypsinization. Cells were mixed
+with BiTE in a total volume of 20 μL and incubated at 4 °C
+for 30 min. In experiments determining the affinity of BiTE, a 3-fold
+dilution series of 5D3-αCD3 (17 concentration points, final
+concentration range from 9 μM to 0.2 pM) was applied on cells.
+The cell-bound BiTE was detected by subsequent incubation with the
+mixture of anti-Strep tag mouse monoclonal antibody (1 μg/mL,
+Immo, IBA) and goat anti-mouse secondary antibody conjugated to Alexa
+Fluor 647 (4 μg/mL; Thermo Fisher Scientific). In the case of
+double staining of PBMCs, the cells were incubated with 500 nM BiTE.
+Following wash, individual samples were incubated with strepMAB-Immo
+DY-649 conjugate (f.c. 0.5 μg/mL; IBA) in combination with either
+anti-human CD14 mouse monoclonal antibody conjugated to PE Cyanine7
+(dilution 1:100; BioLegend, San Diego, CA, USA), anti-human CD19 mouse
+monoclonal antibody conjugated to BV605 (dilution 1:100; BD Biosciences,
+San Jose, CA, USA), anti-human CD56 monoclonal antibody conjugated
+to APC/Cyanine7 (dilution 1:100; BioLegend), or anti-human CD3 monoclonal
+antibody (OKT3) conjugated to PerCP-Cyanine5.5 (f.c. 0.5 μg/mL;
+Invitrogen). The cells were washed 3–5 times after each incubation
+step. All dilution and washing steps were performed at 4 °C in
+PBS supplemented with 0.5% gelatin from coldwater fish skin. Cell
+viability was determined by Hoechst 33258 staining (final concentration
+of 0.1 μg/mL). The fluorescence intensity was measured using
+a BD LSRFortessa flow cytometer (BD Biosciences) and analyzed using
+FlowJo software (FlowJo, LLC, Ashland, OR, USA). <italic>K</italic><sub>D</sub> values of BiTE were calculated from the mode of fluorescence
+intensity in the GraphPad Prism software using a non-linear regression
+algorithm (GraphPad, San Diego CA, USA).</p></sec><sec id="sec5.9" disp-level="2"><title>Determination of T-Cell Activation</title><p>LNCaP or DU145 cells
+were mixed with PBMCs at an E:T ratio of 3:1, and then 5D3 BiTE at
+the desired concentration was added to the cell suspension to a total
+volume of 100 μL. Cell mixtures were further cultivated for
+48 h. Post incubation, cells were harvested by centrifugation at 200<italic>g</italic> for 3 min and washed thoroughly three times with PBS/0.5%
+gelatin. Subsequently, anti-CD3 antibody (OKT3) conjugated to PerCP-Cyanine5.5,
+anti-human CD25 monoclonal antibody conjugated to PE (f.c. 2.5 μg/mL;
+BioLegend), and CyFlow anti-human CD69 mouse monoclonal antibody conjugated
+to APC (dilution 1:10; Sysmex, Kobe, Japan) were added to the cell
+suspension. Following 45-min incubation at 4 °C, cells were thoroughly
+washed, and Hoechst 33258 was added just before data acquisition using
+the BD LSRFortessa flow cytometer. Data processing was done using
+the FlowJo software, and results were visualized in the GraphPad Prism
+software.</p></sec><sec id="sec5.10" disp-level="2"><title>MTT Cytotoxicity Assay</title><p>Target cells at 0.5 × 10<sup>4</sup>/mL (total volume of 40 μL) were seeded in a 96-well
+flat-bottom plate and allowed to adhere to the plastic overnight.
+The next day, 50 μL of PBMCs was added (final E:T ratio of 3:1),
+followed by the addition of a 5-fold dilution series of 5D3-αCD3
+(final concentration range from 0.3 pM to 5 nM) to a final volume
+of 100 μL. 5D3-scFv and αCD3-scFv were used as negative
+controls. The experiment was performed in phenol red-free cultivation
+media. After 48-h cultivation, 10 μL of the MTT reagent (3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyltetrazolium
+bromide) was added to the cells at a final concentration of 0.45 mg/mL,
+and cells were further incubated at 37 °C for 90 min. Violet
+formazan crystals were then dissolved by the addition of 100 μL
+of the MTT solubilization buffer (14% sodium dodecyl sulfate, 40%
+dimethylformamide, and 2% acetic acid (Lachner, Neratovice,
+Czech Republic), pH 4.7) and incubated at room temperature for 3 h
+on a shaker set to 600 rpm. Absorbance at 570 nm was quantified using
+a Clariostar microplate reader (BMG Labtech, Ortenberg, Germany),
+and data were processed in the GraphPad Prism software.</p></sec></sec><sec id="ack1" sec-type="ack" disp-level="1"><title>Acknowledgments</title><p>We thank
+I. Jelinkova for outstanding technical assistance
+and J. Balounova for help with experimental design. This work was
+supported by the Czech Academy of Sciences (RVO: 86652036) and grants
+from the Grant Agency of Charles University (GA UK Project No. 358321),
+the Ministry of Education, Youth and Sports (LUAUS23254), and the
+project National Institute for Cancer Research (Programme EXCELES,
+ID Project No. LX22NPO5102). We acknowledge Imaging Methods Core Facility
+at BIOCEV, institution supported by the MEYS CR (LM2023050 Czech-BioImaging),
+and BIOCEV Biophysical Techniques CF of CIISB, Instruct-CZ Centre,
+supported by MEYS CR (LM2023042).</p></sec><sec id="dl1" sec-type="glossary" disp-level="1"><title>Glossary</title><def-list><title>Abbreviations</title><def-item><term>ADA</term><def><p>anti-drug
+antibody</p></def></def-item><def-item><term>BiTE</term><def><p>bispecific
+T-cell engager</p></def></def-item><def-item><term>CAR</term><def><p>chimeric antigen
+receptor</p></def></def-item><def-item><term>DSF</term><def><p>differential
+scanning fluorimetry</p></def></def-item><def-item><term>E:T</term><def><p>effector-to-target ratio</p></def></def-item><def-item><term>FBS</term><def><p>fetal bovine serum</p></def></def-item><def-item><term><italic>K</italic><sub>D</sub></term><def><p>dissociation constant</p></def></def-item><def-item><term>mCRPC</term><def><p>metastatic castration-resistant
+prostate cancer</p></def></def-item><def-item><term>MHC</term><def><p>major histocompatibility complex</p></def></def-item><def-item><term>PBMC</term><def><p>peripheral blood mononuclear cell</p></def></def-item><def-item><term>PCa</term><def><p>prostate cancer</p></def></def-item><def-item><term>PSA</term><def><p>prostate-specific antigen</p></def></def-item><def-item><term>PSMA</term><def><p>prostate-specific
+membrane antigen</p></def></def-item><def-item><term>scFv</term><def><p>single-chain variable fragment</p></def></def-item><def-item><term>SEC</term><def><p>size exclusion chromatography</p></def></def-item><def-item><term><italic>T</italic><sub>m</sub></term><def><p>melting
+temperature</p></def></def-item></def-list></sec><sec id="notes-1" disp-level="1"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/10.1021/acsptsci.3c00159?goto=supporting-info" ext-link-type="uri">https://pubs.acs.org/doi/10.1021/acsptsci.3c00159</ext-link>.</p><list list-type="simple" id="silist"><list-item><p>Additional information about cloning primers (Table
+S1), size exclusion chromatography profiles (Figure S1), specificity
+of 5D3-αCD3 determined by flow cytometry (Figure S2 and S3),
+effect of 5D3-αCD3 on cell viability (Figure S4), and optimization
+of killing assay (Figure S5) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsptsci.3c00159/suppl_file/pt3c00159_si_001.pdf" ext-link-type="uri">PDF</ext-link>)</p></list-item></list></sec><sec id="notes-2" disp-level="1"><title>Author Contributions</title><p>Z.N. and
+C.B. conceived the study. G.D., J.P., B.H., and J.N. performed experiments
+and ran data analysis. G.D., Z.N., and C.B. interpreted and presented
+the data. G.D., Z.N., and C.B. prepared the original draft and revised
+manuscript version. All authors critically read and approved the manuscript.</p></sec><sec id="notes-3" disp-level="1"><p>The
+authors
+declare no competing financial interest.</p></sec><sec id="sec20" disp-level="1"><title>Supplementary Material</title><supplementary-material id="sifile1" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pt3c00159_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 0799/10644396/82795a031ca6/pt3c00159_si_001.pdf?><?cloudpmc-bucket app?><?size 586989?><caption><p>pt3c00159_si_001.pdf</p></caption></media></supplementary-material></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="ref1"><mixed-citation id="cit1"><named-content content-type="citation-string">Siegel R. L.; Miller K. D.; Wagle N. S.; Jemal A.
+Cancer statistics,
+2023. CA Cancer J. Clin.
+2023, 73, 17–48. 10.3322/caac.21763.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3322/caac.21763"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36633525"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=CA Cancer J. Clin.&amp;title=Cancer statistics, 2023&amp;author=R. L. Siegel&amp;author=K. D. Miller&amp;author=N. S. Wagle&amp;author=A. Jemal&amp;volume=73&amp;publication_year=2023&amp;pages=17-48&amp;pmid=36633525&amp;doi=10.3322/caac.21763&amp;"/></mixed-citation></ref><ref id="ref2"><mixed-citation id="cit2"><named-content content-type="citation-string">Sacha P.; Zamecnik J.; Barinka C.; Hlouchova K.; Vicha A.; Mlcochova P.; Hilgert I.; Eckschlager T.; Konvalinka J.
+Expression
+of glutamate carboxypeptidase II in human
+brain. Neuroscience
+2007, 144, 1361–1372. 10.1016/j.neuroscience.2006.10.022.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.neuroscience.2006.10.022"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17150306"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Neuroscience&amp;title=Expression of glutamate carboxypeptidase II in human brain&amp;author=P. Sacha&amp;author=J. Zamecnik&amp;author=C. Barinka&amp;author=K. Hlouchova&amp;author=A. Vicha&amp;volume=144&amp;publication_year=2007&amp;pages=1361-1372&amp;pmid=17150306&amp;doi=10.1016/j.neuroscience.2006.10.022&amp;"/></mixed-citation></ref><ref id="ref3"><mixed-citation id="cit3"><named-content content-type="citation-string">Sokoloff R. L.; Norton K. C.; Gasior C. L.; Marker K. M.; Grauer L. S.
+A dual-monoclonal
+sandwich assay for prostate-specific membrane antigen: Levels in tissues,
+seminal fluid and urine. Prostate
+2000, 43, 150–157. 10.1002/(SICI)1097-0045(20000501)43:2&lt;150::AID-PROS10&gt;3.0.CO;2-B.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/(SICI)1097-0045(20000501)43:2&lt;150::AID-PROS10&gt;3.0.CO;2-B"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10754531"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Prostate&amp;title=A dual-monoclonal sandwich assay for prostate-specific membrane antigen: Levels in tissues, seminal fluid and urine&amp;author=R. L. Sokoloff&amp;author=K. C. Norton&amp;author=C. L. Gasior&amp;author=K. M. Marker&amp;author=L. S. Grauer&amp;volume=43&amp;publication_year=2000&amp;pages=150-157&amp;pmid=10754531&amp;doi=10.1002/(SICI)1097-0045(20000501)43:2&lt;150::AID-PROS10&gt;3.0.CO;2-B&amp;"/></mixed-citation></ref><ref id="ref4"><mixed-citation id="cit4"><named-content content-type="citation-string">Kinoshita Y.; Kuratsukuri K.; Landas S.; Imaida K.; Rovito P. M. Jr.; Wang C. Y.; Haas G. P.
+Expression of prostate-specific
+membrane antigen in normal and malignant human tissues. World J. Surg.
+2006, 30, 628–636. 10.1007/s00268-005-0544-5.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00268-005-0544-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16555021"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=World J. Surg.&amp;title=Expression of prostate-specific membrane antigen in normal and malignant human tissues&amp;author=Y. Kinoshita&amp;author=K. Kuratsukuri&amp;author=S. Landas&amp;author=K. Imaida&amp;author=P. M. Rovito&amp;volume=30&amp;publication_year=2006&amp;pages=628-636&amp;pmid=16555021&amp;doi=10.1007/s00268-005-0544-5&amp;"/></mixed-citation></ref><ref id="ref5"><mixed-citation id="cit5"><named-content content-type="citation-string">Lopes A. D.; Davis L. W.; Rosenstraus J. M.; Uveges J. A.; Gilman C. S.
+Immunohistochemical
+and Pharmacokinetic Characterization of the Site-specific Immunoconjugate
+CYT-356 Derived from Antiprostate Monoclonal Antibody 7E11-C5. Cancer Res.
+1990, 50, 6423–6429.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="1698122"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Res.&amp;title=Immunohistochemical and Pharmacokinetic Characterization of the Site-specific Immunoconjugate CYT-356 Derived from Antiprostate Monoclonal Antibody 7E11-C5&amp;author=A. D. Lopes&amp;author=L. W. Davis&amp;author=J. M. Rosenstraus&amp;author=J. A. Uveges&amp;author=C. S. Gilman&amp;volume=50&amp;publication_year=1990&amp;pages=6423-6429&amp;pmid=1698122&amp;"/></mixed-citation></ref><ref id="ref6"><mixed-citation id="cit6"><named-content content-type="citation-string">Silver A. D.; Pellicer I.; Fair R. W.; Heston D. W.; Cordon-Cardo C.
+Prostate-specific
+membrane antigen expression in normal and malignant human tissues. Clin. Cancer Res.
+1997, 3, 81–85.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9815541"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Cancer Res.&amp;title=Prostate-specific membrane antigen expression in normal and malignant human tissues&amp;author=A. D. Silver&amp;author=I. Pellicer&amp;author=R. W. Fair&amp;author=D. W. Heston&amp;author=C. Cordon-Cardo&amp;volume=3&amp;publication_year=1997&amp;pages=81-85&amp;pmid=9815541&amp;"/></mixed-citation></ref><ref id="ref7"><mixed-citation id="cit7"><named-content content-type="citation-string">Bravaccini S.; Puccetti M.; Bocchini M.; Ravaioli S.; Celli M.; Scarpi E.; De Giorgi U.; Tumedei M. M.; Raulli G.; Cardinale L.; Paganelli G.
+PSMA expression: a potential ally
+for the pathologist in prostate cancer diagnosis. Sci. Rep.
+2018, 8, 4254 10.1038/s41598-018-22594-1.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41598-018-22594-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5844862"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29523813"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Rep.&amp;title=PSMA expression: a potential ally for the pathologist in prostate cancer diagnosis&amp;author=S. Bravaccini&amp;author=M. Puccetti&amp;author=M. Bocchini&amp;author=S. Ravaioli&amp;author=M. Celli&amp;volume=8&amp;publication_year=2018&amp;pages=4254&amp;pmid=29523813&amp;doi=10.1038/s41598-018-22594-1&amp;"/></mixed-citation></ref><ref id="ref8"><mixed-citation id="cit8"><named-content content-type="citation-string">Chang S. S.; Reuter E. V.; Heston W. D. W.; Bander H. N.; Grauer S. L.; Gaudin B. P.
+Five Different Anti-Prostate-specific Membrane Antigen
+(PSMA) Antibodies Confirm PSMA Expression in Tumor-associated Neovasculature. Cancer Res.
+1999, 59, 3192–3198.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10397265"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Res.&amp;title=Five Different Anti-Prostate-specific Membrane Antigen (PSMA) Antibodies Confirm PSMA Expression in Tumor-associated Neovasculature&amp;author=S. S. Chang&amp;author=E. V. Reuter&amp;author=W. D. W. Heston&amp;author=H. N. Bander&amp;author=S. L. Grauer&amp;volume=59&amp;publication_year=1999&amp;pages=3192-3198&amp;pmid=10397265&amp;"/></mixed-citation></ref><ref id="ref9"><mixed-citation id="cit9"><named-content content-type="citation-string">Milowsky M. I.; Nanus D. M.; Kostakoglu L.; Sheehan C. E.; Vallabhajosula S.; Goldsmith S. J.; Ross J. S.; Bander N. H.
+Vascular targeted
+therapy with anti-prostate-specific membrane antigen monoclonal antibody
+J591 in advanced solid tumors. J. Clin. Oncol.
+2007, 25, 540–547. 10.1200/JCO.2006.07.8097.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1200/JCO.2006.07.8097"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17290063"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Clin. Oncol.&amp;title=Vascular targeted therapy with anti-prostate-specific membrane antigen monoclonal antibody J591 in advanced solid tumors&amp;author=M. I. Milowsky&amp;author=D. M. Nanus&amp;author=L. Kostakoglu&amp;author=C. E. Sheehan&amp;author=S. Vallabhajosula&amp;volume=25&amp;publication_year=2007&amp;pages=540-547&amp;pmid=17290063&amp;doi=10.1200/JCO.2006.07.8097&amp;"/></mixed-citation></ref><ref id="ref10"><mixed-citation id="cit10"><named-content content-type="citation-string">Wright L. G.; Haley C.; Beckett L. M.; Schellhammer F. P.
+Expression
+of prostate-specific membrane antigen in normal, benign, and malignant
+prostate tissues. Urol. Oncol.
+1995, 1, 18–28. 10.1016/1078-1439(95)00002-Y.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/1078-1439(95)00002-Y"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21224086"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Urol. Oncol.&amp;title=Expression of prostate-specific membrane antigen in normal, benign, and malignant prostate tissues&amp;author=L. G. Wright&amp;author=C. Haley&amp;author=L. M. Beckett&amp;author=F. P. Schellhammer&amp;volume=1&amp;publication_year=1995&amp;pages=18-28&amp;pmid=21224086&amp;doi=10.1016/1078-1439(95)00002-Y&amp;"/></mixed-citation></ref><ref id="ref11"><mixed-citation id="cit11"><named-content content-type="citation-string">Ptacek J.; Zhang D.; Qiu L.; Kruspe S.; Motlova L.; Kolenko P.; Novakova Z.; Shubham S.; Havlinova B.; Baranova P.; Chen S. J.; Zou X.; Giangrande P.; Barinka C.
+Structural basis of prostate-specific
+membrane antigen
+recognition by the A9g RNA aptamer. Nucleic
+Acids Res.
+2020, 48, 11130–11145. 10.1093/nar/gkaa494.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/nar/gkaa494"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7641732"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32525981"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nucleic Acids Res.&amp;title=Structural basis of prostate-specific membrane antigen recognition by the A9g RNA aptamer&amp;author=J. Ptacek&amp;author=D. Zhang&amp;author=L. Qiu&amp;author=S. Kruspe&amp;author=L. Motlova&amp;volume=48&amp;publication_year=2020&amp;pages=11130-11145&amp;pmid=32525981&amp;doi=10.1093/nar/gkaa494&amp;"/></mixed-citation></ref><ref id="ref12"><mixed-citation id="cit12"><named-content content-type="citation-string">Kirkwood J. M.; Butterfield L. H.; Tarhini A. A.; Zarour H.; Kalinski P.; Ferrone S.
+Immunotherapy of cancer in 2012. CA Cancer J. Clin.
+2012, 62, 309–335. 10.3322/caac.20132.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3322/caac.20132"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3445708"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22576456"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=CA Cancer J. Clin.&amp;title=Immunotherapy of cancer in 2012&amp;author=J. M. Kirkwood&amp;author=L. H. Butterfield&amp;author=A. A. Tarhini&amp;author=H. Zarour&amp;author=P. Kalinski&amp;volume=62&amp;publication_year=2012&amp;pages=309-335&amp;pmid=22576456&amp;doi=10.3322/caac.20132&amp;"/></mixed-citation></ref><ref id="ref13"><mixed-citation id="cit13"><named-content content-type="citation-string">Kimiz-Gebologlu I.; Gulce-Iz S.; Biray-Avci C.
+Monoclonal antibodies in cancer immunotherapy. Mol. Biol. Rep.
+2018, 45, 2935–2940. 10.1007/s11033-018-4427-x.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s11033-018-4427-x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30311129"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Biol. Rep.&amp;title=Monoclonal antibodies in cancer immunotherapy&amp;author=I. Kimiz-Gebologlu&amp;author=S. Gulce-Iz&amp;author=C. Biray-Avci&amp;volume=45&amp;publication_year=2018&amp;pages=2935-2940&amp;pmid=30311129&amp;doi=10.1007/s11033-018-4427-x&amp;"/></mixed-citation></ref><ref id="ref14"><mixed-citation id="cit14"><named-content content-type="citation-string">Giraudet A. L.; Kryza D.; Hofman M.; Moreau A.; Fizazi K.; Flechon A.; Hicks R. J.; Tran B.
+PSMA targeting
+in metastatic
+castration-resistant prostate cancer: where are we and where are we
+going?. Ther. Adv. Med. Oncol.
+2021, 13, 175883592110538. 10.1177/17588359211053898.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1177/17588359211053898"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8554551"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34721674"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Ther. Adv. Med. Oncol.&amp;title=PSMA targeting in metastatic castration-resistant prostate cancer: where are we and where are we going?&amp;author=A. L. Giraudet&amp;author=D. Kryza&amp;author=M. Hofman&amp;author=A. Moreau&amp;author=K. Fizazi&amp;volume=13&amp;publication_year=2021&amp;pages=175883592110538&amp;pmid=34721674&amp;doi=10.1177/17588359211053898&amp;"/></mixed-citation></ref><ref id="ref15"><mixed-citation id="cit15"><named-content content-type="citation-string">Barinka C.; Rojas C.; Slusher B.; Pomper M.
+Glutamate Carboxypeptidase
+II in Diagnosis and Treatment of Neurologic Disorders and Prostate
+Cancer. Curr. Med. Chem.
+2012, 19, 856–870. 10.2174/092986712799034888.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2174/092986712799034888"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3341092"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22214450"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Curr. Med. Chem.&amp;title=Glutamate Carboxypeptidase II in Diagnosis and Treatment of Neurologic Disorders and Prostate Cancer&amp;author=C. Barinka&amp;author=C. Rojas&amp;author=B. Slusher&amp;author=M. Pomper&amp;volume=19&amp;publication_year=2012&amp;pages=856-870&amp;pmid=22214450&amp;doi=10.2174/092986712799034888&amp;"/></mixed-citation></ref><ref id="ref16"><mixed-citation id="cit16"><named-content content-type="citation-string">Lucaroni L.; Georgiev T.; Prodi E.; Puglioli S.; Pellegrino C.; Favalli N.; Prati L.; Manz M. G.; Cazzamalli S.; Neri D.; Oehler S.; Bassi G.
+Cross-reactivity to
+glutamate carboxypeptidase III causes undesired salivary gland and
+kidney uptake of PSMA-targeted small-molecule radionuclide therapeutics. Eur. J. Nucl. Med. Mol. Imaging
+2023, 50, 957–961. 10.1007/s00259-022-05982-8.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00259-022-05982-8"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36184692"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur. J. Nucl. Med. Mol. Imaging&amp;title=Cross-reactivity to glutamate carboxypeptidase III causes undesired salivary gland and kidney uptake of PSMA-targeted small-molecule radionuclide therapeutics&amp;author=L. Lucaroni&amp;author=T. Georgiev&amp;author=E. Prodi&amp;author=S. Puglioli&amp;author=C. Pellegrino&amp;volume=50&amp;publication_year=2023&amp;pages=957-961&amp;pmid=36184692&amp;doi=10.1007/s00259-022-05982-8&amp;"/></mixed-citation></ref><ref id="ref17"><mixed-citation id="cit17"><named-content content-type="citation-string">Vallabhajosula S.; Nikolopoulou A.; Jhanwar Y. S.; Kaur G.; Tagawa S. T.; Nanus D. M.; Bander N. H.; Goldsmith S. J.
+Radioimmunotherapy
+of Metastatic Prostate Cancer with 177Lu-DOTAhuJ591 Anti Prostate
+Specific Membrane Antigen Specific Monoclonal Antibody. Curr. Radiopharm.
+2015, 9, 44–53. 10.2174/1874471008666150313114005.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2174/1874471008666150313114005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25771365"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Curr. Radiopharm.&amp;title=Radioimmunotherapy of Metastatic Prostate Cancer with 177Lu-DOTAhuJ591 Anti Prostate Specific Membrane Antigen Specific Monoclonal Antibody&amp;author=S. Vallabhajosula&amp;author=A. Nikolopoulou&amp;author=Y. S. Jhanwar&amp;author=G. Kaur&amp;author=S. T. Tagawa&amp;volume=9&amp;publication_year=2015&amp;pages=44-53&amp;pmid=25771365&amp;doi=10.2174/1874471008666150313114005&amp;"/></mixed-citation></ref><ref id="ref18"><mixed-citation id="cit18"><named-content content-type="citation-string">Huang C. T.; Guo X.; Barinka C.; Lupold S. E.; Pomper M. G.; Gabrielson K.; Raman V.; Artemov D.; Hapuarachchige S.
+Development
+of 5D3-DM1: A Novel Anti-Prostate-Specific Membrane Antigen Antibody-Drug
+Conjugate for PSMA-Positive Prostate Cancer Therapy. Mol. Pharmaceutics
+2020, 17, 3392–3402. 10.1021/acs.molpharmaceut.0c00457.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/acs.molpharmaceut.0c00457"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7957835"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32803984"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Pharmaceutics&amp;title=Development of 5D3-DM1: A Novel Anti-Prostate-Specific Membrane Antigen Antibody-Drug Conjugate for PSMA-Positive Prostate Cancer Therapy&amp;author=C. T. Huang&amp;author=X. Guo&amp;author=C. Barinka&amp;author=S. E. Lupold&amp;author=M. G. Pomper&amp;volume=17&amp;publication_year=2020&amp;pages=3392-3402&amp;pmid=32803984&amp;doi=10.1021/acs.molpharmaceut.0c00457&amp;"/></mixed-citation></ref><ref id="ref19"><mixed-citation id="cit19"><named-content content-type="citation-string">Petrylak D. P.; Kantoff P.; Vogelzang N. J.; Mega A.; Fleming M. T.; Stephenson J. J. Jr.; Frank R.; Shore N. D.; Dreicer R.; McClay E. F.; Berry W. R.; Agarwal M.; DiPippo V. A.; Rotshteyn Y.; Stambler N.; Olson W. C.; Morris S. A.; Israel R. J.
+Phase 1 study of PSMA ADC, an antibody-drug
+conjugate targeting prostate-specific membrane antigen, in chemotherapy-refractory
+prostate cancer. Prostate
+2019, 79, 604–613. 10.1002/pros.23765.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/pros.23765"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30663074"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Prostate&amp;title=Phase 1 study of PSMA ADC, an antibody-drug conjugate targeting prostate-specific membrane antigen, in chemotherapy-refractory prostate cancer&amp;author=D. P. Petrylak&amp;author=P. Kantoff&amp;author=N. J. Vogelzang&amp;author=A. Mega&amp;author=M. T. Fleming&amp;volume=79&amp;publication_year=2019&amp;pages=604-613&amp;pmid=30663074&amp;doi=10.1002/pros.23765&amp;"/></mixed-citation></ref><ref id="ref20"><mixed-citation id="cit20"><named-content content-type="citation-string">Niaz M. O.; Sun M.; Ramirez-Fort M. K.; Niaz M. J.
+Prostate-specific
+Membrane Antigen Based Antibody-drug Conjugates for Metastatic Castration-resistance
+Prostate Cancer. Cureus
+2020, 12, e7147 10.7759/cureus.7147.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.7759/cureus.7147"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7105266"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32257692"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cureus&amp;title=Prostate-specific Membrane Antigen Based Antibody-drug Conjugates for Metastatic Castration-resistance Prostate Cancer&amp;author=M. O. Niaz&amp;author=M. Sun&amp;author=M. K. Ramirez-Fort&amp;author=M. J. Niaz&amp;volume=12&amp;publication_year=2020&amp;pages=e7147&amp;pmid=32257692&amp;doi=10.7759/cureus.7147&amp;"/></mixed-citation></ref><ref id="ref21"><mixed-citation id="cit21"><named-content content-type="citation-string">Slaney C. Y.; Wang P.; Darcy P. K.; Kershaw M. H.
+CARs versus BiTEs:
+A Comparison between T Cell-Redirection Strategies for Cancer Treatment. Cancer Discovery
+2018, 8, 924–934. 10.1158/2159-8290.CD-18-0297.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/2159-8290.CD-18-0297"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30012854"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Discovery&amp;title=CARs versus BiTEs: A Comparison between T Cell-Redirection Strategies for Cancer Treatment&amp;author=C. Y. Slaney&amp;author=P. Wang&amp;author=P. K. Darcy&amp;author=M. H. Kershaw&amp;volume=8&amp;publication_year=2018&amp;pages=924-934&amp;pmid=30012854&amp;doi=10.1158/2159-8290.CD-18-0297&amp;"/></mixed-citation></ref><ref id="ref22"><mixed-citation id="cit22"><named-content content-type="citation-string">Goebeler M. E.; Bargou R. C.
+T cell-engaging therapies - BiTEs
+and beyond. Nat. Rev. Clin. Oncol.
+2020, 17, 418–434. 10.1038/s41571-020-0347-5.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41571-020-0347-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32242094"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Clin. Oncol.&amp;title=T cell-engaging therapies - BiTEs and beyond&amp;author=M. E. Goebeler&amp;author=R. C. Bargou&amp;volume=17&amp;publication_year=2020&amp;pages=418-434&amp;pmid=32242094&amp;doi=10.1038/s41571-020-0347-5&amp;"/></mixed-citation></ref><ref id="ref23"><mixed-citation id="cit23"><named-content content-type="citation-string">Labrijn A. F.; Janmaat M. L.; Reichert J. M.; Parren P.
+Bispecific antibodies:
+a mechanistic review of the pipeline. Nat. Rev.
+Drug Discovery
+2019, 18, 585–608. 10.1038/s41573-019-0028-1.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41573-019-0028-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31175342"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Drug Discovery&amp;title=Bispecific antibodies: a mechanistic review of the pipeline&amp;author=A. F. Labrijn&amp;author=M. L. Janmaat&amp;author=J. M. Reichert&amp;author=P. Parren&amp;volume=18&amp;publication_year=2019&amp;pages=585-608&amp;pmid=31175342&amp;doi=10.1038/s41573-019-0028-1&amp;"/></mixed-citation></ref><ref id="ref24"><mixed-citation id="cit24"><named-content content-type="citation-string">Huehls A. M.; Coupet T. A.; Sentman C. L.
+Bispecific T-cell
+engagers for cancer
+immunotherapy. Immunol. Cell. Biol.
+2015, 93, 290–296. 10.1038/icb.2014.93.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/icb.2014.93"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4445461"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25367186"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Immunol. Cell. Biol.&amp;title=Bispecific T-cell engagers for cancer immunotherapy&amp;author=A. M. Huehls&amp;author=T. A. Coupet&amp;author=C. L. Sentman&amp;volume=93&amp;publication_year=2015&amp;pages=290-296&amp;pmid=25367186&amp;doi=10.1038/icb.2014.93&amp;"/></mixed-citation></ref><ref id="ref25"><mixed-citation id="cit25"><named-content content-type="citation-string">Wu Z.; Cheung N. V.
+T cell engaging
+bispecific antibody (T-BsAb): From
+technology to therapeutics. Pharmacol. Ther.
+2018, 182, 161–175. 10.1016/j.pharmthera.2017.08.005.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.pharmthera.2017.08.005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5785550"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28834699"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Pharmacol. Ther.&amp;title=T cell engaging bispecific antibody (T-BsAb): From technology to therapeutics&amp;author=Z. Wu&amp;author=N. V. Cheung&amp;volume=182&amp;publication_year=2018&amp;pages=161-175&amp;pmid=28834699&amp;doi=10.1016/j.pharmthera.2017.08.005&amp;"/></mixed-citation></ref><ref id="ref26"><mixed-citation id="cit26"><named-content content-type="citation-string">Ellerman D.
+Bispecific
+T-cell engagers: Towards understanding variables influencing the in
+vitro potency and tumor selectivity and their modulation to enhance
+their efficacy and safety. Methods
+2019, 154, 102–117. 10.1016/j.ymeth.2018.10.026.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ymeth.2018.10.026"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30395966"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Methods&amp;title=Bispecific T-cell engagers: Towards understanding variables influencing the in vitro potency and tumor selectivity and their modulation to enhance their efficacy and safety&amp;author=D. Ellerman&amp;volume=154&amp;publication_year=2019&amp;pages=102-117&amp;pmid=30395966&amp;doi=10.1016/j.ymeth.2018.10.026&amp;"/></mixed-citation></ref><ref id="ref27"><mixed-citation id="cit27"><named-content content-type="citation-string">Ross S. L.; Sherman M.; McElroy P. L.; Lofgren J. A.; Moody G.; Baeuerle P. A.; Coxon A.; Arvedson T.
+Bispecific T cell engager
+(BiTE(R)) antibody constructs can mediate bystander tumor cell killing. PLoS One
+2017, 12, e0183390 10.1371/journal.pone.0183390.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0183390"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5570333"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28837681"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=Bispecific T cell engager (BiTE(R)) antibody constructs can mediate bystander tumor cell killing&amp;author=S. L. Ross&amp;author=M. Sherman&amp;author=P. L. McElroy&amp;author=J. A. Lofgren&amp;author=G. Moody&amp;volume=12&amp;publication_year=2017&amp;pages=e0183390&amp;pmid=28837681&amp;doi=10.1371/journal.pone.0183390&amp;"/></mixed-citation></ref><ref id="ref28"><mixed-citation id="cit28"><named-content content-type="citation-string">Mack M.; Riethmuller G.; Kufer P.
+A small bispecific
+antibody construct
+expressed as a functional single-chain molecule with high tumor cell
+cytotoxicity. Proc. Natl. Acad. Sci. U.S.A.
+1995, 92, 7021–7025. 10.1073/pnas.92.15.7021.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1073/pnas.92.15.7021"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC41463"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="7624362"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Proc. Natl. Acad. Sci. U.S.A.&amp;title=A small bispecific antibody construct expressed as a functional single-chain molecule with high tumor cell cytotoxicity&amp;author=M. Mack&amp;author=G. Riethmuller&amp;author=P. Kufer&amp;volume=92&amp;publication_year=1995&amp;pages=7021-7025&amp;pmid=7624362&amp;doi=10.1073/pnas.92.15.7021&amp;"/></mixed-citation></ref><ref id="ref29"><mixed-citation id="cit29"><named-content content-type="citation-string">Löffler A.; Kufer P.; Lutterbüse R.; Zettl F.; Daniel P. T.; Schwenkenbecher J. M.; Riethmüller G.; Dörken B.; Bargou R. C.
+A recombinant bispecific
+single-chain antibody, CD19
+× CD3, induces rapid and high lymphoma-directed cytotoxicity
+by unstimulated T lymphocytes. Blood
+2000, 95, 2098–2103. 10.1182/blood.V95.6.2098.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1182/blood.V95.6.2098"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10706880"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Blood&amp;title=A recombinant bispecific single-chain antibody, CD19 × CD3, induces rapid and high lymphoma-directed cytotoxicity by unstimulated T lymphocytes&amp;author=A. Löffler&amp;author=P. Kufer&amp;author=R. Lutterbüse&amp;author=F. Zettl&amp;author=P. T. Daniel&amp;volume=95&amp;publication_year=2000&amp;pages=2098-2103&amp;pmid=10706880&amp;doi=10.1182/blood.V95.6.2098&amp;"/></mixed-citation></ref><ref id="ref30"><mixed-citation id="cit30"><named-content content-type="citation-string">Hipp S.; Tai Y. T.; Blanset D.; Deegen P.; Wahl J.; Thomas O.; Rattel B.; Adam P. J.; Anderson K. C.; Friedrich M.
+A novel BCMA/CD3
+bispecific T-cell engager for the
+treatment of multiple myeloma induces selective lysis in vitro and
+in vivo. Leukemia
+2017, 31, 1743–1751. 10.1038/leu.2016.388.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/leu.2016.388"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28025583"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Leukemia&amp;title=A novel BCMA/CD3 bispecific T-cell engager for the treatment of multiple myeloma induces selective lysis in vitro and in vivo&amp;author=S. Hipp&amp;author=Y. T. Tai&amp;author=D. Blanset&amp;author=P. Deegen&amp;author=J. Wahl&amp;volume=31&amp;publication_year=2017&amp;pages=1743-1751&amp;pmid=28025583&amp;doi=10.1038/leu.2016.388&amp;"/></mixed-citation></ref><ref id="ref31"><mixed-citation id="cit31"><named-content content-type="citation-string">Horn L. A.; Ciavattone N. G.; Atkinson R.; Woldergerima N.; Wolf J.; Clements V. K.; Sinha P.; Poudel M.; Ostrand-Rosenberg S.
+CD3xPDL1 bi-specific
+T cell engager (BiTE) simultaneously
+activates T cells and NKT cells, kills PDL1+ tumor cells, and extends
+the survival of tumor-bearing humanized mice. Oncotarget
+2017, 8, 57964–57980. 10.18632/oncotarget.19865.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.18632/oncotarget.19865"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5601626"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28938530"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Oncotarget&amp;title=CD3xPDL1 bi-specific T cell engager (BiTE) simultaneously activates T cells and NKT cells, kills PDL1+ tumor cells, and extends the survival of tumor-bearing humanized mice&amp;author=L. A. Horn&amp;author=N. G. Ciavattone&amp;author=R. Atkinson&amp;author=N. Woldergerima&amp;author=J. Wolf&amp;volume=8&amp;publication_year=2017&amp;pages=57964-57980&amp;pmid=28938530&amp;doi=10.18632/oncotarget.19865&amp;"/></mixed-citation></ref><ref id="ref32"><mixed-citation id="cit32"><named-content content-type="citation-string">Brischwein K.; Schlereth B.; Guller B.; Steiger C.; Wolf A.; Lutterbuese R.; Offner S.; Locher M.; Urbig T.; Raum T.; Kleindienst P.; Wimberger P.; Kimmig R.; Fichtner I.; Kufer P.; Hofmeister R.; da Silva A. J.; Baeuerle P. A.
+MT110: a novel bispecific single-chain
+antibody construct with high efficacy in eradicating established tumors. Mol. Immunol.
+2006, 43, 1129–43. 10.1016/j.molimm.2005.07.034.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.molimm.2005.07.034"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16139892"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Immunol.&amp;title=MT110: a novel bispecific single-chain antibody construct with high efficacy in eradicating established tumors&amp;author=K. Brischwein&amp;author=B. Schlereth&amp;author=B. Guller&amp;author=C. Steiger&amp;author=A. Wolf&amp;volume=43&amp;publication_year=2006&amp;pages=1129-43&amp;pmid=16139892&amp;doi=10.1016/j.molimm.2005.07.034&amp;"/></mixed-citation></ref><ref id="ref33"><mixed-citation id="cit33"><named-content content-type="citation-string">Biselli R.; Matricardi P. M.; Amelio R. D.; Fattorossi A.
+Multiparametric
+Flow Cytometric Analysis of the Kinetics of Surface Molecule Expression
+after Polyclonal Activation of Human Peripheral Blood T Lymphocytes. Scand. J. Immunol.
+1992, 35, 439–447. 10.1111/j.1365-3083.1992.tb02879.x.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/j.1365-3083.1992.tb02879.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="1373002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Scand. J. Immunol.&amp;title=Multiparametric Flow Cytometric Analysis of the Kinetics of Surface Molecule Expression after Polyclonal Activation of Human Peripheral Blood T Lymphocytes&amp;author=R. Biselli&amp;author=P. M. Matricardi&amp;author=R. D. Amelio&amp;author=A. Fattorossi&amp;volume=35&amp;publication_year=1992&amp;pages=439-447&amp;pmid=1373002&amp;doi=10.1111/j.1365-3083.1992.tb02879.x&amp;"/></mixed-citation></ref><ref id="ref34"><mixed-citation id="cit34"><named-content content-type="citation-string">Cornel A. M.; Mimpen I. L.; Nierkens S.
+MHC Class
+I Downregulation in Cancer:
+Underlying Mechanisms and Potential Targets for Cancer Immunotherapy. Cancers (Basel)
+2020, 12, 1760. 10.3390/cancers12071760.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/cancers12071760"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7409324"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32630675"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancers (Basel)&amp;title=MHC Class I Downregulation in Cancer: Underlying Mechanisms and Potential Targets for Cancer Immunotherapy&amp;author=A. M. Cornel&amp;author=I. L. Mimpen&amp;author=S. Nierkens&amp;volume=12&amp;publication_year=2020&amp;pages=1760&amp;pmid=32630675&amp;doi=10.3390/cancers12071760&amp;"/></mixed-citation></ref><ref id="ref35"><mixed-citation id="cit35"><named-content content-type="citation-string">Kamat N. V.; Yu E. Y.; Lee J. K.
+BiTE-ing into Prostate Cancer with
+Bispecific T-cell Engagers. Clin. Cancer Res.
+2021, 27, 2675–2677. 10.1158/1078-0432.CCR-21-0355.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/1078-0432.CCR-21-0355"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8127346"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33707179"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Cancer Res.&amp;title=BiTE-ing into Prostate Cancer with Bispecific T-cell Engagers&amp;author=N. V. Kamat&amp;author=E. Y. Yu&amp;author=J. K. Lee&amp;volume=27&amp;publication_year=2021&amp;pages=2675-2677&amp;pmid=33707179&amp;doi=10.1158/1078-0432.CCR-21-0355&amp;"/></mixed-citation></ref><ref id="ref36"><mixed-citation id="cit36"><named-content content-type="citation-string">Friedrich M.; Raum T.; Lutterbuese R.; Voelkel M.; Deegen P.; Rau D.; Kischel R.; Hoffmann P.; Brandl C.; Schuhmacher J.; Mueller P.; Finnern R.; Fuergut M.; Zopf D.; Slootstra J. W.; Baeuerle P. A.; Rattel B.; Kufer P.
+Regression
+of human prostate cancer xenografts in mice by AMG 212/BAY2010112,
+a novel PSMA/CD3-Bispecific BiTE antibody cross-reactive with non-human
+primate antigens. Mol. Cancer Ther.
+2012, 11, 2664–2673. 10.1158/1535-7163.MCT-12-0042.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/1535-7163.MCT-12-0042"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23041545"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Cancer Ther.&amp;title=Regression of human prostate cancer xenografts in mice by AMG 212/BAY2010112, a novel PSMA/CD3-Bispecific BiTE antibody cross-reactive with non-human primate antigens&amp;author=M. Friedrich&amp;author=T. Raum&amp;author=R. Lutterbuese&amp;author=M. Voelkel&amp;author=P. Deegen&amp;volume=11&amp;publication_year=2012&amp;pages=2664-2673&amp;pmid=23041545&amp;doi=10.1158/1535-7163.MCT-12-0042&amp;"/></mixed-citation></ref><ref id="ref37"><mixed-citation id="cit37"><named-content content-type="citation-string">Novakova Z.; Foss C. A.; Copeland B. T.; Morath V.; Baranova P.; Havlinova B.; Skerra A.; Pomper M. G.; Barinka C.
+Novel Monoclonal
+Antibodies Recognizing Human Prostate-Specific Membrane Antigen (PSMA)
+as Research and Theranostic Tools. Prostate
+2017, 77, 749–764. 10.1002/pros.23311.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/pros.23311"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7061361"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28247415"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Prostate&amp;title=Novel Monoclonal Antibodies Recognizing Human Prostate-Specific Membrane Antigen (PSMA) as Research and Theranostic Tools&amp;author=Z. Novakova&amp;author=C. A. Foss&amp;author=B. T. Copeland&amp;author=V. Morath&amp;author=P. Baranova&amp;volume=77&amp;publication_year=2017&amp;pages=749-764&amp;pmid=28247415&amp;doi=10.1002/pros.23311&amp;"/></mixed-citation></ref><ref id="ref38"><mixed-citation id="cit38"><named-content content-type="citation-string">Banerjee S. R.; Kumar V.; Lisok A.; Plyku D.; Novakova Z.; Brummet M.; Wharram B.; Barinka C.; Hobbs R.; Pomper M. G.
+Evaluation of (111)In-DOTA-5D3,
+a Surrogate SPECT Imaging
+Agent for Radioimmunotherapy of Prostate-Specific Membrane Antigen. J. Nucl. Med.
+2019, 60, 400–406. 10.2967/jnumed.118.214403.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2967/jnumed.118.214403"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6424233"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30237212"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Nucl. Med.&amp;title=Evaluation of (111)In-DOTA-5D3, a Surrogate SPECT Imaging Agent for Radioimmunotherapy of Prostate-Specific Membrane Antigen&amp;author=S. R. Banerjee&amp;author=V. Kumar&amp;author=A. Lisok&amp;author=D. Plyku&amp;author=Z. Novakova&amp;volume=60&amp;publication_year=2019&amp;pages=400-406&amp;pmid=30237212&amp;doi=10.2967/jnumed.118.214403&amp;"/></mixed-citation></ref><ref id="ref39"><mixed-citation id="cit39"><named-content content-type="citation-string">Novakova Z.; Belousova N.; Foss C. A.; Havlinova B.; Gresova M.; Das G.; Lisok A.; Prada A.; Barinkova M.; Hubalek M.; Pomper M. G.; Barinka C.
+Engineered
+Fragments of the PSMA-Specific 5D3 Antibody and Their Functional Characterization. Int. J. Mol. Sci.
+2020, 21, 6672. 10.3390/ijms21186672.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/ijms21186672"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7555429"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32932591"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Mol. Sci.&amp;title=Engineered Fragments of the PSMA-Specific 5D3 Antibody and Their Functional Characterization&amp;author=Z. Novakova&amp;author=N. Belousova&amp;author=C. A. Foss&amp;author=B. Havlinova&amp;author=M. Gresova&amp;volume=21&amp;publication_year=2020&amp;pages=6672&amp;pmid=32932591&amp;doi=10.3390/ijms21186672&amp;"/></mixed-citation></ref><ref id="ref40"><mixed-citation id="cit40"><named-content content-type="citation-string">Kufer P., Lutterbuse R., Kohleisen B., Zeman S., Bauerle P.. Pharmaceutical compositions
+comprising bispecific anti-cd3, anti-cd19 antibody constructs for
+the treatment of b-cell related disorders. United States Patent US7635472B2, 2007.</named-content></mixed-citation></ref><ref id="ref41"><mixed-citation id="cit41"><named-content content-type="citation-string">Dorken B., Riethmüller G., Kufer P., Lutterbüse R., Bargou R., Löffler A.. CD19xCD3 Specific
+Polypeptides and Uses Thereof. United States
+Patent US007575923B2, 1999.</named-content></mixed-citation></ref><ref id="ref42"><mixed-citation id="cit42"><named-content content-type="citation-string">Harrington K. H.; Gudgeon C. J.; Laszlo G. S.; Newhall K. J.; Sinclair A. M.; Frankel S. R.; Kischel R.; Chen G.; Walter R. B.
+The Broad
+Anti-AML Activity of the CD33/CD3 BiTE Antibody Construct, AMG 330,
+Is Impacted by Disease Stage and Risk. PLoS
+One
+2015, 10, e0135945 10.1371/journal.pone.0135945.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0135945"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4549148"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26305211"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=The Broad Anti-AML Activity of the CD33/CD3 BiTE Antibody Construct, AMG 330, Is Impacted by Disease Stage and Risk&amp;author=K. H. Harrington&amp;author=C. J. Gudgeon&amp;author=G. S. Laszlo&amp;author=K. J. Newhall&amp;author=A. M. Sinclair&amp;volume=10&amp;publication_year=2015&amp;pages=e0135945&amp;pmid=26305211&amp;doi=10.1371/journal.pone.0135945&amp;"/></mixed-citation></ref><ref id="ref43"><mixed-citation id="cit43"><named-content content-type="citation-string">Milowsky M. I.; Galsky M. D.; Morris M. J.; Crona D. J.; George D. J.; Dreicer R.; Tse K.; Petruck J.; Webb I. J.; Bander N. H.; Nanus D. M.; Scher H. I.
+Phase 1/2 multiple
+ascending dose trial of the prostate-specific membrane antigen-targeted
+antibody drug conjugate MLN2704 in metastatic castration-resistant
+prostate cancer. Urol. Oncol.
+2016, 34, 530.e15–530.e21. 10.1016/j.urolonc.2016.07.005.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.urolonc.2016.07.005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5464417"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27765518"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Urol. Oncol.&amp;title=Phase 1/2 multiple ascending dose trial of the prostate-specific membrane antigen-targeted antibody drug conjugate MLN2704 in metastatic castration-resistant prostate cancer&amp;author=M. I. Milowsky&amp;author=M. D. Galsky&amp;author=M. J. Morris&amp;author=D. J. Crona&amp;author=D. J. George&amp;volume=34&amp;publication_year=2016&amp;pages=530.e15-530.e21&amp;pmid=27765518&amp;doi=10.1016/j.urolonc.2016.07.005&amp;"/></mixed-citation></ref><ref id="ref44"><mixed-citation id="cit44"><named-content content-type="citation-string">Narayan V.; Barber-Rotenberg J. S.; Jung I. Y.; Lacey S. F.; Rech A. J.; Davis M. M.; Hwang W. T.; Lal P.; Carpenter E. L.; Maude S. L.; Plesa G.; Vapiwala N.; Chew A.; Moniak M.; Sebro R. A.; Farwell M. D.; Marshall A.; Gilmore J.; Lledo L.; Dengel K.; Church S. E.; Hether T. D.; Xu J.; Gohil M.; Buckingham T. H.; Yee S. S.; Gonzalez V. E.; Kulikovskaya I.; Chen F.; Tian L.; Tien K.; Gladney W.; Nobles C. L.; Raymond H. E.; Prostate Cancer Cellular
+Therapy Program I.; Hexner E. O.; Siegel D. L.; Bushman F. D.; June C. H.; Fraietta J. A.; Haas N. B.; et al. PSMA-targeting
+TGFbeta-insensitive armored CAR T cells in metastatic castration-resistant
+prostate cancer: a phase 1 trial. Nat. Med.
+2022, 28, 724–734. 10.1038/s41591-022-01726-1.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41591-022-01726-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10308799"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35314843"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Med.&amp;title=PSMA-targeting TGFbeta-insensitive armored CAR T cells in metastatic castration-resistant prostate cancer: a phase 1 trial&amp;author=V. Narayan&amp;author=J. S. Barber-Rotenberg&amp;author=I. Y. Jung&amp;author=S. F. Lacey&amp;author=A. J. Rech&amp;volume=28&amp;publication_year=2022&amp;pages=724-734&amp;pmid=35314843&amp;doi=10.1038/s41591-022-01726-1&amp;"/></mixed-citation></ref><ref id="ref45"><mixed-citation id="cit45"><named-content content-type="citation-string">Nauseef J. T.; Bander N. H.; Tagawa S. T.
+Emerging
+Prostate-specific Membrane
+Antigen-based Therapeutics: Small Molecules, Antibodies, and Beyond. Eur. Urol. Focus
+2021, 7, 254–257. 10.1016/j.euf.2021.02.006.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.euf.2021.02.006"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33648895"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur. Urol. Focus&amp;title=Emerging Prostate-specific Membrane Antigen-based Therapeutics: Small Molecules, Antibodies, and Beyond&amp;author=J. T. Nauseef&amp;author=N. H. Bander&amp;author=S. T. Tagawa&amp;volume=7&amp;publication_year=2021&amp;pages=254-257&amp;pmid=33648895&amp;doi=10.1016/j.euf.2021.02.006&amp;"/></mixed-citation></ref><ref id="ref46"><mixed-citation id="cit46"><named-content content-type="citation-string">Alzubi J.; Dettmer-Monaco V.; Kuehle J.; Thorausch N.; Seidl M.; Taromi S.; Schamel W.; Zeiser R.; Abken H.; Cathomen T.; Wolf P.
+PSMA-Directed CAR T
+Cells Combined with Low-Dose Docetaxel Treatment Induce Tumor Regression
+in a Prostate Cancer Xenograft Model. Mol. Ther.
+Oncolytics
+2020, 18, 226–235. 10.1016/j.omto.2020.06.014.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.omto.2020.06.014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7372156"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32728611"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Ther. Oncolytics&amp;title=PSMA-Directed CAR T Cells Combined with Low-Dose Docetaxel Treatment Induce Tumor Regression in a Prostate Cancer Xenograft Model&amp;author=J. Alzubi&amp;author=V. Dettmer-Monaco&amp;author=J. Kuehle&amp;author=N. Thorausch&amp;author=M. Seidl&amp;volume=18&amp;publication_year=2020&amp;pages=226-235&amp;pmid=32728611&amp;doi=10.1016/j.omto.2020.06.014&amp;"/></mixed-citation></ref><ref id="ref47"><mixed-citation id="cit47"><named-content content-type="citation-string">Buhler P.; Wolf P.; Gierschner D.; Schaber I.; Katzenwadel A.; Schultze-Seemann W.; Wetterauer U.; Tacke M.; Swamy M.; Schamel W. W.; Elsasser-Beile U.
+A bispecific diabody directed against
+prostate-specific membrane antigen and CD3 induces T-cell mediated
+lysis of prostate cancer cells. Cancer Immunol.
+Immunother.
+2008, 57, 43–52. 10.1007/s00262-007-0348-6.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00262-007-0348-6"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2755730"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17579857"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Immunol. Immunother.&amp;title=A bispecific diabody directed against prostate-specific membrane antigen and CD3 induces T-cell mediated lysis of prostate cancer cells&amp;author=P. Buhler&amp;author=P. Wolf&amp;author=D. Gierschner&amp;author=I. Schaber&amp;author=A. Katzenwadel&amp;volume=57&amp;publication_year=2008&amp;pages=43-52&amp;pmid=17579857&amp;doi=10.1007/s00262-007-0348-6&amp;"/></mixed-citation></ref><ref id="ref48"><mixed-citation id="cit48"><named-content content-type="citation-string">Serganova I.; Moroz E.; Cohen I.; Moroz M.; Mane M.; Zurita J.; Shenker L.; Ponomarev V.; Blasberg R.
+Enhancement of PSMA-Directed CAR Adoptive Immunotherapy
+by PD-1/PD-L1 Blockade. Mol. Ther. Oncolytics
+2017, 4, 41–54. 10.1016/j.omto.2016.11.005.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.omto.2016.11.005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5363727"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28345023"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Ther. Oncolytics&amp;title=Enhancement of PSMA-Directed CAR Adoptive Immunotherapy by PD-1/PD-L1 Blockade&amp;author=I. Serganova&amp;author=E. Moroz&amp;author=I. Cohen&amp;author=M. Moroz&amp;author=M. Mane&amp;volume=4&amp;publication_year=2017&amp;pages=41-54&amp;pmid=28345023&amp;doi=10.1016/j.omto.2016.11.005&amp;"/></mixed-citation></ref><ref id="ref49"><mixed-citation id="cit49"><named-content content-type="citation-string">Tykvart J.; Sacha P.; Barinka C.; Knedlik T.; Starkova J.; Lubkowski J.; Konvalinka J.
+Efficient and versatile one-step
+affinity purification of in vivo biotinylated proteins: expression,
+characterization and structure analysis of recombinant human glutamate
+carboxypeptidase II. Protein Expr. Purif.
+2012, 82, 106–115. 10.1016/j.pep.2011.11.016.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.pep.2011.11.016"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3443621"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22178733"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Protein Expr. Purif.&amp;title=Efficient and versatile one-step affinity purification of in vivo biotinylated proteins: expression, characterization and structure analysis of recombinant human glutamate carboxypeptidase II&amp;author=J. Tykvart&amp;author=P. Sacha&amp;author=C. Barinka&amp;author=T. Knedlik&amp;author=J. Starkova&amp;volume=82&amp;publication_year=2012&amp;pages=106-115&amp;pmid=22178733&amp;doi=10.1016/j.pep.2011.11.016&amp;"/></mixed-citation></ref><ref id="ref50"><mixed-citation id="cit50"><named-content content-type="citation-string">Ventini-Monteiro D.; Dubois S.; Astray R. M.; Castillo J.; Pereira C. A.
+Insect
+cell entrapment, growth and recovering using a single-use fixed-bed
+bioreactor. Scaling up and recombinant protein production. J. Biotechnol.
+2015, 216, 110–115. 10.1016/j.jbiotec.2015.10.013.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jbiotec.2015.10.013"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26481831"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Biotechnol.&amp;title=Insect cell entrapment, growth and recovering using a single-use fixed-bed bioreactor. Scaling up and recombinant protein production&amp;author=D. Ventini-Monteiro&amp;author=S. Dubois&amp;author=R. M. Astray&amp;author=J. Castillo&amp;author=C. A. Pereira&amp;volume=216&amp;publication_year=2015&amp;pages=110-115&amp;pmid=26481831&amp;doi=10.1016/j.jbiotec.2015.10.013&amp;"/></mixed-citation></ref><ref id="ref51"><mixed-citation id="cit51"><named-content content-type="citation-string">Subklewe M.
+BiTEs better
+than CAR T cells. Blood Adv.
+2021, 5, 607–612. 10.1182/bloodadvances.2020001792.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1182/bloodadvances.2020001792"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7839370"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33496755"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Blood Adv.&amp;title=BiTEs better than CAR T cells&amp;author=M. Subklewe&amp;volume=5&amp;publication_year=2021&amp;pages=607-612&amp;pmid=33496755&amp;doi=10.1182/bloodadvances.2020001792&amp;"/></mixed-citation></ref><ref id="ref52"><mixed-citation id="cit52"><named-content content-type="citation-string">Heitmann J. S.; Pfluegler M.; Jung G.; Salih H. R.
+Bispecific Antibodies
+in Prostate Cancer Therapy: Current Status and Perspectives. Cancers (Basel)
+2021, 13, 549. 10.3390/cancers13030549.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/cancers13030549"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7867165"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33535627"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancers (Basel)&amp;title=Bispecific Antibodies in Prostate Cancer Therapy: Current Status and Perspectives&amp;author=J. S. Heitmann&amp;author=M. Pfluegler&amp;author=G. Jung&amp;author=H. R. Salih&amp;volume=13&amp;publication_year=2021&amp;pages=549&amp;pmid=33535627&amp;doi=10.3390/cancers13030549&amp;"/></mixed-citation></ref><ref id="ref53"><mixed-citation id="cit53"><named-content content-type="citation-string">Hernandez-Hoyos G.; Sewell T.; Bader R.; Bannink J.; Chenault R. A.; Daugherty M.; Dasovich M.; Fang H.; Gottschalk R.; Kumer J.; Miller R. E.; Ravikumar P.; Wiens J.; Algate P. A.; Bienvenue D.; McMahan C. J.; Natarajan S. K.; Gross J. A.; Blankenship J. W.
+MOR209/ES414,
+a Novel Bispecific Antibody Targeting PSMA for the Treatment of Metastatic
+Castration-Resistant Prostate Cancer. Mol. Cancer
+Ther.
+2016, 15, 2155–65. 10.1158/1535-7163.MCT-15-0242.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/1535-7163.MCT-15-0242"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27406985"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Cancer Ther.&amp;title=MOR209/ES414, a Novel Bispecific Antibody Targeting PSMA for the Treatment of Metastatic Castration-Resistant Prostate Cancer&amp;author=G. Hernandez-Hoyos&amp;author=T. Sewell&amp;author=R. Bader&amp;author=J. Bannink&amp;author=R. A. Chenault&amp;volume=15&amp;publication_year=2016&amp;pages=2155-65&amp;pmid=27406985&amp;doi=10.1158/1535-7163.MCT-15-0242&amp;"/></mixed-citation></ref><ref id="ref54"><mixed-citation id="cit54"><named-content content-type="citation-string">Lim E. A.; Schweizer M. T.; Chi K. N.; Aggarwal R.; Agarwal N.; Gulley J.; Attiyeh E.; Greger J.; Wu S.; Jaiprasart P.; Loffredo J.; Bandyopadhyay N.; Xie H.; Hansen A. R.
+Phase 1
+Study of Safety and Preliminary Clinical Activity
+of JNJ-63898081, a PSMA and CD3 Bispecific Antibody, for Metastatic
+Castration-Resistant Prostate Cancer. Clin.
+Genitourin. Cancer
+2023, 21, 366–375. 10.1016/j.clgc.2023.02.010.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.clgc.2023.02.010"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10219845"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36948922"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Genitourin. Cancer&amp;title=Phase 1 Study of Safety and Preliminary Clinical Activity of JNJ-63898081, a PSMA and CD3 Bispecific Antibody, for Metastatic Castration-Resistant Prostate Cancer&amp;author=E. A. Lim&amp;author=M. T. Schweizer&amp;author=K. N. Chi&amp;author=R. Aggarwal&amp;author=N. Agarwal&amp;volume=21&amp;publication_year=2023&amp;pages=366-375&amp;pmid=36948922&amp;doi=10.1016/j.clgc.2023.02.010&amp;"/></mixed-citation></ref><ref id="ref55"><mixed-citation id="cit55"><named-content content-type="citation-string">Simao D. C.; Zarrabi K. K.; Mendes J. L.; Luz R.; Garcia J. A.; Kelly W. K.; Barata P. C.
+Bispecific T-Cell
+Engagers Therapies
+in Solid Tumors: Focusing on Prostate Cancer. Cancers (Basel)
+2023, 15, 1412. 10.3390/cancers15051412.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/cancers15051412"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10001031"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36900202"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancers (Basel)&amp;title=Bispecific T-Cell Engagers Therapies in Solid Tumors: Focusing on Prostate Cancer&amp;author=D. C. Simao&amp;author=K. K. Zarrabi&amp;author=J. L. Mendes&amp;author=R. Luz&amp;author=J. A. Garcia&amp;volume=15&amp;publication_year=2023&amp;pages=1412&amp;pmid=36900202&amp;doi=10.3390/cancers15051412&amp;"/></mixed-citation></ref><ref id="ref56"><mixed-citation id="cit56"><named-content content-type="citation-string">Arvedson T.; Bailis J. M.; Britten C. D.; Klinger M.; Nagorsen D.; Coxon A.; Egen J. G.; Martin F.
+Targeting Solid Tumors
+with Bispecific T Cell Engager Immune Therapy. Annu. Rev. Cancer Biol.
+2022, 6, 17–34. 10.1146/annurev-cancerbio-070620-104325.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1146/annurev-cancerbio-070620-104325"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Annu. Rev. Cancer Biol.&amp;title=Targeting Solid Tumors with Bispecific T Cell Engager Immune Therapy&amp;author=T. Arvedson&amp;author=J. M. Bailis&amp;author=C. D. Britten&amp;author=M. Klinger&amp;author=D. Nagorsen&amp;volume=6&amp;publication_year=2022&amp;pages=17-34&amp;doi=10.1146/annurev-cancerbio-070620-104325&amp;"/></mixed-citation></ref><ref id="ref57"><mixed-citation id="cit57"><named-content content-type="citation-string">Deegen P.; Thomas O.; Nolan-Stevaux O.; Li S.; Wahl J.; Bogner P.; Aeffner F.; Friedrich M.; Liao M. Z.; Matthes K.; Rau D.; Rattel B.; Raum T.; Kufer P.; Coxon A.; Bailis J. M.
+The PSMA-targeting
+Half-life Extended BiTE Therapy AMG 160 has Potent Antitumor Activity
+in Preclinical Models of Metastatic Castration-resistant Prostate
+Cancer. Clin. Cancer Res.
+2021, 27, 2928–2937. 10.1158/1078-0432.CCR-20-3725.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/1078-0432.CCR-20-3725"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33504551"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Cancer Res.&amp;title=The PSMA-targeting Half-life Extended BiTE Therapy AMG 160 has Potent Antitumor Activity in Preclinical Models of Metastatic Castration-resistant Prostate Cancer&amp;author=P. Deegen&amp;author=O. Thomas&amp;author=O. Nolan-Stevaux&amp;author=S. Li&amp;author=J. Wahl&amp;volume=27&amp;publication_year=2021&amp;pages=2928-2937&amp;pmid=33504551&amp;doi=10.1158/1078-0432.CCR-20-3725&amp;"/></mixed-citation></ref><ref id="ref58"><mixed-citation id="cit58"><named-content content-type="citation-string">Einsele H.; Borghaei H.; Orlowski R. Z.; Subklewe M.; Roboz G. J.; Zugmaier G.; Kufer P.; Iskander K.; Kantarjian H. M.
+The BiTE
+(bispecific T-cell engager) platform: Development and future potential
+of a targeted immuno-oncology therapy across tumor types. Cancer
+2020, 126, 3192–3201. 10.1002/cncr.32909.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/cncr.32909"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32401342"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer&amp;title=The BiTE (bispecific T-cell engager) platform: Development and future potential of a targeted immuno-oncology therapy across tumor types&amp;author=H. Einsele&amp;author=H. Borghaei&amp;author=R. Z. Orlowski&amp;author=M. Subklewe&amp;author=G. J. Roboz&amp;volume=126&amp;publication_year=2020&amp;pages=3192-3201&amp;pmid=32401342&amp;doi=10.1002/cncr.32909&amp;"/></mixed-citation></ref><ref id="ref59"><mixed-citation id="cit59"><named-content content-type="citation-string">Harper T.; Sharma A.; Kaliyaperumal S.; Fajardo F.; Hsu K.; Liu L.; Davies R.; Wei Y. L.; Zhan J.; Estrada J.; Kvesic M.; Nahrwold L.; Deisting W.; Panzer M.; Cooke K.; Lebrec H.; Nolan-Stevaux O.
+Characterization
+of an Anti-CD70 Half-Life Extended Bispecific T-Cell Engager (HLE-BiTE)
+and Associated On-Target Toxicity in Cynomolgus Monkeys. Toxicol. Sci.
+2022, 189, 32–50. 10.1093/toxsci/kfac052.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/toxsci/kfac052"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35583313"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Toxicol. Sci.&amp;title=Characterization of an Anti-CD70 Half-Life Extended Bispecific T-Cell Engager (HLE-BiTE) and Associated On-Target Toxicity in Cynomolgus Monkeys&amp;author=T. Harper&amp;author=A. Sharma&amp;author=S. Kaliyaperumal&amp;author=F. Fajardo&amp;author=K. Hsu&amp;volume=189&amp;publication_year=2022&amp;pages=32-50&amp;pmid=35583313&amp;doi=10.1093/toxsci/kfac052&amp;"/></mixed-citation></ref><ref id="ref60"><mixed-citation id="cit60"><named-content content-type="citation-string">Mandrup O. A.; Ong S. C.; Lykkemark S.; Dinesen A.; Rudnik-Jansen I.; Dagnaes-Hansen N. F.; Andersen J. T.; Alvarez-Vallina L.; Howard K. A.
+Programmable half-life and anti-tumour effects of bispecific
+T-cell engager-albumin fusions with tuned FcRn affinity. Commun. Biol.
+2021, 4, 310 10.1038/s42003-021-01790-2.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s42003-021-01790-2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7940400"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33686177"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Commun. Biol.&amp;title=Programmable half-life and anti-tumour effects of bispecific T-cell engager-albumin fusions with tuned FcRn affinity&amp;author=O. A. Mandrup&amp;author=S. C. Ong&amp;author=S. Lykkemark&amp;author=A. Dinesen&amp;author=I. Rudnik-Jansen&amp;volume=4&amp;publication_year=2021&amp;pages=310&amp;pmid=33686177&amp;doi=10.1038/s42003-021-01790-2&amp;"/></mixed-citation></ref><ref id="ref61"><mixed-citation id="cit61"><named-content content-type="citation-string">Schlapschy M.; Binder U.; Borger C.; Theobald I.; Wachinger K.; Kisling S.; Haller D.; Skerra A.
+PASylation:
+a biological
+alternative to PEGylation for extending the plasma half-life of pharmaceutically
+active proteins. Protein Eng. Des. Sel.
+2013, 26, 489–501. 10.1093/protein/gzt023.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/protein/gzt023"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3715784"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23754528"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Protein Eng. Des. Sel.&amp;title=PASylation: a biological alternative to PEGylation for extending the plasma half-life of pharmaceutically active proteins&amp;author=M. Schlapschy&amp;author=U. Binder&amp;author=C. Borger&amp;author=I. Theobald&amp;author=K. Wachinger&amp;volume=26&amp;publication_year=2013&amp;pages=489-501&amp;pmid=23754528&amp;doi=10.1093/protein/gzt023&amp;"/></mixed-citation></ref><ref id="ref62"><mixed-citation id="cit62"><named-content content-type="citation-string">Hummel H.-D.; Kufer P.; Grüllich C.; Seggewiss-Bernhardt R.; Deschler-Baier B.; Chatterjee M.; Goebeler M.-E.; Miller K.; de Santis M.; Loidl W.; Dittrich C.; Buck A.; Lapa C.; Thurner A.; Wittemer-Rump S.; Koca G.; Boix O.; Döcke W.-D.; Finnern R.; Kusi H.; Ajavon-Hartmann A.; Stienen S.; Sayehli C. M.; Polat B.; Bargou R. C.
+Pasotuxizumab,
+a BiTE® immune therapy for castration-resistant prostate cancer:
+Phase I, dose-escalation study findings. Immunotherapy
+2021, 13, 125–141. 10.2217/imt-2020-0256.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2217/imt-2020-0256"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33172323"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Immunotherapy&amp;title=Pasotuxizumab, a BiTE® immune therapy for castration-resistant prostate cancer: Phase I, dose-escalation study findings&amp;author=H.-D. Hummel&amp;author=P. Kufer&amp;author=C. Grüllich&amp;author=R. Seggewiss-Bernhardt&amp;author=B. Deschler-Baier&amp;volume=13&amp;publication_year=2021&amp;pages=125-141&amp;pmid=33172323&amp;doi=10.2217/imt-2020-0256&amp;"/></mixed-citation></ref><ref id="ref63"><mixed-citation id="cit63"><named-content content-type="citation-string">Choudhry J.; Parson M.; Wright J.
+A Retrospective
+Review of Tocilizumab
+for the Management of Blinatumomab (a Bispecific T Cell Engager)-Induced
+Cytokine Release Syndrome (CRS). Blood
+2018, 132, 5211–5211. 10.1182/blood-2018-99-117353.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1182/blood-2018-99-117353"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Blood&amp;title=A Retrospective Review of Tocilizumab for the Management of Blinatumomab (a Bispecific T Cell Engager)-Induced Cytokine Release Syndrome (CRS)&amp;author=J. Choudhry&amp;author=M. Parson&amp;author=J. Wright&amp;volume=132&amp;publication_year=2018&amp;pages=5211-5211&amp;doi=10.1182/blood-2018-99-117353&amp;"/></mixed-citation></ref><ref id="ref64"><mixed-citation id="cit64"><named-content content-type="citation-string">Kauer J.; Horner S.; Osburg L.; Muller S.; Marklin M.; Heitmann J. S.; Zekri L.; Rammensee H. G.; Salih H. R.; Jung G.
+Tocilizumab, but not
+dexamethasone,
+prevents CRS without affecting antitumor activity of bispecific antibodies. J. Immunother. Cancer
+2020, 8, e000621. 10.1136/jitc-2020-000621.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/jitc-2020-000621"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7264835"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32474413"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Immunother. Cancer&amp;title=Tocilizumab, but not dexamethasone, prevents CRS without affecting antitumor activity of bispecific antibodies&amp;author=J. Kauer&amp;author=S. Horner&amp;author=L. Osburg&amp;author=S. Muller&amp;author=M. Marklin&amp;volume=8&amp;publication_year=2020&amp;pages=e000621&amp;pmid=32474413&amp;doi=10.1136/jitc-2020-000621&amp;"/></mixed-citation></ref><ref id="ref65"><mixed-citation id="cit65"><named-content content-type="citation-string">Sigmund A. M.; Sahasrabudhe K. D.; Bhatnagar B.
+Evaluating Blinatumomab for the Treatment
+of Relapsed/Refractory ALL: Design, Development, and Place in Therapy. Blood Lymphat. Cancer
+2020, 10, 7–20. 10.2147/BLCTT.S223894.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2147/BLCTT.S223894"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7648528"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33173373"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Blood Lymphat. Cancer&amp;title=Evaluating Blinatumomab for the Treatment of Relapsed/Refractory ALL: Design, Development, and Place in Therapy&amp;author=A. M. Sigmund&amp;author=K. D. Sahasrabudhe&amp;author=B. Bhatnagar&amp;volume=10&amp;publication_year=2020&amp;pages=7-20&amp;pmid=33173373&amp;doi=10.2147/BLCTT.S223894&amp;"/></mixed-citation></ref><ref id="ref66"><mixed-citation id="cit66"><named-content content-type="citation-string">Choi B. D.; Gedeon P. C.; Herndon J. E. 2nd; Archer G. E.; Reap E. A.; Sanchez-Perez L.; Mitchell D. A.; Bigner D. D.; Sampson J. H.
+Human regulatory T cells kill tumor cells through granzyme-dependent
+cytotoxicity upon retargeting with a bispecific antibody. Cancer Immunol. Res.
+2013, 1, 163. 10.1158/2326-6066.CIR-13-0049.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/2326-6066.CIR-13-0049"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3932050"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24570975"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Immunol. Res.&amp;title=Human regulatory T cells kill tumor cells through granzyme-dependent cytotoxicity upon retargeting with a bispecific antibody&amp;author=B. D. Choi&amp;author=P. C. Gedeon&amp;author=J. E. Herndon&amp;author=G. E. Archer&amp;author=E. A. Reap&amp;volume=1&amp;publication_year=2013&amp;pages=163&amp;pmid=24570975&amp;doi=10.1158/2326-6066.CIR-13-0049&amp;"/></mixed-citation></ref><ref id="ref67"><mixed-citation id="cit67"><named-content content-type="citation-string">Haas C.; Krinner E.; Brischwein K.; Hoffmann P.; Lutterbuse R.; Schlereth B.; Kufer P.; Baeuerle P. A.
+Mode of cytotoxic
+action of T cell-engaging BiTE antibody MT110. Immunobiology
+2009, 214, 441–53. 10.1016/j.imbio.2008.11.014.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.imbio.2008.11.014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19157637"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Immunobiology&amp;title=Mode of cytotoxic action of T cell-engaging BiTE antibody MT110&amp;author=C. Haas&amp;author=E. Krinner&amp;author=K. Brischwein&amp;author=P. Hoffmann&amp;author=R. Lutterbuse&amp;volume=214&amp;publication_year=2009&amp;pages=441-53&amp;pmid=19157637&amp;doi=10.1016/j.imbio.2008.11.014&amp;"/></mixed-citation></ref><ref id="ref68"><mixed-citation id="cit68"><named-content content-type="citation-string">Xu Y.; Fu J.; Henderson M.; Lee F.; Jurcak N.; Henn A.; Wahl J.; Shao Y.; Wang J.; Lyman M.; Funes V.; Espinoza B.; Zhang R.; Washington I.; Chen S. Y.; Zlomke H.; Wang J.; Niu N.; Li P.; Meng F.; Burns W.; Friedrich M.; Stienen S.; Bailis J. M.; Zheng L.
+CLDN18.2 BiTE Engages
+Effector and Regulatory T Cells for Antitumor Immune Response in Preclinical
+Models of Pancreatic Cancer. Gastroenterology
+2023, 10.1053/j.gastro.2023.06.037.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1053/j.gastro.2023.06.037"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11008763"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37507075"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Gastroenterology&amp;title=CLDN18.2 BiTE Engages Effector and Regulatory T Cells for Antitumor Immune Response in Preclinical Models of Pancreatic Cancer&amp;author=Y. Xu&amp;author=J. Fu&amp;author=M. Henderson&amp;author=F. Lee&amp;author=N. Jurcak&amp;publication_year=2023&amp;pmid=37507075&amp;doi=10.1053/j.gastro.2023.06.037&amp;"/></mixed-citation></ref><ref id="ref69"><mixed-citation id="cit69"><named-content content-type="citation-string">Karpisheh V.; Mousavi S. M.; Naghavi
+Sheykholeslami P.; Fathi M.; Mohammadpour Saray M.; Aghebati-Maleki L.; Jafari R.; Majidi Zolbanin N.; Jadidi-Niaragh F.
+The role of regulatory T cells in the pathogenesis
+and treatment of prostate cancer. Life Sci.
+2021, 284, 119132 10.1016/j.lfs.2021.119132.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.lfs.2021.119132"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33513396"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Life Sci.&amp;title=The role of regulatory T cells in the pathogenesis and treatment of prostate cancer&amp;author=V. Karpisheh&amp;author=S. M. Mousavi&amp;author=P. Naghavi Sheykholeslami&amp;author=M. Fathi&amp;author=M. Mohammadpour Saray&amp;volume=284&amp;publication_year=2021&amp;pages=119132&amp;pmid=33513396&amp;doi=10.1016/j.lfs.2021.119132&amp;"/></mixed-citation></ref><ref id="ref70"><mixed-citation id="cit70"><named-content content-type="citation-string">Duell J.; Dittrich M.; Bedke T.; Mueller T.; Eisele F.; Rosenwald A.; Rasche L.; Hartmann E.; Dandekar T.; Einsele H.; Topp M. S.
+Frequency of regulatory T cells determines
+the outcome of the T-cell-engaging antibody blinatumomab in patients
+with B-precursor ALL. Leukemia
+2017, 31, 2181–2190. 10.1038/leu.2017.41.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/leu.2017.41"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5629361"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28119525"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Leukemia&amp;title=Frequency of regulatory T cells determines the outcome of the T-cell-engaging antibody blinatumomab in patients with B-precursor ALL&amp;author=J. Duell&amp;author=M. Dittrich&amp;author=T. Bedke&amp;author=T. Mueller&amp;author=F. Eisele&amp;volume=31&amp;publication_year=2017&amp;pages=2181-2190&amp;pmid=28119525&amp;doi=10.1038/leu.2017.41&amp;"/></mixed-citation></ref><ref id="ref71"><mixed-citation id="cit71"><named-content content-type="citation-string">Hoffmann P.; Hofmeister R.; Brischwein K.; Brandl C.; Crommer S.; Bargou R.; Itin C.; Prang N.; Baeuerle P. A.
+Serial
+killing of tumor cells by cytotoxic T cells redirected with a CD19-/CD3-bispecific
+single-chain antibody construct. Int. J. Cancer
+2005, 115, 98–104. 10.1002/ijc.20908.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/ijc.20908"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15688411"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Cancer&amp;title=Serial killing of tumor cells by cytotoxic T cells redirected with a CD19-/CD3-bispecific single-chain antibody construct&amp;author=P. Hoffmann&amp;author=R. Hofmeister&amp;author=K. Brischwein&amp;author=C. Brandl&amp;author=S. Crommer&amp;volume=115&amp;publication_year=2005&amp;pages=98-104&amp;pmid=15688411&amp;doi=10.1002/ijc.20908&amp;"/></mixed-citation></ref><ref id="ref72"><mixed-citation id="cit72"><named-content content-type="citation-string">Dreier T.; Lorenczewski G.; Brandl C.; Hoffmann P.; Syring U.; Hanakam F.; Kufer P.; Riethmuller G.; Bargou R.; Baeuerle P. A.
+Extremely
+potent, rapid and costimulation-independent
+cytotoxic T-cell response against lymphoma cells catalyzed by a single-chain
+bispecific antibody. Int. J. Cancer
+2002, 100, 690–7. 10.1002/ijc.10557.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/ijc.10557"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="12209608"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Cancer&amp;title=Extremely potent, rapid and costimulation-independent cytotoxic T-cell response against lymphoma cells catalyzed by a single-chain bispecific antibody&amp;author=T. Dreier&amp;author=G. Lorenczewski&amp;author=C. Brandl&amp;author=P. Hoffmann&amp;author=U. Syring&amp;volume=100&amp;publication_year=2002&amp;pages=690-7&amp;pmid=12209608&amp;doi=10.1002/ijc.10557&amp;"/></mixed-citation></ref><ref id="ref73"><mixed-citation id="cit73"><named-content content-type="citation-string">Bühler P.; Molnar E.; Dopfer E. P.; Wolf P.; Gierschner D.; Wetterauer U.; Schamel W. W. A.; Elsässer-Beile U.
+Target-dependent
+T-cell Activation by Coligation With a PSMA × CD3 Diabody Induces
+Lysis of Prostate Cancer Cells. J. Immunother.
+2009, 32, 565–573. 10.1097/CJI.0b013e3181a697eb.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1097/CJI.0b013e3181a697eb"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19483653"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Immunother.&amp;title=Target-dependent T-cell Activation by Coligation With a PSMA × CD3 Diabody Induces Lysis of Prostate Cancer Cells&amp;author=P. Bühler&amp;author=E. Molnar&amp;author=E. P. Dopfer&amp;author=P. Wolf&amp;author=D. Gierschner&amp;volume=32&amp;publication_year=2009&amp;pages=565-573&amp;pmid=19483653&amp;doi=10.1097/CJI.0b013e3181a697eb&amp;"/></mixed-citation></ref><ref id="ref74"><mixed-citation id="cit74"><named-content content-type="citation-string">Leconet W.; Liu H.; Guo M.; Le Lamer-Dechamps S.; Molinier C.; Kim S.; Vrlinic T.; Oster M.; Liu F.; Navarro V.; Batra J. S.; Noriega A. L.; Grizot S.; Bander N. H.
+Anti-PSMA/CD3
+Bispecific Antibody Delivery and Antitumor Activity Using a Polymeric
+Depot Formulation. Mol. Cancer. Ther.
+2018, 17, 1927–1940. 10.1158/1535-7163.MCT-17-1138.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/1535-7163.MCT-17-1138"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29891487"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Cancer. Ther.&amp;title=Anti-PSMA/CD3 Bispecific Antibody Delivery and Antitumor Activity Using a Polymeric Depot Formulation&amp;author=W. Leconet&amp;author=H. Liu&amp;author=M. Guo&amp;author=S. Le Lamer-Dechamps&amp;author=C. Molinier&amp;volume=17&amp;publication_year=2018&amp;pages=1927-1940&amp;pmid=29891487&amp;doi=10.1158/1535-7163.MCT-17-1138&amp;"/></mixed-citation></ref><ref id="ref75"><mixed-citation id="cit75"><named-content content-type="citation-string">Offner S.; Hofmeister R.; Romaniuk A.; Kufer P.; Baeuerle P. A.
+Induction
+of regular cytolytic T cell synapses by bispecific single-chain antibody
+constructs on MHC class I-negative tumor cells. Mol. Immunol.
+2006, 43, 763–71. 10.1016/j.molimm.2005.03.007.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.molimm.2005.03.007"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16360021"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Immunol.&amp;title=Induction of regular cytolytic T cell synapses by bispecific single-chain antibody constructs on MHC class I-negative tumor cells&amp;author=S. Offner&amp;author=R. Hofmeister&amp;author=A. Romaniuk&amp;author=P. Kufer&amp;author=P. A. Baeuerle&amp;volume=43&amp;publication_year=2006&amp;pages=763-71&amp;pmid=16360021&amp;doi=10.1016/j.molimm.2005.03.007&amp;"/></mixed-citation></ref><ref id="ref76"><mixed-citation id="cit76"><named-content content-type="citation-string">Barinka C.; Ptacek J.; Richter A.; Novakova Z.; Morath V.; Skerra A.
+Selection and characterization of
+Anticalins targeting
+human prostate-specific membrane antigen (PSMA). Protein Eng. Des. Sel.
+2016, 29, 105–115. 10.1093/protein/gzv065.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/protein/gzv065"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26802163"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Protein Eng. Des. Sel.&amp;title=Selection and characterization of Anticalins targeting human prostate-specific membrane antigen (PSMA)&amp;author=C. Barinka&amp;author=J. Ptacek&amp;author=A. Richter&amp;author=Z. Novakova&amp;author=V. Morath&amp;volume=29&amp;publication_year=2016&amp;pages=105-115&amp;pmid=26802163&amp;doi=10.1093/protein/gzv065&amp;"/></mixed-citation></ref><ref id="ref77"><mixed-citation id="cit77"><named-content content-type="citation-string">Riedhammer C.; Halbritter D.; Weissert R.
+Peripheral Blood Mononuclear Cells:
+Isolation, Freezing, Thawing, and Culture. Multiple
+Sclerosis
+2014, 1304, 53–61. 10.1007/7651_2014_99.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/7651_2014_99"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25092056"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Multiple Sclerosis&amp;title=Peripheral Blood Mononuclear Cells: Isolation, Freezing, Thawing, and Culture&amp;author=C. Riedhammer&amp;author=D. Halbritter&amp;author=R. Weissert&amp;volume=1304&amp;publication_year=2014&amp;pages=53-61&amp;pmid=25092056&amp;doi=10.1007/7651_2014_99&amp;"/></mixed-citation></ref><ref id="ref78"><mixed-citation id="cit78"><named-content content-type="citation-string">Fortmuller K.; Alt K.; Gierschner D.; Wolf P.; Baum V.; Freudenberg N.; Wetterauer U.; Elsasser-Beile U.; Buhler P.
+Effective targeting
+of prostate cancer by lymphocytes redirected by a PSMA x CD3 bispecific
+single-chain diabody. Prostate
+2011, 71, 588–596. 10.1002/pros.21274.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/pros.21274"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20945402"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Prostate&amp;title=Effective targeting of prostate cancer by lymphocytes redirected by a PSMA x CD3 bispecific single-chain diabody&amp;author=K. Fortmuller&amp;author=K. Alt&amp;author=D. Gierschner&amp;author=P. Wolf&amp;author=V. Baum&amp;volume=71&amp;publication_year=2011&amp;pages=588-596&amp;pmid=20945402&amp;doi=10.1002/pros.21274&amp;"/></mixed-citation></ref></ref-list></sec></sec><sec id="_ad93_" xml:lang="en" sec-type="associated-data" disp-level="1"><title>Associated Data</title><sec id="_adsm93_" xml:lang="en" sec-type="supplementary-materials" disp-level="2"><title>Supplementary Materials</title><supplementary-material id="db_ds_supplementary-material1_reqid_" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="pt3c00159_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 0799/10644396/82795a031ca6/pt3c00159_si_001.pdf?><?cloudpmc-bucket app?><?size 586989?><caption><p>pt3c00159_si_001.pdf</p></caption></media></supplementary-material></sec></sec></body></article>

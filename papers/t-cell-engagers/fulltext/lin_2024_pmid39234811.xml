@@ -1,0 +1,1812 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="advs9413" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="pmc-domain-id">2933</journal-id><journal-id journal-id-type="pmc-domain">advsci</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11538689</article-id><article-id pub-id-type="pmcid-ver">PMC11538689.1</article-id><article-id pub-id-type="pmcaid">11538689</article-id><article-id pub-id-type="pmcaiid">11538689</article-id><article-id pub-id-type="pmid">39234811</article-id><article-id pub-id-type="doi">10.1002/advs.202309697</article-id><article-id pub-id-type="publisher-id">ADVS9413</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Targeting Dual Immune Checkpoints PD‐L1 and HLA‐G by Trispecific T Cell Engager for Treating Heterogeneous Lung Cancer</article-title></title-group><contrib-group><contrib id="advs9413-cr-0001" contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="YC">Yu‐Chuan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9580-7418</contrib-id><xref rid="advs9413-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs9413-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs9413-cr-0002" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="MC">Mei‐Chih</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8934-1236</contrib-id><xref rid="advs9413-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs9413-cr-0003" contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="SW">Shi‐Wei</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0050-0959</contrib-id><xref rid="advs9413-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs9413-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs9413-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs9413-cr-0004" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="Y">Yeh</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7740-0446</contrib-id><xref rid="advs9413-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="advs9413-cr-0005" contrib-type="author"><name name-style="western"><surname>Ho</surname><given-names initials="JHC">Jennifer Hui‐Chun</given-names></name><xref rid="advs9413-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs9413-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="advs9413-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="advs9413-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="advs9413-cr-0006" contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="FY">Fang‐Yu</given-names></name><xref rid="advs9413-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs9413-cr-0007" contrib-type="author"><name name-style="western"><surname>Tan</surname><given-names initials="XT">Xiao‐Tong</given-names></name><xref rid="advs9413-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs9413-cr-0008" contrib-type="author"><name name-style="western"><surname>Chiang</surname><given-names initials="HC">Hung‐Che</given-names></name><xref rid="advs9413-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs9413-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="advs9413-cr-0009" contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="CC">Chiu‐Ching</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0009-2112-0902</contrib-id><xref rid="advs9413-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs9413-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="advs9413-cr-0010" contrib-type="author"><name name-style="western"><surname>Tu</surname><given-names initials="CY">Chih‑Yen</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8126-6171</contrib-id><xref rid="advs9413-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="advs9413-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="advs9413-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Cho</surname><given-names initials="DY">Der‐Yang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6429-3565</contrib-id><xref rid="advs9413-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs9413-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs9413-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref><xref rid="advs9413-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref><address><email>dycho@tool.caaumed.org.tw</email></address></contrib><contrib id="advs9413-cr-0012" contrib-type="author" corresp="yes"><name name-style="western"><surname>Chiu</surname><given-names initials="SC">Shao‐Chih</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1122-3149</contrib-id><xref rid="advs9413-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs9413-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="advs9413-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="advs9413-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref><address><email>016178@tool.caaumed.org.tw</email></address></contrib></contrib-group><aff id="advs9413-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Translational Cell Therapy Center</named-content>
+<institution>China Medical University Hospital</institution>
+<named-content content-type="street">No. 2, Yude Rd., North Dist.</named-content>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Shine‐On BioMedical Co. Ltd.</institution>
+<named-content content-type="street">Rm. B, 10F., No. 573, Sec. 2, Taiwan Blvd., West Dist.</named-content>
+<city>Taichung City</city>
+<postal-code>403</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Institute of New Drug Development</named-content>
+<institution>China Medical University</institution>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Biomedical Sciences</named-content>
+<institution>National Chung Hsing University</institution>
+<city>Taichung City</city>
+<postal-code>402</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Food Science and Biotechnology</named-content>
+<institution>National Chung Hsing University</institution>
+<city>Taichung City</city>
+<postal-code>402</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Center for Translational Genomics and Regenerative Medicine Research</named-content>
+<institution>China Medical University Hospital</institution>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Ophthalmology</named-content>
+<named-content content-type="organisation-division">China Medical University Hospital</named-content>
+<institution>China Medical University</institution>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Research</named-content>
+<named-content content-type="organisation-division">Eye Center</named-content>
+<institution>China Medical University Hospital</institution>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">College of Medicine</named-content>
+<institution>China Medical University</institution>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Division of Nephrology and the Kidney Institute</named-content>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>China Medical University Hospital</institution>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Division of Pulmonary and Critical Care</named-content>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>China Medical University Hospital</institution>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<named-content content-type="organisation-division">College of Medicine</named-content>
+<institution>China Medical University</institution>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Drug Development Center</named-content>
+<institution>China Medical University</institution>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><aff id="advs9413-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>China Medical University Hospital</institution>
+<city>Taichung City</city>
+<postal-code>404</postal-code>
+<country country="TW">Taiwan</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E‐mail: <email>dycho@tool.caaumed.org.tw</email>; <email>016178@tool.caaumed.org.tw</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>9</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2024</year></pub-date><volume>11</volume><issue seq="450">41</issue><issue-id pub-id-type="pmc-issue-id">474458</issue-id><issue-id pub-id-type="doi">10.1002/advs.v11.41</issue-id><elocation-id>2309697</elocation-id><history>
+<date date-type="rev-recd"><day>04</day><month>6</month><year>2024</year></date>
+<date date-type="received"><day>11</day><month>12</month><year>2023</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>05</day><month>09</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>07</day><month>11</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-20 19:25:13.580"><day>20</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). Advanced Science published by Wiley‐VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ADVS-11-2309697.pdf"><?pdf-name ADVS-11-2309697.pdf?><?pdf-size 5975191?><?pdf-md5 25935ce5107030822134a70cbb8b90d0?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:2b2c/11538689/25935ce51070/ADVS-11-2309697.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ADVS-11-2309697.pdf"/><abstract><title>Abstract</title><p>Immunotherapy targeting immune checkpoints (ICPs), such as programmed death‐ligand‐1 (PD‐L1), is used as a treatment option for advanced or metastatic non‐small cell lung cancer (NSCLC). However, overall response rate to anti‐PD‐L1 treatment is limited due to antigen heterogeneity and the immune‐suppressive tumor microenvironment. Human leukocyte antigen‐G (HLA‐G), an ICP as well as a neoexpressed tumor‐associated antigen, is previously demonstrated to be a beneficial target in combination with anti‐PD‐L1. In this study, a nanobody‐based trispecific T cell engager (Nb‐TriTE) is developed, capable of simultaneously binding to T cells, macrophages, and cancer cells while redirecting T cells toward tumor cells expressing PD‐L1‐ and/or HLA‐G. Nb‐TriTE shows broad spectrum anti‐tumor effects in vitro by augmenting cytotoxicity mediated by human peripheral blood mononuclear cells (PBMCs). In a humanized immunodeficient murine NSCLC model, Nb‐TriTE exhibits superior anti‐cancer potency compared to monoclonal antibodies and bispecific T cell engagers. Nb‐TriTE, at the dose with pharmacoactivity, does not induce additional enhancement of circulating cytokines secretion from PMBCs. Nb‐TriTE effectively prolongs the survival of mice without obvious adverse events. In conclusion, this study introduces an innovative therapeutic approach to address the challenges of immunotherapy and the tumor microenvironment in NSCLC through utilizing the dual ICP‐targeting Nb‐TriTE.</p></abstract><abstract id="advs9413-abs-0001" abstract-type="graphical"><p>A nanobody‐based trispecific T cell engager (Nb‐TriTE) is developed to redirect T cells to non‐small cell lung cancer (NSCLC) through dual ICP targeting. In vitro and in vivo evidence suggests that Nb‐TriTE can overcome the immune checkpoints (ICP) heterogeneity of NSCLC without obvious toxicity, implying an innovative approach for the treatment of NSCLC.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ADVS-11-2309697-g003.jpg"><?image-name ADVS-11-2309697-g003.jpg?><?image-size 15537?><?image-md5 f5ed1fea06d4d931e7a924fb963468b9?><?image-image-server-status NEVER_LOAD?><?image-original-height 155?><?image-original-width 180?><?image-scaled-height 155?><?image-scaled-width 180?><?image-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/f5ed1fea06d4/ADVS-11-2309697-g003.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs9413-kwd-0001">human leukocyte antigen‐G (HLA‐G)</kwd><kwd id="advs9413-kwd-0002">immune checkpoint (ICP)</kwd><kwd id="advs9413-kwd-0003">nanobody‐based trispecific T cell engager (Nb‐TriTE)</kwd><kwd id="advs9413-kwd-0004">non‐small cell lung cancer (NSCLC)</kwd><kwd id="advs9413-kwd-0005">programmed death‐ligand 1 (PD‐L1)</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Ministry of Science and Technology/National Science and Technology Council</funding-source><award-id>MOST‐110‐2314‐B‐039‐052</award-id><award-id>MOST‐110‐2314‐B‐039‐053</award-id><award-id>MOST‐111‐2321‐B‐039‐006</award-id><award-id>MOST‐109‐2314‐B‐039‐047‐MY3</award-id><award-id>NSCT‐112‐2314‐B‐039‐053</award-id></award-group><award-group id="funding-0002"><funding-source>CMUH Cancer Research Center of Excellence</funding-source><award-id>MOHW108‐TDU‐B‐212‐124024</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>China Medical University Hospital
+</institution><institution-id institution-id-type="doi">10.13039/501100004391</institution-id></institution-wrap></funding-source><award-id>DMR‐CELL‐2104</award-id><award-id>DMR‐CARGDT‐01</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="17"/><word-count count="11551"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 6, 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.0 mode:remove_FC converted:06.11.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs9413-cit-0050">
+<string-name name-style="western">
+<given-names>Y.‐C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.‐C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.‐W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.‐C.</given-names>
+<surname>Ho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.‐Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.‐T.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.‐C.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.‐C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.‐Y.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.‐C.</given-names>
+<surname>Chiu</surname>
+</string-name>, <article-title>Targeting Dual Immune Checkpoints PD‐L1 and HLA‐G by Trispecific T Cell Engager for Treating Heterogeneous Lung Cancer</article-title>. <source>Adv. Sci.</source>
+<year>2024</year>, <volume>11</volume>, <elocation-id>2309697</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202309697</pub-id>
+<pub-id pub-id-type="pmcid">PMC11538689</pub-id><pub-id pub-id-type="pmid">39234811</pub-id></mixed-citation>
+</p></notes></front><body><sec id="advs9413-sec-0010"><label>1</label><title>Introduction</title><p>Lung cancer is one of the leading malignancies worldwide and has the highest mortality rate among all cancers.<sup>[</sup>
+<xref rid="advs9413-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> Non‐small‐cell lung cancer (NSCLC) represents the primary subtype of lung cancer, with adenocarcinoma serving as its predominant histological manifestation.<sup>[</sup>
+<xref rid="advs9413-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>]</sup> Despite availability of a comprehensive range of treatment options, a significant proportion of NSCLC patients still experience a poor prognosis due to diagnosis of NSCLC at an advanced stage.<sup>[</sup>
+<xref rid="advs9413-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup>
+</p><p>Immunotherapy has witnessed substantial growth in recent years as a treatment modality for cancer. Notably, immune checkpoint blockade (ICB) antibodies targeting the programmed cell death protein‐1 (PD‐1)/programmed death‐ligand 1 (PD‐L1) axis, such as Nivolumab, Pembrolizumab, and Atezolizumab, have demonstrated initial high response rates in various malignancies.<sup>[</sup>
+<xref rid="advs9413-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> However, a substantial portion of patients fail to derive long term benefits from this treatment, majority due to the rapid development of drug resistance.<sup>[</sup>
+<xref rid="advs9413-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<sup>]</sup> Likewise, the efficacy of ICB therapy targeting the PD‐1/PD‐L1 axis in the treatment of advanced NSCLC remains unsatisfactory.<sup>[</sup>
+<xref rid="advs9413-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup>
+</p><p>Activation of inhibitory immune checkpoints (ICPs) other than PD‐1/PD‐L1 in tumor microenvironment (TME) during treatment period may affect the efficacy of PD‐1/PD‐L1 antibodies.<sup>[</sup>
+<xref rid="advs9413-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup> In addition to PD‐1, a variety of inhibitory ICPs on T cells, such as T cells immune globulin mucin‐3 (TIM‐3), cytotoxic T‐lymphocyte‐associated antigen‐4 (CTLA‐4), lymphocyte activation gene 3 (LAG‐3), are associated with T cell function.<sup>[</sup>
+<xref rid="advs9413-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs9413-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> Distinct from ICPs on T cells, human leukocyte antigen G (HLA‐G) has been identified as an potent ICP as well as a neo‐expressed tumor‐associated antigen (TAA) in a large proportion of solid tumors.<sup>[</sup>
+<xref rid="advs9413-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> Current understanding acknowledges that immune checkpoints work together synergistically to create an immune inhibitory effect. The singular antagonism of the PD‐1/PD‐L1 pathway alone has limited effectiveness in enhancing immune cell function and is prone to drug resistance.<sup>[</sup>
+<xref rid="advs9413-bib-0005" ref-type="bibr">
+<sup>5a</sup>
+</xref>
+<sup>]</sup> Therefore, combining multiple checkpoint inhibitors may be a strategy to overcome the resistance to single ICB therapy. Regarding this strategy, we have demonstrated that dual targeting of PD‐L1 and HLA‐G, in combination with chemotherapy, potentiates the cytotoxicity of T lymphocytes against NSCLC.<sup>[</sup>
+<xref rid="advs9413-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup>
+</p><p>Complex networks in TME may influence the progression of malignancy and the efficacy of immunotherapy. Factors such as the absence of PD‐L1 expression, loss of tumor‐infiltrating lymphocytes (TILs), a decreased CD8<sup>+</sup> T/Tregs ratio, and the exhaustion of CD8<sup>+</sup> T cells have been implicated in rendering resistance against PD‐1/PD‐L1 ICB therapy.<sup>[</sup>
+<xref rid="advs9413-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> In particular, the lack of significant TILs in tumor regions is the major problem limiting the efficacy of T cell‐based immunotherapies.<sup>[</sup>
+<xref rid="advs9413-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> Therefore, strategies aimed at modulating TIL characteristics within the TME and enhancing the efficient interactions between effector cells and tumor cells hold the potential to enhance the efficacy and prognosis of immunotherapy in the treatment of NSCLC.</p><p>Bispecific T cell engager (BiTE) is a bispecific antibody construct with unique capabilities that simultaneously binds with one arm to a TAA on tumor cells and with another arm to CD3 complex on T cells. This binding process creates a cytolytic synapse independently of the intrinsic antigen‐specific T cell receptor (TCR) recognition.<sup>[</sup>
+<xref rid="advs9413-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> BiTE stands as one of the most promising therapeutic strategies to address the limitation of TILs.<sup>[</sup>
+<xref rid="advs9413-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs9413-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> Given the favorable outcomes of BiTE therapy in hematological malignancies, a number of BiTE antibodies directed against TAAs are currently undergoing clinical development.<sup>[</sup>
+<xref rid="advs9413-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> Nevertheless, the limited effectiveness of BiTE therapeutics in treating solid tumors, mainly due to the heterogeneity of TAAs, is a major challenge.<sup>[</sup>
+<xref rid="advs9413-bib-0014" ref-type="bibr">
+<sup>14b,c</sup>
+</xref>
+<sup>]</sup> Additionally, the short serum half‐life of BiTE, requiring continuous systemic infusion, is a hurdle to be overcome.<sup>[</sup>
+<xref rid="advs9413-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> Moreover, limited ability of BiTE to infiltrate the regions of solid tumors and the immunosuppressive TME within solid tumors pose additional challenges for BiTE therapeutics.<sup>[</sup>
+<xref rid="advs9413-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> Therefore, the engineering of antibody constructs with the goal of improving therapeutic efficacy and minimizing toxicity is an emerging topic in cancer therapeutic development to address the limitations of BiTE therapies for the treatment of solid tumors.</p><p>Trispecific T cell engagers (TriTEs) are being actively developed for the treatment of solid tumors in the wake of BiTE therapy.<sup>[</sup>
+<xref rid="advs9413-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> The binding affinity, epitope position, flexibility, and ability to form immunological synapses are factors that influence the efficiency of multispecific T cell engagers in treating solid tumors.<sup>[</sup>
+<xref rid="advs9413-bib-0015" ref-type="bibr">
+<sup>15a</sup>
+</xref>
+<sup>]</sup> TriTEs can either target an additional TAA via a third binding moiety to increase specificity and avoid immune escape, or target additional costimulatory receptors on T cells to improve their effector functions.<sup>[</sup>
+<xref rid="advs9413-bib-0013" ref-type="bibr">
+<sup>13a</sup>
+</xref>
+<sup>]</sup> Our previous studies have shown that targeting HLA‐G could overcome the immunosuppressive TME and combat drug resistance in solid tumors.<sup>[</sup>
+<xref rid="advs9413-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> Furthermore, the dual‐targeting approach against both HLA‐G and PD‐L1 is a promising strategy to overcome tumor heterogeneity and potentiate T cell‐based immunotherapy for the treatment of solid tumors.<sup>[</sup>
+<xref rid="advs9413-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="advs9413-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> In the present study, we developed a nanobody‐based dual ICP‐targeting TriTE (Nb‐TriTE) constructed by fusing anti‐PD‐L1, anti‐HLA‐G, and anti‐CD3 Nbs to a human immunoglobulin G (IgG) crystallizable fragment (Fc) domain and evaluate the potency as well as safety of Nb‐TriTE in the treatment of NSCLC in vitro and in vivo.</p></sec><sec id="advs9413-sec-0020"><label>2</label><title>Results</title><sec id="advs9413-sec-0030"><label>2.1</label><title>Upregulation and Compensatory Expression of PD‐L1 and HLA‐G in Refractory NSCLC</title><p>To assess the correlation between disease stage and the expression levels of PD‐L1 and HLA‐G in NSCLC, specimen collection was carried out in accordance with the Institutional Review Board (IRB) guidelines. Subsequently, tumor sections were prepared and subjected to immunohistochemistry (IHC) staining, as detailed in the Experimental Section. The results showed that the expression levels of PD‐L1 and HLA‐G in advanced NSCLC tumors were higher than those in early‐stage tumors, with no detectable expression observed in the paired normal tissue adjacent to the tumor (NAT) (<bold>Figure</bold> <xref rid="advs9413-fig-0001" ref-type="fig">
+<bold>1</bold>A–E</xref>). Moreover, further analysis revealed a positive correlation between PD‐L1 and HLA‐G expression levels in patient with adenocarcinoma (LUAD, R = 0.8188, <italic toggle="yes">p</italic> &lt; 0.0001. Figure <xref rid="advs9413-fig-0001" ref-type="fig">1C</xref>) and squamous cell carcinoma (LUSC, R = 0.9238, <italic toggle="yes">p</italic> &lt; 0.001. Figure <xref rid="advs9413-fig-0001" ref-type="fig">1F</xref>). It is known that the limited efficacy of PD‐1/PD‐L1 ICB therapy may result from the activation of other ICP pathways.<sup>[</sup>
+<xref rid="advs9413-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup> We therefore hypothesized that the expression profile of HLA‐G on NSCLC tumor cells would be affected following treatment with PD‐L1 blocking antibodies, and vice versa. To verify this, we treated NSCLC cell lines A549 and H520 with the clinical anti‐PD‐L1 monoclonal antibody Atezolizumab alone or in combination with peripheral blood mononuclear cells (PBMCs), and subsequently detected changes in HLA‐G levels. The expression levels of HLA‐G on the surface of NSCLC cells were significantly enhanced after treatment with Atezolizumab or cocultured with PBMCs in the presence of Atezolizumab (Figure <xref rid="advs9413-fig-0001" ref-type="fig">1G,I</xref>). Conversely, a significant increase in PD‐L1 expression levels on the surface of NSCLC cells was observed following treatment with a commercial HLA‐G blocking/neutralizing antibody (mAb 87G) or when cocultured with PBMCs in combination with mAb 87G (Figure <xref rid="advs9413-fig-0001" ref-type="fig">1H,J</xref>). Therein, the exhausted markers on PMBCs were not affected during the in vitro coculturing (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S1</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs9413-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>PD‐L1 and HLA‐G are highly expressed in refractory NSCLC. A) Programmed death‐ligand 1 (PD‐L1) and human leukocyte antigen‐G (HLA‐G) staining were performed on human LUAD tissue slices from different stages. Paired normal adjacent noncancerous tissues (NAT) were served as a control. B) Quantitative analysis for PD‐L1 and HLA‐G staining are shown as H‐scores respectively. Data are means ± SEM of 44 independent samples. C) The correlation between PD‐L1 and HLA‐G expression in LUAD was evaluated and quantified using Pearson's correlation coefficient (R). In parallel, D) PD‐L1 and HLA‐G staining were performed on human LUSC tissue slices from different stages. Paired NAT were served as a control. E) Quantitative analysis for PD‐L1 and HLA‐G staining are shown as H‐scores respectively. Data are means ± SEM of 22 independent samples. F) The correlation between PD‐L1 and HLA‐G expression in LUSC was evaluated and quantified using Pearson's correlation coefficient (R). G)The expression of HLA‐G on A549 and I) H520 cell membrane was examined by flow cytometric analysis, following a 24‐h treatment with PBMC, Atezolizumab, or PBMC + Atezolizumab. Quantitative results are shown as mean fluorescence intensity (MFI). Data represent means ± SEM of six independent experiments. H) The expression of PD‐L1 on A549 and J) H520 cell membrane was examined by flow cytometric analysis, following a 24‐h treatment with PBMC, HLA‐G monoclonal antibody clone 87G (mAb 87G), or PBMC + mAb 87G. Quantitative results are shown as MFI. Data represent means ± SEM of six independent experiments. *<italic toggle="yes">p </italic>&lt; 0.05; *<italic toggle="yes">p </italic>&lt; 0.01; ***<italic toggle="yes">p </italic>&lt; 0.001. NSCLC, non‐small cell lung cancer; LUAD, lung adenocarcinoma; LUSC, lung squamous cell carcinoma.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ADVS-11-2309697-g008.jpg"><?image-name ADVS-11-2309697-g008.jpg?><?image-size 249907?><?image-md5 8f1e837dede15915997b327d3f565b04?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1000?><?image-original-width 647?><?image-scaled-height 1000?><?image-scaled-width 647?><?image-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/8f1e837dede1/ADVS-11-2309697-g008.jpg?><?thumb-name ADVS-11-2309697-g008.gif?><?thumb-size 11945?><?thumb-md5 72d8bbdc1be8cb90e046c51bab748671?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 155?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/72d8bbdc1be8/ADVS-11-2309697-g008.gif?></graphic></fig></sec><sec id="advs9413-sec-0040"><label>2.2</label><title>Development of Nb‐TriTE for the Dual ICB Targeting HLA‐G and PD‐L1</title><p>Solely targeting the PD‐1/PD‐L1 pathway has limited effectiveness in boosting immune cell function.<sup>[</sup>
+<xref rid="advs9413-bib-0005" ref-type="bibr">
+<sup>5a</sup>
+</xref>
+<sup>]</sup> Our previous studies have demonstrated the feasibility of the dual ICB strategy.<sup>[</sup>
+<xref rid="advs9413-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> In the present study, we further developed a nanobody (V<sub>H</sub>H)‐based trispecific T cell engager (Nb‐TriTE) targeting both PD‐L1 and HLA‐G. Each V<sub>H</sub>H fragment within Nb‐TriTE originates from the camelids after immunization, followed by the construction of a V<sub>H</sub>H library using phage display techniques. After multiple rounds of screening and selection, V<sub>H</sub>H antibody candidates with high affinity were determined and sequenced. Following rigorous affinity testing with their respective antigens, we carefully selected clones to develop the Nb‐TriTE antibody construct (<bold>Figure</bold> <xref rid="advs9413-fig-0002" ref-type="fig">
+<bold>2</bold>A</xref>). The engineered Nb‐TriTE comprised the following sequences: anti‐PD‐L1 V<sub>H</sub>H, anti‐HLA‐G V<sub>H</sub>H, and anti‐CD3ε V<sub>H</sub>H (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2B</xref>). Two flexible (GGGGS)<sub>2</sub> linker sequences were introduced between these three V<sub>H</sub>H Nbs, followed by fusion with the human IgG1 hinge and Fc region to prolong the half‐life of Nb‐TriTE in the serum (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2C</xref>). The predicted structure constructed using an algorithm derived from the 3D protein prediction database Alphafold2 is shown in Figure <xref rid="advs9413-fig-0002" ref-type="fig">2D</xref>. The production of Nb‐TriTE was characteristic through sodium dodecyl sulfate‐polyacrylamide gel electrophoresis (SDS‐PAGE) analysis (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2E</xref>) and size‐exclusion high‐performance liquid chromatography after purified from harvested cell culture fluid (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2F</xref>). The binding affinities of Nb‐TriTE to its targets, including recombinant human PD‐L1 (rhPD‐L1), rhHLA‐G, and rhCD3ε, as well as the interaction between the Fc region of Nb‐TriTE and Fc gamma receptor III (FcγRIII), were assessed and compared with the commercial antibodies (Atezolizumab: anti PD‐L1, mAb 87G: anti HLA‐G, and Muromonab (OKT3): anti‐CD3) and Nb‐BiTEs through enzyme‐linked immunosorbent assay (ELISA). The results show that Nb‐TriTE and Nb‐BiTEs had comparable binding abilities to their target ligands, and both are superior to the corresponding monoclonal antibodies. (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2G</xref>). Additionally, the comparison analysis of binding interactions between commercial monoclonal antibodies, the V<sub>H</sub>H components of Nb‐TriTE, and Nb‐TriTE itself with target antigens, including recombinant rhPD‐L1, rhHLA‐G, and rhCD3ε, was conducted using surface plasmon resonance (SPR) assay on a BIAcore SPR biosensor (BIAcore Inc). The results indicate that the equilibrium dissociation constant (<italic toggle="yes">K<sub>D</sub>
+</italic>) of Nb‐TriTE (95.76 p<sc>m</sc>) binding to rhPD‐L1 was higher than that of its anti‐PD‐L1 V<sub>H</sub>H component (0.126 p<sc>m</sc>), while &gt;32.7‐fold lower than that of monoclonal Ab Atezolizumab (3129 p<sc>m</sc>) (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2H</xref>). The <italic toggle="yes">K<sub>D</sub>
+</italic> for Nb‐TriTE and anti‐HLA‐G V<sub>H</sub>H binding to rhHLA‐G were 0.701 and 4.942 n<sc>m</sc>, respectively, both were lower than that of mAb 87G (8.689 n<sc>m</sc>) (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2I</xref>). The <italic toggle="yes">K<sub>D</sub>
+</italic> values for Nb‐TriTE (0.337 n<sc>m</sc>) and anti‐CD3ε V<sub>H</sub>H (0.505 n<sc>m</sc>) binding to rhCD3ε were both lower than that of the commercial monoclonal antibody Muromonab (7.68 n<sc>m</sc>), demonstrating a better binding affinity and specificity of Nb‐TriTE and its anti‐CD3ε V<sub>H</sub>H component compared to Muromonab (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2J</xref>). Subsequently, the recognition and binding ability of Nb‐TriTE to cancer cells was evaluated through a cell‐based ELISA. HLA‐G and/or PD‐L1 expressing cancer cells including NSCLC A549, breast cancer MDA‐MB‐231, ovarian cancer SK‐OV‐3, and hypopharyngeal tumor FaDu cell lines were used. The results demonstrate a greater ability of Nb‐TriTE to recognize cancer cells than commercial antibodies (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2K</xref>). Afterward, competitive ELISA was performed to assess and compare the specificity and capacity of Nb‐TriTE with its V<sub>H</sub>H components and commercial monoclonal Abs in inhibiting PD‐L1 binding to PD‐1, HLA‐G binding to KIR2DL4, as well as HLA‐G binding to LILRB1. (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2L</xref>). Moreover, the purified Nb‐TriTE and its anti‐HLA‐G V<sub>H</sub>H component showed strong binding affinity to all HLA‐G isoforms, comparable to that of the mAb 4H84 and superior to mAb 87G (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S2A–D</xref>, Supporting Information). Although Nb‐TriTE can bind all HLA‐G isoforms, it had the capacity to recognize membrane‐bound HLA‐G overexpressed on tumor cells even in the presence of interference from soluble HLA‐G isoforms (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S2E,F</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs9413-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Characterization of Nb‐TriTE. A) Schematic representation for the selection and identification process of V<sub>H</sub>H nanobodies in this study. B) The construction of Nb‐TriTE was engineered with three V<sub>H</sub>H nanobodies specific to anti‐PD‐L1, anti‐HLA‐G, and CD3ɛ, respectively, following a secreatable signal peptide. These three V<sub>H</sub>H fragments were connected through two flexible GS linkers (G4S)<sub>2</sub> and followed by the human IgG1 Fc regions. C) Schematic diagram showing the components and conformation of the developed Nb‐TriTE. D) The 3D structure of Nb‐TriTE was predicted by the Alphafold2 software. E) Reduced or non‐reduced sodium dodecyl sulphate‐polyacrylamide gel electrophoresis was performed to confirm the molecular weight of Nb‐TriTE. F) The purity of Nb‐TriTE was determined by size exclusion chromatography using the Superdex 200 Increase columns. G) Binding ability of Nb‐TriTE and Nb‐BiTE to specific antigens, including human PD‐L1, HLA‐G, and CD3, and the interaction between the Fc region of Nb‐TriTE and Fc gamma receptor III (FcγRIII) were assessed and compared to that of monoclonal antibodies using ELISA. The antibody‐antigen interactions were analyzed by BIAcore SPR biosensor. Sensor chips were coated with H) rhPD‐L1, I) rhHLA‐G, or J) rhCD3, followed by binding with commercial monoclonal antibodies including Atezolizumab targeting PD‐L1, mAb 87G targeting HLA‐G, and Muromonab targeting CD3, the individual V<sub>H</sub>H components of Nb‐TriTE, or Nb‐TriTE. Results are presented as sensorgrams with the equilibrium dissociation constant (<italic toggle="yes">K<sub>D</sub>
+</italic>). K) Solid tumor cell lines including A549, MDA‐MB‐231, SK‐OV‐3, and FaDu cells were individually seeded onto 96‐well plates. These cells were then incubated with the commercial antibodies Atezolizumab, mAb 87G, and Nb‐TriTE, respectively. The binding affinity of Atezolizumab, mAb 87G, and Nb‐TriTE toward to these cancer cells was analyzed. L) Nb‐TriTE combined with recombinant human PD‐1, KIR2DL4, LILRB1 proteins, followed by added into 96‐well plates that were pre‐coated with PD‐1 or HLA‐G antigen. The ability of Nb‐TriTE competing the binding of PD‐L1/PD‐1, HLA‐G/KIR2DL4, or HLA‐G/KIR2DL4 was examined. The data represented are the means ± SEM of six independent experiments.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ADVS-11-2309697-g001.jpg"><?image-name ADVS-11-2309697-g001.jpg?><?image-size 92064?><?image-md5 f67554689ff3f805617632296d0b804b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 600?><?image-original-width 820?><?image-scaled-height 400?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/f67554689ff3/ADVS-11-2309697-g001.jpg?><?thumb-name ADVS-11-2309697-g001.gif?><?thumb-size 7996?><?thumb-md5 21c048b8dd91c802876a96d91b0b0969?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 109?><?thumb-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/21c048b8dd91/ADVS-11-2309697-g001.gif?></graphic></fig></sec><sec id="advs9413-sec-0050"><label>2.3</label><title>Nb‐TriTE Simultaneously Binding on Tumor and Immune Cells</title><p>Based on the results above, purified Nb‐TriTE could effectively bind to PD‐L1 and HLA‐G on tumor cells, as well as CD3 on T cells. We subsequently evaluated the potency of Nb‐TriTE to concurrently engage with both tumor and immune cells through a coculture system. The identification of macrophages and T cells that utilized in the coculture system, and determination of saturated immune cell number (6 × 10<sup>6</sup>) against 6 × 10<sup>3</sup> A549 cells per well, as well as the experimental design of ELISA‐based functional assay are described in the Experimental Section (also refer to Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S3</xref>, Supporting Information). The interaction of the A549 cells and Nb‐TriTE, and CD3<sup>+</sup> T cells with Nb‐TriTE was evaluated. The binding of Nb‐TriTE to CellTracker Green‐pre‐stained A549 cells exhibited a dose‐dependent escalation (<bold>Figure</bold> <xref rid="advs9413-fig-0003" ref-type="fig">
+<bold>3</bold>A</xref>). Similarly, a dose‐dependent elevation in the binding quantity of Nb‐TriTE to CD3<sup>+</sup> T cells was observed (Figure <xref rid="advs9413-fig-0003" ref-type="fig">3B</xref>). In addition, after coculturing with PBMCs in the presence of Nb‐TriTE, the fluorescent signals from CD3 and V<sub>H</sub>H displayed strong co‐localization with A549 cells, indicating that the presence of Nb‐TriTE facilitated the engagement between CD3<sup>+</sup> T cells and A549 cells (Figure <xref rid="advs9413-fig-0003" ref-type="fig">3C</xref>). ELISA‐based functional assay was subsequently conducted, and the absorbance values at OD<sub>450</sub> were determined to assess the simultaneously binding of Nb‐TriTE to tumor cells, T cells, and macrophages (Figure <xref rid="advs9413-fig-0003" ref-type="fig">3D</xref>). The results obtained from the functional assays demonstrate the capability of Nb‐TriTE to effectively engage immune cells with tumor cells simultaneously. Consequently, we proceeded to evaluate the impact of Nb‐TriTE on the cytotoxicity of macrophages, T cells, and PBMCs against tumor cells. As depicted in Figure <xref rid="advs9413-fig-0003" ref-type="fig">3E</xref>, Nb‐TriTE effectively enhanced the cytotoxicity of macrophages, T cells, and PBMCs, with the most pronounced improvement observed in PBMCs against A549 cells.</p><fig position="float" fig-type="Figure" id="advs9413-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Nb‐TriTE simultaneously connects tumor cells with T cells, further enhancing the cell killing activity of T cells and immune cells in PBMCs. A) A549 cells, with a density of 1 × 10<sup>5</sup> cells mL<sup>−1</sup>, and B) PBMCs, with a density of 3 × 10<sup>5</sup> cells mL<sup>−1</sup> were independently incubated with 0, 0.01, 0.1, 1, or 10 µg mL<sup>−1</sup> Nb‐TriTE, followed by incubation with anti‐camelid V<sub>H</sub>H‐iFluor 555 Ab. The binding levels of Nb‐TriTE were determined by flow cytometric analysis, and quantitative results are represented as mean fluorescence intensity (MFI). The data presented are the means ± SEM of six independent samples. C) A549 cells were pre‐labeled with CellTracker Green and seeded into 12‐well plates, then followed by incubation with PBMCs in the presence or absence of Nb‐TriTE. Immunocytochemistry was performed to examine the association between A549 cells, CD3<sup>+</sup> T cells, and Nb‐TriTE using fluorescence microscopy. The original magnification is ×400. The scale bar represents 50 µm. D) The schematic diagrams show the experimental strategy for evaluating the linkage between A549 cells, T cells, macrophages, and Nb‐TriTE through cell‐based ELISA. HRP‐labeled E‐cadherin<sup>+</sup> A549 cells with HRP‐labeled CD3<sup>+</sup> T cells, HRP‐labeled E‐cadherin<sup>+</sup> A549 cells with HRP‐labeled CD68<sup>+</sup> macrophages, and HRP‐labeled CD3<sup>+</sup> T cells with HRP‐labeled CD68<sup>+</sup> macrophages were incubated with Nb‐TriTE at a series concentration and then sequentially introduced into culture plates pre‐seeded with macrophages, T cells, and A549 cells at a density of 1 × 10<sup>5</sup> cells mL<sup>−1</sup>. After incubation with 3,3′,5,5′‐tetramethylbenzidine, the reaction was terminated using 2N sulphuric acid, and then the absorbance at 450 nm was determined using ELISA reader. E) A549 cells were seeded into 24‐well plates at a density of 4 × 10<sup>4</sup> cells mL<sup>−1</sup> and then stained with CellTracker Green. A549 cells were then cocultured with macrophages, T cells, and PBMC, respectively, in the presence of Nb‐TriTE at a range of concentrations for 24 h. Thereafter, the cocultured cells were stained with propidium iodide (2 µg mL<sup>−1</sup>), and the dead cells were detected using flow cytometer. ***<italic toggle="yes">p </italic>&lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ADVS-11-2309697-g002.jpg"><?image-name ADVS-11-2309697-g002.jpg?><?image-size 187967?><?image-md5 fbee374b8f041d003b36b97e9007a17c?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1000?><?image-original-width 695?><?image-scaled-height 1000?><?image-scaled-width 695?><?image-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/fbee374b8f04/ADVS-11-2309697-g002.jpg?><?thumb-name ADVS-11-2309697-g002.gif?><?thumb-size 9305?><?thumb-md5 0099fd30e43961ed2f082794b84745aa?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 144?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/0099fd30e439/ADVS-11-2309697-g002.gif?></graphic></fig></sec><sec id="advs9413-sec-0060"><label>2.4</label><title>Nb‐TriTE Enhances the Anti‐Cancer Capacity of PBMCs In Vitro</title><p>To determine whether the heightened cytotoxicity of PBMCs against tumor cells arises from the engagement facilitated by Nb‐TriTE with tumor cells, T cells and even the macrophages within PBMCs, we conducted an evaluation of in vitro cell killing assay. The evaluation was performed by coculturing of CellTracker Green‐pre‐stained A549 cells with PBMCs at various E:T ratios, both in the presence and absence of Nb‐TriTE. The percentage of dead cells was determined by propidium iodide (PI) staining at 24, 48, and 72 h. The results depicted in <bold>Figure</bold> <xref rid="advs9413-fig-0004" ref-type="fig">
+<bold>4</bold>A</xref> illustrate that Nb‐TriTE treatment significantly enhanced the cell‐killing activity of PBMCs in time‐ and dose‐dependent manners. Specifically, at an E:T ratio of 1:1, treatment with 100 µg mL<sup>−1</sup> Nb‐TriTE demonstrated a significant increase in cell death for A549 cells at 24, 48, and 72 h, in comparison to their respective control groups. At an E:T ratio of 3:1, treatments with 10 and 100 µg mL<sup>−1</sup> Nb‐TriTE led to a significant enhancement of A549 cell deaths at 48, and 72 h, as compared to their respective control groups. Moreover, at the E:T ratio of 6:1, simultaneous treatments with Nb‐TriTE at concentrations exceeding 1 µg mL<sup>−1</sup> (1, 10, and 100 µg mL<sup>−1</sup>) exhibited a significant augmentation in PBMC cell killing capacity at 48 and 72 h, in comparison to their control groups.</p><fig position="float" fig-type="Figure" id="advs9413-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Nb‐TriTE enhances the cell‐killing capacity and cytokine release of PBMCs. A) A549 cells at 4 x 10<sup>4</sup> were stained with CellTracker Green followed by cocultured with PBMCs at E:T ratios of 1:1, 1:3, and 6:1 in the presence of Nb‐TriTE at concentrations of 0, 0.01, 0.1, 1, 10, and 100 µg mL<sup>−1</sup>, respectively. After coculturing for 24, 48, and 72 h, the cell‐killing ability was evaluated by propidium iodide staining‐based cell death detection and analyzed by flow cytometer. Data represent means ± SEM of six independent samples. A549 cells at 1 × 10<sup>4</sup> were then incubated with 10 µg mL<sup>−1</sup> Nb‐TriTE and PBMCs at E:T ratios of 0:1, 1:1, 3:1, 6:1, and 6:0 for 48 h. The release of B) cytotoxic molecules, perforin and granzyme B, and C) cytokines including TNF‐α, IL‐2, IFN‐γ, and IL‐6 in the supernatants were assessed via ELISA. Quantitative results were means ± SEM of six independent samples for each group. *<italic toggle="yes">p </italic>&lt; 0.05; **<italic toggle="yes">p </italic>&lt; 0.01; ***<italic toggle="yes">p </italic>&lt; 0.001. ND, not detected; ns, not significant.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ADVS-11-2309697-g005.jpg"><?image-name ADVS-11-2309697-g005.jpg?><?image-size 57904?><?image-md5 07e6ac8fead8bdb3817276913373dca9?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 523?><?image-original-width 820?><?image-scaled-height 348?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/07e6ac8fead8/ADVS-11-2309697-g005.jpg?><?thumb-name ADVS-11-2309697-g005.gif?><?thumb-size 6777?><?thumb-md5 480f833a9401a4159a450f3d01d26b90?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 125?><?thumb-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/480f833a9401/ADVS-11-2309697-g005.gif?></graphic></fig></sec><sec id="advs9413-sec-0070"><label>2.5</label><title>Nb‐TriTE Enhancement of Cytokines Release from PBMCs in the Presence of Tumor Cells</title><p>Subsequently, the release of cytotoxic molecules and cytokines was evaluated via ELISA using the supernatants collected from the coculture groups treated simultaneously with 10 µg mL<sup>−1</sup> Nb‐TriTE for 48 h. Figure <xref rid="advs9413-fig-0004" ref-type="fig">4B</xref> illustrates that in the presence and absence of Nb‐TriTE, an increasing E:T ratio corresponded to an increase in the release of cytotoxic molecules, including perforin and granzyme B, from PBMCs. Notably, Nb‐TriTE treatment significantly potentiated the concentration of perforin and granzyme B in the coculture system in the present of A549 cells. Moreover, cytokines, including TNF‐α, IL‐2, IFN‐γ, and IL‐6, secreted from PBMCs after coculturing with A549 cells were increased in correspondence with the rising E:T ratio, while simultaneous Nb‐TriTE treatment further intensified the secretion of these cytokines (Figure <xref rid="advs9413-fig-0004" ref-type="fig">4C</xref>). It is important to note that, in the absence of tumor cells (indicated by an E:T ratio of 6:0), the concentrations of cytotoxic molecules as well as tested cytokines were at minimal levels and not altered by Nb‐TriTE (Figure <xref rid="advs9413-fig-0004" ref-type="fig">4B,C</xref>, respectively), supporting that Nb‐TriTE per se has a lower risk of triggering PBMCs to secret cytokine in the absent of tumor cells.</p></sec><sec id="advs9413-sec-0080"><label>2.6</label><title>Nb‐TriTE Strengthening Cell‐Killing Capacity of PBMCs Against Tumor Cells Overexpressing PD‐L1 and HLA‐G</title><p>The specificity of Nb‐TriTE for PD‐L1 and HLA‐G was further evaluated using A549 subclones that stably overexpress PD‐L1 (ovPD‐L1), HLA‐G (ovHLA‐G), and both PD‐L1 and HLA‐G (ovPD‐L1/ovHLA‐G). The protein levels of PD‐L1 and HLA‐G in A549 sub‐clones were identified by western blotting (<bold>Figure</bold> <xref rid="advs9413-fig-0005" ref-type="fig">
+<bold>5</bold>A</xref>) and flow cytometric analysis (Figure <xref rid="advs9413-fig-0005" ref-type="fig">5B</xref>). The effect of Nb‐TriTE on anti‐tumor responses of PBMCs was then evaluated and compared between control A549 (represented as vector), ovPD‐L1, ovHLA‐G, and ovPD‐L1/ovHLA‐G A549 sub‐clones. Nb‐TriTE significantly strengthened cell‐killing ability of PBMCs in all the A549 subclones. Among them, the greatest cell‐killing was observed in A549 cells overexpressing both PD‐L1 and HLA‐G (ovPD‐L1/ovHLA‐G) (Figure <xref rid="advs9413-fig-0005" ref-type="fig">5C</xref>). The specificity of Nb‐TriTE for PD‐L1 and HLA‐G was further confirmed in H520 cells transiently overexpressing PD‐L1 (ovPD‐L1), HLA‐G (ovHLA‐G), and both PD‐L1 and HLA‐G (ovPD‐L1/ovHLA‐G) as well (Figure <xref rid="advs9413-fig-0005" ref-type="fig">5D‐F</xref>).</p><fig position="float" fig-type="Figure" id="advs9413-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Potent cell‐killing activity of PBMCs in combination with Nb‐TriTE against PD‐L1‐ or HLA‐G‐overexpressing cancer cells. PD‐L1 and HLA‐G levels in mock cells and cells overexpressing PD‐L1 (ovPD‐L1), HLA‐G (ovHLA‐G), and both PD‐L1 and HLA‐G (ovPD‐L1/ovHLA‐G) in A549 cells or H520 cells were determined and compared by A,D) western blot and B,E) flow cytometry analysis using specific antibodies. Flow cytometric data are represented as histogram overlays. C,F) Mock, ovPD‐L1, ovHLA‐G, and ovPDL‐1/ovHLA‐G A549 cells or H520 cells (4 × 10<sup>4</sup>) were stained with CellTracker Green followed by incubation with Nb‐TriTE (10 µg mL<sup>−1</sup>), PBMCs (E:T = 3:1), or PBMCs combined with Nb‐TriTE for 48 h. The cell‐killing ability was then evaluated by PI staining‐based cell death detection via flow cytometer analysis. Data represent the means ± SEM of six independent samples. G) The expression levels of PD‐L1 and H) HLA‐G on cell surface of MDA‐MB‐231, U‐87 MG, SK‐OV‐3, and FaDu cells were detected by flow cytometry. I) Cancer cell lines, including MDA‐MB‐231, U‐87 MG, SK‐OV‐3, and FaDu cells at 4 × 10<sup>4</sup>, were labeled with CellTracker Green followed by incubation with Nb‐TriTE (10 µg mL<sup>−1</sup>), PBMCs (E:T = 3:1), or PBMCs combined with Nb‐TriTE for 48 h. Cell‐killing ability was assessed by propidium iodide staining‐based cell death detection. Data represent the means ± SEM of six independent samples. ***<italic toggle="yes">p </italic>&lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ADVS-11-2309697-g006.jpg"><?image-name ADVS-11-2309697-g006.jpg?><?image-size 68839?><?image-md5 dcb851a5acb43bdbc8cf60cafa4b773b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 629?><?image-original-width 820?><?image-scaled-height 419?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/dcb851a5acb4/ADVS-11-2309697-g006.jpg?><?thumb-name ADVS-11-2309697-g006.gif?><?thumb-size 6635?><?thumb-md5 b22b45d891ce652e86f8667f4e77fec0?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 104?><?thumb-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/b22b45d891ce/ADVS-11-2309697-g006.gif?></graphic></fig><p>We conducted additional evaluations of the application of Nb‐TriTE in the treatment of various types of malignant tumors, including the MDA‐MB‐231 triple‐negative breast cancer (TNBC) cell line, U‐87 MG glioblastoma cell line, SK‐OV‐3 ovarian adenocarcinoma cell line, and FaDu hypopharyngeal carcinoma cell line. The expression levels of PD‐L1 and HLA‐G on cell surface of these cell lines were assessed by flow cytometry analysis. The results display the varying levels of PD‐L1 and HLA‐G in theses cell lines (Figure <xref rid="advs9413-fig-0005" ref-type="fig">5G,H</xref>, respectively). Cell‐killing was evaluated after co‐culturing individual cell lines with PBMCs in combination with Nb‐TriTE. The results presented in Figure <xref rid="advs9413-fig-0005" ref-type="fig">5I</xref> reveal that Nb‐TriTE significantly potentiated cell‐killing capacity of PBMCs for the treatment of all these cancer cell lines. Specifically, Nb‐TriTE exhibited relatively strong enhancement in PBMC cytotoxicity against TNBC cell line MDA‐MB‐231, while it had a comparatively weak effect on cytotoxicity against SK‐OV‐3 cell line in this experiment.</p><p>These findings suggest a correlation between the efficacy of Nb‐TriTE in redirecting T cells within PBMCs to eliminate tumor cells and the expression levels of PD‐L1 and HLA‐G on those tumor cells. Moreover, the effectiveness of Nb‐TriTE demonstrates promise in mitigating challenges posed by tumor heterogeneity, particularly variations in PD‐L1 and HLA‐G expression.</p></sec><sec id="advs9413-sec-0090"><label>2.7</label><title>Inhibition of Tumor Growth and Survival Prolongation by Nb‐TriTE in a Humanized Orthotopic Lung Cancer Mouse Model</title><p>To further validate the in vivo therapeutic effects of Nb‐TriTE, we conducted experiments using PBMC‐humanized NOD/SCID gamma (NSG) mice bearing cell line‐derived xenografted (CDX) tumors (PBMC‐CDX‐NSG) derived from the NSCLC A549 cell line. In order to compare the efficiency of Nb‐TriTE with commercial monoclonal antibodies, NSCLC tumor‐bearing mice were intravenously injected with PBMCs followed by either Nb‐TriTE or specific monoclonal Ab on a weekly basis for 6 weeks (refer to <bold>Figure</bold> <xref rid="advs9413-fig-0006" ref-type="fig">
+<bold>6</bold>A</xref>). The tumor growth was monitored (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S4A</xref>, Supporting Information) and survival rate was assessed throughout the study. Notably, the tumor growth inhibition (TGI) was significantly higher in the group of PBMCs combined with Nb‐TriTE treatment compared to other groups (Figure <xref rid="advs9413-fig-0006" ref-type="fig">6B</xref>). In addition, overall survival (OS) was significantly improved by Nb‐TriTE treatment group in combination with PBMCs compared to PBMCs only (Figure <xref rid="advs9413-fig-0006" ref-type="fig">6C</xref>).</p><fig position="float" fig-type="Figure" id="advs9413-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>Nb‐TriTE suppresses NSCLC tumor growth and extends survival in humanized xenograft mice. Treatment protocols for animal studies comparing A) the anti‐cancer efficacy of Nb‐TriTE and commercial monoclonal antibodies, D) dosage‐regimen, G) dosage‐ranging, and J) ICP heterogenicity of tumor cells. B,E,H,K) Tumor size was monitored and recorded weekly using the representative in vivo imaging system (IVIS). Tumor changes were quantified as tumor growth inhibition (TGI). C,F,I,L) The survival rate of mice was plotted using the Kaplan–Meier method. Mice were considered dead when bioluminescence reached or exceeded 1.5 × 10<sup>7</sup>. The data is presented as the means ± SEM from five to six independent samples. ovA549, A549 cells overexpressing both PD‐L1 and HLA‐G. *<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.01; ***<italic toggle="yes">p</italic> &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="ADVS-11-2309697-g004.jpg"><?image-name ADVS-11-2309697-g004.jpg?><?image-size 66584?><?image-md5 56e32382964427f5a7807d0d6f15de77?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 643?><?image-original-width 820?><?image-scaled-height 428?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/56e323829644/ADVS-11-2309697-g004.jpg?><?thumb-name ADVS-11-2309697-g004.gif?><?thumb-size 6105?><?thumb-md5 e9ccbead58ee3eb3b54a20b42d03b963?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 102?><?thumb-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/e9ccbead58ee/ADVS-11-2309697-g004.gif?></graphic></fig></sec><sec id="advs9413-sec-0100"><label>2.8</label><title>Dose‐Dependent Anti‐Cancer Ability of Nb‐TriTE In Vivo</title><p>After confirming that Nb‐TriTE had superior in vivo anti‐tumor effects to commercial monoclonal antibodies, we proceeded to assess the efficacy of single‐dose and multiple‐dose Nb‐TriTE treatments in vivo. The experimental protocol for dose regimen comparison experiments is outlined in Figure <xref rid="advs9413-fig-0006" ref-type="fig">6D</xref>, and the tumor growth was monitored continuously until day 98 by IVIS (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S4B</xref>, Supporting Information). The results clearly demonstrate a significant dose‐regimen effect on inhibition of tumor growth following Nb‐TriTE treatment (Figure <xref rid="advs9413-fig-0006" ref-type="fig">6E</xref>), which aligns with the observed trends in OS (Figure <xref rid="advs9413-fig-0006" ref-type="fig">6F</xref>).</p><p>Afterward, dose‐ranging experiments were conducted on a weekly basis over a span of 6 weeks (refer to Figure <xref rid="advs9413-fig-0006" ref-type="fig">6G</xref>). Monitoring tumor growth (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S4C</xref>, Supporting Information) showed a dose‐dependent response in terms of TGI following Nb‐TriTE treatment in conjunction with PBMC (Figure <xref rid="advs9413-fig-0006" ref-type="fig">6H</xref>). This response is consistently observed in OS as well (Figure <xref rid="advs9413-fig-0006" ref-type="fig">6I</xref>). Moreover, to identify the efficacy of Nb‐TriTE that dual‐targeting PD‐L1 and HLA‐G for the treatment of NSCLC tumors with variations in PD‐L1 and HLA‐G expression, a tumor heterogeneity PBMC‐CDX‐NSG murine model was conducted by inoculating ovPD‐L1/ovHLA‐G A549 cells into mice. Subsequently, Nb‐TriTE, PD‐L1 Nb‐BiTE, and HLA‐G Nb‐BiTE, respectively, were intravenously injected into mice in conjunction with PBMCs once a week for 6 weeks (Figure <xref rid="advs9413-fig-0006" ref-type="fig">6J</xref>). The tumor growth was monitored continuously by IVIS (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S4D</xref>, Supporting Information). Mice treated with Nb‐TriTE combined with PBMCs showed superior TGI and OS outcomes compared to the groups receiving PBMCs alone or PBMCs in conjunction with either PD‐L1 Nb‐BiTE or HLA‐G Nb‐BiTE treatment (Figure <xref rid="advs9413-fig-0006" ref-type="fig">6K,L</xref>).</p></sec><sec id="advs9413-sec-0110"><label>2.9</label><title>Nb‐TriTE Redirecting T Cells to Tumor Sites Without Evident Toxicities</title><p>An in vivo safety study was performed in the NSG mouse model following the experimental design as described in <bold>Figure</bold> <xref rid="advs9413-fig-0007" ref-type="fig">
+<bold>7</bold>A</xref>. Hematoxylin and eosin (H&amp;E) staining was carried out to confirm the characteristics of residual tumors in mice underwent the treatment with or without Nb‐TriTE (Figure <xref rid="advs9413-fig-0007" ref-type="fig">7B</xref>). The quantitative results, presented as tissue injury index, reveal significant induction of tissue damage in tumor tissues of the Nb‐TriTE treatment group (<italic toggle="yes">p</italic> &lt; 0.001). IHC staining results suggest that PD‐L1<sup>+</sup> cells and HLA‐G<sup>+</sup> cells within tumor burden were significantly reduced after Nb‐TriTE treatment compared with the vehicle group (Figure <xref rid="advs9413-fig-0007" ref-type="fig">7C,D</xref>, respectively). In addition to the increase of CD3<sup>+</sup> cells in the tumor area (Figure <xref rid="advs9413-fig-0007" ref-type="fig">7E</xref>), the results of terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) staining indicate a significant increase in apoptotic tumor cells in Nb‐TriTE treatment group (Figure <xref rid="advs9413-fig-0007" ref-type="fig">7F</xref>). Moreover, treatment with Nb‐TriTE alone did not induce the secretion of cytolytic molecules, perforin, and granzyme B, in mouse serum and in xenograft tumor area (Figure <xref rid="advs9413-fig-0007" ref-type="fig">7G</xref>). Treatment of PBMCs did increase serum perforin and granzyme B. However, the combination of PBMCs with Nb‐TriTE did not lead to further alteration in the serum levels of perforin and granzyme B. Notably, in the tumor region, perforin and granzyme B were significantly increased by Nb‐TriTE combined with PBMCs treatment. The detection results of cytokine release, including IL‐2, INF‐γ, and IL‐6, illustrated in Figure <xref rid="advs9413-fig-0007" ref-type="fig">7H</xref>, exhibited a comparable trend. These findings suggest that the presence of Nb‐TriTE may redirect and amplify the anti‐tumor immunity of PBMCs toward the tumor site. Furthermore, it is inferred that the induction of inflammatory cytokines in the serum is solely attributable to PBMCs.</p><fig position="float" fig-type="Figure" id="advs9413-fig-0007" orientation="portrait"><label>Figure 7</label><caption><p>Nb‐TriTE redirects T cells targeting tumor sites without apparent toxicities in humanized NSCLC xenograft mice. A) Treatment protocol for safety experiments. NSG mice were intravenous injected with PMBCs on day −7, followed by intravenous injection with Nb‐TriTE once weekly for six weeks. Mice were sacrificed on day 42 after the initial treatment of Nb‐TriTE. B) H&amp;E staining, and IHC staining for C) PD‐L1, D) HLA‐G, E) CD3, and F) TUNEL staining were performed on the remaining inoculated tumor sections. Mice serum was collected before being sacrificed on day 42. The secretion levels of G) perforin and granzyme B, and H) cytokines including IL‐2, IFN‐γ, and IL‐6 in mice serum and tumor sites were assessed using ELISA. I) H&amp;E stain evaluated the morphological changes in normal tissues and quantified as tissue injury index form six separate samples. J) The apoptotic cells in normal tissues were evaluated by TUNEL staining and shown as positive stained nuclei per field. K) Blood urea nitrogen (BUN), serum creatinine, glutamate‐oxaloacetate transaminase (GOT), glutamate‐pyruvate transaminase (GPT), and creatine‐phospho‐kinase (CPK) were assessed on day 42 after the initial treatment of Nb‐TriTE. The original magnification was ×400. The scale bar in each image represents 50 µm. *<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.01; ***<italic toggle="yes">p</italic> &lt; 0.001. ND, not detected; ns, not significant.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-15" orientation="portrait" xlink:href="ADVS-11-2309697-g007.jpg"><?image-name ADVS-11-2309697-g007.jpg?><?image-size 361233?><?image-md5 f26863e7bab467906aaea927039f7d2f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1001?><?image-original-width 785?><?image-scaled-height 1001?><?image-scaled-width 785?><?image-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/f26863e7bab4/ADVS-11-2309697-g007.jpg?><?thumb-name ADVS-11-2309697-g007.gif?><?thumb-size 11123?><?thumb-md5 21a99d8cba714d1fcea0a9171af4eb3a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 128?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/2b2c/11538689/21a99d8cba71/ADVS-11-2309697-g007.gif?></graphic></fig><p>Moreover, the images as well as the quantitative results of H&amp;E staining listed in Figure <xref rid="advs9413-fig-0007" ref-type="fig">7I</xref> and TUNEL assay in Figure <xref rid="advs9413-fig-0007" ref-type="fig">7J</xref> suggest no obvious injury to vital organs during Nb‐TriTE treatment. Subsequently, examinations of serum biochemistry including blood urea nitrogen (BUN), serum creatinine for kidney function, glutamate‐oxaloacetate transaminase (GOT), glutamate‐pyruvate transaminase (GPT) for liver function, and creatine phosphokinase (CPK) for myocardial damage were performed to evaluate the potential adverse effects after Nb‐TriTE treatment. Weekly testing records for these parameters reveal that the administration of PBMCs leads to the induction of BUN, serum creatinine, GOP, GPT, and CPK after Day 56 (21 days after the last treatment). Notably, co‐treatment with Nb‐TriTE did not amplify or alter the serum concentrations of these factors induced by human PBMCs (Figure <xref rid="advs9413-fig-0007" ref-type="fig">7K</xref>). Afterward, tissue cross‐reactivity (TCR) study was conducted to evaluate the reactivity of Nb‐TriTE as well as its V<sub>H</sub>H components to 24 human normal tissues using IHC staining. Nb‐TriTE exhibited minimal reactivity toward most of the normal tissues, with relatively strong binding reactions in placenta, lymph node, thymus, moderate reactions in spleen and colon, and slight reactions in lung, pituitary, and pancreas, which aligns with the pattern of its V<sub>H</sub>H compositions (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S5</xref>, Supporting Information).</p><p>Taken together, these results suggest the successful redirection of T cells to tumor sites by Nb‐TriTE targeting to PD‐L1 and HLA‐G. This redirection resulted in an increased number of CD3<sup>+</sup> T cells infiltrating to the tumor regions, subsequently leading to the elimination of tumor cells without causing obvious in vivo toxicity.</p></sec></sec><sec id="advs9413-sec-0120"><label>3</label><title>Discussion</title><p>Immunotherapy has made great progress as a treatment modality for cancer in recent years. Specifically, the emergence of chimeric antigen receptor‐T cell and BiTE therapies has inaugurated a transformative era in the field of cancer treatment. However, addressing the limited availability of antigen targets, the immunosuppressive TME, and the challenges related to penetrating the intricate vasculature of solid tumors remain key hurdles in the treatment of solid tumors.<sup>[</sup>
+<xref rid="advs9413-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="advs9413-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="advs9413-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> In the present study, we developed a novel approach utilizing an Nb‐based dual ICP‐targeting T cell engager, Nb‐TriTE, consisting of anti‐PD‐L1, anti‐HLA‐G, and anti‐CD3ε V<sub>H</sub>H antibodies (Nbs), to overcome the limitations associated with immunotherapies for the treatment of NSCLC. The in vitro experiments revealed the superior potency of Nb‐TriTE in eliminating NSCLC cells through engaging T cells with tumor cells harboring ICP heterogeneity. The effectiveness of Nb‐TriTE was further corroborated in a humanized mouse model, in which Nb‐TriTE exhibited superior tumor growth inhibition. Specifically, compared with PD‐L1 Nb‐BiTE and HLA‐G Nb‐BiTE, the tumor growth inhibition was superior, and survival was prolonged significantly in mice after treatment with the dual‐targeting Nb‐TriTE in combination with PMBCs. The in vivo experiments indicate the potent efficacy of Nb‐TriTE without evident toxicities.</p><p>The intricate networks operating within the TME have a crucial impact on immunotherapy. Recognizing the presence and collaboration of multiple ICPs and the challenges posed by adaptive resistance when solely targeting the PD‐1/PD‐L1 pathway,<sup>[</sup>
+<xref rid="advs9413-bib-0007" ref-type="bibr">
+<sup>7a,b</sup>
+</xref>
+<sup>]</sup> we developed Nb‐TriTE with a novel construct containing V<sub>H</sub>H fragments directed toward PD‐L1 and HLA‐G on tumor cells. This innovative approach is rooted in our prior research, which highlighted the significant benefits of dual targeting these ICPs for enhancing T cell‐based immunotherapy.<sup>[</sup>
+<xref rid="advs9413-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="advs9413-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> Our pioneering Nb‐TriTE marks a significant advancement, comprising V<sub>H</sub>H fragments specific to anti‐PD‐L1, anti‐HLA‐G, and anti‐CD3ɛ. This construct possesses dual ICP targeting characteristics, allowing it to address the ICP heterogeneity within tumors. Moreover, the binding affinity of Nb‐TriTE and individual V<sub>H</sub>Hs within Nb‐TriTE for recombinant human antigens was superior to that of the commercial monoclonal antibodies (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2H–J</xref>). Remarkably, Nb‐TriTE exhibits the ability to recognize all HLA‐G isoforms (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S2A–D</xref>, Supporting Information) and retains the capacity to bind HLA‐G expressed on tumor cells despite interference from soluble HLA‐G isoforms (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S2E,F</xref>, Supporting Information). Given the capacity of all HLA‐G isoforms to regulate the immune system,<sup>[</sup>
+<xref rid="advs9413-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> blocking all HLA‐G isoforms is beneficial for completely disrupting the role of HLA‐G in tumor progression.</p><p>In addition to ICP heterogeneity, the insufficient presence of TILs within tumor areas remains a major hurdle for T cell‐based immunotherapies.<sup>[</sup>
+<xref rid="advs9413-bib-0011" ref-type="bibr">
+<sup>11c,d</sup>
+</xref>
+<sup>]</sup> Thus, strategies to enhance TIL characteristics and optimize interactions between effector cells and tumor cells are expected to enhance efficacy and improve NSCLC immunotherapy outcomes. TriTEs outperform BiTEs by targeting additional TAA receptors through a third binding moiety, thereby enhancing specificity, and minimizing the risk of immune escape, or alternatively targeting additional costimulatory receptors on T cells for bolstering the effector function of T cells.<sup>[</sup>
+<xref rid="advs9413-bib-0013" ref-type="bibr">
+<sup>13a</sup>
+</xref>
+<sup>]</sup> In this study, despite the binding affinity of Nb‐TriTE to its ligands being comparable to the corresponding Nb‐BiTEs (Figure <xref rid="advs9413-fig-0002" ref-type="fig">2G</xref>), the outcomes in mice treated with Nb‐TriTE and PBMC was superior to those receiving either PD‐L1 Nb‐BiTE or HLA‐G Nb‐BiTE with PBMC. This suggests the effectiveness of Nb‐TriTE with dual‐targeting of PD‐L1 and HLA‐G, overcoming ICP heterogeneity (Figure <xref rid="advs9413-fig-0006" ref-type="fig">6K,L</xref>). In addition, the recruitment of CD3<sup>+</sup> was found in the tumor area (Figure <xref rid="advs9413-fig-0007" ref-type="fig">7E</xref>) after Nb‐TriTE treatment, in which the proportions of CD3<sup>+</sup>/TIM3<sup>+</sup> and CD3<sup>+</sup>/PD‐1<sup>+</sup> cells were lower compared to the vehicle group (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S6</xref>, Supporting Information). This suggests that the Nb‐TriTE may effectively redirect and enhance the recruitment of TILs to the tumor area and maintain their activity in the TME.</p><p>Furthermore, functional assays demonstrate that Nb‐TriTE could facilitate the simultaneous binding of tumor cells, T cells, and macrophages (Figure <xref rid="advs9413-fig-0003" ref-type="fig">3D</xref>), and enhance the killing of tumor cells mediated by T cells, macrophages, and PBMCs (Figure <xref rid="advs9413-fig-0003" ref-type="fig">3E</xref>). Additionally, in the in vivo experiments, increases in CD68<sup>+</sup>/CD80<sup>+</sup> and CD68<sup>+</sup>/CD86<sup>+</sup> cells around the tumor region imply that Nb‐TriTE attracts or activates macrophages (particularly M1) or dendritic cells (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S7A</xref>, Supporting Information). These cells are capable of presenting antigens and providing necessary co‐stimulatory signals to T cells.<sup>[</sup>
+<xref rid="advs9413-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup> Moreover, decreases in CD68<sup>+</sup>/CD163<sup>+</sup> and CD68<sup>+</sup>/CD206<sup>+</sup> cells after Nb‐TriTE treatment may imply a reduction in the population of immunosuppressive M2 macrophages within the TME (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S7B</xref>, Supporting Information). These findings suggest that Nb‐TriTE not only redirects T cells toward tumor cells but also promotes the formation of immune synapse to initiate antibody‐dependent cellular cytotoxicity responses by macrophages or other effector cells. The results showcasing the simultaneous binding of tumor cells to T cells are also in line with in vivo observations of T cell infiltration into tumor regions in the Nb‐TriTE treatment group (Figure <xref rid="advs9413-fig-0007" ref-type="fig">7E</xref>). The fusion with human IgG1 Fc (hinge‐CH2‐CH3) suggests extending the plasma half‐life of Nb‐TriTE,<sup>[</sup>
+<xref rid="advs9413-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> potentially reducing the need for frequent reinfusions. In the present study, the fusion with human IgG1 Fc in Nb‐TriTE enhanced the secretion of GM‐CSF, MCP‐1, eotaxin, and pro‐inflammatory cytokines, while reducing immunosuppressive cytokine IL‐10 secreting from PBMCs when challenged with tumor cells (Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S8</xref>, Supporting Information). This implies the enhancement of active immune surveillance and anti‐tumor responses. Likewise, the compact size of Nb‐TriTE offers a distinct advantage in penetrating the barriers of solid tumors.</p><p>The immune‐mediated toxicities associated with treatment with T cell engagers are a significant challenge that requires attention. Binding of target antigen triggers T cell expansion and proinflammatory cytokine release, recruiting immune cells like macrophages and intensifying the immune response.<sup>[</sup>
+<xref rid="advs9413-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> However, this heightened immune response can lead to cytokine release syndrome. Additionally, when applying T cell engagers to treat solid tumors, on‐target/off‐tumor and off‐target/off‐tumor toxicity should be considered.<sup>[</sup>
+<xref rid="advs9413-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> In this study, the administration of Nb‐TriTE in the absence of tumor cells does not trigger perforin and granzyme B secretion (Figure <xref rid="advs9413-fig-0004" ref-type="fig">4B</xref>) or increase cytokines release (Figure <xref rid="advs9413-fig-0004" ref-type="fig">4C</xref>) from human PBMCs in vitro. In the humanized NSG mouse model, Nb‐TriTE enhancement of cytolytic molecules and cytokines released from PBMCs was concentrated at the tumor sites, with no additional amplification of these molecules in mice serum compared with the PBMCs‐treated group (Figure <xref rid="advs9413-fig-0007" ref-type="fig">7G</xref>). Furthermore, there were no indications of tissue injury, myocardial damage, liver toxicity, or kidney toxicity in the humanized mouse model after treatment with Nb‐TriTE at the dosage with pharmacoactivity (Figure <xref rid="advs9413-fig-0007" ref-type="fig">7I‐K</xref>). These observations, coupled with the results of TCR assay presented in Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S5</xref> (Supporting Information), suggest a low safety concern regarding the use of Nb‐TriTE in humans.</p></sec><sec id="advs9413-sec-0130"><label>4</label><title>Conclusion</title><p>In conclusion, nanobody‐based trispecific T cell engager, Nb‐TriTE, targeting both PD‐L1 and HLA‐G on tumor cells along with CD3ɛ on T cells, offers a promising solution to the shortcomings of monospecific ICP antibodies. It provides insight into further combinatorial strategies for immunotherapy against solid tumors, particularly those with elevated PD‐L1 and HLA‐G expression.</p></sec><sec id="advs9413-sec-0140"><label>5</label><title>Experimental Section</title><sec id="advs9413-sec-0170"><title>Patient Specimens</title><p>The specimen collection and slice analysis of NSCLC patients in this study were approved by the IRB of China Medical University Hospital (CMUH), Taichung City, Taiwan (CMUH108‐REC3‐041, CMUH111‐REC3‐233, and CMUH112‐REC3‐186). Patient data pertaining to LUAD and LUSC, encompassing factors such as age, sex, clinical staging, metastasis, progression‐free survival, and overall survival, was obtained from their medical records. H&amp;E staining, followed by microscopic analysis, was performed to thoroughly evaluate the characteristics of LUAD and LUSC.</p><p>Forty‐four LUAD patients, comprising 19 women and 25 men, and 22 LUSC patients, comprising 9 women and 13 men, underwent surgery at CMUH, Taiwan. Specimen collection and data acquisition were conducted during these surgeries. In parallel, NAT was systematically collected for use as a control. Following the classification of malignant tumors, the patients were categorized into the following stages: stages I (<italic toggle="yes">n</italic> = 5), stage II (<italic toggle="yes">n</italic> = 17), stage III (<italic toggle="yes">n</italic> = 9), and stage IV (<italic toggle="yes">n</italic> = 13) for LUAD, and stages I (<italic toggle="yes">n</italic> = 6), stage II (<italic toggle="yes">n</italic> = 4), stage III (<italic toggle="yes">n</italic> = 5), and stage IV (<italic toggle="yes">n</italic> = 7) for LUSC. Samples from stages I and II were amalgamated and designated as “early stage”, while samples from stages III and IV were grouped as the “late stage” category.</p><p>In addition to H&amp;E staining, PD‐L1 and HLA‐G IHCstaining was performed using specific antibodies against PD‐L1 and HLA‐G, respectively. The H‐scorewas calculated by two pathologists based on both the intensity of staining (graded as follows: 0 for non‐staining, 1 for weak, 2 for median, or 3 for strong, using adjacent normal mucosa as the median) and the proportion of positively stained cells. The possible scores ranged from 0 to 300.<sup>[</sup>
+<xref rid="advs9413-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>]</sup>
+</p></sec><sec id="advs9413-sec-0180"><title>Construction of an Expression Plasmid Encoding Nb‐TriTE</title><p>The selection and generation of PD‐L1, HLA‐G, and CD3ε‐specific Nbs were executed by Creative Biolabs (NY, USA) using phage display method through the HuSdL human single‐domain antibody library. Briefly, full‐length DNA sequence of human PD‐L1 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="NM_001267706.2">NM_001267706.2</ext-link>), HLA‐G (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="NM_001363567.2">NM_001363567.2</ext-link>), and CD3 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="NM_001363567.2">NM_001363567.2</ext-link>) obtaining from NCBI Nucleotide database were converting to amino acid sequences, respectively. The recombinant human PD‐L1, HLA‐G, and CD3ε proteins were then produced to be antigens by HEK293 cells. In parallel, helper phage was prepared by infecting log‐phase E. coli TG1 cells with M13KO7 helper phage for 30 min at 37 °C and then smeared onto 2xTY agar. Plaque was inoculated into 2xTY medium with 50 µg mL<sup>−1</sup> kanamycin. Supernatants were collected, and the titter was then determined. Subsequently, four rounds of biopanning screening were performed. In brief, PD‐L1, HLA‐G, or CD3 at 10 µg mL<sup>−1</sup> was coated onto 96‐well plates. After blocking, phage particles at 1 × 10<sup>11</sup> from phage library were added and incubated for 2 h at 37 °C. Phages were then eluted and neutralized, and the titration was determined. Phage amplification and purification was performed for repeat screening (four rounds). Hundreds of clones were obtained and subjected to phage ELISA for characterization. Candidate phages were inoculated at 2–5 µL well<sup>−1</sup> into 96‐well plates with 2xYT medium, let grow to exponential phase at 37 °C. In the next day, 50 µL M13KO7 helper phage at 1 × 10<sup>11</sup> plaque forming unit was added into medium containing bacteria for 16–18 h at 30 °C. The ratio of phage to bacteria was ≈20:1. Binding affinity between the target of interest (PD‐L1, HLA‐G, or CD3) and candidate phages was performed. After coating, blocking, and incubated with candidate phages, 100 µL well<sup>−1</sup> anti‐M13‐HRP was added for 1 h. TMB substrate was then added for <italic toggle="yes">color</italic> development, and H<sub>2</sub>SO<sub>4</sub> was used for determining the reaction. Read the absorbance of each well at 450 nm in a microplate reader. Subsequently, synthetic DNA sequences were employed in the construction of the Nb‐TriTE construct. The order of the three Nbs (anti‐PD‐L1, anti‐HLA‐G, and anti‐CD3 V<sub>H</sub>H) in the Nb‐TriTE construct was determined using AlphaFold 2 to predict the 3D structures of different configurations. This ensured that the antigen‐binding regions of each V<sub>H</sub>H component were exposed and capable of perfect binding to their respective epitopes. This construct comprises a signal peptide sequence, followed by anti‐PD‐L1, repeated GGGGS linker, anti‐HLA‐G, repeated GGGGS linker followed by anti‐CD3ε, human IgG1 hinge, and Fc regions. This construct was synthesized using GenBrick synthesis service and subsequently cloned into pcDNA3.1 (Plasmid #138 209, Addgene, Massachusetts, USA) using the XbaI and BamHI restriction sites. The size of the DNA fragments was determined by agarose gel electrophoresis. SPR assays were conducted to analyze the binding affinity of the Nb‐TriTE to the antigens and FcγRIII as well.</p></sec><sec id="advs9413-sec-0190"><title>SPR Biosensor Analysis for Nb Binding Affinity</title><p>SPR biosensor analysis was conducted on a BIAcore T200 platform with CM5 series sensor chips or protein A chips (GE Healthcare, Illinois, USA) to determine Nb‐TriTE binding affinity. All experiments were performed in degassed PBS (pH 7.4) containing 0.005% Tween‐20 at 25 °C. Briefly, PD‐L1 (Sino Biological, Beijing, China), HLA‐G (Creative BioMart, NY, USA), or CD3ε (Creative BioMart, NY, USA) recombinant proteins were diluted to 20 µg mL<sup>−1</sup> and immobilized on chips by amine coupling at the flow rate of 5 µL min<sup>−1</sup> for 7 min (pH 4.5) according to the manufacturer's manual. Commercial antibodies, Nbs, or Nb‐TriTE in HBS‐EP running buffer (GE Healthcare) were then allowed to flow over the activated surface at the same flow rate. Afterward, HBS‐EP running buffer was applied for additional 7 min. The chip was regenerated using 100 mmol L<sup>−1</sup> glycine and 0.5 mol L<sup>−1</sup> NaCl (pH 2.0). The association and dissociation constants were monitored using the BiaEval 4.1 software. Kinetic constants were used to determine the <italic toggle="yes">K<sub>D</sub>
+</italic> values.</p></sec><sec id="advs9413-sec-0200"><title>Multiplex Immunoassay for PMBC Cytokine Production</title><p>To evaluate the effects of incorporating human IgG1 Fc in Nb‐TriTE on PBMC cytokine production, PBMCs combined with A549 cells at an E:T ratio of 3:1 were incubated with 10 µg mL<sup>−1</sup> Nb‐TriTE‐Fc or Nb‐TriTE‐8His for 24 h at 37 °C. Nb‐TriTE‐8His that features eight repeated histidine residues, served as a control to the IgG1 Fc hinge. At the indicated time, supernatants from cell cultures were collected, followed by four times dilution. Samples were then added onto 96‐well filter plate for Bio‐Plex Pro human cytokine assay (#M500KCAF0Y, Bio‐Rad). In brief, the filter plate was pre‐wetted, and the assay buffer was removed. Diluted standards and samples were added to a 96‐well filter plate, followed by incubation with 50 µL of antibody beads and 50 µL of AssayChex beads for 2 h at 25 °C, and then at 4 °C for 16 h. After removing the supernatant and washing three times, streptavidin‐PE was added for 40 min at 25 °C. Samples in the filter plate were incubated with reading buffer, and the values were read using a Bio‐Plex 200 system (Bio‐Rad). The output CSV file was used to extract data from Bio‐Plex Data Pro software (#12 015 390, Bio‐Rad). The expression levels of GM‐CSF, MCP‐1, eotaxin, IL‐2, IL‐4, IL‐6, IL‐12, IL‐1β, TNF‐α, IFN‐γ, and IL‐10 were determined.</p></sec><sec id="advs9413-sec-0210"><title>Cell Lines and Culture</title><p>Human PBMCs were purchased from STEMCELL Technologies (Vancouver, BC, Canada). PBMCs were cultured in X‐VIVO15 medium (Lonza) supplemented with 10% human AB serum (Gemini Bioproducts) and 1000 IU mL<sup>−1</sup> recombinant human IL‐2 (PeproTech). The human LUAD cell line A549‐luc (American Type Culture Collection, ATCC), LUSC cell line H520 (ATCC), and the human triple‐negative breast cancer cell line MDA‐MB‐231‐luc (MyBioSource, San Diego, United States) were cultured in RPMI‐1640 medium (Thermo Fisher Scientific, Massachusetts, USA). The human ovarian cancer cell line SK‐OV‐3‐Red‐FLuc (PerkinElmer) and the human glioblastoma cell line U‐87 MG‐Luc2 (ATCC) were cultured in McCoy's 5A medium (Sigma‐Aldrich, Massachusetts, USA) and DMEM (Thermo Fisher Scientific), respectively. The oral squamous carcinoma cell line FaDu‐luc2 cells (ATCC) were cultured in EMEM (Thermo Fisher Scientific).</p></sec><sec id="advs9413-sec-0220"><title>Cell‐Based ELISA for the Detection of Tumor‐Specific Antibodies</title><p>Cell‐based ELISA was performed to evaluate the affinity of commercial antibodies or Nb‐TriTE for target cells. Briefly, A549, MDA‐MB‐231, SK‐OV‐3, and FaDu cells were seeded or coated onto 96‐well plates at a density of 1 × 10<sup>5</sup> cells mL<sup>−1</sup> for 24 h. After washing, commercial antibodies, Atezolizumab (Roche, Basel, Switzerland), anti‐human HLA‐G‐neutralized antibody (clone 87G; BioLegend, California, USA.), or Nb‐TriTE were added to the wells and incubated for 1 h at 25 °C. After washing, HRP‐conjugated antibody was introduced into the wells and then incubated for 30 min at 25 °C. Following another round of washing and incubation with 3,3′,5,5′‐tetramethylbenzidine (Agilent, CA, USA) for 15 min, the reaction was terminated using 2N sulphuric acid. Thereafter, the absorbance at 450 nm was determined using a multimode ELISA plate reader (BioTek Instruments, Vermont, USA).</p></sec><sec id="advs9413-sec-0230"><title>ELISA‐Based Functional Assay</title><p>ImmunoCult human CD3/CD28 T cell activator (STEMCELL) was used to expand T cells from PBMCs. Macrophages were enriched from T cells‐depleted PBMCs using CD3 depletion kit (STEMCELL). The saturated immune cell number toward to 6 × 10<sup>3</sup> of A549 cells was determined by coculturing respectively with premixed 6 × 10<sup>5</sup> or 6 × 10<sup>6</sup> cells of T cells + Nb‐TriTE, macrophages + Nb‐TriTE, or T cells + macrophages + Nb‐TriTE, followed by hybridization with primary antibodies, anti‐CD3 (Novus Biologicals), anti‐CD68 (NeoBiotechnologies), and HRP‐conjugated secondary antibodies. After the optical density of each well was measured by a microplate reader set to 450 nm, the saturated immune cell number against A549 cells (1000:1) was determined. ELISA‐based functional assay was then utilized to verify the simultaneously binding ability of Nb‐TriTE to tumor cells and immune cells. Macrophages, T cells, and tumor cells were coated on the wells of ELISA plates respectively. A series of concentrations of Nb‐TriTE were pre‐incubated with the cell mixture then loaded into ELISA plates as follows: A549 cells and T cells to macrophage‐coated plate, A549 cells and macrophages to T cell‐coated plate, and T cells and macrophages to A549 cell‐coated plate. Primary antibodies against CD3, CD68, and E‐cadherin (GeneTex), which sequentially recognize T cell, macrophage, and A549 cells were added into the plates followed by application of the appropriate HRP‐conjugated secondary antibodies. The absorbance value was then measured at OD 450 nm.</p></sec><sec id="advs9413-sec-0240"><title>Cell Killing Assay</title><p>Cell‐killing ability was assessed using CellTracker Green (Thermo Fisher Scientific) and PI (Sigma–Aldrich) staining in different groups: tumor cells only, tumor cells + Nb‐TriTE, tumor cells + PBMC, and tumor cells +PBMC + Nb‐TriTE. Briefly, tumor cells were seeded into 24‐well Corning plates at a density of 4 × 10<sup>4</sup> cells mL<sup>−1</sup> overnight. The cells were washed and pre‐stained with 1 µg mL<sup>−1</sup> CellTracker Green for 30 min. Subsequently, the stained tumor cells were cocultured with Nb‐TriTE, PBMC, PBMC + Nb‐TriTE, or culture medium alone. The ratio of effector to target (E:T) was set at 1:1, 3:1, and 6:1. Nb‐TriTE was added at concentrations of 0, 0.01, 0.1, 1, 10, or 100 µg mL<sup>−1</sup> into 1 mL of medium, and the cells were incubated at 37 °C for 24, 48, and 72 h. The tumor cells‐only group contained only of target cells. Cocultured cells were stained with PI (2 µg mL<sup>−1</sup>) to detect dead cells. Target cells were determined based on their size and CellTracker green staining, while the PI‐labeled populations were considered dead cells. Specific lysis of target cells was determined using the Cytomics FC500 flow cytometer (Beckman Coulter, CA, USA).</p></sec><sec id="advs9413-sec-0250"><title>IHC</title><p>Tissue sections were processed by antigen retrieval in citrate sodium buffer (Sigma–Aldrich), followed by incubation with H<sub>2</sub>O<sub>2</sub> for 20 min. After washing with PBS, the sections were blocked with 2% BSA (Sigma–Aldrich) for 30 min and incubated with monoclonal mouse anti‐PD‐L1 antibody (clone ABM4E54; Abcam, Cambridge, UK), mouse anti‐HLA‐G antibody (clone 4H84; Santa Cruz Biotechnology, TX, USA), or rabbit anti‐CD3 antibody (clone SP7, Abcam). The sections were then incubated with HRP‐conjugated secondary anti‐mouse or anti‐rabbit IgG antibodies (Abcam) for 1 h at 25 °C. For IHC, the sections were visualized using 3,3′‐diaminobenzidine (Dako, Glostrup Municipality, Denmark) in accordance with the manufacturer's instructions and counterstained with hematoxylin. Quantification of positively stained cells was performed by two pathologists using Nikon Eclipse 80i upright fluorescent microscope (Nikon, Tokyo, Japan) at ×400 magnification and presented as positive cells per field as previously described.<sup>[</sup>
+<xref rid="advs9413-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup>
+</p></sec><sec id="advs9413-sec-0260"><title>Immunofluorescence</title><p>Tissue sections were deparaffinized, rehydrated, and underwent antigen retrieval followed by incubated with 3% hydrogen peroxide for 30 min. After incubation with primary antibodies at 4 °C for 16 h and consequently incubation with appropriate secondary antibodies at 25 °C for 20 min, tissue slides were mounted with ProLong Gold antifade mountant with DAPI (Thermo Fisher Scientific) and photographed with a confocal microscope (Leica TCS SP8 X, Wetzlar, Hesse, Germany). Positive cells were counted at ×400 magnification.</p><p>The primary antibodies used in this study are listed below. Alexa Fluor 488 anti‐CD68 (clone KP1, Abcam), anti‐CD80 (clone <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="EPR22183">EPR22183</ext-link>, Abcam), anti‐CD86 (clone <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="EPR21962">EPR21962</ext-link>, Abcam), Alexa Fluor 594 anti‐CD163 (clone <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="EPR19518">EPR19518</ext-link>, Abcam), and Alexa Fluor 555 anti‐mannose receptor (clone <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="EPR22489">EPR22489</ext-link>‐7, Abcam), FITC‐conjugated CD3 (clone UCHT1, Thermo Fisher Scientific), anti‐TIM 3 (clone <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="EPR22241">EPR22241</ext-link>, Abcam), and anti‐PD1 (clone CAL20, Abcam). The secondary antibodies included Alexa Fluor 594‐conjugated goat anti‐rabbit IgG H&amp;L (Abcam) and Alexa Fluor 647‐conjugated goat anti‐rabbit IgG H&amp;L (Abcam).</p></sec><sec id="advs9413-sec-0270"><title>Binding Affinity of Anti‐HLA‐G VHH to HLA‐G Isoforms</title><p>Full‐length HLA‐G protein containing β2M was purchased from Creative BioMart (Shirley, NY, USA). DNA sequences encoding HLA‐G isoforms were synthesized, amplified, and subcloned into the pcDNA3.4 vector (GenScript). Supernatants from transfected HEK293 cells were collected and purified to obtain HLA‐G isoforms. The molecular weights of HLA‐G isoforms were determined using Coomassie blue staining. The binding abilities of anti‐HLA‐G V<sub>H</sub>H, Nb‐TriTE, and commercial HLA‐G antibodies (mAb 4H84, mAb 87G, and mAb MEM‐G/2) to HLA‐G isoforms were determined by ELISA. A549 cells overexpressing HLA‐G (ovHLA‐G A549 cells) were used for cell‐based ELISA to examine the competitive effects of HLA‐G isoforms on Nb‐TriTE. Different concentrations of soluble HLA‐G isoforms (sHLA‐G5, sHLA‐G6, sHLA‐G7, and their mixture) with constant amounts of Nb‐TriTE were added to 96‐well plates pre‐coated with ovHLA‐G A549 cells. After incubation with HRP‐conjugated anti‐human IgG1 Fc antibodies, the absorbance was measured at OD 450 nm.</p></sec><sec id="advs9413-sec-0280"><title>Flow Cytometry</title><p>The expression of PD‐L1 and HLA‐G on the cell membranes of A549, ovPD‐L1 A549, or ovHLA‐GA549 cells were examined by flow cytometric analysis. Cells were incubated with or without PBMC, monoclonal anti‐HLA‐G antibody clone 87G (mAb 87G), PBMC + mAb 87G, Atezolizumab, or PBMC + Atezolizumab for 24 h at 37 °C. After trypsinization, the cells were incubated with APC‐conjugated anti‐PD‐L1 Ab (clone MIH1; Thermo Fisher Scientific) or APC‐conjugated anti‐HLA‐G Ab (clone MEM‐G/9, Abcore) for 1 h at 4 °C. Isotypes were used as the staining controls. The expression levels of PD‐L1 and HLA‐G were determined by a flow cytometry and represented as the MFI. In parallel, the proportions of PBMCs expressing TIM‐3, LAG‐3, and TIGIT on cell surface were determined by flow cytometric analysis after cocultured with A549 or H520 cells in the presence of Atezolizumab or mAb 87G for 24 h at 37 °C.</p><p>In addition, the binding ability of A549 or CD3<sup>+</sup> T cells to Nb‐TriTE was evaluated using flow cytometric analysis. Briefly, A549 cells were pre‐stained with CellTracker Green, while PBMCs were incubated with APC‐conjugated anti‐CD3 monoclonal Ab (clone OKT3, Thermo Fisher Scientific). After washing, A549 cells were counted to a density of 1 × 10<sup>5</sup> cells mL<sup>−1</sup>, and PBMCs were counted to a density of 3 × 10<sup>5</sup> cells mL<sup>−1</sup> and incubated with 0, 0.01, 0.1, 1, or 10 µg mL<sup>−1</sup> Nb‐TriTE together for 1 h at 37 °C. An anti‐camelid V<sub>H</sub>H‐iFluor 555 Ab (GenScript, New Jersey, USA) was added and incubated for 1 h at 4 °C. The expression levels of Nb‐TriTE were determined by flow cytometric analysis and represented as MFI.</p></sec><sec id="advs9413-sec-0290"><title>Experimental Animals and Related Ethical Statement</title><p>Six to eight weeks old, humanized NSG mice (male, 18 to 20 g) were purchased from the National Laboratory Animal Center and housed at the Animal Center of CMUH (Taichung, Taiwan) to establish the xenograft lung tumor model. Mice were kept in individually ventilated cages and kept at 25 °C with 60% to 70% humidity on a 12‐h light/dark cycle under specific pathogen‐free conditions. Animal care and experimental procedures were conducted under the guidance of the Animal Protection Association of the Republic of China. Minimization of experimental animal numbers and experimental protocols were approved by the Institutional Animal Care and Utilization Committee of China Medical University (CMUIACUC‐2021‐045, CMUIACUC‐2023‐092, and CMUIACUC‐2024‐030) and reviewed by the ethical committee of the Ministry of Science and Technology /National Science and Technology Council, Taiwan (MOST‐110‐2314‐B‐039‐052 and NSCT‐112‐2314‐B‐039‐053).</p></sec><sec id="advs9413-sec-0300"><title>Establishment of Xenograft NSCLC Mouse Model for Nb‐TriTE Treatment</title><p>Male NSG mice were randomly assigned to control and treatment groups. After anesthetized by intraperitoneal injection of Zoletil (40 mg kg<sup>−1</sup>, Virbac), A549‐luc cells were resuspended in Matrigel (1 × 10<sup>6</sup> cells/20 µL), and then rapidly percutaneous injected into the right anterior axillary sixth intercostal space at a depth of 5 mm, to establish an orthotopic lung tumor model. Seven days after cell implantation, the mice were infused intravenously with or without 5 × 10<sup>6</sup> PBMCs/100 µL per mouse (set as day −7). In the Nb‐TriTE treatment groups, 5 mg kg<sup>−1</sup> Nb‐TriTE was injected via the tail vein on days 0, 7, 14, 21, 28, and 35. Tumor growth was monitored weekly using a novel patented optical IVIS spectrum (PerkinElmer, Massachusetts, USA) with a bioluminescence channel. The mice were sacrificed when the bioluminescence reached 1.5 × 10<sup>7</sup> or when they experienced severe aphagosis.</p><p>Tissue injury index was used to evaluate the safety of Nb‐TriTE treatment based on H&amp;E staining. Injuries are generally characterized by diffuse reactions in the interstitial areas, including neutrophil infiltration, apoptosis, necrosis, fatty changes, cytoplasmic vacuoles, hemorrhage, atrophy, and abnormal cell swelling. Higher scores represent more severe tissue damage in the scoring system: 0, no observed histopathological changes; 1, &lt; 10%; 2, 10–25%; 3, 25–50%; 4, 50–75%; 5, 75–100%.</p></sec><sec id="advs9413-sec-0310"><title>Statistical Analyses</title><p>All experiments were performed at least in triplicate, and all assay conditions were tested in duplicate. In this study, data were presented as mean ± SEM and analyzed using the Student's t‐test and paired t‐test. For animal experiments, data were presented as mean ± SEM and analyzed using one‐way ANOVA (Analysis of Variance) for comparing means across multiple groups. The survival rate was analyzed using the Kaplan–Meier estimate and log‐rank test. Statistical significance was set at <italic toggle="yes">p</italic> value &lt; 0.05.</p></sec><sec id="advs9413-sec-0320"><title>Copyright Statement</title><p>Some of the graphic design material pictures used in Figures <xref rid="advs9413-fig-0002" ref-type="fig">2A</xref> and <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S3D</xref> (Supporting Information) were recreated using BioRender.com assets. Selected artwork shown in Figure <xref rid="advs9413-fig-0002" ref-type="fig">2A</xref>, Figure <xref rid="advs9413-fig-0003" ref-type="fig">3D</xref>, Figure <xref rid="advs9413-supitem-0001" ref-type="supplementary-material">S3C,D</xref> (Supporting Information) were adapted from images provided by Servier Medical Art (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://smart.servier.com" ext-link-type="uri">https://smart.servier.com</ext-link>) and is licensed under a Creative Commons Attribution 4.0 Unported License.</p></sec></sec><sec sec-type="COI-statement" id="advs9413-sec-0340"><title>Conflict of Interest</title><p>Y.C.L., J.H.C.H., and H.C.C. are employed by Shine‐On BioMedical Co., Ltd. during the conduct of this study. C.C.H. and S.C.C. are employed and owned equity interests in Shine‐On BioMedical Co., Ltd. during the conduct of this study. The other authors declare no direct conflicts of interest.</p></sec><sec id="advs9413-sec-0350"><title>Author Contributions</title><p>Y.C.L. and M.C.C. contributed equally to this work. S.C.C. and D.Y.C. correspond equally to this study. Y.C.L., S.C.C., and D.Y.C. designed the study; Y.C.L., S.W.H., Y.C., F.Y.L., and X.T.T. conducted the experiments; Y.C.L., S.W.H., Y.C., J.H.C.H., and S.C.C. acquired data; Y.C.L., M.C.C., H.C.C. C.Y.T., and C.C.H. analyzed data; Y.C.L. and M.C.C. drafted and revised the manuscript; J.H.C.H., S.C.C. and D.Y.C. reviewed and edited the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs9413-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-11-2309697-s001.docx" position="float" orientation="portrait"><?suppdata-name ADVS-11-2309697-s001.docx?><?suppdata-size 4967718?><?suppdata-md5 c497c192d5a6f7bd03f803036e651422?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:2b2c/11538689/c497c192d5a6/ADVS-11-2309697-s001.docx?></media></supplementary-material></sec></body><back><ack id="advs9413-sec-0330"><title>Acknowledgements</title><p>The authors thank Chung‐Chun Wu and Ping‐Hsiao Shih (Translational Cell Therapy Center, CMUH, Taiwan) for their critical comments. The authors thank Chia‐Ing Jan (Department of Pathology, Kaohsiung Veterans General Hospital, Taiwan) and John Wang (Department of Pathology, CMUH, Taiwan) for pathological analysis. This study was supported by the MOST/NSTC to S.W.H.: MOST‐110‐2314‐B‐039‐052; D.Y.C.: MOST‐110‐2314‐B‐039‐053 and MOST‐111‐2321‐B‐039‐006; S.C.C.: MOST‐109‐2314‐B‐039‐047‐MY3 and NSCT‐112‐2314‐B‐039‐053; CMUH to S.W.H. and D.Y.C.: DMR‐CELL‐2104 and DMR‐CARGDT‐01.; CMUH Cancer Research Center of Excellence to D.Y.C. and S.C.C.: MOHW108‐TDU‐B‐212‐124024.</p></ack><sec sec-type="data-availability" id="advs9413-sec-0370"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs9413-bibl-0001"><ref id="advs9413-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs9413-cit-0001">
+<string-name name-style="western">
+<given-names>K. C.</given-names>
+<surname>Thandra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Barsouk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Saginala</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Aluru</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Barsouk</surname>
+</string-name>, <source>Contemp Oncol</source>
+<year>2021</year>, <volume>25</volume>, <fpage>45</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.5114/wo.2021.103829</pub-id><pub-id pub-id-type="pmcid">PMC8063897</pub-id><pub-id pub-id-type="pmid">33911981</pub-id></mixed-citation></ref><ref id="advs9413-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs9413-cit-0002">a) <string-name name-style="western">
+<given-names>M. B.</given-names>
+<surname>Heldwein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Schlachtenberger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Doerr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Menghesha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bennink</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Schroeder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Schaefer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wahlers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hekmat</surname>
+</string-name>, <source>Surg Oncol</source>
+<year>2022</year>, <volume>40</volume>, <elocation-id>101674</elocation-id>;<pub-id pub-id-type="pmid">34896910</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.suronc.2021.101674</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0003">b) <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Oser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Niederst</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. V.</given-names>
+<surname>Sequist</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Engelman</surname>
+</string-name>, <source>Lancet Oncol.</source>
+<year>2015</year>, <volume>16</volume>, <elocation-id>e165</elocation-id>.<pub-id pub-id-type="pmid">25846096</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(14)71180-5</pub-id><pub-id pub-id-type="pmcid">PMC4470698</pub-id></mixed-citation></ref><ref id="advs9413-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs9413-cit-0004">a) <string-name name-style="western">
+<given-names>H. A. A.</given-names>
+<surname>Noreldeen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>J. Sep. Sci.</source>
+<year>2020</year>, <volume>43</volume>, <fpage>120</fpage>;<pub-id pub-id-type="pmid">31747121</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jssc.201900736</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0005">b) <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <source>J. Cell. Physiol.</source>
+<year>2020</year>, <volume>235</volume>, <fpage>4913</fpage>.<pub-id pub-id-type="pmid">31693178</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcp.29371</pub-id><pub-id pub-id-type="pmcid">PMC7028135</pub-id></mixed-citation></ref><ref id="advs9413-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs9413-cit-0006">a) <string-name name-style="western">
+<given-names>G. K.</given-names>
+<surname>Pennock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. Q.</given-names>
+<surname>Chow</surname>
+</string-name>, <source>Oncologist</source>
+<year>2015</year>, <volume>20</volume>, <fpage>812</fpage>;<pub-id pub-id-type="pmid">26069281</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1634/theoncologist.2014-0422</pub-id><pub-id pub-id-type="pmcid">PMC4492230</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0007">b) <string-name name-style="western">
+<given-names>H. T.</given-names>
+<surname>Marshall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. B. A.</given-names>
+<surname>Djamgoz</surname>
+</string-name>, <source>Front Oncol</source>
+<year>2018</year>, <volume>8</volume>, <fpage>315</fpage>;<pub-id pub-id-type="pmid">30191140</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fonc.2018.00315</pub-id><pub-id pub-id-type="pmcid">PMC6115503</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0008">c) <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Jafari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Molavi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kahroba</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Hejazi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Maleki‐Dizaji</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Barghi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Kiaie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Jadidi‐Niaragh</surname>
+</string-name>, <source>Cell. Mol. Life Sci.</source>
+<year>2020</year>, <volume>77</volume>, <fpage>3693</fpage>;<pub-id pub-id-type="pmid">32006051</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00018-020-03459-1</pub-id><pub-id pub-id-type="pmcid">PMC11104895</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0009">d) <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Ogasawara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Newhall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Maxwell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Dell'Aringa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Komashko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kilavuz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Delarue</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Czuczman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sternas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Rose</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>Beach</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Novick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Palmisano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Clin. Pharmacokinet.</source>
+<year>2020</year>, <volume>59</volume>, <fpage>217</fpage>.<pub-id pub-id-type="pmid">31332669</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40262-019-00804-x</pub-id><pub-id pub-id-type="pmcid">PMC7007418</pub-id></mixed-citation></ref><ref id="advs9413-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs9413-cit-0010">a) <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>Cancer Med.</source>
+<year>2020</year>, <volume>9</volume>, <fpage>8086</fpage>;<pub-id pub-id-type="pmid">32875727</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cam4.3410</pub-id><pub-id pub-id-type="pmcid">PMC7643687</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0011">b) <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Osipov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Murphy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zheng</surname>
+</string-name>, <source>Adv. Cancer Res.</source>
+<year>2019</year>, <volume>143</volume>, <fpage>63</fpage>.<pub-id pub-id-type="pmid">31202363</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/bs.acr.2019.03.002</pub-id></mixed-citation></ref><ref id="advs9413-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs9413-cit-0012">a) <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Oncologist</source>
+<year>2019</year>, <volume>24</volume>, <fpage>S31</fpage>;<pub-id pub-id-type="pmid">30819829</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1634/theoncologist.2019-IO-S1-s05</pub-id><pub-id pub-id-type="pmcid">PMC6394772</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0013">b) <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Hellmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. W.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. B.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. C.</given-names>
+<surname>Goh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. H.</given-names>
+<surname>Miller</surname>
+<suffix>Jr.</suffix>
+</string-name>, <string-name name-style="western">
+<given-names>D. Y.</given-names>
+<surname>Oh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jamal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Chee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. Q. M.</given-names>
+<surname>Chow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Gainor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Desai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. J.</given-names>
+<surname>Solomon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Thakur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Pitcher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Foster</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hernandez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Wongchenko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. J.</given-names>
+<surname>Bang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. L.</given-names>
+<surname>Siu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bendell</surname>
+</string-name>, <source>Ann. Oncol.</source>
+<year>2019</year>, <volume>30</volume>, <fpage>1134</fpage>.<pub-id pub-id-type="pmid">30918950</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/annonc/mdz113</pub-id><pub-id pub-id-type="pmcid">PMC6931236</pub-id></mixed-citation></ref><ref id="advs9413-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs9413-cit-0014">a) <string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Thommen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Schreiner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Muller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Herzig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Roller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Belousov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Umana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Pisa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Klein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bacac</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O. S.</given-names>
+<surname>Fischer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Moersig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Savic Prince</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Levitsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Karanikas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Lardinois</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zippelius</surname>
+</string-name>, <source>Cancer Immunol. Res.</source>
+<year>2015</year>, <volume>3</volume>, <fpage>1344</fpage>;<pub-id pub-id-type="pmid">26253731</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2326-6066.CIR-15-0097</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0015">b) <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Koyama</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Akbay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Herter‐Sprie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Buczkowski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. G.</given-names>
+<surname>Richards</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Gandhi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Redig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Rodig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Asahina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Jones</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Kulkarni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kuraguchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Palakurthi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. E.</given-names>
+<surname>Fecci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. E.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Janne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Engelman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. P.</given-names>
+<surname>Gangadharan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Costa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Freeman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bueno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. S.</given-names>
+<surname>Hodi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Dranoff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>Wong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Hammerman</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2016</year>, <volume>7</volume>, <elocation-id>10501</elocation-id>;<pub-id pub-id-type="pmid">26883990</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms10501</pub-id><pub-id pub-id-type="pmcid">PMC4757784</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0016">c) <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Curdy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Lanvin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Laurent</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Fournie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Franchini</surname>
+</string-name>, <source>Trends Cell Biol.</source>
+<year>2019</year>, <volume>29</volume>, <fpage>777</fpage>.<pub-id pub-id-type="pmid">31378317</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tcb.2019.07.002</pub-id></mixed-citation></ref><ref id="advs9413-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs9413-cit-0017">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>PLoS One</source>
+<year>2012</year>, <volume>7</volume>, <elocation-id>e30676</elocation-id>.<pub-id pub-id-type="pmid">22363469</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0030676</pub-id><pub-id pub-id-type="pmcid">PMC3281852</pub-id></mixed-citation></ref><ref id="advs9413-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs9413-cit-0018">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Loustau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Anna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Drean</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Lecomte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Langlade‐Demoyen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Caumartin</surname>
+</string-name>, <source>Front Immunol</source>
+<year>2020</year>, <volume>11</volume>, <fpage>1685</fpage>.<pub-id pub-id-type="pmid">32922387</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2020.01685</pub-id><pub-id pub-id-type="pmcid">PMC7456902</pub-id></mixed-citation></ref><ref id="advs9413-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs9413-cit-0019">
+<string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. Y.</given-names>
+<surname>Hung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. I.</given-names>
+<surname>Jan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Chiu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. Y.</given-names>
+<surname>Cho</surname>
+</string-name>, <source>Cancer Sci.</source>
+<year>2023</year>, <volume>114</volume>, <fpage>2761</fpage>.<pub-id pub-id-type="pmid">37017116</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cas.15806</pub-id><pub-id pub-id-type="pmcid">PMC10323078</pub-id></mixed-citation></ref><ref id="advs9413-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs9413-cit-0020">a) <string-name name-style="western">
+<given-names>S. F.</given-names>
+<surname>Ngiow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Young</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Jacquelot</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Yamazaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Enot</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zitvogel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Smyth</surname>
+</string-name>, <source>Cancer Res.</source>
+<year>2015</year>, <volume>75</volume>, <fpage>3800</fpage>;<pub-id pub-id-type="pmid">26208901</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-15-1082</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0021">b) <string-name name-style="western">
+<given-names>P. C.</given-names>
+<surname>Tumeh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>Harview</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Yearley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. P.</given-names>
+<surname>Shintaku</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Robert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Chmielowski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Spasic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Henry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Ciobanu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>West</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Carmona</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kivork</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Seja</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Cherry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Gutierrez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. R.</given-names>
+<surname>Grogan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mateus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Tomasic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Glaspy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. O.</given-names>
+<surname>Emerson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Robins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. H.</given-names>
+<surname>Pierce</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Elashoff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Robert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ribas</surname>
+</string-name>, <source>Nature</source>
+<year>2014</year>, <volume>515</volume>, <fpage>568</fpage>;<pub-id pub-id-type="pmid">25428505</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature13954</pub-id><pub-id pub-id-type="pmcid">PMC4246418</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0022">c) <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Wolchok</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Sci. Transl. Med.</source>
+<year>2016</year>, <volume>8</volume>, <elocation-id>328rv4</elocation-id>;<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.aad7118</pub-id><pub-id pub-id-type="pmcid">PMC4859220</pub-id><pub-id pub-id-type="pmid">26936508</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0023">d) <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Bie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gao</surname>
+</string-name>, <source>Clin Epigenetics</source>
+<year>2021</year>, <volume>13</volume>, <fpage>229</fpage>.<pub-id pub-id-type="pmid">34933667</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13148-021-01221-3</pub-id><pub-id pub-id-type="pmcid">PMC8693498</pub-id></mixed-citation></ref><ref id="advs9413-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs9413-cit-0024">
+<string-name name-style="western">
+<given-names>M. W.</given-names>
+<surname>Teng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. F.</given-names>
+<surname>Ngiow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ribas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Smyth</surname>
+</string-name>, <source>Cancer Res.</source>
+<year>2015</year>, <volume>75</volume>, <fpage>2139</fpage>.<pub-id pub-id-type="pmid">25977340</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-15-0255</pub-id><pub-id pub-id-type="pmcid">PMC4452411</pub-id></mixed-citation></ref><ref id="advs9413-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs9413-cit-0025">a) <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tapia‐Galisteo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Alvarez‐Vallina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sanz</surname>
+</string-name>, <source>J. Hematol. Oncol.</source>
+<year>2023</year>, <volume>16</volume>, <fpage>83</fpage>;<pub-id pub-id-type="pmid">37501154</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13045-023-01482-w</pub-id><pub-id pub-id-type="pmcid">PMC10373336</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0026">b) <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mack</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Riethmuller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Kufer</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>1995</year>, <volume>92</volume>, <fpage>7021</fpage>;<pub-id pub-id-type="pmid">7624362</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.92.15.7021</pub-id><pub-id pub-id-type="pmcid">PMC41463</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0027">c) <string-name name-style="western">
+<given-names>N. C.</given-names>
+<surname>Smits</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>Sentman</surname>
+</string-name>, <source>J. Clin. Oncol.</source>
+<year>2016</year>, <volume>34</volume>, <fpage>1131</fpage>;<pub-id pub-id-type="pmid">26884583</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2015.64.9970</pub-id><pub-id pub-id-type="pmcid">PMC5085271</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0028">d) <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Loffler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Kufer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Lutterbuse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Zettl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. T.</given-names>
+<surname>Daniel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Schwenkenbecher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Riethmuller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Dorken</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Bargou</surname>
+</string-name>, <source>Blood</source>
+<year>2000</year>, <volume>95</volume>, <fpage>2098</fpage>;<pub-id pub-id-type="pmid">10706880</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0029">e) <string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Goebeler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Bargou</surname>
+</string-name>, <source>Nat. Rev. Clin. Oncol.</source>
+<year>2020</year>, <volume>17</volume>, <fpage>418</fpage>.<pub-id pub-id-type="pmid">32242094</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41571-020-0347-5</pub-id></mixed-citation></ref><ref id="advs9413-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs9413-cit-0030">a) <string-name name-style="western">
+<given-names>H. D.</given-names>
+<surname>Hummel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Kufer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Grullich</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Seggewiss‐Bernhardt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Deschler‐Baier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Chatterjee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Goebeler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>de Santis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Loidl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Dittrich</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Buck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lapa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Thurner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wittemer‐Rump</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Koca</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Boix</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. D.</given-names>
+<surname>Docke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Finnern</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kusi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ajavon‐Hartmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Stienen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Sayehli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Polat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Bargou</surname>
+</string-name>, <source>Immunotherapy</source>
+<year>2021</year>, <volume>13</volume>, <fpage>125</fpage>;<pub-id pub-id-type="pmid">33172323</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2217/imt-2020-0256</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0031">b) <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Giffin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Cooke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. K.</given-names>
+<surname>Lobenhofer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Estrada</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Deegen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Murawsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Werner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Homann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Friedrich</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Pearson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Raum</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Caenepeel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Stevens</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Beltran</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Canon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Coxon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Bailis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. E.</given-names>
+<surname>Hughes</surname>
+</string-name>, <source>Clin. Cancer Res.</source>
+<year>2021</year>, <volume>27</volume>, <fpage>1526</fpage>;<pub-id pub-id-type="pmid">33203642</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-20-2845</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0032">c) <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>J Exp Clin Cancer Res</source>
+<year>2019</year>, <volume>38</volume>, <fpage>355</fpage>;<pub-id pub-id-type="pmid">31412896</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13046-019-1354-1</pub-id><pub-id pub-id-type="pmcid">PMC6694677</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0033">d) <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Ishiguro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. I.</given-names>
+<surname>Komatsu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kamata‐Sakurai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kaneko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kinoshita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Shiraiwa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Azuma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tsunenari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kayukawa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sonobe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Ono</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Sakata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Fujii</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Miyazaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Noguchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Endo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Harada</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Frings</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Fujii</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Nanba</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Narita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wakabayashi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Konishi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Segawa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Igawa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tsushima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Mutoh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Nishito</surname>
+</string-name>, et al., <source>Sci. Transl. Med.</source>
+<year>2017</year>, <volume>9</volume>, <elocation-id>aal4291</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.aal4291</pub-id><pub-id pub-id-type="pmid">28978751</pub-id></mixed-citation></ref><ref id="advs9413-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs9413-cit-0034">a) <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yu</surname>
+</string-name>, <source>Biomark Res</source>
+<year>2021</year>, <volume>9</volume>, <fpage>38</fpage>;<pub-id pub-id-type="pmid">34039409</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40364-021-00294-9</pub-id><pub-id pub-id-type="pmcid">PMC8157659</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0035">b) <string-name name-style="western">
+<given-names>O. A.</given-names>
+<surname>Mandrup</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lykkemark</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dinesen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Rudnik‐Jansen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. F.</given-names>
+<surname>Dagnaes‐Hansen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Andersen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Alvarez‐Vallina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Howard</surname>
+</string-name>, <source>Commun Biol</source>
+<year>2021</year>, <volume>4</volume>, <fpage>310</fpage>.<pub-id pub-id-type="pmid">33686177</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s42003-021-01790-2</pub-id><pub-id pub-id-type="pmcid">PMC7940400</pub-id></mixed-citation></ref><ref id="advs9413-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs9413-cit-0036">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. V.</given-names>
+<surname>Cheung</surname>
+</string-name>, <source>Pharmacol. Ther.</source>
+<year>2018</year>, <volume>182</volume>, <fpage>161</fpage>.<pub-id pub-id-type="pmid">28834699</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pharmthera.2017.08.005</pub-id><pub-id pub-id-type="pmcid">PMC5785550</pub-id></mixed-citation></ref><ref id="advs9413-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs9413-cit-0037">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Passariello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Yoshioka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Takahashi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. I.</given-names>
+<surname>Hashimoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Inoue</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Nakamura</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>De Lorenzo</surname>
+</string-name>, <source>J Exp Clin Cancer Res</source>
+<year>2022</year>, <volume>41</volume>, <fpage>269</fpage>.<pub-id pub-id-type="pmid">36071464</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13046-022-02474-3</pub-id><pub-id pub-id-type="pmcid">PMC9450414</pub-id></mixed-citation></ref><ref id="advs9413-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs9413-cit-0038">
+<string-name name-style="western">
+<given-names>C. I.</given-names>
+<surname>Jan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Canoll</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. N.</given-names>
+<surname>Bruce</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Chiu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. Y.</given-names>
+<surname>Cho</surname>
+</string-name>, <source>J Immunother Cancer</source>
+<year>2021</year>, <volume>9</volume> , <elocation-id>e003050</elocation-id>.<pub-id pub-id-type="pmid">34663641</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jitc-2021-003050</pub-id><pub-id pub-id-type="pmcid">PMC8524382</pub-id></mixed-citation></ref><ref id="advs9413-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs9413-cit-0039">
+<string-name name-style="western">
+<given-names>S. W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. I.</given-names>
+<surname>Jan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. T.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. C.</given-names>
+<surname>Tsai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. H.</given-names>
+<surname>Chiu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Chiu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. Y.</given-names>
+<surname>Cho</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2023</year>, <volume>10</volume>, <elocation-id>e2206856</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/advs.202206856</pub-id><pub-id pub-id-type="pmcid">PMC10265101</pub-id><pub-id pub-id-type="pmid">37078788</pub-id></mixed-citation></ref><ref id="advs9413-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs9413-cit-0040">a) <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Knochelmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Dwyer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Wyatt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mehrotra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Paulos</surname>
+</string-name>, <source>Front Immunol</source>
+<year>2018</year>, <volume>9</volume>, <fpage>1740</fpage>;<pub-id pub-id-type="pmid">30140266</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2018.01740</pub-id><pub-id pub-id-type="pmcid">PMC6094980</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0041">b) <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Newick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>O'Brien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Moon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Albelda</surname>
+</string-name>, <source>Annu. Rev. Med.</source>
+<year>2017</year>, <volume>68</volume>, <fpage>139</fpage>.<pub-id pub-id-type="pmid">27860544</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-med-062315-120245</pub-id></mixed-citation></ref><ref id="advs9413-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs9413-cit-0042">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Amodio</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Sales de Albuquerque</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gregori</surname>
+</string-name>, <source>Tissue Antigens</source>
+<year>2014</year>, <volume>84</volume>, <fpage>255</fpage>.<pub-id pub-id-type="pmid">25132109</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/tan.12427</pub-id></mixed-citation></ref><ref id="advs9413-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs9413-cit-0043">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Aras</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Zaidi</surname>
+</string-name>, <source>Br. J. Cancer</source>
+<year>2017</year>, <volume>117</volume>, <fpage>1583</fpage>.<pub-id pub-id-type="pmid">29065107</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bjc.2017.356</pub-id><pub-id pub-id-type="pmcid">PMC5729447</pub-id></mixed-citation></ref><ref id="advs9413-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs9413-cit-0044">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Shiga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Oshima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kojima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sugimoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Tamaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Murata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Takeuchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sato</surname>
+</string-name>, <source>Eur. J. Pharm. Sci.</source>
+<year>2015</year>, <volume>67</volume>, <fpage>136</fpage>.<pub-id pub-id-type="pmid">25433245</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejps.2014.11.005</pub-id></mixed-citation></ref><ref id="advs9413-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs9413-cit-0045">
+<string-name name-style="western">
+<given-names>E. C.</given-names>
+<surname>Morris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Neelapu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Giavridis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sadelain</surname>
+</string-name>, <source>Nat. Rev. Immunol.</source>
+<year>2022</year>, <volume>22</volume>, <fpage>85</fpage>.<pub-id pub-id-type="pmid">34002066</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41577-021-00547-6</pub-id><pub-id pub-id-type="pmcid">PMC8127450</pub-id></mixed-citation></ref><ref id="advs9413-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs9413-cit-0046">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Shanshal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. F.</given-names>
+<surname>Caimi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Adjei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. W.</given-names>
+<surname>Ma</surname>
+</string-name>, <source>Cancerss</source>
+<year>2023</year>, <volume>15</volume>, <fpage>2824</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cancers15102824</pub-id><pub-id pub-id-type="pmcid">PMC10216491</pub-id><pub-id pub-id-type="pmid">37345160</pub-id></mixed-citation></ref><ref id="advs9413-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs9413-cit-0047">a) <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Masago</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Fujita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Okuda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Kaji</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Katakami</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hirata</surname>
+</string-name>, <source>Anticancer Res.</source>
+<year>2017</year>, <volume>37</volume>, <fpage>2269</fpage>;<pub-id pub-id-type="pmid">28476792</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.21873/anticanres.11564</pub-id></mixed-citation><mixed-citation publication-type="journal" id="advs9413-cit-0048">b) <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Katsuya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Horinouchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Asao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kitahara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Goto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kanda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Fujiwara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Nokihara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Yamamoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Watanabe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Tsuta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ohe</surname>
+</string-name>, <source>Lung Cancer</source>
+<year>2016</year>, <volume>99</volume>, <fpage>4</fpage>.<pub-id pub-id-type="pmid">27565906</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lungcan.2016.05.007</pub-id></mixed-citation></ref><ref id="advs9413-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs9413-cit-0049">
+<string-name name-style="western">
+<given-names>Y. C.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hwu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hsiao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. T.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. K.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Ka</surname>
+</string-name>, <source>Sci. Rep.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>3488</fpage>.<pub-id pub-id-type="pmid">28615647</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-017-03677-x</pub-id><pub-id pub-id-type="pmcid">PMC5471266</pub-id></mixed-citation></ref></ref-list></back></article>
