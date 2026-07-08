@@ -1,0 +1,397 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cpdd1543" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Pharmacol Drug Dev</journal-id><journal-id journal-id-type="iso-abbrev">Clin Pharmacol Drug Dev</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">CPDD</journal-id><journal-title-group><journal-title>Clinical Pharmacology in Drug Development</journal-title></journal-title-group><issn pub-type="ppub">2160-763X</issn><issn pub-type="epub">2160-7648</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12209990</article-id><article-id pub-id-type="pmcid-ver">PMC12209990.1</article-id><article-id pub-id-type="pmcaid">12209990</article-id><article-id pub-id-type="pmcaiid">12209990</article-id><article-id pub-id-type="pmid">40346993</article-id><article-id pub-id-type="doi">10.1002/cpdd.1543</article-id><article-id pub-id-type="publisher-id">CPDD1543</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Effect of Cytochrome P450 3A Inhibition and Induction by Itraconazole and Rifampin on Tazemetostat Pharmacokinetics in Patients With Advanced Malignancies</article-title><alt-title alt-title-type="left-running-head">Chen et al</alt-title></title-group><contrib-group><contrib id="cpdd1543-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Chen</surname><given-names initials="Y">Yingxue</given-names></name><xref rid="cpdd1543-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>yingxue.chen@ipsen.com</email></address></contrib><contrib id="cpdd1543-cr-0002" contrib-type="author"><name name-style="western"><surname>Teng</surname><given-names initials="R">Renli</given-names></name><xref rid="cpdd1543-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cpdd1543-cr-0003" contrib-type="author"><name name-style="western"><surname>Szanto</surname><given-names initials="A">Attila</given-names></name><xref rid="cpdd1543-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cpdd1543-cr-0004" contrib-type="author"><name name-style="western"><surname>Kapopara</surname><given-names initials="A">Apoorva</given-names></name><xref rid="cpdd1543-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cpdd1543-cr-0005" contrib-type="author"><name name-style="western"><surname>Bannerji</surname><given-names initials="R">Rajat</given-names></name><xref rid="cpdd1543-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cpdd1543-cr-0006" contrib-type="author"><name name-style="western"><surname>Ogier</surname><given-names initials="J">Julien</given-names></name><xref rid="cpdd1543-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="cpdd1543-note-0001" ref-type="author-notes">
+<sup>†</sup>
+</xref></contrib><contrib id="cpdd1543-cr-0007" contrib-type="author"><name name-style="western"><surname>Mahalingam</surname><given-names initials="D">Devalingam</given-names></name><xref rid="cpdd1543-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="cpdd1543-note-0001" ref-type="author-notes">
+<sup>†</sup>
+</xref></contrib></contrib-group><aff id="cpdd1543-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>IPSEN BIOSCIENCE INC</institution>
+<city>Cambridge</city>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><aff id="cpdd1543-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>CareCeutics, LLC</institution>
+<city>Berwyn</city>
+<named-content content-type="country-part">PA</named-content>
+<country country="US">USA</country>
+</aff><aff id="cpdd1543-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Ipsen Innovation</institution>
+<city>Les Ulis</city>
+<country country="FR">France</country>
+</aff><aff id="cpdd1543-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Robert H. Lurie Comprehensive Cancer Center</institution>
+<city>Chicago</city>
+<named-content content-type="country-part">IL</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Corresponding Author</bold>:<break/>Yingxue Chen, PhD, IPSEN BIOSCIENCE INC. Ipsen, 400 Technology Square, Cambridge, MA 02139.<break/>(e‐mail: <email>yingxue.chen@ipsen.com</email>)<break/>
+</corresp><fn id="cpdd1543-note-0001"><label>†</label><p>Co‐senior authors.</p></fn></author-notes><pub-date pub-type="epub"><day>10</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2025</year></pub-date><volume>14</volume><issue seq="60">7</issue><issue-id pub-id-type="pmc-issue-id">491859</issue-id><issue-id pub-id-type="doi">10.1002/cpdd.v14.7</issue-id><fpage>520</fpage><lpage>527</lpage><history>
+<date date-type="received"><day>13</day><month>1</month><year>2025</year></date>
+<date date-type="accepted"><day>17</day><month>3</month><year>2025</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>01</day><month>07</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>02</day><month>07</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-07-03 00:25:41.070"><day>03</day><month>07</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Clinical Pharmacology in Drug Development</italic> published by Wiley Periodicals LLC on behalf of American College of Clinical Pharmacology.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CPDD-14-520.pdf"><?pdf-name CPDD-14-520.pdf?><?pdf-size 492765?><?pdf-md5 de5db6c2c5c59ae5adacf4459d4422e8?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:22e4/12209990/de5db6c2c5c5/CPDD-14-520.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CPDD-14-520.pdf"/><abstract><title>Abstract</title><p>This study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04537715">NCT04537715</ext-link>) investigated itraconazole (strong cytochrome P450 [CYP] 3A inhibitor) and rifampin (strong CYP3A inducer) on tazemetostat pharmacokinetics. In Part 1, patients received tazemetostat 400 mg orally on Days 1, 15, and 36, and 400 mg twice daily on Days 3‐14 and Days 21‐35. Itraconazole 200 mg orally once daily was administered on Days 18‐38. In Part 2, patients received tazemetostat 800 mg orally once daily on Days 1, 15, and 24, and 800 mg twice daily on Days 3‐14 and Days 17‐23. Rifampin 600 mg orally once daily was administered on Days 17‐25. Twenty‐one patients in each part completed had plasma concentrations quantified for pharmacokinetic assessments. Itraconazole coadministration resulted in higher tazemetostat exposures after single doses (Day 21/Day 1) and steady state (Day 36/Day 15). Compared with tazemetostat alone, itraconazole increased mean maximum plasma concentration (C<sub>max</sub>) and area under the concentration‐time curve from time 0 to 12 hours (AUC<sub>0‐12h</sub>) by 2.00‐ and 3.12‐fold, respectively, after single doses. Following twice‐daily dosing, itraconazole increased mean steady‐state C<sub>max</sub> and AUC<sub>0‐12h</sub> by 1.86‐ and 2.47‐fold, respectively. Rifampin coadministration decreased tazemetostat steady‐state (C<sub>max</sub>) and AUC<sub>0‐12h</sub> by approximately 84% (Day 24/Day 15). Itraconazole increased tazemetostat exposure by 2‐3‐fold, and rifampin decreased tazemetostat exposure by 84%, indicating that coadministration of tazemetostat with strong CYP3A inhibitors or inducers should be avoided.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cpdd1543-kwd-0001">CYP3A induction</kwd><kwd id="cpdd1543-kwd-0002">CYP3A inhibition</kwd><kwd id="cpdd1543-kwd-0003">drug‐drug interaction</kwd><kwd id="cpdd1543-kwd-0004">pharmacokinetics</kwd><kwd id="cpdd1543-kwd-0005">tazemetostat</kwd></kwd-group><counts><fig-count count="2"/><table-count count="1"/><page-count count="8"/><word-count count="4539"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.8 mode:remove_FC converted:01.07.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Epigenetic regulation of gene expression via DNA methylation, histone modification, and chromatin remodeling is a dynamic and reversible process that does not involve alterations to underlying DNA sequences.<xref rid="cpdd1543-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cpdd1543-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Aberrant histone modifications have been observed in many cancer types as they lead to inappropriate activation of oncogenes and inactivation of tumor suppressors, contributing to tumor initiation and progression.<xref rid="cpdd1543-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="cpdd1543-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="cpdd1543-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Given the role of epigenetic aberrations in tumorigenesis and reversibility of alterations, investigation and development of epigenetic inhibitors has attracted extensive attention.<xref rid="cpdd1543-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cpdd1543-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>Enhancer of zeste homolog 2 (EZH2) is a histone methyltransferase that has been identified as a catalytic subunit of polycomb repressive complex 2 for trimethylation of histone 3 at lysine 27, which is associated with repression of gene expression and involvement in tissue development and determination of stem cell fate.<xref rid="cpdd1543-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cpdd1543-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> EZH2 is aberrantly expressed in a variety of malignant tumors; therefore, EZH2 is an appropriate therapeutic target.<xref rid="cpdd1543-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="cpdd1543-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>Tazemetostat is an oral methyltransferase inhibitor of EZH2 and the first‐in‐class epigenetic therapy approved by the US Food and Drug Administration for patients with follicular lymphoma and epithelioid sarcoma.<xref rid="cpdd1543-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Tazemetostat received accelerated approval based on the clinical activity demonstrated in 2 open‐label Phase II trials investigating tazemetostat in patients with histologically confirmed follicular lymphoma after 2 or more prior systemic therapies, and investigating tazemetostat in patients aged 16 years or older with histologically confirmed metastatic or locally advanced epithelioid sarcoma.<xref rid="cpdd1543-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cpdd1543-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="cpdd1543-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>Tazemetostat is absorbed rapidly once administered, with a median time to maximum plasma concentration (t<sub>max</sub>) of 1‐2 hours. The systemic exposure of tazemetostat is approximately dose proportional over the doses of 200‐1600 mg twice daily. In vitro, tazemetostat is mainly metabolized by cytochrome P450 (CYP), family 3, subfamily A (CYP3A) to form inactive metabolites, EPZ‐6930 and EPZ006931. EPZ‐6930 undergoes further metabolism by CYP3A.<xref rid="cpdd1543-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="cpdd1543-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cpdd1543-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> So that physicians can appropriately manage their patients, it is important to understand any potential drug‐drug interactions (DDIs) between tazemetostat and CYP3A inducers and inhibitors.</p><p>Rifampin is an antibiotic used for the treatment of pulmonary tuberculosis and an inducer of CYP isoforms; it is, particularly, a potent inducer of CYP3A. As a result, rifampin has been used extensively in clinical studies as a prototypical inducer of drug‐metabolizing enzymes.<xref rid="cpdd1543-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> A typical DDI study utilizes a dose of rifampin 600 mg once daily, given orally.<xref rid="cpdd1543-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cpdd1543-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Itraconazole is an antifungal used for the treatment of fungal infections and a strong inhibitor of CYP3A.<xref rid="cpdd1543-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Previous DDI studies have used doses of itraconazole ranging from 200 to 400 mg orally once daily. However, there is little difference in CYP3A inhibition between itraconazole 400 and 200 mg.<xref rid="cpdd1543-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+</p><p>Here, we present results from a DDI study (EZH‐108; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04537715">NCT04537715</ext-link>), which evaluated the effect of CYP3A inhibition by itraconazole and CYP3A induction by rifampin on the pharmacokinetic (PK) and safety profile of tazemetostat in patients with advanced treatment‐refractory malignancies.</p><sec id="cpdd1543-sec-0020"><title>Methods</title><sec id="cpdd1543-sec-0030"><title>Study Design</title><p>This was a Phase I, multicenter, open‐label, 2‐part study encompassing a fixed‐sequence design that aimed to characterize the PK of tazemetostat when administered as single and twice‐daily oral doses alone or in combination with either itraconazole (Part 1) or rifampin (Part 2). Secondary objectives were to evaluate the safety profile of tazemetostat when coadministered with either itraconazole (Part 1) or rifampin (Part 2).</p><p>The study was performed at 10 investigational sites across United States (n = 7) and Spain (n = 3). The investigation sites in the United States were California Cancer Associates for Research and Excellence, Inc. (Encinitas, CA), the Angeles Clinical and Research Institute (Los Angeles, CA), Northwestern University‐Robert H. Lurie Comprehensive Cancer Center (Chicago, IL), South Texas Accelerated Research Therapeutics Midwest (Grand Rapids, MI), Gabrail Cancer Center (Canton, OH), University of Cincinnati Medical Center (Cincinnati, OH), and Mary Crowley Cancer Research (Dallas, TX). The institutional review boards (IRBs) of the sites in the United States were WIRB/Copernicus Group (WCG) IRB (Puyallup, WA), Mary Crowley Medical Research Center Institutional Review Board (Dallas, TX), and Salus IRB (Austin, TX). The investigational sites in Spain were Hospital Universitario Vall d'Hebron (Barcelona), Hospital Fundacion Jimenez Diaz (Madrid), and Onkologikoa (Donostia). The independent ethics committee (IEC) for the sites in Spain was CEIm La Fe Valencia (Valencia).</p><p>The study protocol and amendments and informed consent form and updates were reviewed and approved by an IEC or IRB before commencement of the study and during the study where applicable. The study was conducted under the provisions of the Declaration of Helsinki Version 2013, in accordance with the International Conference on Harmonization Consolidated Guideline on Good Clinical Practice, Food and Drug Administration Title 21 Part 312 and in compliance with IECs/IRBs and informed consent regulations. All patients enrolled in the study provided written, informed consent.</p></sec><sec id="cpdd1543-sec-0040"><title>Study Population</title><p>Eligible patients were adults aged 18 years or older with histologically and/or cytologically confirmed advanced metastatic or unresectable solid tumors that had progressed after treatment and for which there were no standard therapies available, or with histologically and/or cytologically confirmed hematologic malignancies, who had relapsed or were refractory, following 2 or more standard lines of systemic therapy and for which there were no standard therapies available. All eligible patients had an Eastern Cooperative Oncology Group performance status of 0‐2, had a life expectancy of greater than 3 months, had completed prior treatment before study entry, and were clinically stable at the time of consent.</p><p>Exclusion criteria included, but were not limited to, central nervous system or leptomeningeal metastasis, clinically significant bleeding diathesis, or coagulopathy, including known platelet function disorders, uncontrolled concurrent illness, or receiving medications that were known CYP3A inducers or inhibitors.</p></sec><sec id="cpdd1543-sec-0050"><title>Dosing Schedule and Administration</title><p>Part 1 of the study evaluated the DDI between tazemetostat and itraconazole. On the mornings of Days 1 and 15, patients received a single dose of tazemetostat 400 mg orally. On Days 3‐14, patients received tazemetostat 400 mg twice daily (morning and evening). On Days 18‐20, patients received itraconazole 200 mg orally once daily in the morning. On Days 21‐35, tazemetostat 400 mg twice daily was coadministered in the morning with a single dose of itraconazole 200 mg. On Day 36, patients received a single dose of tazemetostat 400 mg coadministered in the morning with a single dose of itraconazole 200 mg. On Days 37 and 38, patients received a single dose of itraconazole 200 mg (Figure <xref rid="cpdd1543-fig-0001" ref-type="fig">1A</xref>). Throughout Part 1, administration of itraconazole occurred 1 hour after a meal.</p><fig position="float" fig-type="Figure" id="cpdd1543-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Study design for (A) Part 1: tazemetostat coadministered with itraconazole and (B) Part 2: tazemetostat coadministered with rifampin. BID, twice daily; QD, once daily.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CPDD-14-520-g001.jpg"><?image-name CPDD-14-520-g001.jpg?><?image-size 56731?><?image-md5 41775f27db2258bc22c6fc28ec051d4f?><?image-image-server-status NEVER_LOAD?><?image-original-height 222?><?image-original-width 780?><?image-scaled-height 222?><?image-scaled-width 780?><?image-cloudpmc-urn urn:cdn:blobs/22e4/12209990/41775f27db22/CPDD-14-520-g001.jpg?><?thumb-name CPDD-14-520-g001.gif?><?thumb-size 6869?><?thumb-md5 b888741000ab00e1fb189a6a6ae86a55?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 57?><?thumb-scaled-width 199?><?thumb-cloudpmc-urn urn:cdn:blobs/22e4/12209990/b888741000ab/CPDD-14-520-g001.gif?></graphic></fig><p>Part 2 of the study evaluated the DDI between tazemetostat and rifampin. On the mornings of Days 1 and 15, patients received a single dose of tazemetostat 800 mg orally. On Days 3‐14, patients received tazemetostat 800 mg twice daily. On Days 17‐23, patients received tazemetostat 800 mg twice daily, coadministered in the morning with a single dose of rifampin 600 mg orally. On the morning of Day 24, patients received a single dose of tazemetostat 800 mg coadministered with rifampin 600 mg. On the morning of Day 25, patients received rifampin 600 mg (Figure <xref rid="cpdd1543-fig-0001" ref-type="fig">1B</xref>). Throughout Part 2, administration of rifampin occurred 1 hour before a meal.</p><p>In both Parts 1 and 2, patients who completed the study could either discontinue the study or continue oral tazemetostat treatment at the recommended therapeutic dose of 800 mg twice daily in 28‐day cycles from Day 40 until clinical progression, unacceptable toxicity, or until another discontinuation criterion was met.</p></sec><sec id="cpdd1543-sec-0060"><title>Pharmacokinetic Assessment</title><p>In Part 1, plasma concentrations of tazemetostat following tazemetostat dosing on Days 1, 15, 21, and 36 were quantified for PK analyses before dosing (0 hour), and at 0.5, 1, 1.5, 2, 4, 6, 8, 12, 24 (Days 21‐22), 36, 48 (Days 1‐3), and up to 72 hours after dosing (Days 15‐18 and Days 36‐39).</p><p>In Part 2, plasma concentrations of tazemetostat following tazemetostat dosing on Days 1, 15, and 24 were quantified for PK analyses before dosing (0 hour) and at 0.5, 1, 1.5, 2, 4, 6, 8, 12, 24, 36, and 48 hours.</p><p>Plasma concentrations of tazemetostat, over the ranges of 1.00‐2000 ng/mL, were quantified by a fully validated liquid chromatography with tandem mass spectrometric detection analytical method. Samples that had no detectable peak or had the calculated concentration &lt;1.00 ng/mL were reported as below the lower limit of quantification. Tazemetostat analysis consisted of protein precipitation extraction and separation using mobile phases of 100 mM ammonium formate/water (1:9 v/v) (mobile phase A) and 100 mM ammonium formate/acetonitrile (1:9 v/v) (mobile phase B). Detection was achieved using an API‐5500 mass spectrometer (AB Sciex) using electrospray ionization (positive‐ion mode) in the multiple reaction monitoring mode. The multiple reaction monitoring mode m/z transitions monitored were 287.2/351.2 for tazemetostat and the dwell time was set at 300 milliseconds. The intra‐ and interassay accuracies and precisions for the tested concentrations were all within the defined acceptance criteria (±15.0% of nominal concentration at the lower limit of quantification and the coefficient of variation [CV] was 15.0% or less).</p><p>Plasma concentration‐time data for tazemetostat were analyzed by noncompartmental analysis using the validated software program Phoenix WinNonlin Professional Version 8.3 (Certara Inc., Mountain View, CA).</p><p>PK measures for tazemetostat included t<sub>max</sub>; the C<sub>max</sub> occurring at t<sub>max</sub>; the area under the concentration‐time curve (AUC) from the last time of dosing to last measurable concentration estimated using the linear‐up/log‐down method (AUC<sub>last</sub>); AUC over the dosing interval from 0 to 12 hours after dosing, estimated using the linear‐up/log‐down method (AUC<sub>0‐12h</sub>); AUC extrapolated to infinity (AUC<sub>0‐inf</sub>), calculated as the sum of AUC from the last time of dosing to last measurable concentration and C<sub>last</sub>/λ<sub>z</sub>, where C<sub>last</sub> is the last measurable concentration and λ<sub>z</sub> is the first‐order rate constant associated with the terminal (log‐linear) portion of the curve; apparent terminal elimination half‐life (t<sub>1/2</sub>); C<sub>max</sub> accumulation ratio, calculated as the ratio of C<sub>max</sub> at steady‐state divided by C<sub>max</sub> during the initial dosing interval (RacC<sub>max</sub>); and AUC accumulation ratio, calculated as the ratio of AUC<sub>0‐12h</sub> at steady‐state divided by AUC<sub>0‐12h</sub> during the initial dosing interval (RacAUC).</p></sec><sec id="cpdd1543-sec-0070"><title>Safety Analysis</title><p>Safety was assessed by monitoring treatment‐emergent adverse events (TEAEs) and vital signs, electrocardiography, and clinical laboratory tests. TEAEs were defined as adverse events that started or worsened in severity on or after the date of the first dose of the study drug through 30 days after the last dose. Treatment‐related TEAEs were summarized by each study drug for both study parts. Adverse events were coded using the Medical Dictionary for Regulatory Activities Version 23.1 and graded per Common Terminology Criteria for Adverse Events Version 5.0.</p></sec></sec><sec id="cpdd1543-sec-0080"><title>Results</title><sec id="cpdd1543-sec-0090"><title>Patient Population</title><p>A total of 42 patients were enrolled, with 21 patients receiving tazemetostat coadministered with itraconazole (Part 1) and 21 patients receiving tazemetostat coadministered with rifampin (Part 2). Of the 21 patients in each part, 16 patients had sufficient PK concentration data to calculate steady‐state PK parameters in Part 1 (Days 15 and 36) and Part 2 (Days 15 and 24) and did not have any major protocol deviations deemed to greatly alter the steady‐state exposure to tazemetostat, itraconazole, or rifampin. In Part 1, 16 (76.2%) patients completed the study. Five patients did not provide sufficient PK concentration data to calculate steady‐state PK parameters due to missed PK sample collections. In Part 2, 16 (76.2%) patients completed the study. Five patients did not provide sufficient PK concentration data to calculate steady‐state PK parameters. One patient was not administered rifampin due to AEs, 1 patient participated in the study for only 3 days, 2 patients were not administered rifampin and missed PK sample collections, and 1 patient missed the study drug doses. Baseline characteristics for Parts 1 and 2 are presented in Table <xref rid="cpdd1543-supinfo-0001" ref-type="">S1</xref>.</p><p>In Part 1 (Cycle 1), the median duration of tazemetostat exposure was 5.14 weeks (range, 2.1‐5.1 weeks). Fifteen (71.4%) patients received 90% or more of the planned tazemetostat doses. Fourteen patients continued to receive tazemetostat from Cycle 2 onward.</p><p>In Part 2 (Cycle 1), the median duration of tazemetostat exposure was 3.43 weeks (range, 0.1‐3.7 weeks). Eighteen (85.7%) patients received 90% or more of the planned doses of tazemetostat. Seventeen patients continued to receive tazemetostat from Cycle 2 onward.</p></sec><sec id="cpdd1543-sec-0100"><title>Effect of Itraconazole on Tazemetostat PK</title><sec id="cpdd1543-sec-0110"><title>Single Dose (Day 21 vs Day 1)</title><p>Following single doses of tazemetostat with (Day 21) and without (Day 1) coadministration of itraconazole, tazemetostat exposure increased, with a least squares geometric mean (geoLSM) ratio of 2.00 and 3.12 for C<sub>max</sub> and AUC<sub>0‐12h</sub>, respectively (Figure <xref rid="cpdd1543-fig-0002" ref-type="fig">2A</xref>). Tazemetostat t<sub>1/2</sub> (geometric mean CV%) was shorter with (2.86 hours [28.9]) versus without (5.97 hours [25.6]) itraconazole coadministration (Table <xref rid="cpdd1543-tbl-0001" ref-type="table">1</xref>). Median tazemetostat t<sub>max</sub> was similar with (1.53 hours) and without (1.44 hours) itraconazole coadministration.</p><fig position="float" fig-type="Figure" id="cpdd1543-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Tazemetostat plasma concentrations for Part 1 following coadministration of itraconazole with (A) single and (B) multiple doses of tazemetostat and for (C) Part 2 following coadministration of rifampin with multiple doses of tazemetostat. D, Day; SD, standard deviation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CPDD-14-520-g002.jpg"><?image-name CPDD-14-520-g002.jpg?><?image-size 62629?><?image-md5 ee9288d5581738dd376a9797ad9215a8?><?image-image-server-status NEVER_LOAD?><?image-original-height 262?><?image-original-width 780?><?image-scaled-height 262?><?image-scaled-width 780?><?image-cloudpmc-urn urn:cdn:blobs/22e4/12209990/ee9288d55817/CPDD-14-520-g002.jpg?><?thumb-name CPDD-14-520-g002.gif?><?thumb-size 7584?><?thumb-md5 e05f566d05302e0dd1cab7db0fb6b561?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 67?><?thumb-scaled-width 199?><?thumb-cloudpmc-urn urn:cdn:blobs/22e4/12209990/e05f566d0530/CPDD-14-520-g002.gif?></graphic></fig><table-wrap position="float" id="cpdd1543-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Summary of Tazemetostat PK, Coadministered With Either Itraconazole or Rifampin</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="center" colspan="4" style="border-bottom:solid 1px #000000" rowspan="1">Part 1</th><th align="center" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Part 2</th></tr><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1">PK assessment</th><th align="center" valign="bottom" rowspan="1" colspan="1">Tazemetostat, single dose, Day 1</th><th align="center" valign="bottom" rowspan="1" colspan="1">Tazemetostat, multiple dosing, Day 15</th><th align="center" valign="bottom" rowspan="1" colspan="1">Tazemetostat, single dose with itraconazole, Day 21</th><th align="center" valign="bottom" rowspan="1" colspan="1">Tazemetostat, multiple dosing with itraconazole, Day 36</th><th align="center" valign="bottom" rowspan="1" colspan="1">Tazemetostat single dose, Day 1</th><th align="center" valign="bottom" rowspan="1" colspan="1">Tazemetostat, multiple dosing, Day 15</th><th align="center" valign="bottom" rowspan="1" colspan="1">Tazemetostat, multiple dosing with rifampin, Day 24</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">t<sub>max</sub> (hour), median (range)</td><td align="center" rowspan="1" colspan="1">1.44 (0.50‐5.78)</td><td align="center" rowspan="1" colspan="1">1.27 (0.48‐5.83)</td><td align="center" rowspan="1" colspan="1">1.53 (0.92‐3.85)</td><td align="center" rowspan="1" colspan="1">1.49 (0.50‐4.00)</td><td align="center" rowspan="1" colspan="1">1.04 (0.97‐3.77)</td><td align="center" rowspan="1" colspan="1">1.00 (0.63‐4.00)</td><td align="center" rowspan="1" colspan="1">1.01 (0.00‐ 4.02)</td></tr><tr><td align="left" rowspan="1" colspan="1">C<sub>max</sub> (ng/mL), mean (SD)</td><td align="center" rowspan="1" colspan="1">803 (433)</td><td align="center" rowspan="1" colspan="1">643 (443)</td><td align="center" rowspan="1" colspan="1">1640 (987)</td><td align="center" rowspan="1" colspan="1">1190 (647)</td><td align="center" rowspan="1" colspan="1">1550 (791)</td><td align="center" rowspan="1" colspan="1">1380 (990)</td><td align="center" rowspan="1" colspan="1">233 (239)</td></tr><tr><td align="left" rowspan="1" colspan="1">GeoMean (CV%)</td><td align="center" rowspan="1" colspan="1">704 (56.5)</td><td align="center" rowspan="1" colspan="1">543 (63.3)</td><td align="center" rowspan="1" colspan="1">1400 (67.3)</td><td align="center" rowspan="1" colspan="1">1010 (76.3)</td><td align="center" rowspan="1" colspan="1">1330 (67.4)</td><td align="center" rowspan="1" colspan="1">1100 (78.7)</td><td align="center" rowspan="1" colspan="1">181 (71.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">AUC<sub>last</sub> (ng•h/mL), mean (SD)</td><td align="center" rowspan="1" colspan="1">3250 (2730)</td><td align="center" rowspan="1" colspan="1">2340 (913)</td><td align="center" rowspan="1" colspan="1">7930 (4150)</td><td align="center" rowspan="1" colspan="1">6490 (2960)</td><td align="center" rowspan="1" colspan="1">6370 (3750)</td><td align="center" rowspan="1" colspan="1">5220 (3580)</td><td align="center" rowspan="1" colspan="1">934 (1280)</td></tr><tr><td align="left" rowspan="1" colspan="1">GeoMean (CV%)</td><td align="center" rowspan="1" colspan="1">2640 (68.9)</td><td align="center" rowspan="1" colspan="1">2200 (37.1)</td><td align="center" rowspan="1" colspan="1">6720 (73.4)</td><td align="center" rowspan="1" colspan="1">5750 (59.9)</td><td align="center" rowspan="1" colspan="1">5200 (89.5)</td><td align="center" rowspan="1" colspan="1">4270 (74.0)</td><td align="center" rowspan="1" colspan="1">676 (72.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">AUC<sub>0‐12</sub> <sub>h</sub> (ng•h/mL), mean (SD)</td><td align="center" rowspan="1" colspan="1">2460 (1280)</td><td align="center" rowspan="1" colspan="1">1960 (800)</td><td align="center" rowspan="1" colspan="1">8000 (4150)</td><td align="center" rowspan="1" colspan="1">5160 (2370)</td><td align="center" rowspan="1" colspan="1">5310 (2890)</td><td align="center" rowspan="1" colspan="1">4330 (2740)</td><td align="center" rowspan="1" colspan="1">770 (955)</td></tr><tr><td align="left" rowspan="1" colspan="1">GeoMean (CV%)</td><td align="center" rowspan="1" colspan="1">2180 (55.3)</td><td align="center" rowspan="1" colspan="1">1830 (37.6)</td><td align="center" rowspan="1" colspan="1">6790 (73.2)</td><td align="center" rowspan="1" colspan="1">4530 (64.5)</td><td align="center" rowspan="1" colspan="1">4420 (83.2)</td><td align="center" rowspan="1" colspan="1">3610 (70.3)</td><td align="center" rowspan="1" colspan="1">588 (65.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">t<sub>1/2</sub> (hour), mean (SD)</td><td align="center" rowspan="1" colspan="1">6.13 (1.40)</td><td align="center" rowspan="1" colspan="1">8.62 (3.85)</td><td align="center" rowspan="1" colspan="1">2.95 (0.73)<xref rid="cpdd1543-tbl1-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">12.90 (5.19)</td><td align="center" rowspan="1" colspan="1">6.49 (1.55)</td><td align="center" rowspan="1" colspan="1">7.70 (1.58)</td><td align="center" rowspan="1" colspan="1">5.06 (1.39)</td></tr><tr><td align="left" rowspan="1" colspan="1">GeoMean (CV%)</td><td align="center" rowspan="1" colspan="1">5.97 (25.6)</td><td align="center" rowspan="1" colspan="1">8.01 (39.3)</td><td align="center" rowspan="1" colspan="1">2.86 (28.9)<xref rid="cpdd1543-tbl1-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">11.9 (43.8)</td><td align="center" rowspan="1" colspan="1">6.22 (35.6)</td><td align="center" rowspan="1" colspan="1">7.55 (20.3)</td><td align="center" rowspan="1" colspan="1">4.86 (31.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">AUC<sub>0‐12h</sub> ratio, geoLSM (90% CI)</td><td align="center" colspan="2" rowspan="1">NA</td><td align="center" rowspan="1" colspan="1">3.12 (2.44‐3.99)<xref rid="cpdd1543-tbl1-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">2.47 (2.02‐3.02)<xref rid="cpdd1543-tbl1-note-0004" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="center" colspan="2" rowspan="1">NA</td><td align="center" rowspan="1" colspan="1">0.163 (0.128‐0.208)<xref rid="cpdd1543-tbl1-note-0005" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">C<sub>max</sub> ratio, geoLSM (90% CI)</td><td align="center" colspan="2" rowspan="1">NA</td><td align="center" rowspan="1" colspan="1">2.00 (1.60‐2.48)<xref rid="cpdd1543-tbl1-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.86 (1.49‐2.31)<xref rid="cpdd1543-tbl1-note-0004" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="center" colspan="2" rowspan="1">NA</td><td align="center" rowspan="1" colspan="1">0.164 (0.122‐0.219)<xref rid="cpdd1543-tbl1-note-0005" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">RacAUC, geoLSM (90% CI)</td><td align="center" rowspan="1" colspan="1">NA</td><td align="center" rowspan="1" colspan="1">0.842 (0.726‐0.976)<xref rid="cpdd1543-tbl1-note-0006" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+</td><td align="center" colspan="3" rowspan="1">NA</td><td align="center" rowspan="1" colspan="1">0.816 (0.638‐1.04)<xref rid="cpdd1543-tbl1-note-0006" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">RacC<sub>max</sub>, geoLSM (90% CI)</td><td align="center" rowspan="1" colspan="1">NA</td><td align="center" rowspan="1" colspan="1">0.771 (0.662‐0.897)<xref rid="cpdd1543-tbl1-note-0006" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+</td><td align="center" colspan="3" rowspan="1">NA</td><td align="center" rowspan="1" colspan="1">0.828 (0.635‐1.08)<xref rid="cpdd1543-tbl1-note-0006" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">NA</td></tr></tbody></table><table-wrap-foot><fn id="cpdd1543-tbl1-note-0001"><p>AUC<sub>last</sub>, area under the concentration‐time curve from the last time of dosing to last measurable concentration; AUC<sub>0‐12h</sub>, area under the concentration‐time curve over the interval from 0 to 12 hours after dosing; C<sub>max</sub>, maximum plasma concentration; CV, coefficient of variation; geoLSM, least squares geometric mean; GeoMean, geometric mean; NA, not applicable; PK, pharmacokinetic; RacAUC, observed accumulation ratio; RacC<sub>max</sub>, C<sub>max</sub> accumulation ratio; SD, standard deviation; t<sub>max</sub>, time to maximum plasma concentration; t<sub>1/2</sub>, apparent terminal elimination half‐life.</p></fn><fn id="cpdd1543-tbl1-note-0002"><label>a</label><p>Estimated over a 12‐hour dosing interval.</p></fn><fn id="cpdd1543-tbl1-note-0003"><label>b</label><p>Day 21 versus Day 1.</p></fn><fn id="cpdd1543-tbl1-note-0004"><label>c</label><p>Day 36 versus Day 15.</p></fn><fn id="cpdd1543-tbl1-note-0005"><label>d</label><p>Day 24 versus Day 15.</p></fn><fn id="cpdd1543-tbl1-note-0006"><label>e</label><p>Day 15 versus Day 1.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="cpdd1543-sec-0120"><title>Steady State (Day 36 vs Day 15)</title><p>Itraconazole coadministration with tazemetostat resulted in higher tazemetostat exposure at steady state (Day 36) than tazemetostat alone (Day 15) (Figure <xref rid="cpdd1543-fig-0002" ref-type="fig">2B</xref>). The geoLSM ratios for C<sub>max</sub> and AUC<sub>0‐12h</sub> were 1.86 and 2.47, respectively. Tazemetostat t<sub>1/2</sub> (geometric mean [CV%]) was slightly longer with (11.9 hours [43.8]) versus without (8.01 hours [39.3]) itraconazole coadministration (Table <xref rid="cpdd1543-tbl-0001" ref-type="table">1</xref>). Median tazemetostat t<sub>max</sub> was slightly later with (1.49 hours) versus without (1.27 hours) itraconazole coadministration.</p><p>Following multiple doses of tazemetostat twice daily alone, the mean tazemetostat exposure (Day 15) was lower than those after a single tazemetostat dose (Day 1), with geoLSM ratios of 0.771 and 0.842 for RacC<sub>max</sub> and RacAUC<sub>0‐12h</sub>, respectively (Table <xref rid="cpdd1543-tbl-0001" ref-type="table">1</xref>).</p></sec></sec><sec id="cpdd1543-sec-0130"><title>Effect of Rifampin on Steady‐State PK of Tazemetostat (Day 24 vs Day 15)</title><p>Rifampin coadministration with tazemetostat (Day 24) resulted in lower tazemetostat exposure at steady state than tazemetostat administered alone (Day 15) (Figure <xref rid="cpdd1543-fig-0002" ref-type="fig">2C</xref>). The geoLSM ratios for C<sub>max</sub> and AUC<sub>0‐12h</sub> were 0.164 and 0.163, respectively. Tazemetostat t<sub>1/2</sub> (geometric mean [CV%]) was shorter with (4.86 hours [31.7]) versus without (7.55 hours [20.3]) rifampin coadministration (Table <xref rid="cpdd1543-tbl-0001" ref-type="table">1</xref>). Median tazemetostat t<sub>max</sub> was similar with (1.01 hours) and without (1.00 hour) rifampin coadministration.</p><p>Following multiple doses of tazemetostat twice daily alone, the mean tazemetostat exposure (Day 15) was lower than after a single tazemetostat dose (Day 1), with geoLSM ratios of 0.828 and 0.816 for RacC<sub>max</sub> and RacAUC<sub>0‐12h</sub>, respectively (Table <xref rid="cpdd1543-tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="cpdd1543-sec-0140"><title>Safety</title><p>In Part 1, 20 (95.2%) patients reported at least 1 TEAE, of which 13 (61.9%) patients experienced a TEAE considered related to the study drug by an investigator (Table <xref rid="cpdd1543-supinfo-0001" ref-type="">S2</xref>). The most frequently reported TEAEs (occurring in 20% or more of subjects) in Part 1 were decreased appetite and dyspnea (33% each), anemia, fatigue, and nausea (28.6% each), and constipation (23.8%). Treatment‐related Grade 3/4 TEAEs experienced in Part 1 were anemia (n = 2; 9.5%; related to tazemetostat or itraconazole in both patients), and hyponatremia (n = 1; 4.8%; related to tazemetostat). Two deaths were reported in patients due to serious TEAEs (lung adenocarcinoma and superior vena cava syndrome) within 30 days following the last dose of the study drug in patients receiving tazemetostat with itraconazole; neither of these was considered treatment related.</p><p>In Part 2, all patients reported at least 1 TEAE, of which 18 (85.7%) experienced a TEAE considered related to the study drug by an investigator (Table <xref rid="cpdd1543-supinfo-0001" ref-type="">S2</xref>). The most frequently reported TEAEs were fatigue (42.9%), diarrhea (33.3%), cough (28.6%), anemia, nausea, and constipation (23.8% each). Tazemetostat‐related Grade 3/4 TEAEs experienced in Part 2 were diarrhea (n = 1; 4.8%), alanine aminotransferase increased (n = 1; 4.8%), aspartate aminotransferase (n = 1; 4.8%), syncope (n = 1; 4.8%), acute kidney injury (n = 1; 4.8%), hypertension, and anemia (n = 2; 9.5%). Decreased lymphocyte count (n = 2; 9.5%) was a Grade 3/4 TEAE related to tazemetostat in 1 patient and rifampin in the other patient. There were no deaths resulting from TEAEs in Part 2.</p></sec></sec><sec id="cpdd1543-sec-0150"><title>Discussion</title><p>This Phase I, 2‐part study was conducted to characterize the PK of oral tazemetostat when administered as a single and twice‐daily dose alone or in combination with itraconazole (Part 1) or rifampin (Part 2) in patients with advanced malignancies.</p><p>In Part 1, coadministration of the strong CYP3A inhibitor itraconazole resulted in higher exposures of tazemetostat after a single dose (Day 21 vs Day 1) and at steady state (Day 36 vs Day 15). When administered as a single dose, itraconazole increased the mean C<sub>max</sub> and AUC<sub>0‐12h</sub> by 2.00‐ and 3.12‐fold, respectively, compared with tazemetostat alone. At steady state, coadministration increased the mean C<sub>max</sub> by 1.86‐fold and AUC<sub>0‐12h</sub> by 2.47‐fold. Median t<sub>max</sub> was similar in the presence or absence of itraconazole with single‐dose tazemetostat or steady state, whereas t<sub>1/2</sub> was approximately 4 hours longer at steady state with coadministration of itraconazole. This increase in tazemetostat exposure is expected with coadministration of a strong CYP3A inhibitor, given that tazemetostat is mainly metabolized by CYP3A in vitro.<xref rid="cpdd1543-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> However, the magnitude of tazemetostat exposure increases in the presence of itraconazole was significantly lower than expected from a strong inhibitor. It is recommended that the coadministration of tazemetostat with a strong CYP3A inhibitor should be avoided, and when coadministration is unavoidable, the tazemetostat dose should be reduced.<xref rid="cpdd1543-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> However, despite this recommendation against coadministration with strong CYP3A inhibitors, it is important to acknowledge their varying inhibitory potencies. Tazemetostat coadministration with drugs with greater CYP3A inhibitory activity, such as ketoconazole, ritonavir, or cobicistat,<xref rid="cpdd1543-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> may have resulted in a more substantial increase in tazemetostat exposure.</p><p>In Part 2, coadministration of the strong CYP3A inducer rifampin resulted in lower exposure to tazemetostat at steady state (Day 24 vs Day 15). Tazemetostat steady‐state exposure decreased by approximately 84% when coadministered with steady‐state rifampin. The geoLSM ratios for C<sub>max</sub> and AUC<sub>0‐12h</sub> were 0.164 and 0.163, respectively. This suggests that tazemetostat is very sensitive to rifampin induction of CYP3A, justifying the avoidance of concomitant administration with strong CYP3A inducers.<xref rid="cpdd1543-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+</p><p>Across both Parts 1 and 2, the nature and severity of TEAEs experienced were consistent with the known safety profile of tazemetostat. There were no protocol‐defined adverse events of special interest, and no new potential safety signals were identified during the study. The limited median duration of tazemetostat exposure, with most patients discontinuing the study due to disease progression, is consistent with a heavily pretreated patient population with advanced malignancies.</p><p>A limitation of this study was that sample sizes for each part of the study were relatively small given the large variability of tazemetostat PK assessments.</p><p>Overall, the results of this study reinforce that caution should be taken with concomitant administration of tazemetostat with strong CYP3A inhibitors or inducers due to their effect on tazemetostat exposure.</p></sec><sec sec-type="COI-statement" id="cpdd1543-sec-0170"><title>Conflicts of Interest</title><p>Yingxue Chen, Attila Szanto, Apoorva Kapopara, Rajat Bannerji, and Julien Ogier are employees of, and may own stock/stock options in, Ipsen. Renli Teng is a partner of CareCeutics LLC, contracted by Ipsen. Devalingam Mahalingam has received research funding from Amgen, Merck, Oncolytics, and Rafael; has participated in a scientific advisory board for Actuate, Qurient; has participated in an advisory/speaker bureau for Amgen, BMS, Eisai, and Exelixis; has received funding paid to their institution from Acepodia, Actuate Therapeutics, ADC Therapeutics, Amgen, AVEO, Bayer, Blueprint Medicines, BMS, BioNTech, Dialectic Therapeutics, Epizyme, Fujifilm, ImmuneSensor, Immune‐Onc Therapeutics, Leap Therapeutics, Lycera Corp, Merck, Millennium, MiNA Alpha, NGM Biopharmaceuticals, Novartis, Oncolytics, Orano Med, Puma, Qurient, Rafael, Repare Therapeutics, Triumvira Immunologics, Vigeo Therapeutics, and Werewolf Therapeutics.</p></sec><sec id="cpdd1543-sec-0180"><title>Funding</title><p>This study was sponsored by Epizyme, an Ipsen company.</p></sec><sec id="cpdd1543-sec-0210"><p>Where applicable, data from eligible studies are available 6 months after the studied medicine and indication have been approved in the United States and European Union or after the primary manuscript describing the results has been accepted for publication; whichever is later. Further details on Ipsen's sharing criteria, eligible studies, and process for sharing are available here: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://vivli.org/members/ourmembers/" ext-link-type="uri">https://vivli.org/members/ourmembers/</ext-link>. Any requests should be submitted to <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.vivli.org" ext-link-type="uri">www.vivli.org</ext-link> for assessment by an independent scientific review board.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cpdd1543-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="cpdd1543-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CPDD-14-520-s001.pdf" position="float" orientation="portrait"><?suppdata-name CPDD-14-520-s001.pdf?><?suppdata-size 159118?><?suppdata-md5 c280a8f00b55bc0cad420a9252114ea4?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:22e4/12209990/c280a8f00b55/CPDD-14-520-s001.pdf?></media></supplementary-material><supplementary-material id="cpdd1543-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CPDD-14-520-s002.pdf" position="float" orientation="portrait"><?suppdata-name CPDD-14-520-s002.pdf?><?suppdata-size 91257?><?suppdata-md5 f8a715e547c19ec3453e3dcc774faae8?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:22e4/12209990/f8a715e547c1/CPDD-14-520-s002.pdf?></media></supplementary-material></sec></body><back><ack id="cpdd1543-sec-0160"><title>Acknowledgments</title><p>The authors thank all patients involved in the study, as well as their caregivers, care team, investigators, and research staff in participating institutions. The authors thank Joshua Quartey, BSc, of Nucleus Global, an Inizio Company, for providing medical writing support, which was sponsored by Epizyme, an Ipsen company, in accordance with Good Publication Practice guidelines.</p></ack><sec sec-type="data-availability" id="cpdd1543-sec-0200"><title>Data Availability Statement</title><p>Qualified researchers may request access to patient‐level study data that underlie the results reported in this publication. Additional relevant study documents, including the clinical study report, study protocol with any amendments, annotated case report form, statistical analysis plan, and data set specifications may also be made available. Patient‐level data will be anonymized, and study documents will be redacted to protect the privacy of study participants.</p></sec><ref-list id="cpdd1543-bibl-0001"><title>References</title><ref id="cpdd1543-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0001">
+<string-name name-style="western">
+<surname>Gan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Epigenetic regulation of cancer progression by EZH2: from biological insights to therapeutic potential</article-title>. <source>Biomarker Res</source>. <year>2018</year>;<volume>6</volume>:<fpage>10</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40364-018-0122-2</pub-id><pub-id pub-id-type="pmcid">PMC5845366</pub-id><pub-id pub-id-type="pmid">29556394</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0002">
+<string-name name-style="western">
+<surname>Arrowsmith</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bountra</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fish</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schapira</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Epigenetic protein families: a new frontier for drug discovery</article-title>. <source>Nat Rev Drug Discov</source>. <year>2012</year>;<volume>11</volume>(<issue>5</issue>):<fpage>384</fpage>‐<lpage>400</lpage>.<pub-id pub-id-type="pmid">22498752</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrd3674</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0003">
+<string-name name-style="western">
+<surname>Gulati</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Béguelin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giulino‐Roth</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Enhancer of zeste homolog 2 (EZH2) inhibitors</article-title>. <source>Leuk Lymphoma</source>. <year>2018</year>;<volume>59</volume>(<issue>7</issue>):<fpage>1574</fpage>‐<lpage>1585</lpage>.<pub-id pub-id-type="pmid">29473431</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/10428194.2018.1430795</pub-id><pub-id pub-id-type="pmcid">PMC6659997</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0004">
+<string-name name-style="western">
+<surname>Chi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allis</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>GG</given-names>
+</string-name>. <article-title>Covalent histone modifications–miswritten, misinterpreted and mis‐erased in human cancers</article-title>. <source>Nat Rev Cancer</source>. <year>2010</year>;<volume>10</volume>(<issue>7</issue>):<fpage>457</fpage>‐<lpage>469</lpage>.<pub-id pub-id-type="pmid">20574448</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc2876</pub-id><pub-id pub-id-type="pmcid">PMC3262678</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0005">
+<string-name name-style="western">
+<surname>Audia</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campbell</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>Histone modifications and cancer</article-title>. <source>Cold Spring Harb Perspect Biol</source>. <year>2016</year>;<volume>8</volume>(<issue>4</issue>):<elocation-id>a019521</elocation-id>.<pub-id pub-id-type="pmid">27037415</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/cshperspect.a019521</pub-id><pub-id pub-id-type="pmcid">PMC4817802</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0006">
+<string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Targeting epigenetic regulators for cancer therapy: mechanisms and advances in clinical trials</article-title>. <source>Signal Transduct Target Ther</source>. <year>2019</year>;<volume>4</volume>:<fpage>62</fpage>.<pub-id pub-id-type="pmid">31871779</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41392-019-0095-0</pub-id><pub-id pub-id-type="pmcid">PMC6915746</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0007">
+<string-name name-style="western">
+<surname>Tao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Epigenetic regulation in cancer therapy: from mechanisms to clinical advances</article-title>. <source>MedComm – Oncology</source>. <year>2024</year>;<volume>3</volume>(<issue>1</issue>):<elocation-id>e59</elocation-id>.</mixed-citation></ref><ref id="cpdd1543-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0008">
+<string-name name-style="western">
+<surname>Duan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>EZH2: a novel target for cancer treatment</article-title>. <source>J Hematol Oncol</source>. <year>2020</year>;<volume>13</volume>(<issue>1</issue>):<fpage>104</fpage>.<pub-id pub-id-type="pmid">32723346</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13045-020-00937-8</pub-id><pub-id pub-id-type="pmcid">PMC7385862</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0009">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>The roles of EZH2 in cancer and its inhibitors</article-title>. <source>Med Oncol</source>. <year>2023</year>;<volume>40</volume>(<issue>6</issue>):<fpage>167</fpage>.<pub-id pub-id-type="pmid">37148376</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12032-023-02025-6</pub-id><pub-id pub-id-type="pmcid">PMC10162908</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0010">
+<string-name name-style="western">
+<surname>Orleni</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beumer</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Pharmacology and pharmacokinetics of tazemetostat</article-title>. <source>Cancer Chemother Pharmacol</source>. <year>2024</year>;<volume>93</volume>(<issue>5</issue>):<fpage>509</fpage>‐<lpage>517</lpage>.<pub-id pub-id-type="pmid">38520556</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00280-024-04658-4</pub-id><pub-id pub-id-type="pmcid">PMC11559081</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0011">
+<string-name name-style="western">
+<surname>Gounder</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schöffski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>RL</given-names>
+</string-name>, et al. <article-title>Tazemetostat in advanced epithelioid sarcoma with loss of INI1/SMARCB1: an international, open‐label, phase 2 basket study</article-title>. <source>Lancet Oncol</source>. <year>2020</year>;<volume>21</volume>(<issue>11</issue>):<fpage>1423</fpage>‐<lpage>1432</lpage>.<pub-id pub-id-type="pmid">33035459</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(20)30451-4</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0012">
+<string-name name-style="western">
+<surname>Morschhauser</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tilly</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaidos</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Tazemetostat for patients with relapsed or refractory follicular lymphoma: an open‐label, single‐arm, multicentre, phase 2 trial</article-title>. <source>Lancet Oncol</source>. <year>2020</year>;<volume>21</volume>(<issue>11</issue>):<fpage>1433</fpage>‐<lpage>1442</lpage>.<pub-id pub-id-type="pmid">33035457</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(20)30441-1</pub-id><pub-id pub-id-type="pmcid">PMC8427481</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0013">
+<string-name name-style="western">
+<surname>Munakata</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shirasugi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tobinai</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Phase 1 study of tazemetostat in Japanese patients with relapsed or refractory B‐cell lymphoma</article-title>. <source>Cancer Sci</source>. <year>2021</year>;<volume>112</volume>(<issue>3</issue>):<fpage>1123</fpage>‐<lpage>1131</lpage>.<pub-id pub-id-type="pmid">33492746</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cas.14822</pub-id><pub-id pub-id-type="pmcid">PMC7935786</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0014">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raymond</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Roles of rifampicin in drug‐drug interactions: underlying molecular mechanisms involving the nuclear pregnane X receptor</article-title>. <source>Ann Clin Microbiol Antimicrob</source>. <year>2006</year>;<volume>5</volume>:<fpage>3</fpage>.<pub-id pub-id-type="pmid">16480505</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1476-0711-5-3</pub-id><pub-id pub-id-type="pmcid">PMC1395332</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0015">
+<string-name name-style="western">
+<surname>van Haarst</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garvin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benrimoh</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paglialunga</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Rifampin drug–drug–interaction studies: reflections on the nitrosamine impurities issue</article-title>. <source>Clin Pharmacol Ther</source>. <year>2023</year>;<volume>113</volume>(<issue>4</issue>):<fpage>816</fpage>‐<lpage>821</lpage>.<pub-id pub-id-type="pmid">35593029</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.2652</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0016">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Effects of itraconazole and rifampicin on the pharmacokinetics and safety of youkenafil, a novel phosphodiesterase type 5 inhibitor, in healthy Chinese subjects</article-title>. <source>Eur J Pharm Sci</source>. <year>2022</year>;<volume>175</volume>:<elocation-id>106213</elocation-id>.<pub-id pub-id-type="pmid">35605912</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejps.2022.106213</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0017">
+<string-name name-style="western">
+<surname>Brüggemann</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alffenaar</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blijlevens</surname>
+<given-names>NM</given-names>
+</string-name>, et al. <article-title>Clinical relevance of the pharmacokinetic interactions of azole antifungal drugs with other coadministered agents</article-title>. <source>Clin Infect Dis</source>. <year>2009</year>;<volume>48</volume>(<issue>10</issue>):<fpage>1441</fpage>‐<lpage>1458</lpage>.<pub-id pub-id-type="pmid">19361301</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1086/598327</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0018">
+<string-name name-style="western">
+<surname>Lv</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Effect of itraconazole on the safety and pharmacokinetics of antitumor SHR6390</article-title>. <source>Front Drug Discov</source>. <year>2022</year>;<volume>2</volume>:<elocation-id>963045</elocation-id>.</mixed-citation></ref><ref id="cpdd1543-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0019">
+<string-name name-style="western">
+<surname>Julia</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salles</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>EZH2 inhibition by tazemetostat: mechanisms of action, safety and efficacy in relapsed/refractory follicular lymphoma</article-title>. <source>Future Oncol</source>. <year>2021</year>;<volume>17</volume>(<issue>17</issue>):<fpage>2127</fpage>‐<lpage>2140</lpage>.<pub-id pub-id-type="pmid">33709777</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2217/fon-2020-1244</pub-id><pub-id pub-id-type="pmcid">PMC9892962</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0020">
+<string-name name-style="western">
+<surname>Greenblatt</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harmatz</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Ritonavir is the best alternative to ketoconazole as an index inhibitor of cytochrome P450‐3A in drug–drug interaction studies</article-title>. <source>Brit J Clin Pharmacol</source>. <year>2015</year>;<volume>80</volume>(<issue>3</issue>):<fpage>342</fpage>‐<lpage>350</lpage>.<pub-id pub-id-type="pmid">25923589</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcp.12668</pub-id><pub-id pub-id-type="pmcid">PMC4574820</pub-id></mixed-citation></ref><ref id="cpdd1543-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cpdd1543-cite-0021">
+<string-name name-style="western">
+<surname>Molenaar‐Kuijsten</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Balen</surname>
+<given-names>DEM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beijnen</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steeghs</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huitema</surname>
+<given-names>ADR</given-names>
+</string-name>. <article-title>A review of CYP3A drugdrug interaction studies: practical guidelines for patients using targeted oral anticancer drugs</article-title>. <source>Front Pharmacol</source>. <year>2021</year>;<volume>12</volume>:<elocation-id>670862</elocation-id>.<pub-id pub-id-type="pmid">34526892</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2021.670862</pub-id><pub-id pub-id-type="pmcid">PMC8435708</pub-id></mixed-citation></ref></ref-list></back></article>

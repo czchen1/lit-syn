@@ -1,0 +1,548 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><?da-xref-anchor-style superscripted?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Sci</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Sci</journal-id><journal-id journal-id-type="pmc-domain-id">2682</journal-id><journal-id journal-id-type="pmc-domain">cas</journal-id><journal-id journal-id-type="publisher-id">CAS</journal-id><journal-title-group><journal-title>Cancer Science</journal-title></journal-title-group><issn pub-type="ppub">1347-9032</issn><issn pub-type="epub">1349-7006</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7935786</article-id><article-id pub-id-type="pmcid-ver">PMC7935786.1</article-id><article-id pub-id-type="pmcaid">7935786</article-id><article-id pub-id-type="pmcaiid">7935786</article-id><article-id pub-id-type="pmid">33492746</article-id><article-id pub-id-type="doi">10.1111/cas.14822</article-id><article-id pub-id-type="publisher-id">CAS14822</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group subj-group-type="heading"><subject>Clinical Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Phase 1 study of tazemetostat in Japanese patients with relapsed or refractory B‐cell lymphoma</article-title><alt-title alt-title-type="left-running-head">MUNAKATA et al</alt-title></title-group><contrib-group><contrib id="cas14822-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Munakata</surname><given-names initials="W">Wataru</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4679-0656</contrib-id><xref ref-type="aff" rid="cas14822-aff-0001">
+<sup>1</sup>
+</xref><address><email>wmunakat@ncc.go.jp</email></address></contrib><contrib id="cas14822-cr-0002" contrib-type="author"><name name-style="western"><surname>Shirasugi</surname><given-names initials="Y">Yukari</given-names></name><xref ref-type="aff" rid="cas14822-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14822-cr-0003" contrib-type="author"><name name-style="western"><surname>Tobinai</surname><given-names initials="K">Kensei</given-names></name><xref ref-type="aff" rid="cas14822-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14822-cr-0004" contrib-type="author"><name name-style="western"><surname>Onizuka</surname><given-names initials="M">Makoto</given-names></name><xref ref-type="aff" rid="cas14822-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14822-cr-0005" contrib-type="author"><name name-style="western"><surname>Makita</surname><given-names initials="S">Shinichi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6609-8088</contrib-id><xref ref-type="aff" rid="cas14822-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14822-cr-0006" contrib-type="author"><name name-style="western"><surname>Suzuki</surname><given-names initials="R">Rikio</given-names></name><xref ref-type="aff" rid="cas14822-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14822-cr-0007" contrib-type="author"><name name-style="western"><surname>Maruyama</surname><given-names initials="D">Dai</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0654-6920</contrib-id><xref ref-type="aff" rid="cas14822-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14822-cr-0008" contrib-type="author"><name name-style="western"><surname>Kawai</surname><given-names initials="H">Hidetsugu</given-names></name><xref ref-type="aff" rid="cas14822-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14822-cr-0009" contrib-type="author"><name name-style="western"><surname>Izutsu</surname><given-names initials="K">Koji</given-names></name><xref ref-type="aff" rid="cas14822-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14822-cr-0010" contrib-type="author"><name name-style="western"><surname>Nakanishi</surname><given-names initials="T">Tadashi</given-names></name><xref ref-type="aff" rid="cas14822-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cas14822-cr-0011" contrib-type="author"><name name-style="western"><surname>Shiba</surname><given-names initials="S">Sari</given-names></name><xref ref-type="aff" rid="cas14822-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cas14822-cr-0012" contrib-type="author"><name name-style="western"><surname>Hojo</surname><given-names initials="S">Seichiro</given-names></name><xref ref-type="aff" rid="cas14822-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cas14822-cr-0013" contrib-type="author"><name name-style="western"><surname>Ando</surname><given-names initials="K">Kiyoshi</given-names></name><xref ref-type="aff" rid="cas14822-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="cas14822-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>National Cancer Center Hospital</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14822-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Hematology and Oncology</named-content>
+<institution>Tokai University School of Medicine</institution>
+<city>Isehara</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14822-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Clinical Development</named-content>
+<institution>Eisai Co., Ltd.</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14822-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Clinical Pharmacology Science Department</named-content>
+<institution>Eisai Co., Ltd.</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14822-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Clinical Data Science Department</named-content>
+<institution>Eisai Co., Ltd.</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Wataru Munakata, Department of Hematology, National Cancer Center Hospital, Tokyo, Japan.<break/>
+Email: <email>wmunakat@ncc.go.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>2</month><year>2021</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2021</year></pub-date><volume>112</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">376760</issue-id><issue-id pub-id-type="doi">10.1111/cas.v112.3</issue-id><fpage>1123</fpage><lpage>1131</lpage><history><date date-type="received"><day>03</day><month>12</month><year>2020</year></date><date date-type="rev-recd"><day>19</day><month>1</month><year>2021</year></date><date date-type="accepted"><day>20</day><month>1</month><year>2021</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>03</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>15</day><month>03</month><year>2021</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2021-03-16 00:16:26.940"><day>16</day><month>03</month><year>2021</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2021 The Authors. <italic toggle="yes">Cancer Science</italic> published by John Wiley &amp; Sons Australia, Ltd on behalf of Japanese Cancer Association.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAS-112-1123.pdf"><?pdf-name CAS-112-1123.pdf?><?pdf-size 574963?><?pdf-md5 881c221b106eea2df50d4b66a1557fe0?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:5bc0/7935786/881c221b106e/CAS-112-1123.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAS-112-1123.pdf"/><abstract id="cas14822-abs-0001"><title>Abstract</title><sec id="cas14822-sec-0001"><title>Background</title><p>Tazemetostat is a selective and orally available inhibitor of enhancer of zeste homolog 2 (EZH2), a histone methyltransferase and epigenetic regulator of cellular differentiation programs. We carried out a phase I study of tazemetostat in Japanese patients with relapsed or refractory B‐cell non‐Hodgkin‐type lymphoma (B‐NHL) to evaluate its tolerability, safety, pharmacokinetics, and preliminary antitumor activity.</p></sec><sec id="cas14822-sec-0002"><title>Methods</title><p>Tazemetostat was given orally at a single dose of 800 mg on the first day and 800 mg twice daily (BID: total 1600 mg/d) on following days in a 28‐day/cycle manner. Tazemetostat dose‐limiting toxicity (DLT) was evaluated up to the end of the first treatment cycle. Archival tumor tissues were analyzed for hotspot <italic toggle="yes">EZH2</italic> mutations.</p></sec><sec id="cas14822-sec-0003"><title>Results</title><p>As of 15 January 2018, seven patients (four follicular lymphoma [FL] and three diffuse large B‐cell lymphoma [DLBCL]) were enrolled. The median age was 73 (range, 59‐85) years, and the median number of prior chemotherapy regimens was three (range, one to five). No DLT was observed (one patient was not evaluable due to early disease progression). The common treatment‐related adverse events (AEs) were thrombocytopenia and dysgeusia (three patients each; 42.9%). No treatment‐related serious AEs were observed. The objective response rate was 57% (4/7 patients), including responses in three of four patients with FL and one of three patients with DLBCL. An <italic toggle="yes">EZH2</italic> mutation was detected in one patient with FL responding to treatment.</p></sec><sec id="cas14822-sec-0004"><title>Conclusions</title><p>Tazemetostat at 800 mg BID showed an acceptable safety profile and promising antitumor activity in Japanese patients with relapsed or refractory B‐NHL.</p></sec></abstract><abstract abstract-type="graphical" id="cas14822-abs-0002"><p>Tazemetostat is a selective and orally available inhibitor of enhancer of zeste homolog 2 (EZH2), a histone methyltransferase acting as an epigenetic regulator of cellular differentiation programs. Tazemetostat at 800 mg BID demonstrated an acceptable safety profile and promising antitumor activity in Japanese patients with relapsed or refractory B‐cell non‐Hodgkin‐type lymphoma.<boxed-text position="anchor" content-type="graphic" id="cas14822-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CAS-112-1123-g003.jpg"><?image-name CAS-112-1123-g003.jpg?><?image-size 9369?><?image-md5 23b5261158bec89511c6aaec818a7eed?><?image-image-server-status NEVER_LOAD?><?image-original-height 66?><?image-original-width 120?><?image-scaled-height 66?><?image-scaled-width 120?><?image-cloudpmc-urn urn:cdn:blobs/5bc0/7935786/23b5261158be/CAS-112-1123-g003.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group><kwd id="cas14822-kwd-0001">diffuse large B‐cell lymphoma</kwd><kwd id="cas14822-kwd-0002">enhancer of zeste homolog 2</kwd><kwd id="cas14822-kwd-0003">follicular lymphoma</kwd><kwd id="cas14822-kwd-0004">phase I study</kwd><kwd id="cas14822-kwd-0005">tazemetostat</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Eisai </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100003769</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="4"/><page-count count="9"/><word-count count="6332"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.9 mode:remove_FC converted:05.03.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cas14822-cit-1001">
+<string-name name-style="western">
+<surname>Munakata</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shirasugi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tobinai</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Phase 1 study of tazemetostat in Japanese patients with relapsed or refractory B‐cell lymphoma</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2021</year>;<volume>112</volume>:<fpage>1123</fpage>–<lpage>1131</lpage>. <pub-id pub-id-type="doi">10.1111/cas.14822</pub-id>
+<pub-id pub-id-type="pmcid">PMC7935786</pub-id><pub-id pub-id-type="pmid">33492746</pub-id></mixed-citation>
+</p></notes></front><body id="cas14822-body-0001"><def-list list-content="abbreviations" id="cas14822-lp-0001"><title>Abbreviations</title><def-item><term>AE</term><def><p>adverse event</p></def></def-item><def-item><term>AUC</term><def><p>area under the concentration‐time curve</p></def></def-item><def-item><term>BOR</term><def><p>best overall response</p></def></def-item><def-item><term>CI</term><def><p>confidence interval</p></def></def-item><def-item><term>COO</term><def><p>cell‐of‐origin</p></def></def-item><def-item><term>CR</term><def><p>complete response</p></def></def-item><def-item><term>CT</term><def><p>computed tomography</p></def></def-item><def-item><term>CYP3A</term><def><p>cytochrome P450 family 3 subfamily A</p></def></def-item><def-item><term>DLBCL</term><def><p>diffuse large B‐cell lymphoma</p></def></def-item><def-item><term>DLT</term><def><p>dose‐limiting toxicity</p></def></def-item><def-item><term>ECG</term><def><p>electrocardiogram</p></def></def-item><def-item><term>EZH2</term><def><p>enhancer of zeste homolog 2</p></def></def-item><def-item><term>FL</term><def><p>follicular lymphoma</p></def></def-item><def-item><term>GC</term><def><p>germinal center</p></def></def-item><def-item><term>GCB‐DLBCL</term><def><p>germinal center B‐cell‐like diffuse large B‐cell lymphoma</p></def></def-item><def-item><term>H3K27</term><def><p>lysine 27 on histone 3</p></def></def-item><def-item><term>IHC</term><def><p>immunohistochemistry</p></def></def-item><def-item><term>NHL</term><def><p>non‐Hodgkin‐type lymphoma</p></def></def-item><def-item><term>ORR</term><def><p>objective response rate</p></def></def-item><def-item><term>PK</term><def><p>pharmacokinetic</p></def></def-item><def-item><term>PR</term><def><p>partial response</p></def></def-item><def-item><term>PRC2</term><def><p>polycomb repressive complex 2</p></def></def-item><def-item><term>PS</term><def><p>performance status</p></def></def-item><def-item><term>R‐CHOP</term><def><p>combination of several chemotherapy drugs (cyclophosphamide, doxorubicin, vincristine, and prednisone) and rituximab (R)</p></def></def-item><def-item><term>R/R</term><def><p>relapsed or refractory</p></def></def-item><def-item><term>SAE</term><def><p>serious adverse event</p></def></def-item><def-item><term>SWI/SNF</term><def><p>switch/sucrose nonfermentable</p></def></def-item><def-item><term><italic toggle="yes">t</italic><sub>1/2</sub></term><def><p>terminal elimination phase half‐life</p></def></def-item><def-item><term>TR‐AE</term><def><p>treatment‐related adverse event</p></def></def-item></def-list><sec id="cas14822-sec-0005"><label>1</label><title>INTRODUCTION</title><p>The disruption of chromatin modulation has emerged as an important step in oncogenesis, including lymphomagenesis. Mutations in chromatin modifiers, associated with aberrant cell fate decisions, have been reported to frequently occur in a number of tumors.<xref rid="cas14822-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="cas14822-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="cas14822-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> Loss‐of‐function mutations in E1A binding protein P300 (<italic toggle="yes">EP300</italic>), CREB binding protein (<italic toggle="yes">CREBBP</italic>), or lysine methyltransferase 2D (<italic toggle="yes">KMT2D</italic>, also known as <italic toggle="yes">MLL4</italic>) have been shown to occur frequently in B‐NHL.<xref rid="cas14822-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="cas14822-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="cas14822-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> Enhancer of zest homolog 2 is a histone methyltransferase known to function as the catalytic subunit of PRC2. Briefly, PRC2 is known to methylate H3K27.<xref rid="cas14822-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="cas14822-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="cas14822-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cas14822-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="cas14822-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="cas14822-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="cas14822-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> Patients with solid tumors characterized by loss of expression of the SWI/SNF subunits of the SWI/SNF‐related matrix‐associated actin‐dependent regulator of chromatin subfamily B member 1 (SMARCB1, also known as INI1, SNF5, and BAF47) protein have an extremely poor prognosis and lack efficacious treatments. More specifically, <italic toggle="yes">INI1</italic> is a potent tumor suppressor gene and encodes a core component of the SWI/SNF complex that is known to act in opposition to PRC2, the integrated functions of which have been shown to control diverse cellular processes, such as cell differentiation and proliferation.<xref rid="cas14822-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cas14822-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> Loss of INI1 has been reported to disrupt the function of the SWI/SNF complex, leading to aberrant recruitment of EZH2 to target genes, increased H3K27me3, transcriptional repression of key tumor suppressors, and the upregulation of several oncogenic signaling pathways, including Sonic hedgehog, Wnt/β‐catenin, and myc.<xref rid="cas14822-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="cas14822-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="cas14822-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> With regard to B‐NHL, recurrent gain‐of function alterations in <italic toggle="yes">EZH2</italic> have been reported to occur in approximately 21.7% of GCB‐DLBCLs and 7%‐27% of FLs.<xref rid="cas14822-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="cas14822-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="cas14822-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> Once GC B‐cells complete their affinity maturation, they resume their normal path of plasma cell differentiation.<xref rid="cas14822-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> Both GCB‐DLBCL and FL have been reported to arise from this inherently tumorigenic GC B‐cell phenotype.<xref rid="cas14822-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="cas14822-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> Accordingly, EZH2 was found to be essential for maintaining the GC phenotype and is thus required for the development of pre‐B cells to acquire a full spectrum of immunoglobulin recombination.<xref rid="cas14822-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> Moreover, EZH2 is known to be highly expressed in GC, and conditional deletion of EZH2 in established GC B‐cells results in their failure to form functional GCs.<xref rid="cas14822-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>, <xref rid="cas14822-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> Tazemetostat (EPZ‐6438, E7438) is an orally administered, highly selective EZH2 inhibitor, and its first‐in‐human study was undertaken in France.<xref rid="cas14822-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> In this study, tazemetostat showed a favorable safety profile and antitumor activity in patients with refractory B‐NHL and advanced solid tumors, including epithelioid sarcomas. The recommended dose was set to 800 mg BID. Tazemetostat received accelerated approval by the US FDA in January 2020 for the treatment of adults and adolescents aged 16 years or older with locally advanced or metastatic epithelioid sarcoma not eligible for complete resection, based on the ORR and duration of response observed in the phase II study.<xref rid="cas14822-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> With respect to B‐NHL, a separate phase II study reported that the ORR of tazemetostat was 69% (95% CI, 53‐82; 31 of 45 patients) in the <italic toggle="yes">EZH2</italic> mutant FL cohort and 3% (95% CI, 23‐49; 19 of 54 patients) in the <italic toggle="yes">EZH2</italic> WT FL cohort.<xref rid="cas14822-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref> Based on this study, tazemetostat also received accelerated approval from the FDA in June 2020 for the treatment of adult patients with R/R FL whose tumors are positive for an <italic toggle="yes">EZH2</italic> mutation as detected by an FDA‐approved test and who have received at least two prior systemic therapies, as well as for adult patients with R/R FL who have no satisfactory alternative treatment options. Here, we report a phase I study of tazemetostat in Japanese patients with relapsed or refractory B‐NHL.</p></sec><sec sec-type="materials-and-methods" id="cas14822-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cas14822-sec-0007"><label>2.1</label><title>Study design and treatment</title><p>This multicenter, single‐arm, phase I study (ClinicalTrials.gov identifier: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03009344">NCT03009344</ext-link>) in Japanese patients with relapsed or refractory B‐NHL aimed to evaluate the tolerability, safety, PKs, and preliminary antitumor activity of tazemetostat. In addition, the <italic toggle="yes">EZH2</italic> mutation status in tumors was explored. For this, 800 mg tazemetostat was given orally in a single dose in cycle 0 (4 days) and in continuous doses of 800 mg BID (1600 mg total daily dose) in cycle 1, and later in 28‐day cycles. Dose reduction and interruption were allowed in case patients experienced toxicity, such as intolerable grade 2 or more toxicity (except for absolute neutrophil counts of 0.75 × 10<sup>9</sup>/L or higher). Dose reductions were in the order of 600 and 400 mg BID (1200 mg and 800 mg total daily dose, respectively) and were not allowed to increase later. Treatment with tazemetostat continued until disease progression, development of unacceptable toxicity, patient request to discontinue, withdrawal of consent, and other activities and were discussed with the sponsor. Follow‐up was carried out until 30 days after the final treatment with tazemetostat.</p><p>The selection of initiation dose in this study was based on a phase I/II study of tazemetostat (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT01897571">NCT01897571</ext-link>) undertaken outside of Japan, where the recommended dose of tazemetostat was determined to be 800 mg BID.<xref rid="cas14822-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> The tolerability of tazemetostat was determined based on the incidence of DLTs in cycles 0 and 1. If DLTs occurred in two or fewer of six patients, this dosage level was considered tolerable.</p></sec><sec id="cas14822-sec-0008"><label>2.2</label><title>Patient eligibility</title><p>Eligible patients were a minimum of 20 years of age with a histological diagnosis of DLBCL or FL (except for transformed lymphoma), for which no standard therapy existed. Patients must have had previous therapy with systemic chemotherapy or Ab therapy, and measurable disease detected by a CT scan. Patients also had to have an ECOG‐PS of 0 or 1 and life expectancy of at least 3 months, as well as adequate renal, liver, bone marrow, and cardiac function. Patients were not eligible if they had allogeneic stem cell transplantation or prior exposure to an EZH2 inhibitor. Patients were also excluded if they were unable to take oral medication, had malabsorption syndrome, or had venous thrombosis or pulmonary embolism within the past 3 months before study drug administration, complications of hepatic cirrhosis, interstitial pneumonia, or pulmonary fibrosis. Other key exclusion criteria included medication comprising potent or moderate inhibitors/inducers of CYP3A, use of H2 blockers or proton‐pump inhibitors, significant cardiovascular impairment, prolongation of QT interval, malignancy other than B‐NHL, and pregnancy or lactation. This study was carried out in accordance with the Declaration of Helsinki and Good Clinical Practice guidelines. The protocol and its amendments were approved by the Institutional Review Board, and all patients provided written informed consent.</p></sec><sec id="cas14822-sec-0009"><label>2.3</label><title>Definition of DLT</title><p>The following toxicities were regarded as DLTs: (a) grade 4 neutropenia for more than 7 consecutive days or neutropenia requiring hematopoietic growth factors; (b) grade 3 or higher febrile neutropenia; (c) grade 4 thrombocytopenia, grade 3 thrombocytopenia with bleeding, or thrombocytopenia requiring platelet transfusion; (d) grade 4 anemia or anemia requiring erythrocyte transfusion; (e) grade 3 or higher nausea, vomiting, or diarrhea persisting for more than 7 consecutive days despite maximal medical therapy; (f) grade 3 or higher nonhematological laboratory abnormalities with clinical symptoms persisting for more than 7 days; (g) other grade 3 toxicity lasting more than 7 consecutive days or grade 4 nonhematological toxicity of any duration; (h) failure to administer 75% or more of the planned administration number (42 or more of 56 doses) of the study drugs in cycle 1 as a result of treatment‐related toxicity.</p></sec><sec id="cas14822-sec-0010"><label>2.4</label><title>Safety</title><p>Safety assessments consisted of monitoring and recording all AEs, including all grading of Common Terminology Criteria for Adverse Events (version 4.03), SAEs, regular laboratory evaluation of hematology, blood chemistry, and urine values, and periodic measurements of vital signs, including 12‐lead ECGs, echocardiograms/multigated acquisition scans to assess left ventricular ejection fraction, ECOG‐PS, and physical examinations.</p></sec><sec id="cas14822-sec-0011"><label>2.5</label><title>Pharmacokinetics</title><p>Blood samples for PK analyses were collected as follows: predose, and 0.5, 1, 2, 4, 6, 8, 10, and 12 hours (day 1), 24 hours (day 2), 48 hours (day 3), and 72 hours (day 4) postdose in cycle 0; predose in the first administration on cycle 1 day 3 (C1D3) and cycle 1 day 8 (C1D8); predose and 0.5, 1, 2, 4, 6, 8, 10, and 12 hours postdose in the first administration on cycle 1 day 15 (C1D15); and predose in the first administration on cycle 1 day 22 (C1D22) and cycle 2 day 1 (C2D1). Urine samples for PK analyses of tazemetostat were collected as follows: predose and 0‐72 hours postdose in C0D1; and 0‐12 hours postdose for the first administration in C1D15. Tazemetostat was given in a fasted state in cycle 0 day 1 (C0D1) and at the first administration of cycle 1 day 15 (C1D15) defined as 2 hours or more before and 2 hours or more after a meal (only water was allowed). The plasma and urine concentrations of tazemetostat and the plasma concentrations of its desethyl metabolite (EPZ‐6930) were measured by validated methods using liquid chromatography with tandem mass spectrometry. Pharmacokinetic parameters were calculated using noncompartmental analysis, including <italic toggle="yes">C</italic>
+<sub>max</sub> (maximum plasma concentration), time to <italic toggle="yes">C</italic>
+<sub>max</sub> (<italic toggle="yes">t</italic>
+<sub>max</sub>), and AUC at both first [C0D1] and repeated [C1D15] administrations).</p></sec><sec id="cas14822-sec-0012"><label>2.6</label><title>Antitumor activity</title><p>Tumor assessment was carried out according to the Lugano Classification (CT‐based Response).<xref rid="cas14822-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> The ORR and BOR were assessed. The CT scans were undertaken within 28 days prior to the initiation of treatment, every 8 weeks (starting at C1D1) during cycle 2‐6, every 12 weeks starting at cycle 7 (C7D1) and beyond, and at discontinuation. Bone marrow aspiration or biopsy was carried out at screening for the evaluation of bone marrow infiltration in the tumor. After studying drug administration, bone marrow aspiration or biopsy was carried out if the result of screening was positive or unconfirmed and when required to confirm CR as the best response or if clinically indicated.</p></sec><sec id="cas14822-sec-0013"><label>2.7</label><title>
+<italic toggle="yes">EZH2</italic> mutation and COO status</title><p>Archival, formalin‐fixed tumor tissues from available patients were collected for assessment of the mutational status of the <italic toggle="yes">EZH2</italic> (codons Y646, A682, and A692). The COO status of DLBCL patients was collected as patient characteristics. The COO status of all three patients was identified using the Hans IHC‐based algorithm.<xref rid="cas14822-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> The frequency of <italic toggle="yes">EZH2</italic> mutation status and COO status were calculated.</p></sec><sec id="cas14822-sec-0014"><label>2.8</label><title>Statistical analysis</title><p>All subjects who completed treatment cycles 0 and 1 without major protocol deviations with at least 75% treatment compliance in cycle 1 were assessed for DLT, in addition to subjects who experienced DLT during cycles 0 and 1. All subjects who received at least one dose of tazemetostat were analyzed for safety, efficacy, and PKs. The BOR was summarized in total or for each disease (DLBCL and FL). The ORR was presented with corresponding two‐sided Clopper‐Pearson exact 95% CIs. Statistical analyses were performed using SAS Version 9.2 or later and Phoenix WinNonlin software (version 7.0) for PK analysis.</p></sec></sec><sec sec-type="results" id="cas14822-sec-0015"><label>3</label><title>RESULTS</title><sec id="cas14822-sec-0016"><label>3.1</label><title>Patient characteristics</title><p>This study was carried out between 10 January 2017 and 21 May 2019 at two study sites in Japan. A total of seven patients received at least one dose of the study drug. Two patients were in cycle 29 as of the date of data cut‐off, whereas five patients discontinued the study. Dose‐limiting toxicities were evaluated in six patients, but one patient was not included, due to disease progression with less than 75% treatment compliance in cycle 1. A summary of patient characteristics is presented in Table <xref rid="cas14822-tbl-0001" ref-type="table">1</xref>. The median age was 73.0 years (range, 59‐85 years), with four male (57.1%) patients. All patients were Japanese. Baseline ECOG‐PS scores of patients were either 0 (five patients; 71.4%) or 1 (two patients; 28.6%).</p><table-wrap id="cas14822-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 1</label><caption><p>Demographics and characteristics of Japanese patients with relapsed or refractory B‐cell lymphoma treated with tazemetostat</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="top" rowspan="1" colspan="1">Patients (n = 7)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, years; median (range)</td><td align="left" rowspan="1" colspan="1">73.0 (59‐85)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, male/female</td><td align="left" rowspan="1" colspan="1">4 (57.1)/3 (42.9)</td></tr><tr><td align="left" colspan="2" rowspan="1">ECOG performance status, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0/1</td><td align="left" rowspan="1" colspan="1">5 (71.4)/2 (28.6)</td></tr><tr><td align="left" colspan="2" rowspan="1">Histopathologic subtype, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Follicular lymphoma</td><td align="left" rowspan="1" colspan="1">4 (57.1)<xref ref-type="fn" rid="cas14822-note-0002">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diffuse large B‐cell lymphoma</td><td align="left" rowspan="1" colspan="1">3 (42.9)<xref ref-type="fn" rid="cas14822-note-0003">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" colspan="2" rowspan="1">Number of prior chemotherapy treatments, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">3 (42.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">≥3</td><td align="left" rowspan="1" colspan="1">4 (57.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median (range)</td><td align="left" rowspan="1" colspan="1">3 (1‐5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Auto‐HSCT, n (%)</td><td align="left" rowspan="1" colspan="1">0 (0)</td></tr></tbody></table><table-wrap-foot id="cas14822-ntgp-0001"><fn id="cas14822-note-0001"><p>Abbreviation: Auto‐HSCT, autologous hematopoietic stem cell transplantation.</p></fn><fn id="cas14822-note-0002"><label><sup>a</sup></label><p>One patient with <italic toggle="yes">EZH2</italic> gene mutation.</p></fn><fn id="cas14822-note-0003"><label><sup>b</sup></label><p>One patient was germinal center B‐cell‐like (GCB)‐type, whereas two patients were non‐GCB type, based on Hans criteria‐based diagnosis at the investigator site.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cas14822-sec-0017"><label>3.2</label><title>Treatment</title><p>The median number of cycles received was 12 (range, 1‐29), whereas the median duration of exposure was 11.2 months (range, 0.6‐26.4). Of the seven treated patients, one (14.3%) received 100% of their planned starting dosage, five (71.4%) received at least 90% of the dosage, and one (14.3%) patient received at least 70% of the dosage. Tazemetostat treatment was interrupted for three (42.9%) patients. Only one patient (14.3%) received a reduction in the tazemetostat dose, with the time to first dose reduction at 4.9 months.</p></sec><sec id="cas14822-sec-0018"><label>3.3</label><title>Adverse events and DLTs</title><p>A summary of treatment‐emergent AEs and TR‐AEs is shown in Table <xref rid="cas14822-tbl-0002" ref-type="table">2</xref>. All seven patients experienced at least one AE, with six (85.7%) patients having at least one TR‐AE. Grade 3 or higher AEs occurred in four (57.1%) patients. The common AEs were nasopharyngitis (five patients; 71.4%) and thrombocytopenia, constipation, and dysgeusia (three patients each; 42.9%). Grade 3 AEs reported were thrombocytopenia (two patients; 28.6%) and anemia, leukopenia, neutropenia, lymphopenia, fatigue, increased γ‐glutamyltransferase, hypophosphatemia, and squamous cell carcinoma of the tongue (one patient each; 14.3%). Grade 4 AEs were intestinal perforation and increased levels of blood triglycerides (one patient each; 14.3%). The common TR‐AEs were thrombocytopenia and dysgeusia (three patients each; 42.9%). No DLTs were observed. None of the patients died or had AEs resulting in death. Serious AEs occurred in two (28.6%) patients, consisting of intestinal perforation and squamous cell carcinoma of the tongue, but both assessed as not related to study drug. One patient (14.3%) experienced grade 2 peripheral neuropathy, leading to drug dose reduction. One patient (14.3%) discontinued the treatment due to squamous cell carcinoma of the tongue, which is not a treatment‐related event. One (14.3%) patient experienced an AE leading to dose reduction, whereas four (57.1%) patients experienced AEs leading to dose interruption.</p><table-wrap id="cas14822-tbl-0002" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 2</label><caption><p>D‐limiting toxicity and treatment‐emergent adverse events (TEAEs) (≥2 patients) in Japanese patients with relapsed or refractory B‐cell lymphoma treated with tazemetostat</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="bottom" colspan="1">TEAEs</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Patients (n = 7)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">All TEAEs</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Treatment‐related TEAEs</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">All grades (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Grade ≥3 (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">All grades (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Grade ≥3 (%)</th></tr></thead><tbody><tr><td align="left" colspan="5" rowspan="1">Hematologic toxicity</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Thrombocytopenia</td><td align="char" char="(" rowspan="1" colspan="1">3 (42.9)</td><td align="left" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">3 (42.9)</td><td align="left" rowspan="1" colspan="1">2 (28.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Anemia</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td><td align="left" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Leukopenia</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Neutropenia</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" colspan="5" rowspan="1">Nonhematologic toxicity</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nasopharyngitis</td><td align="char" char="(" rowspan="1" colspan="1">5 (71.4)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Constipation</td><td align="char" char="(" rowspan="1" colspan="1">3 (42.9)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dysgeusia</td><td align="char" char="(" rowspan="1" colspan="1">3 (42.9)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">3 (42.9)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Blood creatinine increased</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dry eye</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dry skin</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fatigue</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td><td align="left" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Insomnia</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Muscle spasms</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Rash</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Stomatitis</td><td align="char" char="(" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">2 (28.6)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><p>No AEs of T‐cell lymphoblastic lymphoma/T‐cell acute lymphoblastic leukemia or myeloid malignancy, including myelodysplastic syndrome, were reported during the study. No clinically important changes were observed in the mean or median laboratory values, vital signs, or weight over time. Shift analyses revealed no shifts of clinical concern noted in urinalysis parameters and ECG findings. No abnormal QT interval corrected for heart rate using Fridericia’s formula values was found.</p></sec><sec id="cas14822-sec-0019"><label>3.4</label><title>Antitumor activity and EZH2 mutations</title><p>In seven treated patients, one (14.3%) had CR, three (42.9%) had PR, one (14.3%) had stable disease, and two (28.6%) had progressive disease as BOR, based on the investigator assessment (Table <xref rid="cas14822-tbl-0003" ref-type="table">3</xref>). The ORR was 57.1% (95% CI: 18.4‐90.1) with response in one patient with DLBCL (n = 3) and three patients with FL (n = 4). Overall, six (85.7%) patients experienced a reduction of tumor burden (Figure <xref rid="cas14822-fig-0001" ref-type="fig">1</xref>). One (14.3%) patient had an <italic toggle="yes">EZH2</italic> mutation, whereas five (71.4%) patients did not. One patient (14.3%) had an unknown <italic toggle="yes">EZH2</italic> mutational status. The COO status of the three patients with DLBCL was GCB type in one patient and non‐GCB type in two patients.</p><table-wrap id="cas14822-tbl-0003" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 3</label><caption><p>Summary of tumor response in Japanese patients with relapsed or refractory B‐cell lymphoma treated with tazemetostat</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Response category</th><th align="left" valign="top" rowspan="1" colspan="1">DLBCL (n = 3)</th><th align="left" valign="top" rowspan="1" colspan="1">FL (n = 4)</th><th align="left" valign="top" rowspan="1" colspan="1">Total (n = 7)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Best overall response, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Complete response (CR)</td><td align="left" rowspan="1" colspan="1">1 (33.3)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Partial response (PR)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">3 (75.0)</td><td align="left" rowspan="1" colspan="1">3 (42.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Stable disease</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">1 (25.0)</td><td align="left" rowspan="1" colspan="1">1 (14.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Progressive disease</td><td align="left" rowspan="1" colspan="1">2 (66.7)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">2 (28.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not evaluable</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Objective response rate (CR + PR), n (%)</td><td align="left" rowspan="1" colspan="1">1 (33.3)</td><td align="left" rowspan="1" colspan="1">3 (75.0)</td><td align="left" rowspan="1" colspan="1">4 (57.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">95% CI of objective response rate<xref ref-type="fn" rid="cas14822-note-0005">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">(0.8, 90.6)</td><td align="left" rowspan="1" colspan="1">(19.4, 99.4)</td><td align="left" rowspan="1" colspan="1">(18.4, 90.1)</td></tr></tbody></table><table-wrap-foot id="cas14822-ntgp-0002"><fn id="cas14822-note-0004"><p>Abbreviations: CI, confidence interval; DLBCL, diffuse large B‐cell lymphoma; FL, follicular lymphoma.</p></fn><fn id="cas14822-note-0005"><label><sup>a</sup></label><p>Calculated using Clopper‐Pearson’s exact method.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="FIGURE" xml:lang="en" id="cas14822-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>Changes in target tumor burden over time in Japanese patients with relapsed or refractory B‐cell lymphoma treated with tazemetostat. Black circles indicate diffuse large B‐cell lymphoma (DLBCL); gray triangle indicates follicular lymphoma (FL). §Patient with an <italic toggle="yes">EZH2</italic> mutation. +Patient with germinal center B‐cell‐like (GCB)‐type DLBCL</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAS-112-1123-g001.jpg"><?image-name CAS-112-1123-g001.jpg?><?image-size 51338?><?image-md5 646a5f1ae3e59b5bceff33c040e1ad13?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 586?><?image-original-width 1064?><?image-scaled-height 390?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/5bc0/7935786/646a5f1ae3e5/CAS-112-1123-g001.jpg?><?thumb-name CAS-112-1123-g001.gif?><?thumb-size 10344?><?thumb-md5 21af9db023d29117045bb5267d5222df?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 145?><?thumb-cloudpmc-urn urn:cdn:blobs/5bc0/7935786/21af9db023d2/CAS-112-1123-g001.gif?></graphic></fig></sec><sec id="cas14822-sec-0020"><label>3.5</label><title>Pharmacokinetics</title><p>The plasma concentration profiles and PK parameters of tazemetostat and its desethyl metabolite EPZ‐6930 are shown in Figure <xref rid="cas14822-fig-0002" ref-type="fig">2</xref> and Table <xref rid="cas14822-tbl-0004" ref-type="table">4</xref>. After oral administration of 800 mg tazemetostat, tazemetostat was rapidly absorbed. The median <italic toggle="yes">t</italic>
+<sub>max</sub> values for tazemetostat and EPZ‐6930 were approximately 2 hours after the C0D1 dosing and approximately 1 hour after the C1D15 dosing. The mean <italic toggle="yes">t</italic>
+<sub>1/2</sub> values of tazemetostat and EPZ‐6930 were 7.59 and 8.83 hours, respectively, after C0D1 dosing and 4.59 and 4.91 hours, respectively after C1D15 dosing. The <italic toggle="yes">t</italic>
+<sub>1/2</sub> values were shorter for C1D15 than C0D1, but slopes of decline in mean plasma concentration profiles for tazemetostat and EPZ‐6930 were similar up to 12 hours after dosing between C0D1 and C1D15. In addition, the slope of decline in mean plasma concentration profiles for tazemetostat and EPZ‐6930 were slower after 12 hours after dosing for C0D1 (Unpublished data in Eisai). No remarkable difference in mean PK profiles was observed between the first dose administration for C1D1 and multiple doses for C1D15. The AUC ratios of EPZ‐6930 to tazemetostat were shown to be 141% for C0D1 and 256% for C1D15. Plasma concentrations of tazemetostat reached steady‐state after multiple dosing reached steady‐state by C1D8 in almost all subjects. The mean urinary excretion of tazemetostat was less than 3% both after C0D1 and C1D15 dosing.</p><fig fig-type="FIGURE" xml:lang="en" id="cas14822-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>Plasma concentration profiles of tazemetostat and its metabolite, EPZ‐6930, in Japanese patients with relapsed or refractory B‐cell lymphoma. Plasma concentration shown as the mean + SD after single and multiple oral administrations of 800 mg tazemetostat</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAS-112-1123-g002.jpg"><?image-name CAS-112-1123-g002.jpg?><?image-size 55721?><?image-md5 acc01f9432b780aecb82dbfd52a2f3ff?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 562?><?image-original-width 1064?><?image-scaled-height 374?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/5bc0/7935786/acc01f9432b7/CAS-112-1123-g002.jpg?><?thumb-name CAS-112-1123-g002.gif?><?thumb-size 10976?><?thumb-md5 37aefcb97309522374686072ddf4681d?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 151?><?thumb-cloudpmc-urn urn:cdn:blobs/5bc0/7935786/37aefcb97309/CAS-112-1123-g002.gif?></graphic></fig><table-wrap id="cas14822-tbl-0004" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 4</label><caption><p>Summary of plasma pharmacokinetic parameters of tazemetostat and EPZ‐6930 after single and multiple doses in Japanese patients with relapsed or refractory B‐cell lymphoma treated with tazemetostat</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Pharmacokinetic parameter</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<p>After single dose</p>
+<p>Cycle 0 day 1</p>
+</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<p>After multiple doses</p>
+<p>Cycle 1 day 15</p>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Tazemetostat</th><th align="left" valign="bottom" rowspan="1" colspan="1">EPZ‐6930</th><th align="left" valign="bottom" rowspan="1" colspan="1">Tazemetostat</th><th align="left" valign="bottom" rowspan="1" colspan="1">EPZ‐6930</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">C</italic>
+<sub>max</sub> (ng/mL)</td><td align="left" rowspan="1" colspan="1">1150 (787)</td><td align="left" rowspan="1" colspan="1">948 (556)</td><td align="left" rowspan="1" colspan="1">1290 (582)</td><td align="left" rowspan="1" colspan="1">1950 (773)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">C</italic>
+<sub>ss,min</sub> (ng/mL)</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">95.1 (37.7)</td><td align="left" rowspan="1" colspan="1">322 (170)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">t</italic>
+<sub>max</sub> (h)</td><td align="left" rowspan="1" colspan="1">1.97 (0.95, 4.08)</td><td align="left" rowspan="1" colspan="1">1.97 (1.12, 4.08)</td><td align="left" rowspan="1" colspan="1">1.05 (0.88, 2.03)</td><td align="left" rowspan="1" colspan="1">1.07 (0.88, 2.03)</td></tr><tr><td align="left" rowspan="1" colspan="1">AUC<sub>(0‐12 h)</sub> (ng·h/mL)</td><td align="left" rowspan="1" colspan="1">4700 (2810)</td><td align="left" rowspan="1" colspan="1">5280 (2890)</td><td align="left" rowspan="1" colspan="1">4500 (1570)</td><td align="left" rowspan="1" colspan="1">10 800 (3600)</td></tr><tr><td align="left" rowspan="1" colspan="1">AUC<sub>(0‐</sub>
+<italic toggle="yes"><sub>t</sub></italic>
+<sub>)</sub> (ng·h/mL)</td><td align="left" rowspan="1" colspan="1">5990 (3460)<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">7700 (4090)<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">4490 (1560)<sup>b</sup>
+</td><td align="left" rowspan="1" colspan="1">10 800 (3560)<sup>b</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">AUC<sub>(0‐inf)</sub> (ng·h/mL)</td><td align="left" rowspan="1" colspan="1">6030 (3470)</td><td align="left" rowspan="1" colspan="1">7730 (4090)</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">t</italic>
+<sub>1/2</sub> (h)</td><td align="left" rowspan="1" colspan="1">7.59 (1.24)</td><td align="left" rowspan="1" colspan="1">8.83 (1.43)</td><td align="left" rowspan="1" colspan="1">4.59 (1.93)</td><td align="left" rowspan="1" colspan="1">4.91 (2.32)</td></tr><tr><td align="left" rowspan="1" colspan="1">CL/<italic toggle="yes">F</italic> (L/h)</td><td align="left" rowspan="1" colspan="1">175 (90.4)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">205 (98.6)</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">V</italic>
+<sub>z</sub>/<italic toggle="yes">F</italic> (L)</td><td align="left" rowspan="1" colspan="1">1910 (1050)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">1580 (1540)</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">R</italic>
+<sub>ac</sub> (<italic toggle="yes">C</italic>
+<sub>max</sub>)</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">1.32 (0.604)</td><td align="left" rowspan="1" colspan="1">2.59 (1.36)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">R</italic>
+<sub>ac</sub> (AUC)</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">1.09 (0.358)</td><td align="left" rowspan="1" colspan="1">2.58 (1.44)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">R</italic>
+<sub>ss</sub>
+</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">0.849 (0.277)</td><td align="left" rowspan="1" colspan="1">1.76 (1.07)</td></tr></tbody></table><table-wrap-foot id="cas14822-ntgp-0003"><title>Note</title><fn id="cas14822-note-0006"><p>Data are shown as the mean (SD) except for <italic toggle="yes">t</italic>
+<sub>max</sub>; for <italic toggle="yes">t</italic>
+<sub>max</sub>, median (minimum, maximum) is shown. The last sampling time point was 72 h after single administration (a) and 12 h after multiple administrations (b). Pharmacokinetic analysis set: N = 7. <italic toggle="yes">R</italic>
+<sub>ac</sub> and <italic toggle="yes">R</italic>
+<sub>ss</sub> values were calculated using these formulas: <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="nlm-math-1"><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mtext>ac</mml:mtext></mml:msub><mml:mfenced close=")" open="("><mml:mtext>AUC</mml:mtext></mml:mfenced><mml:mo>=</mml:mo><mml:msub><mml:mtext>AUC</mml:mtext><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>-</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>12</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mi mathvariant="normal">h</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msub><mml:mspace width="0.166667em"/><mml:mrow><mml:mtext>on cycle</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>1</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>day</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>15</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:msub><mml:mtext>AUC</mml:mtext><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>-</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>12</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mi mathvariant="normal">h</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msub><mml:mspace width="0.166667em"/><mml:mrow><mml:mtext>on cycle</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>0</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>day</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo></mml:mrow></mml:math>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="nlm-math-2"><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mtext>ac</mml:mtext></mml:msub><mml:mfenced close=")" open="("><mml:msub><mml:mi>C</mml:mi><mml:mo movablelimits="true">max</mml:mo></mml:msub></mml:mfenced><mml:mo>=</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mo movablelimits="true">max</mml:mo></mml:msub><mml:mspace width="0.166667em"/><mml:mrow><mml:mtext>on cycle</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>1</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>day</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>15</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mo movablelimits="true">max</mml:mo></mml:msub><mml:mspace width="0.166667em"/><mml:mrow><mml:mtext>on cycle</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>0</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>day</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo></mml:mrow></mml:math> and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="nlm-math-3"><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mtext>ss</mml:mtext></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mtext>AUC</mml:mtext><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>-</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>12</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mi mathvariant="normal">h</mml:mi></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msub><mml:mspace width="0.166667em"/><mml:mrow><mml:mtext>on cycle</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>1</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>day</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>15</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:msub><mml:mtext>AUC</mml:mtext><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>-</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mo movablelimits="true">inf</mml:mo><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msub><mml:mspace width="0.166667em"/><mml:mrow><mml:mtext>on cycle</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>0</mml:mn><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>day</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>1</mml:mn><mml:mo>.</mml:mo></mml:mrow></mml:math>
+</p></fn><fn id="cas14822-note-0007"><p>Abbreviations: AUC<sub>(0‐12 h)</sub>, area under the concentration‐time curve from zero time to 12 h; AUC<sub>(0‐inf)</sub> , area under the concentration‐time curve from zero to infinite; AUC<sub>(0‐</sub>
+<italic toggle="yes"><sub>t</sub></italic>
+<sub>)</sub> , area under the concentration‐time curve from zero time to time of last quantifiable concentration; AUC<sub>(0‐</sub>
+<italic toggle="yes"><sub>t</sub></italic>
+<sub>)</sub> ratio, metabolite to parent area under the concentration‐time curve ratio adjusted in molecular weight; CL/<italic toggle="yes">F</italic>, apparent total clearance following oral administration; <italic toggle="yes">C</italic>
+<sub>max</sub>, maximum plasma concentration; <italic toggle="yes">C</italic>
+<sub>ss,min</sub>, minimum observed concentration at steady state; NA, not applicable; <italic toggle="yes">R</italic>
+<sub>ac</sub>, accumulation index; <italic toggle="yes">R</italic>
+<sub>ss</sub>, time and concentration dependent accumulation ratio; <italic toggle="yes">t</italic>
+<sub>1/2</sub>, terminal elimination phase half‐life; <italic toggle="yes">t</italic>
+<sub>max</sub>, time at which the highest drug concentration occurs; <italic toggle="yes">V</italic>
+<sub>z</sub>/<italic toggle="yes">F</italic>, apparent volume of distribution at the terminal phase.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec sec-type="discussion" id="cas14822-sec-0021"><label>4</label><title>DISCUSSION</title><p>In this multicenter, single‐arm phase I study of tazemetostat in Japanese patients with relapsed or refractory B‐NHL, tazemetostat was given orally at a dose of 800 mg BID and was found to be well tolerated. We did not observe any DLT in six DLTs evaluable patients. In a total of seven patients, the common AEs observed included thrombocytopenia, dysgeusia (43%), anemia, dry skin, fatigue, rash, and stomatitis (29%). No treatment‐related SAEs were observed. In the global phase II study, among all 99 patients, common treatment‐related grade 3 or higher AEs were thrombocytopenia (3%), neutropenia (3%), and anemia (2%). Treatment‐related SAEs were reported in four (4%) of 99 patients. Importantly, there were no treatment‐related deaths.<xref rid="cas14822-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref> There was some difference between safety profiles in the global phase II study and in this phase I study. However, as the number of patients in our present study was limited, the safety profile of tazemetostat in Japanese patients will be confirmed in the next phase II study.</p><p>The ORR was 57% (4/7 patients), including response in three of four patients with FL and one of three patients with DLBCL. We observed a gain‐of‐function mutation in <italic toggle="yes">EZH2</italic> in one patient with FL showing a partial response with a −82.3% maximum change in the sum of the product of the diameters from baseline in the target lesion. In a preclinical study, tazemetostat showed antiproliferative effects, inducing apoptosis, in <italic toggle="yes">EZH2</italic>‐mutant and WT cells.<xref rid="cas14822-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> It was also reported that treatment of <italic toggle="yes">EZH2</italic>‐mutant NHL xenograft‐bearing mice with tazemetostat caused dose‐dependent tumor growth inhibition, including complete and sustained tumor regression with a correlative decrease in the levels of H3K27Me3 in tumors and selected normal tissues. Another in vitro study showed that treatment with EZH2 inhibitors reduced viability in both EZH2‐WT and <italic toggle="yes">EZH2</italic>‐mutated lymphoma cell lines; however, viability was much more reduced in the <italic toggle="yes">EZH2</italic>‐mutated cells.<xref rid="cas14822-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> In a global (ex‐Japan) phase II study, it was reported that tazemetostat showed a greater ORR (69% [95% CI 53‐82; 31 of 45 patients]) in <italic toggle="yes">EZH2</italic>‐mutated patients compared to that in WT patients (35% [23‐49; 19 of 54 patients]). In our study, one patient, classified as GCB‐DLBCL, showed complete response. The other two patients with DLBCL were identified as non‐GCB type by the Hans IHC‐based algorithm. Generally, EZH2 is known to be expressed in GC, playing a crucial role in its proliferation and differentiation. Hence, the cellular origin of lymphoma might be important in predicting the efficacy of tazemetostat. Moreover, a BCL2 fusion was observed in most patients with FL and GCB‐DLBCL.<xref rid="cas14822-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref> Interestingly, BCL‐2‐transduced <italic toggle="yes">EZH2</italic>‐mutant mice were shown to exhibit much faster lymphomagenesis than BCL‐2 transduced WT mice.<xref rid="cas14822-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref> The other two patients with FL showed PR, despite the WT <italic toggle="yes">EZH2</italic> status of their lymphomas. In preclinical animal models, tazemetostat showed potent antitumor effects in <italic toggle="yes">EZH2</italic>‐mutant NHL xenograft‐bearing mice in a dose‐dependent manner. However, tazemetostat was also found to induce antitumor effects in <italic toggle="yes">EZH2</italic>‐wt lymphoma xenograft models.<xref rid="cas14822-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> Immunodeficient SCID mice lacking mature B and T lymphocytes but showing residual immunity, such as natural killer cells, were used in these xenograft models. Recently, it was reported that an <italic toggle="yes">EZH2</italic> mutation was strongly enriched in both MHC‐I and MHC‐II negative lymphomas, with EZH2 inhibitors significantly restoring the expression of MHC in DLBCL cell lines. It was also reported that EZH2 regulates the expression of CD58, which is involved in tumor evasion in lymphoid malignancies.<xref rid="cas14822-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="cas14822-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref> These results suggested that EZH2 might regulate the immune system by modulating the effects of these molecules, and we thus speculated that tazemetostat might show efficacy through this immune regulation in both EZH2‐mutant and WT patients.</p><p>Tazemetostat has been reported to be mainly metabolized by CYP3A4, and was shown to induce and inhibit the activity of CYP3A4 in vitro (Unpublished data in Eisai). The PK profiles of tazemetostat in Japanese patients were comparable to those of non‐Japanese patients previously reported.<xref rid="cas14822-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> The mean value of the time‐ and concentration‐dependent accumulation ratio (<italic toggle="yes">R</italic>
+<sub>ss</sub>) was shown to be 0.849, slightly smaller than 1, suggesting that there was no accumulation of tazemetostat and a possible small effect of autoinduction of CYP3A4. We further observed apparent differences in the <italic toggle="yes">t</italic>
+<sub>1/2</sub> values of tazemetostat and EPZ‐6930, its demethylated metabolite, between C0D1 and C1D15. We speculated that this was due to the difference in the last blood sampling time points at 72 and 12 hours after dosing for C0D1 and C1D15, respectively. As EPZ‐6930 showed weaker inhibitory activity (1/11‐1/31) against EZH2 than tazemetostat in preclinical studies and its exposure was larger than that of tazemetostat, we assumed that EPZ‐6930 might partially contribute to the observed antitumor activity.</p><p>In conclusion, the present phase I study showed that 800 mg BID of tazemetostat showed an acceptable safety profile and promising antitumor activity in Japanese patients with relapsed or refractory B‐NHL. However, most patients in this study carried WT <italic toggle="yes">EZH2</italic>. Subsequent studies to evaluate the efficacy and safety of tazemetostat in Japanese patients with B‐NHL, especially in patients with <italic toggle="yes">EZH2</italic> mutations, are warranted.</p></sec><sec sec-type="COI-statement" id="cas14822-sec-0023"><title>DISCLOSURE</title><p>The authors declare the following potential conflicts. KT: HUYA Bioscience, consultancy, honoraria; Bristol‐Myers Squibb, honoraria; Verastem, honoraria; Takeda Pharmaceutical, consultancy, honoraria, research funding; Eisai, honoraria, research funding; Kyowa Kirin, honoraria, research funding; Celgene, consultancy, honoraria, research funding; Zenyaku Kogyo, consultancy, honoraria; AbbVie, research funding; Yakult, honoraria; Janssen Pharmaceutical, honoraria, research funding; Mundi Pharma, consultancy, honoraria, research funding; Solasia, honoraria; Meiji Seika, honoraria; Daiichi Sankyo, consultancy, honoraria; Ono Pharmaceutical, consultancy, honoraria, research funding; Chugai Pharmaceutical, honoraria, research funding. SM: personal fees (BMS/Celgene, Chugai, Daiichi‐Sankyo, Eisai, Novartis, Symbio, Takeda). DM: personal fees and grant (Ono Pharmaceuticals, Celgene, Takeda Pharmaceutical, Janssen Pharmaceutical, Chugai Pharmaceutical, Bristol‐Myers Squibb), personal fees (Eisai, Kyowa Kirin, Zenyaku Kogyo Company, Synmosa Biopharma, Nippon Sinyaku), grant (Merck, Amgen Astellas BioPharma, Astellas Pharma, Sanofi, Novartis Pharma, Otsuka Pharmaceutical). KI: four honoraria and research funding (Eisai). TN, SS, SH: employees of Eisai Co., Ltd. KA: research funding (Eisai). The other authors have no conflict of interest.</p></sec></body><back><ack id="cas14822-sec-0022"><title>ACKNOWLEDGMENTS</title><p>We thank all participating patients and their families, as well as investigators, physicians, nurses, and clinical research coordinators who helped in this study. We would also like to thank Dr Hirokazu Nagai (Nagoya Medical Center) as the independent safety adviser and Dr Akira Tomonari (Eisai Co., Ltd.) as the medical adviser of the sponsor. We also acknowledge Dr Kenzo Muramoto and Dr Michiko Sugawara (Eisai Co., Ltd.) for their help in preparing this manuscript. This study was funded and supported by Eisai Co., Ltd.</p></ack><ref-list content-type="cited-references" id="cas14822-bibl-0001"><title>REFERENCES</title><ref id="cas14822-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cas14822-cit-0001">
+<string-name name-style="western">
+<surname>Gonzalez‐Perez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jene‐Sanz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopez‐Bigas</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>The mutational landscape of chromatin regulatory factors across 4,623 tumor samples</article-title>. <source xml:lang="en">Genome Biol</source>. <year>2013</year>;<volume>14</volume>:<fpage>r106</fpage>.<pub-id pub-id-type="pmid">24063517</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/gb-2013-14-9-r106</pub-id><pub-id pub-id-type="pmcid">PMC4054018</pub-id></mixed-citation></ref><ref id="cas14822-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cas14822-cit-0002">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dent</surname>
+<given-names>SY</given-names>
+</string-name>. <article-title>Chromatin modifiers and remodellers: regulators of cellular differentiation</article-title>. <source xml:lang="en">Nat Rev Genet</source>. <year>2014</year>;<volume>15</volume>:<fpage>93</fpage>‐<lpage>106</lpage>.<pub-id pub-id-type="pmid">24366184</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrg3607</pub-id><pub-id pub-id-type="pmcid">PMC3999985</pub-id></mixed-citation></ref><ref id="cas14822-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cas14822-cit-0003">
+<string-name name-style="western">
+<surname>Comet</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riising</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leblanc</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Maintaining cell identity: PRC2‐mediated regulation of transcription and cancer</article-title>. <source xml:lang="en">Nat Rev Cancer</source>. <year>2016</year>;<volume>16</volume>:<fpage>803</fpage>‐<lpage>810</lpage>.<pub-id pub-id-type="pmid">27658528</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc.2016.83</pub-id></mixed-citation></ref><ref id="cas14822-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cas14822-cit-0004">
+<string-name name-style="western">
+<surname>Lunning</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Green</surname>
+<given-names>MR</given-names>
+</string-name>. <article-title>Mutation of chromatin modifiers; an emerging hallmark of germinal center B‐cell lymphomas</article-title>. <source xml:lang="en">Blood Cancer J</source>. <year>2015</year>;<volume>5</volume>:<elocation-id>e361</elocation-id>.<pub-id pub-id-type="pmid">26473533</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bcj.2015.89</pub-id><pub-id pub-id-type="pmcid">PMC4635197</pub-id></mixed-citation></ref><ref id="cas14822-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cas14822-cit-0005">
+<string-name name-style="western">
+<surname>Lohr</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stojanov</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lawrence</surname>
+<given-names>MS</given-names>
+</string-name>, et al. <article-title>Discovery and prioritization of somatic mutations in diffuse large B‐cell lymphoma (DLBCL) by whole‐exome sequencing</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2012</year>;<volume>109</volume>:<fpage>3879</fpage>‐<lpage>3884</lpage>.<pub-id pub-id-type="pmid">22343534</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1121343109</pub-id><pub-id pub-id-type="pmcid">PMC3309757</pub-id></mixed-citation></ref><ref id="cas14822-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cas14822-cit-0006">
+<string-name name-style="western">
+<surname>Morin</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mendez‐Lago</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mungall</surname>
+<given-names>AJ</given-names>
+</string-name>, et al. <article-title>Frequent mutation of histone‐modifying genes in non‐Hodgkin lymphoma</article-title>. <source xml:lang="en">Nature</source>. <year>2011</year>;<volume>476</volume>:<fpage>298</fpage>‐<lpage>303</lpage>.<pub-id pub-id-type="pmid">21796119</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature10351</pub-id><pub-id pub-id-type="pmcid">PMC3210554</pub-id></mixed-citation></ref><ref id="cas14822-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cas14822-cit-0007">
+<string-name name-style="western">
+<surname>Velichutina</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shaknovich</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geng</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>EZH2‐mediated epigenetic silencing in germinal center B cells contributes to proliferation and lymphomagenesis</article-title>. <source xml:lang="en">Blood</source>. <year>2010</year>;<volume>116</volume>:<fpage>5247</fpage>‐<lpage>5255</lpage>.<pub-id pub-id-type="pmid">20736451</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2010-04-280149</pub-id><pub-id pub-id-type="pmcid">PMC3012542</pub-id></mixed-citation></ref><ref id="cas14822-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cas14822-cit-0008">
+<string-name name-style="western">
+<surname>Chase</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cross</surname>
+<given-names>NC</given-names>
+</string-name>. <article-title>Aberrations of EZH2 in cancer</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2011</year>;<volume>17</volume>:<fpage>2613</fpage>‐<lpage>2618</lpage>.<pub-id pub-id-type="pmid">21367748</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-10-2156</pub-id></mixed-citation></ref><ref id="cas14822-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cas14822-cit-0009">
+<string-name name-style="western">
+<surname>Mahmoudi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verrijzer</surname>
+<given-names>CP</given-names>
+</string-name>. <article-title>Chromatin silencing and activation by Polycomb and trithorax group proteins</article-title>. <source xml:lang="en">Oncogene</source>. <year>2001</year>;<volume>20</volume>:<fpage>3055</fpage>‐<lpage>3066</lpage>.<pub-id pub-id-type="pmid">11420721</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.onc.1204330</pub-id></mixed-citation></ref><ref id="cas14822-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cas14822-cit-0010">
+<string-name name-style="western">
+<surname>Cao</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Role of histone H3 lysine 27 methylation in polycomb‐group silencing</article-title>. <source xml:lang="en">Science</source>. <year>2002</year>;<volume>298</volume>:<fpage>1039</fpage>‐<lpage>1043</lpage>.<pub-id pub-id-type="pmid">12351676</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1076997</pub-id></mixed-citation></ref><ref id="cas14822-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cas14822-cit-0011">
+<string-name name-style="western">
+<surname>Müller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hart</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Francis</surname>
+<given-names>NJ</given-names>
+</string-name>, et al. <article-title>Histone methyltransferase activity of a Drosophila Polycomb group repressor complex</article-title>. <source xml:lang="en">Cell</source>. <year>2002</year>;<volume>111</volume>:<fpage>197</fpage>‐<lpage>208</lpage>.<pub-id pub-id-type="pmid">12408864</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0092-8674(02)00976-5</pub-id></mixed-citation></ref><ref id="cas14822-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cas14822-cit-0012">
+<string-name name-style="western">
+<surname>Czermin</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melfi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCabe</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Drosophila enhancer of Zeste/ESC complexes have a histone H3 methyltransferase activity that marks chromosomal Polycomb sites</article-title>. <source xml:lang="en">Cell</source>. <year>2002</year>;<volume>111</volume>:<fpage>185</fpage>‐<lpage>196</lpage>.<pub-id pub-id-type="pmid">12408863</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0092-8674(02)00975-3</pub-id></mixed-citation></ref><ref id="cas14822-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cas14822-cit-0013">
+<string-name name-style="western">
+<surname>Margueron</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reinberg</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>The Polycomb complex PRC2 and its mark in life</article-title>. <source xml:lang="en">Nature</source>. <year>2011</year>;<volume>469</volume>:<fpage>343</fpage>‐<lpage>349</lpage>.<pub-id pub-id-type="pmid">21248841</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature09784</pub-id><pub-id pub-id-type="pmcid">PMC3760771</pub-id></mixed-citation></ref><ref id="cas14822-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cas14822-cit-0014">
+<string-name name-style="western">
+<surname>Italiano</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Role of the EZH2 histone methyltransferase as a therapeutic target in cancer</article-title>. <source xml:lang="en">Pharmacol Ther</source>. <year>2016</year>;<volume>165</volume>:<fpage>26</fpage>‐<lpage>31</lpage>.<pub-id pub-id-type="pmid">27179746</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pharmthera.2016.05.003</pub-id></mixed-citation></ref><ref id="cas14822-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cas14822-cit-0015">
+<string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>XI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Epigenetic antagonism between polycomb and SWI/SNF complexes during oncogenic transformation</article-title>. <source xml:lang="en">Cancer Cell</source>. <year>2010</year>;<volume>18</volume>:<fpage>316</fpage>‐<lpage>328</lpage>.<pub-id pub-id-type="pmid">20951942</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccr.2010.09.006</pub-id><pub-id pub-id-type="pmcid">PMC2957473</pub-id></mixed-citation></ref><ref id="cas14822-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cas14822-cit-0016">
+<string-name name-style="western">
+<surname>Mora‐Blanco</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mishina</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tillman</surname>
+<given-names>EJ</given-names>
+</string-name>, et al. <article-title>Activation of β‐catenin/TCF targets following loss of tumor suppressor SNF5</article-title>. <source xml:lang="en">Oncogene</source>. <year>2014</year>;<volume>33</volume>:<fpage>933</fpage>‐<lpage>938</lpage>.<pub-id pub-id-type="pmid">23435428</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/onc.2013.37</pub-id><pub-id pub-id-type="pmcid">PMC4893026</pub-id></mixed-citation></ref><ref id="cas14822-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cas14822-cit-0017">
+<string-name name-style="western">
+<surname>Jagani</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mora‐Blanco</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sansam</surname>
+<given-names>CG</given-names>
+</string-name>, et al. <article-title>Loss of the tumor suppressor Snf5 leads to aberrant activation of the Hedgehog‐Gli pathway</article-title>. <source xml:lang="en">Nat Med</source>. <year>2010</year>;<volume>16</volume>:<fpage>1429</fpage>‐<lpage>1433</lpage>.<pub-id pub-id-type="pmid">21076395</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm.2251</pub-id><pub-id pub-id-type="pmcid">PMC3859448</pub-id></mixed-citation></ref><ref id="cas14822-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cas14822-cit-0018">
+<string-name name-style="western">
+<surname>Bödör</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grossmann</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Popov</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>EZH2 mutations are frequent and represent an early event in follicular lymphoma</article-title>. <source xml:lang="en">Blood</source>. <year>2013</year>;<volume>122</volume>:<fpage>3165</fpage>‐<lpage>3168</lpage>.<pub-id pub-id-type="pmid">24052547</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2013-04-496893</pub-id><pub-id pub-id-type="pmcid">PMC3814734</pub-id></mixed-citation></ref><ref id="cas14822-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cas14822-cit-0019">
+<string-name name-style="western">
+<surname>Morin</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Severson</surname>
+<given-names>TM</given-names>
+</string-name>, et al. <article-title>Somatic mutations altering EZH2 (Tyr641) in follicular and diffuse large B‐cell lymphomas of germinal‐center origin</article-title>. <source xml:lang="en">Nat Genet</source>. <year>2010</year>;<volume>42</volume>:<fpage>181</fpage>‐<lpage>185</lpage>.<pub-id pub-id-type="pmid">20081860</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.518</pub-id><pub-id pub-id-type="pmcid">PMC2850970</pub-id></mixed-citation></ref><ref id="cas14822-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cas14822-cit-0020">
+<string-name name-style="western">
+<surname>Hatzi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melnick</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Breaking bad in the germinal center: how deregulation of BCL6 contributes to lymphomagenesis</article-title>. <source xml:lang="en">Trends Mol Med</source>. <year>2014</year>;<volume>20</volume>:<fpage>343</fpage>‐<lpage>352</lpage>.<pub-id pub-id-type="pmid">24698494</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molmed.2014.03.001</pub-id><pub-id pub-id-type="pmcid">PMC4041810</pub-id></mixed-citation></ref><ref id="cas14822-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cas14822-cit-0021">
+<string-name name-style="western">
+<surname>Klein</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dalla‐Favera</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Germinal centres: role in B‐cell physiology and malignancy</article-title>. <source xml:lang="en">Nat Rev Immunol</source>. <year>2008</year>;<volume>8</volume>:<fpage>22</fpage>‐<lpage>33</lpage>.<pub-id pub-id-type="pmid">18097447</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri2217</pub-id></mixed-citation></ref><ref id="cas14822-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cas14822-cit-0022">
+<string-name name-style="western">
+<surname>Alizadeh</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eisen</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>RE</given-names>
+</string-name>, et al. <article-title>Distinct types of diffuse large B‐cell lymphoma identified by gene expression profiling</article-title>. <source xml:lang="en">Nature</source>. <year>2000</year>;<volume>403</volume>:<fpage>503</fpage>‐<lpage>511</lpage>.<pub-id pub-id-type="pmid">10676951</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/35000501</pub-id></mixed-citation></ref><ref id="cas14822-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cas14822-cit-0023">
+<string-name name-style="western">
+<surname>Su</surname>
+<given-names>I‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basavaraj</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krutchinsky</surname>
+<given-names>AN</given-names>
+</string-name>, et al. <article-title>Ezh2 controls B cell development through histone H3 methylation and Igh rearrangement</article-title>. <source xml:lang="en">Nat Immunol</source>. <year>2003</year>;<volume>4</volume>:<fpage>124</fpage>‐<lpage>131</lpage>.<pub-id pub-id-type="pmid">12496962</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ni876</pub-id></mixed-citation></ref><ref id="cas14822-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cas14822-cit-0024">
+<string-name name-style="western">
+<surname>Raaphorst</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Kemenade</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fieret</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Cutting edge: polycomb gene expression patterns reflect distinct B cell differentiation stages in human germinal centers</article-title>. <source xml:lang="en">J Immunol</source>. <year>2000</year>;<volume>164</volume>:<fpage>1</fpage>‐<lpage>4</lpage>.<pub-id pub-id-type="pmid">10604983</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.164.1.1</pub-id></mixed-citation></ref><ref id="cas14822-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cas14822-cit-0025">
+<string-name name-style="western">
+<surname>Béguelin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Popovic</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teater</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>EZH2 is required for germinal center formation and somatic EZH2 mutations promote lymphoid transformation</article-title>. <source xml:lang="en">Cancer Cell</source>. <year>2013</year>;<volume>23</volume>:<fpage>677</fpage>‐<lpage>692</lpage>.<pub-id pub-id-type="pmid">23680150</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccr.2013.04.011</pub-id><pub-id pub-id-type="pmcid">PMC3681809</pub-id></mixed-citation></ref><ref id="cas14822-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cas14822-cit-0026">
+<string-name name-style="western">
+<surname>Italiano</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soria</surname>
+<given-names>J‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toulmonde</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Tazemetostat, an EZH2 inhibitor, in relapsed or refractory B‐cell non‐Hodgkin lymphoma and advanced solid tumours: a first‐in‐human, open‐label, phase 1 study</article-title>. <source xml:lang="en">Lancet Oncol</source>. <year>2018</year>;<volume>19</volume>:<fpage>649</fpage>‐<lpage>659</lpage>.<pub-id pub-id-type="pmid">29650362</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(18)30145-1</pub-id></mixed-citation></ref><ref id="cas14822-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cas14822-cit-0027">
+<string-name name-style="western">
+<surname>Gounder</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schöffski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>RL</given-names>
+</string-name>, et al. <article-title>Tazemetostat in advanced epithelioid sarcoma with loss of INI1/SMARCB1: an international, open‐label, phase 2 basket study</article-title>. <source xml:lang="en">Lancet Oncol</source>. <year>2020</year>;<volume>21</volume>:<fpage>1423</fpage>‐<lpage>1432</lpage>.<pub-id pub-id-type="pmid">33035459</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(20)30451-4</pub-id></mixed-citation></ref><ref id="cas14822-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cas14822-cit-0028">
+<string-name name-style="western">
+<surname>Morschhauser</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tilly</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaidos</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Tazemetostat for patients with relapsed or refractory follicular lymphoma: an open‐label, single‐arm, multicentre, phase 2 trial</article-title>. <source xml:lang="en">Lancet Oncol</source>. <year>2020</year>;<volume>21</volume>:<fpage>1433</fpage>‐<lpage>1442</lpage>.<pub-id pub-id-type="pmid">33035457</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(20)30441-1</pub-id><pub-id pub-id-type="pmcid">PMC8427481</pub-id></mixed-citation></ref><ref id="cas14822-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cas14822-cit-0029">
+<string-name name-style="western">
+<surname>Cheson</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fisher</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barrington</surname>
+<given-names>SF</given-names>
+</string-name>, et al. <article-title>Recommendations for initial evaluation, staging, and response assessment of Hodgkin and non‐Hodgkin lymphoma: the Lugano classification</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2014</year>;<volume>32</volume>:<fpage>3059</fpage>‐<lpage>3068</lpage>.<pub-id pub-id-type="pmid">25113753</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2013.54.8800</pub-id><pub-id pub-id-type="pmcid">PMC4979083</pub-id></mixed-citation></ref><ref id="cas14822-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cas14822-cit-0030">
+<string-name name-style="western">
+<surname>Hans</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weisenburger</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greiner</surname>
+<given-names>TC</given-names>
+</string-name>, et al. <article-title>Confirmation of the molecular classification of diffuse large B‐cell lymphoma by immunohistochemistry using a tissue microarray</article-title>. <source xml:lang="en">Blood</source>. <year>2004</year>;<volume>103</volume>:<fpage>275</fpage>‐<lpage>282</lpage>.<pub-id pub-id-type="pmid">14504078</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2003-05-1545</pub-id></mixed-citation></ref><ref id="cas14822-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cas14822-cit-0031">
+<string-name name-style="western">
+<surname>Knutson</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kawano</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Minoshima</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Selective inhibition of EZH2 by EPZ‐6438 leads to potent antitumor activity in EZH2‐mutant non‐Hodgkin lymphoma</article-title>. <source xml:lang="en">Mol Cancer Ther</source>. <year>2014</year>;<volume>13</volume>:<fpage>842</fpage>‐<lpage>854</lpage>.<pub-id pub-id-type="pmid">24563539</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1535-7163.MCT-13-0773</pub-id></mixed-citation></ref><ref id="cas14822-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cas14822-cit-0032">
+<string-name name-style="western">
+<surname>Maeshima</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Omatsu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nomoto</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Diffuse large B‐cell lymphoma after transformation from low‐grade follicular lymphoma: morphological, immunohistochemical, and FISH analyses</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2008</year>;<volume>99</volume>:<fpage>1760</fpage>‐<lpage>1768</lpage>.<pub-id pub-id-type="pmid">18549405</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1349-7006.2008.00873.x</pub-id><pub-id pub-id-type="pmcid">PMC11159886</pub-id></mixed-citation></ref><ref id="cas14822-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cas14822-cit-0033">
+<string-name name-style="western">
+<surname>Souroullas</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeck</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parker</surname>
+<given-names>JS</given-names>
+</string-name>, et al. <article-title>An oncogenic Ezh2 mutation induces tumors through global redistribution of histone 3 lysine 27 trimethylation</article-title>. <source xml:lang="en">Nat Med</source>. <year>2006</year>;<volume>22</volume>:<fpage>632</fpage>‐<lpage>640</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm.4092</pub-id><pub-id pub-id-type="pmcid">PMC4899144</pub-id><pub-id pub-id-type="pmid">27135738</pub-id></mixed-citation></ref><ref id="cas14822-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cas14822-cit-0034">
+<string-name name-style="western">
+<surname>Ennishi</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takata</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Béguelin</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Molecular and genetic characterization of MHC deficiency identifies EZH2 as therapeutic target for enhancing immune recognition</article-title>. <source xml:lang="en">Cancer Discov</source>. <year>2019</year>;<volume>9</volume>:<fpage>546</fpage>‐<lpage>563</lpage>.<pub-id pub-id-type="pmid">30705065</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2159-8290.CD-18-1090</pub-id></mixed-citation></ref><ref id="cas14822-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cas14822-cit-0035">
+<string-name name-style="western">
+<surname>Otsuka</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nishikori</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arima</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>EZH2 inhibitors restore epigenetically silenced CD58 expression in B‐cell lymphomas</article-title>. <source xml:lang="en">Mol Immunol</source>. <year>2020</year>;<volume>119</volume>:<fpage>35</fpage>‐<lpage>45</lpage>.<pub-id pub-id-type="pmid">31962268</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molimm.2020.01.006</pub-id></mixed-citation></ref></ref-list></back></article>
