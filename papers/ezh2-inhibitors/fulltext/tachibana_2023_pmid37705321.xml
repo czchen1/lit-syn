@@ -1,0 +1,406 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cts13613" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Transl Sci</journal-id><journal-id journal-id-type="iso-abbrev">Clin Transl Sci</journal-id><journal-id journal-id-type="pmc-domain-id">2996</journal-id><journal-id journal-id-type="pmc-domain">cts</journal-id><journal-id journal-id-type="publisher-id">CTS</journal-id><journal-title-group><journal-title>Clinical and Translational Science</journal-title></journal-title-group><issn pub-type="ppub">1752-8054</issn><issn pub-type="epub">1752-8062</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10651645</article-id><article-id pub-id-type="pmcid-ver">PMC10651645.1</article-id><article-id pub-id-type="pmcaid">10651645</article-id><article-id pub-id-type="pmcaiid">10651645</article-id><article-id pub-id-type="pmid">37705321</article-id><article-id pub-id-type="doi">10.1111/cts.13613</article-id><article-id pub-id-type="publisher-id">CTS13613</article-id><article-id pub-id-type="other">CTS-2023-0157</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Effect of itraconazole and fluconazole on the pharmacokinetics of valemetostat: An open‐label, phase I study in healthy subjects</article-title><alt-title alt-title-type="right-running-head">Effect of CYP3A/P‐gp inhibition on valemetostat PK</alt-title><alt-title alt-title-type="left-running-head">Tachibana et al.</alt-title></title-group><contrib-group><contrib id="cts13613-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Tachibana</surname><given-names initials="M">Masaya</given-names></name><xref rid="cts13613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>tachibana.masaya.h4@daiichisankyo.co.jp</email></address></contrib><contrib id="cts13613-cr-0002" contrib-type="author"><name name-style="western"><surname>Matsuki</surname><given-names initials="S">Shunji</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4867-7120</contrib-id><xref rid="cts13613-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cts13613-cr-0003" contrib-type="author"><name name-style="western"><surname>Maekawa</surname><given-names initials="Y">Yutaro</given-names></name><xref rid="cts13613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts13613-cr-0004" contrib-type="author"><name name-style="western"><surname>Kuroda</surname><given-names initials="K">Kana</given-names></name><xref rid="cts13613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts13613-cr-0005" contrib-type="author"><name name-style="western"><surname>Shimizu</surname><given-names initials="T">Takako</given-names></name><xref rid="cts13613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts13613-cr-0006" contrib-type="author"><name name-style="western"><surname>Tsutsumi</surname><given-names initials="J">Junko</given-names></name><xref rid="cts13613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts13613-cr-0007" contrib-type="author"><name name-style="western"><surname>Ishizuka</surname><given-names initials="H">Hitoshi</given-names></name><xref rid="cts13613-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="cts13613-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Daiichi Sankyo Co., Ltd.</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="cts13613-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Souseikai Fukuoka Mirai Hospital</institution>
+<city>Fukuoka</city>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Masaya Tachibana, Quantitative Clinical Pharmacology Department, Daiichi Sankyo Co., Ltd., 1‐2‐58, Hiromachi, Shinagawa‐ku, Tokyo 140‐8710, Japan.<break/>
+Email: <email>tachibana.masaya.h4@daiichisankyo.co.jp</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>9</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2023</year></pub-date><volume>16</volume><issue seq="100">11</issue><issue-id pub-id-type="pmc-issue-id">449237</issue-id><issue-id pub-id-type="doi">10.1111/cts.v16.11</issue-id><fpage>2153</fpage><lpage>2162</lpage><history>
+<date date-type="rev-recd"><day>27</day><month>7</month><year>2023</year></date>
+<date date-type="received"><day>05</day><month>5</month><year>2023</year></date>
+<date date-type="accepted"><day>03</day><month>8</month><year>2023</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>13</day><month>09</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>13</day><month>09</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-08-29 00:25:16.260"><day>29</day><month>08</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2023 The Authors. <italic toggle="yes">Clinical and Translational Science</italic> published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CTS-16-2153.pdf"><?pdf-name CTS-16-2153.pdf?><?pdf-size 2986006?><?pdf-md5 63e390be9a2d4ef458697d831c0d7c06?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:7ac1/10651645/63e390be9a2d/CTS-16-2153.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CTS-16-2153.pdf"/><abstract><title>Abstract</title><p>Valemetostat tosylate (valemetostat) is an oral, potent, dual inhibitor of enhancer of zeste homolog (EZH) 2 and EZH1 under investigation for the treatment of cancer, including non‐Hodgkin's lymphomas and solid tumors. Itraconazole and fluconazole are antifungal medications often used as typical inhibitors of cytochrome P450 3A (CYP3A [itraconazole and fluconazole]) and P‐glycoprotein (P‐gp [itraconazole]) in drug–drug interaction studies. Valemetostat is a substrate of CYP3A and P‐gp in vitro. This phase I, open‐label, single‐sequence crossover study (JapicCTI‐183902) assessed the pharmacokinetics (PK) of valemetostat when co‐administered with itraconazole (a strong CYP3A inhibitor and P‐gp inhibitor) or fluconazole (a moderate CYP3A inhibitor) in healthy Japanese male participants 20–45 years of age. Participants were equally allocated to receive two doses of valemetostat 25 mg, once alone and once with either itraconazole or fluconazole (400‐mg induction and 200‐mg once daily maintenance). Valemetostat PK parameters with versus without itraconazole or fluconazole were compared using analysis of variance models. Overall, 32 participants were enrolled. Co‐administration with itraconazole increased valemetostat peak concentration (<italic toggle="no">C</italic>
+<sub>max</sub>) by 2.9‐fold and area under the plasma concentration–time curve extrapolated to infinity (AUC<sub>inf</sub>) by 4.2‐fold compared with valemetostat alone. When co‐administered with fluconazole, the <italic toggle="no">C</italic>
+<sub>max</sub> and AUC<sub>inf</sub> of valemetostat were each increased by 1.6‐fold. No treatment‐related or grade ≥3 adverse events were reported. Appropriate valemetostat dose reductions are warranted when used concomitantly with strong CYP3A and P‐gp dual inhibitors.</p></abstract><counts><fig-count count="4"/><table-count count="3"/><page-count count="10"/><word-count count="5091"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.4 mode:remove_FC converted:15.11.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="CTS13613-cit-2001">
+<string-name name-style="western">
+<surname>Tachibana</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsuki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maekawa</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Effect of itraconazole and fluconazole on the pharmacokinetics of valemetostat: An open‐label, phase I study in healthy subjects</article-title>. <source>Clin Transl Sci</source>. <year>2023</year>;<volume>16</volume>:<fpage>2153</fpage>‐<lpage>2162</lpage>. doi:<pub-id pub-id-type="doi">10.1111/cts.13613</pub-id>
+<pub-id pub-id-type="pmcid">PMC10651645</pub-id><pub-id pub-id-type="pmid">37705321</pub-id></mixed-citation>
+</p></notes></front><body id="cts13613-body-0001"><p>
+<boxed-text position="anchor" content-type="box" orientation="portrait"><caption><title>Study Highlights</title></caption><p>
+<list list-type="simple" id="cts13613-list-0001"><list-item id="cts13613-li-0001"><p>
+<bold>WHAT IS THE CURRENT KNOWLEDGE ON THE TOPIC?</bold>
+</p></list-item></list>
+</p><p>Valemetostat is an oral, potent, dual inhibitor of enhancer of zeste homolog (EZH) 2 and EZH1 recently approved in Japan for treatment of relapsed/refractory adult T‐cell leukemia/lymphoma. Valemetostat is a substrate of cytochrome P450 3A (CYP3A) and efflux transporter P‐glycoprotein (P‐gp). The pharmacokinetics (PK) of CYP3A or P‐gp substrate drugs can be impacted by concomitant use of CYP3A or P‐gp modulators. Therefore, drug–drug interaction (DDI) studies are warranted to assess target drug PK when used concomitantly with these agents.
+<list list-type="simple" id="cts13613-list-0002"><list-item id="cts13613-li-0002"><p>
+<bold>WHAT QUESTION DID THIS STUDY ADDRESS?</bold>
+</p></list-item></list>
+</p><p>This phase I DDI trial assessed the PK of valemetostat when co‐administered with itraconazole, a strong CYP3A and P‐gp inhibitor, or fluconazole, a moderate CYP3A inhibitor, to inform dosing recommendations when used concomitantly with CYP3A or P‐gp inhibitors.
+<list list-type="simple" id="cts13613-list-0003"><list-item id="cts13613-li-0003"><p>
+<bold>WHAT DOES THIS STUDY ADD TO OUR KNOWLEDGE?</bold>
+</p></list-item></list>
+</p><p>Co‐administration of valemetostat with itraconazole increased mean maximum plasma concentration (<italic toggle="yes">C</italic>
+<sub>max</sub>) by approximately threefold and mean area under the plasma concentration–time curve (AUC) from time‐0 extrapolated to infinity (AUC<sub>inf</sub>) by approximately fourfold relative to valemetostat alone. Valemetostat and fluconazole co‐administration increased both valemetostat <italic toggle="yes">C</italic>
+<sub>max</sub> and AUC<sub>inf</sub> by ~1.6‐fold.
+<list list-type="simple" id="cts13613-list-0004"><list-item id="cts13613-li-0004"><p>
+<bold>HOW MIGHT THIS CHANGE CLINICAL PHARMACOLOGY OR TRANSLATIONAL SCIENCE</bold>
+</p></list-item></list>
+</p><p>These findings indicate the need for dose adjustments when valemetostat is used concomitantly with strong CYP3A and P‐gp dual inhibitors.</p></boxed-text>
+</p><sec id="cts13613-sec-0003"><title>INTRODUCTION</title><p>Valemetostat tosylate (valemetostat; DS‐3201b) is an oral, potent, and selective dual inhibitor of enhancer of zeste homolog (EZH) 2 and EZH1.<xref rid="cts13613-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cts13613-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> EZH2 and EZH1 are histone methyltransferases that catalyze the attachment of three methyl groups to histone H3, a repressive transcriptional mark that silences genes by compressing chromatin and preventing transcription.<xref rid="cts13613-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="cts13613-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="cts13613-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="cts13613-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cts13613-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> EZH2 and EZH1 play key roles in tumor cell growth and survival, and overexpression of EZH mutations has been implicated in the progression of non‐Hodgkin's lymphomas (NHLs), including adult T‐cell leukemia/lymphoma (ATLL).<xref rid="cts13613-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="cts13613-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="cts13613-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="cts13613-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cts13613-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+</p><p>Valemetostat is approved in Japan (as EZHARMIA; Daiichi Sankyo Co., Ltd.) for treatment of patients with relapsed/refractory ATLL at a dose of 200 mg once‐daily (q.d.),<xref rid="cts13613-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> and is in clinical development for the treatment of other hematologic malignancies and solid tumors.<xref rid="cts13613-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cts13613-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="cts13613-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="cts13613-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="cts13613-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> In a multicenter, single‐arm, phase II trial of valemetostat monotherapy in 25 patients with relapsed/refractory ATLL, valemetostat 200 mg/day was associated with an overall response rate of 48.0% (12/25; 90% confidence interval [CI] 30.5% to 65.9%), inducing complete remissions in four patients.<xref rid="cts13613-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The primary treatment‐emergent adverse events (TEAEs) were myelosuppression, alopecia, dysgeusia, decreased appetite, and pyrexia.<xref rid="cts13613-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><p>Patients with hematologic malignancies are at increased risk of infection, including fungal infections.<xref rid="cts13613-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="cts13613-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Treatment and prophylaxis with antifungal medications, including itraconazole and fluconazole, are often warranted in high‐risk patients.<xref rid="cts13613-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Itraconazole and fluconazole are known strong and moderate inhibitors of cytochrome P450 (CYP) 3A, respectively, and itraconazole also inhibits P‐glycoprotein (P‐gp). Itraconazole is often used as a strong CYP3A inhibitor in clinical drug–drug interaction (DDI) studies, as recommended by the Innovation and Quality in Pharmaceutical Development Clinical Pharmacology Leadership Group.<xref rid="cts13613-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Valemetostat has been identified in vitro as a substrate of CYP3A and P‐gp (unpublished data). The pharmacokinetic (PK) profiles of other medicinal drugs that are substrates of CYP3A and/or P‐gp are substantially altered when used in combination with CYP3A or P‐gp inhibitors. For example, co‐administration of midazolam with 200 mg itraconazole causes a 10‐ to 15‐fold increase in the area under the plasma concentration–time curve (AUC) of midazolam, and co‐administration with fluconazole (400 mg loading and 200 mg q.d. maintenance) causes a 3.6‐fold increase in the AUC of midazolam.<xref rid="cts13613-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> In addition, a 200‐mg dose of itraconazole increased both the AUC and maximum plasma concentration (<italic toggle="yes">C</italic>
+<sub>max</sub>) of fexofenadine (single dose 60 mg), a P‐gp substrate, by twofold when co‐administered.<xref rid="cts13613-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Accordingly, patients receiving valemetostat and CYP3A or P‐gp inhibitors may be at risk for DDIs that could impact valemetostat PK, potentially increasing bioavailability and exposure.</p><p>To inform potential valemetostat dose adjustments when used concomitantly with a CYP3A or P‐gp inhibitor, we conducted a phase I DDI study to assess the effects of multiple oral administrations of itraconazole and fluconazole on the PK of valemetostat in healthy Japanese adult males.</p></sec><sec sec-type="methods" id="cts13613-sec-0004"><title>METHODS</title><sec id="cts13613-sec-0005"><title>Study design</title><p>This was a phase I, open‐label, single‐sequence crossover study (JapicCTI‐183902) that enrolled healthy Japanese males 20–45 years of age with a body mass index (BMI) of greater than or equal to 18.5 to less than 25.0 at screening. Healthy participants were determined based on their medical history, physical examinations, vital signs, 12‐lead electrocardiograms, and clinical laboratory tests during screening. Exclusion criteria included a history of clinically significant diseases, including cardiovascular, respiratory, blood, hematopoietic, gastrointestinal, or central nervous system disorders, or other disorders that could potentially risk the safety of participants, such as hepatic/renal impairment, thyroid dysfunction, pituitary malfunction, and adrenal insufficiency. Participants were required to have abstained from any medications, including supplements containing St. John's Wort, for 30 days before hospital admission and until the post‐study or follow‐up examination. Additionally, consumption of grapefruit juice was prohibited within 7 days of admission.</p><p>The trial was performed at Souseikai Fukuoka Mirai Hospital (Fukuoka, Japan) and conducted in compliance with the ethical principles outlined in the Declaration of Helsinki, the International Council for Harmonization of Technical Requirements for Pharmaceuticals for Human Use Consolidated Guideline E6 for Good Clinical Practice, and Japanese regulatory requirements. The study protocol was approved by the local institutional review board. All participants provided written informed consent prior to screening.</p><p>Eligible participants were assigned to the itraconazole or fluconazole dosing groups (1:1 allocation) and received two single oral doses of valemetostat 25 mg tablets, first alone on day 1 and then concomitantly with either itraconazole on day 11 or fluconazole on day 12 (Figure <xref rid="cts13613-fig-0001" ref-type="fig">1</xref>). Itraconazole (Itrizole capsules; Janssen Pharmaceutical KK) was administered orally from day 6 through day 20 at a dose of 400 mg (200 mg twice daily [b.i.d.]) on day 6 and 200 mg q.d. on days 7–20. Fluconazole (Diflucan capsules; Pfizer Japan ) was administered orally q.d. on days 6–18, as 400 mg on day 6 and 200 mg on days 7–18. The 25‐mg valemetostat dose assessed in this trial allowed for an eightfold AUC margin relative to the 200‐mg dose‐level that was shown to be safe and well‐tolerated in the first‐in‐human phase I trial in patients with relapsed/refractory NHL (NCT02732275),<xref rid="cts13613-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> and in a separate phase I trial comprising healthy Japanese adults (JapicCTI‐173804).<xref rid="cts13613-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p><fig position="float" fig-type="FIGURE" id="cts13613-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Treatment schedules for the itraconazole and fluconazole groups.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CTS-16-2153-g004.jpg"><?image-name CTS-16-2153-g004.jpg?><?image-size 64922?><?image-md5 76863f1fde114e4f42b111362357e962?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 500?><?image-original-width 1064?><?image-scaled-height 333?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7ac1/10651645/76863f1fde11/CTS-16-2153-g004.jpg?><?thumb-name CTS-16-2153-g004.gif?><?thumb-size 5037?><?thumb-md5 bf6397105b63bf5ab693f9966fb18494?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 170?><?thumb-cloudpmc-urn urn:cdn:blobs/7ac1/10651645/bf6397105b63/CTS-16-2153-g004.gif?></graphic></fig><p>The study participants were admitted to the hospital from the day before the initial dose of valemetostat until the day after the final administration of the concomitant drug, with a total period of 21 nights and 22 days for the itraconazole group and 19 nights and 20 days for the fluconazole group. During the hospitalization period, the study center provided all meals and beverages to the participants, and consumption of any other food or beverages was strictly prohibited. The meals were served at designated times, and the beverages provided were free of caffeine. Participants were prohibited from smoking or engaging in excessive physical exercise during their hospital stay.</p><p>Valemetostat was administered following a 10‐h fast and subjects were to remain fasted for at least 4 h postdose. Itraconazole and fluconazole were administered after breakfast (itraconazole was also taken after dinner on day 6) except on day 11 or day 12 when valemetostat and itraconazole/fluconazole were taken together under fasted conditions. On days without valemetostat administration, meals were provided 30 min prior to administration of itraconazole or fluconazole and finished within 20 min. All study drugs were taken with 240 mL of water and subjects were instructed to remain in a sitting position for at least 4 h postdose. Participants were hospitalized for ~20 days and then followed for an additional 13–15 days for monitoring of potential TEAEs. Use of drugs other than valemetostat, itraconazole, or fluconazole was prohibited from 30 days prior to the first dose until the end of the follow‐up period, unless required for intervention of an adverse event.</p></sec><sec id="cts13613-sec-0006"><title>Pharmacokinetic evaluations</title><p>Blood samples were collected to determine valemetostat, itraconazole, and fluconazole plasma concentrations. The PK profile of valemetostat alone was determined from blood samples collected prior to valemetostat dosing on day 1, and at 0.25, 0.5, 1, 1.5, 2, 2.5, 3, 4, 5, 6, 8, 12, 24, 48, 72, and 96 h postdose. Next, to assess the impact of itraconazole and fluconazole on valemetostat PK, blood samples were collected prior to valemetostat dosing on day 11 (itraconazole group) or day 12 (fluconazole group), and at 0.25, 0.5, 1, 1.5, 2, 2.5, 3, 4, 5, 6, 8, 12, 24, 48, 72, 96, 120, 144, and 168 h postdose, and again at 240 h postdose in the itraconazole group. Prospective blood collections at the greater than or equal to 24 h timepoints were performed prior to itraconazole/fluconazole dosing. Plasma concentrations of itraconazole and fluconazole were assessed on day 6 before their administration alone, and before co‐administration with valemetostat on day 11 for itraconazole or day 12 for fluconazole. Subsequently, measurements were taken prior to itraconazole dosing on day 15 and day 21 (96 and 240 h after co‐administration with valemetostat on day 11), and before fluconazole on day 16 and day 19 (96 and 168 h after co‐administration with valemetostat on day 12).</p><p>Pharmacokinetic parameters assessed included <italic toggle="yes">C</italic>
+<sub>max</sub>, time to reach <italic toggle="yes">C</italic>
+<sub>max</sub> (<italic toggle="yes">T</italic>
+<sub>max</sub>), AUC up to the last quantifiable timepoint (AUC<sub>last</sub>) and extrapolated to infinity (AUC<sub>inf</sub>), terminal elimination half‐life (<italic toggle="yes">t</italic>
+<sub>1/2</sub>), oral clearance (CL/<italic toggle="yes">F</italic>), and apparent volume of distribution (Vz/<italic toggle="yes">F</italic>). The primary PK end points were <italic toggle="yes">C</italic>
+<sub>max</sub>, AUC<sub>last</sub>, and AUC<sub>inf</sub> of valemetostat when administered alone and when co‐administered with itraconazole or fluconazole; <italic toggle="yes">T</italic>
+<sub>max</sub>, elimination rate constant associated with the terminal phase, <italic toggle="yes">t</italic>
+<sub>1/2</sub>, CL/<italic toggle="yes">F</italic>, and Vz/<italic toggle="yes">F</italic> were secondary end points. Plasma concentrations of valemetostat, itraconazole, and fluconazole were measured using a validated liquid chromatography–tandem mass spectrometry method (Data <xref rid="cts13613-supitem-0001" ref-type="supplementary-material">S1</xref>). For valemetostat, a 20‐μL aliquot of plasma sample was subjected to protein precipitation with acetonitrile after the addition of deuterium‐labeled valemetostat (valemetostat‐d6) as an internal standard. The resulting supernatants were diluted with 5 mmol/L ammonium formate containing 0.01% formic acid, and then injected on a reversed phase liquid chromatography column. Mass spectrometric detection was performed using an API5000 triple quadrupole mass spectrometer (Sciex), equipped with a Turbo‐IonSpray source. Multiple reaction monitoring in the positive mode was used for detection. The validated concentration range was 1–1000 ng/mL for valemetostat. The lower limit of quantification was 1 ng/mL. The within‐ and inter‐day assay precision (percent coefficient of variation) for quality control samples were in the ranges of 0.6%–5.9% and 1.6%–4.9%, respectively, and the assay accuracy percentages were in the ranges of 90.3%–105.3% and 93.7%–102.0%, respectively.</p><p>Pharmacokinetic parameters for valemetostat were calculated via a noncompartmental analysis using Phoenix WinNonlin version 6.3 (Certara). The PK analysis set included participants who received valemetostat alone (day 1) and in combination with itraconazole (day 11) or fluconazole (day 12), with available PK data from both assessments.</p></sec><sec id="cts13613-sec-0007"><title>Safety evaluations</title><p>Safety was assessed via TEAE reporting and monitoring of clinical laboratory parameters. Participants were evaluated for TEAEs from the first dose through the end of the follow‐up period (approximately days 31–35). TEAEs were defined using the Medical Dictionary for Regulatory Activities version 21.0 and graded for severity was assessed according to the Common Terminology Criteria for Adverse Events version 4.0, Japanese edition by the Japan Clinical Oncology Group.</p></sec><sec id="cts13613-sec-0008"><title>Statistical analysis</title><p>No statistical hypotheses were tested to set a sample size in this study. However, the sample size of 16 subjects in each treatment would be sufficient to provide PK parameters to evaluate the magnitude of changes in valemetostat exposures based on previous PK observations. The PK parameters of valemetostat when administered alone versus with concomitant itraconazole or fluconazole was compared using an analysis of variance model, which used a linear mixed effect model with natural logarithms as response variables, treatment period (alone/concomitant) as fixed effects, and participants as a random effect. The natural logarithms were inversely transformed, and the geometric least‐squares (LS) mean ratio of test (valemetostat + itraconazole or valemetostat + fluconazole) versus reference (valemetostat alone) and its two‐sided 90% CI was calculated for relevant parameters. Statistical analyses were performed using SAS version 9.4 (SAS Institute).</p></sec></sec><sec sec-type="results" id="cts13613-sec-0009"><title>RESULTS</title><sec id="cts13613-sec-0010"><title>Participants</title><p>Overall, 32 participants were enrolled and assigned to the itraconazole or fluconazole groups (<italic toggle="yes">n</italic> = 16 each). All 16 participants in the itraconazole group completed the study. In the fluconazole group, 13 participants completed the trial; three participants in this group discontinued due to TEAEs (<italic toggle="yes">n</italic> = 2; described below) and participant decision (<italic toggle="yes">n</italic> = 1) after receiving valemetostat alone but before starting fluconazole on day 6.</p><p>Baseline characteristics were similar between the itraconazole and fluconazole groups. Mean (standard deviation [SD]) ages in the itraconazole and fluconazole groups were 28.3 (6.15) and 30.6 (5.46) years, respectively; mean BMIs were 21.4 (1.77) and 21.2 (1.63; Table <xref rid="cts13613-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="cts13613-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Baseline characteristics for all enrolled participants.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Baseline characteristics</th><th align="left" valign="bottom" rowspan="1" colspan="1">Valemetostat +  itraconazole (<italic toggle="yes">N</italic> = 16)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Valemetostat +  fluconazole (<italic toggle="yes">N</italic> = 16)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, years, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">28.3 (6.15)</td><td align="left" valign="top" rowspan="1" colspan="1">30.6 (5.46)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age range, years</td><td align="left" valign="top" rowspan="1" colspan="1">20–38</td><td align="left" valign="top" rowspan="1" colspan="1">21–38</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Weight, kg, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">62.3 (6.97)</td><td align="left" valign="top" rowspan="1" colspan="1">63.1 (5.83)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Height, cm, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">170.2 (4.64)</td><td align="left" valign="top" rowspan="1" colspan="1">172.7 (6.10)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">21.4 (1.77)</td><td align="left" valign="top" rowspan="1" colspan="1">21.2 (1.63)</td></tr></tbody></table><table-wrap-foot id="cts13613-ntgp-0001"><fn id="cts13613-note-0001"><p>Abbreviations: BMI, body mass index; SD, standard deviation.</p></fn></table-wrap-foot></table-wrap></sec><sec id="cts13613-sec-0011"><title>Pharmacokinetic evaluations</title><p>The PK analysis set comprised all 16 participants in the itraconazole group and the 13 participants in the fluconazole group. Co‐administration of valemetostat with itraconazole or fluconazole increased plasma concentrations of valemetostat. Mean plasma concentration–time profiles for valemetostat administered alone and with itraconazole or fluconazole are presented in Figures <xref rid="cts13613-fig-0002" ref-type="fig">2</xref> and <xref rid="cts13613-fig-0003" ref-type="fig">3</xref>, respectively. Following a single administration of valemetostat 25 mg, median (range) <italic toggle="yes">T</italic>
+<sub>max</sub> of valemetostat alone was 3.5 (1.0–5.0) h in the itraconazole group and 3.0 (0.5–6.0) h in the fluconazole group, and when co‐administered with itraconazole and fluconazole was 3.0 (1.0–4.0) and 4.0 (1.0–5.0) h, respectively (Table <xref rid="cts13613-tbl-0002" ref-type="table">2</xref>). When co‐administered with itraconazole, mean <italic toggle="yes">t</italic>
+<sub>1/2</sub> of valemetostat was prolonged more than twofold, from 17.5 alone to 39.2 h with itraconazole, whereas valemetostat <italic toggle="yes">t</italic>
+<sub>1/2</sub> was similar with or without concomitant fluconazole (19.2 and 21.7 h, respectively; Table <xref rid="cts13613-tbl-0002" ref-type="table">2</xref>). Descriptive mean values for valemetostat <italic toggle="yes">C</italic>
+<sub>max</sub>, AUC<sub>last</sub>, and AUC<sub>inf</sub> were each higher when taken with itraconazole or fluconazole versus valemetostat alone.</p><fig position="float" fig-type="FIGURE" id="cts13613-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Time course of mean (±SD) plasma valemetostat concentrations when administered alone or with itraconazole (semi‐log and linear [truncated to 0–24 h] plots).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CTS-16-2153-g001.jpg"><?image-name CTS-16-2153-g001.jpg?><?image-size 35465?><?image-md5 475e1e3422152d2a1241241f15802e20?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 621?><?image-original-width 1064?><?image-scaled-height 414?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7ac1/10651645/475e1e342215/CTS-16-2153-g001.jpg?><?thumb-name CTS-16-2153-g001.gif?><?thumb-size 3540?><?thumb-md5 61ae11786564b270728ab5d4bf6e453e?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 137?><?thumb-cloudpmc-urn urn:cdn:blobs/7ac1/10651645/61ae11786564/CTS-16-2153-g001.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="cts13613-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Time course of mean (±SD) valemetostat plasma concentrations when administered alone or with fluconazole (semi‐log and linear [truncated to 0–24 h] plots). SD, standard deviation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CTS-16-2153-g002.jpg"><?image-name CTS-16-2153-g002.jpg?><?image-size 34821?><?image-md5 8ac66683fcabfd4bd8ab58fae79f46d6?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 663?><?image-original-width 1064?><?image-scaled-height 442?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7ac1/10651645/8ac66683fcab/CTS-16-2153-g002.jpg?><?thumb-name CTS-16-2153-g002.gif?><?thumb-size 3179?><?thumb-md5 92b7b75d6f6416f0ebffee6f0c9123f8?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 128?><?thumb-cloudpmc-urn urn:cdn:blobs/7ac1/10651645/92b7b75d6f64/CTS-16-2153-g002.gif?></graphic></fig><table-wrap position="float" id="cts13613-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Valemetostat PK parameters when administered alone or with itraconazole or fluconazole.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Parameter</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Itraconazole group (<italic toggle="yes">N</italic> = 16)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Fluconazole group (<italic toggle="yes">N</italic> = 13)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Valemetostat alone (day 1)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Valemetostat + itraconazole (day 11)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Valemetostat alone (day 1)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Valemetostat + fluconazole (day 12)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">C</italic>
+<sub>max</sub>, ng/mL, mean (SD)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">115 (50.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">336 (125)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">113 (88.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">158 (88.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AUC<sub>last</sub>, ng·h/mL, mean (SD)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">768 (263)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3270 (992)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">641 (324)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1070 (569)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AUC<sub>inf</sub>, ng·h/mL, mean (SD)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">804 (267)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3340 (1000)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">686 (335)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1110 (570)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">T</italic>
+<sub>max</sub>, h, median (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3.50 (1.00–5.00)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3.00 (1.00–4.00)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3.00 (0.50–6.00)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.00 (1.00–5.00)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">t</italic>
+<sub>1/2</sub>, h, mean (SD)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17.5 (8.17)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">39.2 (8.87)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">21.7 (9.66)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19.2 (4.41)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CL/<italic toggle="yes">F</italic>, L/h, mean (SD)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">35.0 (13.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">8.34 (3.38)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">46.4 (24.9)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">30.4 (19.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vz/<italic toggle="yes">F</italic>, L, mean (SD)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">836 (333)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">449 (124)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1310 (768)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">806 (442)</td></tr></tbody></table><table-wrap-foot id="cts13613-ntgp-0002"><fn id="cts13613-note-0002"><p>
+<italic toggle="yes">Note</italic>: Blood sample collection timepoints were pre‐dose, and at 0.25, 0.5, 1, 1.5, 2, 2.5, 3, 4, 5, 6, 8, 12, 24, 48, 72, and 96 h postdose, with additional collections at 120, 144, and 168 h when co‐administered with fluconazole and at 120, 144, 168, and 240 h when co‐administered with itraconazole.</p></fn><fn id="cts13613-note-0003"><p>Abbreviations: AUC<sub>inf</sub>, area under the plasma concentration–time curve (AUC) from time of dosing extrapolated to infinity; AUC<sub>last</sub>, AUC from time of dosing to last measurement; <italic toggle="yes">C</italic>
+<sub>max</sub>, maximum concentration; CL/<italic toggle="yes">F</italic>, oral clearance; h, hour(s); PK, pharmacokinetic; SD, standard deviation; <italic toggle="yes">t</italic>
+<sub>1/2</sub>, terminal elimination half‐life; <italic toggle="yes">T</italic>
+<sub>max</sub>, time to reach <italic toggle="yes">C</italic>
+<sub>max</sub>; Vz/<italic toggle="yes">F</italic>, apparent volume of distribution.</p></fn></table-wrap-foot></table-wrap><p>Statistical comparisons of valemetostat <italic toggle="yes">C</italic>
+<sub>max,</sub> AUC<sub>last</sub>, and AUC<sub>inf</sub> when co‐administered with or without itraconazole and fluconazole are presented in Table <xref rid="cts13613-tbl-0003" ref-type="table">3</xref>. The geometric LS mean of valemetostat <italic toggle="yes">C</italic>
+<sub>max</sub> when co‐administered with itraconazole was nearly three times higher relative to valemetostat alone (LS mean ratio 2.92), and geometric LS means for AUC<sub>last</sub> and AUC<sub>inf</sub> were each more than four times greater with itraconazole + valemetostat (LS mean ratios 4.30 and 4.19, respectively, vs. valemetostat alone). When co‐administered with fluconazole, geometric LS mean ratios for <italic toggle="yes">C</italic>
+<sub>max</sub>, AUC<sub>last</sub>, and AUC<sub>inf</sub> were each ~1.6‐fold higher versus valemetostat alone: 1.61, 1.63, and 1.58, respectively. Comparisons of valemetostat <italic toggle="yes">C</italic>
+<sub>max</sub>, AUC<sub>last</sub>, and AUC<sub>inf</sub> values for individual participants with and without concomitant itraconazole or fluconazole administration are presented in Figure <xref rid="cts13613-fig-0004" ref-type="fig">4</xref>.</p><table-wrap position="float" id="cts13613-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Comparison of valemetostat PK parameters when administered alone or with itraconazole or fluconazole.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Inhibitor</th><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Parameter</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Geometric LS mean</th><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Geometric LS mean ratio [90% CI]</th><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Intrasubject variability (%)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Valemetostat + inhibitor (test)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Valemetostat alone (reference)</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="3" valign="top" colspan="1">Itraconazole</td><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">C</italic>
+<sub>max</sub>, ng/mL</td><td align="left" valign="top" rowspan="1" colspan="1">307</td><td align="left" valign="top" rowspan="1" colspan="1">105</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">2.92 [2.26, 3.78]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">43.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AUC<sub>last</sub>, ng·h/mL</td><td align="left" valign="top" rowspan="1" colspan="1">3110</td><td align="left" valign="top" rowspan="1" colspan="1">724</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">4.30 [3.53, 5.24]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">32.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AUC<sub>inf</sub>, ng·h/mL</td><td align="left" valign="top" rowspan="1" colspan="1">3180</td><td align="left" valign="top" rowspan="1" colspan="1">760</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">4.19 [3.45, 5.09]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">32.3</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">Fluconazole</td><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">C</italic>
+<sub>max</sub>, ng/mL</td><td align="left" valign="top" rowspan="1" colspan="1">132</td><td align="left" valign="top" rowspan="1" colspan="1">81.7</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1.61 [1.12, 2.32]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">55.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AUC<sub>last</sub>, ng·h/mL</td><td align="left" valign="top" rowspan="1" colspan="1">917</td><td align="left" valign="top" rowspan="1" colspan="1">563</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1.63 [1.25, 2.12]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">39.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AUC<sub>inf</sub>, ng·h/mL</td><td align="left" valign="top" rowspan="1" colspan="1">967</td><td align="left" valign="top" rowspan="1" colspan="1">610</td><td align="char" char="[" valign="top" rowspan="1" colspan="1">1.58 [1.23, 2.04]</td><td align="char" char="." valign="top" rowspan="1" colspan="1">37.0</td></tr></tbody></table><table-wrap-foot id="cts13613-ntgp-0003"><fn id="cts13613-note-0004"><p>
+<italic toggle="yes">Note</italic>: Blood sample collection timepoints were pre‐dose, and at 0.25, 0.5, 1, 1.5, 2, 2.5, 3, 4, 5, 6, 8, 12, 24, 48, 72, and 96 h postdose, with additional collections at 120, 144, and 168 h when co‐administered with fluconazole and at 120, 144, 168, and 240 h when co‐administered with itraconazole.</p></fn><fn id="cts13613-note-0005"><p>Abbreviations: AUC<sub>inf</sub>, area under the plasma concentration–time curve (AUC) from time of dosing extrapolated to infinity; AUC<sub>last</sub>, AUC from time of dosing until the last measurement; <italic toggle="yes">C</italic>
+<sub>max</sub>, maximum plasma concentration; CI, confidence interval; h, hour(s); LS, least‐squares; PK, pharmacokinetic.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="cts13613-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Valemetostat (a) <italic toggle="yes">C</italic>
+<sub>max</sub> and (b) AUC<sub>inf</sub> values in individual participants (open circles), and geometric LS means (±SD [closed circles]) after administration of valemetostat alone or in the presence of concomitant itraconazole (left) or fluconazole (right). AUC<sub>inf</sub>, area under the plasma concentration–time curve exposure extrapolated to infinity; <italic toggle="yes">C</italic>
+<sub>max</sub>, peak concentration; LS, least‐squares.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CTS-16-2153-g003.jpg"><?image-name CTS-16-2153-g003.jpg?><?image-size 87822?><?image-md5 f785d6a638b206979f3b9929a6ce4f95?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 726?><?image-original-width 1064?><?image-scaled-height 484?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7ac1/10651645/f785d6a638b2/CTS-16-2153-g003.jpg?><?thumb-name CTS-16-2153-g003.gif?><?thumb-size 3616?><?thumb-md5 94ae58967a54363959ed081e1e1fef4c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 117?><?thumb-cloudpmc-urn urn:cdn:blobs/7ac1/10651645/94ae58967a54/CTS-16-2153-g003.gif?></graphic></fig><p>Prior to co‐administration with valemetostat, the mean [SD] plasma concentrations of fluconazole and itraconazole were 7240 [1130] and 353 [138] ng/mL, respectively. Fluconazole plasma concentration remained stable until 168 h post co‐administration (mean 7770 [1270] ng/mL). Mean itraconazole concentration gradually increased to 447 [156] ng/mL 96 h after co‐administration with valemetostat and 615 (244) ng/mL after 240 h.</p></sec><sec id="cts13613-sec-0012"><title>Safety</title><p>All 32 enrolled participants received at least one dose of valemetostat and were evaluated for safety. As mentioned, 29 (91%) participants received both planned valemetostat doses, once alone (day 1) and once with itraconazole (day 11) or fluconazole (day 12), and the three other participants only received one dose of valemetostat and discontinued before the second dosing period.</p><p>The overall TEAE incidence rates were 12.5% (2/16 participants) in the itraconazole group and 50.0% (8/16) in the fluconazole group. All 10 participants who experienced TEAEs had low‐grade upper respiratory tract infections that were likely related to a sudden onset of cold weather and were not suspected to be related to the study drug. These infections were grade 1 in severity for nine participants and grade 2 for one participant, and all events resolved within 1–4 days of onset. Eight events occurred during the valemetostat‐only dosing period and two occurred during the itraconazole or fluconazole (<italic toggle="yes">n</italic> = 1 each) co‐administration dosing period. One participant in the fluconazole group received acetaminophen as symptomatic treatment on day 4. Two of these events, including the one that required medication, led to study discontinuation during the valemetostat‐only dosing period. No deaths, serious TEAEs, or grade greater than or equal to 3 TEAEs were reported in either group.</p><p>Increases in C‐reactive protein were noted in 10 participants and neutrophil/leukocyte count increases were seen in three participants, all of which were attributable to the upper respiratory tract infections. No other clinically significant changes in laboratory parameters, vital signs, and physical examination were observed.</p></sec></sec><sec sec-type="discussion" id="cts13613-sec-0013"><title>DISCUSSION</title><p>It is important to assess potential clinically relevant DDIs between valemetostat and other drugs, especially those frequently needed by patients with cancer. Co‐administration of valemetostat with itraconazole resulted in approximately three‐ and fourfold increase in valemetostat <italic toggle="yes">C</italic>
+<sub>
+<italic toggle="yes">max</italic>
+</sub> and AUC, respectively. In addition, co‐administration with itraconazole prolonged valemetostat <italic toggle="yes">t</italic>
+<sub>1/2</sub> from 17.5 to 39.2 h, when compared with valemetostat alone.</p><p>Valemetostat is a substrate of CYP3A and P‐gp, and itraconazole is a potent inhibitor of both molecules. Therefore, the observed effect of itraconazole on valemetostat <italic toggle="yes">C</italic>
+<sub>max</sub> and AUC was attributable to an increase in the bioavailability and a reduction in the elimination of valemetostat. The magnitude of increase in valemetostat exposure was considerably large, which suggests that appropriate dose modifications are warranted for valemetostat when used concomitantly with strong CYP3A and P‐gp dual inhibitors, like itraconazole.</p><p>Co‐administration with fluconazole resulted in a moderate increase in both <italic toggle="yes">C</italic>
+<sub>max</sub> and AUC (~1.6‐fold). The similar <italic toggle="yes">t</italic>
+<sub>1/2</sub> of valemetostat with or without fluconazole suggested that the inhibition of CYP3A‐mediated metabolism primarily occurs in the first‐pass metabolism, and the effect of fluconazole on the elimination is less pronounced than with itraconazole. Fluconazole is also known as a strong inhibitor of CYP2C19 and a moderate inhibitor of CYP2C9. However, in the present DDI assessments, the effect of fluconazole is only limited to its CYP3A inhibition, as valemetostat metabolism is not mediated by those CYP isoforms (unpublished data). In a recent phase II trial of valemetostat monotherapy in 25 patients with relapsed/refractory ATLL (NCT04102150),<xref rid="cts13613-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> valemetostat 200 mg/day was administered without dose adjustment to 11 patients with concomitant use of fluconazole. Grade greater than or equal to 3 TEAEs reported were comparable in seven of 11 patients (63.6%) versus seven of 12 (58.3%) with and without fluconazole, respectively. Serious TEAEs were higher in the subgroup with fluconazole (45.5%) compared to those without fluconazole (8.3%). However, most serious TEAEs were considered to be due to patients' primary disease, complications, or other concomitant medications, and therefore not related to the increased exposure of valemetostat observed in the fluconazole group. These results suggested that co‐administration of valemetostat with moderate CYP3A4 inhibitors does not warrant dose adjustment.</p><p>A limitation of this study is the valemetostat dose of 25 mg used for the DDI assessments. Although the safety and tolerability of valemetostat in healthy adults has been explored in single doses of up to 200 mg,<xref rid="cts13613-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> the reduced 25‐mg dose used in this study was selected to protect the safety of healthy participants, given the anticipated amplification of valemetostat PK when taken with itraconazole or fluconazole. In healthy subjects, valemetostat PK appears to be dose‐proportional in the range of 25–200 mg; however, the involvement of CYP3A‐mediated metabolism and P‐gp–mediated transport could be different between these doses. In this trial, itraconazole was used as a typical therapeutic agent with strong CYP3A inhibitory activity, and it also inhibits P‐gp. Given the complexity of how drug metabolism and transport affect the absorption and disposition of valemetostat, physiologically‐based PK (PBPK) model analyses were further performed to evaluate the impact of CYP3A and P‐gp inhibition on valemetostat PK. Results from PBPK modeling and simulation confirmed the effects of itraconazole and fluconazole at clinically relevant dose (i.e., 200 mg q.d.). In addition, the effects of a strong CYP3A‐selective inhibitor and a P‐gp–selective inhibitor on valemetostat exposure were explored, the details of which will be presented in a future report.</p><p>No increases in the incidences of TEAEs or other safety concerns were identified from the co‐administration of valemetostat with either itraconazole or fluconazole in healthy adults. No adverse events, including the upper respiratory tract infections reported in 10 participants, were suspected to be related to valemetostat. During an infection, the inflammatory response leads to elevated pro‐inflammatory cytokine levels. Cytokines such as interleukin 6 are known to downregulate the expression of CYP3A4, influencing the clearance of drugs that are CYP3A4 substrates.<xref rid="cts13613-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Subject cytokine levels were not assessed during this study, and it remains unclear whether the infections reported in this trial have impacted CYP metabolism and valemetostat PK results.</p><p>In this study, co‐administration of valemetostat with itraconazole or fluconazole was well‐tolerated but increased valemetostat exposure. Although the extent of valemetostat's interaction with moderate to strong CYP3A inhibitors and P‐gp inhibitors at a clinically relevant dose of 200 mg may be altered, the study findings are supported by previous data, including valemetostat's observed dose‐proportional PK response ranging from 25 to 200 mg, and safety data from a phase II trial involving patients who received 200 mg of valemetostat concurrently with fluconazole. These data will help to provide dosing instructions for valemetostat and DDI risk management. The safety and tolerability of valemetostat in patients with NHL and other cancers when co‐administered with CYP3A and/or P‐gp inhibitors will further be assessed in future clinical trials and postmarketing evaluations.</p></sec><sec id="cts13613-sec-0014"><title>AUTHOR CONTRIBUTIONS</title><p>M.T., S.M., Y.M., K.K., T.S., J.T., and H.I. wrote the manuscript and H.I. designed the research. S.M., and Y.M. performed the research. M.T., K.K., T.S., J.T., and H.I. analyzed the data.</p></sec><sec id="cts13613-sec-0016"><title>FUNDING INFORMATION</title><p>The trial was sponsored by Daiichi Sankyo (Tokyo, Japan).</p></sec><sec sec-type="COI-statement" id="cts13613-sec-0017"><title>CONFLICT OF INTEREST STATEMENT</title><p>M.T., Y.M., K.K., T.S., J.T., and H.I. are employed by and hold equity ownership in Daiichi Sankyo. S.M. declared no competing interests for this work.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cts13613-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Data S1
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CTS-16-2153-s001.pdf" position="float" orientation="portrait"><?suppdata-name CTS-16-2153-s001.pdf?><?suppdata-size 123225?><?suppdata-md5 bcf2a3019e7d92dc63f23c4d3c42c36a?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:7ac1/10651645/bcf2a3019e7d/CTS-16-2153-s001.pdf?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cts13613-sec-0015"><title>ACKNOWLEDGMENTS</title><p>The authors thank the participants, families, and personnel who participated in this trial, the investigators and staff at Souseikai Fukuoka Mirai Hospital for their support in conducting the trials, and Naoko Nakai for bioanalytical support. Writing and editorial support were provided by Brian Kaiser and Declan Grewcock of Excerpta Medica B.V. (Amsterdam, NL) funded by Daiichi Sankyo Co., Ltd., and in accordance with Good Publication Practice (GPP) guidelines.</p></ack><ref-list content-type="cited-references" id="cts13613-bibl-0001"><title>REFERENCES</title><ref id="cts13613-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cts13613-cit-0001">
+<string-name name-style="western">
+<surname>Yamagishi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hori</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fujikawa</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Targeting excessive EZH1 and EZH2 activities for abnormal histone methylation and transcription network in malignant lymphomas</article-title>. <source>Cell Rep</source>. <year>2019</year>;<volume>29</volume>:<fpage>2321</fpage>‐<lpage>2337</lpage>.<pub-id pub-id-type="pmid">31747604</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.celrep.2019.10.083</pub-id></mixed-citation></ref><ref id="cts13613-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cts13613-cit-0002">
+<string-name name-style="western">
+<surname>Shinohara</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sawado</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakagawa</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Dual targeting of EZH1 and EZH2 for the treatment of malignant rhabdoid tumors</article-title>. <source>Mol Ther Oncolytics</source>. <year>2022</year>;<volume>27</volume>:<fpage>14</fpage>‐<lpage>25</lpage>.<pub-id pub-id-type="pmid">36212776</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.omto.2022.09.006</pub-id><pub-id pub-id-type="pmcid">PMC9529991</pub-id></mixed-citation></ref><ref id="cts13613-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cts13613-cit-0003">
+<string-name name-style="western">
+<surname>Herviou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cavalli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cartron</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klein</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moreaux</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>EZH2 in normal hematopoiesis and hematological malignancies</article-title>. <source>Oncotarget</source>. <year>2016</year>;<volume>7</volume>:<fpage>2284</fpage>‐<lpage>2296</lpage>.<pub-id pub-id-type="pmid">26497210</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.6198</pub-id><pub-id pub-id-type="pmcid">PMC4823035</pub-id></mixed-citation></ref><ref id="cts13613-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cts13613-cit-0004">
+<string-name name-style="western">
+<surname>Kasinath</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poepsel</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Structures of human PRC2 with its cofactors AEBP2 and JARID2</article-title>. <source>Science</source>. <year>2018</year>;<volume>359</volume>:<fpage>940</fpage>‐<lpage>944</lpage>.<pub-id pub-id-type="pmid">29348366</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.aar5700</pub-id><pub-id pub-id-type="pmcid">PMC5840869</pub-id></mixed-citation></ref><ref id="cts13613-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cts13613-cit-0005">
+<string-name name-style="western">
+<surname>Nakagawa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kitabayashi</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Oncogenic roles of enhancer of zeste homolog 1/2 in hematological malignancies</article-title>. <source>Cancer Sci</source>. <year>2018</year>;<volume>109</volume>:<fpage>2342</fpage>‐<lpage>2348</lpage>.<pub-id pub-id-type="pmid">29845708</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cas.13655</pub-id><pub-id pub-id-type="pmcid">PMC6113435</pub-id></mixed-citation></ref><ref id="cts13613-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cts13613-cit-0006">
+<string-name name-style="western">
+<surname>Shen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsu</surname>
+<given-names>YJ</given-names>
+</string-name>, et al. <article-title>EZH1 mediates methylation on histone H3 lysine 27 and complements EZH2 in maintaining stem cell identity and executing pluripotency</article-title>. <source>Mol Cell</source>. <year>2008</year>;<volume>32</volume>:<fpage>491</fpage>‐<lpage>502</lpage>.<pub-id pub-id-type="pmid">19026780</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molcel.2008.10.016</pub-id><pub-id pub-id-type="pmcid">PMC2630502</pub-id></mixed-citation></ref><ref id="cts13613-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cts13613-cit-0007">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Konze</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>GG</given-names>
+</string-name>. <article-title>Targeting EZH2 and PRC2 dependence as novel anticancer therapy</article-title>. <source>Exp Hematol</source>. <year>2015</year>;<volume>43</volume>:<fpage>698</fpage>‐<lpage>712</lpage>.<pub-id pub-id-type="pmid">26027790</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.exphem.2015.05.001</pub-id><pub-id pub-id-type="pmcid">PMC4706459</pub-id></mixed-citation></ref><ref id="cts13613-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cts13613-cit-0008">
+<string-name name-style="western">
+<surname>Sasaki</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Imaizumi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hasegawa</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Overexpression of enhancer of zeste homolog 2 with trimethylation of lysine 27 on histone H3 in adult T‐cell leukemia/lymphoma as a target for epigenetic therapy</article-title>. <source>Haematologica</source>. <year>2011</year>;<volume>96</volume>:<fpage>712</fpage>‐<lpage>719</lpage>.<pub-id pub-id-type="pmid">21228036</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3324/haematol.2010.028605</pub-id><pub-id pub-id-type="pmcid">PMC3084918</pub-id></mixed-citation></ref><ref id="cts13613-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cts13613-cit-0009">
+<string-name name-style="western">
+<surname>van Kemenade</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raaphorst</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blokzijl</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Coexpression of BMI‐1 and EZH2 polycomb‐group proteins is associated with cycling cells and degree of malignancy in B‐cell non‐Hodgkin lymphoma</article-title>. <source>Blood</source>. <year>2001</year>;<volume>97</volume>:<fpage>3896</fpage>‐<lpage>3901</lpage>.<pub-id pub-id-type="pmid">11389032</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.v97.12.3896</pub-id></mixed-citation></ref><ref id="cts13613-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cts13613-cit-0010">
+<string-name name-style="western">
+<surname>Visser</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gunster</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kluin‐Nelemans</surname>
+<given-names>HC</given-names>
+</string-name>, et al. <article-title>The Polycomb group protein EZH2 is upregulated in proliferating, cultured human mantle cell lymphoma</article-title>. <source>Br J Haematol</source>. <year>2001</year>;<volume>112</volume>:<fpage>950</fpage>‐<lpage>958</lpage>.<pub-id pub-id-type="pmid">11298590</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1365-2141.2001.02641.x</pub-id></mixed-citation></ref><ref id="cts13613-bib-0011"><label>11</label><mixed-citation publication-type="miscellaneous" id="cts13613-cit-0011">
+<article-title>EZHARMIA® (valemetostat tosilate)</article-title>. Tokyo, Japan: Daiichi Sankyo <year>2022</year>.</mixed-citation></ref><ref id="cts13613-bib-0012"><label>12</label><mixed-citation publication-type="miscellaneous" id="cts13613-cit-0012">
+<string-name name-style="western">
+<surname>Sankyo</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>DS‐3201b in participants with lymphomas</article-title>. <year>2022</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://clinicaltrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link>: NCT02732275. Accessed March 13, 2023. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/show/NCT02732275" ext-link-type="uri">https://ClinicalTrials.gov/show/NCT02732275</ext-link>
+</mixed-citation></ref><ref id="cts13613-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cts13613-cit-0013">
+<string-name name-style="western">
+<surname>Foss</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porcu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horwitz</surname>
+<given-names>SM</given-names>
+</string-name>, et al. <article-title>A global phase 2 study of valemetostat tosylate (valemetostat) in patients with relapsed or refractory (R/R) peripheral T‐cell lymphoma (PTCL), including R/R adult T‐cell leukemia/lymphoma (ATL) ‐ Valentine‐PTCL01</article-title>. <source>Blood</source>. <year>2021</year>;<volume>138</volume>:<fpage>2533</fpage>.</mixed-citation></ref><ref id="cts13613-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cts13613-cit-0014">
+<string-name name-style="western">
+<surname>Izutsu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Makita</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nosaka</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>An open‐label, single‐arm, phase 2 trial of valemetostat in relapsed or refractory adult t‐cell leukemia/lymphoma</article-title>. <source>Blood</source>. <year>2023</year>;<volume>141</volume>:<fpage>1159</fpage>‐<lpage>1168</lpage>.<pub-id pub-id-type="pmid">36150143</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2022016862</pub-id></mixed-citation></ref><ref id="cts13613-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cts13613-cit-0015">
+<string-name name-style="western">
+<surname>Kusumoto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Izutsu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maruyama</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>First‐in‐human study of the EZH1 and EZH2 dual inhibitor valemetostat tosylate (DS‐3201b) in patients with relapsed or refractory non‐Hodgkin lymphomas</article-title>. <source>HemaSphere</source>. <year>2021</year>;<volume>5</volume>:<fpage>S218</fpage>.</mixed-citation></ref><ref id="cts13613-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cts13613-cit-0016">
+<string-name name-style="western">
+<surname>Freifeld</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bow</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sepkowitz</surname>
+<given-names>KA</given-names>
+</string-name>, et al. <article-title>Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the Infectious Diseases Society of America</article-title>. <source>Clin Infect Dis</source>. <year>2011</year>;<volume>52</volume>:<fpage>427</fpage>‐<lpage>431</lpage>.<pub-id pub-id-type="pmid">21205990</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cid/ciq147</pub-id></mixed-citation></ref><ref id="cts13613-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cts13613-cit-0017">
+<string-name name-style="western">
+<surname>Gotzsche</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johansen</surname>
+<given-names>HK</given-names>
+</string-name>. <article-title>Routine versus selective antifungal administration for control of fungal infections in patients with cancer</article-title>. <source>Cochrane Database Syst Rev</source>. <year>2014</year>;<volume>2014</volume>:<elocation-id>CD000026</elocation-id>.<pub-id pub-id-type="pmid">11034669</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD000026</pub-id></mixed-citation></ref><ref id="cts13613-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cts13613-cit-0018">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bello</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dresser</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>Best practices for the use of itraconazole as a replacement for ketoconazole in drug‐drug interaction studies</article-title>. <source>J Clin Pharmacol</source>. <year>2016</year>;<volume>56</volume>:<fpage>143</fpage>‐<lpage>151</lpage>.<pub-id pub-id-type="pmid">26044116</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcph.562</pub-id></mixed-citation></ref><ref id="cts13613-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cts13613-cit-0019">
+<string-name name-style="western">
+<surname>Olkkola</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Backman</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neuvonen</surname>
+<given-names>PJ</given-names>
+</string-name>. <article-title>Midazolam should be avoided in patients receiving the systemic antimycotics ketoconazole or itraconazole</article-title>. <source>Clin Pharmacol Ther</source>. <year>1994</year>;<volume>55</volume>:<fpage>481</fpage>‐<lpage>485</lpage>.<pub-id pub-id-type="pmid">8181191</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/clpt.1994.60</pub-id></mixed-citation></ref><ref id="cts13613-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cts13613-cit-0020">
+<string-name name-style="western">
+<surname>Shimizu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uno</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sugawara</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tateishi</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Effects of single and multiple doses of itraconazole on the pharmacokinetics of fexofenadine, a substrate of P‐glycoprotein</article-title>. <source>Br J Clin Pharmacol</source>. <year>2006</year>;<volume>62</volume>:<fpage>372</fpage>‐<lpage>376</lpage>.<pub-id pub-id-type="pmid">16796706</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2125.2006.02689.x</pub-id><pub-id pub-id-type="pmcid">PMC1885140</pub-id></mixed-citation></ref><ref id="cts13613-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cts13613-cit-0021">
+<string-name name-style="western">
+<surname>Maruyama</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tobinai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Makita</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>First‐in‐human study of the EZH1/2 dual inhibitor DS‐3201b in patients with relapsed or refractory non‐Hodgkin lymphomas — preliminary results</article-title>. <source>Blood</source>. <year>2017</year>;<volume>130</volume>:<fpage>4070</fpage>.</mixed-citation></ref><ref id="cts13613-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cts13613-cit-0022">
+<string-name name-style="western">
+<surname>Tachibana</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsuki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toyama</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Safety, Tolerability, and Pharmacokinetics of Valemetostat Tablets and the Effect of Food on Valemetostat Pharmacokinetics in Healthy Subjects: Two Phase 1 Studies</article-title>. <source>Clin Pharmacol Drug Dev</source>. Online ahead of print.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpdd.1315</pub-id><pub-id pub-id-type="pmid">37565616</pub-id></mixed-citation></ref><ref id="cts13613-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cts13613-cit-0023">
+<string-name name-style="western">
+<surname>Coutant</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hall</surname>
+<given-names>SD</given-names>
+</string-name>. <article-title>Disease‐drug interactions in inflammatory states via effects on CYP‐mediated drug clearance</article-title>. <source>J Clin Pharmacol</source>. <year>2018</year>;<volume>58</volume>:<fpage>849</fpage>‐<lpage>863</lpage>.<pub-id pub-id-type="pmid">29505093</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcph.1093</pub-id></mixed-citation></ref></ref-list></back></article>
