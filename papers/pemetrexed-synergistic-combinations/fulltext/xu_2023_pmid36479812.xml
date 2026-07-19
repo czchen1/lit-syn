@@ -1,0 +1,632 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="jbma37436" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Biomed Mater Res A</journal-id><journal-id journal-id-type="iso-abbrev">J Biomed Mater Res A</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">JBM</journal-id><journal-title-group><journal-title>Journal of Biomedical Materials Research. Part a</journal-title></journal-title-group><issn pub-type="ppub">1549-3296</issn><issn pub-type="epub">1552-4965</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10087741</article-id><article-id pub-id-type="pmcid-ver">PMC10087741.1</article-id><article-id pub-id-type="pmcaid">10087741</article-id><article-id pub-id-type="pmcaiid">10087741</article-id><article-id pub-id-type="pmid">36479812</article-id><article-id pub-id-type="doi">10.1002/jbm.a.37436</article-id><article-id pub-id-type="publisher-id">JBMA37436</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Study on combination therapy for lung cancer through pemetrexed‐loaded mesoporous polydopamine nanoparticles</article-title><alt-title alt-title-type="left-running-head">Xu et al.</alt-title></title-group><contrib-group><contrib id="jbma37436-cr-0001" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="J">Jian</given-names></name><xref rid="jbma37436-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jbma37436-cr-0002" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="W">Wei</given-names></name><xref rid="jbma37436-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jbma37436-cr-0003" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="Z">Zhiqiang</given-names></name><xref rid="jbma37436-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jbma37436-cr-0004" contrib-type="author" corresp="yes"><name name-style="western"><surname>Jiang</surname><given-names initials="Y">Yuequan</given-names></name><xref rid="jbma37436-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>drjyq@163.com</email></address></contrib></contrib-group><aff id="jbma37436-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Chongqing Key Laboratory of Translational Research for Cancer Metastasis and Individualized Treatment</named-content>
+<institution>Chongqing University Cancer Hospital</institution>
+<city>Chongqing</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Yuequan Jiang, Chongqing Key Laboratory of Translational Research for Cancer Metastasis and Individualized Treatment, Chongqing University Cancer Hospital, Chongqing 400030, China.<break/>
+Email: <email>drjyq@163.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>8</month><year>2022</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2023</year></pub-date><volume>111</volume><issue seq="20">2</issue><issue-id pub-id-type="pmc-issue-id">433233</issue-id><issue-id pub-id-type="doi">10.1002/jbm.a.v111.2</issue-id><fpage>158</fpage><lpage>169</lpage><history>
+<date date-type="rev-recd"><day>30</day><month>6</month><year>2022</year></date>
+<date date-type="received"><day>23</day><month>3</month><year>2022</year></date>
+<date date-type="accepted"><day>28</day><month>7</month><year>2022</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>11</day><month>04</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>12</day><month>04</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-04-12 06:10:13.840"><day>12</day><month>04</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Journal of Biomedical Materials Research Part A</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JBM-111-158.pdf"><?pdf-name JBM-111-158.pdf?><?pdf-size 7414872?><?pdf-md5 b2a14b6e2e2e2bb98884926e4fcb5e2c?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:787c/10087741/b2a14b6e2e2e/JBM-111-158.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JBM-111-158.pdf"/><abstract><title>Abstract</title><p>Lung cancer is one of the most commonly diagnosed cancers, and surgical resection is the optimal choice for the primary lung tumor. But for the secondary lung cancer, chemotherapy and combined radiotherapy still are the main strategies. To realize the combined treatment for non‐small cell lung cancer (NSCLC), in this work, a nanoplatform based on pemetrexed (PE)‐loaded mesoporous polydopamine (MPDA) nanoparticles were investigated. PE, a special therapeutic drug for NSCLC, was loaded into the MPDA nanoparticles via electrostatic attraction and was encapsulated with polyvinyl pyrrolidone (PVP). The results showed that, when irradiating with 808 nm near‐infrared light, the PE loaded MPDA (MPDA@PE@PVP) nanoparticles have excellent photothermal conversion properties, which would result in increase of ambient temperature and could accelerate the release of PE. In vitro cell experiments proved that MPDA@PE@PVP nanoparticles have excellent killing ability for NSCLC A549 cells by the functions of PE and photothermal ability of MPDA nanoparticles. Meanwhile, the intra‐cellular reactive oxygen species (ROS) levels of A549 cells in the MPDA@PE@PVP nanoparticle‐treated group could be promoted significantly after irradiation, leading to the death of A549 cells. In vivo animal model results showed that MPDA@PE@PVP nanoparticles could gather at the tumor site by enhanced permeability and retention (EPR) effect and have significant inhibition ability for lung tumor by synergistic therapy of chemotherapy, photothermal therapy and photodynamic therapy.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jbma37436-kwd-0001">lung cancer</kwd><kwd id="jbma37436-kwd-0002">mesoporous polydopamine nanoparticles</kwd><kwd id="jbma37436-kwd-0003">pemetrexed</kwd><kwd id="jbma37436-kwd-0004">photodynamic therapy</kwd><kwd id="jbma37436-kwd-0005">photothermal therapy</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Chongqing Research Institute Performance Incentive and Guidance Special Key Project</funding-source><award-id>cstc2019jxjl130005</award-id></award-group><award-group id="funding-0002"><funding-source>Key Technology Project for Prevention and Control of Major Diseases in Chongqing</funding-source><award-id>2019ZX002</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="12"/><word-count count="6255"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC converted:11.04.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jbma37436-cit-9001">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Study on combination therapy for lung cancer through pemetrexed‐loaded mesoporous polydopamine nanoparticles</article-title>. <source>J Biomed Mater Res</source>. <year>2023</year>;<volume>111</volume>(<issue>2</issue>):<fpage>158</fpage>‐<lpage>169</lpage>. doi:<pub-id pub-id-type="doi">10.1002/jbm.a.37436</pub-id>
+<pub-id pub-id-type="pmcid">PMC10087741</pub-id><pub-id pub-id-type="pmid">36479812</pub-id></mixed-citation>
+</p><fn-group><fn id="jbma37436-note-1002"><p>
+<bold>Funding information</bold> Chongqing Research Institute Performance Incentive and Guidance Special Key Project, Grant/Award Number: cstc2019jxjl130005; Key Technology Project for Prevention and Control of Major Diseases in Chongqing, Grant/Award Number: 2019ZX002</p></fn></fn-group></notes></front><body id="jbma37436-body-0001"><sec id="jbma37436-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Lung cancer is one of the most commonly diagnosed cancers, which is considered to be the leading cause of death related to cancer.<xref rid="jbma37436-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Most carcinoma of lungs could not be diagnosed at the early stage, attributed to the typically asymptomatic during this stage. Lung cancer is classified as two types based on the histological differences: non‐small cell lung cancer (NSCLC) and small cell lung cancer (SCLC). NSCLC is the common type of lung cancer rate with 85%, and its global 5‐year survival rate is only approximately 5%.<xref rid="jbma37436-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="jbma37436-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Surgical resection is the optimal choice for the primary lung tumor. But for the secondary lung cancer, chemotherapy and combined radiotherapy still are the main strategies. However, chemotherapy is still unsatisfactory, such as insufficient intracellular uptake at tumor tissues, nonspecific target site concentrations, serious systemic toxicity of chemotherapeutic agents, and even developing drug resistance.<xref rid="jbma37436-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Therefore, it is urgent to exploit an alternative and/or complementary treatment modalities.</p><p>In recent years, combination therapy with chemotherapy and nanoparticle‐based phototherapy has attracted great attention.<xref rid="jbma37436-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> In photodynamic therapy (PDT), the photosensitizer (PS) in tumor tissues under the activation of excitation light can directly kill tumor cells through reactive oxygen species (ROS).<xref rid="jbma37436-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="jbma37436-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> In photothermal therapy (PTT), the photothermal conversion nanomaterials could convert light energy into heat to kill cancer cells.<xref rid="jbma37436-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Moreover, PTT and PDT can also induce various antitumor effects, such as triggering immune responses.<xref rid="jbma37436-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jbma37436-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Relative to mainstream treatments, PDT and PTT may safer without systematic side effects.<xref rid="jbma37436-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Furthermore, the use of nanoparticle incorporates the advantages of nanotechnology, such as targeting, drug‐loading, versatility and modifiability.<xref rid="jbma37436-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>Pemetrexed (PE) is approved as the first‐line therapy for NSCLC in 2008, which is a structurally novel multi‐targeted antifolate.<xref rid="jbma37436-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> It targets enzymes involved in the de novo biosynthesis of purines and pyrimidines, including thymidylate synthase (TS), glycinamide ribonucleotide formyltransferase (GARFT), dihydrofolate reductase (DHFR) and aminoidazole carboxamide ribonucleotide formyl transferase (AICARFT), thereby inducing DNA damage.<xref rid="jbma37436-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> At present, PE usually acts in combination with other drugs, also can be as subsequent and maintenance therapy in patients with advanced lung adenocarcinoma.<xref rid="jbma37436-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="jbma37436-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> However, PE is a hydrophilic molecule with very limited passive diffusion. Moreover, due to its low molecular, PE would be quickly eliminated from neoplastic tissue to blood circulation after administration.<xref rid="jbma37436-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Therefore, we need an efficient way to deliver PE on tumor tissue.</p><p>Polydopamine (PDA) is a versatile organic biopolymer produced from the oxidation of dopamine, which is an ideal material for surface coating of implants and nano drug carriers due to its good water solubility and biocompatibility.<xref rid="jbma37436-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Moreover, PDA has strong absorbance in the near‐infrared (NIR) region. Some researchers have proved that PDA has excellent photothermal conversion under the irradiation of 808 nm laser.<xref rid="jbma37436-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="jbma37436-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Furthermore, although PDA could scavenge ROS, it could promote the generation of ROS after exposing in NIR light.<xref rid="jbma37436-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="jbma37436-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> However, the limited surface area of PDA nanoparticles limits their application in loading drugs. Considering this, a few works have applied the mesoporous polydopamine (MPDA) nanoparticles for anti‐cancer drug delivery or cancer diagnosis.<xref rid="jbma37436-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="jbma37436-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p><p>To improve the drug loading efficiency of PDA nanoparticles, in this work, the MPDA nanoparticles were prepared with a template method. Then, PE could be loaded into MPDA nanoparticles by electrostatic attraction. To prevent prematurely PE leakage on the halfway, biocompatible polymer polyvinyl pyrrolidone (PVP) was used for the surface coating through hydrogen‐bonding interactions between carbonyl groups of PVP and phenolic hydroxyls on MPDA nanoparticles (Scheme <xref rid="jbma37436-fig-0008" ref-type="fig">1</xref>). The human NSCLC A549 cells and the human normal lung epithelial Beas‐2B cells were applied to examine its in vitro anti‐tumor activity. In vivo study was also performed to evaluate the effect of MPDA@PE@PVP nanoparticles in tumor treatment.</p><fig position="float" fig-type="SCHEME" id="jbma37436-fig-0008" orientation="portrait"><label>SCHEME 1</label><caption><p>Schematic depiction of MPDA@PE@PVP NPs and the mechanisms of intrigued antitumor. MPDA@PE@PVP NPs: polyvinyl pyrrolidone‐coated pemetrexed‐loading mesoporous polydopamine nanoparticles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JBM-111-158-g006.jpg"><?image-name JBM-111-158-g006.jpg?><?image-size 84994?><?image-md5 8642108c26be26c3280b85b2847428f6?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 634?><?image-original-width 1064?><?image-scaled-height 422?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/787c/10087741/8642108c26be/JBM-111-158-g006.jpg?><?thumb-name JBM-111-158-g006.gif?><?thumb-size 5256?><?thumb-md5 0feaf8f600218c93da7877af81a0cf31?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 134?><?thumb-cloudpmc-urn urn:cdn:blobs/787c/10087741/0feaf8f60021/JBM-111-158-g006.gif?></graphic></fig></sec><sec sec-type="materials-and-methods" id="jbma37436-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jbma37436-sec-0003"><label>2.1</label><title>Reagents and materials</title><p>Polyvinylpyrrolidone (PVP, 40,000 g/mol) and dopamine hydrochloride (98%, AR) were bought from Aladdin Biochemical Technology Co., Ltd (Shanghai, China). Pluronic F‐127 and 1, 3, 5‐trimethylbenzene (TMB, AR, 97%) were got from Sigma‐Aldrich (American). The human NSCLC A549 cells and human normal lung epithelium Beas‐2B cells were purchased from the Chinese Academy of Sciences (Shanghai, China). All cell culture and biochemical reagents were obtained from Thermo Fisher Scientific, Inc (Rockford, IL, USA), unless otherwise specified.</p></sec><sec id="jbma37436-sec-0004"><label>2.2</label><title>Preparation and characterization of <styled-content style="fixed-case" toggle="no">MPDA</styled-content> nanoparticles and <styled-content style="fixed-case" toggle="no">MPDA</styled-content>@<styled-content style="fixed-case" toggle="no">PE</styled-content>@<styled-content style="fixed-case" toggle="no">PVP</styled-content> nanoparticles</title><p>Mesoporous polydopamine nanoparticles were prepared according to the method of Cai's work.<xref rid="jbma37436-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Briefly, 360 mg TMB and 360 mg F127 were added together into the mixed solution of ethanol (60 ml) and deionized water (65 ml), followed by stirring at 30°C for half hour. Then, 60 mg dopamine hydrochloride was added into this solution and 10 ml TRIS solution (10 mg/ml in double distilled water) was added for reaction at 30°C for 24 hours. Then, collecting the product by centrifugation. After washing by sonication and centrifugation with the ethanol/acetone mixture for three times, the F127‐TMB template was removed. The final products were suspended in ethanol for further use.</p><p>Mesoporous polydopamine@pemetrexed nanoparticles were produced according to Stolarczyk's work.<xref rid="jbma37436-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Firstly, if 10 mg PE was dissolved in 100 ml hepes buffer, then 10 mg MPDA nanoparticles were added into this mixture and keep reacting at room temperature for 24 h. After centrifugation, the MPDA@PE nanoparticles were collected and suspended in 3 mg/ml PVP solution under a mild stirring overnight. Finally, PVP coated PE‐loading mesoporous polydopamine (MPDA@PE@PVP) nanoparticles were obtained by centrifugation.</p><p>Transmission electron microscopy (TEM, LIBRA 200 CS, Carl Zeiss Co., Germany) was applied to the microstructures, morphology and element changes of the prepared nanoparticles. A dynamic light scattering (DLS) instrument (Nano ZS90, Zetasizer England) was used to measure the size and zeta potential of nanoparticles. The photothermal conversion properties of nanoparticles were surveyed by measure the temperature changes under 808 nm laser irradiation. The release of PE was evaluated with an Ultraviolet–visible spectrophotometry (RF6000, Shimadzu, Japan) at 248 nm.</p></sec><sec id="jbma37436-sec-0005"><label>2.3</label><title>Cell culture</title><p>The human A549 cells and human Beas‐2B cells were cultured in DMEM (Gibco, Carlsbad, CA, USA) containing 10% fetal bovine serum (FBS, HyClone, Logan, UT, USA), and 100 U/ml penicillin/streptomycin in a humidified atmosphere with 5% CO<sub>2</sub> at 37 °C. The culture medium was renewed every third day.</p></sec><sec id="jbma37436-sec-0006"><label>2.4</label><title>In vitro cytotoxicity test</title><p>A CCK‐8 assay was performed to evaluate the cell viability according to the manufacturer's instructions. Briefly, A549 cells or Beas‐2B cells were seeded at a density of 5 × 10<sup>3</sup> cells/well in a 96‐well culture plate. After adherence, cells were serum‐starved overnight, and then treated with phosphate buffer solution (PBS), PE, MPDA nanoparticles, or MPDA@PE@PVP nanoparticles. After being treated with MPDA nanoparticles or MPDA@PE@PVP nanoparticles for 6 h, the cells were irradiated using the 808 nm NIR with a power of 1 W/cm<sup>2</sup> for 10 min. After 1, 2 or 4 days incubation, the CCK‐8 (0.5 mg/mL, Sigma‐Aldrich, St. Louis, MO, USA) was added into the 96‐well culture plate and incubated at 37 °C for 2 h. The luminescence was then quantified using a microplate reader (Molecular Devices, Shanghai, China). The relative cell viability was determined by normalizing the optical density (OD) value of the experimental group to that of the control group.</p></sec><sec id="jbma37436-sec-0007"><label>2.5</label><title>Measurement of <styled-content style="fixed-case" toggle="no">ROS</styled-content> generation</title><p>Reactive oxygen species was examined on fluorescence microscope. A549 cells were seeded at a density of 1 × 10<sup>4</sup> cells/well in a 48‐well culture plate. After adherence, A549 cells were serum‐starved overnight, and then treated with PBS, PE, MPDA nanoparticles, or MPDA@PE@PVP nanoparticles. The 808 nm NIR irradiation with a power of 1 W/cm<sup>2</sup> for 10 min was carried out after the cell treated with MPDA nanoparticles or MPDA@PE@PVP nanoparticles for 6 h. After 24 h, A549 cells were stained with 100 μl DCFH‐DA (10 μg/ml) for 20 min at 37°C and washed with serum‐free medium for three times. DCF fluorescence images were obtained on a fluorescence microscope (Olymps, Tokyo, Japan).</p><p>Reactive oxygen species examination on fluorescence microplate. A549 cells were seeded at a density of 5 × 10<sup>3</sup> cells/well in a 96‐well culture plate. After adherence, A549 cells were serum‐starved overnight, and then treated with PBS, PE, MPDA nanoparticles, or MPDA@PE@PVP nanoparticles. The 808 nm NIR irradiation with a pump power of 1 W/cm<sup>2</sup> for 10 min was carried out after the cell treated with MPDA nanoparticles or MPDA@PE@PVP nanoparticles for 6 h. After 24 h, A549 cells were stained with 100 μl DCFH‐DA (10 μg/ml) for 20 min at 37°C and washed with serum‐free medium for three times. The fluorescence intensity was measured in fluorescence microplate (BioTek, Vermont, USA).</p></sec><sec id="jbma37436-sec-0008"><label>2.6</label><title>Evaluation of antitumor efficiency in vivo</title><p>5 × 10<sup>6</sup> A549 cells suspended in 100 μl PBS were subcutaneously inoculated into 6‐week‐old male BALB/c nude mice at the right flank next to the hind limb (n = 40 in total, average weight: 16 g). Twenty‐one days later, the volume of each tumor was calculated according to the formula: V = 0.52 × A× B<sup>2</sup>, where A represents the largest diameter and B represents the perpendicular diameter. Xenografts with the volume approximately 500 mm<sup>3</sup> were selected and random grouped for the treatment (n = 5 each group). Then 25 μl of PE (1 μM), 15 μl of MPDA nanoparticles (25 μg/ml), or MPDA@PE@PVP nanoparticles (25 μg/ml) was administered by tail intravenous injection every three days for 15 days since the first treatment. 1 W/cm<sup>2</sup> of NIR irradiation was implemented for 300 seconds at center of the xenograft after the mice treated with MPDA@PE@PVP nanoparticles for 6 h (MPDA@PE@PVP NPs + NIR). The injection of saline group was served as control group. After 15 days, all mice were sacrificed to harvest the tumor tissues to weight as well as perform the H&amp;E staining and immunohistochemistry assay. All the animal studies were approved by the Laboratory Animal Welfare and Ethics Committee of Chongqing University (IACUC Issue No. CQU‐IACUC‐RE‐202113‐013) and performed strictly in accordance with the ARRIVE guidelines.</p></sec><sec id="jbma37436-sec-0009"><label>2.7</label><title>Statistical Analysis</title><p>All quantitative data are expressed as the means ± SD. The Student's <italic toggle="yes">t</italic>‐test was performed to analyze the differences between two groups. The comparison between multiple groups was calculated with one‐way analysis of variance (ANOVA). *<italic toggle="yes">p</italic> &lt; 0.05 or **<italic toggle="yes">p</italic> &lt; 0.01 was deemed to be statistically significant.</p></sec></sec><sec sec-type="results" id="jbma37436-sec-0010"><label>3</label><title>RESULTS</title><sec id="jbma37436-sec-0011"><label>3.1</label><title>Characterization of nanoparticles</title><p>As shown in Figure <xref rid="jbma37436-fig-0001" ref-type="fig">1A–C</xref>, the TEM images of MPDA nanoparticles and MPDA@PE@PVP nanoparticles were displayed, respectively. It can be observed that the size of MPDA nanoparticles was around 80 nm, and the porous structure in particles was observed obviously from the high‐angle annular dark‐field (HAADF) STEM image in Figure <xref rid="jbma37436-fig-0001" ref-type="fig">1D</xref>. After loading PE and coating with PVP, no obvious change was found in the size and structure of MPDA nanoparticles, but a thin polymer layer can be found around the nanoparticles. Because MPDA nanoparticles, PE and PVP have same elements of C and O in their structure, no obvious element change from the energy dispersive X‐ray spectroscopy (EDX) mapping (Figure E, F). As the results of DLS measurements (Figure <xref rid="jbma37436-fig-0002" ref-type="fig">2</xref>), the size of MPDA nanoparticles was about 105 nm, but the size of MPDA@PE@PVP nanoparticles was increased to about 130 nm because the encapsulation with PVP. Due to have high negative charge, the surface zeta potential of MPDA nanoparticles (about −12.1 mV) was more negative than MPDA@PE@PVP nanoparticles (around −3.5 mV).</p><fig position="float" fig-type="FIGURE" id="jbma37436-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>TEM photos of (A) MPDA NPs, (B) MPDA@PE@PVP NPs, (C) Partial magnification of MPDA@PE@PVP NPs (Red arrow: PVP), (D) HAADF STEM image for MPDA NPs and corresponding TEM elemental mappings: (E) element C and (F) element O. PE: pemetrexed; PVP: polyvinyl pyrrolidone; MPDA NPs: mesoporous polydopamine nanoparticles; MPDA@PE@PVP NPs: polyvinyl pyrrolidone‐coated pemetrexed‐loading mesoporous polydopamine nanoparticles</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JBM-111-158-g008.jpg"><?image-name JBM-111-158-g008.jpg?><?image-size 186149?><?image-md5 6ea20d8c4b39a3248c22456434699d74?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 756?><?image-original-width 1064?><?image-scaled-height 504?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/787c/10087741/6ea20d8c4b39/JBM-111-158-g008.jpg?><?thumb-name JBM-111-158-g008.gif?><?thumb-size 6405?><?thumb-md5 f362ad413ba538ae3f416c791f9a9227?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 112?><?thumb-cloudpmc-urn urn:cdn:blobs/787c/10087741/f362ad413ba5/JBM-111-158-g008.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="jbma37436-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Size distribution (A) and surface zeta potential (B) of MPDA NPs and MPDA@PE@PVP NPs (n = 3). PE: pemetrexed; PVP: polyvinyl pyrrolidone; MPDA NPs: mesoporous polydopamine nanoparticles; MPDA@PE@PVP NPs: polyvinyl pyrrolidone‐coated pemetrexed‐loading mesoporous polydopamine nanoparticles</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JBM-111-158-g005.jpg"><?image-name JBM-111-158-g005.jpg?><?image-size 44377?><?image-md5 89a6dcce7a85f84e1ecb3bef425541db?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 534?><?image-original-width 1064?><?image-scaled-height 356?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/787c/10087741/89a6dcce7a85/JBM-111-158-g005.jpg?><?thumb-name JBM-111-158-g005.gif?><?thumb-size 4029?><?thumb-md5 1e1718689a32d12c1796046fae792b8e?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 159?><?thumb-cloudpmc-urn urn:cdn:blobs/787c/10087741/1e1718689a32/JBM-111-158-g005.gif?></graphic></fig><p>The photothermal conversion performance of MPDA@PE@PVP nanoparticles was evaluated after 808 nm NIR illumination. And the curve of temperature variation at different particle concentrations is illustrated in Figure <xref rid="jbma37436-fig-0003" ref-type="fig">3A</xref>. Compared with the ordinary PBS, the solutions with different concentrations of MPDA@PE@PVP nanoparticles have obvious temperature elevation. There is hardly any temperature change in PBS after eradiating for 10 min. Meanwhile, with the increase of MPDA@PE@PVP nanoparticles in the solution, the temperature increased more obviously, especially for 0.1 mg/ml MPDA@PE@PVP nanoparticles. After eradiating for 10 min, the temperature in the solution including 0.1 mg/ml MPDA@PE@PVP nanoparticles could raise 30 °C. Considering the recycling irradiation of nanoparticles, we investigated the photothermal stability of MPDA@PE@PVP nanoparticles and found the negligible change of the highest temperature for MPDA@PE@PVP nanoparticles solution after 3 cycles laser irradiation (Figure <xref rid="jbma37436-fig-0003" ref-type="fig">3B</xref>).</p><fig position="float" fig-type="FIGURE" id="jbma37436-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>The photothermal conversion performance of MPDA@PE@PVP NPs. (A) The curve of temperature variation; (B) The photostability change of MPDA@PE@PVP NPs under 808 nm (1 W/cm<sup>2</sup>) irradiation for 3 cycles. MPDA@PE@PVP NPs: polyvinyl pyrrolidone‐coated pemetrexed‐loading mesoporous polydopamine nanoparticles</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JBM-111-158-g007.jpg"><?image-name JBM-111-158-g007.jpg?><?image-size 65759?><?image-md5 33e31d6718d27f589708cc3fec66c8f1?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 505?><?image-original-width 1064?><?image-scaled-height 337?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/787c/10087741/33e31d6718d2/JBM-111-158-g007.jpg?><?thumb-name JBM-111-158-g007.gif?><?thumb-size 5657?><?thumb-md5 d4b48550d448268680a5ac8e9a52fb0c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 168?><?thumb-cloudpmc-urn urn:cdn:blobs/787c/10087741/d4b48550d448/JBM-111-158-g007.gif?></graphic></fig><p>The loading ratio of PE in MPDA@PE@PVP nanoparticles was investigated from the ultraviolet spectrophotometry at 248 nm (Figure <xref rid="jbma37436-supitem-0001" ref-type="supplementary-material">S1</xref>), the calculated drug encapsulation efficiency in MPDA@PE@PVP nanoparticles was about 660.48 μg/mg (wt%, PE/MPDA). According to the requests of experiments, the PE release was detected after subjected to NIR irradiation or not. As shown in the cumulative release curves (Figure <xref rid="jbma37436-fig-0004" ref-type="fig">4</xref>), PE can be released slowly from MPDA@PE@PVP nanoparticles in PBS without NIR irradiation. But when exposing in 808 nm NIR light for 5 min, the release ratio was accelerated obviously, the cumulative amount of PE can reach to 60% after 4 days.</p><fig position="float" fig-type="FIGURE" id="jbma37436-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>The cumulative release curves of PE with and without 808 nm NIR irradiation. PE, pemetrexed</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="JBM-111-158-g003.jpg"><?image-name JBM-111-158-g003.jpg?><?image-size 59750?><?image-md5 f412461aadf33e670e4abb94712195e0?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 959?><?image-original-width 1064?><?image-scaled-height 639?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/787c/10087741/f412461aadf3/JBM-111-158-g003.jpg?><?thumb-name JBM-111-158-g003.gif?><?thumb-size 3050?><?thumb-md5 4392afbe377dbc3a9a1735413d9dcb93?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 90?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/787c/10087741/4392afbe377d/JBM-111-158-g003.gif?></graphic></fig></sec><sec id="jbma37436-sec-0012"><label>3.2</label><title>In vitro cytotoxicity test</title><p>As shown in Figure <xref rid="jbma37436-fig-0005" ref-type="fig">5A, B</xref>, the 50% inhibiting concentration (IC50) value for PE on A549 cells and Beas‐2B cells was found to be around 1 μM and 10 μM, respectively. At the same concentration, the toxicity of PE to A549 cells was greater than Beas‐2B cells. According to the drug loading and release rate of nanoparticles, the PE release concentration was about 1 μM after MPDA@PE@PVP nanoparticles (25 μg/ml) treatment for 48 hours. Moreover, the temperature rises of 0.025 mg/ml MPDA@PE@PVP nanoparticles can reach 7 °C after 808 nm NIR illumination 10 min. Therefore, the MPDA@PE@PVP nanoparticles at a concentration of 25 μg/ml were used for the following test. The MPDA nanoparticles at a concentration of 25 μg/ml had no obvious killing effect on A549 cells (Figure <xref rid="jbma37436-fig-0005" ref-type="fig">5C, D</xref>). However, the cell viability of A549 cells dramatically inhibited by MPDA@PE@PVP nanoparticles (25 μg/ml), and the inhibitory effect of MPDA@PE@PVP nanoparticles was further strengthened after 808 nm NIR illumination.</p><fig position="float" fig-type="FIGURE" id="jbma37436-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>CCK‐8 assay was performed to examine the cytotoxic. The relative cell viability of Beas‐2B cells (A) and A549 cells (B) after PE‐treated for 1, 2 and 3 days. <italic toggle="yes">n</italic> = 3. Data are shown as the mean ± SD (*<italic toggle="yes">P</italic> &lt; 0.05 and **<italic toggle="yes">P</italic> &lt; 0.01 vs. 0 μM). The relative cell viability of A549 after treated with PE, MPDA NPs, MPDA@PE@PVP NPs, MPDA NPs+NIR or MPDA@PE@PVP NPs+NIR for 1 day (C) and 4 day (D). The 808 nm NIR irradiation with a pump power of 1 W/cm<sup>2</sup> for 10 min was carried out after the cell treated with MPDA NPs or MPDA@PE@PVP NPs for 6 h. <italic toggle="yes">n</italic> = 3. Data are shown as the mean ± SD (*<italic toggle="yes">P</italic> &lt; 0.05 and **<italic toggle="yes">P</italic> &lt; 0.01). PE, pemetrexed; NIR, near‐infrared; PVP, polyvinyl pyrrolidone; MPDA NPs, mesoporous polydopamine nanoparticles; MPDA@PE@PVP NPs, polyvinyl pyrrolidone‐coated pemetrexed‐loading mesoporous polydopamine nanoparticles</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="JBM-111-158-g001.jpg"><?image-name JBM-111-158-g001.jpg?><?image-size 115893?><?image-md5 6a72721080c63c19dab6b60bac14c3c4?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 898?><?image-original-width 1064?><?image-scaled-height 598?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/787c/10087741/6a72721080c6/JBM-111-158-g001.jpg?><?thumb-name JBM-111-158-g001.gif?><?thumb-size 4737?><?thumb-md5 12e1ff3e4d5b982cd33a21a5c2ddc288?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 84?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/787c/10087741/12e1ff3e4d5b/JBM-111-158-g001.gif?></graphic></fig></sec><sec id="jbma37436-sec-0013"><label>3.3</label><title>
+<styled-content style="fixed-case" toggle="no">ROS</styled-content> levels</title><p>We further explored the effect of MPDA@PE@PVP nanoparticles on ROS production in A549 cells. As shown in Figure <xref rid="jbma37436-fig-0006" ref-type="fig">6</xref>, PE could cause a significant increase of ROS levels in A549 cells. Although MPDA nanoparticles decreased the ROS levels in A549 cells, the NIR irradiation could promote a significant increase in ROS levels in MPDA‐treated A549 cells. The ROS levels were also increased significantly in MPDA@PE@PVP nanoparticles treatment group. Moreover, although the number of A549 cells was significantly reduced under the influence of MPDA@PE@PVP nanoparticles plus with NIR irradiation treatment, the total ROS levels were further increased compared to MPDA@PE@PVP nanoparticle‐treated alone.</p><fig position="float" fig-type="FIGURE" id="jbma37436-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Determination of cellular reactive oxygen species (ROS) by DCFDA assay in A549 cells. (A) Morphologic appearance of A549 cells after treated with PE, MPDA NPs, MPDA@PE@PVP NPs, MPDA NPs+NIR or MPDA@PE@PVP NPs+NIR for 1 day. Bars = 100 μm; (B) ROS examination on fluorescence microscope. Bars = 100 μm; (C) ROS examination on fluorescence microplate. <italic toggle="yes">n</italic> = 3. Data are shown as the mean ± SD (*<italic toggle="yes">P</italic> &lt; 0.05 and **<italic toggle="yes">P</italic> &lt; 0.01). PE, pemetrexed; NIR, near‐infrared; PVP, polyvinyl pyrrolidone; MPDA NPs, mesoporous polydopamine nanoparticles; MPDA@PE@PVP NPs, polyvinyl pyrrolidone‐coated pemetrexed‐loading mesoporous polydopamine nanoparticles</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="JBM-111-158-g004.jpg"><?image-name JBM-111-158-g004.jpg?><?image-size 325977?><?image-md5 1c5757021bdb4a93563f527943db8e69?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1463?><?image-original-width 1064?><?image-scaled-height 975?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/787c/10087741/1c5757021bdb/JBM-111-158-g004.jpg?><?thumb-name JBM-111-158-g004.gif?><?thumb-size 8539?><?thumb-md5 842013e02029f1b6d0ee228057eac59e?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 138?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/787c/10087741/842013e02029/JBM-111-158-g004.gif?></graphic></fig></sec><sec id="jbma37436-sec-0014"><label>3.4</label><title>In vivo anti‐tumor efficacy</title><p>The anti‐tumor effect of MPDA@PE@PVP nanoparticles was also investigated in animal model. Firstly, the thermal effect of MPDA@PE@PVP nanoparticles in vivo was detected. Our data showed that NIR irradiation (1 W/cm<sup>2</sup>) for 300 seconds could gradually increase the local temperature of tumor from about 31°C to 54°C in the MPDA@PE@PVP nanoparticles group, while the temperature increase of the saline control group was more moderate, only up to about 38°C (Figure <xref rid="jbma37436-fig-0007" ref-type="fig">7A</xref>). Because the temperature above 42°C will produce thermal ablation effect, we gave 180 seconds of NIR irradiation to the MPDA@PE@PVP nanoparticles group in the subsequent experiments. Next, our study found that within 15 days, the tumor volume of the saline group gradually increased from 500 mm<sup>3</sup> to about 1100 mm<sup>3</sup>, while the tumor volume of the PE or MPDA nanoparticles treated group only increased slightly, about to 580 mm<sup>3</sup>, indicating that PE or MPDA nanoparticles could delay the growth of tumors. However, the tumor volume of the MPDA@PE@PVP nanoparticles treated group was significantly reduced, and the final volume was about 300 mm<sup>3</sup>, indicating that MPDA@PE@PVP nanoparticles have the ability to target and inhibit tumor growth. In addition, we found that NIR irradiation could further inhibit tumor growth and reduce the tumor volume to about 150mm<sup>3</sup> in MPDA@PE@PVP nanoparticles group, suggesting the MPDA nanoparticles have well photothermal capability to mediate PTT treating tumors in vivo (Figure <xref rid="jbma37436-fig-0007" ref-type="fig">7B</xref>). Consistent with the results of tumor volumes, tumor weights in each group showed the same trend (Figure <xref rid="jbma37436-fig-0007" ref-type="fig">7C</xref>). Further H&amp;E analysis found that MPDA@PE@PVP nanoparticles plus with NIR irradiation treatment could make the dense structure inside the tumor unsound and generate ablation vesicles. Immunohistochemical analysis also confirmed that PE, MPDA nanoparticles or MPDA@PE@PVP nanoparticles treatment could inhibit the expression of tumor proliferation‐related marker Ki67 and up‐regulate the expression of apoptosis effector molecule cleaved caspase‐3. Compared with the above treatment groups, the down‐regulation of ki67 and the up‐regulation of cleaved caspase‐3 in the MPDA@PE@PVP nanoparticles plus with NIR irradiation treatment group were most significant (Figure <xref rid="jbma37436-fig-0007" ref-type="fig">7D</xref>). These results indicate that MPDA@PE@PVP nanoparticles plus with NIR has significant anti‐tumor advantages.</p><fig position="float" fig-type="FIGURE" id="jbma37436-fig-0007" orientation="portrait"><label>FIGURE 7</label><caption><p>In vivo anti‐tumor efficacy. (A) The thermal effect of MPDA@PE@PVP NPs in vivo was detected at each timepoint after NIR irradiation (1 W/cm<sup>2</sup>), saline treated tumor served as control. (B) The line graph showing the dynamic changes of tumor volume in each group every 5 days for 15 days (<italic toggle="yes">n</italic> = 5). Data are shown as the mean ± SD (*<italic toggle="yes">P</italic> &lt; 0.05 vs. saline group; <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; 0.05 vs. MPDA NPs group; <sup>§</sup>
+<italic toggle="yes">P</italic> &lt; 0.05 vs. MPDA@PE@PVP NPs group). (C) Tumors were harvested, and the weight of tumors in each group was measured and is shown in a scatter plot (<italic toggle="yes">n</italic> = 5). Data are shown as the mean ± SD (*<italic toggle="yes">P</italic> &lt; 0.05 vs. saline group; <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; 0.05 vs. MPDA NPs group; <sup>§</sup>
+<italic toggle="yes">P</italic> &lt; 0.05 vs. MPDA@PE@PVP NPs group). (D) Representative microphotographs showing H&amp;E staining and immunohistochemical staining analysis the expression of Ki67 and cleaved caspase‐3 in each treated group (magnification × 200). PE, pemetrexed; NIR, near‐infrared; PVP, polyvinyl pyrrolidone; MPDA NPs, mesoporous polydopamine nanoparticles; MPDA@PE@PVP NPs, polyvinyl pyrrolidone‐coated pemetrexed‐loading mesoporous polydopamine nanoparticles</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-15" orientation="portrait" xlink:href="JBM-111-158-g002.jpg"><?image-name JBM-111-158-g002.jpg?><?image-size 293662?><?image-md5 1c23ce3d6f5ef664a6910e8596ed79b5?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1340?><?image-original-width 1064?><?image-scaled-height 893?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/787c/10087741/1c23ce3d6f5e/JBM-111-158-g002.jpg?><?thumb-name JBM-111-158-g002.gif?><?thumb-size 8689?><?thumb-md5 81d31342f0897900df020267d3cc852e?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 126?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/787c/10087741/81d31342f089/JBM-111-158-g002.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="jbma37436-sec-0015"><label>4</label><title>DISCUSSION</title><p>Dopamine is an organic chemical of the catecholamine and phenethylamine families, which has a unique role in motivational behavior in human beings. It is a neuromodulatory molecule that plays several important roles in cells.<xref rid="jbma37436-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> At pH around 8.5, polymerization of dopamine to PDA can be formed quickly through oxidation, which is a fast irreversible reaction. During the polymerization of dopamine, the MPDA nanoparticles would be formed if the F127‐TMB template was introduced in this process. As shown in Figure <xref rid="jbma37436-fig-0001" ref-type="fig">1</xref>, the formed MPDA nanoparticles have a regular sphere with the size of 80 nm and typical mesopores characteristics. Because having good biocompatibility and high drug loading efficacy, MPDA nanoparticles are an ideal carrier for drug delivery. Moreover, when used for cancer treatment, PDA and MPDA nanoparticles have potential as photothermal agents and can be used to modulate NIR responsive. Due to high selectivity and minimal invasiveness, the nano therapeutic system based on MPDA nanoparticles is of a powerful technique for cancer treatment, which includes chemotherapy, PTT and PDT. So, in this work, MPDA was adopted as the PE carrier for the treatment of lung cancer.</p><p>To improve drug stability in PBS and systemic circulation, as well as prevent the premature leakage of loaded PE, a hydrophilic polymer PVP was applied to package PE‐loaded MPDA nanoparticles by hydrogen bonds. The MPDA nanoparticles were prepared according to the method of Cai's work.<xref rid="jbma37436-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> They demonstrated that the surface modification by hydrophilic PVP made the MPDA nanoparticles much more stable in aqueous solution. From the TEM results, after coating with PVP, a thin polymer layer was observed around MPDA nanoparticle. The results of DLS showed that the size change of MPDA nanoparticles from 105 nm to 130 nm because the encapsulation with PVP. Moreover, the surface zeta potential for MPDA nanoparticles proved the success of PVP coating.</p><p>Photothermal therapy is one of the candidate reason for MPDA nanoparticles adopted in this work. So the photothermal conversion capability of MPDA@PE@PVP nanoparticles was evaluated. From the curve of temperature variation (Figure <xref rid="jbma37436-fig-0003" ref-type="fig">3</xref>), MPDA@PE@PVP nanoparticles have obvious temperature elevation compared with PBS. Taking consider the particle concentration and irradiation time, the temperature rises of 0.025 mg/ml MPDA@PE@PVP NPs after eradiating 10 min can reach 7 °C which was a feasible candidate for the following test. Considering the recycling irradiation of nanoparticles, we investigated the photothermal stability of MPDA@PE@PVP nanoparticles. The results showed that the change of the highest temperature for PDA@PE@PVP nanoparticles solution after 3 cycle's laser irradiation was negligible. The photothermal conversion experiments proved that MPDA@PE@PVP nanoparticles have excellent photothermal conversion capability and photothermal stability. Because PE was packaged into MPDA through PVP coating, the release of PE from MPDA nanoparticles could be controlled by NIR irradiation. The hydrogen bonds between PVP and MPDA could be broken along with the temperature rise. After irradiating with 808 nm near infrared light for 5 min, the release ratio was accelerated obviously, the cumulative amount of PE can reach to 60% after 4 days.</p><p>PE inhibits DNA and RNA synthesis which is currently one of the first‐line agents for lung adenocarcinoma treatment.<xref rid="jbma37436-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> However, the patients often become resistant to the PE. Therefore, the PE usually acts in combination with other drugs. Some studies showed that combination therapy, by using chemotherapy and phototherapies, can promote synergistic effect against for cancer with the elimination of drug resistance, and enhancement of the efficacy of tumor treatment.<xref rid="jbma37436-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> In our study, PE significantly decreased the cell viability of A549 cells. The IC50 value of PE on A549 cells was 1 μM. According to the drug loading and release rate of the nanoparticles, the PE release concentration was about 1 μM after 25 μg/ml MPDA@PE@PVP nanoparticles treatment for 48 hours. The MPDA nanoparticles (25 μg/ml) had no obvious killing effect on A549 cells, and MPDA@PE@PVP nanoparticles (25 μg/ml) could further inhibit the cell viability of A549 cells compared PE‐treated alone. Furthermore, the MPDA nanoparticles or MPDA@PE@PVP nanoparticles under the NIR irradiation could further inhibit the cell viability of A549 cells compared to MPDA nanoparticles or MPDA@PE@PVP nanoparticles treatment alone. These results suggested that combination therapy with PE and MPDA nanoparticle‐based phototherapies promote synergistic effect against for A549 cells. Moreover, some studies suggested that nanoparticle PTT agents can sensitize chemotherapy possibly by destroying cell membrane integrity after NIR illumination, resulting in an increased tumor local drug concentration.<xref rid="jbma37436-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Therefore, the MPDA nanoparticles can not only as an ideal nanocarrier to deliver PE but also as a nanoparticle PTT agent to enhance the therapeutic efficacy.</p><p>Reactive oxygen species are a group of short‐lived, highly reactive, oxygen‐containing molecules, which are considered to be normal byproducts of numerous cellular processes.<xref rid="jbma37436-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> ROS have a dual role in cell metabolism: at low to moderate levels, ROS act as signal transducers to activate cell proliferation, migration, invasion, and angiogenesis. In contrast, high levels of ROS cause damage to proteins, nucleic acids, lipids, membranes, and organelles, leading to cell death.<xref rid="jbma37436-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Compared to normal cells, the cancer cells can produce more ROS, which is very important for the growth and metastasis of cancer cells.<xref rid="jbma37436-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> However, by promoting the levels of ROS in cancer cells also become an effective way to kill tumor cells. Some studies showed that PE induces DNA damage, growth arrest and apoptosis in human melanoma cells, malignant mesothelioma and lung cancer cells via ROS accumulation.<xref rid="jbma37436-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="jbma37436-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Our results also demonstrated that PE could increase the ROS levels in A549 cells. MPDA nanoparticles decreased the ROS levels in A549 cells, however, the MPDA nanoparticles plus with NIR irradiation could promote a significant increase in ROS levels. This finding is also consistent with other researchers.<xref rid="jbma37436-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="jbma37436-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> Although the number of A549 cells was significantly reduced under the influence of MPDA@PE@PVP nanoparticles plus with NIR irradiation, the total ROS levels are further increase compared to PE or MPDA@PE@PVP nanoparticles treated alone. Therefore, the MPDA@PE@PVP nanoparticles may have higher cytotoxicity to A549 cells by increasing the levels of ROS.</p><p>In our study, the anti‐tumor effect of MPDA@PE@PVP nanoparticles was also investigated in animal model. The results showed that MPDA@PE@PVP nanoparticles plus with NIR irradiation has significant anti‐tumor advantages in vivo. However, we only subcutaneous transplanted tumor model, and it remains to be further verified whether MPDA@PE@PVP nanoparticles plus with NIR irradiation has the same killing effect on orthotropic tumors deep in the body. And how to accurately give directional NIR irradiation inside the body is also a problem to be urgently solved. It would also be interesting to explore whether our materials also have other thermal effects in response to microwaves or electromagnetic pulses. These findings may greatly increase the possibility of its clinical application.</p></sec><sec sec-type="conclusions" id="jbma37436-sec-0016"><label>5</label><title>CONCLUSIONS</title><p>During the past years, extensive research has been carried out on developing combined treatment of NIR induced PTT, PDT and chemotherapy to augment the cytotoxicity of chemotherapeutic agents. In our current work, MPDA nanoparticles were developed for the delivery of PE to treat NSCLC. At the in vitro level, MPDA@PE@PVP nanoparticles under NIR exposure displayed excellent killing tumor cells ability and significantly promoted intra‐cellular ROS levels. At the in vivo level, the MPDA@PE@PVP nanoparticles under NIR exposure still showed a significant anti‐tumor advantages. Synergistic therapy of chemotherapy, PTT and PDT exhibits great potential to improve the therapeutic efficiency for NSCLC therapy.</p></sec><sec sec-type="COI-statement" id="jbma37436-sec-0017"><title>CONFLICTS OF INTEREST</title><p>The authors indicate no potential conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jbma37436-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S1</bold> The standard curve of pemetrexed. The loading ratio of pemetrexed in MPDA@PE@PVP NPs was investigated from the ultraviolet spectrophotometry at 248 nm. MPDA@PE@PVP NPs: polyvinyl pyrrolidone coated pemetrexed‐loading mesoporous polydopamine nanoparticles.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JBM-111-158-s001.docx" position="float" orientation="portrait"><?suppdata-name JBM-111-158-s001.docx?><?suppdata-size 99925?><?suppdata-md5 6081cf7b2b58058b4d5edf3cb1627c62?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:787c/10087741/6081cf7b2b58/JBM-111-158-s001.docx?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jbma37436-sec-0018"><title>ACKNOWLEDGMENTS</title><p>This work was supported by the Chongqing Research Institute Performance Incentive and Guidance Special Key Project (No. cstc2019jxjl130005), and the Key Technology Project for Prevention and Control of Major Diseases in Chongqing (No. 2019ZX002).</p></ack><sec sec-type="data-availability" id="jbma37436-sec-0020"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="jbma37436-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="jbma37436-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jbma37436-cit-0001">
+<string-name name-style="western">
+<surname>Torre</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lortet‐Tieulent</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Global cancer statistics, 2012</article-title>. <source>CA Cancer J Clin</source>. <year>2015</year>;<volume>65</volume>:<fpage>87</fpage>‐<lpage>108</lpage>. doi:<pub-id pub-id-type="doi">10.3322/caac.21262</pub-id>
+<pub-id pub-id-type="pmid">25651787</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jbma37436-cit-0002">
+<string-name name-style="western">
+<surname>Blandin Knight</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crosbie</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balata</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chudziak</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hussell</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dive</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Progress and prospects of early detection in lung cancer</article-title>. <source>Open Biol</source>. <year>2017</year>;<volume>7</volume>:<elocation-id>170070</elocation-id>. doi:<pub-id pub-id-type="doi">10.1098/rsob.170070</pub-id>
+<pub-id pub-id-type="pmid">28878044</pub-id><pub-id pub-id-type="pmcid">PMC5627048</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jbma37436-cit-0003">
+<string-name name-style="western">
+<surname>Ye</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gan</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>New insights into long non‐coding RNAs in non‐small cell lung cancer</article-title>. <source>Biomed Pharmacother</source>. <year>2020</year>;<volume>131</volume>:<elocation-id>110775</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.biopha.2020.110775</pub-id>
+<pub-id pub-id-type="pmid">33152934</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jbma37436-cit-0004">
+<string-name name-style="western">
+<surname>Weeks</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Catalano</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cronin</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Patients' expectations about effects of chemotherapy for advanced cancer</article-title>. <source>N Engl J Med</source>. <year>2012</year>;<volume>367</volume>:<fpage>1616</fpage>‐<lpage>1625</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMoa1204410</pub-id>
+<pub-id pub-id-type="pmid">23094723</pub-id><pub-id pub-id-type="pmcid">PMC3613151</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jbma37436-cit-0005">
+<string-name name-style="western">
+<surname>Hou</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>XX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>RQ</given-names>
+</string-name>, et al. <article-title>Pathological mechanism of photodynamic therapy and photothermal therapy based on nanoparticles</article-title>. <source>Int J Nanomedicine</source>. <year>2020</year>;<volume>15</volume>:<fpage>6827</fpage>‐<lpage>6838</lpage>. doi:<pub-id pub-id-type="doi">10.2147/IJN.S269321</pub-id>
+<pub-id pub-id-type="pmid">32982235</pub-id><pub-id pub-id-type="pmcid">PMC7501968</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jbma37436-cit-0006">
+<string-name name-style="western">
+<surname>Calixto</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bernegossi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Freitas</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fontana</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chorilli</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Nanotechnology‐based drug delivery systems for photodynamic therapy of cancer: a review</article-title>. <source>Molecules</source>. <year>2016</year>;<volume>21</volume>:<fpage>342</fpage>. doi:<pub-id pub-id-type="doi">10.3390/molecules21030342</pub-id>
+<pub-id pub-id-type="pmid">26978341</pub-id><pub-id pub-id-type="pmcid">PMC6274468</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jbma37436-cit-0007">
+<string-name name-style="western">
+<surname>Garg</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dudek</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>GB</given-names>
+</string-name>, et al. <article-title>ROS‐induced autophagy in cancer cells assists in evasion from determinants of immunogenic cell death</article-title>. <source>Autophagy</source>. <year>2013</year>;<volume>9</volume>:<fpage>1292</fpage>‐<lpage>1307</lpage>. doi:<pub-id pub-id-type="doi">10.4161/auto.25399</pub-id>
+<pub-id pub-id-type="pmid">23800749</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jbma37436-cit-0008">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>One‐pot solventless preparation of PEGylated black phosphorus nanoparticles for photoacoustic imaging and photothermal therapy of cancer</article-title>. <source>Biomaterials</source>. <year>2016</year>;<volume>91</volume>:<fpage>81</fpage>‐<lpage>89</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.biomaterials.2016.03.022</pub-id>
+<pub-id pub-id-type="pmid">27017578</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jbma37436-cit-0009">
+<string-name name-style="western">
+<surname>Hou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Nanoparticle‐based photothermal and photodynamic immunotherapy for tumor treatment</article-title>. <source>Int J Cancer</source>. <year>2018</year>;<volume>143</volume>:<fpage>3050</fpage>‐<lpage>3060</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ijc.31717</pub-id>
+<pub-id pub-id-type="pmid">29981170</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jbma37436-cit-0010">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Targeting photodynamic and photothermal therapy to the endoplasmic reticulum enhances immunogenic cancer cell death</article-title>. <source>Nat Commun</source>. <year>2019</year>;<volume>10</volume>:<fpage>3349</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41467-019-11269-8</pub-id>
+<pub-id pub-id-type="pmid">31350406</pub-id><pub-id pub-id-type="pmcid">PMC6659660</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jbma37436-cit-0011">
+<string-name name-style="western">
+<surname>Kadkhoda</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tarighatnia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barar</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aghanejad</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davaran</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Recent advances and trends in nanoparticles based photothermal and photodynamic therapy</article-title>. <source>Photodiagnosis Photodyn Ther</source>. <year>2021</year>;<volume>37</volume>:<elocation-id>102697</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.pdpdt.2021.102697</pub-id>
+<pub-id pub-id-type="pmid">34936918</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jbma37436-cit-0012">
+<string-name name-style="western">
+<surname>Fan</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yung</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Nanotechnology for multimodal synergistic cancer therapy</article-title>. <source>Chem Rev</source>. <year>2017</year>;<volume>117</volume>:<fpage>13566</fpage>‐<lpage>13638</lpage>. doi:<pub-id pub-id-type="doi">10.1021/acs.chemrev.7b00258</pub-id>
+<pub-id pub-id-type="pmid">29048884</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jbma37436-cit-0013">
+<string-name name-style="western">
+<surname>Hsu</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wakelee</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Pemetrexed disodium for the treatment of NSCLC: an update</article-title>. <source>Drugs Today (Barc)</source>. <year>2008</year>;<volume>44</volume>:<fpage>669</fpage>‐<lpage>678</lpage>. doi:<pub-id pub-id-type="doi">10.1358/dot.2008.44.9.1250412</pub-id>
+<pub-id pub-id-type="pmid">19137122</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jbma37436-cit-0014">
+<string-name name-style="western">
+<surname>Chattopadhyay</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moran</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldman</surname>
+<given-names>ID</given-names>
+</string-name>. <article-title>Pemetrexed: biochemical and cellular pharmacology, mechanisms, and clinical applications</article-title>. <source>Mol Cancer Ther</source>. <year>2007</year>;<volume>6</volume>:<fpage>404</fpage>‐<lpage>417</lpage>. doi:<pub-id pub-id-type="doi">10.1158/1535-7163.MCT-06-0343</pub-id>
+<pub-id pub-id-type="pmid">17308042</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jbma37436-cit-0015">
+<string-name name-style="western">
+<surname>Sakai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsuboi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kenmotsu</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Tumor mutation burden as a biomarker for lung cancer patients treated with pemetrexed and cisplatin (the JIPANG‐TR)</article-title>. <source>Cancer Sci</source>. <year>2021</year>;<volume>112</volume>:<fpage>388</fpage>‐<lpage>396</lpage>. doi:<pub-id pub-id-type="doi">10.1111/cas.14730</pub-id>
+<pub-id pub-id-type="pmid">33185928</pub-id><pub-id pub-id-type="pmcid">PMC7780021</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jbma37436-cit-0016">
+<string-name name-style="western">
+<surname>Asahina</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morita</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>A phase II study of osimertinib combined with platinum plus pemetrexed in patients with EGFR‐mutated advanced non‐small‐cell lung cancer: the OPAL study (NEJ032C/LOGIK1801)</article-title>. <source>Clin Lung Cancer</source>. <year>2021</year>;<volume>22</volume>:<fpage>147</fpage>‐<lpage>151</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.cllc.2020.09.023</pub-id>
+<pub-id pub-id-type="pmid">33199228</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jbma37436-cit-0017">
+<string-name name-style="western">
+<surname>Ando</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kobayashi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abu Lila</surname>
+<given-names>AS</given-names>
+</string-name>, et al. <article-title>Advanced therapeutic approach for the treatment of malignant pleural mesothelioma via the intrapleural administration of liposomal pemetrexed</article-title>. <source>J Control Release</source>. <year>2015</year>;<volume>220</volume>:<fpage>29</fpage>‐<lpage>36</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jconrel.2015.10.019</pub-id>
+<pub-id pub-id-type="pmid">26476173</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jbma37436-cit-0018">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yin</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Polydopamine‐based nanomaterials and their potentials in advanced drug delivery and therapy</article-title>. <source>Colloids Surf B Biointerfaces</source>. <year>2021</year>;<volume>199</volume>:<elocation-id>111502</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.colsurfb.2020.111502</pub-id>
+<pub-id pub-id-type="pmid">33387795</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jbma37436-cit-0019">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xing</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Single 808 nm near‐infrared‐triggered multifunctional upconverting phototheranostic nanocomposite for imaging‐guided high‐efficiency treatment of tumors</article-title>. <source>J Biophotonics</source>. <year>2021</year>;<volume>14</volume>:<elocation-id>e202100134</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/jbio.202100134</pub-id>
+<pub-id pub-id-type="pmid">34115430</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jbma37436-cit-0020">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lv</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>A core/shell/satellite anticancer platform for 808 NIR light‐driven multimodal imaging and combined chemo−/photothermal therapy</article-title>. <source>Nanoscale</source>. <year>2015</year>;<volume>7</volume>:<fpage>13747</fpage>‐<lpage>13758</lpage>. doi:<pub-id pub-id-type="doi">10.1039/c5nr03085d</pub-id>
+<pub-id pub-id-type="pmid">26220401</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jbma37436-cit-0021">
+<string-name name-style="western">
+<surname>Hu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Mesoporous polydopamine‐based multifunctional nanoparticles for enhanced cancer phototherapy</article-title>. <source>J Colloid Interface Sci</source>. <year>2022</year>;<volume>612</volume>:<fpage>246</fpage>‐<lpage>260</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jcis.2021.12.172</pub-id>
+<pub-id pub-id-type="pmid">34995863</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jbma37436-cit-0022">
+<string-name name-style="western">
+<surname>Su</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Photo‐enhanced antibacterial activity of polydopamine‐curcumin nanocomposites with excellent photodynamic and photothermal abilities</article-title>. <source>Photodiagnosis Photodyn Ther</source>. <year>2021</year>;<volume>35</volume>:<elocation-id>102417</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.pdpdt.2021.102417</pub-id>
+<pub-id pub-id-type="pmid">34186263</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jbma37436-cit-0023">
+<string-name name-style="western">
+<surname>Xing</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Mesoporous polydopamine nanoparticles with co‐delivery function for overcoming multidrug resistance via synergistic chemo‐photothermal therapy</article-title>. <source>Nanoscale</source>. <year>2017</year>;<volume>9</volume>:<fpage>8781</fpage>‐<lpage>8790</lpage>. doi:<pub-id pub-id-type="doi">10.1039/c7nr01857f</pub-id>
+<pub-id pub-id-type="pmid">28621774</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jbma37436-cit-0024">
+<string-name name-style="western">
+<surname>Guan</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Mesoporous polydopamine carrying sorafenib and SPIO nanoparticles for MRI‐guided ferroptosis cancer therapy</article-title>. <source>J Control Release</source>. <year>2020</year>;<volume>320</volume>:<fpage>392</fpage>‐<lpage>403</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jconrel.2020.01.048</pub-id>
+<pub-id pub-id-type="pmid">32004587</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jbma37436-cit-0025">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>TT</given-names>
+</string-name>, et al. <article-title>Lymph node‐targeted immune‐activation mediated by imiquimod‐loaded mesoporous polydopamine based‐nanocarriers</article-title>. <source>Biomaterials</source>. <year>2020</year>;<volume>255</volume>:<elocation-id>120208</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.biomaterials.2020.120208</pub-id>
+<pub-id pub-id-type="pmid">32569862</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jbma37436-cit-0026">
+<string-name name-style="western">
+<surname>Stolarczyk</surname>
+<given-names>EU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stolarczyk</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Łaszcz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kubiszewski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leś</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michalak</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Pemetrexed conjugated with gold nanoparticles ‐ synthesis, characterization and a study of noncovalent interactions</article-title>. <source>Eur J Pharm Sci</source>. <year>2017</year>;<volume>109</volume>:<fpage>13</fpage>‐<lpage>20</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ejps.2017.07.011</pub-id>
+<pub-id pub-id-type="pmid">28709909</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jbma37436-cit-0027">
+<string-name name-style="western">
+<surname>Karan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khezerlou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rezaei</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iasemidis</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeCoster</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Morphological changes in astrocytes by self‐oxidation of dopamine to polydopamine and quantification of dopamine through multivariate regression analysis of polydopamine images</article-title>. <source>Polymers</source>. <year>2020</year>;<volume>12</volume>:<fpage>2483</fpage>. doi:<pub-id pub-id-type="doi">10.3390/polym12112483</pub-id>
+<pub-id pub-id-type="pmid">33114705</pub-id><pub-id pub-id-type="pmcid">PMC7692622</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jbma37436-cit-0028">
+<string-name name-style="western">
+<surname>Scagliotti</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanna</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fossella</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>The differential efficacy of pemetrexed according to NSCLC histology: a review of two phase III studies</article-title>. <source>Oncologist</source>. <year>2009</year>;<volume>14</volume>:<fpage>253</fpage>‐<lpage>263</lpage>. doi:<pub-id pub-id-type="doi">10.1634/theoncologist.2008-0232</pub-id>
+<pub-id pub-id-type="pmid">19221167</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jbma37436-cit-0029">
+<string-name name-style="western">
+<surname>El‐Hussein</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manoto</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ombinda‐Lemboumba</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alrowaili</surname>
+<given-names>ZA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mthunzi‐Kufa</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>A review of chemotherapy and photodynamic therapy for lung cancer treatment</article-title>. <source>Anticancer Agents Med Chem</source>. <year>2021</year>;<volume>21</volume>:<fpage>149</fpage>‐<lpage>161</lpage>. doi:<pub-id pub-id-type="doi">10.2174/1871520620666200403144945</pub-id>
+<pub-id pub-id-type="pmid">32242788</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jbma37436-cit-0030">
+<string-name name-style="western">
+<surname>Fay</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melamed</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Day</surname>
+<given-names>ES</given-names>
+</string-name>. <article-title>Nanoshell‐mediated photothermal therapy can enhance chemotherapy in inflammatory breast cancer cells</article-title>. <source>Int J Nanomedicine</source>. <year>2015</year>;<volume>10</volume>:<fpage>6931</fpage>‐<lpage>6941</lpage>. doi:<pub-id pub-id-type="doi">10.2147/IJN.S93031</pub-id>
+<pub-id pub-id-type="pmid">26609231</pub-id><pub-id pub-id-type="pmcid">PMC4644159</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jbma37436-cit-0031">
+<string-name name-style="western">
+<surname>Srinivas</surname>
+<given-names>US</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>BWQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vellayappan</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeyasekharan</surname>
+<given-names>AD</given-names>
+</string-name>. <article-title>ROS and the DNA damage response in cancer</article-title>. <source>Redox Biol</source>. <year>2019</year>;<volume>25</volume>:<elocation-id>101084</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.redox.2018.101084</pub-id>
+<pub-id pub-id-type="pmid">30612957</pub-id><pub-id pub-id-type="pmcid">PMC6859528</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jbma37436-cit-0032">
+<string-name name-style="western">
+<surname>Nakamura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takada</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Reactive oxygen species in cancer: current findings and future directions</article-title>. <source>Cancer Sci</source>. <year>2021</year>;<volume>112</volume>:<fpage>3945</fpage>‐<lpage>3952</lpage>. doi:<pub-id pub-id-type="doi">10.1111/cas.15068</pub-id>
+<pub-id pub-id-type="pmid">34286881</pub-id><pub-id pub-id-type="pmcid">PMC8486193</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jbma37436-cit-0033">
+<string-name name-style="western">
+<surname>Prasad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tyagi</surname>
+<given-names>AK</given-names>
+</string-name>. <article-title>Reactive oxygen species (ROS) and cancer: role of antioxidative nutraceuticals</article-title>. <source>Cancer Lett</source>. <year>2017</year>;<volume>387</volume>:<fpage>95</fpage>‐<lpage>105</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.canlet.2016.03.042</pub-id>
+<pub-id pub-id-type="pmid">27037062</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jbma37436-cit-0034">
+<string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>YR</given-names>
+</string-name>, et al. <article-title>Pemetrexed induces apoptosis in malignant mesothelioma and lung cancer cells through activation of reactive oxygen species and inhibition of sirtuin 1</article-title>. <source>Oncol Rep</source>. <year>2015</year>;<volume>33</volume>:<fpage>2411</fpage>‐<lpage>2419</lpage>. doi:<pub-id pub-id-type="doi">10.3892/or.2015.3830</pub-id>
+<pub-id pub-id-type="pmid">25738249</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jbma37436-cit-0035">
+<string-name name-style="western">
+<surname>Buqué</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muhialdin</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muñoz</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Molecular mechanism implicated in pemetrexed‐induced apoptosis in human melanoma cells</article-title>. <source>Mol Cancer</source>. <year>2012</year>;<volume>11</volume>:<fpage>25</fpage>. doi:<pub-id pub-id-type="doi">10.1186/1476-4598-11-25</pub-id>
+<pub-id pub-id-type="pmid">22537194</pub-id><pub-id pub-id-type="pmcid">PMC3505171</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jbma37436-cit-0036">
+<string-name name-style="western">
+<surname>Kuthati</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Busa</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tummala</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Mesoporous polydopamine nanoparticles attenuate morphine tolerance in neuropathic pain rats by inhibition of oxidative stress and restoration of the endogenous antioxidant system</article-title>. <source>Antioxidants (Basel)</source>. <year>2021</year>;<volume>10</volume>:<fpage>195</fpage>. doi:<pub-id pub-id-type="doi">10.3390/antiox10020195</pub-id>
+<pub-id pub-id-type="pmid">33572871</pub-id><pub-id pub-id-type="pmcid">PMC7912557</pub-id></mixed-citation></ref><ref id="jbma37436-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jbma37436-cit-0037">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dai</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>ZH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meng</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Mesoporous polydopamine‐coated hydroxyapatite nano‐composites for ROS‐triggered nitric oxide‐enhanced photothermal therapy of osteosarcoma</article-title>. <source>J Mater Chem B</source>. <year>2021</year>;<volume>9</volume>:<fpage>7401</fpage>‐<lpage>7408</lpage>. doi:<pub-id pub-id-type="doi">10.1039/d1tb01084k</pub-id>
+<pub-id pub-id-type="pmid">34551050</pub-id></mixed-citation></ref></ref-list></back></article>

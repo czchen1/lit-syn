@@ -1,0 +1,509 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><?da-xref-anchor-style superscripted?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Sci</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Sci</journal-id><journal-id journal-id-type="pmc-domain-id">2682</journal-id><journal-id journal-id-type="pmc-domain">cas</journal-id><journal-id journal-id-type="publisher-id">CAS</journal-id><journal-title-group><journal-title>Cancer Science</journal-title></journal-title-group><issn pub-type="ppub">1347-9032</issn><issn pub-type="epub">1349-7006</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7293070</article-id><article-id pub-id-type="pmcid-ver">PMC7293070.1</article-id><article-id pub-id-type="pmcaid">7293070</article-id><article-id pub-id-type="pmcaiid">7293070</article-id><article-id pub-id-type="pmid">32232903</article-id><article-id pub-id-type="doi">10.1111/cas.14401</article-id><article-id pub-id-type="publisher-id">CAS14401</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group subj-group-type="heading"><subject>Basic and Clinical Immunology</subject></subj-group></subj-group></article-categories><title-group><article-title>Pemetrexed sensitizes human lung cancer cells to cytotoxic immune cells</article-title><alt-title alt-title-type="left-running-head">OKIMOTO et al.</alt-title></title-group><contrib-group><contrib id="cas14401-cr-0001" contrib-type="author"><name name-style="western"><surname>Okimoto</surname><given-names initials="T">Tamio</given-names></name><xref ref-type="aff" rid="cas14401-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14401-cr-0002" contrib-type="author"><name name-style="western"><surname>Kotani</surname><given-names initials="H">Hitoshi</given-names></name><xref ref-type="aff" rid="cas14401-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14401-cr-0003" contrib-type="author"><name name-style="western"><surname>Iida</surname><given-names initials="Y">Yuichi</given-names></name><xref ref-type="aff" rid="cas14401-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14401-cr-0004" contrib-type="author"><name name-style="western"><surname>Koyanagi</surname><given-names initials="A">Akira</given-names></name><xref ref-type="aff" rid="cas14401-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cas14401-cr-0005" contrib-type="author"><name name-style="western"><surname>Tanino</surname><given-names initials="R">Ryosuke</given-names></name><xref ref-type="aff" rid="cas14401-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14401-cr-0006" contrib-type="author"><name name-style="western"><surname>Tsubata</surname><given-names initials="Y">Yukari</given-names></name><xref ref-type="aff" rid="cas14401-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14401-cr-0007" contrib-type="author"><name name-style="western"><surname>Isobe</surname><given-names initials="T">Takeshi</given-names></name><xref ref-type="aff" rid="cas14401-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cas14401-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Harada</surname><given-names initials="M">Mamoru</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9737-0360</contrib-id><xref ref-type="aff" rid="cas14401-aff-0002">
+<sup>2</sup>
+</xref><address><email>haramamo@med.shimane-u.ac.jp</email></address></contrib></contrib-group><aff id="cas14401-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>Shimane University</institution>
+<city>Shimane</city>
+<country country="JP">Japan</country>
+</aff><aff id="cas14401-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Immunology</named-content>
+<institution>Shimane University</institution>
+<city>Shimane</city>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Mamoru Harada, Department of Immunology, Shimane University Faculty of Medicine, Izumo, Shimane 693‐8501, Japan.<break/>
+Email: <email>haramamo@med.shimane-u.ac.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>4</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2020</year></pub-date><volume>111</volume><issue>6</issue><issue-id pub-id-type="pmc-issue-id">359541</issue-id><issue-id pub-id-type="doi">10.1111/cas.v111.6</issue-id><fpage>1910</fpage><lpage>1920</lpage><history><date date-type="received"><day>13</day><month>11</month><year>2019</year></date><date date-type="rev-recd"><day>25</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>19</day><month>3</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>06</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>15</day><month>06</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-25 19:25:13.747"><day>25</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">Cancer Science</italic> published by John Wiley &amp; Sons Australia, Ltd on behalf of Japanese Cancer Association.</copyright-statement><license license-type="creativeCommonsBy-nc"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAS-111-1910.pdf"><?pdf-name CAS-111-1910.pdf?><?pdf-size 1696935?><?pdf-md5 93e848387cd04f9f0e18108ff82ad8af?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:f3de/7293070/93e848387cd0/CAS-111-1910.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAS-111-1910.pdf"/><abstract id="cas14401-abs-0001"><title>Abstract</title><p>Pemetrexed (PEM) is a useful drug that can be combined with immune checkpoint blockade therapy for treatment of patients with advanced non–small‐cell lung cancer (NSCLC). However, its effects on anti–cancer immunity, especially the sensitivity of NSCLC cells to cytotoxic immune cells, have not been fully investigated. In this study, we examined the effects of PEM on the sensitivity of human NSCLC cells to two different types of cytotoxic immune cells. Pre‐treatment with PEM increased the sensitivity of two NSCLC cell lines, PC9 and A549, to activated T cells and natural killer (NK) cells, and decreased the expression of anti–apoptotic proteins, including XIAP and Mcl‐1. In addition, PEM treatment increased the cell surface expression of programmed death‐ligand 1 (PD‐L1) on PC9 cells. PEM‐induced upregulation of PD‐L1 on PC9 cells was at least partially ascribed to activation of ERK and the NFκB pathway. In contrast, PEM treatment increased the expression of UL16‐binding proteins (ULBP), ligands for the NKG2D NK receptor, on PC9 and A549 cells, as well as the induction of senescence. Although the addition of anti–programmed cell death 1 antibody showed no effect on the sensitivity of PEM‐treated PC9 and A549 cells to activated T cells, that of anti–NKG2D antibody decreased the enhanced sensitivity of PEM‐treated A549 cells to NK cells. These results indicate that PEM can effectively sensitize human NSCLC cells to cytotoxic immune cells while modulating the expression of immune‐regulatory molecules.</p></abstract><abstract abstract-type="graphical" id="cas14401-abs-0002"><p>Pemetrexed treatment induces the mRNA expression of NKG2D ligands in human lung cancer cells.<boxed-text position="anchor" content-type="graphic" id="cas14401-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CAS-111-1910-g007.jpg"><?image-name CAS-111-1910-g007.jpg?><?image-size 9953?><?image-md5 8eb89d4515b22557c0088560fce20db8?><?image-image-server-status NEVER_LOAD?><?image-original-height 64?><?image-original-width 120?><?image-scaled-height 64?><?image-scaled-width 120?><?image-cloudpmc-urn urn:cdn:blobs/f3de/7293070/8eb89d4515b2/CAS-111-1910-g007.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group><kwd id="cas14401-kwd-0001">natural killer cells</kwd><kwd id="cas14401-kwd-0002">non–small‐cell lung cancer</kwd><kwd id="cas14401-kwd-0003">PD‐L1</kwd><kwd id="cas14401-kwd-0004">pemetrexed</kwd><kwd id="cas14401-kwd-0005">T cells</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Japan Society for the Promotion of Science KAKENHI</funding-source><award-id>16K19313</award-id><award-id>17K07217</award-id></award-group><award-group id="funding-0002"><funding-source>Shimane University "SUIGAN" Project</funding-source></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="11"/><word-count count="5944"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.4 mode:remove_FC converted:13.06.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cas14401-cit-1001">
+<string-name name-style="western">
+<surname>Okimoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotani</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iida</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Pemetrexed sensitizes human lung cancer cells to cytotoxic immune cells</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2020</year>;<volume>111</volume>:<fpage>1910</fpage>–<lpage>1920</lpage>. <pub-id pub-id-type="doi">10.1111/cas.14401</pub-id>
+<pub-id pub-id-type="pmcid">PMC7293070</pub-id><pub-id pub-id-type="pmid">32232903</pub-id></mixed-citation>
+</p></notes></front><body id="cas14401-body-0001"><sec id="cas14401-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Lung cancer is the leading cause of death due to cancer worldwide. However, the emergence of immune checkpoint blockade (ICB) therapy dramatically changed the treatment strategy for non–small‐cell lung cancer (NSCLC). Compared with platinum‐based chemotherapy, anti–programmed cell death 1 (PD‐1) antibody therapy can significantly prolong progression‐free and overall survival of previously untreated advanced NSCLC patients with PD‐L1 expression on at least 50% of cancer cells.<xref rid="cas14401-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> By contrast, in patients with previously untreated stage IV or recurrent NSCLC with PD‐L1 expression on 5% or more of cancer cells, anti–PD‐1 antibody therapy was not associated with significantly longer progression‐free survival and overall survival compared with chemotherapy.<xref rid="cas14401-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> To improve the therapeutic efficacy of ICB therapy, combinations with other types of anti–cancer therapies have been used. Anti–PD‐1 antibody therapy in combination with chemotherapeutic drugs resulted in better overall survival of patients with nonsquamous NSCLC with any level of PD‐L1 expression compared with chemotherapeutic drugs alone.<xref rid="cas14401-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> In addition, a combination of anti–PD‐L1 antibody, anti–vascular endothelial growth factor antibody and chemotherapy improved progression‐free survival and overall survival of patients with metastatic nonsquamous NSCLC regardless of the level of PD‐L1 expression.<xref rid="cas14401-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> Moreover, compared with chemotherapy alone, the addition of anti–PD‐1 antibody therapy to chemotherapy led to longer overall survival and progression‐free survival of patients with previously untreated metastatic squamous NSCLC.<xref rid="cas14401-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>
+</p><p>Pemetrexed (PEM) is an anti–folate drug<xref rid="cas14401-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> that exerts anti–cancer effects on nonsquamous NSCLC.<xref rid="cas14401-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> PEM has therapeutic advantages over gemcitabine when used with platinum‐based chemotherapy to treat nonsquamous NSCLC.<xref rid="cas14401-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Platinum‐based chemotherapy is repeated in four cycles, followed by continuous administration of PEM alone. This continuous maintenance therapy has been conducted to prevent recurrence after platinum‐based chemotherapy and to improve the overall survival of advanced nonsquamous NSCLC patients.<xref rid="cas14401-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> Therefore, PEM appears to be a promising drug to improve the effects of ICB therapy. Indeed, combination therapy consisting of anti–PD‐1 antibody, carboplatin/cisplatin, and PEM improved survival compared to placebo combination therapy.<xref rid="cas14401-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> However, although ICB therapy induces anti–cancer effects via restoration of exhausted anti–cancer T cells,<xref rid="cas14401-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> the means by which PEM affects the susceptibility of NSCLC cells to cytotoxic immune cells has not been elucidated.</p><p>In this study, we examined the effects of PEM on the sensitivity of human NSCLC cells to two different types of immune cytotoxicity. Our results reveal that PEM can sensitize two human NSCLC cell lines, PC9 and A549, to activated T cells and natural killer (NK) cells. We also found that PEM decreased the expression of anti–apoptotic proteins and increased the cell surface expression of programmed death‐ligand 1 (PD‐L1) on PC9 cells and UL16‐binding proteins (ULBP), ligands for the NKG2D NK receptor,<xref rid="cas14401-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> on PC9 and A549 cells. In addition, experiments with blocking antibodies revealed that, although augmented expression of PD‐L1 on PEM‐treated PC9 cells showed no effect on their sensitivity to activated T cells and NK cells, augmented expression of ULBP on PEM‐treated A549 cells affected their sensitivity to NK cells.</p></sec><sec sec-type="materials-and-methods" id="cas14401-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cas14401-sec-0003"><label>2.1</label><title>Cell lines and reagents</title><p>Two human lung adenocarcinoma cell lines, PC9 and A549, were obtained from the ATCC. PC9 has an epidermal growth factor receptor (EGFR) mutation and A549 has a KRAS mutation. PC9‐RP and PC9‐ER are PEM‐resistant and erlotinib (ERLO)‐resistant PC9 cell lines, respectively,<xref rid="cas14401-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> and A549‐RP is a PEM‐resistant A549 cell line.<xref rid="cas14401-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> These cell lines were maintained in RPMI‐1640 medium (Wako) supplemented with 10% (v/v) FCS (Invitrogen) and 20 µg/mL gentamicin (Sigma‐Aldrich), and grown at 37°C in a humidified atmosphere of 5% CO<sub>2</sub> in air. PEM was purchased from Eli Lilly Japan KK and diluted with PBS. ERLO was purchased from SA Bioscience and diluted with DMSO. Anti–CD3 antibody (clone UCHT1) was purchased from Ancell. Inhibitors against JAK1/2 (Ruxolitinib, Enzo Life Sciences), ERK (U0126, Calbiochem), JNK (SP600125, ALEXS Biochemicals), p38 (SB203580, ALEXS Biochemicals) and NFκB (PDTC, Calbiochem) were used.</p></sec><sec id="cas14401-sec-0004"><label>2.2</label><title>Preparation of effector immune cells</title><p>Anti–EGFR chimeric antigen receptor (CAR)‐T cells were purchased from ProMab. After initial thawing, these cells were cultured in RPMI‐1640 supplemented with 2% human serum and 300 U/mL interleukin (IL)‐2 for 10 days. The cultured cells were aliquoted in vials and kept at −70°C. For each experiment, the T cells were expanded in anti–CD3 antibody‐coated plates with 300 U/mL IL‐2 for 7‐10 days.</p></sec><sec id="cas14401-sec-0005"><label>2.3</label><title>Cell viability assay</title><p>Cell viability was measured using the 2‐(2‐methoxy‐4‐nitrophenyl)‐3‐(4‐nitrophenyl)‐5‐(2, 4‐disulfophenyl)‐2H‐tetrazolium monosodium salt (WST‐8) assay (Nacalai Tesque). Cells were seeded in flat‐bottomed 96‐well plates, and PEM or ERLO was added at the indicated doses. Two days later, 10 µL of WST‐8 solution was added to each well after removal of half of the medium, and the plates were incubated for an additional 3 hours. The plates were then read at a wavelength of 450 nm using a microplate reader (Beckman Counter).</p></sec><sec id="cas14401-sec-0006"><label>2.4</label><title>Flow cytometric analysis</title><p>Apoptosis was measured using an annexin V‐FITC Apoptosis Detection Kit (BioVision). To examine the expression of human EGFR on cancer cells, cells were stained with either FITC‐conjugated anti–EGFR antibody (NeoMarkers) or isotype‐matched control antibody (Beckman Coulter). To examine the expression of PD‐1 and NKG2D on NK cells, cells were stained with anti–PD‐1‐FITC (BioLegend) and anti–CD56‐PE (BioLegend) antibodies. All analyses were performed by flow cytometry (FACSCalibur, Becton Dickinson).</p></sec><sec id="cas14401-sec-0007"><label>2.5</label><title>Preparation of human natural killer cells</title><p>Natural killer cells were prepared from the peripheral blood of healthy donors. Peripheral blood mononuclear cells were prepared from blood using Lymphocyte Separation Solution (Nacalai Tesque). NK cells were enriched using an NK Cell Purification Kit (Invitrogen). The study protocol was approved by the Ethics Review Board of the Shimane University Faculty of Medicine (approval No. 20140918‐2).</p></sec><sec id="cas14401-sec-0008"><label>2.6</label><title>Cytotoxicity assay using flow cytometry</title><p>To examine apoptotic cancer cells, cancer cells were co–cultured with activated T cells or purified NK cells with the indicated antibodies in 96‐well plates for 6 or 12 hours. After harvesting, whole cells were stained with anti–CD45‐APC followed by annexin V‐FITC. To evaluate the percentage of apoptotic cancer cells, annexin V‐FITC<sup>+</sup> cells among CD45‐APC<sup>−</sup> cells were calculated by flow cytometry. In some experiments, anti–human PD‐1 (nivolumab) or anti–CD20 (rituximab) antibody, as a control, was added 30 minutes before the initiation of culture at a dose of 10 µg/mL. In other experiments, anti–human NKG2D (BioLegend) or mouse IgG, as a control, was added 1 hour before the initiation of culture at a dose of 10 µg/mL.</p></sec><sec id="cas14401-sec-0009"><label>2.7</label><title>Detection of senescence‐associated β‐galactosidase</title><p>Senescence‐associated β‐galactosidase (SA β‐gal) was detected by confocal imaging. Cancer cells were cultured on round coverslips in 24‐well plates with or without PEM for 48 hours. After incubation with SPiDER β‐gal (Dojindo Molecular Technologies) and Hoechst 33342 (5 µg/mL) for 30 minutes, cells were fixed with 4% paraformaldehyde and placed on slide glasses with 4 µL of mounting medium for fluorescence analysis (Vectashield, Vector Laboratories). Confocal imaging was performed using a laser‐scanning microscope (FV1000‐D, Olympus).</p></sec><sec id="cas14401-sec-0010"><label>2.8</label><title>ELISA</title><p>The levels of human IL‐6 and IL‐8 in the supernatants were determined using an ELISA kit (PeproTech).</p></sec><sec id="cas14401-sec-0011"><label>2.9</label><title>Immunoblotting assay</title><p>Cancer cells were lysed with RIPA Buffer (Fujifilm Wako Pure Chemical) containing a protease inhibitor cocktail (Nacalai Tesque) and a phosphatase inhibitor cocktail (Nacalai Tesque). Equal amounts of protein were resolved on 4%‐12% gradient or 12% SDS‐PAGE gels, followed by transfer onto polyvinylidene difluoride membranes. After blocking the membranes, the blots were incubated with the indicated primary antibodies: anti–p21<sup>Cip1/Waf1</sup> (#2947, Cell Signaling Technology), anti–p16<sup>Ink4a</sup> (SPC‐1280, StressMarq Biosciences), anti–STAT1 (#14994, Cell Signaling Technology), anti–pSTAT1<sup>Ser727</sup> (#8826, Cell Signaling Technology), anti–pSTAT1<sup>Tyr701</sup> (#9167, Cell Signaling Technology), anti–STAT3 (#4904, Cell Signaling Technology), anti–pSTAT3<sup>Ser727</sup> (#9134, Cell Signaling Technology), anti–pSTAT3<sup>Tyr705</sup> (#9145, Cell Signaling Technology), anti–ERK (#4695, Cell Signaling Technology), anti–pERK (#4370, Cell Signaling Technology), anti–p38 (sc‐81621, Santa Cruz Biotechnology), anti–pp38 (sc‐166182, Santa Cruz Biotechnology), anti–NFκB (#3987, Cell Signaling Technology), anti–IκB (#4812, Cell Signaling Technology), anti–PD‐L1 (#13684, Cell Signaling Technology), anti–cFLIP (ALX‐804‐428, Enzo Life Sciences), anti–survivin (#2803, Cell Signaling Technology), anti–XIAP (#2042, Cell Signaling Technology), anti–Bcl‐2 (#658701, BioLegend), anti–Bcl‐xL (#2764, Cell Signaling Technology), anti–Mcl‐1 (sc‐819, Santa Cruz Biotechnology), and anti–‐tubulin (sc‐5286, Santa Cruz Biotechnology) and anti–β‐actin (#622102, BioLegend). After washing, the membranes were incubated at room temperature for 60 minutes with either goat anti–rabbit or horse anti–mouse HRP‐conjugated secondary antibody (#7074 or #7076, respectively, Cell Signaling Technology) to detect the primary antibodies. Protein bands were visualized using an ImageQuant LAS‐4000 system (FujiFilm).</p></sec><sec id="cas14401-sec-0012"><label>2.10</label><title>Quantitative RT‐PCR</title><p>Cells at around 80% confluence were washed with PBS. The total RNA from these cells were extracted using a PureLink RNA Mini Kit (Thermo Scientific) in accordance with the manufacturer’s instructions. cDNA were generated from the RNA via reverse transcription using ReverTra Ace qPCR RT Master Mix with gDNA remover (TOYOBO) in accordance with the manufacturer’s instructions. Quantitative PCR (qPCR) was performed using KOD SYBR qPCR Mix (TOYOBO). The primers used for qPCR were as follows: ULBP2 primers 5ʹ‐CGCCGCTACCAAGATCCTTC‐3ʹ and 5ʹ ‐ATCCACCTGGCCTTGAACCG‐3ʹ; ULBP5 primers 5ʹ‐ACCACCCTCATCCTTTGCTG‐3ʹ and 5ʹ‐CCATGGCTTTGGGTCAGACT‐3ʹ; ULBP6 primers 5ʹ‐GGGCTAGGCGAGACGACC‐3ʹ and 5ʹ‐ACTGACGGGTGTGACTGTCT‐3ʹ; and GAPDH primers 5ʹ‐AGGTGAAGGTCGGAGTCA‐3ʹ and 5ʹ ‐GGTCATTGATGGCAACA‐3ʹ. The levels of mRNA expression were subsequently normalized relative to GAPDH mRNA levels and calculated according to the delta‐delta Ct method.</p></sec><sec id="cas14401-sec-0013"><label>2.11</label><title>Statistical analysis</title><p>Data were statistically evaluated using the unpaired two‐tailed Student’s <italic toggle="yes">t</italic> test. In all analyses, <italic toggle="yes">P</italic> &lt; 0.05 was taken to indicate statistical significance.</p></sec></sec><sec sec-type="results" id="cas14401-sec-0014"><label>3</label><title>RESULTS</title><sec id="cas14401-sec-0015"><label>3.1</label><title>Pemetrexed decreases the cell viability of non–small‐cell lung cancer cell lines</title><p>First, we examined the effects of PEM on two human NSCLC cell lines, PC9 and A549. In this assay, we included PEM‐resistant PC9 (PC9‐RP), ERLO‐resistant PC9 (PC9‐RE) and PEM‐resistant A549 (A549‐RP) cell lines, which were established previously.<xref rid="cas14401-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="cas14401-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> PEM decreased the viability of PC9 and PC9‐RE cells in a dose‐dependent manner, whereas PC9‐RP cells showed apparent resistance to PEM (Figure <xref rid="cas14401-fig-0001" ref-type="fig">1</xref>). Similarly, PEM decreased the viability of A549 cells in a dose‐dependent manner, whereas A549‐RP cells showed clear resistance to PEM. The PEM‐induced decrease in the viability of PC9 and A549 cells was due to both growth arrest and cell death.<xref rid="cas14401-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>
+</p><fig fig-type="FIGURE" xml:lang="en" id="cas14401-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>Pemetrexed (PEM) decreases the viability of non–small‐cell lung cancer (NSCLC) cells. Cancer cells were cultured in the presence of the indicated doses of PEM for 2 d. The percent cell viability was determined by WST8 assay. **<italic toggle="yes">P</italic> &lt; 0.01</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAS-111-1910-g001.jpg"><?image-name CAS-111-1910-g001.jpg?><?image-size 66309?><?image-md5 cefecdca0b4ebeee03501942a2ce995e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 471?><?image-original-width 1064?><?image-scaled-height 314?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/f3de/7293070/cefecdca0b4e/CAS-111-1910-g001.jpg?><?thumb-name CAS-111-1910-g001.gif?><?thumb-size 13261?><?thumb-md5 965b24400d79c4fb7cd83a47239bd5a4?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 180?><?thumb-cloudpmc-urn urn:cdn:blobs/f3de/7293070/965b24400d79/CAS-111-1910-g001.gif?></graphic></fig></sec><sec id="cas14401-sec-0016"><label>3.2</label><title>Pemetrexed sensitizes PC9 and A549 cells to cytotoxic immune cells</title><p>We next tested whether PEM could influence the sensitivity of their lung cancer cell lines to cytotoxic immune cells. We attempted to use anti–EGFR CAR‐T cells as antigen‐specific cytotoxic immune cells because the two NSCLC cell lines express EGFR on their cell surfaces (Figure <xref rid="cas14401-sup-0001" ref-type="supplementary-material">S1A</xref>). Before the assays, T cells were in vitro expanded after 2 days of culture in anti–CD3 antibody‐coated wells with 300 U/mL IL‐2 and then with IL‐2 alone for 7‐10 days. Although the in vitro expanded CAR‐T cells were unexpectedly positive for CD4,<xref rid="cas14401-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> we performed experiments using these activated T cells. The percentages of apoptotic cancer cells were examined by flow cytometry by gating CD45‐negative cells. As a result, PEM significantly increased the susceptibility of PC9 and A549 cells to activated T cells (Figure <xref rid="cas14401-fig-0002" ref-type="fig">2</xref>A and B). These data are summarized in Figure <xref rid="cas14401-fig-0002" ref-type="fig">2C</xref>. We also determined whether PEM treatment could influence the sensitivity of these cancer cells to NK cells. First, we performed a 6‐hour cytotoxicity assay, but no difference in sensitivity was observed (Figure <xref rid="cas14401-sup-0001" ref-type="supplementary-material">S2</xref>). Therefore, we performed a 12‐hour assay. The results showed that PEM significantly increased the susceptibility of PC9 and A549 cells to NK cells (Figure <xref rid="cas14401-fig-0002" ref-type="fig">2</xref>D and E). These data are summarized in Figure <xref rid="cas14401-fig-0002" ref-type="fig">2F</xref>. These results indicate that PEM treatment can increase the sensitivity of PC9 and A549 cells to different types of cytotoxic immune cells.</p><fig fig-type="FIGURE" xml:lang="en" id="cas14401-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>Pemetrexed (PEM) sensitizes PC9 and A549 cells to activated T cells or natural killer (NK) cells. A and B, PC9 or A549 cells were cultured with PEM (2 µmol/L) for 2 d. Thereafter, untreated or PEM‐treated PC9 or A549 cells (5 × 10<sup>4</sup> cells) were cultured with activated T cells (1 × 10<sup>5</sup> cells) in 96‐well round plates for 6 h. After harvesting, whole cells were stained with anti–CD45‐APC, followed by annexin V‐FITC. A representative result from flow cytometry is shown. The numbers represent the percentages of annexin V<sup>+</sup> cells. C, The results from three wells are shown. Similar results were obtained in two separate experiments. *<italic toggle="yes">P</italic> &lt; 0.05. **<italic toggle="yes">P</italic> &lt; 0.01. D and E, Similarly, untreated or PEM‐treated PC9 or A549 cells (5 × 10<sup>4</sup> cells) were cultured with purified NK cells (1 × 10<sup>5</sup> cells) for 12 h and analyzed by flow cytometry. A representative result from flow cytometry is shown. F, The results from three wells are shown. Similar results were obtained in two separate experiments. ** <italic toggle="yes">P</italic> &lt; 0.01. ***<italic toggle="yes">P</italic> &lt; 0.005</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAS-111-1910-g002.jpg"><?image-name CAS-111-1910-g002.jpg?><?image-size 136968?><?image-md5 31cb98f86b978921d622562a445d4abe?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 869?><?image-original-width 1064?><?image-scaled-height 579?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/f3de/7293070/31cb98f86b97/CAS-111-1910-g002.jpg?><?thumb-name CAS-111-1910-g002.gif?><?thumb-size 19202?><?thumb-md5 e06d50db6dac7bd7414d799afba153f4?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 82?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/f3de/7293070/e06d50db6dac/CAS-111-1910-g002.gif?></graphic></fig></sec><sec id="cas14401-sec-0017"><label>3.3</label><title>Effects of pemetrexed on the expression of anti–apoptotic proteins in PC9 and A549 cells</title><p>Next, we searched for the mechanisms underlying the increased sensitivity of PEM‐treated PC9 and A549 cells to activated T cells and NK cells. Given that the expression of intracellular anti–apoptotic proteins influences the sensitivity of cancer cells to cytotoxic immune cells,<xref rid="cas14401-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> we compared their expression in untreated and PEM‐treated cancer cells (Figure <xref rid="cas14401-fig-0003" ref-type="fig">3</xref>). PEM treatment failed to affect the expression of cFLIP<sub>L</sub> and cFLIPs, both of which are inhibitors of caspase‐8.<xref rid="cas14401-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> Although PEM increased the expression of survivin in PC9 cells and Bcl‐2 in PC9 and A549 cells, the expression of XIAP in PEM‐treated PC9 cells and Mcl‐1 in PEM‐treated A549 cells was decreased.</p><fig fig-type="FIGURE" xml:lang="en" id="cas14401-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>Effect of pemetrexed (PEM) treatment on the expression of apoptosis‐related molecules. PC9 and A549 cells were cultured with PEM (2 µmol/L) for 2 d. After preparing cell lysates, the expression of the indicated proteins was examined by immunoblot. β‐actin was measured as a control</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAS-111-1910-g003.jpg"><?image-name CAS-111-1910-g003.jpg?><?image-size 101384?><?image-md5 6e0f966bca580d2628623b15240a118e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1698?><?image-original-width 1059?><?image-scaled-height 1132?><?image-scaled-width 706?><?image-cloudpmc-urn urn:cdn:blobs/f3de/7293070/6e0f966bca58/CAS-111-1910-g003.jpg?><?thumb-name CAS-111-1910-g003.gif?><?thumb-size 18973?><?thumb-md5 a57cd6a54512e7d81fbc5d2edb1d7a16?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 160?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/f3de/7293070/a57cd6a54512/CAS-111-1910-g003.gif?></graphic></fig></sec><sec id="cas14401-sec-0018"><label>3.4</label><title>Pemetrexed upregulates the expression of programmed death‐ligand 1 on PC9 cells</title><p>Next, we examined the effects of PEM treatment on the expression of PD‐L1 on PC9 and A549 cells. PEM treatment significantly increased the expression of PD‐L1 on PC9 cells, whereas no increase in PD‐L1 expression was observed on A549 cells (Figure <xref rid="cas14401-fig-0004" ref-type="fig">4</xref>A and B). PEM treatment increased the expression of PC9 and PC9‐RE but not on PC9‐RP cells. Furthermore, ERLO did not increase the expression of PD‐L1 on PC9 cells but, rather, decreased it (Figure <xref rid="cas14401-fig-0004" ref-type="fig">4</xref>C and D).</p><fig fig-type="FIGURE" xml:lang="en" id="cas14401-fig-0004" orientation="portrait" position="float"><label>FIGURE 4</label><caption><p>Pemetrexed (PEM) increases the expression of programmed death‐ligand 1 (PD‐L1) on PC9 cells. A, Cancer cells were cultured with the indicated doses of PEM for 2 d. After harvesting, these cells were analyzed by flow cytometry. The bold line indicates staining with PE‐conjugated anti–PD‐L1 antibody, and the gray background indicates staining with isotype‐matched PE‐conjugated mouse IgG. The number represents the mean fluorescence intensity (MFI) ratio. B, The results from three samples are shown. **<italic toggle="yes">P</italic> &lt; 0.01. C, PC9, PC9‐RP and PC9‐RE cells were cultured with PEM (3 µmol/L) or ERLO (0.5 µmol/L) for 2 d. After harvesting, these cells were analyzed by flow cytometry. The number represents the MFI ratio. D, The results from three samples are shown. **<italic toggle="yes">P</italic> &lt; 0.01. E, Cancer cells were cultured with PEM (2 µmol/L) for 2 d. Using lysates, the expressions of the indicated proteins and phosphorylated proteins were examined with the indicated antibodies. <italic toggle="yes">β</italic>‐actin was measured as a control. F, PC9 cells were cultured with PEM (2 µmol/L) for 2 d. The dose of the NFκB inhibitor was 0.5 µmol/L, and the dose of other inhibitors was 4 µmol/L. After harvesting, these cells were analyzed by flow cytometry. Left: The number represents the MFI ratio. Right: The results from three samples are shown. *<italic toggle="yes">P</italic> &lt; 0.05. ** <italic toggle="yes">P</italic> &lt; 0.01</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAS-111-1910-g004.jpg"><?image-name CAS-111-1910-g004.jpg?><?image-size 161938?><?image-md5 cde5da7638f5a46a67edbd8325193aa5?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1456?><?image-original-width 1064?><?image-scaled-height 970?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/f3de/7293070/cde5da7638f5/CAS-111-1910-g004.jpg?><?thumb-name CAS-111-1910-g004.gif?><?thumb-size 19775?><?thumb-md5 7887660e7b9d631e5811bd705c1d6121?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 137?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/f3de/7293070/7887660e7b9d/CAS-111-1910-g004.gif?></graphic></fig><p>Several signaling pathways, including the JAK‐STAT, MAPK and NFκB pathways, participate in the expression of PD‐L1 on human cancer cells.<xref rid="cas14401-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="cas14401-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> To identify the pathways involved in the increased expression of PD‐L1 on PEM‐treated PC9 cells, we performed immunoblot analysis (Figure <xref rid="cas14401-fig-0004" ref-type="fig">4E</xref>). PEM treatment decreased the expression of STAT3, pSTAT3, p38, NFκB and IkB in PC9 cells, but increased the expression of pERK in PC9 cells. A decrease in IκB allows NFκB to enter the nucleus.<xref rid="cas14401-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> PEM treatment apparently increased the phosphorylation of ERK in PC9 and A549 cells; however, this change had no effect on the expression of PD‐L1 on A549 cells (Figure <xref rid="cas14401-fig-0004" ref-type="fig">4</xref>A and B). In addition, inhibitors of ERK or NFκB inhibited the PEM‐induced increase in the expression of PD‐L1 on PC9 cells (Figure <xref rid="cas14401-fig-0004" ref-type="fig">4F</xref>). Taken together, these results indicate that PEM‐induced upregulation of PD‐L1 expression is partially dependent on activation of ERK and the NFκB pathway.</p></sec><sec id="cas14401-sec-0019"><label>3.5</label><title>Pemetrexed increases the expression of natural killer receptor ligands on PC9 and A549 cells</title><p>We next investigated the expression of NK receptor ligands, including MICA/B and ULBP1/2/5/6, on PC9 and A549 cells after PEM treatment. The results showed that although ULBP2/5/6 expression on both cell lines was upregulated by PEM treatment, PEM treatment significantly increased the expression of ULBP2/5/6 on PC9 cells; the increased expression of ULBP2/5/6 on A549 cells was not significant (Figure <xref rid="cas14401-fig-0005" ref-type="fig">5</xref>A and B). Because the antibody against ULBP2/5/6 was unable to discriminate among ULBP molecules, we performed quantitative RT‐PCR (RT‐qPCR) and found that PEM treatment mainly increased the mRNA expression of ULBP2/5/6 in PC9 and A549 cells (Figure <xref rid="cas14401-fig-0005" ref-type="fig">5C</xref>). In addition, given that PEM can induce senescence in lung cancer cells<xref rid="cas14401-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> and that NK receptor ligands on senescent cells can be targets in immunosurveillance,<xref rid="cas14401-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> we next examined senescence in PEM‐treated cancer cell lines. On confocal imaging, PEM treatment increased the expression of SA β‐gal (Figure <xref rid="cas14401-fig-0005" ref-type="fig">5D</xref>). In addition, PEM treatment increased the expression of p21 in A549 cells (Figure <xref rid="cas14401-fig-0005" ref-type="fig">5E</xref>) and the production of IL‐6 by PC9 cells and IL‐8 by A549 cells (Figure <xref rid="cas14401-fig-0005" ref-type="fig">5F</xref>). The production of IL‐8 by PC9 cells was slightly but significantly decreased by PEM treatment. The expression of SA β‐gal, growth arrest and production of inflammatory cytokines are features of senescent cells;<xref rid="cas14401-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="cas14401-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> these results suggest that PEM can increase the expression of NK receptor ligands, ULBP, in association with the induction of senescence, and increase the sensitivity to NK cells.</p><fig fig-type="FIGURE" xml:lang="en" id="cas14401-fig-0005" orientation="portrait" position="float"><label>FIGURE 5</label><caption><p>Pemetrexed (PEM) increases the expression of NKG2D ligands on PC9 and A549 cells and induces senescence. A, Cancer cells were cultured with PEM (3 µmol/L) for 2 d. The expression of the indicated proteins was examined by flow cytometry using the indicated antibodies. The bold line indicates staining with specific antibody, and the gray background indicates staining with isotype‐matched control IgG. The number represents the mean fluorescence intensity (MFI) ratio. B, The results from three samples are shown. *<italic toggle="yes">P</italic> &lt; 0.05. NS, not significant. C, Cancer cells were cultured with PEM (3 µmol/L) for 2 d, and quantitative RT‐PCR was then performed. *<italic toggle="yes">P</italic> &lt; 0.05. **<italic toggle="yes">P</italic> &lt; 0.01. D, To examine the expression of senescence‐associated β‐galactosidase (SA β‐gal), cancer cells were treated with or without PEM (2 µmol/L) for 2 d and stained with SPiDER β‐gal. Scale bar: 10 µm. E, Cancer cells were treated with PEM (2 µM) for 2 d, and the expressions of p21 and p16 in cell lysates were examined using the indicated antibodies. α‐tubulin was measured as a control. F, Cancer cells were treated with or without PEM (2 µmol/L) for 2 d. After harvesting, cancer cells were cultured without PEM for 2 d. Thereafter, ELISA was used to determine the levels of interleukin (IL)‐6 and IL‐8 in the supernatant. *<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAS-111-1910-g005.jpg"><?image-name CAS-111-1910-g005.jpg?><?image-size 137804?><?image-md5 224518f04340231eed47bc2b5198fbb1?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1230?><?image-original-width 1064?><?image-scaled-height 820?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/f3de/7293070/224518f04340/CAS-111-1910-g005.jpg?><?thumb-name CAS-111-1910-g005.gif?><?thumb-size 16447?><?thumb-md5 1986d5d29c71c58086a836b43c19daec?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 116?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/f3de/7293070/1986d5d29c71/CAS-111-1910-g005.gif?></graphic></fig></sec><sec id="cas14401-sec-0020"><label>3.6</label><title>NKG2D ligands affect the sensitivity of pemetrexed‐treated A549 cells to cytotoxic immune cells</title><p>Finally, we determined whether the PEM‐induced changes in PD‐L1 and NKG2D expression on lung cancer cells could influence their sensitivity to cytotoxic immune cells. The activated CD4<sup>+</sup> T cells used in this study had low positive expression of both PD‐1 and NKG2D receptors (Figure <xref rid="cas14401-fig-0006" ref-type="fig">6A</xref>). The NK cells purified from PBMC from a healthy donor had low positive expression of PD‐1 and clear positive expression of NKG2D (Figure <xref rid="cas14401-fig-0006" ref-type="fig">6B</xref>). Thus, we performed cytotoxicity assays in the presence of blocking antibodies against the PD‐1 inhibitory receptor or the NKG2D‐activating receptor. The results showed that the increase in the cytotoxicity of activated T cells against PEM‐treated PC9 and A549 cells was not influenced by the addition of these antibodies (Figure <xref rid="cas14401-fig-0006" ref-type="fig">6C</xref>, Figure <xref rid="cas14401-sup-0001" ref-type="supplementary-material">S3</xref>). In contrast, although the addition of anti–PD‐1 antibody had no effect on the cytotoxicity of NK cells to PEM‐treated A549 cells, that of anti–NKG2D antibody significantly decreased the cytotoxicity of NK cells against PEM‐treated A549 cells (Figure <xref rid="cas14401-fig-0006" ref-type="fig">6D</xref>, Figure <xref rid="cas14401-sup-0001" ref-type="supplementary-material">S4</xref>), suggesting a positive role for the PEM‐induced increase in ULBP in NK cell‐mediated cytotoxicity.</p><fig fig-type="FIGURE" xml:lang="en" id="cas14401-fig-0006" orientation="portrait" position="float"><label>FIGURE 6</label><caption><p>Role of programmed death‐ligand 1 (PD‐L1) and NKG2D ligands on pemetrexed (PEM)‐treated cancer cells in mediating sensitivity to cytotoxic immune cells. (A) Activated T cells were stained with APC‐conjugated anti–CD8, PE‐conjugated anti–CD4, FITC‐conjugated anti–PD‐1 or FITC‐conjugated anti–NKG2D antibody. As a control, these cells were stained with FITC‐conjugated mouse IgG. The bold line indicates staining with FITC‐conjugated anti–PD‐L1 antibody, and the gray background indicates staining with isotype‐matched FITC‐conjugated mouse IgG. The number represents the mean fluorescence intensity (MFI) ratio. (B) Similarly, purified natural killer (NK) cells were stained with PE‐conjugated anti–CD56 antibody and analyzed by flow cytometry. The number represents the MFI ratio. (C) Cancer cells that were cultured with PEM (2 µmol/L) for 2 d were cultured with activated T cells in the presence of the indicated antibodies in 96‐well plates for 6 h. After harvesting, annexin V‐FITC positive cells were examined as shown in Figure <xref rid="cas14401-fig-0002" ref-type="fig">2</xref>. (D) Similarly, PEM‐treated cancer cells were cultured with in vitro NK cells in the presence of the indicated antibodies in 96‐well plates for 12 h. After harvesting, annexin V‐FITC positive cells were examined as shown in Figure <xref rid="cas14401-fig-0002" ref-type="fig">2</xref>D and E. *<italic toggle="yes">P</italic> &lt; 0.05. **<italic toggle="yes">P</italic> &lt; 0.01. ***<italic toggle="yes">P</italic> &lt; 0.005</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="CAS-111-1910-g006.jpg"><?image-name CAS-111-1910-g006.jpg?><?image-size 114435?><?image-md5 1796b1636ed960ce1ce69251bff82d90?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1264?><?image-original-width 1064?><?image-scaled-height 842?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/f3de/7293070/1796b1636ed9/CAS-111-1910-g006.jpg?><?thumb-name CAS-111-1910-g006.gif?><?thumb-size 17138?><?thumb-md5 04d7d35a32b56be7d4ac7b56383c01f4?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 119?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/f3de/7293070/04d7d35a32b5/CAS-111-1910-g006.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="cas14401-sec-0021"><label>4</label><title>DISCUSSION</title><p>Pemetrexed has been frequently used as maintenance therapy for the treatment of NSCLC patients<xref rid="cas14401-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> and recently in combination with ICB therapy.<xref rid="cas14401-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> Although ICB therapy targeting the PD‐1/PD‐L1 interaction exerts anti–cancer effects via restoration of exhausted anti–cancer T cells,<xref rid="cas14401-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> the effects that PEM exerts on the sensitivity of NSCLC cells toward cytotoxic immune cells have not been elucidated. Here, we demonstrated that PEM can effectively augment the sensitivity of human NSCLC cells to cytotoxic immune cells.</p><p>Due to the unavailability of autologous lymphocytes for PC9 and A549 cell lines, we attempted to use allogeneic anti–EGFR CAR‐T cells as antigen‐specific cytotoxic immune cells. However, these T cells were found to be CD4<sup>+</sup> T cells after in vitro expansion. Nevertheless, they exerted higher levels of cytotoxicity against PEM‐treated PC9 and A549 cells than against untreated cancer cells. In terms of the underlying mechanism, we recently reported that these activated CD4<sup>+</sup> T cells showed enhanced cytotoxicity against doxorubicin‐treated human breast cancer cells partially through the tumor necrosis factor‐related apoptosis‐inducing ligand (TRAIL)/death receptor system.<xref rid="cas14401-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> This apoptosis‐inducing system may be involved in augmenting the sensitivity of PEM‐treated NSCLC cells to cytotoxic immune cells. Both PC9 and A549 cell lines were positive for HLA class I but negative for HLA class II, and PEM treatment showed no effects on their expressions (Figure <xref rid="cas14401-sup-0001" ref-type="supplementary-material">S1B</xref>). These results could exclude the possibility of the involvement of HLA class II‐restricted killing of cancer cells by activated CD4<sup>+</sup> T cells. By contrast, PEM treatment decreased the expression of the anti–apoptotic proteins XIAP in PC9 cells and Mcl‐1 in A549 cells (Figure <xref rid="cas14401-fig-0003" ref-type="fig">3</xref>). XIAP and Mcl‐1 inhibit extrinsic and intrinsic apoptotic pathways<xref rid="cas14401-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> and are involved in resistance to immune cell‐mediated cytotoxicity.<xref rid="cas14401-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref> Therefore, decreased expression of these anti–apoptotic proteins might, at least in part, account for PEM‐mediated sensitization of NSCLC cells to cytotoxic immune cells.</p><p>Pemetrexed increased the expression of PD‐L1 on PC9 cells (Figure <xref rid="cas14401-fig-0004" ref-type="fig">4A</xref>). To identify signal pathways involved in this augmentation, we screened a panel of signaling molecules by immunoblot assay using specific inhibitors. Our results suggest that PEM‐induced upregulation of PD‐L1 is dependent on activation of ERK and the NFκB pathway. In terms of the mechanisms by which ERK activation led to increased expression of PD‐L1 on PC9 cells, RAS/RAF/MEK, upstream molecules of ERK,<xref rid="cas14401-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> must be involved. Given that PC9 cells have an EGFR mutation and that RAS activation can be induced by signals via receptor tyrosine kinase, RAS activation could lead to ERK activation. Indeed, several studies have revealed that MEK/ERK signaling, as well as NFκB, can increase the expression of PD‐L1 on cancer cells.<xref rid="cas14401-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>, <xref rid="cas14401-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> However, PEM treatment also increased the phosphorylation levels of ERK in A549 cells, but no change of their PD‐L1 expression was observed. These results suggest that increased phosphorylation of ERK does not necessarily result in increased expression of PD‐L1. In contrast, a recent report suggested that IL‐6, which is involved in the JAK/STAT3 pathway, contributes to the expression of PD‐L1 on NSCLC.<xref rid="cas14401-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref> Thus, we examined the in vitro effect of IL‐6 on PD‐L1 expression on PC9 and A549 cells but no change was observed (Figure <xref rid="cas14401-sup-0001" ref-type="supplementary-material">S5</xref>). In addition, PEM treatment failed to change the expression of pSTAT3 in PC9 cells (Figure <xref rid="cas14401-fig-0004" ref-type="fig">4E</xref>).</p><p>Pemetrexed treatment increased the expression of NK receptor ligands, ULBP, on PC9 and A549 cells (Figure <xref rid="cas14401-fig-0005" ref-type="fig">5A</xref>). We also confirmed that the activating NK receptor NKG2D was expressed on both NK cells and T cells (Figure <xref rid="cas14401-fig-0006" ref-type="fig">6</xref>A and B). Of note, PEM‐induced upregulation of ULPB on A549 cells seemed to contribute to their increased sensitivity to NK cells because the addition of anti–NKG2D antibody decreased the levels of cytotoxicity (Figure <xref rid="cas14401-fig-0006" ref-type="fig">6D</xref>). We also examined the expression of NKG2D on NK cells from four healthy donors and found that variation of the NKG2D expression is small (Figure <xref rid="cas14401-sup-0001" ref-type="supplementary-material">S6</xref>). These findings suggest that PEM treatment may increase the expression of NK receptor ligands on cancer cells, leading to enhancement of their sensitivity to NK cell‐mediated cytotoxicity in NSCLC patients.</p><p>In cellular senescence, cells undergo irreversible cell cycle arrest in response to a variety of cellular stresses, including anti–cancer drugs.<xref rid="cas14401-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> Senescent cells acquire a unique feature, called a senescence‐associated secretory phenotype (SASP), and they produce some inflammatory cytokines, such as IL‐6 and IL‐8, which lead to cancer promotion and recurrence.<xref rid="cas14401-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="cas14401-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> Therefore, senescent cancer cells with SASP are a candidate therapeutic target in anti–cancer therapy.<xref rid="cas14401-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> Alternatively, senescent cancer cells upregulate NK receptor ligands, such as MICA/B and ULBP.<xref rid="cas14401-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>, <xref rid="cas14401-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref> Such ligands activate NK cells and T cells, both of which play important roles in immunosurveillance and anti–cancer immunity. In a recent couple of years, NKG2D and its ligands have been given considerable attention as targets for anti–cancer immunotherapy.<xref rid="cas14401-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>, <xref rid="cas14401-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="cas14401-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref> These lines of evidence suggest that NK cell‐mediated cytotoxicity could be involved in the therapeutic efficacy of ICB therapy combined with PEM in NSCLC patients.</p><p>Both PEM and methotrexate are anti–folate drugs, and methotrexate has the immunosuppressive properties and has been used in graft‐versus‐host disease, rheumatoid arthritis and other chronic inflammatory diseases.<xref rid="cas14401-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref> Therefore, we examined the effects of PEM on the viability of PC9 cells and CAR‐T cells in vitro. Both cells showed similar sensitivity toward PEM (Figure <xref rid="cas14401-sup-0001" ref-type="supplementary-material">S7</xref>), indicating its immunosuppressive effect. However, PEM has been reported to enhance the effects of anti–cancer immunotherapy through the induction of immunogenic cancer cell death and the promotion of infiltration/activation of T cells in murine tumor models.<xref rid="cas14401-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref> More importantly, PEM has been combined with ICB therapy for NSCLC patients.<xref rid="cas14401-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> Further studies are needed to elucidate the discrepant in vitro and in vivo results of PEM</p><p>In conclusion, we revealed that PEM can effectively sensitize human NSCLC cells to cytotoxic immune cells while modulating the expression of immune‐regulatory molecules. We hope that these findings provide useful information to improve the efficacy of combination therapy with ICB therapy and PEM for NSCLC patients.</p></sec><sec sec-type="COI-statement" id="cas14401-sec-0023"><title>CONFLICT OF INTEREST</title><p>The authors have no conflict of interest to declare.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cas14401-sup-0001" position="float" orientation="portrait"><caption><p>Figs S1‐S7</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAS-111-1910-s001.pdf" position="float" orientation="portrait"><?suppdata-name CAS-111-1910-s001.pdf?><?suppdata-size 919900?><?suppdata-md5 5d0fe5b67288018c795197f2a2e0a69f?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:f3de/7293070/5d0fe5b67288/CAS-111-1910-s001.pdf?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cas14401-sec-0022"><title>ACKNOWLEDGMENTS</title><p>This study was supported in part by the Japan Society for the Promotion of Science KAKENHI (Grant/Award Numbers 17K07217 [MH] and 16K19313 [TO]) and the Shimane University “SUIGANN” Project.</p></ack><ref-list content-type="cited-references" id="cas14401-bibl-0001"><title>REFERENCES</title><ref id="cas14401-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cas14401-cit-0001">
+<string-name name-style="western">
+<surname>Reck</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodríguez‐Abreu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robinson</surname>
+<given-names>AG</given-names>
+</string-name>, et al. <article-title>Pembrolizumab versus chemotherapy for PD‐L1‐positive non–small‐cell lung Cancer</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2016</year>;<volume>375</volume>:<fpage>1823</fpage>‐<lpage>1833</lpage>.<pub-id pub-id-type="pmid">27718847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1606774</pub-id></mixed-citation></ref><ref id="cas14401-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cas14401-cit-0002">
+<string-name name-style="western">
+<surname>Carbone</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reck</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paz‐Ares</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>First‐line nivolumab in stage IV or recurrent non–small‐cell lung cancer</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2017</year>;<volume>376</volume>:<fpage>2415</fpage>‐<lpage>2426</lpage>.<pub-id pub-id-type="pmid">28636851</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1613493</pub-id><pub-id pub-id-type="pmcid">PMC6487310</pub-id></mixed-citation></ref><ref id="cas14401-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cas14401-cit-0003">
+<string-name name-style="western">
+<surname>Gandhi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodríguez‐Abreu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gadgeel</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Pembrolizumab plus chemotherapy in metastatic non–small‐cell lung cancer</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2018</year>;<volume>378</volume>:<fpage>2078</fpage>‐<lpage>2092</lpage>.<pub-id pub-id-type="pmid">29658856</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1801005</pub-id></mixed-citation></ref><ref id="cas14401-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cas14401-cit-0004">
+<string-name name-style="western">
+<surname>Socinski</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jotte</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cappuzzo</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Atezolizumab for first‐line treatment of metastatic nonsquamous NSCLC</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2018</year>;<volume>378</volume>:<fpage>2288</fpage>‐<lpage>2301</lpage>.<pub-id pub-id-type="pmid">29863955</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1716948</pub-id></mixed-citation></ref><ref id="cas14401-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cas14401-cit-0005">
+<string-name name-style="western">
+<surname>Paz‐Ares</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luft</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vicente</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Pembrolizumab plus chemotherapy for squamous non–small‐cell lung cancer</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2018</year>;<volume>379</volume>:<fpage>2040</fpage>‐<lpage>2051</lpage>.<pub-id pub-id-type="pmid">30280635</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1810865</pub-id></mixed-citation></ref><ref id="cas14401-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cas14401-cit-0006">
+<string-name name-style="western">
+<surname>Shih</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gossett</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>LY231514, a pyrrolo pyrimidine‐based antifolate that inhibits multiple folate‐requiring enzymes</article-title>. <source xml:lang="en">Cancer Res</source>. <year>1997</year>;<volume>57</volume>:<fpage>1116</fpage>‐<lpage>1123</lpage>.<pub-id pub-id-type="pmid">9067281</pub-id></mixed-citation></ref><ref id="cas14401-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cas14401-cit-0007">
+<string-name name-style="western">
+<surname>Hanna</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shepherd</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fossella</surname>
+<given-names>FV</given-names>
+</string-name>, et al. <article-title>Randomized phase III trial of pemetrexed versus docetaxel in patients with non–small‐cell lung cancer previously treated with chemotherapy</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2004</year>;<volume>22</volume>:<fpage>1589</fpage>‐<lpage>1597</lpage>.<pub-id pub-id-type="pmid">15117980</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2004.08.163</pub-id></mixed-citation></ref><ref id="cas14401-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cas14401-cit-0008">
+<string-name name-style="western">
+<surname>Scagliotti</surname>
+<given-names>GV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parikh</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Von Pawel</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Phase III study comparing cisplatin plus gemcitabine with cisplatin plus pemetrexed in chemotherapy‐naive patients with advanced‐stage non–small‐cell lung cancer</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2008</year>;<volume>26</volume>:<fpage>3543</fpage>‐<lpage>3551</lpage>.<pub-id pub-id-type="pmid">18506025</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2007.15.0375</pub-id></mixed-citation></ref><ref id="cas14401-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cas14401-cit-0009">
+<string-name name-style="western">
+<surname>Paz‐Ares</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Marinis</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dediu</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>PARAMOUNT: Final overall survival results of the phase III study of maintenance pemetrexed versus placebo immediately after induction treatment with pemetrexed plus cisplatin for advanced nonsquamous non–small‐cell lung cancer</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2013</year>;<volume>31</volume>:<fpage>2895</fpage>‐<lpage>2902</lpage>.<pub-id pub-id-type="pmid">23835707</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2012.47.1102</pub-id></mixed-citation></ref><ref id="cas14401-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cas14401-cit-0010">
+<string-name name-style="western">
+<surname>West</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rasheed</surname>
+<given-names>AU</given-names>
+</string-name>, et al. <article-title>PD‐L1 blockade synergizes with IL‐2 therapy in reinvigorating exhausted T cells</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>2013</year>;<volume>123</volume>:<fpage>2604</fpage>‐<lpage>2615</lpage>.<pub-id pub-id-type="pmid">23676462</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI67008</pub-id><pub-id pub-id-type="pmcid">PMC3668811</pub-id></mixed-citation></ref><ref id="cas14401-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cas14401-cit-0011">
+<string-name name-style="western">
+<surname>Eleme</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taner</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Onfelt</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Cell surface organization of stress‐inducible proteins ULBP and MICA that stimulate human NK cells and T cells via NKG2D</article-title>. <source xml:lang="en">J Exp Med</source>. <year>2004</year>;<volume>199</volume>:<fpage>1005</fpage>‐<lpage>1010</lpage>.<pub-id pub-id-type="pmid">15051759</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1084/jem.20032194</pub-id><pub-id pub-id-type="pmcid">PMC2211882</pub-id></mixed-citation></ref><ref id="cas14401-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cas14401-cit-0012">
+<string-name name-style="western">
+<surname>Tong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanino</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Protein tyrosine kinase 2: a novel therapuetic target to overcome acquired EGFR‐TKI resistance in non–small cell lune cancer</article-title>. <source xml:lang="en">Resp Res</source>. <year>2019</year>;<volume>20</volume>:<fpage>270</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12931-019-1244-2</pub-id><pub-id pub-id-type="pmcid">PMC6889213</pub-id><pub-id pub-id-type="pmid">31791326</pub-id></mixed-citation></ref><ref id="cas14401-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cas14401-cit-0013">
+<string-name name-style="western">
+<surname>Tanino</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsubata</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harashima</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Novel drug‐resistance mechanisms of pemetrexed‐treated non–small cell lung cancer</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2018</year>;<volume>9</volume>:<fpage>16807</fpage>‐<lpage>16821</lpage>.<pub-id pub-id-type="pmid">29682186</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.24704</pub-id><pub-id pub-id-type="pmcid">PMC5908287</pub-id></mixed-citation></ref><ref id="cas14401-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cas14401-cit-0014">
+<string-name name-style="western">
+<surname>Inao</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotani</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iida</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Different sensitivities of senescent breast cancer cells to immune cell‐mediated cytotoxicity</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2019</year>;<volume>110</volume>:<fpage>2690</fpage>‐<lpage>2699</lpage>.<pub-id pub-id-type="pmid">31250942</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cas.14116</pub-id><pub-id pub-id-type="pmcid">PMC6726686</pub-id></mixed-citation></ref><ref id="cas14401-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cas14401-cit-0015">
+<string-name name-style="western">
+<surname>Andersen</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Becker</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Straten</surname>
+<given-names>PT</given-names>
+</string-name>. <article-title>Regulation of apoptosis: suitable targets for immune therapy of cancer</article-title>. <source xml:lang="en">Nat Rev Drug Discov</source>. <year>2005</year>;<volume>4</volume>:<fpage>399</fpage>‐<lpage>409</lpage>.<pub-id pub-id-type="pmid">15864269</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrd1717</pub-id></mixed-citation></ref><ref id="cas14401-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cas14401-cit-0016">
+<string-name name-style="western">
+<surname>Safa</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Day</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Cellular FLICE‐like inhibitory protein (c‐FLIP): a novel target for cancer therapy</article-title>. <source xml:lang="en">Curr Cancer Drug Targets</source>. <year>2008</year>;<volume>8</volume>:<fpage>37</fpage>‐<lpage>46</lpage>.<pub-id pub-id-type="pmid">18288942</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/156800908783497087</pub-id><pub-id pub-id-type="pmcid">PMC4524510</pub-id></mixed-citation></ref><ref id="cas14401-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cas14401-cit-0017">
+<string-name name-style="western">
+<surname>Patcharee</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azuma</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Intrinsic and extrinsic control of expression of the immunoregulatory molecule PD‐L1 in epithelial cells and squamous cell carcinoma</article-title>. <source xml:lang="en">Oral Oncol</source>. <year>2015</year>;<volume>51</volume>:<fpage>221</fpage>‐<lpage>228</lpage>.<pub-id pub-id-type="pmid">25500094</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.oraloncology.2014.11.014</pub-id></mixed-citation></ref><ref id="cas14401-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cas14401-cit-0018">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mezzadra</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schumacher</surname>
+<given-names>TN</given-names>
+</string-name>. <article-title>Regulation and function of the PD‐L1 checkpoint</article-title>. <source xml:lang="en">Immunity</source>. <year>2018</year>;<volume>48</volume>:<fpage>434</fpage>‐<lpage>452</lpage>.<pub-id pub-id-type="pmid">29562194</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2018.03.014</pub-id><pub-id pub-id-type="pmcid">PMC7116507</pub-id></mixed-citation></ref><ref id="cas14401-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cas14401-cit-0019">
+<string-name name-style="western">
+<surname>Serfling</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berberich‐Siebelt</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Avots</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>NFAT and NF‐kappaB factors‐the distinct relatives</article-title>. <source xml:lang="en">Int J Biochem Cell Biol</source>. <year>2004</year>;<volume>36</volume>:<fpage>1166</fpage>‐<lpage>1170</lpage>.<pub-id pub-id-type="pmid">15109564</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biocel.2003.07.002</pub-id></mixed-citation></ref><ref id="cas14401-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cas14401-cit-0020">
+<string-name name-style="western">
+<surname>Sagiv</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burton</surname>
+<given-names>DGA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moshayev</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>NKG2D ligands mediate immunosurveillance of senescence cells</article-title>. <source xml:lang="en">Aging</source>. <year>2016</year>;<volume>8</volume>:<fpage>328</fpage>‐<lpage>344</lpage>.<pub-id pub-id-type="pmid">26878797</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/aging.100897</pub-id><pub-id pub-id-type="pmcid">PMC4789586</pub-id></mixed-citation></ref><ref id="cas14401-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cas14401-cit-0021">
+<string-name name-style="western">
+<surname>Watanabe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kawamoto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ohtani</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Impact of senescence‐associated secretory phenotype and its potential as a therapeutic target for senescence‐associated diseases</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2017</year>;<volume>108</volume>:<fpage>563</fpage>‐<lpage>569</lpage>.<pub-id pub-id-type="pmid">28165648</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cas.13184</pub-id><pub-id pub-id-type="pmcid">PMC5406532</pub-id></mixed-citation></ref><ref id="cas14401-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cas14401-cit-0022">
+<string-name name-style="western">
+<surname>Coppé</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desprez</surname>
+<given-names>PY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krtolica</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>The senescence‐associated secretory phenotype: the dark side of tumor suppression</article-title>. <source xml:lang="en">Annu Rev Pathol</source>. <year>2010</year>;<volume>5</volume>:<fpage>99</fpage>‐<lpage>118</lpage>.<pub-id pub-id-type="pmid">20078217</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-pathol-121808-102144</pub-id><pub-id pub-id-type="pmcid">PMC4166495</pub-id></mixed-citation></ref><ref id="cas14401-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cas14401-cit-0023">
+<string-name name-style="western">
+<surname>Hartman</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Czyz</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Anti–apoptotic proteins on guard of melanoma</article-title>. <source xml:lang="en">Cancer Lett</source>. <year>2013</year>;<volume>331</volume>:<fpage>24</fpage>‐<lpage>34</lpage>.<pub-id pub-id-type="pmid">23340174</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2013.01.010</pub-id></mixed-citation></ref><ref id="cas14401-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cas14401-cit-0024">
+<string-name name-style="western">
+<surname>Kashkar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seeger</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hombach</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>XIAP targeting sensitizes Hodgkin lymphoma cells for cytolytic T‐cell attack</article-title>. <source xml:lang="en">Blood</source>. <year>2006</year>;<volume>108</volume>:<fpage>3434</fpage>‐<lpage>3440</lpage>.<pub-id pub-id-type="pmid">16868249</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2006-05-021675</pub-id></mixed-citation></ref><ref id="cas14401-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cas14401-cit-0025">
+<string-name name-style="western">
+<surname>Nguyen‐Ngoc</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bouchaab</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adjei</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peters</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>BRAF alterations as therapeutic targets in non–small‐cell lung cancer</article-title>. <source xml:lang="en">J Thorac Oncol</source>. <year>2015</year>;<volume>10</volume>:<fpage>1396</fpage>‐<lpage>1403</lpage>.<pub-id pub-id-type="pmid">26301799</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/JTO.0000000000000644</pub-id></mixed-citation></ref><ref id="cas14401-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cas14401-cit-0026">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Hypoxia‐inducible factor‐1α and nuclear factor‐κB play important roles in regulating programmed cell death ligand 1 expression by epidermal growth factor receptor mutants in non–small‐cell lung cancer cells</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2019</year>;<volume>110</volume>:<fpage>1665</fpage>‐<lpage>1675</lpage>.<pub-id pub-id-type="pmid">30844110</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cas.13989</pub-id><pub-id pub-id-type="pmcid">PMC6500984</pub-id></mixed-citation></ref><ref id="cas14401-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cas14401-cit-0027">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>LJ</given-names>
+</string-name>, et al. <article-title>Enhancing NK cell‐mediated cytotoxicity to cisplatin‐resistant lung cancer cells via MEK/Erk signaling inhibition</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2017</year>;<volume>7</volume>:<fpage>7958</fpage>.<pub-id pub-id-type="pmid">28801607</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-017-08483-z</pub-id><pub-id pub-id-type="pmcid">PMC5554231</pub-id></mixed-citation></ref><ref id="cas14401-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cas14401-cit-0028">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>The EGFR pathway is involved in the regulation of PD‐L1 expression via the IL‐6/JAK/STAT3 signaling pathway in EGFR‐mutated non–small cell lung cancer</article-title>. <source xml:lang="en">Int J Oncol</source>. <year>2016</year>;<volume>49</volume>:<fpage>1360</fpage>‐<lpage>1368</lpage>.<pub-id pub-id-type="pmid">27499357</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijo.2016.3632</pub-id></mixed-citation></ref><ref id="cas14401-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cas14401-cit-0029">
+<string-name name-style="western">
+<surname>Campisi</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Aging, cellular senescence, and cancer</article-title>. <source xml:lang="en">Annu Rev Physiol</source>. <year>2013</year>;<volume>75</volume>:<fpage>685</fpage>‐<lpage>705</lpage>.<pub-id pub-id-type="pmid">23140366</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-physiol-030212-183653</pub-id><pub-id pub-id-type="pmcid">PMC4166529</pub-id></mixed-citation></ref><ref id="cas14401-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cas14401-cit-0030">
+<string-name name-style="western">
+<surname>Ewald</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desotelle</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilding</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Therapy‐induced senescence in cancer</article-title>. <source xml:lang="en">J Natl Cancer Inst</source>. <year>2010</year>;<volume>102</volume>:<fpage>1536</fpage>‐<lpage>1546</lpage>.<pub-id pub-id-type="pmid">20858887</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnci/djq364</pub-id><pub-id pub-id-type="pmcid">PMC2957429</pub-id></mixed-citation></ref><ref id="cas14401-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cas14401-cit-0031">
+<string-name name-style="western">
+<surname>Sagiv</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burton</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moshayey</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>NKG2D ligands mediate immunosurveillance of senescent cells</article-title>. <source xml:lang="en">Aging (Albany NY)</source>. <year>2016</year>;<volume>8</volume>:<fpage>328</fpage>‐<lpage>344</lpage>.<pub-id pub-id-type="pmid">26878797</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/aging.100897</pub-id><pub-id pub-id-type="pmcid">PMC4789586</pub-id></mixed-citation></ref><ref id="cas14401-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cas14401-cit-0032">
+<string-name name-style="western">
+<surname>Hu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Batth</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Regulation of NKG2D<sup>+</sup> CD8<sup>+</sup> T‐cell‐mediated antitumor immune surveillance: Identification of a novel CD28 activation‐mediated, STAT3 phosphorylation‐dependent mechanism</article-title>. <source xml:lang="en">Oncoimmunol</source>. <year>2016</year>;<volume>5</volume>:<elocation-id>e1252012</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/2162402X.2016.1252012</pub-id><pub-id pub-id-type="pmcid">PMC5214668</pub-id><pub-id pub-id-type="pmid">28123894</pub-id></mixed-citation></ref><ref id="cas14401-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cas14401-cit-0033">
+<string-name name-style="western">
+<surname>Baumeister</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murad</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Werner</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Phase I Trial of Autologous CAR T Cells Targeting NKG2D Ligands in Patients with AML/MDS and Multiple Myeloma</article-title>. <source xml:lang="en">Cancer Immunol Res</source>. <year>2019</year>;<volume>7</volume>:<fpage>100</fpage>‐<lpage>112</lpage>.<pub-id pub-id-type="pmid">30396908</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2326-6066.CIR-18-0307</pub-id><pub-id pub-id-type="pmcid">PMC7814996</pub-id></mixed-citation></ref><ref id="cas14401-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cas14401-cit-0034">
+<string-name name-style="western">
+<surname>Tao</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tao</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Development of NKG2D‐based chimeric antigen receptor‐T cells for gastric cancer treatment</article-title>. <source xml:lang="en">Cancer Chemother Pharmacol</source>. <year>2018</year>;<volume>82</volume>:<fpage>815</fpage>‐<lpage>827</lpage>.<pub-id pub-id-type="pmid">30132099</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00280-018-3670-0</pub-id></mixed-citation></ref><ref id="cas14401-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cas14401-cit-0035">
+<string-name name-style="western">
+<surname>Murad</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baumeister</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Werner</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Manufacturing development and clinical production of NKG2D chimeric antigen receptor‐expressing T cells for autologous adoptive cell therapy</article-title>. <source xml:lang="en">Cytotherapy</source>. <year>2018</year>;<volume>20</volume>:<fpage>952</fpage>‐<lpage>963</lpage>.<pub-id pub-id-type="pmid">30180944</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcyt.2018.05.001</pub-id><pub-id pub-id-type="pmcid">PMC6127861</pub-id></mixed-citation></ref><ref id="cas14401-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cas14401-cit-0036">
+<string-name name-style="western">
+<surname>Genestier</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paillot</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fournel</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Immunosuppressive properties of methotrexate: apoptosis and clonal deletion of activated peripheral T cells</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>1998</year>;<volume>102</volume>:<fpage>322</fpage>‐<lpage>328</lpage>.<pub-id pub-id-type="pmid">9664073</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI2676</pub-id><pub-id pub-id-type="pmcid">PMC508890</pub-id></mixed-citation></ref><ref id="cas14401-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cas14401-cit-0037">
+<string-name name-style="western">
+<surname>Schaer</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geeganage</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amaladas</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>The Folate Pathway Inhibitor Pemetrexed Pleiotropically Enhances Effects of Cancer Immunotherapy</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2019</year>;<volume>25</volume>:<fpage>7175</fpage>‐<lpage>7188</lpage>.<pub-id pub-id-type="pmid">31409612</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-19-0433</pub-id></mixed-citation></ref></ref-list></back></article>
