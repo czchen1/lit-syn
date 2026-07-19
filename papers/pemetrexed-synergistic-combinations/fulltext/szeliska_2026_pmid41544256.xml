@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">822</journal-id><journal-id journal-id-type="pmc-domain">acssd</journal-id><journal-title-group><journal-title>Molecular Pharmaceutics</journal-title><abbrev-journal-title>Mol Pharm</abbrev-journal-title></journal-title-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13296477</article-id><article-id pub-id-type="pmcaid">13296477</article-id><article-id pub-id-type="pmcaiid">13296477</article-id><article-id pub-id-type="pmid">41544256</article-id><article-id pub-id-type="doi">10.1021/acs.molpharmaceut.5c01472</article-id><title-group><article-title>Culture
+Dimensionality Modulates Gallium Maltolate
+Response in Glioblastoma: Comparative Analyses in 2D and 3D Models</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Szeliska</surname><given-names initials="P">Paulina</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Jaroch</surname><given-names initials="K">Karol</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Wróblewska</surname><given-names initials="W">Weronika</given-names></name><xref ref-type="aff" rid="aff1">†</xref></contrib><contrib><name name-style="western"><surname>Kaźmierski</surname><given-names initials="Ł">Łukasz</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Maj</surname><given-names initials="M">Małgorzata</given-names></name><xref ref-type="aff" rid="aff2">‡</xref></contrib><contrib><name name-style="western"><surname>Bojko</surname><given-names initials="B">Barbara</given-names></name><xref ref-type="aff" rid="aff1">†</xref><xref rid="cor1" ref-type="author-notes">*</xref></contrib></contrib-group><aff id="aff1">
+<label>†</label>
+Department
+of Pharmacodynamics and Molecular Pharmacology, Faculty of Pharmacy,
+Collegium Medicum, Nicolaus Copernicus University, Jurasza 2, 85-089
+Bydgoszcz, Poland
+</aff><aff id="aff2">
+<label>‡</label>
+Urology
+and Andrology, Department of Tissue Engineering, Collegium Medicum, Nicolaus Copernicus University, M. Curie Skłodowskiej 9, 85-094
+Bydgoszcz, Poland
+</aff><author-notes><fn id="cor1"><label>*</label><p>
+
+<email>bbojko@cm.umk.pl</email>.</p></fn></author-notes><pub-date><day>16</day><month>1</month><year>2026</year></pub-date><volume>23</volume><issue>2</issue><fpage>1072</fpage><page-range>1072–1088</page-range><pub-history><event event-type="pmc-release"><date><day>26</day><month>6</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© 2026 American Chemical Society</copyright-statement><license><license-p>This article is licensed under CC-BY 4.0</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp5c01472.pdf" content-type="pmc-pdf"><?cloudpmc-path 8e67/13296477/2d97154681db/mp5c01472.pdf?><?cloudpmc-bucket app?><?size 3496943?></self-uri><abstract id="abstract1"><title>Abstract</title><p>Gallium maltolate (GaM) targets iron-dependent processes
+in glioblastoma
+(GBM), but responses vary with the model context. We evaluated GaM
+across established (A-172, U-87 MG) and patient-derived (3005, 3019,
+3034, 3048, 3073) GBM lines in 2D and 3D using viability modeling
+(IC10/IC50/IC90), transferrin receptor (TFRC) quantification, oxygen
+consumption rate (OCR), and PCA/PLS-DA-guided metabolomics with false
+discovery rate (FDR) and variable importance in projection (VIP)-based
+selection. GaM reduced viability in all models, but the impact of
+3D culture on IC50 was line-specific rather than uniformly increasing
+resistance: classical/proneural patient-derived lines (3005, 3019,
+3048) showed equal or lower IC50 in 3D compared with 2D, 3073 showed
+minimal change, whereas the mesenchymal-like line 3034 displayed a
+marked IC50 increase in 3D. Basal TFRC levels correlated with IC50
+in 2D but not 3D, indicating that the TFRC alone does not predict
+GaM response once microenvironmental constraints are introduced. Instead,
+a broader phenotype involving TFRC/CD44/MGMT and TFR2 expression is
+associated with 3D sensitization versus protection. OCR was markedly
+suppressed in A-172, U-87 MG, 3048, and 3073, particularly in 3D,
+while 3005 and 3019 were more respiration-resilient. Multivariate
+analyses showed treatment-dominant separation in 3005 and 3048, format
+dominance in 3019 and 3034, and time effects in A-172/U-87 MG/3073.
+A concise metabolic signature consisting of tryptophan, methionine,
+uracil, and allantoin indicated coordinated perturbations in amino
+acid, nucleotide, and redox pathways. These findings support complementary
+2D and 3D patient-derived GBM models for mechanistic studies and the
+predictive evaluation of GaM.</p><sec id="kwd-group1" sec-type="kwd-group" disp-level="2"><p><bold>Keywords:</bold> gallium maltolate; glioblastoma; 3D culture; solid phase microextraction, pharmacometabolomic</p></sec></abstract><abstract id="abstract2" abstract-type="graphical"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="mp5c01472_0014.jpg"><?cloudpmc-path blobs/8e67/13296477/d285cb621e9d/mp5c01472_0014.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 523?><?original-width 1000?><?scaled-height 348?><?scaled-width 666?></graphic></abstract><abstract id="abstract3" abstract-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="tgr1" xlink:href="mp5c01472_0013.jpg"><?cloudpmc-path blobs/8e67/13296477/2ea452524baf/mp5c01472_0013.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 523?><?original-width 1000?><?scaled-height 348?><?scaled-width 666?></graphic></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-in-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Received 2025 Oct 1; Accepted 2026 Jan 6; Revised 2025 Dec 28; Collection date 2026 Feb 2.</p></sec></notes></front><body><sec id="sec1" disp-level="1"><label>1.</label><title>Introduction</title><p>Glioblastoma (GBM) is
+a very heterogeneous tumor associated with
+a low survival rate. According to WHO’s classification for
+2021, histological analysis of tissue is no longer sufficient to classify
+a central nervous system tumor. GBM diagnosis
+includes investigation of mutation in isocitrate dehydrogenase (IDH-wildtype)
+and three genetic characteristics: TERT promoter mutation, EGFR amplification,
+and +7/–10 chromosome copy number. This new grading system
+allowed classification of histologically II or III grade diffuse gliomas
+into VI grade. Standard GBM treatment is composed of tumor resection,
+followed by radiotherapy and Temozolomide chemotherapy. However, research
+on molecular subtypes of glioblastoma suggested further differentiating
+them based on molecular changes. It would allow for personalized treatment.
+Novel GBM therapy focuses on a targeted approach. Immunotherapy, molecular-targeted,
+and angiogenesis-targeted approaches are most intensely researched. However, bevacizumab is the only targeted drug
+for recurring GBM treatment approved so far. There is still a need
+for new therapeutic approaches to improve the survival rate of patients.
+</p><p>Gallium was first introduced in the medical
+field in the late 1960s
+as a radioisotope. However, some Ga­(III)
+complexes showed potential in oncological therapy. Ga­(III) shares
+some properties with iron and can be introduced into metabolic pathways
+as an iron substitute. Ga­(III) can bind to iron-binding proteins and
+cause iron deficiency in rapidly proliferating cells such as cancer
+cells. Transferrin (Tf) is a protein with
+two iron-binding sites and is responsible for delivering iron to cells;
+therefore, it is a potential way to provide Ga-based compounds, as
+well. Approximately one-third of circulating Tf is iron-loaded Tf,
+also known as holo-Tf. This loaded Tf enters the cell by binding to
+the Tf receptor (TfR1 and TfR2), and the nonloaded Tf (apo-Tf) remains
+circulating in the organism. It leaves about 2/3 of Tf available to
+deliver Ga­(III) complexes into cells.<italic>
+,
+</italic> Nowadays, researchers
+focus on three Ga complexes with the highest potential in clinical
+applications, and they are currently undergoing clinical trials: gallium
+nitrate (GaN), tris­(8-quinolinolato)­gallium­(III) (KP46), and gallium
+maltoalte (GaM). GaM is a complex of a
+gallium ion and three deprotonated gallium groups. It was proven to
+have a few times higher bioavailability than gallium salts. It is an orally administered compound due to
+its high bioavailability; moreover, most of it is Tf-bound in the
+blood. It has been proven to inhibit
+cell proliferation in lymphoma resistant to GaN. Lately, Chitambar et al. analyzed the mechanism of action
+of GaM in 2D and 3D glioblastoma cell cultures as well as in tumor
+rat xenografts and showed the potential of GaM to induce tumor cell
+apoptosis via disrupting the iron homeostasis. The ability of gallium
+to cross the blood–brain barrier (BBB) by binding to endogenous
+Tf has enhanced delivery and targets TfR-bearing GBM. GaM has been
+shown to influence the mitochondrial function of tumor cells as well
+as RRM2 activity, leading to blocking DNA synthesis in GMB cells without
+affecting normal cells. GaM has an impact on the TCA cycle and inhibits
+mitochondrial oxygen consumption. A phase
+1 clinical trial is being conducted to determine the response of patients
+with relapsed and/or treatment-refractory tumors.
+</p><p>Metabolic alterations in cancer cells have long been
+explored for
+their usefulness in profiling the phenotypes of many tumors. Research
+revealed a good correlation between mutations found in GBM, e.g.,
+PDGFRA, IDH1, EGFR, and NF1, and the tumor’s metabolic fingerprint.
+Thanks to extensive work on determining possible GMB metabolomic profiles,
+it became a promising tool for preclinical drug screening and tumor
+resistance to therapy exploration. However, the correlations among
+the tumor metabolomic profile, transferrin receptor (TFRC), and the
+GaM treatment response have not yet been made. The comparison of the
+metabolomic profile with the results of standard cell culture assays
+will help to evaluate potential oncometabolic targets for assessing
+the efficiency of the GaM therapy.</p><p>Solid phase microextraction
+(SPME) is not a commonly used sample
+preparation method, yet it is an extremely promising tool for <italic>in vitro</italic> pharmaceutical research, as proven in previous
+studies conducted in our laboratory<italic>
+,
+</italic> and other
+studies.<italic>
+,
+</italic> Moreover, SPME was previously used for the
+analysis of the brain and brain tumors <italic>in vivo</italic>.<italic>
+−
+
+
+
+
+</italic> Results revealed that SPME can provide spatially resolved metabolic
+and lipidomic profiles of patients’ brains <italic>in vivo</italic> by utilizing minimally invasive sampling, which omits physical sample
+consumption. Due to this unique feature, the technique is also known
+as “chemical biopsy”. In addition, the use of specially
+optimized biocompatible coating enables covering both hydrophobic
+(e.g., lipids) and polar compounds (e.g., amino acids). The same method was proposed for studies of
+brain tumors. SPME in fiber form was used to penetrate tumor tissue
+for metabolome/lipidome sampling. The results showed that this sample
+preparation method was capable of providing a characteristic phenotypic
+snapshot of the brain tumor providing lipicomic and metabolomic markers of
+disease. Analysis showed different levels of carnitine and acylcarnitines
+correlating with IDH-mutation and 1p/19q codeletion status. Following
+these investigations, targeted lipidomic analysis with the use of
+Coated Blade Spray was carried out. The results showed different levels
+of carnitine and acylcarnitines correlating with IDH-mutation and
+1p/19q codeletion status. Moreover, utilizing CBS, which omits LC
+separation and allows for fast instrumental analysis without compromising
+sample cleanup, demonstrated the potential of the approach for rapid
+on-site screening of potential biomarkers.<italic>
+−
+
+</italic>
+</p><p>Combining
+pharmacometabolomics with cell phenotype and genetic
+analyses in 3D culture models may advance the understanding of glioblastoma,
+particularly within the iron-imbalanced microenvironment. Linking
+these profiles with the therapeutic response could provide novel insight
+into gallium maltolate as a potential treatment. Applying SPME, which
+has proven its usefulness in glioma metabolipidomic profiling, for <italic>in vitro</italic> and <italic>in vivo</italic> temporal studies would
+help bridge the presented <italic>in vitro</italic> data with subsequent <italic>in vivo</italic> animal research.</p></sec><sec id="sec2" disp-level="1"><label>2.</label><title>Materials and Methods</title><p>Unless stated
+otherwise, all chemicals were purchased from the
+Merck Group (Darmstadt, Germany).</p><sec id="sec2.1" disp-level="2"><label>2.1.</label><title>Gallium Maltolate (GaM) Preparation</title><p>Gallium maltolate was purchased from BioTech (Los Angeles, CA, USA)
+and kept at 4 °C. A stock solution of 1 mM was prepared by suspending
+in sterile, ultrapure water, vortexing, and 5 min of sonication, followed
+by another thorough vortexing.</p></sec><sec id="sec2.2" disp-level="2"><label>2.2.</label><title>2D Cell Culture</title><p>Cell line U-87MG
+was purchased from the American Type Culture Collection (ATCC, Manassas,
+USA), and the A-172 cell line was purchased from Cell Line Service
+(CLS, Eppelheim, Germany). Both cell lines were cultivated in DMEM
+(Corning, NY, USA) supplemented with 10% fetal bovine serum (Corning,
+NY, USA) and an antibiotic antimycotic solution. Cells were cultured
+at 37 °C, 5% CO<sub>2</sub>, and constant humidity. Patient-derived
+glioblastoma cells were acquired from the Human Glioblastoma Cell
+Culture resource (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.hgcc.se" ext-link-type="uri">www.hgcc.se</ext-link>) at the Department of Immunology, Genetics and Pathology, Uppsala
+University, Uppsala, Sweden. The 3005,
+3019, 3034, 3048, and 3073 cells (basic characteristics and selected
+gene expressions provided by the HGCC biobank in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.molpharmaceut.5c01472/suppl_file/mp5c01472_si_001.pdf" ext-link-type="uri">Table S1</ext-link>) were cultured according to the HGCC guidelines:
+DMEM: F12 (high glucose):Neurobasal, 1:1 (Thermo Fisher Scientific
+Inc., Waltham, MA, USA) supplemented with N1 supplement (0.5×)
+and N2 supplement (0.5×), B27 supplement (1×), epidermal
+growth factor (EGF, 10 ng/mL), basic fibroblast growth factor (bFGF,
+10 ng/mL), and antibiotic antimycotic solution. HGCC cells were cultured
+on culture dishes coated with polyornithine (10 μg/mL) and laminin
+(10 μg/mL). Cells were passaged at 70–80% confluence.
+U-87MG and A-172 cell lines were detached with trypsin, while accutase
+was used for the HGCC cells. Cell counting was performed by mixing
+with trypan blue and counting by an automated cell counter (Countess
+II FL, Invitrogen by Thermo Fisher Scientific Inc., Waltham, MA, USA).</p></sec><sec id="sec2.3" disp-level="2"><label>2.3.</label><title>3D Cell Culture</title><p>3D cell cultures
+were established from the 2D cell cultures described above. The protocol
+described by Wanigasekara et al. was followed with minor changes. Briefly, cells were counted with an automatic
+cell counter, and a cell suspension of 10000 cells/200 μL was
+prepared, and 200 μL of cell suspension was added to a 96-well
+ultralow attachment culture plate (Nunc, Thermo Fisher Scientific
+Inc., Waltham, MA, USA). The plate was then spun (230<italic>g</italic>, 5 min), and cell clusters were incubated for 24 h. Then 100 μL
+of media was removed, and an equal volume of fresh medium was added.
+100 μL of cell culture media was changed every second to third
+day. Spheroids were cultured for 10 days before GaM was added. Spheroid
+size was monitored with an inverted phase contrast microscope CKX53
+(Olympus, Japan). Photos were taken with a compatible EP50 Camera
+(Olympus, Japan).</p></sec><sec id="sec2.4" disp-level="2"><label>2.4.</label><title>Viability Assay</title><p>Cell viability was
+assessed using the MTT assay (2D cultures) or the CellTiter-Glo 3D
+assay (spheroid cultures). Cells of U-87MG, A-172, 3073, 3048, 3034,
+3019, and 3005 were seeded at a density of 2500, 2500, 7500, 10000,
+10000, 7500, and 12000 cells/well, respectively, in a 2D culture and
+10000 cells/well for spheroids (12000 for the 3005 cell line). The
+cell culture seeding densities were chosen so that after 72 h of incubation
+the untreated cells would reach 70–80% confluence. Cells were
+then incubated (24 h for 2D and 10 days for 3D spheroids). After incubation,
+100 μL of fresh cell culture media was added with GaM in a 15–165
+μM concentration range. For 2D cells, the MTT assay was performed
+after 24 h and 72 h. Celltiter Glo was performed after 72 h and a
+7 day incubation for spheroids.</p><p>For 2D cell culture, after incubation,
+the medium was changed to 100 μL of MTT solution (1 mg/mL in
+DMEM with no phenol red, 10% FBS) and incubated for 3 h. Formed formazan
+crystals were dissolved in isopropanol (100 μL), and absorbance
+(570 nm/690 nm) was measured using a microplate reader (Synergy H1,
+BioTek, Winoosky, VT, USA). Cell viability was expressed as a percentage
+relative to that of the untreated control. The assay was repeated
+three times independently, with 8 technical replicates per concentration.</p><p>Cell viability in 3D spheroid cultures was determined using a CellTiter-Glo
+3D cell viability assay (Promega). Following treatment with GaM, spheroids
+were gently transferred with a cut pipet tip to a white 96-well plate.
+An equal volume of CellTiter-Glo 3D reagent was added directly to
+each well. Plates were incubated for 30 min at room temperature on
+an orbital shaker to allow for complete cell lysis and ATP stabilization.
+Luminescence, proportional to the number of metabolically active cells,
+was measured using a microplate reader. Cell viability was expressed
+as a percentage relative to the untreated control. The assay was repeated
+three times independently, with 6 technical replicates per concentration.</p></sec><sec id="sec2.5" disp-level="2"><label>2.5.</label><title>Oxygen Consumption Assay</title><p>Extracellular
+oxygen consumption was measured using the Extracellular Oxygen Consumption
+Assay (OCR) Kit (Abcam, ab197243, Cambridge, UK) following the manufacturer’s
+protocol. Briefly, cells were seeded in black, clear-bottom 96-well
+plates at a density of 1 × 10<sup>5</sup> cells per well and
+cultured overnight. After GaM was added, 10 μL of Extracellular
+Oxygen Consumption Reagent was added to each well. Plates were immediately
+sealed with the supplied mineral oil overlay to prevent oxygen diffusion
+and incubated at 37 °C. Fluorescence (Ex/Em = 380/650 nm) was
+measured kinetically using a microplate reader, and oxygen consumption
+rates were calculated from the change in signal over time. Each cell
+line was measured in duplicate per condition.</p></sec><sec id="sec2.6" disp-level="2"><label>2.6.</label><title>Protein Extraction and Quantification</title><p>Cells were collected and transferred to 15 mL conical
+tubes. After centrifugation at 300<italic>g</italic> for 7 min at
+room temperature, cell pellets were resuspended in ice-cold PBS and
+centrifuged again at 300<italic>g</italic> for 7 min at 4 °C.
+Pellets were lysed in Complete Cell Extraction Buffer supplemented
+with protease inhibitors (1 mL per 1 × 10<sup>8</sup> cells).
+Lysates were vortexed briefly, incubated on ice for 30 min with intermittent
+mixing, and clarified by centrifugation at 13,000<italic>g</italic> for 10 min at 4 °C. Supernatants were transferred to fresh
+tubes and stored at −80 °C. Total protein concentration
+was determined using the BCA Protein Assay Kit (Thermo Fisher Scientific)
+according to the manufacturer’s protocol. The assay was performed
+in triplicate for each cell line and condition.</p></sec><sec id="sec2.7" disp-level="2"><label>2.7.</label><title>Human Transferrin Receptor (TfR/CD71) ELISA</title><p>Following the manufacturer’s protocol, TfR/CD71 levels were
+quantified using the Human Transferrin Receptor ELISA Kit (Thermo
+Fisher Scientific Inc., Waltham, MA, USA). Based on BCA quantification,
+equal amounts of protein were diluted in assay buffer and loaded in
+duplicate into antibody-coated 96-well plates along with the standards.
+After incubation at room temperature for 2.5 h, wells were washed
+and incubated sequentially with biotinylated detection antibody and
+HRP-conjugated streptavidin. A signal was developed with the TMB substrate,
+and reactions were stopped with stop solution. Absorbance was measured
+at 450 nm by using a microplate reader. TfR concentrations were calculated
+from the standard curve and normalized to the total protein. The assay
+was performed in triplicate for each cell line and condition.</p></sec><sec id="sec2.8" disp-level="2"><label>2.8.</label><title>Cell Lysis for Endometabolome Analysis</title><p>2D cells were collected during a standard passage procedure and counted
+by an automatic cell counter as described in <xref rid="sec2.2" ref-type="sec">Section 
+</xref>. Cells were resuspended in PBS (1 ×
+10<sup>6</sup> cells/ml). 3D spheroids were transferred into Eppendorf
+tubes, centrifuged, and then resuspended in PBS (1 spheroid/100 μL).
+Both 2D and 3D cells were submerged in liquid nitrogen for metabolome
+quenching and kept at −80 °C until further analysis. Defrosted
+samples were sonicated (1 cycle, 5 min, 70%) and then cooled on ice
+(5 min). Extracts were centrifuged at 10,000<italic>g</italic> for
+10 min, and the supernatant was transferred into fresh collection
+tubes. Extracts were then spiked with an internal standard <sc>L</sc>-tryptophan-<italic>d</italic>
+<sub>8</sub> (TRC, Vaughan, Canada)
+to monitor extraction in a final concentration of 100 ppb. Each sample
+type (cell line and condition) was analyzed in tetraplicate.</p></sec><sec id="sec2.9" disp-level="2"><label>2.9.</label><title>SPME-LC-MS/MS</title><p>Solid-phase microextraction
+(SPME) coated blade spray (CBS) devices (CB-HLB, 10 mm coating) were
+purchased from Anchem (Restek No. 23248, Warsaw, Poland). Before use,
+the blades were preconditioned overnight in methanol:water (1:1, v/v)
+under static conditions. Immediately before extraction, CBS blades
+were rinsed for 5 s with ultrapure water. For extraction, 120 μL
+of the spiked sample was agitated for 2 h at 850 rpm using a BenchMixer
+XLQ QuEChERs Shaker/Vortexer (Merck Group). After extraction, blades
+were briefly rinsed again in ultrapure water (5 s) before desorption.
+Analyte desorption was performed in acetonitrile:water (1:1, v/v)
+for 2 h under agitation at 850 rpm. Desorbed samples were analyzed
+using a Nexera UHPLC system (Shimadzu, Kyoto, Japan) coupled to an
+LC–MS 8060 triple quadrupole mass spectrometer (Shimadzu, Kyoto,
+Japan). The LC–MS/MS method was based on the Primary Metabolites
+Version 3 method package (Shimadzu, Kyoto, Japan). Chromatographic
+separation was performed on a reversed-phase Discovery HS F5 column
+(100 × 2.1 mm, 3 μm; Supelco, Bellefonte, PA, USA). Quality
+control (QC) was ensured by including pooled QC samples and probe
+blanks throughout the study.</p></sec><sec id="sec2.10" disp-level="2"><label>2.10.</label><title>Data Processing and Statistical Analysis</title><p>Dose–response curves for GaM were generated from MTT and
+CellTiter-Glo viability assays using R (tidyverse, drc, and stringr
+packages). Inhibitory concentrations (IC10, IC50, and IC90) were estimated
+using the drc package ED function.</p><p>TFRC expression levels were
+quantified, and the statistical significance of group differences
+was assessed in R using tidyverse, ggplot2, ggpubr, dplyr, and FSA
+packages. Comparisons between groups were performed with a two-tailed
+Student’s <italic>t</italic>-test, with <italic>p</italic> &lt;
+0.05 considered statistically significant.</p><p>The association between
+baseline TFRC levels in untreated control
+cells and GaM sensitivity (IC10 and IC50 values) was evaluated using
+Pearson’s correlation test, implemented in R with tidyverse
+and ggpubr packages.</p><p>LC-MS/MS raw data were processed with Skyline
+software with MRM
+transitions provided in the Primary Metabolites Version 3 method package
+(Shimadzu, Kyoto, Japan).</p><p>Pooled QC and blank samples were used
+for data preprocessing. Preprocessed
+data sets were implemented into Metaboanalyst 6.0, a free online software. Metaboanalyst’s batch correction module
+was used in automated mode. Batch corrected data were further normalized
+based on internal standards and analyzed in Metaboanalyst, Statistical
+Analysis [one factor] with the following parameters for normalization
+node: sample normalization was set to none, data were log 10 transformed,
+and auto scaling data scaling was implemented. Principal component
+analysis (PCA) and partial least-squares discriminant analysis (PLS-DA)
+were performed to evaluate the separation among sample groups. Variables
+with variable importance in projection (VIP) scores exceeding 1 were
+designated as significant, reflecting their contribution to the model’s
+discriminative power and predictive reliability.</p><p>Further statistical
+analyses were performed in R (version 4.5.0)
+using the dplyr, ggplot2, ggpubr, ggsignif, tibble, tidyverse, FSA,
+and purrr packages (Code S1-S6). The Kruskal–Wallis test followed
+by Dunn’s post hoc test with false discovery rate (FDR) correction
+was applied for four-group comparisons. For two-group comparisons,
+the Wilcoxon rank-sum test with the FDR correction was used. Metabolites
+were considered significant if they passed the statistical threshold
+and exhibited a variable importance in projection (VIP) score greater
+than 1.</p></sec></sec><sec id="sec3" disp-level="1"><label>3.</label><title>Results</title><sec id="sec3.1" disp-level="2"><label>3.1.</label><title>TFRC Expression and Its Association with GaM
+Sensitivity in 2D and 3D Culture Systems</title><p>The monitoring of
+the 3D cell culture before the GaM treatment revealed that the spheroids
+of different cells exhibit varying behaviors. U-87 MG, 3005, 3019,
+and 3048 displayed clear growth of spheroid size, while A-172, 3034,
+and 3073 showed a decrease in spheroid size with higher spheroid density
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.molpharmaceut.5c01472/suppl_file/mp5c01472_si_001.pdf" ext-link-type="uri">Figures S1 and S2</ext-link>). Dose–response
+analyses revealed apparent differences in GaM cytotoxicity between
+2D and 3D culture formats across the tested glioblastoma cell lines
+(<xref rid="fig1" ref-type="fig">Figure 
+</xref>). The analyzed
+cell lines displayed a wide range of GaM sensitivity in both 2D and
+3D cell culture formats, which indicates that even between the same
+tumor culture the heterogeneity of GBM still makes the therapy effectiveness
+hard to predict. Specific lines (e.g., A-172, 3019, 3048) displayed
+a steeper dose–response curve in 3D compared with 2D conditions,
+indicating enhanced protection against treatment conferred by the
+3D environment. Meanwhile, the cells such as U-87 MG and 3034 had
+higher IC50 concentrations in 3D culture.</p><fig id="fig1" position="float"><?disp-level 3?><label>1</label><caption><p>Percentage of cell viability
+compared to control after 72 h incubation
+with GaM (15–165 μM, 2D; left; 15–135 μM,
+3D, right). The error bars represent relative standard deviation (RSD).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr1" xlink:href="mp5c01472_0001.jpg"><?cloudpmc-path blobs/8e67/13296477/7be2b7011c4f/mp5c01472_0001.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 2377?><?original-width 1250?><?scaled-height 1189?><?scaled-width 625?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0001.gif"><?cloudpmc-path blobs/8e67/13296477/6beb565c0ec4/mp5c01472_0001.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Basal TFRC expression levels differed substantially
+between 2D
+and 3D cultures (<xref rid="fig2" ref-type="fig">Figure 
+</xref>). Several cell lines (3005, 3019, 3034, 3073, U-87 MG) exhibited
+significantly higher TFRC protein abundance in 3D compared with 2D
+conditions, suggesting that culture dimensionality impacts iron-metabolism-related
+pathways. Conversely, A-172 cells showed minimal differences between
+formats.</p><fig id="fig2" position="float"><?disp-level 3?><label>2</label><caption><p>TFRC normalized for total protein content in nontreated control
+cells cultured in 2D and 3D format. The error bars represent the standard
+deviation (SD).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr2" xlink:href="mp5c01472_0002.jpg"><?cloudpmc-path blobs/8e67/13296477/0140b2cf7fb8/mp5c01472_0002.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1051?><?original-width 1979?><?scaled-height 420?><?scaled-width 791?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0002.gif"><?cloudpmc-path blobs/8e67/13296477/8b1fdfd64fcf/mp5c01472_0002.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Correlation analysis further revealed that TFRC
+expression was
+positively associated with GaM sensitivity in 2D cultures, with a
+strong correlation observed between TFRC levels and IC50 values (<italic>R</italic> = 0.82, <italic>p</italic> = 0.024; <xref rid="fig3" ref-type="fig">Figure 
+</xref>). A similar but weaker, nonsignificant trend
+was seen for IC10 values (<italic>R</italic> = 0.39, <italic>p</italic> = 0.42). By contrast, no meaningful associations were detected in
+3D cultures, where TFRC levels did not correlate with IC50 (<italic>R</italic> = 0.11, <italic>p</italic> = 0.82) or IC10 (<italic>R</italic> = −0.07, <italic>p</italic> = 0.87). However, the U-87 MG
+cell line behaved differently under 3D conditions. Excluding it as
+an outlier strengthened the Pearson correlation, yielding IC10 (<italic>R</italic> = 0.38, <italic>p</italic> = 4.45) and IC50 (<italic>R</italic> = 0.92, <italic>p</italic> = 0.01).</p><fig id="fig3" position="float"><?disp-level 3?><label>3</label><caption><p>Correlation of detected TFRC level and
+IC50 and IC10 concentration
+determined with MTT (2D - top) and CellTiter Glo (3D - middle) assays
+and 3D correlation without U-87 MG (bottom).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr3" xlink:href="mp5c01472_0003.jpg"><?cloudpmc-path blobs/8e67/13296477/3fb3535f54f7/mp5c01472_0003.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1505?><?original-width 1833?><?scaled-height 602?><?scaled-width 733?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0003.gif"><?cloudpmc-path blobs/8e67/13296477/65a90be236cd/mp5c01472_0003.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="sec3.2" disp-level="2"><label>3.2.</label><title>Effects of GaM on TFRC Expression and Mitochondrial
+Respiration in 2D and 3D Culture Models</title><p>GaM treatment induced
+marked and cell-line-dependent alterations in TFRC expression, with
+distinct responses observed between 2D and 3D culture formats (<xref rid="fig4" ref-type="fig">Figure 
+</xref>). In 2D conditions,
+a significant drop of TFRC level was observed in several lines (e.g.,
+3019, 3073, A-172) following 24 h or 72 h of exposure. In contrast,
+other lines (e.g., 3005, 3048) displayed variable or nonsignificant
+changes. By contrast, in 3D cultures, TFRC modulation was more heterogeneous:
+U-87 MG and 3034 exhibited a pronounced decrease after treatment,
+while 3073 demonstrated a transient upregulation at 72 h and 3019
+showed no significant reduction even at 168 h. These findings highlight
+both format-specific and temporal differences in the regulation of
+iron uptake pathways upon GaM exposure. Consistent with the TFRC data,
+the OCR measurements revealed that GaM also differentially influenced
+mitochondrial respiration across culture formats (<xref rid="fig5" ref-type="fig">Figure 
+</xref>). In A-172, U-87 MG, 3073,
+and 3048 cells, GaM treatment led to a pronounced suppression of oxygen
+consumption, most evident under 3D conditions, suggesting impaired
+mitochondrial activity. In contrast, 3019 and 3005 cells maintained
+relatively stable OCR profiles irrespective of treatment, reflecting
+a higher metabolic resilience. Interestingly, 3034 cells displayed
+sustained OCR in 3D despite TFRC downregulation, indicating a possible
+shift to alternative metabolic pathways to support respiration.</p><fig id="fig4" position="float"><?disp-level 3?><label>4</label><caption><p>FTCR TFRC normalized
+total protein content in 2D cells (top) treated
+with IC50 concentration of GaM for 24 and 72 h and untreated control;
+3D (bottom) treated with 2D IC50 concentration for 72 and 168 h and
+untreated control. The error bars represent standard deviation (SD).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr4" xlink:href="mp5c01472_0004.jpg"><?cloudpmc-path blobs/8e67/13296477/b7561d4e7ceb/mp5c01472_0004.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 2087?><?original-width 1979?><?scaled-height 834?><?scaled-width 791?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0004.gif"><?cloudpmc-path blobs/8e67/13296477/d9f50d65edd9/mp5c01472_0004.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><fig id="fig5" position="float"><?disp-level 3?><label>5</label><caption><p>OCR level in 2D and 3D cultures immediately after 2DIC50
+concentration
+and untreated control. The error bars represent standard deviation
+(SD).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr5" xlink:href="mp5c01472_0005.jpg"><?cloudpmc-path blobs/8e67/13296477/c90129559a1d/mp5c01472_0005.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 2312?><?original-width 2092?><?scaled-height 770?><?scaled-width 697?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0005.gif"><?cloudpmc-path blobs/8e67/13296477/dd709925b289/mp5c01472_0005.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Taken together, these results demonstrate that
+GaM exerts a dual
+effect on glioblastoma cells by modulating TFRC expression and impairing
+mitochondrial respiration with both responses being strongly dependent
+on cell line identity and the dimensionality of the culture system.</p></sec><sec id="sec3.3" disp-level="2"><label>3.3.</label><title>Multivariate Analysis of Metabolic Profiles
+in 2D and 3D Cultures</title><p>To investigate global metabolic alterations
+induced by GaM treatment, principal component analysis (PCA) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.molpharmaceut.5c01472/suppl_file/mp5c01472_si_001.pdf" ext-link-type="uri">Figures S3 and S4 and Table S2</ext-link>) and partial least-squares
+discriminant analysis (PLS-DA) were performed for each cell line under
+different experimental conditions (<xref rid="fig6" ref-type="fig">Figure 
+</xref>). Clear separation between sample groups
+was observed, with the degree of clustering varying according to the
+cell line, treatment duration, and culture format.</p><fig id="fig6" position="float"><?disp-level 3?><label>6</label><caption><p>PLS-DA score plots showing
+separation of all cell lines in A) 2D
+24 h vs 72 h, B) 3D 72 h vs 168 h, and C) 72 h 2D vs 3D (<italic>n</italic> = 6).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr12" xlink:href="mp5c01472_0006.jpg"><?cloudpmc-path blobs/8e67/13296477/b328f0c13433/mp5c01472_0006.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 2549?><?original-width 1904?><?scaled-height 1019?><?scaled-width 761?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0006.gif"><?cloudpmc-path blobs/8e67/13296477/a0ea1f3a6ef1/mp5c01472_0006.gif?><?cloudpmc-bucket cdn?></graphic></alternatives><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="GRAPHIC-d14e461-autogenerated" xlink:href="mp5c01472_0007.jpg"><?cloudpmc-path blobs/8e67/13296477/deca51c5aef1/mp5c01472_0007.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1946?><?original-width 1905?><?scaled-height 778?><?scaled-width 762?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0007.gif"><?cloudpmc-path blobs/8e67/13296477/df715e191a78/mp5c01472_0007.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>In A-172 and U-87 MG cells, temporal effects were
+the predominant
+drivers of variance, with early (24 h) and late (72–168 h)
+treatment groups forming distinct clusters. Treatment-dependent separation
+was also evident, particularly at later time points, although overlap
+between the control and GaM-exposed samples persisted in some comparisons.
+Among the patient-derived glioblastoma models, 3005 and 3048 exhibited
+a stronger treatment-dependent response, as GaM exposure led to pronounced
+segregation of metabolic profiles from untreated controls, especially
+under 3D conditions. In contrast, 3019 and 3034 cells demonstrated
+striking format-specific clustering, with 2D and 3D cultures forming
+distinct groups regardless of treatment, underscoring the dominant
+effect of dimensionality in shaping metabolic programs. Finally, 3073
+cells displayed combined influences of both time and culture format,
+with 3D groups clearly separated from their 2D counterparts and temporal
+clustering evident within each format.</p><p>These analyses indicate
+that GaM induces robust and cell-line-specific
+metabolic reprogramming. In some lines (e.g., 3005, 3048), treatment
+was the dominant factor, whereas in others (e.g., 3019, 3034) the
+culture format exerted the most decisive influence. In contrast, for
+A-172, U-87 MG, and 3073, metabolic variation was driven primarily
+by the treatment duration.</p><p>The comparative analysis of treated
+cells and the untreated control
+within one incubation time further explored the metabolomic separation
+upon GaM exposure (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.molpharmaceut.5c01472/suppl_file/mp5c01472_si_001.pdf" ext-link-type="uri">Figures S5–S11, Table S1</ext-link>). Targeted metabolomic profiling revealed consistent alterations
+in several metabolites across glioblastoma models following GaM exposure
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.molpharmaceut.5c01472/suppl_file/mp5c01472_si_001.pdf" ext-link-type="uri">Table S3</ext-link>). Among the significantly perturbed
+metabolites, uracil accumulated in multiple models, indicating the
+disruption of pyrimidine metabolism, which may reflect altered nucleotide
+turnover or stress-related RNA degradation (<xref rid="fig7" ref-type="fig">Figures 
+</xref> and ). In turn,
+tryptophan levels were markedly reduced in treated cells, suggesting
+interference with tryptophan catabolism and potentially implicating
+the kynurenine pathway (<xref rid="fig9" ref-type="fig">Figures 
+</xref> and ). Methionine levels
+were significantly diminished upon treatment, consistent with impaired
+one-carbon metabolism and reduced methylation potential (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.molpharmaceut.5c01472/suppl_file/mp5c01472_si_001.pdf" ext-link-type="uri">Figures S12 and S13</ext-link>), while allantoin, a marker
+of oxidative stress and purine catabolism, was strongly elevated,
+reflecting treatment-induced redox imbalance (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.molpharmaceut.5c01472/suppl_file/mp5c01472_si_001.pdf" ext-link-type="uri">Figures S14 and S15</ext-link>). The full scope of significantly changed
+metabolites can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.molpharmaceut.5c01472/suppl_file/mp5c01472_si_001.pdf" ext-link-type="uri">Table S2</ext-link>.</p><fig id="fig7" position="float"><?disp-level 3?><label>7</label><caption><p>Change
+in levels of uracil between GaM-treated cells and untreated
+control in 2D culture with VIP score and <italic>p</italic>-value
+(FDR). The error bars represent standard deviation (SD).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr13" xlink:href="mp5c01472_0008.jpg"><?cloudpmc-path blobs/8e67/13296477/d83e2fd30337/mp5c01472_0008.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1607?><?original-width 2100?><?scaled-height 536?><?scaled-width 700?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0008.gif"><?cloudpmc-path blobs/8e67/13296477/d73747831aed/mp5c01472_0008.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><fig id="fig8" position="float"><?disp-level 3?><label>8</label><caption><p>Change in levels of uracil between GaM-treated cells and
+untreated
+control in 3D culture with VIP score and <italic>p</italic>-value
+(FDR). The error bars represent standard deviation (SD).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr14" xlink:href="mp5c01472_0009.jpg"><?cloudpmc-path blobs/8e67/13296477/11915288c824/mp5c01472_0009.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1606?><?original-width 2092?><?scaled-height 535?><?scaled-width 697?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0009.gif"><?cloudpmc-path blobs/8e67/13296477/0bb132890188/mp5c01472_0009.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><fig id="fig9" position="float"><?disp-level 3?><label>9</label><caption><p>Change in levels of tryptophan between GaM-treated cells
+and untreated
+control in 2D culture with VIP score and <italic>p</italic>-value
+(FDR). The error bars represent standard deviation (SD).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr15" xlink:href="mp5c01472_0010.jpg"><?cloudpmc-path blobs/8e67/13296477/d43f9927ea6a/mp5c01472_0010.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1598?><?original-width 2100?><?scaled-height 533?><?scaled-width 700?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0010.gif"><?cloudpmc-path blobs/8e67/13296477/4e7e858e6e9c/mp5c01472_0010.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><fig id="fig10" position="float"><?disp-level 3?><label>10</label><caption><p>Change in levels of tryptophan between GaM-treated cells
+and untreated
+control in 2D culture with VIP score and <italic>p</italic>-value
+(FDR). The error bars represent standard deviation (SD).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr16" xlink:href="mp5c01472_0011.jpg"><?cloudpmc-path blobs/8e67/13296477/f60160281d97/mp5c01472_0011.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1614?><?original-width 2100?><?scaled-height 538?><?scaled-width 700?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0011.gif"><?cloudpmc-path blobs/8e67/13296477/9a65eacbbb4e/mp5c01472_0011.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>Pathway enrichment analysis supported these observations,
+highlighting
+significant impacts on amino acid metabolism (tryptophan and methionine),
+nucleotide metabolism (uracil and purines), and redox-related pathways
+(allantoin) (<xref rid="fig11" ref-type="fig">Figure 
+</xref>, <xref rid="tbl1" ref-type="table">Table 
+</xref>). These
+pathways emerged among the most significantly perturbed, with high
+pathway impact scores, suggesting that GaM treatment broadly reprograms
+metabolic networks essential for glioblastoma proliferation and survival.</p><fig id="fig11" position="float"><?disp-level 3?><label>11</label><caption><p>Pathway
+analysis of significantly differential features from metabolomic
+analysis.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="gr17" xlink:href="mp5c01472_0012.jpg"><?cloudpmc-path blobs/8e67/13296477/3d1441d353ad/mp5c01472_0012.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEED_LOADING?><?original-height 1236?><?original-width 1333?><?scaled-height 618?><?scaled-width 666?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="mp5c01472_0012.gif"><?cloudpmc-path blobs/8e67/13296477/196d671b8c85/mp5c01472_0012.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><table-wrap id="tbl1" position="float"><?disp-level 3?><label>1</label><caption><title>Detailed Information on Pathway Analysis
+Performed Based on Metabolites of VIP Score &gt; 1 and FDR &lt; 0.05
+in All the Cell Lines and Both 2D and 3D Culture Models</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="/" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="center" colspan="1" rowspan="1">Pathway Name</th><th align="center" colspan="1" rowspan="1">Match Status</th><th align="center" colspan="1" rowspan="1">
+<italic>p</italic>
+</th><th align="center" colspan="1" rowspan="1">–log(<italic>p</italic>)</th><th align="center" colspan="1" rowspan="1">Holm <italic>p</italic>
+</th><th align="center" colspan="1" rowspan="1">FDR</th><th align="center" colspan="1" rowspan="1">Impact</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">Valine,
+leucine, and isoleucine biosynthesis</td><td align="center" colspan="1" rowspan="1">4/8</td><td align="center" colspan="1" rowspan="1">1.23 × 10<sup>–06</sup>
+</td><td align="center" colspan="1" rowspan="1">5.9096</td><td align="center" colspan="1" rowspan="1">9.85 × 10<sup>–05</sup>
+</td><td align="center" colspan="1" rowspan="1">9.85 × 10<sup>–05</sup>
+</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">One carbon
+pool by folate</td><td align="center" colspan="1" rowspan="1">5/26</td><td align="center" colspan="1" rowspan="1">1.32 × 10<sup>–05</sup>
+</td><td align="center" colspan="1" rowspan="1">4.8783</td><td align="center" colspan="1" rowspan="1">0.001045</td><td align="center" colspan="1" rowspan="1">0.000529</td><td align="center" colspan="1" rowspan="1">0.06931</td></tr><tr><td align="left" colspan="1" rowspan="1">Arginine biosynthesis</td><td align="center" colspan="1" rowspan="1">3/14</td><td align="center" colspan="1" rowspan="1">0.000566</td><td align="center" colspan="1" rowspan="1">3.2473</td><td align="center" colspan="1" rowspan="1">0.044133</td><td align="center" colspan="1" rowspan="1">0.015088</td><td align="center" colspan="1" rowspan="1">0.18617</td></tr><tr><td align="left" colspan="1" rowspan="1">Glycine, serine, and threonine
+metabolism</td><td align="center" colspan="1" rowspan="1">4/33</td><td align="center" colspan="1" rowspan="1">0.000715</td><td align="center" colspan="1" rowspan="1">3.1455</td><td align="center" colspan="1" rowspan="1">0.055082</td><td align="center" colspan="1" rowspan="1">0.014307</td><td align="center" colspan="1" rowspan="1">0.21459</td></tr><tr><td align="left" colspan="1" rowspan="1">Phenylalanine,
+tyrosine, and tryptophan biosynthesis</td><td align="center" colspan="1" rowspan="1">2/4</td><td align="center" colspan="1" rowspan="1">0.000887</td><td align="center" colspan="1" rowspan="1">3.0523</td><td align="center" colspan="1" rowspan="1">0.068271</td><td align="center" colspan="1" rowspan="1">0.017733</td><td align="center" colspan="1" rowspan="1">1</td></tr><tr><td align="left" colspan="1" rowspan="1">Pantothenate and CoA biosynthesis</td><td align="center" colspan="1" rowspan="1">3/20</td><td align="center" colspan="1" rowspan="1">0.001689</td><td align="center" colspan="1" rowspan="1">2.7725</td><td align="center" colspan="1" rowspan="1">0.12832</td><td align="center" colspan="1" rowspan="1">0.027015</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Nitrogen metabolism</td><td align="center" colspan="1" rowspan="1">2/6</td><td align="center" colspan="1" rowspan="1">0.002183</td><td align="center" colspan="1" rowspan="1">2.6609</td><td align="center" colspan="1" rowspan="1">0.16375</td><td align="center" colspan="1" rowspan="1">0.02911</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Phenylalanine
+metabolism</td><td align="center" colspan="1" rowspan="1">2/8</td><td align="center" colspan="1" rowspan="1">0.004014</td><td align="center" colspan="1" rowspan="1">2.3964</td><td align="center" colspan="1" rowspan="1">0.29706</td><td align="center" colspan="1" rowspan="1">0.045496</td><td align="center" colspan="1" rowspan="1">0.35714</td></tr><tr><td align="left" colspan="1" rowspan="1">Glutathione
+metabolism</td><td align="center" colspan="1" rowspan="1">3/28</td><td align="center" colspan="1" rowspan="1">0.00455</td><td align="center" colspan="1" rowspan="1">2.342</td><td align="center" colspan="1" rowspan="1">0.33212</td><td align="center" colspan="1" rowspan="1">0.045496</td><td align="center" colspan="1" rowspan="1">0.02309</td></tr><tr><td align="left" colspan="1" rowspan="1">Glyoxylate
+and dicarboxylate metabolism</td><td align="center" colspan="1" rowspan="1">3/32</td><td align="center" colspan="1" rowspan="1">0.00667</td><td align="center" colspan="1" rowspan="1">2.1759</td><td align="center" colspan="1" rowspan="1">0.48025</td><td align="center" colspan="1" rowspan="1">0.052934</td><td align="center" colspan="1" rowspan="1">0.02667</td></tr><tr><td align="left" colspan="1" rowspan="1">Cysteine
+and methionine metabolism</td><td align="center" colspan="1" rowspan="1">3/33</td><td align="center" colspan="1" rowspan="1">0.007278</td><td align="center" colspan="1" rowspan="1">2.138</td><td align="center" colspan="1" rowspan="1">0.51677</td><td align="center" colspan="1" rowspan="1">0.052934</td><td align="center" colspan="1" rowspan="1">0.22222</td></tr><tr><td align="left" colspan="1" rowspan="1">Arginine
+and proline metabolism</td><td align="center" colspan="1" rowspan="1">3/36</td><td align="center" colspan="1" rowspan="1">0.009298</td><td align="center" colspan="1" rowspan="1">2.0316</td><td align="center" colspan="1" rowspan="1">0.64156</td><td align="center" colspan="1" rowspan="1">0.061986</td><td align="center" colspan="1" rowspan="1">0.18139</td></tr><tr><td align="left" colspan="1" rowspan="1">Valine,
+leucine, and isoleucine degradation</td><td align="center" colspan="1" rowspan="1">3/40</td><td align="center" colspan="1" rowspan="1">0.012459</td><td align="center" colspan="1" rowspan="1">1.9045</td><td align="center" colspan="1" rowspan="1">0.84721</td><td align="center" colspan="1" rowspan="1">0.076671</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Histidine
+metabolism</td><td align="center" colspan="1" rowspan="1">2/16</td><td align="center" colspan="1" rowspan="1">0.016197</td><td align="center" colspan="1" rowspan="1">1.7906</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.092555</td><td align="center" colspan="1" rowspan="1">0.22131</td></tr><tr><td align="left" colspan="1" rowspan="1">β-Alanine
+metabolism</td><td align="center" colspan="1" rowspan="1">2/21</td><td align="center" colspan="1" rowspan="1">0.0273</td><td align="center" colspan="1" rowspan="1">1.5638</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.1456</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Alanine, aspartate, and glutamate
+metabolism</td><td align="center" colspan="1" rowspan="1">2/28</td><td align="center" colspan="1" rowspan="1">0.04663</td><td align="center" colspan="1" rowspan="1">1.3313</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.23315</td><td align="center" colspan="1" rowspan="1">0.3109</td></tr><tr><td align="left" colspan="1" rowspan="1">Purine metabolism</td><td align="center" colspan="1" rowspan="1">3/70</td><td align="center" colspan="1" rowspan="1">0.054267</td><td align="center" colspan="1" rowspan="1">1.2655</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.25538</td><td align="center" colspan="1" rowspan="1">0.00158</td></tr><tr><td align="left" colspan="1" rowspan="1">Pyrimidine metabolism</td><td align="center" colspan="1" rowspan="1">2/39</td><td align="center" colspan="1" rowspan="1">0.084215</td><td align="center" colspan="1" rowspan="1">1.0746</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.35725</td><td align="center" colspan="1" rowspan="1">0.05261</td></tr><tr><td align="left" colspan="1" rowspan="1">Thiamine metabolism</td><td align="center" colspan="1" rowspan="1">1/7</td><td align="center" colspan="1" rowspan="1">0.084848</td><td align="center" colspan="1" rowspan="1">1.0714</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.35725</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Taurine and hypotaurine metabolism</td><td align="center" colspan="1" rowspan="1">1/8</td><td align="center" colspan="1" rowspan="1">0.096396</td><td align="center" colspan="1" rowspan="1">1.0159</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.38558</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Biotin metabolism</td><td align="center" colspan="1" rowspan="1">1/10</td><td align="center" colspan="1" rowspan="1">0.11908</td><td align="center" colspan="1" rowspan="1">0.92417</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.45363</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<sc>d</sc>-Amino acid metabolism</td><td align="center" colspan="1" rowspan="1">1/15</td><td align="center" colspan="1" rowspan="1">0.17344</td><td align="center" colspan="1" rowspan="1">0.76086</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.57813</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Butanoate
+metabolism</td><td align="center" colspan="1" rowspan="1">1/15</td><td align="center" colspan="1" rowspan="1">0.17344</td><td align="center" colspan="1" rowspan="1">0.76086</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.57813</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Nicotinate and nicotinamide
+metabolism</td><td align="center" colspan="1" rowspan="1">1/15</td><td align="center" colspan="1" rowspan="1">0.17344</td><td align="center" colspan="1" rowspan="1">0.76086</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.57813</td><td align="center" colspan="1" rowspan="1">0.1943</td></tr><tr><td align="left" colspan="1" rowspan="1">Ubiquinone
+and other terpenoid-quinone biosynthesis</td><td align="center" colspan="1" rowspan="1">1/19</td><td align="center" colspan="1" rowspan="1">0.21462</td><td align="center" colspan="1" rowspan="1">0.66834</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.68677</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Lysine degradation</td><td align="center" colspan="1" rowspan="1">1/30</td><td align="center" colspan="1" rowspan="1">0.31805</td><td align="center" colspan="1" rowspan="1">0.49751</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.95829</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Porphyrin
+metabolism</td><td align="center" colspan="1" rowspan="1">1/31</td><td align="center" colspan="1" rowspan="1">0.32678</td><td align="center" colspan="1" rowspan="1">0.48575</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.95829</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Sphingolipid metabolism</td><td align="center" colspan="1" rowspan="1">1/32</td><td align="center" colspan="1" rowspan="1">0.3354</td><td align="center" colspan="1" rowspan="1">0.47443</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.95829</td><td align="center" colspan="1" rowspan="1">0</td></tr><tr><td align="left" colspan="1" rowspan="1">Tryptophan metabolism</td><td align="center" colspan="1" rowspan="1">1/41</td><td align="center" colspan="1" rowspan="1">0.40845</td><td align="center" colspan="1" rowspan="1">0.38886</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.14305</td></tr><tr><td align="left" colspan="1" rowspan="1">Tyrosine metabolism</td><td align="center" colspan="1" rowspan="1">1/42</td><td align="center" colspan="1" rowspan="1">0.41608</td><td align="center" colspan="1" rowspan="1">0.38083</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">1</td><td align="center" colspan="1" rowspan="1">0.13972</td></tr></tbody></table></table-wrap></sec></sec><sec id="sec4" disp-level="1"><label>4.</label><title>Discussion</title><p>GBM is an aggressive and
+incurable tumor of the central nervous
+system. The alarming increase in incidence, frequent recurrences,
+and high mortality has driven a steady rise in research on new and
+effective therapies in recent years. A next-generation compound, GaM,
+showed greater efficacy in preclinical studies compared with GaN against
+hepatocellular carcinoma cells and GaN-resistant lymphoma cells, suggesting
+that the mechanism of gallium ion transport in complex with maltolate
+differs from that of GaN.<italic>
+,
+</italic> The proven effectiveness
+of GaM against treatment-resistant cells provides strong prospects
+for developing an effective therapy for aggressive and incurable GBM.</p><p>The present study aimed to evaluate the cytotoxic activity of GaM
+against GBM cells in both 2D and 3D culture models. GaM exploits transferrin,
+a protein responsible for iron transfer into the cell, to access the
+brain and GBM cells. Chitambar et al. described that GaM disrupts
+mitochondrial function (notably complex I via impaired iron–sulfur
+cluster assembly) and inhibits the iron-dependent RRM2 subunit of
+ribonucleotide reductaseeffects demonstrated in U-87 MG/D54
+cells and validated <italic>in vivo</italic> where GaM retards GBM
+growth and alters iron markers. Glioblastoma
+cell lines have been shown to overexpress transferrin receptors frequently,
+and not only TfR1; TfR2 is highly and commonly expressed in GBM, and
+it has been associated with grade and proliferation, underscoring
+that the phenotype of iron transfer into the cells is broader and
+may shape sensitivity to iron-mimetic therapies.
+</p><p>Culture dimension emerged as a dominant modifier
+of the GaM response
+in our models. Several lines (A-172, U-87 MG, 3073, 3048) showed stronger
+OCR suppression and more apparent metabolic separation in 3D than
+2D, consistent with evidence that advanced 3D GBM systems introduce
+higher complexity to the <italic>in vitro</italic> models, such as
+diffusion barriers, ECM/mechanical cues, and chemical gradientsfeatures
+that modulate drug penetration and can reduce apparent drug sensitivity
+relative to monolayers. In particular,
+an engineered human BBB–GBM coculture showed decreased Temozolomide
+sensitivity with increased tumor spatial organization and BBB involvement,
+exemplifying how microenvironmental architecture can decouple single-target
+predictors (e.g., TFRC levels) from whole-cell pharmacologic outcomes. However, in our panel, this effect was not uniform.
+Some cell lines (3005, 3019, 3048) exhibited equal or even lower GaM
+IC50 values in 3D compared with 2D, while others gained relative protection
+in 3D, indicating that dimensionality introduces factors that can
+either sensitize or conversely protect cells depending on intrinsic
+phenotype. Direct comparison of IC50 values obtained in 2D and 3D
+should nonetheless be interpreted with caution. In 2D monolayers,
+we used the MTT assay, which primarily reports mitochondrial dehydrogenase
+activity, whereas 3D spheroids were assessed with CellTiter-Glo, which
+quantifies cellular ATP. Because these assays probe distinct aspects
+of cell metabolism, some of the apparent 2D–3D differences
+may reflect assay-dependent sensitivity to GaM-induced metabolic stress,
+especially when taking into account that GaM has been known to influence
+mitochondial function.
+</p><p>Model identity
+also influenced the GaM phenotypes. Established
+lines (A-172, U-87 MG) tended to display time-dependent separation
+and robust OCR effects, whereas multiple patient-derived lines showed
+either format-dominated clustering (2D vs 3D outweighing treatment;
+e.g., 3019, 3034) or pronounced treatment-specific separation (e.g.,
+3005, 3048). This mirrors comparisons between established GBM lines
+and patient-derived/neurosphere models, where 3D states rewire metabolism
+and drug sensitivity. It has been shown
+that cells cultured in 3D spheroids present significant resistance
+to Temozolomide compared with 2D normoxic or even hypoxic conditions. However, culture format did not uniformly reflect
+the therapy resistance in patient-derived GBM lines or <italic>ex
+vivo</italic> 3D tumor samples, which underlines the high level of
+heterogenity even within this brain tumor.<italic>
+−
+
+</italic> Among patient-derived
+cells, those with a more mesenchymal-like profile and higher basal
+expression of CD44, TFRC, and MGMT (3034, 3073) were those in which
+3D cell culture most strongly increased GaM IC50, relative to 2D,
+whereas classical/proneural-like lines with comparatively higher TFR2
+and lower TFRC/CD44 (3005, 3019, 3048) tended to become more sensitive
+or remain equally sensitive in 3D. Moreover, GaM differentially modulated
+TFRC protein levels: in 2D, several lines that showed lower IC50 values
+in 3D (3019, 3048) exhibited significantly lower TFRC levels after
+treatment, whereas mesenchymal lines increased TFRC levels in 3D spheroids.
+When TFRC protein levels were compared with GaM sensitivity across
+models, a positive correlation with IC<sub>50</sub> was observed in
+2D monolayers; however, this relationship largely disappeared in 3D
+spheroids. Notably, some lines such as A-172, 3005, and 3073 deviated
+from the overall 2D trend, highlighting that TFRC alone does not determine
+GaM response. These models differ in CD44 and MGMT expression as well
+as in their metabolic reaction to GaM, suggesting that iron uptake,
+adhesion, and DNA repair need to be considered together. Importantly,
+in this study, we quantified only TfR1; we did not assess TfR2 or
+other potential GaM uptake routes, such as alternative iron carriers
+or nontransferrin endocytic pathways. Thus, TFRC is best interpreted
+as part of a broader iron- and stress-related phenotype that shapes
+but does not uniquely dictate GaM sensitivity, especially in 3D. Future
+work should explore the contribution of TfR2 and additional entry
+mechanisms to GaM delivery into GMB cells.</p><p>The observed alterations
+in tryptophan, uracil, methionine, and
+allantoin provide insights into the cellular response to GaM treatment.
+Tryptophan depletion is particularly relevant, as it may reflect increased
+catabolism through the kynurenine pathway, a route tightly linked
+to immunosuppression and tumor progression.<italic>
+,
+</italic> Reduced availability of tryptophan could therefore impair protein
+synthesis and alter immune interactions, suggesting that GaM interferes
+with both metabolic and signaling roles of this essential amino acid;
+similarly, the consistent changes in uracil point to disrupted pyrimidine
+metabolism. Accumulation of uracil has been associated with imbalances
+in nucleotide pools and misincorporation into DNA, which require base
+excision repair. Such changes may contribute to replication stress
+and reduced proliferation under GaM exposure.<italic>
+,
+</italic> The decrease in methionine levels further underscores the influence
+on DNA. Methionine is a key donor in one-carbon metabolism and methylation
+reactions, and its depletion suggests impaired DNA and histone methylation
+capacity, which could translate into epigenetic instability and altered
+gene regulation in glioblastoma cells.<italic>
+,
+</italic>
+</p><p>Finally,
+the significant increase in allantoin reflects perturbations
+in purine metabolism and elevated levels of oxidative stress. Allantoin
+accumulation is a recognized marker of reactive oxygen species (ROS)
+activity. This implies that GaM treatment may induce redox imbalance
+and oxidative damage, compromising glioblastoma cell viability.<italic>
+,
+</italic> These findings suggest that GaM exerts its effects through a multifaceted
+disruption of amino acid, nucleotide, and redox metabolism. This combination
+of metabolic stressors likely contributes to impaired biosynthesis,
+genomic instability, and oxidative damage, thereby sensitizing glioblastoma
+cells to treatment.</p><p>Summarizing, at the metabolite level, methionine,
+uracil, and allantoin
+provide a concise, mechanism-anchored narrative that aligns with our
+pathway analysis. Tryptophan depletion implicates kynurenine/immune-metabolic
+axes; methionine decrease suggests pressure on one-carbon metabolism
+and methylation capacity; uracil dysregulation points to pyrimidine
+pool imbalance and nucleic acid turnover stress; and allantoin elevation
+is compatible with ROS-linked purine oxidationall converging
+with our OCR data on mitochondrial compromise under GaM. Together, these data support amino-acid, nucleotide,
+and redox stress as integrated drivers of GaM cytotoxicity.</p><p>These metabolomic signatures also help to rationalize the heterogeneous
+GaM sensitivity observed between 2D and 3D cultures. Spheroids already
+operate under a basal metabolomic pressure. GaM-induced depletion
+of tryptophan and methionine, perturbation of uracil homeostasis,
+and accumulation of allantoin are therefore expected to push some
+models closer to a metabolic ‘tipping point’. In line
+with this, classical/proneural patient-derived lines with relatively
+higher TFR2 and lower TFRC/CD44/MGMT tended to display equal or lower
+GaM IC50 values in 3D compared with 2D, consistent with exacerbated
+amino-acid, nucleotide, and redox stress under spheroid conditions.
+By contrast, mesenchymal-like lines with elevated TFRC, CD44 and MGMTand
+the capacity to further increase TFRC in 3D after GaM exposurewere
+those in which 3D culture provided relative protection from GaM. This
+pattern suggests that pathways involved in iron metabolism, cell adhesion,
+and DNA repair help these cells cope with GaM-induced metabolic stress,
+making them relatively less sensitive to treatment in 3D.</p><p>Translationally,
+GaM has shown <italic>in vivo</italic> activity
+in GBM xenografts, including oral delivery that slows tumor growth
+and extends disease-specific survival; early reports also noted reductions in tumor and relative cerebral
+blood volume, and continuous administration suppressed glioma growth <italic>in vivo</italic>. These findings along
+with literature on gallium complexes as anticancer agents reinforce
+the rationale for GaM development into preclinical–clinical
+translation. Finally, synergy with complex-I
+inhibition (e.g., metformin) in 2D and 3D GBM further supports a mitochondria-centric
+vulnerability under GaM treatment that may be exploitable in rational
+combinations.
+</p><p>However, even inside
+the GBM tumor samples, there is still high
+heterogeneity, and at this point, clear biological sensitivity markers
+cannot be defined. Therefore, a study using a comprehensive patient-derived
+glioblastoma cell panel should be performed to further explore the
+role of the <italic>in vitro</italic> microenvironment. We also did
+not systematically quantify necrotic core formation or other structural
+features of the spheroids; a more detailed structural characterization
+of 3D aggregates, including necrosis and hypoxia mapping, will be
+important for further refinement of the model. Direct quantification
+of gallium uptake and GaM penetration into the 3D spheroid could provide
+more information on the real toxicity of the drug, improving <italic>in vitro</italic>–<italic>in vivo</italic> extrapolation of
+results. Our findings support the further development of GaM for GBM
+and provide a framework for further biomarker searches and model systems
+that better predict clinical performance.</p></sec><sec id="sec5" disp-level="1"><label>5.</label><title>Conclusion</title><p>Culture dimensionality modulates,
+rather than uniformly governs,
+GaM response in GBM. Across established and patient-derived models,
+3D spheroids revealed phenotypes that were not apparent in 2D: classical/proneural
+PDCs with relatively higher TFR2 and lower TFRC/CD44/MGMT often displayed
+equal or lower IC50 values in 3D compared with 2D, whereas mesenchymal-like,
+TFRC/CD44/MGMT-high lines gained relative protection in 3D. TFRC (TfR1)
+levels correlated with GaM IC50 in 2D, but this association was lost
+in 3D, indicating that TFRC is one component of a broader iron-, adhesion-,
+and DNA-repair–related phenotype rather than a standalone biomarker
+of sensitivity. In addition, only TfR1 was quantified here, and the
+roles of TfR2 and alternative uptake routes remain to be explored.
+Metabolomics and multivariate analyses converged on a compact signaturetryptophan,
+methionine, uracil, and allantoinconsistent with stress in
+amino-acid, one-carbon/nucleotides and redox pathways alongside mitochondrial
+dysfunction. These findings support the use of complementary 2D and
+3D patient-derived GBM models to capture the context-dependent actions
+of GaM and to guide future work on transferrin-based targeting and
+rational combination strategies.</p></sec><sec id="sec19" disp-level="1"><title>Supplementary Material</title><supplementary-material id="sifile1" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp5c01472_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 8e67/13296477/8af5f2fe8065/mp5c01472_si_001.pdf?><?cloudpmc-bucket app?><?size 3314118?></media></supplementary-material></sec><sec id="ACK-d14e960-autogenerated" sec-type="ack" disp-level="1"><title>Acknowledgments</title><p>We thank Kamil Łuczykowski and Joanna Bogusiewicz for
+technical support with LC-MS workflows. We thank Natalia Warmuzińska
+for comprehensive statistical advice. Portions of language editing
+were assisted by ChatGPT (OpenAI, GPT-5 Thinking, 16.12.2025).</p></sec><sec id="notes-3" disp-level="1"><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.5c01472?goto=supporting-info" ext-link-type="uri">https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.5c01472</ext-link>.</p><list list-type="simple" id="silist"><list-item><p>Figure S1. Photos of spheroids 24 h and 240 h after
+formation. Figure S2. The spheroid diameter (μm) after the first
+24 h of incubation and 240 h after incubation. Figure S3. PCA score
+plots of all analyzed samples and extraction QC samples. Figure S4.
+PCA score plots showing separation of all cell lines in A) 2D 24 h
+vs 72 h, B) 3D 72 h vs 168 h, C) 72 h 2D vs 3D (<italic>n</italic> = 6). Figure S5. PCA (top) and PLS-DA score plots showing separations
+of the A-172 cell line in 2D and 3D, treated (G) and untreated (C).
+Figure S6. PCA (top) and PLS-DA score plots showing separations of
+U-87 MG cell line in 2D and 3D, treated (G) and untreated (C). Figure
+S7. PCA (top) and PLS-DA score plots showing separations of 3005 MG
+cell line in 2D and 3D, treated (G) and untreated (C). Figure S8.
+PCA (top) and PLS-DA score plots showing separations of 3019 MG cell
+line in 2D and 3D, treated (G) and untreated (C). Figure S9. PCA (top)
+and PLS-DA score plots showing separations of 3034 MG cell line in
+2D and 3D, treated (G) and untreated (C). Figure S10. PCA (top) and
+PLS-DA score plots showing separations of 3048 MG cell line in 2D
+and 3D, treated (G) and untreated (C). Figure S11. PCA (top) and PLS-DA
+score plots showing separations of 3073 MG cell line in 2D and 3D,
+treated (G) and untreated (C). Figure S12. Change in levels of methionine
+between GaM treated cells and untreated control in 2D culture with
+VIP score and <italic>p</italic>-value. The error bars represent SD.
+Figure S13. Change in levels of methionine between GaM treated cells
+and untreated control in 3D culture with VIP score and <italic>p</italic>-value. The error bars represent SD. Figure S14. Change in levels
+of allatoin between GaM treated cells and untreated control in 2D
+culture with VIP score and <italic>p</italic>-value. The error bars
+represent SD. Figure S15. Change in levels of allatoin between GaM
+treated cells and untreated control in 3D culture with VIP score and <italic>p</italic>-value. The error bars represent SD. Code S1. Dose–response
+curve with IC90, IC50 and IC10 calculations. Code S2. <italic>t</italic> test for TFRC level determination and significance of changes determination
+in 2D and 3D control. Code S3. Pearson correlation test between IC10
+and TFRC level in 2D and 3D cell lines. Code S4. TFRC level determination
+in treated cells and untreated control, Kurskal-Wallis test with dunn
+posthoc. Code S5. The Oxygen Consumption Rate curve in time. Code
+S6. Wilcox test with FDR correction and selection of metabolites with
+VIP &gt; 1 and adj. <italic>p</italic>-value (FDR). Table S1. Basic
+characteristics
+and selected gene expression of HGCC glioblastoma cells. Table S2.
+Cross-validated PLS-DA performance across GBM models. Table S3. Comprehensive
+metabolite panel by cell line (3005, 3019, 3034, 3048, 3073, A-172,
+U-87 MG): VIP, FDR, stars (* = <italic>p</italic> ≤ 0.05, **
+= <italic>p</italic> ≤ 0.01) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.molpharmaceut.5c01472/suppl_file/mp5c01472_si_001.pdf" ext-link-type="uri">PDF</ext-link>)</p></list-item></list></sec><sec id="notes-1" disp-level="1"><p>The manuscript
+was written through the contributions of all authors. All authors
+have given approval to the final version of the manuscript</p></sec><sec id="notes-2" disp-level="1"><p>This research
+was financed from the funds for Basic Research Activities of the Department
+of Pharmacodynamics and Molecular Pharmacology, Collegium Medicum
+in Bydgoszcz, Nicolaus Copernicus University.</p></sec><sec id="NOTES-d14e998-autogenerated" disp-level="1"><p>The
+authors declare no
+competing financial interest.</p></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="ref1"><mixed-citation id="cit1"><named-content content-type="citation-string">Louis D. N.. The 2021
+WHO classification of tumors of the central nervous system: A summary. Neuro. Oncol. 2021;23:1231. doi: 10.1093/neuonc/noab106.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/neuonc/noab106"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8328013"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34185076"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Neuro. Oncol.&amp;title=The 2021 WHO classification of tumors of the central nervous system: A summary&amp;author=D. N. Louis&amp;volume=23&amp;publication_year=2021&amp;pages=1231&amp;pmid=34185076&amp;doi=10.1093/neuonc/noab106&amp;"/></mixed-citation></ref><ref id="ref2"><mixed-citation id="cit2"><named-content content-type="citation-string">Verdugo E., Puerto I., Medina M. Á.. An update on the molecular biology
+of glioblastoma, with clinical implications and progress in its treatment. Cancer Communications. 2022;42:1083. doi: 10.1002/cac2.12361.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/cac2.12361"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9648390"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36129048"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Communications&amp;title=An update on the molecular biology of glioblastoma, with clinical implications and progress in its treatment&amp;author=E. Verdugo&amp;author=I. Puerto&amp;author=M. Á. Medina&amp;volume=42&amp;publication_year=2022&amp;pages=1083&amp;pmid=36129048&amp;doi=10.1002/cac2.12361&amp;"/></mixed-citation></ref><ref id="ref3"><mixed-citation id="cit3"><named-content content-type="citation-string">Ali M. M.. Glioblastoma:
+Targeting Angiogenesis and Tyrosine Kinase Pathways. Nov. Approaches Cancer Study. 2020 doi: 10.31031/NACS.2020.04.000596.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.31031/NACS.2020.04.000596"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7486014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32924014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nov. Approaches Cancer Study&amp;title=Glioblastoma: Targeting Angiogenesis and Tyrosine Kinase Pathways&amp;author=M. M. Ali&amp;publication_year=2020&amp;pmid=32924014&amp;doi=10.31031/NACS.2020.04.000596&amp;"/></mixed-citation></ref><ref id="ref4"><mixed-citation id="cit4"><named-content content-type="citation-string">Edwards C. L., Hayes R. L.. Tumor scanning with
+67Ga citrate. J. Nucl. Med. 1969;10:103.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="5784705"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Nucl. Med.&amp;title=Tumor scanning with 67Ga citrate&amp;author=C. L. Edwards&amp;author=R. L. Hayes&amp;volume=10&amp;publication_year=1969&amp;pages=103&amp;pmid=5784705&amp;"/></mixed-citation></ref><ref id="ref5"><mixed-citation id="cit5"><named-content content-type="citation-string">Mikuš P., Melník M., Forgácsová A., Krajčiová D., Havránek E.. Gallium compounds in nuclear medicine and oncology. Main Group Metal Chemistry. 2014;37:53. doi: 10.1515/mgmc-2014-0009.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1515/mgmc-2014-0009"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Main Group Metal Chemistry&amp;title=Gallium compounds in nuclear medicine and oncology&amp;author=P. Mikuš&amp;author=M. Melník&amp;author=A. Forgácsová&amp;author=D. Krajčiová&amp;author=E. Havránek&amp;volume=37&amp;publication_year=2014&amp;pages=53&amp;doi=10.1515/mgmc-2014-0009&amp;"/></mixed-citation></ref><ref id="ref6"><mixed-citation id="cit6"><named-content content-type="citation-string">Mayle K. M., Le A. M., Kamei D. T.. The intracellular trafficking pathway
+of transferrin. Biochimica et Biophysica Acta
+- General Subjects. 2012;1820:264. doi: 10.1016/j.bbagen.2011.09.009.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.bbagen.2011.09.009"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3288267"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21968002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochimica et Biophysica Acta - General Subjects&amp;title=The intracellular trafficking pathway of transferrin&amp;author=K. M. Mayle&amp;author=A. M. Le&amp;author=D. T. Kamei&amp;volume=1820&amp;publication_year=2012&amp;pages=264&amp;pmid=21968002&amp;doi=10.1016/j.bbagen.2011.09.009&amp;"/></mixed-citation></ref><ref id="ref7"><mixed-citation id="cit7"><named-content content-type="citation-string">Lane D. J. R.. Cellular
+iron uptake, trafficking and metabolism: Key molecules and mechanisms
+and their roles in disease. Biochimica et Biophysica
+Acta - Molecular Cell Research. 2015;1853:1130. doi: 10.1016/j.bbamcr.2015.01.021.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.bbamcr.2015.01.021"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25661197"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochimica et Biophysica Acta - Molecular Cell Research&amp;title=Cellular iron uptake, trafficking and metabolism: Key molecules and mechanisms and their roles in disease&amp;author=D. J. R. Lane&amp;volume=1853&amp;publication_year=2015&amp;pages=1130&amp;pmid=25661197&amp;doi=10.1016/j.bbamcr.2015.01.021&amp;"/></mixed-citation></ref><ref id="ref8"><mixed-citation id="cit8"><named-content content-type="citation-string">Chitambar C. R.. Gallium
+Complexes as Anticancer Drugs. Metallo-Drugs:
+Development and Action of Anticancer Agents. 2018;18:281. doi: 10.1515/9783110470734-010.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1515/9783110470734-010"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29394029"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Metallo-Drugs: Development and Action of Anticancer Agents&amp;title=Gallium Complexes as Anticancer Drugs&amp;author=C. R. Chitambar&amp;volume=18&amp;publication_year=2018&amp;pages=281&amp;pmid=29394029&amp;doi=10.1515/9783110470734-010&amp;"/></mixed-citation></ref><ref id="ref9"><mixed-citation id="cit9"><named-content content-type="citation-string">Bernstein L. R., Tanner T., Godfrey C., Noll B.. Chemistry
+and pharmacokinetics
+of gallium maltolate, a compound with high oral gallium bioavailability. Met. Based. Drugs. 2000;7:33. doi: 10.1155/MBD.2000.33.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1155/MBD.2000.33"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2365198"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18475921"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Met. Based. Drugs&amp;title=Chemistry and pharmacokinetics of gallium maltolate, a compound with high oral gallium bioavailability&amp;author=L. R. Bernstein&amp;author=T. Tanner&amp;author=C. Godfrey&amp;author=B. Noll&amp;volume=7&amp;publication_year=2000&amp;pages=33&amp;pmid=18475921&amp;doi=10.1155/MBD.2000.33&amp;"/></mixed-citation></ref><ref id="ref10"><mixed-citation id="cit10"><named-content content-type="citation-string">Chitambar C. R.. Gallium
+and its competing roles with iron in biological systems. Biochimica et Biophysica Acta - Molecular Cell Research. 2016;1863:2044. doi: 10.1016/j.bbamcr.2016.04.027.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.bbamcr.2016.04.027"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27150508"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochimica et Biophysica Acta - Molecular Cell Research&amp;title=Gallium and its competing roles with iron in biological systems&amp;author=C. R. Chitambar&amp;volume=1863&amp;publication_year=2016&amp;pages=2044&amp;pmid=27150508&amp;doi=10.1016/j.bbamcr.2016.04.027&amp;"/></mixed-citation></ref><ref id="ref11"><mixed-citation id="cit11"><named-content content-type="citation-string">Chitambar C. R., Purpi D. P., Woodliff J., Yang M., Wereley J. P.. Development
+of gallium compounds for treatment of lymphoma: Gallium maltolate,
+a novel hydroxypyrone gallium compound, induces apoptosis and circumvents
+lymphoma cell resistance to gallium nitrate. J. Pharmacol. Exp. Ther. 2007;322:1228. doi: 10.1124/jpet.107.126342.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1124/jpet.107.126342"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17600139"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Pharmacol. Exp. Ther.&amp;title=Development of gallium compounds for treatment of lymphoma: Gallium maltolate, a novel hydroxypyrone gallium compound, induces apoptosis and circumvents lymphoma cell resistance to gallium nitrate&amp;author=C. R. Chitambar&amp;author=D. P. Purpi&amp;author=J. Woodliff&amp;author=M. Yang&amp;author=J. P. Wereley&amp;volume=322&amp;publication_year=2007&amp;pages=1228&amp;pmid=17600139&amp;doi=10.1124/jpet.107.126342&amp;"/></mixed-citation></ref><ref id="ref12"><mixed-citation id="cit12"><named-content content-type="citation-string">Chitambar C. R.. Gallium
+maltolate disrupts tumor iron metabolism and retards the growth of
+glioblastoma by inhibiting mitochondrial function and ribonucleotide
+reductase. Mol. Cancer Ther. 2018;17:1240. doi: 10.1158/1535-7163.MCT-17-1009.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/1535-7163.MCT-17-1009"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5984712"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29592883"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Cancer Ther.&amp;title=Gallium maltolate disrupts tumor iron metabolism and retards the growth of glioblastoma by inhibiting mitochondrial function and ribonucleotide reductase&amp;author=C. R. Chitambar&amp;volume=17&amp;publication_year=2018&amp;pages=1240&amp;pmid=29592883&amp;doi=10.1158/1535-7163.MCT-17-1009&amp;"/></mixed-citation></ref><ref id="ref13"><mixed-citation id="cit13"><named-content content-type="citation-string">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT04319276?tab=table" ext-link-type="uri">https://clinicaltrials.gov/study/NCT04319276?tab=table</ext-link>.</named-content></mixed-citation></ref><ref id="ref14"><mixed-citation id="cit14"><named-content content-type="citation-string">Jaroch K., Boyaci E., Pawliszyn J., Bojko B.. The use of solid phase
+microextraction for metabolomic analysis of non-small cell lung carcinoma
+cell line (A549) after administration of combretastatin A4. Sci. Rep. 2019 doi: 10.1038/s41598-018-36481-2.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41598-018-36481-2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6344489"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30674916"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Rep.&amp;title=The use of solid phase microextraction for metabolomic analysis of non-small cell lung carcinoma cell line (A549) after administration of combretastatin A4&amp;author=K. Jaroch&amp;author=E. Boyaci&amp;author=J. Pawliszyn&amp;author=B. Bojko&amp;publication_year=2019&amp;pmid=30674916&amp;doi=10.1038/s41598-018-36481-2&amp;"/></mixed-citation></ref><ref id="ref15"><mixed-citation id="cit15"><named-content content-type="citation-string">Jaroch K.. One extraction
+tool for in vitro-in vivo extrapolation? SPME-based metabolomics of
+in vitro 2D, 3D, and in vivo mouse melanoma models. J. Pharm. Anal. 2021;11:667. doi: 10.1016/j.jpha.2021.03.005.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jpha.2021.03.005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8572711"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34765281"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Pharm. Anal.&amp;title=One extraction tool for in vitro-in vivo extrapolation? SPME-based metabolomics of in vitro 2D, 3D, and in vivo mouse melanoma models&amp;author=K. Jaroch&amp;volume=11&amp;publication_year=2021&amp;pages=667&amp;pmid=34765281&amp;doi=10.1016/j.jpha.2021.03.005&amp;"/></mixed-citation></ref><ref id="ref16"><mixed-citation id="cit16"><named-content content-type="citation-string">Denkert C.. Mass spectrometry-based
+metabolic profiling reveals different metabolite patterns in invasive
+ovarian carcinomas and ovarian borderline tumors. Cancer Res. 2006;66:10795. doi: 10.1158/0008-5472.CAN-06-0755.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/0008-5472.CAN-06-0755"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17108116"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Res.&amp;title=Mass spectrometry-based metabolic profiling reveals different metabolite patterns in invasive ovarian carcinomas and ovarian borderline tumors&amp;author=C. Denkert&amp;volume=66&amp;publication_year=2006&amp;pages=10795&amp;pmid=17108116&amp;doi=10.1158/0008-5472.CAN-06-0755&amp;"/></mixed-citation></ref><ref id="ref17"><mixed-citation id="cit17"><named-content content-type="citation-string">Boyaci E.. High-throughput
+analysis using non-depletive SPME: Challenges and applications to
+the determination of free and total concentrations in small sample
+volumes. Sci. Rep. 2018 doi: 10.1038/s41598-018-19313-1.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41598-018-19313-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5773572"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29348436"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Rep.&amp;title=High-throughput analysis using non-depletive SPME: Challenges and applications to the determination of free and total concentrations in small sample volumes&amp;author=E. Boyaci&amp;publication_year=2018&amp;pmid=29348436&amp;doi=10.1038/s41598-018-19313-1&amp;"/></mixed-citation></ref><ref id="ref18"><mixed-citation id="cit18"><named-content content-type="citation-string">Bogusiewicz J.. New chemical
+biopsy tool for spatially resolved profiling of human brain tissue
+in vivo. Sci. Rep. 2021 doi: 10.1038/s41598-021-98973-y.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41598-021-98973-y"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8484280"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34593948"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sci. Rep.&amp;title=New chemical biopsy tool for spatially resolved profiling of human brain tissue in vivo&amp;author=J. Bogusiewicz&amp;publication_year=2021&amp;pmid=34593948&amp;doi=10.1038/s41598-021-98973-y&amp;"/></mixed-citation></ref><ref id="ref19"><mixed-citation id="cit19"><named-content content-type="citation-string">Bogusiewicz J.. Profiling
+of carnitine shuttle system intermediates in gliomas using solid-phase
+microextraction (Spme) Molecules. 2021;26:6112. doi: 10.3390/molecules26206112.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/molecules26206112"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8540799"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34684691"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Molecules&amp;title=Profiling of carnitine shuttle system intermediates in gliomas using solid-phase microextraction (Spme)&amp;author=J. Bogusiewicz&amp;volume=26&amp;publication_year=2021&amp;pages=6112&amp;pmid=34684691&amp;doi=10.3390/molecules26206112&amp;"/></mixed-citation></ref><ref id="ref20"><mixed-citation id="cit20"><named-content content-type="citation-string">Bogusiewicz J.. Coated Blade
+Spray-Mass Spectrometry as a New Approach for the Rapid Characterization
+of Brain Tumors. Molecules. 2022;27:2251. doi: 10.3390/molecules27072251.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/molecules27072251"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9000701"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35408649"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Molecules&amp;title=Coated Blade Spray-Mass Spectrometry as a New Approach for the Rapid Characterization of Brain Tumors&amp;author=J. Bogusiewicz&amp;volume=27&amp;publication_year=2022&amp;pages=2251&amp;pmid=35408649&amp;doi=10.3390/molecules27072251&amp;"/></mixed-citation></ref><ref id="ref21"><mixed-citation id="cit21"><named-content content-type="citation-string">Bogusiewicz J.. Determination
+of acylcarnitines in intact brain tumors using coated blade spray
+mass spectrometry (CBS-MS) Adv. Sample Prep. 2025;13:100146. doi: 10.1016/j.sampre.2024.100146.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.sampre.2024.100146"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adv. Sample Prep.&amp;title=Determination of acylcarnitines in intact brain tumors using coated blade spray mass spectrometry (CBS-MS)&amp;author=J. Bogusiewicz&amp;volume=13&amp;publication_year=2025&amp;pages=100146&amp;doi=10.1016/j.sampre.2024.100146&amp;"/></mixed-citation></ref><ref id="ref22"><mixed-citation id="cit22"><named-content content-type="citation-string">Bogusiewicz J.. Investigating
+the Potential Use of Chemical Biopsy Devices to Characterize Brain
+Tumor Lipidomes. Int. J. Mol. Sci. 2022;23:3518. doi: 10.3390/ijms23073518.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/ijms23073518"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8998862"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35408879"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Mol. Sci.&amp;title=Investigating the Potential Use of Chemical Biopsy Devices to Characterize Brain Tumor Lipidomes&amp;author=J. Bogusiewicz&amp;volume=23&amp;publication_year=2022&amp;pages=3518&amp;pmid=35408879&amp;doi=10.3390/ijms23073518&amp;"/></mixed-citation></ref><ref id="ref23"><mixed-citation id="cit23"><named-content content-type="citation-string">Goryńska P. Z.. Metabolomic
+Phenotyping of Gliomas: What Can We Get with Simplified Protocol for
+Intact Tissue Analysis? Cancers (Basel). 2022;14:312. doi: 10.3390/cancers14020312.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/cancers14020312"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8773998"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35053475"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancers (Basel).&amp;title=Metabolomic Phenotyping of Gliomas: What Can We Get with Simplified Protocol for Intact Tissue Analysis?&amp;author=P. Z. Goryńska&amp;volume=14&amp;publication_year=2022&amp;pages=312&amp;pmid=35053475&amp;doi=10.3390/cancers14020312&amp;"/></mixed-citation></ref><ref id="ref24"><mixed-citation id="cit24"><named-content content-type="citation-string">Xie Y.. The Human
+Glioblastoma Cell Culture Resource: Validated Cell Models Representing
+All Molecular Subtypes. EBioMedicine. 2015;2:1351. doi: 10.1016/j.ebiom.2015.08.026.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ebiom.2015.08.026"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4634360"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26629530"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=EBioMedicine&amp;title=The Human Glioblastoma Cell Culture Resource: Validated Cell Models Representing All Molecular Subtypes&amp;author=Y. Xie&amp;volume=2&amp;publication_year=2015&amp;pages=1351&amp;pmid=26629530&amp;doi=10.1016/j.ebiom.2015.08.026&amp;"/></mixed-citation></ref><ref id="ref25"><mixed-citation id="cit25"><named-content content-type="citation-string">Wanigasekara J., Carroll L. J., Cullen P. J., Tiwari B., Curtin J. F.. Three-Dimensional
+(3D) in vitro cell culture protocols to enhance glioblastoma research. PLoS One. 2023;18:e0276248. doi: 10.1371/journal.pone.0276248.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0276248"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9907841"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36753513"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=Three-Dimensional (3D) in vitro cell culture protocols to enhance glioblastoma research&amp;author=J. Wanigasekara&amp;author=L. J. Carroll&amp;author=P. J. Cullen&amp;author=B. Tiwari&amp;author=J. F. Curtin&amp;volume=18&amp;publication_year=2023&amp;pages=e0276248&amp;pmid=36753513&amp;doi=10.1371/journal.pone.0276248&amp;"/></mixed-citation></ref><ref id="ref26"><mixed-citation id="cit26"><named-content content-type="citation-string">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.metaboanalyst.ca" ext-link-type="uri">https://www.metaboanalyst.ca</ext-link>.</named-content></mixed-citation></ref><ref id="ref27"><mixed-citation id="cit27"><named-content content-type="citation-string">Chua M. S., Bernstein L. R., Li R., So S. K. S.. Gallium maltolate
+is a promising chemotherapeutic agent for the treatment of hepatocellular
+carcinoma. Anticancer Res. 2006;26:1739.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16827101"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Anticancer Res.&amp;title=Gallium maltolate is a promising chemotherapeutic agent for the treatment of hepatocellular carcinoma&amp;author=M. S. Chua&amp;author=L. R. Bernstein&amp;author=R. Li&amp;author=S. K. S. So&amp;volume=26&amp;publication_year=2006&amp;pages=1739&amp;pmid=16827101&amp;"/></mixed-citation></ref><ref id="ref28"><mixed-citation id="cit28"><named-content content-type="citation-string">Calzolari A.. Transferrin
+receptor 2 is frequently and highly expressed in glioblastomas. Transl. Oncol. 2010;3:123. doi: 10.1593/tlo.09274.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1593/tlo.09274"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2847320"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20360937"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Transl. Oncol.&amp;title=Transferrin receptor 2 is frequently and highly expressed in glioblastomas&amp;author=A. Calzolari&amp;volume=3&amp;publication_year=2010&amp;pages=123&amp;pmid=20360937&amp;doi=10.1593/tlo.09274&amp;"/></mixed-citation></ref><ref id="ref29"><mixed-citation id="cit29"><named-content content-type="citation-string">Wanigasekara J., Cullen P. J., Bourke P., Tiwari B., Curtin J. F.. Advances
+in 3D culture systems for therapeutic discovery and development in
+brain cancer. Drug Discovery Today. 2023;28:103426. doi: 10.1016/j.drudis.2022.103426.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.drudis.2022.103426"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36332834"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Drug Discovery Today&amp;title=Advances in 3D culture systems for therapeutic discovery and development in brain cancer&amp;author=J. Wanigasekara&amp;author=P. J. Cullen&amp;author=P. Bourke&amp;author=B. Tiwari&amp;author=J. F. Curtin&amp;volume=28&amp;publication_year=2023&amp;pages=103426&amp;pmid=36332834&amp;doi=10.1016/j.drudis.2022.103426&amp;"/></mixed-citation></ref><ref id="ref30"><mixed-citation id="cit30"><named-content content-type="citation-string">Lam M. S. Y.. Unveiling
+the Influence of Tumor Microenvironment and Spatial Heterogeneity
+on Temozolomide Resistance in Glioblastoma Using an Advanced Human
+In Vitro Model of the Blood-Brain Barrier and Glioblastoma. Small. 2023 doi: 10.1002/smll.202302280.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/smll.202302280"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37649234"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Small&amp;title=Unveiling the Influence of Tumor Microenvironment and Spatial Heterogeneity on Temozolomide Resistance in Glioblastoma Using an Advanced Human In Vitro Model of the Blood-Brain Barrier and Glioblastoma&amp;author=M. S. Y. Lam&amp;publication_year=2023&amp;pmid=37649234&amp;doi=10.1002/smll.202302280&amp;"/></mixed-citation></ref><ref id="ref31"><mixed-citation id="cit31"><named-content content-type="citation-string">Vaezzadeh M.. Combination
+Drug Therapy of Glioblastoma: Lessons from 3D In Vitro Models and
+the Roadmap for Future Research. Advanced Therapeutics. 2023 doi: 10.1002/adtp.202300197.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/adtp.202300197"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Advanced Therapeutics&amp;title=Combination Drug Therapy of Glioblastoma: Lessons from 3D In Vitro Models and the Roadmap for Future Research&amp;author=M. Vaezzadeh&amp;publication_year=2023&amp;doi=10.1002/adtp.202300197&amp;"/></mixed-citation></ref><ref id="ref32"><mixed-citation id="cit32"><named-content content-type="citation-string">Musah-Eroje A., Watson S.. A novel 3D in vitro
+model of glioblastoma reveals resistance
+to Temozolomide which was potentiated by hypoxia. J. Neurooncol. 2019;142:231. doi: 10.1007/s11060-019-03107-0.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s11060-019-03107-0"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6449313"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30694423"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Neurooncol.&amp;title=A novel 3D in vitro model of glioblastoma reveals resistance to Temozolomide which was potentiated by hypoxia&amp;author=A. Musah-Eroje&amp;author=S. Watson&amp;volume=142&amp;publication_year=2019&amp;pages=231&amp;pmid=30694423&amp;doi=10.1007/s11060-019-03107-0&amp;"/></mixed-citation></ref><ref id="ref33"><mixed-citation id="cit33"><named-content content-type="citation-string">Gomez-Roman N., Stevenson K., Gilmour L., Hamilton G., Chalmers A. J.. A novel
+3D human glioblastoma cell culture system for modeling drug and radiation
+responses. Neuro. Oncol. 2016;19:now164. doi: 10.1093/neuonc/now164.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/neuonc/now164"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5463789"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27576873"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Neuro. Oncol.&amp;title=A novel 3D human glioblastoma cell culture system for modeling drug and radiation responses&amp;author=N. Gomez-Roman&amp;author=K. Stevenson&amp;author=L. Gilmour&amp;author=G. Hamilton&amp;author=A. J. Chalmers&amp;volume=19&amp;publication_year=2016&amp;pages=now164&amp;pmid=27576873&amp;doi=10.1093/neuonc/now164&amp;"/></mixed-citation></ref><ref id="ref34"><mixed-citation id="cit34"><named-content content-type="citation-string">Kumar M.. A High-Throughput
+Neurosphere-Based Colony Formation Assay to Test Drug and Radiation
+Sensitivity of Different Patient-Derived Glioblastoma Lines. Cells. 2024;13:1995. doi: 10.3390/cells13231995.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/cells13231995"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11640616"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="39682742"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cells&amp;title=A High-Throughput Neurosphere-Based Colony Formation Assay to Test Drug and Radiation Sensitivity of Different Patient-Derived Glioblastoma Lines&amp;author=M. Kumar&amp;volume=13&amp;publication_year=2024&amp;pages=1995&amp;pmid=39682742&amp;doi=10.3390/cells13231995&amp;"/></mixed-citation></ref><ref id="ref35"><mixed-citation id="cit35"><named-content content-type="citation-string">Peterziel H.. Drug sensitivity
+profiling of 3D tumor tissue cultures in the pediatric precision oncology
+program INFORM. npj Precis. Oncol. 2022 doi: 10.1038/s41698-022-00335-y.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41698-022-00335-y"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9794727"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36575299"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=npj Precis. Oncol.&amp;title=Drug sensitivity profiling of 3D tumor tissue cultures in the pediatric precision oncology program INFORM&amp;author=H. Peterziel&amp;publication_year=2022&amp;pmid=36575299&amp;doi=10.1038/s41698-022-00335-y&amp;"/></mixed-citation></ref><ref id="ref36"><mixed-citation id="cit36"><named-content content-type="citation-string">Platten M., Nollen E. A. A., Röhrig U. F., Fallarino F., Opitz C. A.. Tryptophan metabolism as a common
+therapeutic target
+in cancer, neurodegeneration and beyond. Nat.
+Rev. Drug Discovery. 2019;18:379. doi: 10.1038/s41573-019-0016-5.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41573-019-0016-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30760888"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Drug Discovery&amp;title=Tryptophan metabolism as a common therapeutic target in cancer, neurodegeneration and beyond&amp;author=M. Platten&amp;author=E. A. A. Nollen&amp;author=U. F. Röhrig&amp;author=F. Fallarino&amp;author=C. A. Opitz&amp;volume=18&amp;publication_year=2019&amp;pages=379&amp;pmid=30760888&amp;doi=10.1038/s41573-019-0016-5&amp;"/></mixed-citation></ref><ref id="ref37"><mixed-citation id="cit37"><named-content content-type="citation-string">Badawy A. A. B.. Tryptophan
+metabolism and disposition in cancer biology and immunotherapy. Bioscience Reports. 2022 doi: 10.1042/BSR20221682.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1042/BSR20221682"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9653095"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36286592"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Bioscience Reports&amp;title=Tryptophan metabolism and disposition in cancer biology and immunotherapy&amp;author=A. A. B. Badawy&amp;publication_year=2022&amp;pmid=36286592&amp;doi=10.1042/BSR20221682&amp;"/></mixed-citation></ref><ref id="ref38"><mixed-citation id="cit38"><named-content content-type="citation-string">Wilson P. M., Danenberg P. V., Johnston P. G., Lenz H. J., Ladner R. D.. Standing
+the test of time: Targeting thymidylate biosynthesis in cancer therapy. Nature Reviews Clinical Oncology. 2014;11:282. doi: 10.1038/nrclinonc.2014.51.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/nrclinonc.2014.51"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24732946"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nature Reviews Clinical Oncology&amp;title=Standing the test of time: Targeting thymidylate biosynthesis in cancer therapy&amp;author=P. M. Wilson&amp;author=P. V. Danenberg&amp;author=P. G. Johnston&amp;author=H. J. Lenz&amp;author=R. D. Ladner&amp;volume=11&amp;publication_year=2014&amp;pages=282&amp;pmid=24732946&amp;doi=10.1038/nrclinonc.2014.51&amp;"/></mixed-citation></ref><ref id="ref39"><mixed-citation id="cit39"><named-content content-type="citation-string">Visnes T.. Targeting
+BER enzymes in cancer therapy. DNA Repair. 2018;71:118. doi: 10.1016/j.dnarep.2018.08.015.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.dnarep.2018.08.015"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30228084"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=DNA Repair&amp;title=Targeting BER enzymes in cancer therapy&amp;author=T. Visnes&amp;volume=71&amp;publication_year=2018&amp;pages=118&amp;pmid=30228084&amp;doi=10.1016/j.dnarep.2018.08.015&amp;"/></mixed-citation></ref><ref id="ref40"><mixed-citation id="cit40"><named-content content-type="citation-string">Mentch S. J., Locasale J. W.. One-carbon metabolism
+and epigenetics: Understanding
+the specificity. Ann. N.Y. Acad. Sci. 2016;1363:91. doi: 10.1111/nyas.12956.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/nyas.12956"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4801744"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26647078"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Ann. N.Y. Acad. Sci.&amp;title=One-carbon metabolism and epigenetics: Understanding the specificity&amp;author=S. J. Mentch&amp;author=J. W. Locasale&amp;volume=1363&amp;publication_year=2016&amp;pages=91&amp;pmid=26647078&amp;doi=10.1111/nyas.12956&amp;"/></mixed-citation></ref><ref id="ref41"><mixed-citation id="cit41"><named-content content-type="citation-string">Kanarek N., Petrova B., Sabatini D. M.. Dietary
+modifications for enhanced
+cancer therapy. Nature. 2020;579:507. doi: 10.1038/s41586-020-2124-0.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41586-020-2124-0"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32214253"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nature&amp;title=Dietary modifications for enhanced cancer therapy&amp;author=N. Kanarek&amp;author=B. Petrova&amp;author=D. M. Sabatini&amp;volume=579&amp;publication_year=2020&amp;pages=507&amp;pmid=32214253&amp;doi=10.1038/s41586-020-2124-0&amp;"/></mixed-citation></ref><ref id="ref42"><mixed-citation id="cit42"><named-content content-type="citation-string">Kaur H., Halliwell B.. Action of biologically-relevant oxidizing
+species upon
+uric acid. Identification of uric acid oxidation products. Chem. Biol. Interact. 1990;73:235. doi: 10.1016/0009-2797(90)90006-9.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/0009-2797(90)90006-9"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="2155712"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chem. Biol. Interact.&amp;title=Action of biologically-relevant oxidizing species upon uric acid. Identification of uric acid oxidation products&amp;author=H. Kaur&amp;author=B. Halliwell&amp;volume=73&amp;publication_year=1990&amp;pages=235&amp;pmid=2155712&amp;doi=10.1016/0009-2797(90)90006-9&amp;"/></mixed-citation></ref><ref id="ref43"><mixed-citation id="cit43"><named-content content-type="citation-string">Marrocco I., Altieri F., Peluso I.. Measurement and Clinical Significance
+of Biomarkers of Oxidative Stress in Humans. Oxidative Medicine and Cellular Longevity. 2017 doi: 10.1155/2017/6501046.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1155/2017/6501046"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5494111"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28698768"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Oxidative Medicine and Cellular Longevity&amp;title=Measurement and Clinical Significance of Biomarkers of Oxidative Stress in Humans&amp;author=I. Marrocco&amp;author=F. Altieri&amp;author=I. Peluso&amp;publication_year=2017&amp;pmid=28698768&amp;doi=10.1155/2017/6501046&amp;"/></mixed-citation></ref><ref id="ref44"><mixed-citation id="cit44"><named-content content-type="citation-string">Al-Gizawiy M. M.. Potent
+in vivo efficacy of oral gallium maltolate in treatment-resistant
+glioblastoma. Front. Oncol. 2024 doi: 10.3389/fonc.2023.1278157.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3389/fonc.2023.1278157"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10822938"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="38288102"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Front. Oncol.&amp;title=Potent in vivo efficacy of oral gallium maltolate in treatment-resistant glioblastoma&amp;author=M. M. Al-Gizawiy&amp;publication_year=2024&amp;pmid=38288102&amp;doi=10.3389/fonc.2023.1278157&amp;"/></mixed-citation></ref><ref id="ref45"><mixed-citation id="cit45"><named-content content-type="citation-string">Alhajala H. S.. The cytotoxicity
+of gallium maltolate in glioblastoma cells is enhanced by metformin
+through combined action on mitochondrial complex 1. Oncotarget. 2020;11:1531. doi: 10.18632/oncotarget.27567.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.18632/oncotarget.27567"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7197450"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32391122"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Oncotarget&amp;title=The cytotoxicity of gallium maltolate in glioblastoma cells is enhanced by metformin through combined action on mitochondrial complex 1&amp;author=H. S. Alhajala&amp;volume=11&amp;publication_year=2020&amp;pages=1531&amp;pmid=32391122&amp;doi=10.18632/oncotarget.27567&amp;"/></mixed-citation></ref></ref-list></sec></sec><sec id="_ad93_" xml:lang="en" sec-type="associated-data" disp-level="1"><title>Associated Data</title><sec id="_adsm93_" xml:lang="en" sec-type="supplementary-materials" disp-level="2"><title>Supplementary Materials</title><supplementary-material id="db_ds_supplementary-material1_reqid_" position="float"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mp5c01472_si_001.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 8e67/13296477/8af5f2fe8065/mp5c01472_si_001.pdf?><?cloudpmc-bucket app?><?size 3314118?></media></supplementary-material></sec></sec></body></article>

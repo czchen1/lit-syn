@@ -1,0 +1,524 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Front Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">1524</journal-id><journal-id journal-id-type="pmc-domain">frontpharmacol</journal-id><journal-id journal-id-type="publisher-id">Front. Pharmacol.</journal-id><journal-title-group><journal-title>Frontiers in Pharmacology</journal-title></journal-title-group><issn pub-type="epub">1663-9812</issn><publisher><publisher-name>Frontiers Media SA</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12868191</article-id><article-id pub-id-type="pmcid-ver">PMC12868191.1</article-id><article-id pub-id-type="pmcaid">12868191</article-id><article-id pub-id-type="pmcaiid">12868191</article-id><article-id pub-id-type="pmid">41646938</article-id><article-id pub-id-type="doi">10.3389/fphar.2025.1764937</article-id><article-id pub-id-type="publisher-id">1764937</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="Version of Record" vocab="NISO-RP-8-2008"/></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Pemetrexed sensitizes cisplatin therapy by inducing ferroptosis in NSCLC cells</article-title><alt-title alt-title-type="left-running-head">Wang et al.</alt-title><alt-title alt-title-type="right-running-head">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.3389/fphar.2025.1764937" ext-link-type="uri">10.3389/fphar.2025.1764937</ext-link>
+</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" equal-contrib="yes"><name name-style="western"><surname>Wang</surname><given-names initials="Y">Yumin</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="c001" ref-type="corresp">*</xref><xref rid="fn001" ref-type="author-notes">
+<sup>†</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2980026"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal Analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role></contrib><contrib contrib-type="author" equal-contrib="yes"><name name-style="western"><surname>Zhang</surname><given-names initials="X">Xin</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="fn001" ref-type="author-notes">
+<sup>†</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal Analysis</role></contrib><contrib contrib-type="author" equal-contrib="yes"><name name-style="western"><surname>Cao</surname><given-names initials="Y">Yuwei</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="fn001" ref-type="author-notes">
+<sup>†</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal Analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="G">Ge</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal Analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="Y">Yonglin</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal Analysis</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="Y">Yulin</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal Analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Chen</surname><given-names initials="J">Jichao</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="c001" ref-type="corresp">*</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/Writing - review &amp; editing/">Writing - review and editing</role></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Department of Respiratory and Critical Care Medicine, Aerospace Center Hospital, Peking University Aerospace School of Clinical Medicine</institution>, <city>Beijing</city>, <country country="CN">China</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Department of General Ward, Aerospace Center Hospital, Peking University Aerospace School of Clinical Medicine</institution>, <city>Beijing</city>, <country country="CN">China</country>
+</aff><author-notes><corresp id="c001">
+<label>*</label>Correspondence: Jichao Chen, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:chen_htzxyy@sina.com">chen_htzxyy@sina.com</email>; Yumin Wang, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:721wangym@aliyun.com">721wangym@aliyun.com</email>
+</corresp><fn fn-type="equal" id="fn001"><label>†</label><p>These authors have contributed equally to this work</p></fn></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2026-01-21"><day>21</day><month>1</month><year>2026</year></pub-date><pub-date publication-format="electronic" date-type="collection"><year>2025</year></pub-date><volume>16</volume><issue-id pub-id-type="pmc-issue-id">480654</issue-id><elocation-id>1764937</elocation-id><history><date date-type="received"><day>10</day><month>12</month><year>2025</year></date><date date-type="rev-recd"><day>24</day><month>12</month><year>2025</year></date><date date-type="accepted"><day>29</day><month>12</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>21</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>05</day><month>02</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-06 15:25:13.070"><day>06</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2026 Wang, Zhang, Cao, Zhang, Zhu, Li and Chen.</copyright-statement><copyright-year>2026</copyright-year><copyright-holder>Wang, Zhang, Cao, Zhang, Zhu, Li and Chen</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2026-01-21">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (CC BY)</ext-link>. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="fphar-16-1764937.pdf"><?pdf-name fphar-16-1764937.pdf?><?pdf-size 4505659?><?pdf-md5 ac8bf6299c923ce3adfd7105e87d8aa5?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:3971/12868191/ac8bf6299c92/fphar-16-1764937.pdf?></self-uri><abstract><sec><title>Background</title><p>Cisplatin (DDP) is the first-in-class drug for advanced and non-targetable non-small-cell lung cancer (NSCLC). Platinum-based chemotherapy combined with pemetrexed (PEM) is frequently recommended as the first-line therapeutic regimen for NSCLC. However, the mechanisms of how PEM boosts the antitumor activity of DDP are largely unknown. Emerging evidence indicated that DDP could induce ferroptosis, a new type of regulated cell death (RCD) characterized by iron-dependent toxic build-up of lipid peroxides on cellular membranes. It is tempting to speculate whether PEM increases the sensitivity of NSCLC to DDP through inducing ferroptosis.</p></sec><sec><title>Methods</title><p>In the present study, we first used RNA-seq and KEGG analysis to examine differentially expressed genes in PEM-challenged NSCLC cells. The effect of PEM on increased DDP-mediated anticancer activity was examined via a cytotoxicity assay and Western blot. PEM-triggered ferroptosis in DDP-treated NSCLC was observed via a lipid peroxidation assay, a labile iron pool assay, and a Western blot in the presence or absence of ferroptosis inhibitors.</p></sec><sec><title>Results</title><p>In the present study, we found that the ferroptosis-related pathway was enriched by PEM. PEM significantly enhanced the ability of cisplatin to inhibit cell viability and proliferation in NSCLC cells. The combination of PEM and DDP synergistically induced ferroptosis, as evidenced by the increased reactive oxygen species (ROS), lipid peroxidation, and Fe<sup>2+</sup> and decreased SOD. PEM facilitated DDP-mediated upregulated expression of pro-ferroptosis proteins (ACSL4, 12LOX, COX2, DMT1, TFR1, and TF) and downregulated the expression of anti-ferroptosis proteins (SLC7A11, GPX4, FPN1, FTH1, FTL, DHODH, FSP1, and GCH1). However, the effects were reversed by ferroptosis inhibitor ferrostatin-1 or deferoxamine in NSCLC cells.</p></sec><sec><title>Conclusion</title><p>In summary, these results provide <italic toggle="yes">in vitro</italic> experimental evidence that PEM boosts the antitumor activity and increases the sensitivity of NSCLC cells to DDP by inducing ferroptosis.</p></sec></abstract><kwd-group><kwd>cisplatin</kwd><kwd>drug resistance</kwd><kwd>ferroptosis</kwd><kwd>non-small-cell lung cancer</kwd><kwd>pemetrexed</kwd></kwd-group><funding-group><funding-statement>The author(s) declared that financial support was received for this work and/or its publication. This work was supported in part by the Beijing Natural Science Foundation (No. 7252174), the Wu Jieping Medical Foundation (320.6750.2024-13-59), the Science Foundation of ASCH (YN202402; YN202423), the Science Foundation of AMHT (2022YK01), and the Talent Development Plan for the Future in Medical-Engineering Integration by BRA-CDCHE and ZTA (MBRC0012025029).</funding-statement></funding-group><counts><fig-count count="5"/><table-count count="0"/><equation-count count="0"/><ref-count count="46"/><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>section-at-acceptance</meta-name><meta-value>Pharmacology of Anti-Cancer Drugs</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><label>1</label><title>Introduction</title><p>Lung cancer remains a leading cause of cancer-related mortality worldwide (<xref rid="B34" ref-type="bibr">Sung et al., 2021</xref>). It is broadly classified into two types: small-cell lung cancer (SCLC) and non-small-cell lung cancer (NSCLC). NSCLC represents the major histological subtype, accounting for more than 80% of all lung cancers (<xref rid="B28" ref-type="bibr">Rotow and Bivona, 2017</xref>; <xref rid="B18" ref-type="bibr">Leiter et al., 2023</xref>; <xref rid="B29" ref-type="bibr">Siegel et al., 2023</xref>; <xref rid="B21" ref-type="bibr">LoPiccolo et al., 2024</xref>; <xref rid="B27" ref-type="bibr">Otano et al., 2023</xref>). It primarily includes lung squamous cell carcinoma (LUSC) and lung adenocarcinoma (LUAD). Globally, the incidence of lung cancer is estimated to increase significantly in the coming decades (<xref rid="B12" ref-type="bibr">Hirsch et al., 2017</xref>; <xref rid="B30" ref-type="bibr">Soerjomataram and Bray, 2021</xref>).</p><p>Despite advances in treatment, the 5-year overall survival for lung cancer patients remains low, ranging from 4% to 17%, depending on disease stage and geographical factors (<xref rid="B12" ref-type="bibr">Hirsch et al., 2017</xref>). Current therapeutic strategies for NSCLC include surgery, targeted therapy, immunotherapy, and radiotherapy. For patients with advanced NSCLC, platinum-based chemotherapy remains the standard first-line regimen (<xref rid="B24" ref-type="bibr">Nagasaka and Gadgeel, 2018</xref>). This is often combined with agents such as pemetrexed, vinorelbine/taxanes, or gemcitabine. However, the efficacy of platinum-based chemotherapy is limited by chemoresistance, which varies considerably among individuals (<xref rid="B41" ref-type="bibr">Yin et al., 2016</xref>; <xref rid="B40" ref-type="bibr">Wang et al., 2024</xref>). Therefore, there is a clear need to explore novel mechanisms and therapeutic strategies to improve outcomes in NSCLC (<xref rid="B11" ref-type="bibr">Herbst et al., 2018</xref>; <xref rid="B20" ref-type="bibr">Lim and Ma, 2019</xref>).</p><p>Ferroptosis is a new type of regulated cell death (RCD) characterized by iron-dependent toxic build-up of lipid peroxides on cellular membranes (<xref rid="B17" ref-type="bibr">Lei et al., 2022</xref>; <xref rid="B14" ref-type="bibr">Kobayashi et al., 2023</xref>; <xref rid="B43" ref-type="bibr">Yunchu et al., 2023</xref>; <xref rid="B45" ref-type="bibr">Zhu et al., 2025</xref>). Conventional therapies that include chemotherapy, radiotherapy, immunotherapy, and targeted cancer therapies exert antitumor activity by inducing ferroptosis (<xref rid="B32" ref-type="bibr">Sun et al., 2016</xref>; <xref rid="B8" ref-type="bibr">Guo et al., 2018</xref>; <xref rid="B37" ref-type="bibr">Wang et al., 2019</xref>; <xref rid="B16" ref-type="bibr">Lei et al., 2020</xref>; <xref rid="B17" ref-type="bibr">2022</xref>). Therefore, ferroptosis functions as a novel strategy for cancer therapy, and ferroptosis targeting even offers a therapeutic strategy for cancers that are resistant to conventional therapies, including NSCLC (<xref rid="B38" ref-type="bibr">Wang et al., 2023a</xref>, <xref rid="B39" ref-type="bibr">2023b</xref>; <xref rid="B40" ref-type="bibr">Wang et al., 2024</xref>). Therefore, uncovering the molecular complexities underlying ferroptosis regulation in NSCLC may create more effective therapeutic strategies for NSCLC.</p><p>Pemetrexed (PEM), a folate analog metabolic inhibitor for mammalian cells, is toxic to several cancer cells by interfering with their biosynthesis of nucleotides (<xref rid="B36" ref-type="bibr">Vora et al., 2021</xref>). Previous studies have shown the synergistic antitumor effect of pemetrexed in combination with cisplatin (DDP) in the treatment of NSCLC (<xref rid="B42" ref-type="bibr">Yu et al., 2022</xref>). Given that DDP induces ferroptosis in various cancers, the aim of the present study is to investigate whether PEM could induce ferroptosis and increase the sensitivity of NSCLC cancer cells to DDP therapy by inducing ferroptosis, and also elucidate the detailed mechanisms underlying how PEM boosts the antitumor activity of DDP in NSCLC cells. In the present study, we uncover a novel mechanism underlying how PEM kills NSCLC cells by inducing ferroptosis.</p></sec><sec sec-type="materials|methods" id="s2"><label>2</label><title>Materials and methods</title><sec id="s2-1"><label>2.1</label><title>Materials</title><p>The human NSCLC A549 and H1299 cell lines were obtained from the China Center for Type Culture Collection (CCTCC). Complete protease inhibitor was obtained from Roche Diagnostics GmbH (Penzberg, Germany). Modified Dulbecco’s Eagle’s medium supplement was obtained from Gibco Invitrogen Corporation. Antibodies and other reagents used in the present study are shown in <xref rid="s11" ref-type="sec">Supplementary Table S1</xref>. All other chemicals used were of commercially available high grades.</p></sec><sec id="s2-2"><label>2.2</label><title>Cell culture and treatment</title><p>A549 cells were cultured in RPMI-1640 medium, while H1299 cells were maintained in Dulbecco’s modified Eagle’s medium (DMEM) (<xref rid="B44" ref-type="bibr">Zhang et al., 2025</xref>). Both media were supplemented with 10% fetal bovine serum (FBS), 100 μg/mL streptomycin, and 100 U/mL penicillin. Cells were incubated at 37 °C in a humidified atmosphere containing 5% CO<sub>2</sub>. All cell lines were confirmed to be free of <italic toggle="yes">Mycoplasma</italic> contamination.</p></sec><sec id="s2-3"><label>2.3</label><title>Determination of cell viability</title><p>The cytotoxicity of pemetrexed (PEM) and DDP in A549 and H1299 cells was evaluated by the CCK8 Assay Kit. Cells were seeded in a 96-well culture plate at a density of 0.5 × 10<sup>3</sup> cells per well in 100 μL medium overnight. Then, different concentrations of PEM or DDP (100 nM for PEM or 200 nM for DDP), as well as PEM (100 nM) and DDP (200 nM), were added and incubated for 72 h, respectively. For the rescue assay, PEM and DDP were co-treated with pharmacological ferroptosis inhibitors of ferrostatin-1 (Fer-1, 1 µM) and deferoxamine (DFO, 100 µM) for 24 h. After treatment, 10 μL CCK-8 was added to each well, and incubation continued for 2 h at 37 °C.</p></sec><sec id="s2-4"><label>2.4</label><title>Intracellular reactive oxygen species (ROS) generation detection</title><p>Intracellular ROS fluorescence assay kits (WLA131; Wanleibio, China) were used to measure the levels of ROS according to the kit instructions.</p></sec><sec id="s2-5"><label>2.5</label><title>Determination of intracellular iron levels</title><p>Intracellular iron levels in the cell supernatants were examined with an Iron Assay Kit (cat. no. E-BC-K881-M; Elabscience, China). The concentration of iron ions in the cells was determined at 520 nm using a microplate reader. The intracellular iron ion levels were then normalized by cell numbers.</p></sec><sec id="s2-6"><label>2.6</label><title>GSH, MDA, and SOD analyses</title><p>Logarithmically grown A549 and H1299 cells were inoculated into 6-well plate dishes at a density of 3 × 10<sup>5</sup> cells/mL, with 5 mL per dish. The cells were next treated for 72 h with PEM (100 nM), or DDP (200 nM for DDP), or PEM (100 nM) plus DDP (200 nM for DDP) in the presence or absence of Fer-1 (1 µM) and DFO (100 µM). After washing with PBS, the cells were homogenized by ultrasonic crushing to obtain the cell supernatants after centrifugation. The levels of malondialdehyde (MDA) (WLA048; Wanleibio, China), glutathione (GSH) activity (WLA105; Wanleibio, China), and SOD (WLA110; Wanleibio, China) were measured at 405 nm, 450 nm, and 530 nm, following the manufacturers’ instructions.</p></sec><sec id="s2-7"><label>2.7</label><title>Western blot analysis</title><p>Changes in the expression levels of the indicated proteins were assessed using Western blotting, as described previously (<xref rid="B19" ref-type="bibr">Li et al., 2022</xref>). A549 cells were washed twice with cold PBS and lysed in RIPA buffer supplemented with a complete phosphatase and protease inhibitor cocktail. Protein quantification was performed using the BCA assay kit. Proteins (20 µL) were separated via SDS-PAGE and transferred to a PVDF membrane. The membranes were blocked with 5% skim milk for 1 h at room temperature, and then incubated with the following primary antibodies overnight at 4 °C with the appropriate primary antibodies. Appropriate secondary antibodies conjugated to horseradish peroxidase were used for 2 h at room temperature. The blots were developed using an ECL Western blotting detection reagent (Santa Cruz Biotechnology, United States).</p></sec><sec id="s2-8"><label>2.8</label><title>RNA sequencing (RNA-seq)</title><p>Total RNA was extracted from A549 cells that were simulated with or without PEM (100 nM) using TRIzol reagent (15596026, Invitrogen, United States). Then, a total of six samples were sent to the BoAo Corporation (China) for further RNA-seq detection and analysis. Differentially expressed genes (DEGs) between the two groups were identified by the DEGseq method. The pathway analysis for DEGs was performed based on the KEGG database. Detailed methods are shown in the <xref rid="s11" ref-type="sec">Supplementary Material</xref>.</p></sec><sec id="s2-9"><label>2.9</label><title>Statistical analysis</title><p>All data are presented as the mean ± SEM. Data were subjected to statistical analysis using one-way analysis of variance (ANOVA) followed by Student’s t-test using GraphPad Prism 6.0 software (GraphPad Software, Inc., San Diego, CA, United States). Mean values were considered to be statistically significant at <italic toggle="yes">P</italic> &lt; 0.05.</p></sec></sec><sec sec-type="results" id="s3"><label>3</label><title>Results</title><sec id="s3-1"><label>3.1</label><title>Pemetrexed sensitizes cisplatin-induced cytotoxic effects in NSCLC cells</title><p>First, we treated human NSCLC A549 or H1299 cells with PEM, DDP, or PEM and DDP and tested the cytotoxicity through the CCK-8 assay. The results showed that PEM and DDP both inhibited the growth of cells. In addition, PEM increased the cisplatin-induced cytotoxic effect in cells (<xref rid="F1" ref-type="fig">Figure 1A</xref>). Next, we tested whether the combination treatment could suppress the proliferation of A549 cells. As expected, either PEM or DDP treatment inhibited EdU incorporation into cell nuclei, while PEM co-administration with DDP increased the reduction of the percentage of EdU<sup>+</sup> cells, suggesting that PEM in combination with DDP significantly disrupted NSCLC cancer growth (<xref rid="F1" ref-type="fig">Figure 1B</xref>). We then utilized the annexin V-FITC/PI assay and calcein-AM/PI staining to further clarify the synergetic effect of PEM and DDP, demonstrating that the combination of PEM boosted the DDP-induced decrease in the number of viable cells and increased the number of dead cells (<xref rid="F1" ref-type="fig">Figures 1C,D</xref>). In addition, we examined the combined effect of PEM and DDP on the capacity of long-term cell viability by the clonogenic survival assay in A549 cells. As expected, cloned clusters of A549 cells exposed to the combinative treatment were fewer and smaller compared with those exposed to either agent alone after culture for 3 days (<xref rid="F1" ref-type="fig">Figure 1E</xref>). Collectively, these results suggested that pemetrexed sensitizes the cisplatin-induced cytotoxic effect in NSCLC cells.</p><fig position="float" id="F1" orientation="portrait"><label>FIGURE 1</label><caption><p>PEM boosts the antitumor effect of DDP <italic toggle="yes">in vitro</italic>. The indicated NSCLC cells were subjected to PEM (100 nM), or DDP (200 nM), or PEM (100 nM) and DDP (200 nM) for 72 h. <bold>(A)</bold> Cell viability was assessed using the CCK-8 assay. <bold>(B)</bold> Cell proliferation was detected by 5-ethynyl-2′-deoxyuridine (EdU) incorporation assay. Representative images and statistical histograms are shown. Scale bar: 100 µm. <bold>(C)</bold> A549 cells were tested by annexin V-FITC/PI assay. <bold>(D)</bold> The A549 cells were subjected to calcein-AM/PI staining (calcein-AM: live cells, PI: dead cells). Scale bar: 100 µm. <bold>(E)</bold> A colony formation assay of A549 cells was performed. Representative images and corresponding quantitative histograms from three independent experiments are shown (<sup>**</sup>
+<italic toggle="yes">P</italic> &lt; 0.01; <sup>***</sup>
+<italic toggle="yes">P</italic> &lt; 0.005; <sup>****</sup>
+<italic toggle="yes">P</italic> &lt; 0.001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fphar-16-1764937-g001.jpg"><?image-name fphar-16-1764937-g001.jpg?><?image-size 165544?><?image-md5 0b99d026d9a0e2db546375f78f8ecf69?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1690?><?image-original-width 1772?><?image-scaled-height 675?><?image-scaled-width 708?><?image-cloudpmc-urn urn:cdn:blobs/3971/12868191/0b99d026d9a0/fphar-16-1764937-g001.jpg?><?thumb-name fphar-16-1764937-g001.gif?><?thumb-size 15240?><?thumb-md5 9b89ee28f1a15edf44c01c6352396c3a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 95?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/3971/12868191/9b89ee28f1a1/fphar-16-1764937-g001.gif?><alt-text content-type="machine-generated">The image consists of multiple panels showing various analyses of A549 and H1299 cells. Panel A displays bar graphs of cell viability and Edu positive cells under different treatments: control, PEM, DDP, and PEM+DDP. Panel B includes fluorescence microscopy images showing Edu and DAPI staining with effect on A549 cells in these treatments. Panel C features scatter plots and a bar graph highlighting cell apoptosis rates in A549 cells. Panel D shows calcein and PI staining of A549 cells. Panel E presents colony formation assays of A549 cells under the same treatments. Statistical significance is denoted by asterisks.</alt-text></graphic></fig></sec><sec id="s3-2"><label>3.2</label><title>Pemetrexed enhances cisplatin-induced cytotoxic effects by inducing ferroptosis in NSCLC cells</title><p>Previous studies have shown that cisplatin exerts antitumor action by inducing ferroptosis (<xref rid="B8" ref-type="bibr">Guo et al., 2018</xref>), indicating that pemetrexed may enhance cisplatin-induced cytotoxic effect by inducing ferroptosis in NSCLC cells. In this study, we conducted a genome-wide RNA-seq analysis to explore the molecular mechanism underlying pemetrexed-mediated antitumor activity. Total RNAs were isolated and sequenced from A549 cells treated with pemetrexed or control. The pemetrexed challenge results in a total of 1156 genes (744 upregulated and 412 downregulated) being differentially expressed (|fold change| ≥ 2, <italic toggle="yes">P</italic> &lt; 005) (<xref rid="F2" ref-type="fig">Figures 2A,B</xref>). KEGG enrichment analysis found that ferroptosis is the most enriched among several biological pathways (<xref rid="F2" ref-type="fig">Figure 2C</xref>). We observed that PEM boosted the cisplatin-induced increased concentrations of ROS (<xref rid="F2" ref-type="fig">Figure 2D</xref>), decreased levels of GSH (<xref rid="F2" ref-type="fig">Figure 2E</xref>) and SOD (<xref rid="F2" ref-type="fig">Figure 2F</xref>), and increased content of MDA (<xref rid="F2" ref-type="fig">Figure 2G</xref>) and concentrations of iron (<xref rid="F2" ref-type="fig">Figure 2H</xref>) in A549 cells. Western blot analysis revealed that PEM facilitated DDP-mediated downregulation of the expression of anti-ferroptosis proteins (SLC7A11, GPX4, DHODH, FSP1, and GCH1) (<xref rid="F2" ref-type="fig">Figure 2I</xref>) and FPN1, FTH1, and FTL (<xref rid="F2" ref-type="fig">Figure 2J</xref>) and upregulated the expression of pro-ferroptosis proteins (ACSL4, 12LOX, COX2, DMT1, TFR1, and TF) (<xref rid="F2" ref-type="fig">Figure 2K</xref>). These results indicated that PEM enhances cisplatin-induced cytotoxic effect by inducing ferroptosis.</p><fig position="float" id="F2" orientation="portrait"><label>FIGURE 2</label><caption><p>PEM induces ferroptosis in cells. A549 cells were grown with or without PEM (100 nM) for 72 h. <bold>(A)</bold> Heatmap summarizing RNA-seq data for the control and PEM-treated A549 cells with 744 upregulated genes (Red) and 412 downregulated genes (Green). <bold>(B)</bold> Volcano plot of differentially expressed genes between the control and PEM-treated cells as determined by RNA-seq. <bold>(C)</bold> KEGG enrichment analysis of PEM-regulated genes. The A549 or H1299 cells were subjected to PEM (100 nM), or DDP (200 nM), or PEM (100 nM) and DDP (200 nM) for 72 h. <bold>(D)</bold> The intracellular ROS was tested by flow cytometry, and the quantification of fluorescence intensities is shown. The levels of GSH <bold>(E)</bold>, SOD <bold>(F)</bold>, MDA <bold>(G)</bold>, and intercellular iron <bold>(H)</bold> were measured using appropriate kits, and the corresponding statistical results are shown. Western blot was used to detect <bold>(I)</bold> the expression of anti-ferroptosis proteins (SLC7A11, GPX4, DHODH, FSP1, and GCH1) and <bold>(J)</bold> FPN1, FTH1, FTL, and <bold>(K)</bold> the expression of pro-ferroptosis proteins (ACSL4, 12LOX, COX2, DMT1, TFR1, and TF) in A549 cells. (<sup>*</sup>
+<italic toggle="yes">P</italic> &lt; 0.01; <sup>**</sup>
+<italic toggle="yes">P</italic> &lt; 0.01; <sup>***</sup>
+<italic toggle="yes">P</italic> &lt; 0.005; <sup>****</sup>
+<italic toggle="yes">P</italic> &lt; 0.001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fphar-16-1764937-g002.jpg"><?image-name fphar-16-1764937-g002.jpg?><?image-size 131384?><?image-md5 9e1d278377209ace0741f55c37882a1e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1811?><?image-original-width 1772?><?image-scaled-height 724?><?image-scaled-width 708?><?image-cloudpmc-urn urn:cdn:blobs/3971/12868191/9e1d27837720/fphar-16-1764937-g002.jpg?><?thumb-name fphar-16-1764937-g002.gif?><?thumb-size 15285?><?thumb-md5 b83e36422aa7892fa59abe0705b87d08?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 102?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/3971/12868191/b83e36422aa7/fphar-16-1764937-g002.gif?><alt-text content-type="machine-generated">The composite image features several panels related to biological data. Panel A shows a heatmap representing gene expression, with a dendrogram indicating clustering. Panel B displays a volcano plot illustrating gene expression changes. Panel C includes a KEGG pathway analysis with dot plot visualization, highlighting enriched pathways. Panels D to H present bar graphs of various experimental results, comparing treatments in A549 and H1299 cell lines, with statistical significance marked by asterisks. Panels I to K show Western blot analyses for different proteins with varying conditions and controls, including markers like β-actin.</alt-text></graphic></fig></sec><sec id="s3-3"><label>3.3</label><title>Inhibition of ferroptosis reverses cisplatin-induced ferroptosis in NSCLC cells</title><p>To further confirm that the PEM-induced cytotoxic effect is channeled through inducing ferroptosis in A549 cells, we used the ferroptosis inhibitors deferoxamine (DFO) and ferrostatin-1 (Fer-1) in PEM and DDP-induced cells. DFO and Fer-1 can reverse PEM- and DDP-induced ferroptosis in cells. The rescued phenotypes included alleviated loss of cell viability (<xref rid="F3" ref-type="fig">Figure 3A</xref>), increased numbers of colony formations (<xref rid="F3" ref-type="fig">Figure 3B</xref>), a remarkably reduced percentage of EdU+ cells (<xref rid="F3" ref-type="fig">Figure 3C</xref>), decreased concentrations of ROS (<xref rid="F4" ref-type="fig">Figure 4A</xref>), increased GSH level (<xref rid="F4" ref-type="fig">Figure 4B</xref>), decreased content of SOD (<xref rid="F4" ref-type="fig">Figure 4C</xref>) and MDA (<xref rid="F4" ref-type="fig">Figure 4D</xref>), and decreased iron (<xref rid="F4" ref-type="fig">Figure 4E</xref>) in A549 cells. These results suggested that PEM enhances cisplatin-induced cytotoxic effect by inducing ferroptosis.</p><fig position="float" id="F3" orientation="portrait"><label>FIGURE 3</label><caption><p>Ferroptosis inhibitors reverse PEM plus DDP-induced suppression of cell proliferation. The NSCLC A549 or H1299 cells were subjected to PEM (100 nM), DDP (200 nM), or PEM (100 nM) and DDP (200 nM) for 72 h after pretreatment with ferroptosis inhibitors for 2 h. <bold>(A)</bold> Cell viability was assessed using the CCK-8 assay in A549 and H1299 cells. <bold>(B)</bold> A colony formation assay of the A549 cells was conducted. <bold>(C)</bold> Cell proliferation was assessed by the EdU incorporation assay. (<sup>**</sup>
+<italic toggle="yes">P</italic> &lt; 0.01; <sup>***</sup>
+<italic toggle="yes">P</italic> &lt; 0.005; <sup>****</sup>
+<italic toggle="yes">P</italic> &lt; 0.001; <sup>#</sup>
+<italic toggle="yes">P</italic> &lt; 0.05; <sup>##</sup>
+<italic toggle="yes">P</italic> &lt; 0.01).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fphar-16-1764937-g003.jpg"><?image-name fphar-16-1764937-g003.jpg?><?image-size 126850?><?image-md5 a1fc2da5964a0d66f9a35ffd9b8dd46b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1162?><?image-original-width 1772?><?image-scaled-height 464?><?image-scaled-width 708?><?image-cloudpmc-urn urn:cdn:blobs/3971/12868191/a1fc2da5964a/fphar-16-1764937-g003.jpg?><?thumb-name fphar-16-1764937-g003.gif?><?thumb-size 13559?><?thumb-md5 b500a657a0ba0bd0a81bb726b7256adf?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 121?><?thumb-cloudpmc-urn urn:cdn:blobs/3971/12868191/b500a657a0ba/fphar-16-1764937-g003.gif?><alt-text content-type="machine-generated">Panel A features bar graphs showing relative cell viability of A549 and H1299 cells under various treatment conditions, with annotations indicating significant differences. Panel B displays images of cell colonies in six different treatments, illustrating varying levels of cell growth. Panel C contains fluorescence images of A549 cells with different treatments, highlighting differences in cell fluorescence patterns.</alt-text></graphic></fig><fig position="float" id="F4" orientation="portrait"><label>FIGURE 4</label><caption><p>Ferroptosis inhibitors reverse PEM plus DDP-induced ferroptosis in NSCLC cells. The NSCLC A549 and H1299 cells were subjected to PEM (100 nM), DDP (200 nM), or PEM (100 nM) and DDP (200 nM) for 72 h after pretreatment with ferroptosis inhibitors for 2 h. The ROS production <bold>(A)</bold>, levels of GSH <bold>(B)</bold>, SOD <bold>(C)</bold>, MDA <bold>(D)</bold>, and intercellular iron <bold>(E)</bold> were assessed using the appropriate kits, and the corresponding statistical results are shown. (<sup>***</sup>
+<italic toggle="yes">P</italic> &lt; 0.005; <sup>****</sup>
+<italic toggle="yes">P</italic> &lt; 0.001; <sup>##</sup>
+<italic toggle="yes">P</italic> &lt; 0.01; <sup>##</sup>
+<italic toggle="yes">P</italic> &lt; 0.01; <sup>###</sup>
+<italic toggle="yes">P</italic> &lt; 0.005; <sup>####</sup>
+<italic toggle="yes">P</italic> &lt; 0.001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fphar-16-1764937-g004.jpg"><?image-name fphar-16-1764937-g004.jpg?><?image-size 126765?><?image-md5 1355a3b70f8b1bbfaf471904515e60a9?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1596?><?image-original-width 1772?><?image-scaled-height 638?><?image-scaled-width 708?><?image-cloudpmc-urn urn:cdn:blobs/3971/12868191/1355a3b70f8b/fphar-16-1764937-g004.jpg?><?thumb-name fphar-16-1764937-g004.gif?><?thumb-size 14221?><?thumb-md5 4daf099b9c63de9b9d8d09c20c821627?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 90?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/3971/12868191/4daf099b9c63/fphar-16-1764937-g004.gif?><alt-text content-type="machine-generated">Bar graphs show the effects of various treatments on A549 and H1299 cells. Panels A to E compare relative levels of ROS, GSH, SOD, MDA, and iron content across different conditions. Treatments involve PEM, DDP, Fer, and DFO at specified concentrations. Statistical significance is indicated by asterisks and hash marks, where more symbols denote higher significance levels.</alt-text></graphic></fig></sec><sec id="s3-4"><label>3.4</label><title>Pemetrexed promotes cisplatin-induced ferroptosis by the SLC7A11/GPX4 axis in NSCLC cells</title><p>Next, we examined the underlying mechanism by which PEM induces ferroptosis in A549 cells. Western blot analysis uncovered that PEM and DDP downregulate the expression of SLC7A11, GPX4, FPN1, FTH1, FTL, DHODH, FSP1, and GCH1 in A549 cells (<xref rid="F5" ref-type="fig">Figures 5A,B</xref>) and upregulate the expression of ACSL4, 12LOX, COX2, DMT1, TFR1, and TF (<xref rid="F5" ref-type="fig">Figure 5C</xref>). However, the effects were reversed by ferroptosis inhibitors ferrostatin-1 or deferoxamine in NSCLC cells. DFO or Fer-1 can reverse PEM-plus-DDP-induced altered expression of anti-ferroptosis proteins and pro-ferroptosis proteins (<xref rid="F5" ref-type="fig">Figures 5A–C</xref>). These results suggest PEM inhibits the SLC7A11/GPX4 system, enhances lipid metabolism, and modulates the accumulation of iron.</p><fig position="float" id="F5" orientation="portrait"><label>FIGURE 5</label><caption><p>Pemetrexed modulates SLC7A11/GPX4, ACSL4, and iron. The NSCLC A549 cells were subjected to PEM (100 nM), DDP (100 nM), or PEM (100 nM) and DDP (200 nM) for 72 h. Western blot was used to detect <bold>(A)</bold> SLC7A11/GPX4, <bold>(B)</bold> ACSL4 and 12LOX, and <bold>(C)</bold> the expression of FPN1, FTH1, FTL, DMT1, and TfR1 in A549 cells. The NSCLC A549 cells were subjected to PEM (100 nM), DDP (200 nM), or PEM (100 nM) and DDP (200 nM) for 72 h with and without pretreatment with ferroptosis inhibitors for 2 h. Western blot was used to detect <bold>(D)</bold> SLC7A11/GPX4, <bold>(E)</bold> ACSL4 and 12LOX, and <bold>(F)</bold> the expression of FPN1, FTH1, FTL, DMT1, and TfR1 in A549 cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fphar-16-1764937-g005.jpg"><?image-name fphar-16-1764937-g005.jpg?><?image-size 179562?><?image-md5 2251d70680cbbd5f95590ab4e4a55eaf?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2302?><?image-original-width 1772?><?image-scaled-height 920?><?image-scaled-width 708?><?image-cloudpmc-urn urn:cdn:blobs/3971/12868191/2251d70680cb/fphar-16-1764937-g005.jpg?><?thumb-name fphar-16-1764937-g005.gif?><?thumb-size 15373?><?thumb-md5 eead12ae773882b416c8917018d1e9bd?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 130?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/3971/12868191/eead12ae7738/fphar-16-1764937-g005.gif?><alt-text content-type="machine-generated">Panels A, B, and C show western blot analyses of A549 cells treated with various agents. Panel A examines the expression of proteins SLC7A11, GPX4, FSP1, GCH1, and DHODH with β-actin as a control. Panel B assesses FPN1, FTH1, and FTL, again with β-actin control. Panel C analyzes ACSL4, 12LOX, COX2, DMT1, TFR1, and TF. Panel D illustrates a diagram of cellular metabolic pathways depicting the effects of cisplatin and PEM on processes such as ferroptosis and iron metabolism, indicating interactions among proteins, molecules, and cellular uptake mechanisms relevant to non-small cell lung cancer (NSCLC).</alt-text></graphic></fig></sec></sec><sec sec-type="discussion" id="s4"><label>4</label><title>Discussion</title><p>Chemotherapy resistance (both intrinsic and acquired) often occurs during treatment and leads to the poor prognosis of patients with NSCLC. Ferroptosis is a novel form of regulated cell death that is morphologically, biochemically, and genetically different from other types of cell death (<xref rid="B38" ref-type="bibr">Wang et al., 2023a</xref>). Mounting evidence has suggested that pharmacologically inducing ferroptosis might be a promising strategy to kill even cancer cells with resistance to chemotherapy (<xref rid="B39" ref-type="bibr">Wang et al., 2023b</xref>). In the present study, we for the first time reveal that pemetrexed boosts the antitumor activity of cisplatin by inducing ferroptosis in NSCLC cells. Mechanistic insights revealed that pemetrexed may downregulate SLC7A11/GPX4, upregulate ACSL4, and promote cellular iron uptake (TfR1), while decreasing iron storage (FTH-1 and FTL) and iron output (PFN1) in NSCLC cells. These findings provide novel insight into killing cancer by pemetrexed through inducing ferroptosis, highlighting a novel potential target for the treatment of NSCLC (<xref rid="F5" ref-type="fig">Figure 5D</xref>).</p><p>Systemic platinum-based chemotherapy is still recommended as the standard first-line regimen for patients with advanced and earlier-stage NSCLC (<xref rid="B24" ref-type="bibr">Nagasaka and Gadgeel, 2018</xref>). Platinum-based chemotherapy combined with pemetrexed is frequently recommended as one of the first-line therapeutic regimens for NSCLC. However, chemoresistance to platinum poses a significant challenge in the treatment of NSCLC individuals (<xref rid="B41" ref-type="bibr">Yin et al., 2016</xref>; <xref rid="B40" ref-type="bibr">Wang et al., 2024</xref>). Therefore, novel mechanisms are needed to treat NSCLC and meet unmet needs in NSCLC treatment (<xref rid="B11" ref-type="bibr">Herbst et al., 2018</xref>; <xref rid="B20" ref-type="bibr">Lim and Ma, 2019</xref>). During the past decade, researchers have found that ferroptosis can overcome drug resistance and increase the death of tumor cells (Wang et al., 2023). Emerging evidence suggests that agents with ferroptosis-inducing activity increase the chemosensitivity of classic therapeutic agents by triggering ferroptosis (<xref rid="B13" ref-type="bibr">Huang et al., 2024</xref>). In the present study, whether pemetrexed increases sensitivity to cisplatin via ferroptosis remains to be determined.</p><p>Recently, both GPX4-dependent and GPX4-independent pathways with distinct subcellular localizations have been identified as critical regulators of ferroptosis, which include the GPX4/GSH axis (<xref rid="B17" ref-type="bibr">Lei et al., 2022</xref>; <xref rid="B33" ref-type="bibr">Sun et al., 2022</xref>), the FSP1/CoQH<sub>2</sub> system (<xref rid="B1" ref-type="bibr">Bersuker et al., 2019</xref>; <xref rid="B6" ref-type="bibr">Doll et al., 2019</xref>; <xref rid="B25" ref-type="bibr">Nakamura et al., 2023</xref>), the GCH1/BH<sub>4</sub> system (<xref rid="B15" ref-type="bibr">Kraft et al., 2020</xref>; <xref rid="B31" ref-type="bibr">Soula et al., 2020</xref>), and the DHODH/CoQH<sub>2</sub> system (<xref rid="B22" ref-type="bibr">Mao et al., 2021</xref>). The inhibition of the antioxidant SLC7A11/GSH/GPX4 system and the accumulation of free iron are two key signals that induce ferroptosis (<xref rid="B3" ref-type="bibr">Chen et al., 2021</xref>). The SLC7A11/GSH/GPX4 system is the main ferroptosis defense system. Our results showed a decrease in expression protein levels of SLC7A11/GPX4, FSP1, GCH1, and DHODH after PEM treatment, and PEM boosts the DDP-mediated downregulation of these proteins, suggesting that PEM induces ferroptosis by inactivating various inhibitors of ferroptosis and thereby increasing the sensitivity of NSCLC cells to cisplatin. The present findings substantiate previous indications that PEM plus DDP-induced ferroptosis in NSCLC (<xref rid="B2" ref-type="bibr">Bi et al., 2022</xref>).</p><p>Functioning as a fatty acid metabolism enzyme, acyl-coenzyme A [CoA] synthetase long-chain family member 4 (ACSL4) is a driver of ferroptosis. ACSL4 ligates polyunsaturated fatty acids (PUFAs) with CoA to produce acyl-CoA. ACSL4 increases the content of polyunsaturated fatty acids (PUFAs) in phospholipids (<xref rid="B5" ref-type="bibr">Doll et al., 2017</xref>). Once polyunsaturated acyl tails (PL-PUFAs) are incorporated into membrane environments, lipoxygenases (LOXs), cytochrome P450 oxidoreductase (POR), and labile iron use molecular oxygen (O<sub>2</sub>) to do a peroxidation reaction, leading to the generation of peroxidated PL-PUFAs (PL-PUFA-OOH), thereby inducing ferroptosis (<xref rid="B9" ref-type="bibr">Hadian and Stockwell, 2020</xref>; <xref rid="B46" ref-type="bibr">Zou et al., 2020</xref>). Our results showed increased protein levels of ACSL4 and 12LOX after PEM treatment. PEM boosts the DDP-mediated upregulation of ACSL4 and 12LOX, indicating that PEM induces ferroptosis by activating ACSL4 and 12LOX and thereby enhancing the sensitivity of NSCLC cells to cisplatin.</p><p>Tumor cells are more susceptible to ferroptosis because they have higher iron requirements than normal cells (<xref rid="B10" ref-type="bibr">Hassannia et al., 2019</xref>). Iron metabolism contributes to ferroptosis. The iron (Fe<sup>3+</sup>) binds to transferrin (Tf) in the circulation to form a complex holotransferrin (holo-Tf) (<xref rid="B7" ref-type="bibr">Ganz, 2008</xref>), which binds to transferrin receptor 1 (TfR1) and then enters the cells through clathrin-mediated endocytosis (<xref rid="B23" ref-type="bibr">McCarthy and Kosman, 2012</xref>). Then, the Fe<sup>3+</sup>–Tf–TfR complex is transported into cells to the endosome, where Fe<sup>3+</sup> detaches from Tf and is reduced to Fe<sup>2+</sup> by duodenal cytochrome b (DCYTB) (<xref rid="B35" ref-type="bibr">Tulpule et al., 2010</xref>) or the metalloreductase six-transmembrane epithelial antigen of prostate 3 (STEAP3) (<xref rid="B26" ref-type="bibr">Ohgami et al., 2005</xref>). Then, divalent metal transporter 1 (DMT-1) mediates Fe<sup>2+</sup> entering the cytosol (<xref rid="B4" ref-type="bibr">De Domenico et al., 2008</xref>). The unbound Fe<sup>2+</sup> can be stored in a non-toxic form as Fe<sup>3+</sup> by ferritin, which consists of two isoforms, that is, heavy (FTH) and light (FTL). PEM plus DDP downregulate the expression of FPN1, FTH1, and FTL and upregulate the expression of DMT1 and TfR1 in A549 cells. These results suggest that PEM promotes cellular iron uptake and decreases iron storage and iron output.</p><p>In summary, the present study uncovers a novel mechanism underlying how PEM kills NSCLC cells <italic toggle="yes">in vitro</italic> by inducing ferroptosis through inactivating various inhibitors of ferroptosis, activating ACSL4 and 12LOX, promoting cellular iron uptake, and decreasing iron storage and iron output.</p><p>While our findings are derived from <italic toggle="yes">in vitro</italic> models, they offer several translational implications for NSCLC therapy. First, the synergistic induction of ferroptosis by PEM and DDP provides a mechanistic rationale for optimizing this clinically established combination. Monitoring ferroptosis-related biomarkers, such as lipid peroxidation products, GPX4 activity, or iron metabolism proteins, in patients’ tumors could help identify subsets more likely to respond to PEM/DDP regimens. Second, our data suggest that tumors with inherent or acquired resistance to cisplatin might be re-sensitized through ferroptosis induction. This supports the exploration of pharmacological ferroptosis inducers (e.g., GPX4 inhibitors or iron-loading agents) as adjuncts to platinum-based chemotherapy in refractory NSCLC. Finally, the involvement of multiple ferroptosis defense pathways (SLC7A11/GPX4, FSP1, DHODH, and GCH1) implies that tumor heterogeneity in ferroptosis vulnerability may influence therapeutic outcomes. Profiling these pathways in clinical samples could guide patient stratification and personalized combination strategies. Future studies validating these mechanisms in <italic toggle="yes">in vivo</italic> models and correlating them with clinical response data will be essential to translate these insights into improved therapeutic paradigms for NSCLC.</p></sec></body><back><fn-group><fn fn-type="edited-by"><p>
+<bold>Edited by:</bold>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/661975/overview" ext-link-type="uri">Lei Zhang</ext-link>, Henan University, China</p></fn><fn fn-type="reviewed-by"><p>
+<bold>Reviewed by:</bold>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/278606/overview" ext-link-type="uri">Wei-Lin Jin</ext-link>, First Hospital of Lanzhou University, China</p><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/3316857/overview" ext-link-type="uri">Na Li</ext-link>, Jilin University, China</p></fn></fn-group><fn-group><fn fn-type="abbr" id="abbrev1"><p><bold>Abbreviations:</bold> 4-HNE, 4-hydroxynonenal; 12LOX, 12-lipoxygenase; ACSL4, acyl-coenzyme A synthetase long-chain family member 4; COX2, cyclooxygenase 2; DDP, cisplatin; DHODH, dihydroorotate dehydrogenase; DFO, deferoxamine; DMT1, divalent metal transporter 1; Fer-1, ferrostatin-1; FSP1, ferroptosis suppressor protein 1; FPN1, ferroportin 1; FTH1, ferritin heavy chain 1; FTL, ferritin light chain; GCH1, GTP cyclohydrolase 1; GPX4, glutathione peroxidase 4; GSH, glutathione; LUAD, lung adenocarcinoma; LUSC, lung squamous cell carcinoma; MDA, malondialdehyde; NSCLC, non-small-cell lung cancer; PUFAs, polyunsaturated fatty acids; POR, cytochrome P450 oxidoreductase; RCD, regulated cell death; SCLC, small-cell lung cancer; SLC7A11, solute carrier family 7 member 11; SOD, superoxide dismutase; TF, transferrin; TFR1, transferrin receptor 1.</p></fn></fn-group><sec sec-type="data-availability" id="s5"><title>Data availability statement</title><p>The data presented in the study are deposited in the figshare repository, this data can be found here: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.6084/m9.figshare.30945029" ext-link-type="uri">https://doi.org/10.6084/m9.figshare.30945029</ext-link>; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.6084/m9.figshare.30945077" ext-link-type="uri">https://doi.org/10.6084/m9.figshare.30945077</ext-link>.</p></sec><sec sec-type="author-contributions" id="s6"><title>Author contributions</title><p>YW: Software, Conceptualization, Funding acquisition, Visualization, Writing – original draft, Investigation, Formal analysis, Methodology, Data curation. XZ: Data curation, Writing – original draft, Formal analysis. YC: Writing – original draft, Formal analysis, Data curation. GZ: Writing – original draft, Formal analysis, Data curation. YZ: Data curation, Writing – original draft, Formal analysis. YL: Formal analysis, Writing – original draft, Data curation. JC: Funding acquisition, Conceptualization, Supervision, Writing – review and editing.</p></sec><sec sec-type="COI-statement" id="s8"><title>Conflict of interest</title><p>The author(s) declared that this work was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec><sec sec-type="ai-statement" id="s9"><title>Generative AI statement</title><p>The author(s) declared that generative AI was not used in the creation of this manuscript.</p><p>Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.</p></sec><sec sec-type="disclaimer" id="s10"><title>Publisher’s note</title><p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></sec><sec sec-type="supplementary-material" id="s11"><title>Supplementary material</title><p>The Supplementary Material for this article can be found online at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.frontiersin.org/articles/10.3389/fphar.2025.1764937/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fphar.2025.1764937/full#supplementary-material</ext-link>
+</p><supplementary-material id="SM1" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Table1.doc" position="float" orientation="portrait"><?suppdata-name Table1.doc?><?suppdata-size 37376?><?suppdata-md5 c93b2260a26f2abf619d255dadc4c18d?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type msword?><?suppdata-cloudpmc-urn urn:app:3971/12868191/c93b2260a26f/Table1.doc?></media></supplementary-material><supplementary-material id="SM2" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Supplementaryfile1.doc" position="float" orientation="portrait"><?suppdata-name Supplementaryfile1.doc?><?suppdata-size 6546944?><?suppdata-md5 49f044aa9b3d91c1231992c194aef92c?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type msword?><?suppdata-cloudpmc-urn urn:app:3971/12868191/49f044aa9b3d/Supplementaryfile1.doc?></media></supplementary-material></sec><ref-list><title>References</title><ref id="B1"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bersuker</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Hendricks</surname><given-names>J. M.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Magtanong</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Ford</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Tang</surname><given-names>P. H.</given-names></name>
+<etal/>
+</person-group> (<year>2019</year>). <article-title>The CoQ oxidoreductase FSP1 acts parallel to GPX4 to inhibit ferroptosis</article-title>. <source>Nature</source>
+<volume>575</volume>, <fpage>688</fpage>–<lpage>692</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-019-1705-2</pub-id>
+<pub-id pub-id-type="pmid">31634900</pub-id>
+<pub-id pub-id-type="pmcid">PMC6883167</pub-id></mixed-citation></ref><ref id="B2"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bi</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Jin</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>T.</given-names></name>
+<etal/>
+</person-group> (<year>2022</year>). <article-title>miR-6077 promotes cisplatin/pemetrexed resistance in lung adenocarcinoma <italic toggle="yes">via</italic> CDKN1A/cell cycle arrest and KEAP1/ferroptosis pathways</article-title>. <source>Mol. Ther. Nucleic Acids</source>
+<volume>28</volume>, <fpage>366</fpage>–<lpage>386</lpage>. <pub-id pub-id-type="doi">10.1016/j.omtn.2022.03.020</pub-id>
+<pub-id pub-id-type="pmid">35505963</pub-id>
+<pub-id pub-id-type="pmcid">PMC9035384</pub-id></mixed-citation></ref><ref id="B3"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Kang</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Kroemer</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Tang</surname><given-names>D.</given-names></name>
+</person-group> (<year>2021</year>). <article-title>Ferroptosis in infection, inflammation, and immunity</article-title>. <source>J. Exp. Med.</source>
+<volume>218</volume>, <fpage>e20210518</fpage>. <pub-id pub-id-type="doi">10.1084/jem.20210518</pub-id>
+<pub-id pub-id-type="pmid">33978684</pub-id>
+<pub-id pub-id-type="pmcid">PMC8126980</pub-id></mixed-citation></ref><ref id="B4"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>De Domenico</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>McVey Ward</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Kaplan</surname><given-names>J.</given-names></name>
+</person-group> (<year>2008</year>). <article-title>Regulation of iron acquisition and storage: consequences for iron-linked disorders</article-title>. <source>Nat. Rev. Mol. Cell Biol.</source>
+<volume>9</volume>, <fpage>72</fpage>–<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1038/nrm2295</pub-id>
+<pub-id pub-id-type="pmid">17987043</pub-id>
+</mixed-citation></ref><ref id="B5"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Doll</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Proneth</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Tyurina</surname><given-names>Y. Y.</given-names></name>
+<name name-style="western"><surname>Panzilius</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Kobayashi</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Ingold</surname><given-names>I.</given-names></name>
+<etal/>
+</person-group> (<year>2017</year>). <article-title>ACSL4 dictates ferroptosis sensitivity by shaping cellular lipid composition</article-title>. <source>Nat. Chem. Biol.</source>
+<volume>13</volume>, <fpage>91</fpage>–<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1038/nchembio.2239</pub-id>
+<pub-id pub-id-type="pmid">27842070</pub-id>
+<pub-id pub-id-type="pmcid">PMC5610546</pub-id></mixed-citation></ref><ref id="B6"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Doll</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Freitas</surname><given-names>F. P.</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Aldrovandi</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>da Silva</surname><given-names>M. C.</given-names></name>
+<name name-style="western"><surname>Ingold</surname><given-names>I.</given-names></name>
+<etal/>
+</person-group> (<year>2019</year>). <article-title>FSP1 is a glutathione-independent ferroptosis suppressor</article-title>. <source>Nature</source>
+<volume>575</volume>, <fpage>693</fpage>–<lpage>698</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-019-1707-0</pub-id>
+<pub-id pub-id-type="pmid">31634899</pub-id>
+</mixed-citation></ref><ref id="B7"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ganz</surname><given-names>T.</given-names></name>
+</person-group> (<year>2008</year>). <article-title>Iron homeostasis: fitting the puzzle pieces together</article-title>. <source>Cell Metab.</source>
+<volume>7</volume>, <fpage>288</fpage>–<lpage>290</lpage>. <pub-id pub-id-type="doi">10.1016/j.cmet.2008.03.008</pub-id>
+<pub-id pub-id-type="pmid">18396134</pub-id>
+</mixed-citation></ref><ref id="B8"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Guo</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>Q.</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Xia</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Gong</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group> (<year>2018</year>). <article-title>Ferroptosis: a novel anti-tumor action for cisplatin</article-title>. <source>Cancer Res. Treat.</source>
+<volume>50</volume>, <fpage>445</fpage>–<lpage>460</lpage>. <pub-id pub-id-type="doi">10.4143/crt.2016.572</pub-id>
+<pub-id pub-id-type="pmid">28494534</pub-id>
+<pub-id pub-id-type="pmcid">PMC5912137</pub-id></mixed-citation></ref><ref id="B9"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hadian</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Stockwell</surname><given-names>B. R.</given-names></name>
+</person-group> (<year>2020</year>). <article-title>SnapShot: ferroptosis</article-title>. <source>Cell</source>
+<volume>181</volume>, <fpage>1188</fpage>–<lpage>1188.e1</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2020.04.039</pub-id>
+<pub-id pub-id-type="pmid">32470402</pub-id>
+<pub-id pub-id-type="pmcid">PMC8157339</pub-id></mixed-citation></ref><ref id="B10"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hassannia</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Vandenabeele</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Vanden Berghe</surname><given-names>T.</given-names></name>
+</person-group> (<year>2019</year>). <article-title>Targeting ferroptosis to iron out cancer</article-title>. <source>Cancer Cell</source>
+<volume>35</volume>, <fpage>830</fpage>–<lpage>849</lpage>. <pub-id pub-id-type="doi">10.1016/j.ccell.2019.04.002</pub-id>
+<pub-id pub-id-type="pmid">31105042</pub-id>
+</mixed-citation></ref><ref id="B11"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Herbst</surname><given-names>R. S.</given-names></name>
+<name name-style="western"><surname>Morgensztern</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Boshoff</surname><given-names>C.</given-names></name>
+</person-group> (<year>2018</year>). <article-title>The biology and management of non-small cell lung cancer</article-title>. <source>Nature</source>
+<volume>553</volume>, <fpage>446</fpage>–<lpage>454</lpage>. <pub-id pub-id-type="doi">10.1038/nature25183</pub-id>
+<pub-id pub-id-type="pmid">29364287</pub-id>
+</mixed-citation></ref><ref id="B12"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hirsch</surname><given-names>F. R.</given-names></name>
+<name name-style="western"><surname>Scagliotti</surname><given-names>G. V.</given-names></name>
+<name name-style="western"><surname>Mulshine</surname><given-names>J. L.</given-names></name>
+<name name-style="western"><surname>Kwon</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Curran</surname><given-names>W. J.</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Wu</surname><given-names>Y. L.</given-names></name>
+<etal/>
+</person-group> (<year>2017</year>). <article-title>Lung cancer: current therapies and new targeted treatments</article-title>. <source>Lancet</source>
+<volume>389</volume>, <fpage>299</fpage>–<lpage>311</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(16)30958-8</pub-id>
+<pub-id pub-id-type="pmid">27574741</pub-id>
+</mixed-citation></ref><ref id="B13"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Huang</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Qian</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group> (<year>2024</year>). <article-title>Ferroptosis-inducing compounds synergize with docetaxel to overcome chemoresistance in docetaxel-resistant non-small cell lung cancer cells</article-title>. <source>Eur. J. Med. Chem.</source>
+<volume>276</volume>, <fpage>116670</fpage>. <pub-id pub-id-type="doi">10.1016/j.ejmech.2024.116670</pub-id>
+<pub-id pub-id-type="pmid">39018922</pub-id>
+</mixed-citation></ref><ref id="B14"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kobayashi</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Yoshimoto</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Matsubara</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Shigetomi</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Imanaka</surname><given-names>S.</given-names></name>
+</person-group> (<year>2023</year>). <article-title>A comprehensive overview of recent developments on the mechanisms and pathways of ferroptosis in cancer: the potential implications for therapeutic strategies in ovarian cancer</article-title>. <source>Cancer Drug Resistance (Alhambra, Calif.)</source>
+<volume>6</volume>, <fpage>547</fpage>–<lpage>566</lpage>. <pub-id pub-id-type="doi">10.20517/cdr.2023.49</pub-id>
+<pub-id pub-id-type="pmid">37842240</pub-id>
+<pub-id pub-id-type="pmcid">PMC10571061</pub-id></mixed-citation></ref><ref id="B15"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kraft</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Bezjian</surname><given-names>C. T.</given-names></name>
+<name name-style="western"><surname>Pfeiffer</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Ringelstetter</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Müller</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Zandkarimi</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group> (<year>2020</year>). <article-title>GTP cyclohydrolase 1/Tetrahydrobiopterin counteract ferroptosis through lipid remodeling</article-title>. <source>ACS Cent. Sci.</source>
+<volume>6</volume>, <fpage>41</fpage>–<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.9b01063</pub-id>
+<pub-id pub-id-type="pmid">31989025</pub-id>
+<pub-id pub-id-type="pmcid">PMC6978838</pub-id></mixed-citation></ref><ref id="B16"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lei</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Koppula</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>S. H.</given-names></name>
+<etal/>
+</person-group> (<year>2020</year>). <article-title>The role of ferroptosis in ionizing radiation-induced cell death and tumor suppression</article-title>. <source>Cell Res.</source>
+<volume>30</volume>, <fpage>146</fpage>–<lpage>162</lpage>. <pub-id pub-id-type="doi">10.1038/s41422-019-0263-3</pub-id>
+<pub-id pub-id-type="pmid">31949285</pub-id>
+<pub-id pub-id-type="pmcid">PMC7015061</pub-id></mixed-citation></ref><ref id="B17"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lei</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Zhuang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Gan</surname><given-names>B.</given-names></name>
+</person-group> (<year>2022</year>). <article-title>Targeting ferroptosis as a vulnerability in cancer</article-title>. <source>Nat. Rev. Cancer</source>
+<volume>22</volume>, <fpage>381</fpage>–<lpage>396</lpage>. <pub-id pub-id-type="doi">10.1038/s41568-022-00459-0</pub-id>
+<pub-id pub-id-type="pmid">35338310</pub-id>
+<pub-id pub-id-type="pmcid">PMC10243716</pub-id></mixed-citation></ref><ref id="B18"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Leiter</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Veluswamy</surname><given-names>R. R.</given-names></name>
+<name name-style="western"><surname>Wisnivesky</surname><given-names>J. P.</given-names></name>
+</person-group> (<year>2023</year>). <article-title>The global burden of lung cancer: current status and future trends</article-title>. <source>Nat. Rev. Clin. Oncol.</source>
+<volume>20</volume>, <fpage>624</fpage>–<lpage>639</lpage>. <pub-id pub-id-type="doi">10.1038/s41571-023-00798-3</pub-id>
+<pub-id pub-id-type="pmid">37479810</pub-id>
+</mixed-citation></ref><ref id="B19"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Yuan</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Xie</surname><given-names>Q.</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group> (<year>2022</year>). <article-title>d-Borneol enhances cisplatin sensitivity <italic toggle="yes">via</italic> autophagy dependent EMT signaling and NCOA4-mediated ferritinophagy</article-title>. <source>Phytomedicine</source>
+<volume>106</volume>, <fpage>154411</fpage>. <pub-id pub-id-type="doi">10.1016/j.phymed.2022.154411</pub-id>
+<pub-id pub-id-type="pmid">36030746</pub-id>
+</mixed-citation></ref><ref id="B20"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lim</surname><given-names>Z. F.</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>P. C.</given-names></name>
+</person-group> (<year>2019</year>). <article-title>Emerging insights of tumor heterogeneity and drug resistance mechanisms in lung cancer targeted therapy</article-title>. <source>J. Hematol. Oncol.</source>
+<volume>12</volume>, <fpage>134</fpage>. <pub-id pub-id-type="doi">10.1186/s13045-019-0818-2</pub-id>
+<pub-id pub-id-type="pmid">31815659</pub-id>
+<pub-id pub-id-type="pmcid">PMC6902404</pub-id></mixed-citation></ref><ref id="B21"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>LoPiccolo</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Gusev</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Christiani</surname><given-names>D. C.</given-names></name>
+<name name-style="western"><surname>Jänne</surname><given-names>P. A.</given-names></name>
+</person-group> (<year>2024</year>). <article-title>Lung cancer in patients who have never smoked - an emerging disease</article-title>. <source>Nat. Rev. Clin. Oncol.</source>
+<volume>21</volume>, <fpage>121</fpage>–<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1038/s41571-023-00844-0</pub-id>
+<pub-id pub-id-type="pmid">38195910</pub-id>
+<pub-id pub-id-type="pmcid">PMC11014425</pub-id></mixed-citation></ref><ref id="B22"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mao</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Lei</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Yan</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group> (<year>2021</year>). <article-title>DHODH-Mediated ferroptosis defence is a targetable vulnerability in cancer</article-title>. <source>Nature</source>
+<volume>593</volume>, <fpage>586</fpage>–<lpage>590</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-021-03539-7</pub-id>
+<pub-id pub-id-type="pmid">33981038</pub-id>
+<pub-id pub-id-type="pmcid">PMC8895686</pub-id></mixed-citation></ref><ref id="B23"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>McCarthy</surname><given-names>R. C.</given-names></name>
+<name name-style="western"><surname>Kosman</surname><given-names>D. J.</given-names></name>
+</person-group> (<year>2012</year>). <article-title>Mechanistic analysis of iron accumulation by endothelial cells of the BBB</article-title>. <source>Biometals</source>
+<volume>25</volume>, <fpage>665</fpage>–<lpage>675</lpage>. <pub-id pub-id-type="doi">10.1007/s10534-012-9538-6</pub-id>
+<pub-id pub-id-type="pmid">22434419</pub-id>
+<pub-id pub-id-type="pmcid">PMC3384751</pub-id></mixed-citation></ref><ref id="B24"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nagasaka</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Gadgeel</surname><given-names>S. M.</given-names></name>
+</person-group> (<year>2018</year>). <article-title>Role of chemotherapy and targeted therapy in early-stage non-small cell lung cancer</article-title>. <source>Expert Rev. Anticancer Ther.</source>
+<volume>18</volume>, <fpage>63</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1080/14737140.2018.1409624</pub-id>
+<pub-id pub-id-type="pmid">29168933</pub-id>
+<pub-id pub-id-type="pmcid">PMC6863145</pub-id></mixed-citation></ref><ref id="B25"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nakamura</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Hipp</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Santos Dias Mourão</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Borggräfe</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Aldrovandi</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Henkelmann</surname><given-names>B.</given-names></name>
+<etal/>
+</person-group> (<year>2023</year>). <article-title>Phase separation of FSP1 promotes ferroptosis</article-title>. <source>Nature</source>
+<volume>619</volume>, <fpage>371</fpage>–<lpage>377</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-023-06255-6</pub-id>
+<pub-id pub-id-type="pmid">37380771</pub-id>
+<pub-id pub-id-type="pmcid">PMC10338336</pub-id></mixed-citation></ref><ref id="B26"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ohgami</surname><given-names>R. S.</given-names></name>
+<name name-style="western"><surname>Campagna</surname><given-names>D. R.</given-names></name>
+<name name-style="western"><surname>Greer</surname><given-names>E. L.</given-names></name>
+<name name-style="western"><surname>Antiochos</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>McDonald</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group> (<year>2005</year>). <article-title>Identification of a ferrireductase required for efficient transferrin-dependent iron uptake in erythroid cells</article-title>. <source>Nat. Genet.</source>
+<volume>37</volume>, <fpage>1264</fpage>–<lpage>1269</lpage>. <pub-id pub-id-type="doi">10.1038/ng1658</pub-id>
+<pub-id pub-id-type="pmid">16227996</pub-id>
+<pub-id pub-id-type="pmcid">PMC2156108</pub-id></mixed-citation></ref><ref id="B27"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Otano</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Ucero</surname><given-names>A. C.</given-names></name>
+<name name-style="western"><surname>Zugazagoitia</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Paz-Ares</surname><given-names>L.</given-names></name>
+</person-group> (<year>2023</year>). <article-title>At the crossroads of immunotherapy for oncogene-addicted subsets of NSCLC</article-title>. <source>Nat. Rev. Clin. Oncol.</source>
+<volume>20</volume>, <fpage>143</fpage>–<lpage>159</lpage>. <pub-id pub-id-type="doi">10.1038/s41571-022-00718-x</pub-id>
+<pub-id pub-id-type="pmid">36639452</pub-id>
+</mixed-citation></ref><ref id="B28"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rotow</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Bivona</surname><given-names>T. G.</given-names></name>
+</person-group> (<year>2017</year>). <article-title>Understanding and targeting resistance mechanisms in NSCLC</article-title>. <source>Nat. Rev. Cancer</source>
+<volume>17</volume>, <fpage>637</fpage>–<lpage>658</lpage>. <pub-id pub-id-type="doi">10.1038/nrc.2017.84</pub-id>
+<pub-id pub-id-type="pmid">29068003</pub-id>
+</mixed-citation></ref><ref id="B29"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Siegel</surname><given-names>R. L.</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>K. D.</given-names></name>
+<name name-style="western"><surname>Wagle</surname><given-names>N. S.</given-names></name>
+<name name-style="western"><surname>Jemal</surname><given-names>A.</given-names></name>
+</person-group> (<year>2023</year>). <article-title>Cancer statistics, 2023</article-title>. <source>CA Cancer J. Clin.</source>
+<volume>73</volume>, <fpage>17</fpage>–<lpage>48</lpage>. <pub-id pub-id-type="doi">10.3322/caac.21763</pub-id>
+<pub-id pub-id-type="pmid">36633525</pub-id>
+</mixed-citation></ref><ref id="B30"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Soerjomataram</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Bray</surname><given-names>F.</given-names></name>
+</person-group> (<year>2021</year>). <article-title>Planning for tomorrow: global cancer incidence and the role of prevention 2020-2070</article-title>. <source>Nat. Rev. Clin. Oncol.</source>
+<volume>18</volume>, <fpage>663</fpage>–<lpage>672</lpage>. <pub-id pub-id-type="doi">10.1038/s41571-021-00514-z</pub-id>
+<pub-id pub-id-type="pmid">34079102</pub-id>
+</mixed-citation></ref><ref id="B31"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Soula</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Weber</surname><given-names>R. A.</given-names></name>
+<name name-style="western"><surname>Zilka</surname><given-names>O.</given-names></name>
+<name name-style="western"><surname>Alwaseem</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>La</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Yen</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group> (<year>2020</year>). <article-title>Metabolic determinants of cancer cell sensitivity to canonical ferroptosis inducers</article-title>. <source>Nat. Chem. Biol.</source>
+<volume>16</volume>, <fpage>1351</fpage>–<lpage>1360</lpage>. <pub-id pub-id-type="doi">10.1038/s41589-020-0613-y</pub-id>
+<pub-id pub-id-type="pmid">32778843</pub-id>
+<pub-id pub-id-type="pmcid">PMC8299533</pub-id></mixed-citation></ref><ref id="B32"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Ou</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Niu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Kang</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group> (<year>2016</year>). <article-title>Activation of the p62-Keap1-NRF2 pathway protects against ferroptosis in hepatocellular carcinoma cells</article-title>. <source>Hepatology</source>
+<volume>63</volume>, <fpage>173</fpage>–<lpage>184</lpage>. <pub-id pub-id-type="doi">10.1002/hep.28251</pub-id>
+<pub-id pub-id-type="pmid">26403645</pub-id>
+<pub-id pub-id-type="pmcid">PMC4688087</pub-id></mixed-citation></ref><ref id="B33"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Xia</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Basnet</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Zheng</surname><given-names>J. C.</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group> (<year>2022</year>). <article-title>Mechanisms of ferroptosis and emerging links to the pathology of neurodegenerative diseases</article-title>. <source>Front. Aging Neurosci.</source>
+<volume>14</volume>, <fpage>904152</fpage>. <pub-id pub-id-type="doi">10.3389/fnagi.2022.904152</pub-id>
+<pub-id pub-id-type="pmid">35837484</pub-id>
+<pub-id pub-id-type="pmcid">PMC9273851</pub-id></mixed-citation></ref><ref id="B34"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sung</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Ferlay</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Siegel</surname><given-names>R. L.</given-names></name>
+<name name-style="western"><surname>Laversanne</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Soerjomataram</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Jemal</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group> (<year>2021</year>). <article-title>Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</article-title>. <source>CA Cancer J. Clin.</source>
+<volume>71</volume>, <fpage>209</fpage>–<lpage>249</lpage>. <pub-id pub-id-type="doi">10.3322/caac.21660</pub-id>
+<pub-id pub-id-type="pmid">33538338</pub-id>
+</mixed-citation></ref><ref id="B35"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tulpule</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Robinson</surname><given-names>S. R.</given-names></name>
+<name name-style="western"><surname>Bishop</surname><given-names>G. M.</given-names></name>
+<name name-style="western"><surname>Dringen</surname><given-names>R.</given-names></name>
+</person-group> (<year>2010</year>). <article-title>Uptake of ferrous iron by cultured rat astrocytes</article-title>. <source>J. Neurosci. Res.</source>
+<volume>88</volume>, <fpage>563</fpage>–<lpage>571</lpage>. <pub-id pub-id-type="doi">10.1002/jnr.22217</pub-id>
+<pub-id pub-id-type="pmid">19746426</pub-id>
+</mixed-citation></ref><ref id="B36"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Vora</surname><given-names>P. A.</given-names></name>
+<name name-style="western"><surname>Patel</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Dharamsi</surname><given-names>A.</given-names></name>
+</person-group> (<year>2021</year>). <article-title>Pemetrexed - first-line therapy for non-squamous non-small cell lung cancer: a review of patent literature</article-title>. <source>Recent Pat. Anticancer Drug Discov.</source>
+<volume>16</volume>, <fpage>333</fpage>–<lpage>349</lpage>. <pub-id pub-id-type="doi">10.2174/1574892816666210120113256</pub-id>
+<pub-id pub-id-type="pmid">33494684</pub-id>
+</mixed-citation></ref><ref id="B37"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Green</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>J. E.</given-names></name>
+<name name-style="western"><surname>Gijón</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Kennedy</surname><given-names>P. D.</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>J. K.</given-names></name>
+<etal/>
+</person-group> (<year>2019</year>). <article-title>CD8(+) T cells regulate tumour ferroptosis during cancer immunotherapy</article-title>. <source>Nature</source>
+<volume>569</volume>, <fpage>270</fpage>–<lpage>274</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-019-1170-y</pub-id>
+<pub-id pub-id-type="pmid">31043744</pub-id>
+<pub-id pub-id-type="pmcid">PMC6533917</pub-id></mixed-citation></ref><ref id="B38"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Fleishman</surname><given-names>J. S.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>Y.</given-names></name>
+<etal/>
+</person-group> (<year>2023a</year>). <article-title>Targeting epigenetic and posttranslational modifications regulating ferroptosis for the treatment of diseases</article-title>. <source>Signal Transduct. Target Ther.</source>
+<volume>8</volume>, <fpage>449</fpage>. <pub-id pub-id-type="doi">10.1038/s41392-023-01720-0</pub-id>
+<pub-id pub-id-type="pmid">38072908</pub-id>
+<pub-id pub-id-type="pmcid">PMC10711040</pub-id></mixed-citation></ref><ref id="B39"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Ren</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Zou</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group> (<year>2023b</year>). <article-title>Overcoming cancer chemotherapy resistance by the induction of ferroptosis</article-title>. <source>Drug resist. updat.</source>
+<volume>66</volume>, <fpage>100916</fpage>. <pub-id pub-id-type="doi">10.1016/j.drup.2022.100916</pub-id>
+<pub-id pub-id-type="pmid">36610291</pub-id>
+</mixed-citation></ref><ref id="B40"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Fleishman</surname><given-names>J. S.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Ren</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group> (<year>2024</year>). <article-title>Inducing ferroptosis by traditional medicines: a novel approach to reverse chemoresistance in lung cancer</article-title>. <source>Front. Pharmacol.</source>
+<volume>15</volume>, <fpage>1290183</fpage>. <pub-id pub-id-type="doi">10.3389/fphar.2024.1290183</pub-id>
+<pub-id pub-id-type="pmid">38855750</pub-id>
+<pub-id pub-id-type="pmcid">PMC11158628</pub-id></mixed-citation></ref><ref id="B41"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yin</surname><given-names>J. Y.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>H. H.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Z. Q.</given-names></name>
+</person-group> (<year>2016</year>). <article-title>Pharmacogenomics of platinum-based chemotherapy sensitivity in NSCLC: toward precision medicine</article-title>. <source>Pharmacogenomics</source>
+<volume>17</volume>, <fpage>1365</fpage>–<lpage>1378</lpage>. <pub-id pub-id-type="doi">10.2217/pgs-2016-0074</pub-id>
+<pub-id pub-id-type="pmid">27462924</pub-id>
+</mixed-citation></ref><ref id="B42"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Q.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Si</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>X.</given-names></name>
+<etal/>
+</person-group> (<year>2022</year>). <article-title>Sequential administration of pemetrexed and cisplatin reprograms tumor immune microenvironment and potentiates PD-1/PD-L1 treatment in a lung cancer model</article-title>. <source>J. Investig. Med.</source>
+<volume>70</volume>, <fpage>792</fpage>–<lpage>799</lpage>. <pub-id pub-id-type="doi">10.1136/jim-2021-002159</pub-id>
+<pub-id pub-id-type="pmid">34872935</pub-id>
+</mixed-citation></ref><ref id="B43"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yunchu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Miyanaga</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Seike</surname><given-names>M.</given-names></name>
+</person-group> (<year>2023</year>). <article-title>Integrative analysis of ferroptosis-related genes in small cell lung cancer for the identification of biomarkers and therapeutic targets</article-title>. <source>Front. Biosci. Landmark Ed.</source>
+<volume>28</volume>, <fpage>125</fpage>. <pub-id pub-id-type="doi">10.31083/j.fbl2806125</pub-id>
+<pub-id pub-id-type="pmid">37395033</pub-id>
+</mixed-citation></ref><ref id="B44"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Ren</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group> (<year>2025</year>). <article-title>Eupalinolide A inhibits cancer progression and induces ferroptosis and apoptosis by targeting the AMPK/mTOR/SCD1 signalling in non-small cell lung cancer</article-title>. <source>Front. Pharmacol.</source>
+<volume>16</volume>, <fpage>1649314</fpage>. <pub-id pub-id-type="doi">10.3389/fphar.2025.1649314</pub-id>
+<pub-id pub-id-type="pmid">41311830</pub-id>
+<pub-id pub-id-type="pmcid">PMC12647023</pub-id></mixed-citation></ref><ref id="B45"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhu</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Tian</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>P.</given-names></name>
+</person-group> (<year>2025</year>). <article-title>Advances in understanding ferroptosis mechanisms and their impact on immune cell regulation and tumour immunotherapy</article-title>. <source>Horm. Cancer</source>
+<volume>16</volume>, <fpage>153</fpage>. <pub-id pub-id-type="doi">10.1007/s12672-025-01911-x</pub-id>
+<pub-id pub-id-type="pmid">39930297</pub-id>
+<pub-id pub-id-type="pmcid">PMC11811334</pub-id></mixed-citation></ref><ref id="B46"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zou</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Graham</surname><given-names>E. T.</given-names></name>
+<name name-style="western"><surname>Deik</surname><given-names>A. A.</given-names></name>
+<name name-style="western"><surname>Eaton</surname><given-names>J. K.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>W.</given-names></name>
+<etal/>
+</person-group> (<year>2020</year>). <article-title>Cytochrome P450 oxidoreductase contributes to phospholipid peroxidation in ferroptosis</article-title>. <source>Nat. Chem. Biol.</source>
+<volume>16</volume>, <fpage>302</fpage>–<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1038/s41589-020-0472-6</pub-id>
+<pub-id pub-id-type="pmid">32080622</pub-id>
+<pub-id pub-id-type="pmcid">PMC7353921</pub-id></mixed-citation></ref></ref-list></back></article>

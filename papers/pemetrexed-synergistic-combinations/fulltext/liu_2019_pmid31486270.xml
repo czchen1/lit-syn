@@ -1,0 +1,420 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><?da-xref-anchor-style superscripted?><front><journal-meta><journal-id journal-id-type="nlm-ta">Thorac Cancer</journal-id><journal-id journal-id-type="iso-abbrev">Thorac Cancer</journal-id><journal-id journal-id-type="pmc-domain-id">2735</journal-id><journal-id journal-id-type="pmc-domain">tca</journal-id><journal-id journal-id-type="publisher-id">TCA</journal-id><journal-title-group><journal-title>Thoracic Cancer</journal-title></journal-title-group><issn pub-type="ppub">1759-7706</issn><issn pub-type="epub">1759-7714</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6775003</article-id><article-id pub-id-type="pmcid-ver">PMC6775003.1</article-id><article-id pub-id-type="pmcaid">6775003</article-id><article-id pub-id-type="pmcaiid">6775003</article-id><article-id pub-id-type="pmid">31486270</article-id><article-id pub-id-type="doi">10.1111/1759-7714.13162</article-id><article-id pub-id-type="publisher-id">TCA13162</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>The effect of apatinib combined with chemotherapy or targeted therapy on non‐small cell lung cancer in vitro and vivo</article-title><alt-title alt-title-type="right-running-head">Effect of apatinib combined with other therapy</alt-title><alt-title alt-title-type="left-running-head">M. Liu <italic toggle="yes">et al.</italic></alt-title></title-group><contrib-group><contrib id="tca13162-cr-0001" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="M">Mingtao</given-names></name><xref ref-type="aff" rid="tca13162-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="tca13162-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="tca13162-cr-0002" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="X">Xiuxiu</given-names></name><xref ref-type="aff" rid="tca13162-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tca13162-cr-0003" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="H">Hui</given-names></name><xref ref-type="aff" rid="tca13162-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="tca13162-cr-0004" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="L">Lisheng</given-names></name><xref ref-type="aff" rid="tca13162-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tca13162-cr-0005" contrib-type="author"><name name-style="western"><surname>Jing</surname><given-names initials="L">Lijun</given-names></name><xref ref-type="aff" rid="tca13162-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tca13162-cr-0006" contrib-type="author"><name name-style="western"><surname>Jiang</surname><given-names initials="P">Peng</given-names></name><xref ref-type="aff" rid="tca13162-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="tca13162-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Liu</surname><given-names initials="B">Baoyi</given-names></name><xref ref-type="aff" rid="tca13162-aff-0001">
+<sup>1</sup>
+</xref><address><email>lbyqilu@163.com</email></address></contrib><contrib id="tca13162-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Li</surname><given-names initials="Y">Yu</given-names></name><xref ref-type="aff" rid="tca13162-aff-0001">
+<sup>1</sup>
+</xref><address><email>qlliyures@163.com</email></address></contrib></contrib-group><aff id="tca13162-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Pulmonary Medicine, Qilu Hospital</named-content>
+<institution>Shandong University, Jinan</institution>
+<named-content content-type="city">Shandong</named-content>
+<country country="CN">China</country>
+</aff><aff id="tca13162-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Pulmonary Medicine</named-content>
+<institution>Binzhou People's Hospital, Binzhou</institution>
+<named-content content-type="city">Shandong</named-content>
+<country country="CN">China</country>
+</aff><aff id="tca13162-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Pulmonary Medicine</named-content>
+<institution>Weihai Municipal Hospital</institution>
+<named-content content-type="city">Weihai</named-content>
+<country country="CN">Shandong</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Baoyi Liu, Qilu Hospital of Shandong University (Qingdao), No. 758, Hefei Road, Shibei District, Qingdao, China.<break/>
+Tel: +86 185 6181 1911<break/>
+Fax: +86 543 82169114<break/>
+Email: <email>lbyqilu@163.com</email><break/>
+Yu Li, Department of Pulmonary Medicine, Qilu Hospital, Shandong University, No.107,Wen Hua Xi Road, Jinan, 250012, Shandong, China.<break/>
+Tel: +86 185 6008 2770<break/>
+Fax: +86 543 82169114<break/>
+Email: <email>qlliyures@163.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>9</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2019</year></pub-date><volume>10</volume><issue>10</issue><issue-id pub-id-type="pmc-issue-id">343163</issue-id><issue-id pub-id-type="doi">10.1111/tca.v10.10</issue-id><fpage>1868</fpage><lpage>1878</lpage><history><date date-type="received"><day>06</day><month>5</month><year>2019</year></date><date date-type="rev-recd"><day>22</day><month>7</month><year>2019</year></date><date date-type="accepted"><day>22</day><month>7</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>10</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>07</day><month>10</month><year>2019</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-04-19 23:25:31.317"><day>19</day><month>04</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. Thoracic Cancer published by China Lung Oncology Group and John Wiley &amp; Sons Australia, Ltd</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="TCA-10-1868.pdf"><?pdf-name TCA-10-1868.pdf?><?pdf-size 10449513?><?pdf-md5 4af4384b6b167c0a79713bef2b3d3155?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:bc9c/6775003/4af4384b6b16/TCA-10-1868.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:TCA-10-1868.pdf"/><abstract><sec id="tca13162-sec-0001"><title>Background</title><p>The aim of this study was to investigate the feasibility of using a combination of apatinib in the treatment of non‐small cell lung cancer. Apatinib is a tyrosine kinase inhibitor which selectivelyacts on vascular endothelial growth factor receptor 2 (VEGFR‐2) and has shown good efficacy in a variety of malignancies, but the drug resistance is fast in single drug therapy.</p></sec><sec id="tca13162-sec-0002"><title>Methods</title><p>The inhibitory effect of apatinib and other drugs on lung cancer cells was determined by CCK‐8 test in vitro, and the IC50 value was determined. To establish a nude mouse xenograft model, observe the inhibitory effect of apatinib combined with other drugs on lung cancer xenografts in nude mice; immunohistochemical staining of tumor microvessel density and Ki67 expression in transplanted tumor tissues; Western blot analysis of related signaling pathways expression; immunohistochemistry was used to detect tumor microvessel density in other organs and to observe its safety.</p></sec><sec id="tca13162-sec-0003"><title>Results</title><p>In this study, we found apatinib combined with pemetrexed, the first and third generation of epidermal growth factor receptor tyrosine kinase inhibitor, could synergistically inhibit the proliferation of non‐small cell lung cancer cell (NSCLC) lines, reduce the microvessel density and Ki67 protein levels of three non‐small cell lung cancer xenografts, and enhance anti‐tumor activity by synergistically inhibiting the MAPK‐ERK and PI3K‐AKT‐mTOR signaling pathway. Furthermore, there were no pathological abnormalities in the heart, brain, liver and kidney of each group.</p></sec><sec id="tca13162-sec-0004"><title>Conclusions</title><p>The efficacy of apatinib combination is better than that of monotherapy, and there is no significant difference in toxicity of important organs, which suggests the feasibility of a combination of apatinib in the treatment of non‐small cell lung cancer.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="tca13162-kwd-0001">Angiogenesis</kwd><kwd id="tca13162-kwd-0002">apatinib</kwd><kwd id="tca13162-kwd-0003">combination</kwd><kwd id="tca13162-kwd-0004">EGFR‐TKI</kwd><kwd id="tca13162-kwd-0005">NSCLC</kwd></kwd-group><funding-group><award-group><funding-source>Beijing Medical Reward Foundation</funding-source><award-id>YXJL‐2018‐0164‐0026</award-id></award-group><award-group><funding-source>National 13th Five‐Year Major New Drug Creation Project</funding-source><award-id>2016ZX09191005</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="2"/><page-count count="11"/><word-count count="5036"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>tca13162</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.9 mode:remove_FC converted:02.10.2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="tca13162-sec-0005"><title>Introduction</title><p>Lung cancer is a malignant tumor with the highest mortality, mainly non‐small cell lung cancer.<xref rid="tca13162-bib-0001" ref-type="ref">1</xref> At present, the treatment of lung cancer has entered the era of targeted therapy. The first targeted drugs applied to the clinic are mainly small molecule tyrosine kinase inhibitors targeting epidermal growth factor and its receptor (EGF‐EGFR) pathway. This pathway promotes tumor proliferation, division and metastasis. However, with the emergence of drug resistance, the therapy for this pathway has entered a bottleneck period, and it is necessary to find new ways to treat tumors. In 1971, Professor Folkman proposed the theory that tumor growth and metastasis depend on neovascularization and that anti‐angiogenesis can be used to treat tumors. Vascular endothelial growth factor (VEGF) is secreted by tumor cells or vascular endothelial cells, and VEGF mediates angiogenesis by binding to vascular endothelial growth factor receptor (VEGFR). Therefore, inhibition of VEGFR signal transduction is an effective therapeutic target in clinical practice. Anti‐angiogenic drugs include anti‐VEGF monoclonal antibodies and VEGFR tyrosine kinase inhibitors (VEGFR‐TKIs).</p><p>Bevacizumab is a humanized monoclonal antibody against VEGF, which can block the binding of VEGF to VEGFR and thus reduce tumor angiogenesis.<xref rid="tca13162-bib-0002" ref-type="ref">2</xref>The phase III study of nonsquamous non‐small cell lung cancer in China showed that compared with patients receiving chemotherapy alone, the median progressive survival time of patients receiving first‐line therapy of bevacizumab combined with paclitaxel and carboplatin was 2.7 months longer (9.2 months vs. 6.5 months). The risk of progress was reduced by 60%.<xref rid="tca13162-bib-0003" ref-type="ref">3</xref> Nintedanib and anlotinib are multiple target tyrosine kinase inhibitors. The results of phase III clinical trials of LUME‐Lung 1 showed that compared with docetaxel combined with placebo, the median progression‐free survival time was significantly prolonged in patients with lung cancer (3.4 vs. 2.7 months, HR = 0.79, <italic toggle="yes">P</italic> = 0.0019).<xref rid="tca13162-bib-0004" ref-type="ref">4</xref> The results of ALTER0303 test showed that anlotinib could benefit both overall survival (OS) and progression‐free survival (PFS) in the third line treatment of advanced NSCLC.<xref rid="tca13162-bib-0005" ref-type="ref">5</xref> All these studies confirmed the effect of anti‐angiogenesis.</p><p>Apatinib is a selective VEGFR‐2 tyrosine kinase inhibitor. In clinical studies of advanced gastric cancer, apatinib prolonged the OS and PFS of patients with good safety.<xref rid="tca13162-bib-0006" ref-type="ref">6</xref> It has been approved by the China Food and Drug Administration as a subsequent‐line treatment for advanced gastric or gastric‐esophageal junction adenocarcinoma. In addition, apatinib hepatocellular carcinoma, metastatic knot rectal cancer, thyroid undifferentiated carcinoma and other malignant tumors have shown good results.<xref rid="tca13162-bib-0007" ref-type="ref">7</xref>, <xref rid="tca13162-bib-0008" ref-type="ref">8</xref>, <xref rid="tca13162-bib-0009" ref-type="ref">9</xref> Studies have confirmed that bevacizumab combined with chemotherapy is more effective than a single drug, while the efficacy and side effects of apatinib combined with other drugs are unclear. In this study, three lung cancer cell lines A549, HCC827 and H1975 were selected which represent wild type, EGFR mutant and EGFR mutant with a T790M mutation cell lines. For the type of clinical lung cancer represented by the above three cell lines, the preferred drug is pemetrexed, the first and third passage EGFR‐TKI. We observed the antitumor effects and toxicity of apatinib combined with the above three drugs on three lung cancer cells both in vitro and vivo to investigate the action mechanism of apatinib on NSCLC and provide experimental evidence for the clinical application of apatinib in NSCLC.</p></sec><sec id="tca13162-sec-0006"><title>Methods</title><sec id="tca13162-sec-0007"><title>Reagents and cell lines</title><p>Apatinib mesylate standard products were provided by Jiangsu Heng Rui Pharmaceutical Co. Ltd. (Jiangsu, China) and icotinib standard product was obtained from Zhejiang Beida Pharmaceutical Co., Ltd. (Zhejiang, China), pemetrexed was provided by Qilu Pharmaceutical Co., Ltd. (Shandong, China) and osimertinib standard was purchased from Selleck.cn. Three cell lines A549, HCC827 and H1975 were purchased from the cell bank of the Chinese Academy of Sciences (Shanghai, China) and cultured in RPMI media (HyClone) containing 10% fetal bovine serum (FBS, Gibco),100 U/mL penicillin (HyClone) and 100 ug/mL streptomycin (HyClone). Primary antibodies against AKT(ab8805), phosphor‐AKT(ab8932), ERK(ab54230), phospho‐ERK(ab201015), CD31(ab28364), mTOR(ab2732), phosphor‐mTOR(ab109268) and GAPDH(ab181602) were purchased from abcam (Cambridge, MA, USA). Primary antibodies against ki67 (9449) and anti‐rabbit or anti‐mouse IgG horseradish peroxidase (HRP)‐linked secondary antibodies were purchased from Cell Signaling Technology (Boston, MA, USA).</p></sec><sec id="tca13162-sec-0008"><title>Animals</title><p>BALB/c‐nu nude mice, 4–5 weeks old, female, weight 18–21 g, were purchased from Nanjing Institute of Biomedicine, Nanjing University and raised under specific pathogen‐free (SPF) conditions. The food and water of nude mice were autoclaved and added once every three days, and the pad was cleaned and replaced once a week.</p></sec><sec id="tca13162-sec-0009"><title>Cell viability assays</title><p>A549, HCC827 and H1975 cells were treated with different doses of apatinib (2.5, 5, 10, 20, 40, 80 umol/L) or pemetrexed (0.004, 0.02, 0.10, 0.50, 2.50, 12.50 umol/L), icotinib (0.0025, 0.01, 0.04, 0.16, 0.64, 2.56 umol/L), osimertinib (0.0025, 0.001, 0.004, 0.016, 0.064, 0.256 umol/L) for 48 hours. After adding 10 uL CCK8 agent (BestBio, Shanghai, China) to each well and incubating for two hours, the optical density (OD) was then measured at 450 nm. Cell viability was calculated according to the following formula: Cell viability (%) = (OD [experiment] ‐OD [bank])/ (OD [control] ‐OD [bank]) × 100%. The inhibitory concentration (IC<sub>50</sub>) was calculated by using Graph Pad Prism. Combination Index (CI) was calculated by the eq. CI = (CI1/I1) + (CI2/I2), CI &lt; 1 is indicated for synergism.<xref rid="tca13162-bib-0010" ref-type="ref">10</xref>
+</p></sec><sec id="tca13162-sec-0010"><title>Xenograft model</title><p>We subcutaneously injected 5 × 10<sup>6</sup> cells into the right armpit of each nude mouse. The model was successfully prepared after the subcutaneous tumor of nude mice reached 100–150 mm<sup>3</sup>. There was no significant difference in the average volume of transplanted tumors between the nude mice before intervention. A total of 24 tumor‐bearing nude mice from each of the three cell lines were randomly divided into four groups which were control, apatinib, pemetrexed/icotinib/osimertinib and the combined group according to a random number table. Apatinib (Apa), icotinib (Ico) and osimertinib (Osi) were given orally, and pemetrexed (Pem) was given intraperitoneally. The dosage of the combined group was the same as that of the single drug group. The administration time was 21 days (Table <xref rid="tca13162-tbl-0001" ref-type="table">1</xref>). The mice bodyweights and tumor volume (width<sup>2</sup> × length/2) were determined every three days. At harvest the mice were sacrificed under anesthesia, and the heart, brain, liver and kidneys were fixed with 10% formalin. HE staining and immunohistochemical staining were then performed. The transplanted tumor was partially fixed with 10% formalin and then stained with immunohistochemical staining. Some of the tumors were frozen at −80°C for western blot.</p><table-wrap id="tca13162-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Dosage and method of administration in tumor‐bearing animals</p></caption><table frame="hsides" rules="cols"><col align="left" span="1"/><col align="left" span="1"/><col align="center" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Xenograft model</th><th align="left" valign="bottom" rowspan="1" colspan="1">Compound</th><th align="center" valign="bottom" rowspan="1" colspan="1">Dose (mg/kg)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Route and schedule</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">A549</td><td align="left" valign="top" rowspan="1" colspan="1">Apa</td><td align="center" valign="top" rowspan="1" colspan="1">100</td><td align="left" valign="top" rowspan="1" colspan="1">p.o. qd*21 days</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Pem</td><td align="center" valign="top" rowspan="1" colspan="1">250</td><td align="left" valign="top" rowspan="1" colspan="1">i.p. qw*3 wweeks</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Pem + Apa</td><td align="center" valign="top" rowspan="1" colspan="1">100 + 250</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HCC827</td><td align="left" valign="top" rowspan="1" colspan="1">Apa</td><td align="center" valign="top" rowspan="1" colspan="1">100</td><td align="left" valign="top" rowspan="1" colspan="1">p.o. qd*21 days</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Ico</td><td align="center" valign="top" rowspan="1" colspan="1">60</td><td align="left" valign="top" rowspan="1" colspan="1">p.o. qd*21 days</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Ico + Apa</td><td align="center" valign="top" rowspan="1" colspan="1">100 + 60</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">H1975</td><td align="left" valign="top" rowspan="1" colspan="1">Apa</td><td align="center" valign="top" rowspan="1" colspan="1">100</td><td align="left" valign="top" rowspan="1" colspan="1">p.o. qd*21 days</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Osi</td><td align="center" valign="top" rowspan="1" colspan="1">100</td><td align="left" valign="top" rowspan="1" colspan="1">p.o. qd*21 days</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Osi + Apa</td><td align="center" valign="top" rowspan="1" colspan="1">100 + 100</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="tca13162-note-0001"><p>i.p., intraperitoneally; p.o, per os (by mouth); qd, once a day; qw, once a week.</p></fn></table-wrap-foot></table-wrap></sec><sec id="tca13162-sec-0011"><title>HE and immunohistochemical staining</title><p>The fixed transplanted tumor tissue and the heart, brain, liver and kidney tissues were embedded in paraffin and cut into 4 μm serial sections. After the tumor tissue sections were repaired by antigens, CD31 and Ki67 primary and secondary antibodies were incubated and stained according to the manufacturer's instructions and then sealed with neutral gum. The heart, brain, liver and kidney tissue sections were dewaxed and stained with hematoxylin‐eosin (HE) staining kit for HE staining. The pathological changes were observed under light microscope. The CD31 staining method of heart, brain, liver and kidney tissue sections is the same as above. The microvessel density (MVD) was determined by analyzing the expression of CD31. According to the method reported by Weinder,<xref rid="tca13162-bib-0011" ref-type="ref">11</xref> the count of MVD first selected high blood vessel density regions (hot spots) under a low‐power microscope (×40). The vessel density of three different regions of the hot spot was then counted in a 200‐fold field of vision, and the average value was taken. When the diameter of microvessel was &gt;50 μm, the muscular layer in the wall was not counted. Ki67 positive cells were selected from three regions under a 200‐fold field of view, the percentage of positive cells was counted, and the average value was taken.</p></sec><sec id="tca13162-sec-0012"><title>Western blot analysis</title><p>Three transplanted tumor tissues were selected for each group which were lysed by radio immunoprecipitation assay (RIPA, Beyotime, China) buffer containing phenyl methane sulfonyl fluoride (PMSF, Solarbio, China) with mild sonication. The concentrations of total proteins were measured by the BCA Protein Assay Kit (Beyotime, China). Equal amount of protein was subjected to 10% sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS‐PAGE) and blotted on polyvinylidene fluoride (PVDF, Millipore, Billerica, USA). Protein bands were visualized via enhanced chemiluminescence (ECL, Millipore, USA) and analyzed using the Western Blot imaging system (AI600 images, GE, USA), followed by measurement of the density of each band using Image J software.</p></sec><sec id="tca13162-sec-0013"><title>Statistical analysis</title><p>All data are expressed as the mean ± standard error of the mean (SEM). Data were analyzed using SPSS 20.0 software and mapped by GraphPad Prism 5.0. A two‐tailed unpaired Student's <italic toggle="yes">t</italic>‐test was performed to compare two data sets. Multiple comparisons were tested with two‐way ANOVA followed by Bonferroni's post‐test. A <italic toggle="yes">P</italic>‐value of less than 0.05 was considered statistically significant.</p></sec></sec><sec id="tca13162-sec-0014"><title>Results</title><sec id="tca13162-sec-0015"><title>The effect of apatinib on three NSCLC cell lines in vitro</title><p>The IC<sub>50</sub> values of each drug to three NSCLC cell lines are shown in Table <xref rid="tca13162-tbl-0002" ref-type="table">2</xref>. The inhibitory effects of apatinib on three NSCLC cell lines were enhanced with increasing drug concentration, and H1975 cells were most sensitive to apatinib (<italic toggle="yes">P</italic> &lt; 0.001, Fig <xref rid="tca13162-fig-0001" ref-type="fig">1</xref>(a)). The inhibition of proliferation in the combination group was stronger than that in the single drug group (<italic toggle="yes">P</italic> &lt; 0.01, Fig <xref rid="tca13162-fig-0001" ref-type="fig">1</xref>(b)). In A549 cells, the CI of apatinib combined with pemetrexed was 0.61 ± 0.07, in HCC827 cells, the CI of apatinib combined with icotinib was 0.53 ± 0.05, in H1975 cells, the CI of apatinib combined with osimertinib was 0.60 ± 0.05. All have synergistic effects.</p><table-wrap id="tca13162-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>IC<sub>50</sub> values of each experimental drug to three lung cancer cells (μmol/L, mean ± SD)</p></caption><table frame="hsides" rules="cols"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">A549</th><th align="center" valign="bottom" rowspan="1" colspan="1">HCC827</th><th align="center" valign="bottom" rowspan="1" colspan="1">H1975</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Apa</td><td align="center" valign="top" rowspan="1" colspan="1">44.5933 ± 3.9511</td><td align="center" valign="top" rowspan="1" colspan="1">39.8800 ± 3.7706</td><td align="center" valign="top" rowspan="1" colspan="1">16.4967 ± 1.4775<xref ref-type="fn" rid="tca13162-note-0002">†</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pem</td><td align="center" valign="top" rowspan="1" colspan="1">1.9087 ± 0.0900</td><td align="center" valign="top" rowspan="1" colspan="1">/</td><td align="center" valign="top" rowspan="1" colspan="1">/</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pem + Apa</td><td align="center" valign="top" rowspan="1" colspan="1">0.2235 ± 0.0403<xref ref-type="fn" rid="tca13162-note-0003">‡</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">/</td><td align="center" valign="top" rowspan="1" colspan="1">/</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ico</td><td align="center" valign="top" rowspan="1" colspan="1">/</td><td align="center" valign="top" rowspan="1" colspan="1">0.0839 ± 0.0051</td><td align="center" valign="top" rowspan="1" colspan="1">/</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ico + Apa</td><td align="center" valign="top" rowspan="1" colspan="1">/</td><td align="center" valign="top" rowspan="1" colspan="1">0.0087 ± 0.0024<xref ref-type="fn" rid="tca13162-note-0004">§</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">/</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Osi</td><td align="center" valign="top" rowspan="1" colspan="1">/</td><td align="center" valign="top" rowspan="1" colspan="1">/</td><td align="center" valign="top" rowspan="1" colspan="1">0.0144 ± 0.0014</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Osi ± Apa</td><td align="center" valign="top" rowspan="1" colspan="1">/</td><td align="center" valign="top" rowspan="1" colspan="1">/</td><td align="center" valign="top" rowspan="1" colspan="1">0.0017 ± 0.0004<xref ref-type="fn" rid="tca13162-note-0005">¶</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="tca13162-note-0002"><label>†</label><p>Compared with A549 and HCC827 cell lines, <italic toggle="yes">P</italic> &lt; 0.001.</p></fn><fn id="tca13162-note-0003"><label>‡</label><p>Compared with pemetrexed single drug group, <italic toggle="yes">P</italic> &lt; 0.001.</p></fn><fn id="tca13162-note-0004"><label>§</label><p>Compared with icotinib single drug group, <italic toggle="yes">P</italic> &lt; 0.001.</p></fn><fn id="tca13162-note-0005"><label>¶</label><p>Compared with osimertinib single drug group, <italic toggle="yes">P</italic> &lt; 0.001.</p></fn></table-wrap-foot></table-wrap><fig fig-type="Figure" xml:lang="en" id="tca13162-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Sensitivity of different drugs to A549, HCC827 and H1975 cells. (<bold>a</bold>) Inhibition of three NSCLC cells by apatinib monotherapy. (<bold>b</bold>) Apatinib combined with pemetrexed, icotinib or osimertinib inhibit proliferation for three NSCLC cells. In the combined group, the concentrations of apatinib for A549, HCC827 and H1975 were as follows: 22, 20 and 8 μmol/L (** <italic toggle="yes">P</italic> &lt; 0.01).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-1" position="float" orientation="portrait" xlink:href="TCA-10-1868-g001.jpg"><?image-name TCA-10-1868-g001.jpg?><?image-size 31928?><?image-md5 7726479904f99b5ccd2e549281a15cd6?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 413?><?image-original-width 1064?><?image-scaled-height 275?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/7726479904f9/TCA-10-1868-g001.jpg?><?thumb-name TCA-10-1868-g001.gif?><?thumb-size 4529?><?thumb-md5 48fc11c5d7aade8d27b0424b5761ba60?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 78?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/48fc11c5d7aa/TCA-10-1868-g001.gif?></graphic></fig></sec><sec id="tca13162-sec-0016"><title>Antitumor activity of apatinib in vivo</title><sec id="tca13162-sec-0017"><title>Growth of subcutaneous xenografts in nude mice</title><p>On the first day of treatment, there were no significant differences in the volume of transplanted tumors among each group of the three human NSCLC nude mice translated tumor models (<italic toggle="yes">P</italic> &gt; 0.05). From the volume growth curve of transplanted tumor in nude mice (Fig <xref rid="tca13162-fig-0002" ref-type="fig">2</xref>(a), (b), (c)), compared with the control group, apatinib inhibited the growth rate of transplanted tumors (<italic toggle="yes">P</italic> &lt; 0.05), of which H1975 transplanted tumor inhibition was stronger than A549 and HCC827 xenografts (<italic toggle="yes">P</italic> &lt; 0.05). The growth rate of the transplanted tumors in the combined group was slower than that in the control group and the single‐drug group (<italic toggle="yes">P</italic> &lt; 0.05, Fig <xref rid="tca13162-fig-0002" ref-type="fig">2</xref>(a), (b), (c)). Apatinib combined with pemetrexed, icotinib and osimertinib had synergistic inhibitory effects on the growth of three xenografts (CI &lt; 1). In addition, there was no significant weight loss (Fig <xref rid="tca13162-fig-0002" ref-type="fig">2</xref>(d), (e), (f)) or treatment‐related death in nude mice after combined therapy.</p><fig fig-type="Figure" xml:lang="en" id="tca13162-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The effect of apatinib combined with pemetrexed, icotinib and osimertinib on three NSCLC xenografts in nude mice. (<bold>a</bold>, <bold>b</bold>, <bold>c</bold>) The growth curves of three xenografts. (<bold>d</bold>, <bold>e</bold>, <bold>f</bold>) Changes in bodyweight of nude mice (<bold>g</bold>, h, i). Photographs of 22 days after treatment of three NSCLC nude mice xenografts.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="TCA-10-1868-g002.jpg"><?image-name TCA-10-1868-g002.jpg?><?image-size 88995?><?image-md5 fa25e277950b4aefffbac94cb0ecf24d?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 823?><?image-original-width 1064?><?image-scaled-height 548?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/fa25e277950b/TCA-10-1868-g002.jpg?><?thumb-name TCA-10-1868-g002.gif?><?thumb-size 4805?><?thumb-md5 24a38620bb81f1f348b171367ae30ce1?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 103?><?thumb-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/24a38620bb81/TCA-10-1868-g002.gif?></graphic></fig></sec><sec id="tca13162-sec-0018"><title>Immunohistochemical staining</title><p>Compared with the control group and the single drug group, the level of Ki 67 in the combined group was significantly lower (Fig <xref rid="tca13162-fig-0003" ref-type="fig">3</xref>, <italic toggle="yes">P</italic> &lt; 0.05) and the number of microvessels in the apatinib monotherapy group was significantly decreased (Fig <xref rid="tca13162-fig-0004" ref-type="fig">4</xref>, <italic toggle="yes">P</italic> &lt; 0.05); while in the pemetrexed, icotinib and osimertinib monotherapy groups, there were no significant decreases (<italic toggle="yes">P</italic> &gt; 0.05) in the three NSCLC xenografts. In addition, the number of microvessels in the combination group was significantly lower than that in apatinib monotherapy group (<italic toggle="yes">P</italic> &lt; 0.05).</p><fig fig-type="Figure" xml:lang="en" id="tca13162-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The expression levels Effect of Ki67 in three xenografts. (<bold>a</bold>, <bold>b</bold>, <bold>c</bold>) Representative images of Ki67 positive cells in three xenografts (200×). (<bold>d</bold>) The percentage of ki67 in each field of view. (* <italic toggle="yes">P</italic> &lt; 0.05). Scale bar: 55 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="TCA-10-1868-g003.jpg"><?image-name TCA-10-1868-g003.jpg?><?image-size 152197?><?image-md5 3edf9dde3bab84f4c6d3910380ff0c3a?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 978?><?image-original-width 1064?><?image-scaled-height 652?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/3edf9dde3bab/TCA-10-1868-g003.jpg?><?thumb-name TCA-10-1868-g003.gif?><?thumb-size 6758?><?thumb-md5 946ff50ccb2b2060c506d013cd922a46?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 92?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/946ff50ccb2b/TCA-10-1868-g003.gif?></graphic></fig><fig fig-type="Figure" xml:lang="en" id="tca13162-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Effects of apatinib, pemetrexed, icotinib, osimertinib alone and its combination on angiogenesis of three xenografts. (<bold>a</bold>, <bold>b</bold>, <bold>c</bold>) Representative images of microvessels stained with CD31 antibody in three NSCLC xenografts (200×). (<bold>d</bold>) The average number of MVD per field of view. (*<italic toggle="yes">P</italic> &lt; 0.05). Scale bar: 50 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="TCA-10-1868-g004.jpg"><?image-name TCA-10-1868-g004.jpg?><?image-size 113331?><?image-md5 4f1025ca60cb3b1e6f14925cb5036a5c?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1030?><?image-original-width 1064?><?image-scaled-height 686?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/4f1025ca60cb/TCA-10-1868-g004.jpg?><?thumb-name TCA-10-1868-g004.gif?><?thumb-size 5084?><?thumb-md5 12af2f808a1a7a41b15efbd33987e795?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 97?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/12af2f808a1a/TCA-10-1868-g004.gif?></graphic></fig></sec><sec id="tca13162-sec-0019"><title>Related signal transduction pathways</title><p>The expression levels of phosphorylated rapamycin (p‐mTOR), phosphorylated protein kinase B (p‐AKT) and extracellular signal‐regulated kinase (p‐ERK) in HCC827 and H1975 nude mice were significantly lower than those in the control group. However, there was no significant difference between the combined group and the control group in A549 transplanted tumor tissue (Fig <xref rid="tca13162-fig-0005" ref-type="fig">5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="tca13162-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Effects of apatinib combined with pemetrexed, icotinib or osimertinib on EGFR and VEGFR related signal transduction pathways in three xenografts. Blots are representative of three independent experiments.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="TCA-10-1868-g005.jpg"><?image-name TCA-10-1868-g005.jpg?><?image-size 47638?><?image-md5 a0ecfccabc475709427b07dfb2b67caf?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 492?><?image-original-width 1064?><?image-scaled-height 328?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/a0ecfccabc47/TCA-10-1868-g005.jpg?><?thumb-name TCA-10-1868-g005.gif?><?thumb-size 8050?><?thumb-md5 91c77e23e4897c6a3d35e8aecc3ad0f6?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 173?><?thumb-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/91c77e23e489/TCA-10-1868-g005.gif?></graphic></fig></sec><sec id="tca13162-sec-0020"><title>Adverse reactions</title><p>No metastasis was found in the hearts, brains, livers and kidneys of the nude mice, and no abnormal pathological changes were observed by HE staining after treatment. Compared with the control group, there were no significant differences in MVD in the hearts and brains of each drug group (<italic toggle="yes">P</italic> &gt; 0.05). Compared with the control group, pemetrexed monotherapy group, icotinib monotherapy group and osimertinib monotherapy group, MVD in kidney and liver of nude mice was decreased in the apatinib group and the combination group (<italic toggle="yes">P</italic> &lt; 0.05). However, the MVD in the heart, brain, liver and kidney was not significantly decreased in the apatinib combination group compared with that in the apatinib monotherapy group (<italic toggle="yes">P</italic> &gt; 0.05, Fig <xref rid="tca13162-fig-0006" ref-type="fig">6</xref>).</p><fig fig-type="Figure" xml:lang="en" id="tca13162-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>The effect on the microvessel density of heart, brain, liver and kidney in three xenografts. (<bold>a</bold>, <bold>b</bold>, <bold>c</bold>, <bold>d</bold>) are the average number of microvessels for each field of view of heart, brain, liver and kidney tissues, respectively. (200×).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="TCA-10-1868-g006.jpg"><?image-name TCA-10-1868-g006.jpg?><?image-size 74042?><?image-md5 9a7d38a55308f199b8f039ac2a9e0841?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 873?><?image-original-width 1064?><?image-scaled-height 582?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/9a7d38a55308/TCA-10-1868-g006.jpg?><?thumb-name TCA-10-1868-g006.gif?><?thumb-size 4655?><?thumb-md5 a4346b25cabe55613a126b973f2eb275?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 82?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/a4346b25cabe/TCA-10-1868-g006.gif?></graphic></fig></sec></sec></sec><sec id="tca13162-sec-0021"><title>Discussion</title><p>The efficiency of antiangiogenic targeting therapy is high; however, drug resistance occurs quickly, and the improvement of OS is limited.<xref rid="tca13162-bib-0012" ref-type="ref">12</xref> Combination therapy may be more effective and delay the occurrence of drug resistance. Apatinib is a selective VEGFR‐2 inhibitor that can be taken orally. Studies by Tian <italic toggle="yes">et al</italic>. showed that apatinib combined with docetaxel may effectively inhibit the growth of H460 (lung cancer) xenografts in nude mice.<xref rid="tca13162-bib-0013" ref-type="ref">13</xref> Peng <italic toggle="yes">et al</italic>. found that in the human nasopharyngeal carcinoma xenograft model, the simultaneous application of apatinib and cisplatin had a synergistic effect, while sequential administration showed only an additive effect.<xref rid="tca13162-bib-0014" ref-type="ref">14</xref> Studies by Feng <italic toggle="yes">et al</italic>. confirmed that in the A549 nude mice transplantation model, apatinib enhanced the antitumor effect of docetaxel.<xref rid="tca13162-bib-0015" ref-type="ref">15</xref> Li <italic toggle="yes">et al</italic>. found that in vitro, apatinib combined with gefitinib enhanced the inhibitory effect on four NSCLC cell lines (A549, HCC827, H1975 and H1650). In the H1975 nude mice model, apatinib combined with gefitinib could inhibit tumor growth, inhibited the activation of EGFR and VEGFR2, and decreased the level of CD31 and vascular endothelial growth factor A. In patients with gefitinib resistance, apatinib combined with gefitinib achieved a median PFS of 4.60 months.<xref rid="tca13162-bib-0016" ref-type="ref">16</xref> These findings suggest that apatinib is expected to be an anti‐tumor drug for NSCLC, and combination chemotherapy or first‐generation epidermal growth factor receptor tyrosine kinase inhibitor (EGFR‐TKI) may be more effective. Apatinib combined with the third generation EGFR‐TKI‐osimertinib has not previously been reported, and the side effects of combination therapy are unknown.</p><p>Our results showed that in vitro, H1975 cell line was more sensitive to apatinib than A549 and HCC827 cell line. Apatinib combined with pemetrexed can synergistically inhibit the proliferation of A549 cell line, and apatinib combined with icotinib can enhance the inhibition of HCC827 cell line, which is consistent with other studies. In addition, for the first time, our study found that the inhibitory effect of apatinib combined with osimertinib in the proliferation of H1975 cell line was significantly better than that of the osimertinib single drug, which may provide a solution for overcoming the drug resistance of osimertinib. Apatinib (100 mg/kg/day) alone was found to significantly inhibit the growth and angiogenesis of transplanted tumors in three NSCLC nude mice models, and the inhibitory effect of apatinib combined with EGFR‐TKI in H1975 xenograft was apparent. The inhibitory effect of apatinib combined with chemotherapy or EGFR‐TKI was better than that of single drug treatment, which was consistent with our results in vitro. Activation of the PI3K/AKT/mTOR and Ras/Raf/MEK/ERK signaling pathways have been shown to play a key role in cell survival at all stages of cancer.<xref rid="tca13162-bib-0017" ref-type="ref">17</xref> Studies have reported that the most important signaling pathways are AKT and ERK.<xref rid="tca13162-bib-0018" ref-type="ref">18</xref>Apatinib can effectively reduce the phosphorylation level of key proteins in the above signaling pathways, thereby further reducing the phosphorylation of eukaryotic initiation factor 4E1, which plays an important role in promoting tumor cell proliferation and inhibiting apoptosis and neovascularization.<xref rid="tca13162-bib-0019" ref-type="ref">19</xref> Our results indicate that apatinib combined with EGFR‐TKI has better multiple inhibition of cell proliferation‐related signaling pathways than single agents. Apatinib can significantly enhance the anti‐tumor effect of chemotherapeutic drugs or EGFR‐TKI on NSCLC. The molecular mechanism of the synergistic effect remains to be elucidated. We speculate that: (i). Chemotherapeutic drugs can induce apoptosis, leading to a decrease in VEGF secretion and a decrease in VEGFR‐2 expression, thereby inhibiting angiogenesis and further tumor growth, and (ii) EGFR and VEGFR2 may synergistically inhibit tumors by inhibiting the MAPK‐ERK and PI3K‐AKT‐mTOR pathways (Fig <xref rid="tca13162-fig-0007" ref-type="fig">7</xref>). Tonra <italic toggle="yes">et al</italic>. showed that EGFR and VEGFR2 have a synergistic anti‐tumor effect in a preclinical model of pancreatic cancer and colon cancer. Its possible mechanism is to reduce the expression of VEGF through the mechanism of both hypoxia inducible factor (HIF)‐1‐independence and HIF‐1 dependence.<xref rid="tca13162-bib-0020" ref-type="ref">20</xref> Anti‐angiogenic therapy not only reduces the formation of new blood vessels, but also induces tumor vascular normalisation,<xref rid="tca13162-bib-0021" ref-type="ref">21</xref> thereby increasing the local drug concentration of the tumor and enhancing the anti‐tumor activity. A series of preclinical and clinical evidence support the inhibition of VEGF signaling pathways that transiently normalize tumor blood vessels.<xref rid="tca13162-bib-0022" ref-type="ref">22</xref>, <xref rid="tca13162-bib-0023" ref-type="ref">23</xref>, <xref rid="tca13162-bib-0024" ref-type="ref">24</xref>, <xref rid="tca13162-bib-0025" ref-type="ref">25</xref>, <xref rid="tca13162-bib-0026" ref-type="ref">26</xref> The development of multidrug resistance is the main reason for the failure of cancer treatment. The drug efflux mediated by transmembrane protein ATP‐binding cassette (ABC) transporter family is related to drug resistance to common chemotherapeutic agents.<xref rid="tca13162-bib-0027" ref-type="ref">27</xref> Studies have shown that apatinib can reverse multidrug resistance by inhibiting the efflux function of multiple ABC transporters, such as multidrug resistance protein 1 (ABCB1) and breast cancer resistance protein (ABCG2).<xref rid="tca13162-bib-0028" ref-type="ref">28</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="tca13162-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Effect of VEGFR and EGFR on downstream signaling pathways.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="TCA-10-1868-g007.jpg"><?image-name TCA-10-1868-g007.jpg?><?image-size 76377?><?image-md5 30b7b5c25d243cba8e2e9e8d3738201b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 871?><?image-original-width 1064?><?image-scaled-height 580?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/30b7b5c25d24/TCA-10-1868-g007.jpg?><?thumb-name TCA-10-1868-g007.gif?><?thumb-size 3787?><?thumb-md5 36ab46aeee6186de0f22071c4627a5a2?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 82?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/bc9c/6775003/36ab46aeee61/TCA-10-1868-g007.gif?></graphic></fig><p>Tolerance and side effects are the primary considerations for combination therapy. Kamba <italic toggle="yes">et al</italic>. have found that a certain dose of VEGF inhibitor can reduce the microvessels of thyroid, pancreas, kidney and other organs of normal mice, but will not cause damage to their health, only corresponding changes in physiological function. In addition, the sensitivity of normal mice to VEGF inhibitors was much lower than that of tumor‐bearing mice, and the blood vessels were able to regenerate after withdrawal of the drug.<xref rid="tca13162-bib-0029" ref-type="ref">29</xref> Our study indicated that no obvious pathological damage was found in the vital organs of the heart, brain, liver or kidney of nude mice after treatment with apatinib combined with chemotherapy or EGFR‐TKI, and the MVD of the heart and brain did not change significantly; however, the MVD of the liver and kidney was significantly decreased. Compared with the apatinib monotherapy group, there was no significant decrease in the MVD of heart, brain, liver and kidney in the apatinib combined with chemotherapy or EGFR‐TKI group, indicating the feasibility of combination therapy.</p><p>In conclusion, apatinib combined with chemotherapeutic agent or EGFR‐TKI can improve anti‐tumor activity, which may have the potential of delaying drug resistance and prolonging the survival time of NSCLC patients. Some clinical studies have confirmed that some small molecule anti‐angiogenic drugs combined with other treatments can improve the overall survival of patients with lung cancer.<xref rid="tca13162-bib-0030" ref-type="ref">30</xref> Apatinib alone could significantly inhibit the growth of H1975 cell line and xenograft in nude mice, which indicates that apatinib had a better effect on NSCLC containing L858R and T790M double mutant, and may have some enlightening effect on clinical application of apatinib. The therapeutic effect of apatinib should be further evaluated in clinical practice.</p></sec><sec id="tca13162-sec-0023"><title>Disclosure</title><p>None declared.</p></sec></body><back><ack id="tca13162-sec-0022"><title>Acknowledgments</title><p>This work was supported by Beijing Medical Reward Foundation (YXJL‐2018‐0164‐0026) and National 13th Five‐Year Major New Drug Creation Project (2016ZX09191005).</p></ack><ref-list id="tca13162-bibl-0001" content-type="cited-references"><title>References</title><ref id="tca13162-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="tca13162-cit-0001">
+<string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soerjomataram</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dikshit</surname>
+<given-names>R</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Cancer incidence and mortality worldwide: Sources, methods and major patterns in GLOBOCAN 2012</article-title>. <source xml:lang="en">Int J Cancer</source>
+<year>2015</year>; <volume>136</volume> (<issue>5</issue>): <fpage>E359</fpage>–<lpage>86</lpage>.<pub-id pub-id-type="pmid">25220842</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.29210</pub-id></mixed-citation></ref><ref id="tca13162-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="tca13162-cit-0002">
+<string-name name-style="western">
+<surname>Economopoulou</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotsakis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapiris</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kentepozidis</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Cancer therapy and cardiovascular risk: Focus on bevacizumab</article-title>. <source xml:lang="en">Cancer Manage.Res.</source>
+<year>2015</year>; <volume>7</volume>: <fpage>133</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/CMAR.S77400</pub-id><pub-id pub-id-type="pmcid">PMC4461138</pub-id><pub-id pub-id-type="pmid">26082660</pub-id></mixed-citation></ref><ref id="tca13162-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="tca13162-cit-0003">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>G</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Beyond: A randomized, double‐blind, placebo‐controlled, Multicenter, phase III study of first‐line carboplatin/paclitaxel plus Bevacizumab or placebo in Chinese patients with advanced or recurrent nonsquamous non‐small‐cell lung cancer</article-title>. <source xml:lang="en">J Clin Oncol</source>
+<year>2015</year>; <volume>33</volume> (<issue>19</issue>): <fpage>2197</fpage>–<lpage>204</lpage>.<pub-id pub-id-type="pmid">26014294</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2014.59.4424</pub-id></mixed-citation></ref><ref id="tca13162-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="tca13162-cit-0004">
+<string-name name-style="western">
+<surname>Reck</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaiser</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mellemgaard</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Docetaxel plus nintedanib versus docetaxel plus placebo in patients with previously treated non‐small‐cell lung cancer (LUME‐Lung 1): A phase 3, double‐blind, randomised controlled trial</article-title>. <source xml:lang="en">Lancet Oncol</source>
+<year>2014</year>; <volume>15</volume> (<issue>2</issue>): <fpage>143</fpage>–<lpage>55</lpage>.<pub-id pub-id-type="pmid">24411639</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(13)70586-2</pub-id></mixed-citation></ref><ref id="tca13162-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="tca13162-cit-0005">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Effect of Anlotinib as a third‐line or further treatment on overall survival of patients with advanced non‐small cell lung cancer: The ALTER 0303 phase 3 randomized clinical trial</article-title>. <source xml:lang="en">JAMA Oncol</source>
+<year>2018</year>; <volume>4</volume> (<issue>11</issue>): <fpage>1569</fpage>–<lpage>75</lpage>.<pub-id pub-id-type="pmid">30098152</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaoncol.2018.3039</pub-id><pub-id pub-id-type="pmcid">PMC6248083</pub-id></mixed-citation></ref><ref id="tca13162-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="tca13162-cit-0006">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Apatinib for chemotherapy‐refractory advanced metastatic gastric cancer: Results from a randomized, placebo‐controlled, parallel‐arm, phase II trial</article-title>. <source xml:lang="en">J Clin Oncol</source>
+<year>2013</year>; <volume>31</volume> (<issue>26</issue>): <fpage>3219</fpage>–<lpage>25</lpage>.<pub-id pub-id-type="pmid">23918952</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2013.48.8585</pub-id></mixed-citation></ref><ref id="tca13162-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="tca13162-cit-0007">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>KZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>WF</given-names>
+</string-name>. <article-title>Efficacy and safety of apatinib in patients with intermediate/advanced hepatocellular carcinoma: A prospective observation study</article-title>. <source xml:lang="en">Medicine</source>
+<year>2018</year>; <volume>97</volume> (<issue>3</issue>): <elocation-id>e9704</elocation-id>.<pub-id pub-id-type="pmid">29505026</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MD.0000000000009704</pub-id><pub-id pub-id-type="pmcid">PMC5779795</pub-id></mixed-citation></ref><ref id="tca13162-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="tca13162-cit-0008">
+<string-name name-style="western">
+<surname>Gou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Si</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Efficacy and safety of apatinib in patients with previously treated metastatic colorectal cancer: A real‐world retrospective study</article-title>. <source xml:lang="en">Sci Rep</source>
+<year>2018</year>; <volume>8</volume> (<issue>1</issue>): <fpage>4602</fpage>.<pub-id pub-id-type="pmid">29545575</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-018-22302-z</pub-id><pub-id pub-id-type="pmcid">PMC5854587</pub-id></mixed-citation></ref><ref id="tca13162-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="tca13162-cit-0009">
+<string-name name-style="western">
+<surname>Jin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>H</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Apatinib inhibits angiogenesis via suppressing Akt/GSK3beta/ANG Signaling pathway in anaplastic thyroid cancer</article-title>. <source xml:lang="en">Cell Physiol Biochem</source>
+<year>2017</year>; <volume>44</volume> (<issue>4</issue>): <fpage>1471</fpage>–<lpage>84</lpage>.<pub-id pub-id-type="pmid">29190616</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000485583</pub-id></mixed-citation></ref><ref id="tca13162-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="tca13162-cit-0010">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>WS</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Panobinostat sensitizes KRAS‐mutant non‐small‐cell lung cancer to gefitinib by targeting TAZ</article-title>. <source xml:lang="en">Int J Cancer</source>
+<year>2017</year>; <volume>141</volume> (<issue>9</issue>): <fpage>1921</fpage>–<lpage>31</lpage>.<pub-id pub-id-type="pmid">28710768</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.30888</pub-id></mixed-citation></ref><ref id="tca13162-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="tca13162-cit-0011">
+<string-name name-style="western">
+<surname>Weidner</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Current pathologic methods for measuring intratumoral microvessel density within breast carcinoma and other solid tumors</article-title>. <source xml:lang="en">Breast Cancer Res Treat</source>
+<year>1995</year>; <volume>36</volume> (<issue>2</issue>): <fpage>169</fpage>–<lpage>80</lpage>.<pub-id pub-id-type="pmid">8534865</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00666038</pub-id></mixed-citation></ref><ref id="tca13162-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="tca13162-cit-0012">
+<string-name name-style="western">
+<surname>Bergers</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanahan</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Modes of resistance to anti‐angiogenic therapy</article-title>. <source xml:lang="en">Nat Rev Cancer</source>
+<year>2008</year>; <volume>8</volume> (<issue>8</issue>): <fpage>592</fpage>–<lpage>603</lpage>.<pub-id pub-id-type="pmid">18650835</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc2442</pub-id><pub-id pub-id-type="pmcid">PMC2874834</pub-id></mixed-citation></ref><ref id="tca13162-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="tca13162-cit-0013">
+<string-name name-style="western">
+<surname>Tian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>C</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>YN968D1 is a novel and selective inhibitor of vascular endothelial growth factor receptor‐2 tyrosine kinase with potent activity in vitro and in vivo</article-title>. <source xml:lang="en">Cancer Sci</source>
+<year>2011</year>; <volume>102</volume> (<issue>7</issue>): <fpage>1374</fpage>–<lpage>80</lpage>.<pub-id pub-id-type="pmid">21443688</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1349-7006.2011.01939.x</pub-id><pub-id pub-id-type="pmcid">PMC11158267</pub-id></mixed-citation></ref><ref id="tca13162-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="tca13162-cit-0014">
+<string-name name-style="western">
+<surname>Peng</surname>
+<given-names>QX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>YL</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Apatinib inhibits VEGFR‐2 and angiogenesis in an in vivo murine model of nasopharyngeal carcinoma</article-title>. <source xml:lang="en">Oncotarget</source>
+<year>2017</year>; <volume>8</volume> (<issue>32</issue>): <fpage>52813</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">28881773</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.17264</pub-id><pub-id pub-id-type="pmcid">PMC5581072</pub-id></mixed-citation></ref><ref id="tca13162-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="tca13162-cit-0015">
+<string-name name-style="western">
+<surname>Feng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Sequentially administrated of pemetrexed with icotinib/erlotinib in lung adenocarcinoma cell lines in vitro</article-title>. <source xml:lang="en">Oncotarget</source>
+<year>2017</year>; <volume>8</volume> (<issue>69</issue>): <fpage>114292</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">29371987</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.23224</pub-id><pub-id pub-id-type="pmcid">PMC5768404</pub-id></mixed-citation></ref><ref id="tca13162-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="tca13162-cit-0016">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Apatinib enhances antitumour activity of EGFR‐TKIs in non‐small cell lung cancer with EGFR‐TKI resistance</article-title>. <source xml:lang="en">Eur J Cancer</source>
+<year>2017</year>; <volume>84</volume>: <fpage>184</fpage>–<lpage>92</lpage>.<pub-id pub-id-type="pmid">28822888</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejca.2017.07.037</pub-id></mixed-citation></ref><ref id="tca13162-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="tca13162-cit-0017">
+<string-name name-style="western">
+<surname>Asati</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahapatra</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bharti</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>PI3K/Akt/mTOR and Ras/Raf/MEK/ERK signaling pathways inhibitors as anticancer agents: Structural and pharmacological perspectives</article-title>. <source xml:lang="en">Eur J Med Chem</source>
+<year>2016</year>; <volume>109</volume>: <fpage>314</fpage>–<lpage>41</lpage>.<pub-id pub-id-type="pmid">26807863</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejmech.2016.01.012</pub-id></mixed-citation></ref><ref id="tca13162-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="tca13162-cit-0018">
+<string-name name-style="western">
+<surname>Folkman</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Angiogenesis: An organizing principle for drug discovery?</article-title>
+<source xml:lang="en">Nat Rev Drug Discov</source>
+<year>2007</year>; <volume>6</volume> (<issue>4</issue>): <fpage>273</fpage>–<lpage>86</lpage>.<pub-id pub-id-type="pmid">17396134</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrd2115</pub-id></mixed-citation></ref><ref id="tca13162-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="tca13162-cit-0019">
+<string-name name-style="western">
+<surname>Keith</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simon</surname>
+<given-names>MC</given-names>
+</string-name>. <article-title>HIF1alpha and HIF2alpha: Sibling rivalry in hypoxic tumour growth and progression</article-title>. <source xml:lang="en">Nat Rev Cancer</source>
+<year>2011</year>; <volume>12</volume> (<issue>1</issue>): <fpage>9</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">22169972</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc3183</pub-id><pub-id pub-id-type="pmcid">PMC3401912</pub-id></mixed-citation></ref><ref id="tca13162-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="tca13162-cit-0020">
+<string-name name-style="western">
+<surname>Tonra</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deevi</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corcoran</surname>
+<given-names>E</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Synergistic antitumor effects of combined epidermal growth factor receptor and vascular endothelial growth factor receptor‐2 targeted therapy</article-title>. <source xml:lang="en">Clin Cancer Res</source>
+<year>2006</year>; <volume>12</volume> (<issue>7 Pt 1</issue>): <fpage>2197</fpage>–<lpage>207</lpage>.<pub-id pub-id-type="pmid">16609035</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-05-1682</pub-id></mixed-citation></ref><ref id="tca13162-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="tca13162-cit-0021">
+<string-name name-style="western">
+<surname>Goel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duda</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>L</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Normalization of the vasculature for treatment of cancer and other diseases</article-title>. <source xml:lang="en">Physiol Rev</source>
+<year>2011</year>; <volume>91</volume> (<issue>3</issue>): <fpage>1071</fpage>–<lpage>121</lpage>.<pub-id pub-id-type="pmid">21742796</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physrev.00038.2010</pub-id><pub-id pub-id-type="pmcid">PMC3258432</pub-id></mixed-citation></ref><ref id="tca13162-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="tca13162-cit-0022">
+<string-name name-style="western">
+<surname>Winkler</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kozin</surname>
+<given-names>SV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tong</surname>
+<given-names>RT</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Kinetics of vascular normalization by VEGFR2 blockade governs brain tumor response to radiation: Role of oxygenation, angiopoietin‐1, and matrix metalloproteinases</article-title>. <source xml:lang="en">Cancer Cell</source>
+<year>2004</year>; <volume>6</volume> (<issue>6</issue>): <fpage>553</fpage>–<lpage>63</lpage>.<pub-id pub-id-type="pmid">15607960</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccr.2004.10.011</pub-id></mixed-citation></ref><ref id="tca13162-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="tca13162-cit-0023">
+<string-name name-style="western">
+<surname>Batchelor</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sorensen</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>di Tomaso</surname>
+<given-names>E</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>AZD2171, a pan‐VEGF receptor tyrosine kinase inhibitor, normalizes tumor vasculature and alleviates edema in glioblastoma patients</article-title>. <source xml:lang="en">Cancer Cell</source>
+<year>2007</year>; <volume>11</volume> (<issue>1</issue>): <fpage>83</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="pmid">17222792</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccr.2006.11.021</pub-id><pub-id pub-id-type="pmcid">PMC2748664</pub-id></mixed-citation></ref><ref id="tca13162-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="tca13162-cit-0024">
+<string-name name-style="western">
+<surname>Sorensen</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Batchelor</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>WT</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>A "vascular normalization index" as potential mechanistic biomarker to predict survival after a single dose of cediranib in recurrent glioblastoma patients</article-title>. <source xml:lang="en">Cancer Res</source>
+<year>2009</year>; <volume>69</volume> (<issue>13</issue>): <fpage>5296</fpage>–<lpage>300</lpage>.<pub-id pub-id-type="pmid">19549889</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-09-0814</pub-id><pub-id pub-id-type="pmcid">PMC2824172</pub-id></mixed-citation></ref><ref id="tca13162-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="tca13162-cit-0025">
+<string-name name-style="western">
+<surname>Jain</surname>
+<given-names>RK</given-names>
+</string-name>. <article-title>Antiangiogenesis strategies revisited: From starving tumors to alleviating hypoxia</article-title>. <source xml:lang="en">Cancer Cell</source>
+<year>2014</year>; <volume>26</volume> (<issue>5</issue>): <fpage>605</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">25517747</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccell.2014.10.006</pub-id><pub-id pub-id-type="pmcid">PMC4269830</pub-id></mixed-citation></ref><ref id="tca13162-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="tca13162-cit-0026">
+<string-name name-style="western">
+<surname>Tolaney</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boucher</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duda</surname>
+<given-names>DG</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Role of vascular density and normalization in response to neoadjuvant bevacizumab and chemotherapy in breast cancer patients</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<year>2015</year>; <volume>112</volume> (<issue>46</issue>): <fpage>14325</fpage>–<lpage>30</lpage>.<pub-id pub-id-type="pmid">26578779</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1518808112</pub-id><pub-id pub-id-type="pmcid">PMC4655544</pub-id></mixed-citation></ref><ref id="tca13162-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="tca13162-cit-0027">
+<string-name name-style="western">
+<surname>Holohan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Schaeybroeck</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Longley</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnston</surname>
+<given-names>PG</given-names>
+</string-name>. <article-title>Cancer drug resistance: An evolving paradigm</article-title>. <source xml:lang="en">Nat Rev Cancer</source>
+<year>2013</year>; <volume>13</volume> (<issue>10</issue>): <fpage>714</fpage>–<lpage>26</lpage>.<pub-id pub-id-type="pmid">24060863</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc3599</pub-id></mixed-citation></ref><ref id="tca13162-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="tca13162-cit-0028">
+<string-name name-style="western">
+<surname>Mi</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>HB</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Apatinib (YN968D1) reverses multidrug resistance by inhibiting the efflux function of multiple ATP‐binding cassette transporters</article-title>. <source xml:lang="en">Cancer Res</source>
+<year>2010</year>; <volume>70</volume> (<issue>20</issue>): <fpage>7981</fpage>–<lpage>91</lpage>.<pub-id pub-id-type="pmid">20876799</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-10-0111</pub-id><pub-id pub-id-type="pmcid">PMC2969180</pub-id></mixed-citation></ref><ref id="tca13162-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="tca13162-cit-0029">
+<string-name name-style="western">
+<surname>Kamba</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tam</surname>
+<given-names>BY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hashizume</surname>
+<given-names>H</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>VEGF‐dependent plasticity of fenestrated capillaries in the normal adult microvasculature</article-title>. <source xml:lang="en">Am J Physiol Heart Circ Physiol</source>
+<year>2006</year>; <volume>290</volume> (<issue>2</issue>): <fpage>H560</fpage>–<lpage>76</lpage>.<pub-id pub-id-type="pmid">16172168</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/ajpheart.00133.2005</pub-id></mixed-citation></ref><ref id="tca13162-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="tca13162-cit-0030">
+<string-name name-style="western">
+<surname>Bukowski</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kabbinavar</surname>
+<given-names>FF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Figlin</surname>
+<given-names>RA</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>
+<article-title>Randomized phase II study of erlotinib combined with bevacizumab compared with bevacizumab alone in metastatic renal cell cancer</article-title>. <source xml:lang="en">J Clin Oncol</source>
+<year>2007</year>; <volume>25</volume> (<issue>29</issue>): <fpage>4536</fpage>–<lpage>41</lpage>.<pub-id pub-id-type="pmid">17876014</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2007.11.5154</pub-id></mixed-citation></ref></ref-list></back></article>

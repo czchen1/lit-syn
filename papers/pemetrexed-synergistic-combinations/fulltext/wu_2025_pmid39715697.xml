@@ -1,0 +1,1165 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="ctm270149" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Transl Med</journal-id><journal-id journal-id-type="iso-abbrev">Clin Transl Med</journal-id><journal-id journal-id-type="pmc-domain-id">1991</journal-id><journal-id journal-id-type="pmc-domain">clintransmed</journal-id><journal-id journal-id-type="publisher-id">CTM2</journal-id><journal-title-group><journal-title>Clinical and Translational Medicine</journal-title></journal-title-group><issn pub-type="epub">2001-1326</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11666332</article-id><article-id pub-id-type="pmcid-ver">PMC11666332.1</article-id><article-id pub-id-type="pmcaid">11666332</article-id><article-id pub-id-type="pmcaiid">11666332</article-id><article-id pub-id-type="pmid">39715697</article-id><article-id pub-id-type="doi">10.1002/ctm2.70149</article-id><article-id pub-id-type="publisher-id">CTM270149</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Atezolizumab, bevacizumab, pemetrexed and platinum for <italic toggle="yes">EGFR</italic>‐mutant NSCLC patients after EGFR TKI failure: A phase II study with immune cell profile analysis</article-title><alt-title alt-title-type="left-running-head">WU <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="ctm270149-cr-0001" contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="SG">Shang‐Gin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8889-689X</contrib-id><xref rid="ctm270149-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ctm270149-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ctm270149-cr-0002" contrib-type="author"><name name-style="western"><surname>Ho</surname><given-names initials="CC">Chao‐Chi</given-names></name><xref rid="ctm270149-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ctm270149-cr-0003" contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="JCH">James Chih‐Hsin</given-names></name><xref rid="ctm270149-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="ctm270149-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="ctm270149-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ctm270149-cr-0004" contrib-type="author"><name name-style="western"><surname>Yu</surname><given-names initials="SH">Shu‐Han</given-names></name><xref rid="ctm270149-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ctm270149-cr-0005" contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="YF">Yen‐Feng</given-names></name><xref rid="ctm270149-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="ctm270149-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="ctm270149-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="ctm270149-cr-0006" contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="SC">Shu‐Chin</given-names></name><xref rid="ctm270149-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="ctm270149-cr-0007" contrib-type="author"><name name-style="western"><surname>Liao</surname><given-names initials="BC">Bin‐Chi</given-names></name><xref rid="ctm270149-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="ctm270149-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ctm270149-cr-0008" contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="CY">Ching‐Yao</given-names></name><xref rid="ctm270149-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ctm270149-cr-0009" contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="YT">Yen‐Ting</given-names></name><xref rid="ctm270149-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ctm270149-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ctm270149-cr-0010" contrib-type="author"><name name-style="western"><surname>Yu</surname><given-names initials="CJ">Chong‐Jen</given-names></name><xref rid="ctm270149-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="ctm270149-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="ctm270149-cr-0011" contrib-type="author"><name name-style="western"><surname>Chuang</surname><given-names initials="YT">Ya‐Ting</given-names></name><xref rid="ctm270149-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="ctm270149-cr-0012" contrib-type="author"><name name-style="western"><surname>Liao</surname><given-names initials="WY">Wei‐Yu</given-names></name><xref rid="ctm270149-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ctm270149-cr-0013" contrib-type="author"><name name-style="western"><surname>Yap</surname><given-names initials="KY">Kah Yi</given-names></name><xref rid="ctm270149-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ctm270149-cr-0014" contrib-type="author"><name name-style="western"><surname>Kou</surname><given-names initials="WS">Weng Si</given-names></name><xref rid="ctm270149-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ctm270149-cr-0015" contrib-type="author" corresp="yes"><name name-style="western"><surname>Shih</surname><given-names initials="JY">Jin‐Yuan</given-names></name><xref rid="ctm270149-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>jyshih@ntu.edu.tw</email></address></contrib></contrib-group><aff id="ctm270149-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>National Taiwan University Cancer Center</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="ctm270149-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>National Taiwan University Hospital</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="ctm270149-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Oncology</named-content>
+<institution>National Taiwan University Cancer Center</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="ctm270149-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Oncology</named-content>
+<institution>National Taiwan University Hospital</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="ctm270149-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Graduate Institute of Oncology</named-content>
+<named-content content-type="organisation-division">Cancer Research Center</named-content>
+<institution>National Taiwan University</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="ctm270149-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Biotechnology</named-content>
+<institution>National Taiwan University</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="ctm270149-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Center for Neuropsychiatric Research</named-content>
+<institution>National Health Research Institutes</institution>
+<city>Miaoli</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="ctm270149-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health &amp; Medical Humanities</named-content>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>National Yang Ming Chiao Tung University</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="ctm270149-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Behavioral Medicine</named-content>
+<named-content content-type="organisation-division">College of Medicine</named-content>
+<institution>National Cheng Kung University</institution>
+<city>Tainan</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="ctm270149-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Research</named-content>
+<institution>National Taiwan University Hospital</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="ctm270149-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>National Taiwan University Hospital Hsinchu Branch</institution>
+<city>Hsinchu</city>
+<country country="TW">Taiwan</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Jin‐Yuan Shih, Department of Internal Medicine, National Taiwan University Hospital, National Taiwan University, Taipei, Taiwan.<break/> Email: <email>jyshih@ntu.edu.tw</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>12</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2025</year></pub-date><volume>15</volume><issue seq="10">1</issue><issue-id pub-id-type="pmc-issue-id">477636</issue-id><issue-id pub-id-type="doi">10.1002/ctm2.v15.1</issue-id><elocation-id>e70149</elocation-id><history>
+<date date-type="rev-recd"><day>05</day><month>12</month><year>2024</year></date>
+<date date-type="received"><day>22</day><month>9</month><year>2024</year></date>
+<date date-type="accepted"><day>10</day><month>12</month><year>2024</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>23</day><month>12</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>24</day><month>12</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-21 22:25:13.280"><day>21</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Clinical and Translational Medicine</italic> published by John Wiley &amp; Sons Australia, Ltd on behalf of Shanghai Institute of Clinical Bioinformatics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CTM2-15-e70149.pdf"><?pdf-name CTM2-15-e70149.pdf?><?pdf-size 2892494?><?pdf-md5 7af8a78bc4a731051cfd672e304d13ca?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:a471/11666332/7af8a78bc4a7/CTM2-15-e70149.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CTM2-15-e70149.pdf"/><abstract><title>Abstract</title><sec id="ctm270149-sec-0010"><title>Background</title><p>Acquired resistance to epidermal growth factor receptor tyrosine kinase inhibitors (EGFR TKIs) remains a significant hurdle for patients with <italic toggle="yes">EGFR</italic>‐mutated non‐small cell lung cancer (NSCLC), particularly those lacking the <italic toggle="yes">EGFR<sup>T790M</sup>
+</italic>. IMpower 150 study demonstrated promising efficacy for a combination of immune‐chemotherapy and bevacizumab in patients with <italic toggle="yes">EGFR</italic>‐mutated NSCLC.</p></sec><sec id="ctm270149-sec-0020"><title>Methods</title><p>This open‐label, single‐arm, phase II trial evaluated the efficacy and immune cell profile of the modified regimen combining atezolizumab, bevacizumab (7.5 mg/kg) and chemotherapy in patients with <italic toggle="yes">EGFR</italic>‐mutated NSCLC following TKI failure. The primary endpoint was objective response rate (ORR). The re‐biopsy tissue specimens and serial peripheral blood samples were collected to analyse the immune cell profile and tumour microenvironments.</p></sec><sec id="ctm270149-sec-0030"><title>Rresults</title><p>22 <italic toggle="yes">EGFR</italic>‐mutant NSCLC patients participated in this study. The ORR was 42.9%, with a disease control rate (DCR) of 100%. Median progression‐free survival (PFS) was 6.3 months. Patients with programmed death‐ligand 1 (PD‐L1) expression ≥1% exhibited significantly higher ORR (75 vs. 23.1%; <italic toggle="yes">p</italic> = .032) and longer PFS (14.0 vs. 6.1 months; <italic toggle="yes">p</italic> = .022) compared with those with PD‐L1 expression &lt; 1%. Grade ≥ 3 adverse events occurred in 40.9% of patients. Higher peritumour nature killer (NK) cell infiltration and lower peripheral helper T cell counts before treatment were associated with favourable ORR and longer PFS, respectively. After disease progression, the proportion of S100A9<sup>+</sup> myelod‐derived suppressor cells (MDSCs) increased, while regulatory T cells decreased.</p></sec><sec id="ctm270149-sec-0040"><title>Conclusion</title><p>This modified combination regimen may be a promising therapeutic option for <italic toggle="yes">EGFR</italic>‐mutant NSCLC patients with TKI resistance, especially those with PD‐L1‐positive tumours. Furthermore, immune cell profiling may aid in identifying patients who may benefit from this approach.</p></sec><sec id="ctm270149-sec-0050"><title>Key points</title><p>
+<list list-type="bullet" id="ctm270149-list-0001"><list-item><p>The combination regimen yielded promising efficacy in NSCLC patients after EGFR‐TKI resistance, particularly those with PD‐L1‐positive tumours.</p></list-item><list-item><p>Higher peritumour NK cell and lower peripheral helper T cell were associated with favourable ORR and longer PFS, respectively.</p></list-item><list-item><p>After disease progression, the proportion of S100A9<sup>+</sup> MDSC increased, but Treg cells decreased.</p></list-item></list>
+</p></sec></abstract><abstract id="ctm270149-abs-0001" abstract-type="graphical"><p>
+<list list-type="bullet" id="ctm270149-list-0002"><list-item><p>The combination regimen yielded promising efficacy in NSCLC patients after EGFR‐TKI resistance, particularly those with PD‐L1‐positive tumours.</p></list-item><list-item><p>Higher peritumour NK cell and lower peripheral helper T cell were associated with favourable ORR and longer PFS, respectively.</p></list-item><list-item><p>After disease progression, the proportion of S100A9<sup>+</sup> MDSC increased, but Treg cells decreased.</p></list-item></list>
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CTM2-15-e70149-g003.jpg"><?image-name CTM2-15-e70149-g003.jpg?><?image-size 20190?><?image-md5 2bf9e6ecf7063ecf562ebd6e290197a0?><?image-image-server-status NEVER_LOAD?><?image-original-height 180?><?image-original-width 165?><?image-scaled-height 180?><?image-scaled-width 165?><?image-cloudpmc-urn urn:cdn:blobs/a471/11666332/2bf9e6ecf706/CTM2-15-e70149-g003.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ctm270149-kwd-0001">anti‐angiogenesis</kwd><kwd id="ctm270149-kwd-0002">atezolizumab</kwd><kwd id="ctm270149-kwd-0003">EGFR TKI resistance</kwd><kwd id="ctm270149-kwd-0004">immune cell</kwd><kwd id="ctm270149-kwd-0005">tumour microenvironment</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Ministry of Health and Welfare
+</institution><institution-id institution-id-type="doi">10.13039/501100003625</institution-id></institution-wrap></funding-source><award-id>111‐CTC0030</award-id><award-id>112‐CTC0019</award-id><award-id>CTC‐202108</award-id><award-id>MOHW CTC110(MQ999)</award-id></award-group><award-group id="funding-0002"><funding-source>National Science and Technology Council, R. O. C.</funding-source><award-id>MOST 09‐2628‐B‐002‐029</award-id><award-id>NSTC 112‐2628‐B‐002‐016‐MY3</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>National Taiwan University Hospital
+</institution><institution-id institution-id-type="doi">10.13039/501100005762</institution-id></institution-wrap></funding-source><award-id>109‐N4721</award-id></award-group><award-group id="funding-0004"><funding-source>National Taiwan University Hospital, Cancer Center branch</funding-source><award-id>NTUCCS‐112‐01</award-id></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>F. Hoffmann‐La Roche
+</institution><institution-id institution-id-type="doi">10.13039/100007013</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="16"/><word-count count="8821"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.1 mode:remove_FC converted:23.12.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ctm270149-cit-0071">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S‐G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>
+<given-names>C‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>JC‐H</given-names>
+</string-name>, et al. <article-title>Atezolizumab, bevacizumab, pemetrexed and platinum for <italic toggle="yes">EGFR</italic>‐mutant NSCLC patients after EGFR TKI failure: A phase II study with immune cell profile analysis</article-title>. <source>Clin Transl Med</source>. <year>2025</year>;<volume>15</volume>:<elocation-id>e270149</elocation-id>. <pub-id pub-id-type="doi">10.1002/ctm2.70149</pub-id>
+<pub-id pub-id-type="pmid">39715697</pub-id></mixed-citation>
+</p></notes></front><body><sec id="ctm270149-sec-0060"><label>1</label><title>INTRODUCTION</title><p>Accounting for 80–85% of all lung cancers, non‐small cell lung cancer (NSCLC) remains a leading cause of cancer mortality. While targeted therapies have revolutionised precision medicine for NSCLC, resistance to first‐ and second‐generation epidermal growth factor receptor tyrosine kinase inhibitors (EGFR TKIs) typically emerges within 9–14 months, often due to the <italic toggle="yes">EGFR<sup>T790M</sup>
+</italic> mutation.<xref rid="ctm270149-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ctm270149-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="ctm270149-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ctm270149-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> The third‐generation EGFR TKIs such as osimertinib effectively target <italic toggle="yes">EGFR<sup>T790M</sup>
+</italic> mutation along with common mutations,<xref rid="ctm270149-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> yet disease progression ultimately occurs.<xref rid="ctm270149-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Salvage platinum‐based therapy achieves only a 10–20% response rate,<xref rid="ctm270149-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="ctm270149-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> highlighting the urgent need for innovative strategies, especially for patients with acquired resistance to EGFR TKIs.</p><p>Immune checkpoint inhibitors (ICIs), particularly anti‐programmed death‐1 (PD‐1)/programmed death‐ligand 1 (PD‐L1) antibodies, have demonstrated efficacy in various solid tumours,<xref rid="ctm270149-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="ctm270149-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="ctm270149-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ctm270149-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> including NSCLC. However, as single agents, they have shown limited efficacy in <italic toggle="yes">EGFR</italic>‐mutated NSCLC, possibly due to low tumour mutational burden (TMB), lower PD‐L1 expression and an immunosuppressive tumour microenvironment (TME) in these patients.<xref rid="ctm270149-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="ctm270149-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Nevertheless, re‐biopsy samples after acquired resistance to EGFR TKIs exhibited increasing PD‐L1 and TMB,<xref rid="ctm270149-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="ctm270149-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> suggesting the potential suitability of ICIs for this population.</p><p>Following disease progression on first‐line EGFR‐TKI therapy, Yoo et al. reported a 5.4‐month progression‐free survival (PFS) and a 34.8% objective response rate (ORR) with the combination of pemetrexed and cisplatin. However, this combination therapy did not demonstrate superior efficacy to pemetrexed monotherapy in terms of response rate, PFS or overall survival (OS). Therefore, there remains a need to identify optimal treatment regimens, including potential combination strategies with ICIs. The phase III trials, KEYNOTE‐789 and CheckMate‐722 trials, showed trends towards improved survival with ICIs and chemotherapy in patients with TKI‐resistant <italic toggle="yes">EGFR</italic>‐mutated NSCLC, but they lacked statistical significance.<xref rid="ctm270149-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="ctm270149-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> In contrast, IMpower 150 demonstrated favourable responses with atezolizumab, bevacizumab and chemotherapy for this patient population, irrespective of PD‐L1 expression.<xref rid="ctm270149-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="ctm270149-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Furthermore, the phase III APPLE (WJOG11218L) clinical trial revealed that the incorporation of anti‐angiogenic agents into immune‐chemotherapy regimens resulted in an extended PFS for patients with <italic toggle="yes">EGFR</italic>‐mutated NSCLC after EGFR‐TKI failure (HR, 0.70; 95% CI, 0.46–1.06).<xref rid="ctm270149-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The bevacizumab's ability to modulate the TME towards an immunocompetent state may contribute to the enhanced efficacy of ICIs.<xref rid="ctm270149-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Therefore, several phase II and III clinical trials (e.g., NEJ043, APPLE (WJOG11218L), IMpower 151, ORIENT‐31 and ATTLAS (KCSG‐LU19‐04), etc.) have explored the therapeutic potential of combining anti‐angiogenic agents with immune‐chemotherapy in patients with <italic toggle="yes">EGFR‐</italic>mutated NSCLC who have progressed on EGFR TKIs.<xref rid="ctm270149-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="ctm270149-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="ctm270149-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="ctm270149-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="ctm270149-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="ctm270149-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> These studies have yielded diverse results in terms of ORRs and PFS. The factors contributing to these variations in clinical outcomes remain elusive and require further investigation.</p><p>Prompted by the high prevalence of <italic toggle="yes">EGFR</italic> mutations in East Asian NSCLC patients and the challenges in managing EGFR‐TKI‐resistant cases,<xref rid="ctm270149-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> we investigated a modified IMpower 150 regimen substituting pemetrexed for paclitaxel and administering bevacizumab at 7.5 mg/kg every 3 weeks to optimise tolerability and minimise toxicity.<xref rid="ctm270149-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Re‐biopsy tissue samples and peripheral blood were collected to explore dynamic alterations in immune cell profiles and the TME, potentially revealing biomarkers.</p></sec><sec id="ctm270149-sec-0070"><label>2</label><title>RESULTS</title><sec id="ctm270149-sec-0080"><label>2.1</label><title>Patient characteristics</title><p>Between April 2020 and March 2022, 30 patients with lung cancer were screened at National Taiwan University Hospital (NTUH). Of these, 22 met eligibility criteria and were enrolled. Data analysis was conducted with a cutoff date of 10 November 2023, resulting in a median follow‐up duration of 18.7 months.</p><p>Detailed patient characteristics were presented in Table <xref rid="ctm270149-tbl-0001" ref-type="table">1</xref>. The median age was 63.5 years (range 46–73). A total of 14 patients (63.6%) were female, and 16 (72.7%) were non‐smokers. Prior to enrolment, nine patients received first‐generation EGFR TKIs (gefitinib/erlotinib), five received afatinib and eight received osimertinib (including one gefitinib/osimertinib, two erlotinib/osimertinib and two afatinib/osimertinib). Of the 22 patients enrolled in the study, 11 (50%) had a history of prior radiotherapy. Irradiated sites included lung lesions (<italic toggle="yes">n</italic> = 2), brain lesions (<italic toggle="yes">n</italic> = 2), bone lesions (<italic toggle="yes">n</italic> = 1), combined lung and bone lesions (<italic toggle="yes">n</italic> = 2), combined brain and bone lesions (<italic toggle="yes">n</italic> = 3) and combined lung and brain lesions (<italic toggle="yes">n</italic> = 1). At study entry, eight patients (36.4%) presented with brain metastases. Two patients had one metastatic sites, four patients had two metastatic sites and 16 patients (72.7%) had three or more metastatic sites (Table <xref rid="ctm270149-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="ctm270149-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Clinical characteristics of the enrolled patients.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Patients <italic toggle="yes">n</italic> (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">(100.0%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age, median, years</td><td colspan="2" align="left" rowspan="1">63.5</td></tr><tr><td align="left" rowspan="1" colspan="1">(range)</td><td colspan="2" align="left" rowspan="1">(46–73)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex</td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">(63.6%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">(36.4%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Smoking status</td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Non‐smokers</td><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">(72.7%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Smokers</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">(27.3%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Histology</td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Adenocarcinoma</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">(90.9%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Poorly‐differentiated carcinoma</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">(9.1%)</td></tr><tr><td align="left" rowspan="1" colspan="1">EGFR mutation</td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Del‐19</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">(40.9%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">L858R</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">(50.0%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">(9.1%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Prior EGFR TKI</td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Gefitinib/erlotinib</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">(40.9%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Afatinib</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">(22.7%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Osimertinib</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">(36.4%)</td></tr><tr><td align="left" rowspan="1" colspan="1">PD‐L1 IHC</td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">&lt;1%</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">(63.6%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">≧1%</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">(36.4%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Brain metastasis</td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">(36.4%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">(63.6%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Metastatic sites (organs)</td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">(9.1%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">(18.2%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">≥3</td><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">(72.7%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Prior radiotherapy</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">(50.0%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">(50.0%)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>All 22 patients underwent pre‐enrolment re‐biopsy of tumour tissue. The re‐biopsy methods employed included eight bronchoscopy, six video‐assisted thoracoscopic surgeries (VATS), three ultrasound‐guided, three computed tomography (CT)‐guided and two pleuroscopy biopsies. Among the re‐biopsy tissue samples, <italic toggle="yes">EGFR</italic> mutations included nine exon‐19 deletions, 11 L858R, one G719X and one L861Q (Table <xref rid="ctm270149-tbl-0001" ref-type="table">1</xref>). Pre‐enrolment PD‐L1 expression was ≥1% in 8 (35.0%) re‐biopsy tumours.</p></sec><sec id="ctm270149-sec-0090"><label>2.2</label><title>Clinical efficacy and survival analysis</title><p>All patients received at least one dose of combination treatment. One patient was excluded from treatment response analysis due to idiopathic thrombocytopenia purpura after the first cycle. One patient remained on study treatment as of the data cutoff date of 10 November 2023.</p><p>Among the 21 evaluable patients, one achieved complete response (CR) and eight achieved partial response (PR). The overall ORR was 42.9% (95% confidence interval (CI): 21.2–64.6%), which did meet its primary endpoint of ORR. However, the disease control rate (DCR) was 100% (Table <xref rid="ctm270149-tbl-0002" ref-type="table">2</xref>) The best percentage change from baseline was based on the sum of the longest diameters of target lesions on CT scans at baseline and subsequent imaging timepoints (Figure <xref rid="ctm270149-fig-0001" ref-type="fig">1A</xref>). No cases of primary resistance were observed.</p><table-wrap position="float" id="ctm270149-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Clinical characteristics of the patients enrolled for treatment efficacy analysis.<xref rid="ctm270149-tbl2-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th colspan="4" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Best response</th><th align="left" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">All patients<xref rid="ctm270149-tbl2-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">CR+PR</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">SD</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="ctm270149-tbl2-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">(42.9%)</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">(57.1%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Age, median, years</td><td align="left" rowspan="1" colspan="1">63.5</td><td colspan="2" align="left" rowspan="1">62.0</td><td colspan="2" align="left" rowspan="1">65.5</td><td rowspan="2" align="left" colspan="1">.917<sup>c</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">(range)</td><td align="left" rowspan="1" colspan="1">(46–73)</td><td colspan="2" align="left" rowspan="1">(54–72)</td><td colspan="2" align="left" rowspan="1">(46–73)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1.000</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">(46.2%)</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">(53.8%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">(37.5%)</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">(62.5%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Smoking status</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1">.659 </td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Non‐smokers</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">(46.7%)</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">(53.3%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Smokers</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">(33.3%)</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">(66.7%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">EGFR</italic> mutation</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1">.345 </td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Del‐19</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">(55.6%)</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">(44.4%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">L858R</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">(40.0%)</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">(60.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">(0.0%)</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">(100.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Prior EGFR TKI</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1">.268 </td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Gefitinib/erlotinib</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">(44.4%)</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">(55.6%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Afatinib</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">(20.0%)</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">(80.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Osimertinib</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">(28.6%)</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">(71.4%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">PD‐L1 IHC</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">.032</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">&lt;1%</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">(23.1%)</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">(76.9%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">≧1%</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">(75.0%)</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">(25.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Brain metastasis</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">.673</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">(50.0%)</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">(50.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">(38.5%)</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">(61.5%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td colspan="2" align="left" rowspan="1">Metastatic sites (organs)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">.611</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">&lt;3</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">(60.0%)</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">(40.0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">≥3</td><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">(37.5%)</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">(62.5%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Prior radiotherapy</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">.387</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">(54.5%)</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">(45.5%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">(30.0%)</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">(70.0%)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="ctm270149-tbl2-note-0001"><p>Abbreviations: CR, complete response; PR, partial response; SD, stable disease.</p></fn><fn id="ctm270149-tbl2-note-0002"><label>
+<sup>a</sup>
+</label><p>One patient was excluded the efficacy analysis due to idiopathic thrombocytopenia purpura.</p></fn><fn id="ctm270149-tbl2-note-0003"><label>
+<sup>b</sup>
+</label><p>By Fisher's exact test.</p></fn><fn id="ctm270149-tbl2-note-0004"><label>
+<sup>c</sup>
+</label><p>By Mann–Whitney U test.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="ctm270149-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>(A) Waterfall plot of the response. Best treatment response from baseline in tumour size (<italic toggle="yes">n</italic> = 21). Tumour size was defined as the sum of the longest diameters of target lesions, and the changes of tumour size were measured according to RECIST version 1.1 by investigator review at baseline and at least one follow‐up radiological assessment. Kaplan–Meier survival curve of (B) duration of response, (C) progression‐free survival and (D) overall survival in patients with <italic toggle="yes">EGFR</italic>‐mutated lung cancer who received atezolizumab, bevacizumab, pemetrexed and cisplatin or carboplatin. (E) Differences in progression‐free survival between patients with (≧1%) and without PD‐L1 expression (&lt;1%) was statistically significant (14.0 vs. 6.1 months; <italic toggle="yes">p</italic> = .022, by the log‐rank test). (F) The difference in OS did not reach a significant difference (27.6 vs. 20.2 months; <italic toggle="yes">p</italic> = .969, by the log‐rank test).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CTM2-15-e70149-g002.jpg"><?image-name CTM2-15-e70149-g002.jpg?><?image-size 132567?><?image-md5 3a34d148d8aaa6b6b9aadaf85f62be20?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 999?><?image-original-width 760?><?image-scaled-height 999?><?image-scaled-width 760?><?image-cloudpmc-urn urn:cdn:blobs/a471/11666332/3a34d148d8aa/CTM2-15-e70149-g002.jpg?><?thumb-name CTM2-15-e70149-g002.gif?><?thumb-size 6761?><?thumb-md5 827cb111645a4c1360ecdd92f3a0eb41?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 131?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/a471/11666332/827cb111645a/CTM2-15-e70149-g002.gif?></graphic></fig><p>Patients with PD‐L1 expression (PD‐L1 IHC ≥ 1%) demonstrated higher response rates (75.0% [six of eight]) compared with those without PD‐L1 expression (PD‐L1 IHC &lt; 1%) (23.1% [three of 10]; <italic toggle="yes">p</italic> = .032) (Table <xref rid="ctm270149-tbl-0002" ref-type="table">2</xref> and Figure <xref rid="ctm270149-fig-0001" ref-type="fig">1A</xref>). No significant differences were observed in gender, smoking history, <italic toggle="yes">EGFR</italic> mutation types or prior EGFR TKI exposure between patients with CR/PR and stable disease (Table <xref rid="ctm270149-tbl-0002" ref-type="table">2</xref>). Furthermore, there were no significant differences in response rate between patients with or without brain metastases (50.0 vs. 38.5%; <italic toggle="yes">p</italic> = .673), regardless of the number (&lt;3 vs. ≥3: 60.0 vs. 37.5%; <italic toggle="yes">p</italic> = .611) of metastatic sites or prior radiotherapy history (yes vs. no: 54.5 vs. 30.0%; <italic toggle="yes">p</italic> = .387).</p><p>Median PFS was 6.3 months (95% CI: 3.8–8.8 months) (Figure <xref rid="ctm270149-fig-0001" ref-type="fig">1B</xref>), median duration of response (DoR) was 9.4 months (95% CI: 0.0–26.6 months) (Figure <xref rid="ctm270149-fig-0001" ref-type="fig">1C</xref>), and median OS was 20.2 months (95% CI: 2.2–38.8 months) (Figure <xref rid="ctm270149-fig-0001" ref-type="fig">1D</xref>). There were six patients suffered from CNS progression, and the intracranial PFS was not reached (NR) (95% CI: NR–NR).</p></sec><sec id="ctm270149-sec-0100"><label>2.3</label><title>Subgroup analysis of PFS</title><p>Subgroup analysis was conducted to investigate factors influencing PFS. Patients with PD‐L1 expression ≥1% exhibited longer median PFS compared with those with PD‐L1 expression &lt; 1% (14.0 vs. 6.1 months; <italic toggle="yes">p</italic> = .022) (Figure <xref rid="ctm270149-fig-0001" ref-type="fig">1E</xref> and Table <xref rid="ctm270149-tbl-0003" ref-type="table">3</xref>). However, OS did not differ significantly between these groups (27.6 vs. 20.2 months; <italic toggle="yes">p</italic> = .969) (Figure <xref rid="ctm270149-fig-0001" ref-type="fig">1F</xref>). No significant differences in PFS were observed based on sex (<italic toggle="yes">p</italic> = .569), smoking status (<italic toggle="yes">p</italic> = .751), <italic toggle="yes">EGFR</italic> mutation type (<italic toggle="yes">p</italic> = .534) or prior EGFR TKI exposure (<italic toggle="yes">p</italic> = .228) (Table <xref rid="ctm270149-tbl-0003" ref-type="table">3</xref>). In addition, there were no significant differences in PFS between patients with or without brain metastases (4.4 vs. 10.2 months; <italic toggle="yes">p</italic> = .101), regardless of the number (&lt;3 vs. ≥3: 17.8 vs. 5.4 months; <italic toggle="yes">p</italic> = .082) of metastatic sites.</p><table-wrap position="float" id="ctm270149-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Multivariate analysis of predictive factors for PFS in patients with non‐small cell lung cancers who received atezolizumab in combination with bevacizumab, carboplatin or cisplatin and pemetrexed after failure of EGFR tyrosine kinase inhibitors.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th rowspan="2" align="left" colspan="1">Factor</th><th rowspan="2" align="left" colspan="1">Number of patients</th><th rowspan="2" align="left" colspan="1">
+<p>PFS</p>
+<p>(months)</p>
+</th><th align="left" rowspan="1" colspan="1">Univariate analysis</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Multivariate analysis</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="left" rowspan="1" colspan="1">HR (95% CI)</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sex</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">6.3</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">6.2</td><td align="left" rowspan="1" colspan="1">.569</td><td align="left" rowspan="1" colspan="1">0.36 (0.88–1.43)</td><td align="left" rowspan="1" colspan="1">.355</td></tr><tr><td align="left" rowspan="1" colspan="1">Smoking history</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Non‐smokers</td><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">6.3</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Smokers</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">5.3</td><td align="left" rowspan="1" colspan="1">.751</td><td align="left" rowspan="1" colspan="1">0.83 (0.16–4.36)</td><td align="left" rowspan="1" colspan="1">.825</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">EGFR</italic> mutation</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Del‐19</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">6.1</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">L858R</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">6.2</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1.59 (0.39–6.50)</td><td align="left" rowspan="1" colspan="1">.522</td></tr><tr><td align="left" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">7.8</td><td align="left" rowspan="1" colspan="1">.534</td><td align="left" rowspan="1" colspan="1">0.12 (0.01–1.12)</td><td align="left" rowspan="1" colspan="1">.063</td></tr><tr><td align="left" rowspan="1" colspan="1">Prior EGFR TKIs</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Gefitinib/erlotinib</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">8.1</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Afatinib</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">7.8</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.25 (0.04–1.47)</td><td align="left" rowspan="1" colspan="1">.126</td></tr><tr><td align="left" rowspan="1" colspan="1">Osimertinib</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">6.1</td><td align="left" rowspan="1" colspan="1">.228</td><td align="left" rowspan="1" colspan="1">4.12 (0.41–41.75)</td><td align="left" rowspan="1" colspan="1">.231</td></tr><tr><td align="left" rowspan="1" colspan="1">PD‐L1 TPS</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&lt;1%</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">6.1</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">≥1%</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">14.0</td><td align="left" rowspan="1" colspan="1">.022</td><td align="left" rowspan="1" colspan="1">0.12 (0.03–0.51)</td><td align="left" rowspan="1" colspan="1">.004</td></tr></tbody></table><table-wrap-foot><fn id="ctm270149-tbl3-note-0001"><p>Abbreviations: PFS, progression‐free survival; HR, hazards ratio; CI, confidence interval; ECOG PS, Eastern Cooperative Oncology Group performance status; PD‐L1, programmed death‐ligand 1; TPS, tumour proportion score; <italic toggle="yes">EGFR</italic>, epidermal growth factor receptor gene; EGFR‐TKI, epidermal growth factor receptor tyrosine kinase inhibitor.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Multivariate analysis using a Cox regression model was conducted to identify potential predictive factors of PFS (Table <xref rid="ctm270149-tbl-0003" ref-type="table">3</xref>). This analysis confirmed that patients with PD‐L1 expression ≥1% had significantly longer median PFS compared with those with PD‐L1 expression &lt; 1% (HR: 0.12, 95% CI: 0.03–0.51; <italic toggle="yes">p</italic> = .004).</p></sec><sec id="ctm270149-sec-0110"><label>2.4</label><title>Adverse events analysis</title><p>All 22 patients (100%) experienced at least one adverse event (Table <xref rid="ctm270149-supinfo-0001" ref-type="">S5</xref>). The majority of adverse events were grade 1 or 2, with the most frequent being abnormal liver function (31.8%) and constipation (18.2%), neutropenia (18.2%) and rash acneiform (18.2%). Grade 3 drug‐related adverse events occurred in nine patients (40.9%), predominantly abnormal liver function (9.1%). Notably, no grade 4 or 5 (fatal) adverse events were observed. There were two thromboembolic events detected, including one pulmonary embolism and one deep venous thrombosis.</p></sec><sec id="ctm270149-sec-0120"><label>2.5</label><title>Post‐progression re‐biopsy genetic sequence analysis and treatment</title><p>By 10 November 2023, 21 patients had experienced disease progression or death. Of these 21 patients, 13 had re‐biopsy tissue samples available after progression on the combination therapy. A re‐biopsy of only one of these 13 patients revealed a transformation to small cell carcinoma. Additionally, nine of the 21 patients underwent post‐progression comprehensive genomic profiling using next‐generation sequencing (NGS). These nine samples included six tumour tissue samples, two plasma samples and one malignant pleural effusion. NGS analysis identified a diverse range of genetic alterations, as detailed in Table <xref rid="ctm270149-supinfo-0001" ref-type="">S6</xref> and Figure <xref rid="ctm270149-supinfo-0001" ref-type="">S1</xref>.</p><p>Eighteen patients (85.7%) received subsequent systemic therapy after disease progression. The median number of post‐progression treatment regimens was 2 (range: 0–9). Thirteen patients received various chemotherapy regimens, while 17 (81%) received rechallenged EGFR TKIs (10 erlotinib and seven osimertinib). Additionally, three patients received anti‐angiogenesis treatments, all in combination with EGFR TKIs. Rechallenge with EGFR TKIs occurred post‐chemotherapy, not immediately following immunotherapy. Grade 1/2 skin rash was observed in three (17.6%) patients, and grade 1/2 abnormal liver function, including elevated GOT/GPT in three patients and jaundice in one, was noted in four (23.5%) patients. No cases of interstitial pneumonitis were reported following EGFR TKI rechallenge.</p></sec><sec id="ctm270149-sec-0130"><label>2.6</label><title>Tumour infiltrating immune cell analysis</title><p>There were 21 re‐biopsied tumours before trial enrolment to analyse the TME using Opal multiplex immunofluorescence staining (Figure <xref rid="ctm270149-fig-0002" ref-type="fig">2A,B</xref>). While no significant differences in intratumoural, peritumoural or total populations of various immune cells were observed between CR/PR and stable disease (SD) groups (Figure <xref rid="ctm270149-fig-0002" ref-type="fig">2B–N</xref>), a higher median peritumoural natural killer (NK) cell density correlated with better treatment response (CR/PR: 7.65 vs. SD: 0.28/mm<sup>2</sup>; <italic toggle="yes">p</italic> = .0223) (Figure <xref rid="ctm270149-fig-0002" ref-type="fig">2B,G</xref>).</p><fig position="float" fig-type="FIGURE" id="ctm270149-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>(A) Multiplex immunohistochemistry defines the precise location of immune subsets in re‐biopsy lung cancer samples (<italic toggle="yes">n</italic> = 21). FFPE sections of non‐small cell lung cancer were stained by ‘Lymphocytic Panel’ for CD4; CD56; CD8; granzyme B; FoxP3; and PanCK. The immune cell density was defined as the number of the immune cells in the area (mm<sup>2</sup>). Different immune cells were calculated in three areas (intratumoural, peritumoural and total). The immune cells included: (B) cytotoxic T cell, (C) activated CD8<sup>+</sup> T cell, (D) CD4<sup>+</sup> cytotoxic T cell, (E) helper T cell, (F) NK cell, (G) activated NK cell, (H) CD8<sup>+</sup> NK T cell, (I) activated CD8<sup>+</sup> NK T cell, (J) regulatory T cell, (K) regulatory CD8<sup>+</sup> T cell, (L) GrB<sup>+</sup> regulatory CD8<sup>+</sup> T cell and (M) GrB<sup>+</sup> CD8<sup>+</sup> regulatory T cell. Mann–Whitney <italic toggle="yes">U</italic> test was adopted across the two groups (CR/PR vs. SD).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CTM2-15-e70149-g004.jpg"><?image-name CTM2-15-e70149-g004.jpg?><?image-size 73951?><?image-md5 3237db7239eee1b0607cab603e417273?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 391?><?image-original-width 840?><?image-scaled-height 261?><?image-scaled-width 560?><?image-cloudpmc-urn urn:cdn:blobs/a471/11666332/3237db7239ee/CTM2-15-e70149-g004.jpg?><?thumb-name CTM2-15-e70149-g004.gif?><?thumb-size 11644?><?thumb-md5 0d82f543ed8c4402d6d076f1326585dd?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 171?><?thumb-cloudpmc-urn urn:cdn:blobs/a471/11666332/0d82f543ed8c/CTM2-15-e70149-g004.gif?></graphic></fig></sec><sec id="ctm270149-sec-0140"><label>2.7</label><title>Immune related biomarker analysis</title><p>Of the 22 patients, 11 joined the immune biomarker exploration study. All of them signed informed consent forms for peripheral blood or tumour tissue sample collection. The patients’ peripheral blood were collected at Day 0, post‐Cycle 1, post‐Cycle 2, post‐Cycle 4 and after disease progress (Figure <xref rid="ctm270149-fig-0003" ref-type="fig">3A</xref>).</p><fig position="float" fig-type="FIGURE" id="ctm270149-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Effect of the atezolizumab, bevacizumab, pemetrexed and platinum chemotherapy on peripheral immune cells. (A) the schema of the timepoints for blood sampling in the immune biomarker exploration study. (B) Patients with a lower percentage of helper T cells before treatment was associated with longer PFS than those with a higher percentage of CD8<sup>+</sup> effector cells (10.2 vs. 5.3 months; <italic toggle="yes">p</italic> = .045 by log‐rank test). (C) S100A9<sup>+</sup> MDSC cells, increased after disease progression (<italic toggle="yes">p</italic> = .0045 by mixed‐effect ANOVA). The table compared the proportion of S100A9<sup>+</sup> MDSC cells at two different time points using a Student's <italic toggle="yes">t</italic>‐test. (D) Treg cells significant declined in proportion after disease progression (<italic toggle="yes">p</italic> = .0121 by mixed‐effect ANOVA). The table compared the proportion of Treg cells at two different time points using a Student's <italic toggle="yes">t</italic>‐test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CTM2-15-e70149-g001.jpg"><?image-name CTM2-15-e70149-g001.jpg?><?image-size 65596?><?image-md5 ea3e5524f698072a280bc8c4a65be958?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 636?><?image-original-width 832?><?image-scaled-height 423?><?image-scaled-width 554?><?image-cloudpmc-urn urn:cdn:blobs/a471/11666332/ea3e5524f698/CTM2-15-e70149-g001.jpg?><?thumb-name CTM2-15-e70149-g001.gif?><?thumb-size 6316?><?thumb-md5 b1cbf8a061c5cefbcb4a9fab06a6dd5f?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 104?><?thumb-cloudpmc-urn urn:cdn:blobs/a471/11666332/b1cbf8a061c5/CTM2-15-e70149-g001.gif?></graphic></fig><p>First, we explored the correlation between PFS and immune cell proportions before treatment (Day 0) based on the median percentage of peripheral immune cells. A lower percentage of helper T cells at Day 0 was correlated with longer PFS (5.3 vs. 10.4 months; <italic toggle="yes">p</italic> = .045) (Figure <xref rid="ctm270149-fig-0003" ref-type="fig">3B</xref>). Additionally, we investigated the correlation between peripheral blood helper T cell counts and tumour tissue infiltration. An inverse correlation was observed between these two parameters (<italic toggle="yes">R</italic> = −0.414) (Figure <xref rid="ctm270149-supinfo-0001" ref-type="">S4</xref>). This finding suggests that increased infiltration of CD4<sup>+</sup> T cells within the TME is associated with decreased levels of circulating helper T cells.</p><p>Then, we also explored the proportions of peripheral immune cells before treatment (Day 0) to predict treatment responses. According to the treatment responses, we divided the patients into two groups: CR/PR (one CR and five PR) and SD (<italic toggle="yes">n</italic> = 5). There were no significant differences in the proportions of the various immune cells at Day 0 between CR/PR and SD groups (Figure <xref rid="ctm270149-supinfo-0001" ref-type="">S2</xref>).</p><p>We also analysed the proportions of various peripheral immune cells over time points using mixed‐effects ANOVA (Figure <xref rid="ctm270149-supinfo-0001" ref-type="">S3</xref>). Notably, S100A9<sup>+</sup> myelod‐derived suppressor cells (MDSCs), exhibited a significant increase after disease progression (<italic toggle="yes">p</italic> = .0045) (Figure <xref rid="ctm270149-fig-0003" ref-type="fig">3C</xref>). Additionally, another immunosuppressive cell population, regulatory T (Treg) cell, significantly declined after disease progression (<italic toggle="yes">p</italic> = .0121) (Figure <xref rid="ctm270149-fig-0003" ref-type="fig">3D</xref>).</p></sec></sec><sec id="ctm270149-sec-0150"><label>3</label><title>DISCUSSION</title><p>This study assessed the effectiveness of combining atezolizumab, bevacizumab, pemetrexed and carboplatin/cisplatin for <italic toggle="yes">EGFR</italic>‐mutated NSCLC patients resistant to EGFR TKIs. While the primary endpoint of response rate was not met, the combination therapy demonstrated encouraging disease control. Positive PD‐L1 expression (≥1%) correlated with higher ORR and longer PFS. Patients achieving complete or partial response showed greater peritumoural infiltration of NK cells. A lower percentage of helper T cells before treatment was correlated with longer PFS. Dynamic changes in immune cell profiles were observed. After disease progression, the proportion of S100A9<sup>+</sup> MDSCs increased, while Treg cells decreased.</p><p>Studies on combined ICIs, anti‐angiogenesis drugs and chemotherapy for NSCLC patients revealed varying response rates, ranged from 43.9 to 70.6%,<xref rid="ctm270149-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="ctm270149-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="ctm270149-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="ctm270149-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> exceeding those observed in the current study. This discrepancy may be attributed to differences in chemotherapy backbones and bevacizumab dosing regimens employed across studies.<xref rid="ctm270149-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="ctm270149-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="ctm270149-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="ctm270149-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="ctm270149-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> In contrast to IMpower 150 and ATTLAS studies,<xref rid="ctm270149-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="ctm270149-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> the current study utilised pemetrexed instead of paclitaxel. Furthermore, a lower dose of bevacizumab was administered in the current study compared with NEJ043 trial.<xref rid="ctm270149-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> While higher bevacizumab doses may potentially enhance efficacy, they are often associated with increased toxicity and reduced cost effectiveness.<xref rid="ctm270149-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="ctm270149-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Further studies are necessary to investigate the optimal chemotherapy regimen for this combination therapy approach.</p><p>The study followed the treatment regimen of Lam et al.,<xref rid="ctm270149-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> administering bevacizumab at 7.5 mg/kg every 3 weeks. While the observed response rate (RR) of 42.8% was lower than that reported by Lam et al.,<xref rid="ctm270149-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> it remained consistent with the phase III ORIENT‐31 trial.<xref rid="ctm270149-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> This discrepancy may stem from the limited sample size and varying PD‐L1 expression among enrolled patients' tumours. Multivariate analysis identified PD‐L1 expression as a significant predictor of both RR and PFS. Tumours with PD‐L1 expression (≥1%) exhibited a more favourable response to the immune‐chemotherapy combination. Notably, 63.6% of patients in this study had tumours lacking PD‐L1 expression (&lt;1%), surpassing the proportion observed in Lam et al.’s study.<xref rid="ctm270149-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> The heterogeneity in patient populations and chemotherapy regimens likely contributed to the observed response differences.</p><p>Despite the significant PFS benefit, there was no difference in OS in patients with PD‐L1‐positive IHC. The relatively small sample size of this study limits its power to assess OS. A larger phase III trial is necessary to definitively evaluate whether the observed PFS benefit in patients with positive PD‐L1 expression translates into a significant improvement in OS. Additionally, the heterogeneity of NSCLC, with diverse subtypes and molecular alterations, may influence the efficacy of treatment. The development of resistance mechanisms over time can further limit the long‐term benefit of these drugs, even if they initially demonstrate significant PFS improvements. Moreover, the impact of subsequent lines of therapy, which may vary in effectiveness, can also affect OS. These factors collectively may contribute to the observed discrepancy between PFS and OS benefits in this study.</p><p>Bevacizumab exhibits immunomodulatory effects when combined with immune ICIs beyond its anti‐angiogenic properties.<xref rid="ctm270149-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> It promotes dendritic cell maturation, facilitating T cell activation, and enhances T cell infiltration into tumours by normalising tumour vasculature.<xref rid="ctm270149-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="ctm270149-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Moreover, it reduces myeloid‐derived suppressor cells (MDSCs) and Treg cell populations, fostering an immune‐permissive TME.<xref rid="ctm270149-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="ctm270149-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> These effects synergise with ICIs to enhance their efficacy.</p><p>The optimal dosing regimen for bevacizumab in NSCLC remains an area of active investigation. While clinical guidelines offer varying recommendations, the AVAiL trial demonstrated improved PFS and OS with both 7.5 and 15 mg/kg bevacizumab in combination with chemotherapy compared with placebo.<xref rid="ctm270149-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> However, a post‐hoc analysis of Asian patients revealed a significant OS advantage with 7.5 mg/kg dose, associated with a lower incidence of severe adverse events.<xref rid="ctm270149-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> This suggests that a reduced dose of bevacizumab may offer a more favourable risk‐benefit profile for Asian NSCLC patients. Although direct comparisons between the two doses are limited by the absence of large‐scale randomised controlled trials, the phase III AVAiL trial provides additional support for the 7.5 mg/kg dose, demonstrating superior response rates. Furthermore, a retrospective real‐world study indicated no significant differences in efficacy or safety between the two dose groups.<xref rid="ctm270149-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Considering these findings and the potential immunomodulatory effects of bevacizumab, the current study opted for a 7.5 mg/kg dose to achieve a balance between efficacy and safety, while also minimising treatment costs.<xref rid="ctm270149-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="ctm270149-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</p><p>Osimertinib had been established as the standard first‐line modality for patients harbouring common <italic toggle="yes">EGFR</italic> mutations. However, in our study, patients previously treated with osimertinib had lower ORR and shorter PFS compared with those treated with first‐generation TKIs. Lam et al.<xref rid="ctm270149-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> reported that patients with acquired resistance to osimertinib experienced shorter PFS with the combination of atezolizumab, bevacizumab and chemotherapy compared with those without prior osimertinib exposure. Our previous retrospective study also identified prior osimertinib treatment as an adverse prognostic factor for patients treated with atezolizumab.<xref rid="ctm270149-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> This may be due to the fact that patients with prior osimertinib exposure often have a more advanced disease state, acquired resistance mutations such as T790M and/or having exhausted multiple lines of TKI therapy.</p><p>The phase II @Be study demonstrated the potential of combining bevacizumab and atezolizumab, achieving a 64% ORR in patients with PD‐L1 expression ≥50%, surpassing the 38.3% ORR with atezolizumab alone in high PD‐L1 expression subgroups of the IMpower110 study,<xref rid="ctm270149-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="ctm270149-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> which further supported this synergy between ICIs and bevacizumab in IMpower 150 trial.<xref rid="ctm270149-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> In addition, HARMONi‐A trial also showed that ivonescimab, a PD‐1/VEGF bispecific antibody, in combination with chemotherapy significantly improved PFS compared with chemotherapy alone in patients with <italic toggle="yes">EGFR</italic>‐mutated NSCLC who had progressed on EGFR‐TKI treatment.<xref rid="ctm270149-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> These findings highlight the importance of bevacizumab's immunomodulatory effect, particularly in tumours with low immunogenicity, such as those with <italic toggle="yes">EGFR</italic> mutations.</p><p>The MARIPOSA‐2 study demonstrated a PFS benefit for amivantamab combined with chemotherapy and/or lazertinib in patients with <italic toggle="yes">EGFR</italic>‐mutated NSCLC who had progressed on osimertinib.<xref rid="ctm270149-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> While the amivantamab‐containing regimens exhibited superior ORRs and comparable PFS compared with the current study, distinct toxicity profiles were observed.<xref rid="ctm270149-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Notably, infusion‐related reactions were more prevalent with amivantamab, and venous thromboembolism was a significant adverse event, particularly in patients receiving the triple combination of amivantamab, lazertinib and chemotherapy.<xref rid="ctm270149-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+</p><p>ICIs offer survival benefits for various malignancies, but their efficacy is limited in <italic toggle="yes">EGFR</italic>‐mutated or <italic toggle="yes">ALK</italic> rearranged NSCLC cases.<xref rid="ctm270149-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ctm270149-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="ctm270149-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> Robust biomarkers for predicting ICI response are lacking, prompting ongoing research. Studies explore diverse biomarkers including serum proteins, tumour‐specific receptors and TME factors.<xref rid="ctm270149-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="ctm270149-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> Tumour‐infiltrating lymphocytes and PD‐L1 expression hold prognostic and predictive value in NSCLC patients receiving ICIs.<xref rid="ctm270149-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ctm270149-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Our study confirms this, showing favourable response rates and longer PFS in tumours with PD‐L1 expression (≥1%). However, PD‐L1's predictive power remains limited due to assay variations and sample differences (fresh vs. archival).<xref rid="ctm270149-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="ctm270149-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> Re‐biopsy ensured fresh tissue analysis, providing a more accurate reflection of PD‐L1 expression and the TME.</p><p>We found higher levels of peritumour NK cells, immune cells that fight cancer, in responders' tumours, suggesting their potential role in treatment success. NK cells, innate lymphoid cells with potent tumour‐killing and immune‐regulatory functions, have emerged as critical players in anti‐tumour immunity. The infiltration of NK cells into tumour tissue has been correlated with favourable prognostic outcomes.<xref rid="ctm270149-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="ctm270149-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> Additionally, NK cells express various checkpoint molecules, including killer cell immunoglobulin‐like receptors, lymphocyte activation gene‐3 and PD‐1.<xref rid="ctm270149-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> Notably, activated NK cells, as a major source of IFN‐γ, contribute to tumour‐associated inflammation and upregulate PD‐L1 expression on tumour cells, promoting the regression of ‘hot’ tumours within an allergic inflammatory environment.<xref rid="ctm270149-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> PD‐1 expression on NK cells has been linked to diminished responsiveness. In mouse lymphoma models, PD‐1 impairs NK cell‐mediated immune surveillance, enabling tumour cell escape.<xref rid="ctm270149-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="ctm270149-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> In metastatic melanoma patients, responders to anti‐PD‐1 ICIs exhibited significantly higher densities of intra‐ and peritumoural CD16<sup>+</sup> and granzyme B<sup>+</sup> NK cells.<xref rid="ctm270149-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> Therefore, inhibition of the PD‐1/PD‐L1 axis through anti‐PD‐1/PD‐L1 therapy can alleviate the suppressive effects of the TME on NK cell function, thereby enhancing their cytotoxic activity and promoting tumour cell killing. This also aligns with the development of new NK cell‐based therapies.</p><p>Exploring peripheral blood‐based biomarkers for ICI response is gaining traction due to their non‐invasive nature and potential for serial monitoring. However, clinically validated biomarkers are lacking. Our study found a significant link between pre‐treatment peripheral blood helper T cell levels and PFS. Patients with lower percentage of helper T cell before treatment had longer PFS. Helper T cells, though often considered secondary players in antitumour immune responses, play a crucial role in orchestrating effective immunity. Helper T cells not only enhance the B cell response but also facilitate the cytotoxic T lymphocyte (CTL) response.<xref rid="ctm270149-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> Promoting the activity of CTLs within a tumour by helper T cells plays a crucial role in cancer immunotherapy.<xref rid="ctm270149-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>, <xref rid="ctm270149-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Without this support, memory CTLs exhibit dysfunctional phenotypes characterised by the expression of inhibitory receptors.<xref rid="ctm270149-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>, <xref rid="ctm270149-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> Recent studies have highlighted the pivotal role of helper T cells in initiating and sustaining anti‐PD‐1 immunotherapy responses.<xref rid="ctm270149-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Furthermore, previous research has demonstrated that pretreatment CD4<sup>+</sup> T cell counts, particularly those with a memory phenotype or high differentiation level, are associated with favourable treatment outcomes and prolonged PFS.<xref rid="ctm270149-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="ctm270149-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> Inomata et al.<xref rid="ctm270149-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> reported a correlation between an early increase in PD‐1<sup>+</sup>CD4<sup>+</sup> T cells after initiating ICIs and improved PFS in NSCLC patients. While our study did not differentiate based on CD27/CD28 expression, other research suggests specifics the CD4<sup>+</sup> T cell subsets may predict treatment response and longer PFS in immunotherapy patients.<xref rid="ctm270149-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="ctm270149-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> Given their critical role in immune responses, further research is needed to understand the role of systemic CD4<sup>+</sup> T cell immunity in predicting treatment response.</p><p>Our study also showed a counterintuitive increase in circulating S100A9<sup>+</sup> MDSCs following disease progression, aligning with prior studies.<xref rid="ctm270149-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>, <xref rid="ctm270149-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref> These results suggest that profiling peripheral blood immune cell dynamics could predict treatment efficacy and patient prognosis in ICIs therapy. Targeting S100A9<sup>+</sup> MDSCs may overcome acquired resistance to immunochemotherapy and anti‐angiogenesis agents.</p><p>Kang et al.<xref rid="ctm270149-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> reported that higher Tregs cells before ICIs correlated with poor ICI response. However, our study did not identify specific baseline immune cells predicting the combination treatment response. Discrepancies may stem from differences in treatment regimens, particularly the combined therapy employed here, enhancing ICIs effects. Additionally, antiangiogenic drugs reprogrammed immunosuppressive TMEs to supportive ones, potentially diminishing the predictive effect of Tregs.<xref rid="ctm270149-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>, <xref rid="ctm270149-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>
+</p><p>The study's limitations include small sample size, single‐arm design and a homogeneous population. Larger phase III trials are needed for broader validation. Additionally, limited sample size for immune cell studies restricts immune profiling exploration. However, the study identified pre‐treatment peritumour NK cell infiltration, circulating S100A9<sup>+</sup> MDSC and Tregs as potential biomarkers, suggesting the promise of immune cell profiling for personalised treatment with combined immunotherapy and chemotherapy. Further research is needed for validation.</p><p>In conclusion, this study demonstrates the promising efficacy of combining atezolizumab, bevacizumab, pemetrexed and cisplatin/carboplatin in <italic toggle="yes">EGFR</italic>‐mutated NSCLC patients who progressed on TKI therapy. Positive PD‐L1 expression (≥1%) correlated with higher ORRs and longer PFS. Furthermore, immune cell profiling may aid in identifying patients who may benefit from this approach.</p></sec><sec id="ctm270149-sec-0160"><label>4</label><title>MATERIAL AND METHODS</title><sec id="ctm270149-sec-0170"><label>4.1</label><title>Study approved</title><p>The study adhered to the ethical principles of the Declaration of Helsinki and obtained approval from the Institutional Review Board of the National Taiwan University Hospital (REC Nos. 201908090MIFA). It was registered at ClinicalTrials.gov under the identifier <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04147351">NCT04147351</ext-link>. Prior to treatment initiation, all participating patients provided informed consent for molecular analyses. Interim analysis results were presented at ELCC 2022.<xref rid="ctm270149-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>
+</p></sec><sec id="ctm270149-sec-0180"><label>4.2</label><title>Study design</title><p>This single‐centre, single‐arm phase II trial enrolled stage IIIB‐IV NSCLC patients with activating <italic toggle="yes">EGFR</italic> mutations after acquired resistance to EGFR TKIs. Lung cancer staging followed the eighth edition of the International Association for the Study of Lung Cancer TNM system.<xref rid="ctm270149-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref>
+</p><p>After screening for bone marrow function, organ function and measurable target lesions on CT scans, patients underwent <italic toggle="yes">EGFR</italic> genotyping on re‐biopsied samples. Patients with re‐biopsyed tissue samples without <italic toggle="yes">EGFR<sup>T790M</sup>
+</italic> mutations detected were enrolled. Additionally, PD‐L1 immunohistochemical (IHC) stain was performed using validated assays (Dako 22C3 or Ventana SP263).</p><p>The major exclusion criteria were history of previous exposure to platinum‐based chemotherapy, anti‐angiogenesis or ICIs (Supplementary Study Protocol). Patients with untreated symptomatic brain metastases or leptomeningeal disease were excluded. The patients whose re‐biopsy tissue showed <italic toggle="yes">EGFR<sup>T790M</sup>
+</italic> or exon20 insertion were also excluded because these tumour progression was still dependent on <italic toggle="yes">EGFR</italic> activation, which had less response to ICIs.</p><p>In the induction phase, patients received atezolizumab 1200 mg, bevacizumab 7.5 mg/kg, pemetrexed 500 mg/m<sup>2</sup> and cisplatin 75 mg/m<sup>2</sup> or carboplatin (creatinine clearance &lt; 60 mL/min) AUC 5 mg/mL/min intravenously every 3 weeks for four cycles.</p><p>In the maintenance phase, patients continued atezolizumab, bevacizumab and pemetrexed. Bevacizumab and pemetrexed continued until disease progression, unacceptable toxicity or death. Atezolizumab could continue beyond radiographic progression by Response Evaluation Criteria in Solid Tumours (RECIST) version 1.1 if the investigator judged clinical benefit.</p></sec><sec id="ctm270149-sec-0190"><label>4.3</label><title>Disease monitoring and treatment efficacy evaluation</title><p>The primary endpoint of this investigation was ORR. Secondary endpoints comprised PFS, DoR and OS. Tumour imaging by chest, abdomen and brain CT was performed at baseline, every 6 weeks for the first 18 weeks, then every 9 weeks through the first 12 months, and every 12 weeks thereafter. Brain magnetic resonance imaging (MRI) was also an acceptable alternative brain imaging modality. Response assessments were conducted according to RECIST version 1.1, and treatment decisions were determined by the investigator.</p><p>PFS was defined as the time from date of enrolment to radiographically documented progression by RECIST version 1.1 or death from any cause (whichever occurred first). Participants alive and progression‐free, or lost to follow‐up, were censored at their last radiographic assessment. DoR was defined as the time from documented tumour response to radiographic disease progression or death. OS was measured from date of enrolment to death from any cause.</p></sec><sec id="ctm270149-sec-0200"><label>4.4</label><title>Safety outcome measures</title><p>During treatment, vital signs, physical examinations and urine protein dipstick tests were performed. Comprehensive serum chemistry panels complete blood counts with differentials were assessed every 3 weeks. Thyroid function tests were assessed at baseline, Week 3 and every 12 weeks thereafter. Patient survival were monitored every 8 weeks during the follow‐up phase.</p><p>Adverse events were reviewed. All adverse events and laboratory abnormalities were evaluated and graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (version 5.0).</p></sec><sec id="ctm270149-sec-0210"><label>4.5</label><title>Explore the TME by opal multiplex immunofluorescence staining</title><p>We employed an innovative multiplexed IHC imaging technique (Opal 6‐Plex Manual Detection Kit; Akoya Biosciences®). We performed tissue pre‐treatment and antibody incubation according to a previous publication,<xref rid="ctm270149-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>, <xref rid="ctm270149-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> but we replaced the secondary antibody with the EnVision plus detection system (Dako # K5007). The slides were washed, and the designated tyramide signal amplification dye (Opal 6‐Color kit; Akoya Biosciences®) was applied for 10 min according to the manufacturer's instructions. The slides were heated in retrieval buffer in a steamer to strip primary and secondary antibodies and pretreat the next staining target. Then, the cool down, blocking and antibody and Opal dye incubation steps were repeated for five more staining cycles. The primary antibodies used in the Lymphocytic Panel for separate incubation were as follows: CD4 (Abcam Cat# ab133616, RRID:AB_2750883, 1:1500); CD56 (Dako Cat# M7304, RRID:AB_2750583, 1:100); CD8 (Dako Cat# M7103, RRID:AB_2075537, 1:100); granzyme B (Monosan Cat# MON7029C, 1:500); FoxP3 (Biolegend Cat# 320102, RRID:AB_430881, 1:1000); and PanCK (Dako Cat# M3515, RRID:AB_2132885, 1:100). For the Immune Checkpoint Panel, staining will be followed by the following antibodies, including PD‐L1 (Cell Signaling Technology Cat# 13684, RRID:AB_2687655, 1:250), CD8 (Dako Cat# M7103, RRID:AB_2075537, 1:100), PD‐1 (Cell Signaling Technology Cat# 86163, RRID:AB_2728833, 1:200), CD163 (Leica Biosystems Cat# NCL‐L‐CD163, RRID:AB_2756375, 1:100), CD68 (Dako Cat# M0876, RRID:AB_2074844, 1:500) and PanCK (Dako Cat# M3515, RRID:AB_2132885, 1:100) (Tables <xref rid="ctm270149-supinfo-0001" ref-type="">S1</xref> and <xref rid="ctm270149-supinfo-0001" ref-type="">S2</xref>). We calculated the immune cells in the tumour area, which was defined as an immune cell density.</p></sec><sec id="ctm270149-sec-0220"><label>4.6</label><title>Peripheral immune cell analysis</title><p>Additionally, the study investigated the peripheral immune cells and explored potential biomarkers for immunotherapy. Prior to treatment initiation, peripheral blood was collected from enrolled patients to identify potential immunotherapy biomarkers. Peripheral blood was collected before Cycle 1 (Day 0), post‐Cycle 1 (Week 2 ± 1), post‐Cycle 2 (Week 6), post‐Cycle 4 (Week 12) and after disease progression. Flow cytometry‐based comprehensive immune phenotyping of peripheral blood mononuclear cells (PBMCs) was performed. PBMCs were isolated using density‐gradient centrifugation and stained with various antibodies for analysis which were purchased from BioLegend (Table <xref rid="ctm270149-supinfo-0001" ref-type="">S3</xref>). Immune suppressor cells, including MDSCs and Treg cells, were also evaluated. The surface markers of immune cell populations were listed in Table <xref rid="ctm270149-supinfo-0001" ref-type="">S4</xref>. Furthermore, patients were stratified into low and high immune cell groups based on the median peripheral immune cell count to evaluate the association with PFS.</p></sec><sec id="ctm270149-sec-0230"><label>4.7</label><title>Statistics</title><p>Patient demographic characteristics and adverse event frequencies were summarised using descriptive statistical methods. All patients who received at least one dose of the study drug were eligible for safety evaluation. To ensure accurate reporting, patients were counted only once per preferred term, system organ class and individual patient.</p><p>According to the prior reports about the combination regimens for <italic toggle="yes">EGFR</italic> mutation‐positive patients, the range of the response rate was 43.9–70.6%.<xref rid="ctm270149-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="ctm270149-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="ctm270149-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="ctm270149-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> We adopted a clinically relevant response rate of 50% to determine the necessary sample size, and Simon's optimal two‐stage design was used.<xref rid="ctm270149-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref> Twenty participants were calculated for a type I error of 0.2 and power of 0.8, with an initial enrolment of six patients. If one or fewer responses were seen, the trial would end. Otherwise, 14 more patients would be added for a total of 20. If seven or fewer responses were observed by the second stage, the null hypothesis would be maintained, halting further investigation. Factoring in a 10% dropout rate, 22 patients were targeted for enrolment. Kaplan–Meier method was used to calculate PFS, OS and DoR with two‐sided 95% confidence intervals (95% CIs).</p><p>A non‐parametric Mann–Whitney <italic toggle="yes">U</italic> test was used to compare the proportions of peripheral immune cells between groups (CR/PR vs. SD) across different time points. Finally, serial measurements of peripheral blood immune cells were analysed using mixed‐effects ANOVA to assess the temporal effect (changes over time).</p></sec></sec><sec id="ctm270149-sec-0240"><title>AUTHOR CONTRIBUTIONS</title><p>S. G. W. and J. Y. S. designed the study and analysed the data. S. G. W. and J. Y. S. wrote and edited the manuscript. S. G. W., C. C. H., J. C. H. Y., B. C. L., C. Y. Y., Y. T. L., C. J. Y., W. Y. L. and J. Y. S. enrolled the patients and collect clinical data. S. H. Y., K. Y. Y. and W. S. K. performed Opal multiplex immunofluorescence staining and analysis immune cells in tumour samples. Y. F. L. and S. C. L. performed statistical analysis about the serial dynamic changes of peripheral immune cells. Y. T. C. was a consultant to contributed the flowcytometry analysis of peripheral immune cells. All the authors have approved the manuscript. The work reported in the paper has been performed by the authors, unless clearly specified in the text.</p></sec><sec sec-type="COI-statement" id="ctm270149-sec-0260"><title>CONFLICT OF INTEREST STATEMENT</title><p>S. G. W. received speaking honoraria from Takeda, Amgen, AstraZeneca, Pfizer, Roche, Chugai Pharma, Boehringer Ingelheim, Janssen, Novartis and Eli Lilly. C. C. H. has received grants from Astra Zeneca; and honorariums/speaker fees from Boehringer Ingelheim, Eli Lilly, Roche/Genentech/Chugai, MSD, Pfizer, Novartis, Bristol‐Myers Squibb and Ono Pharmaceutical. J. Y. S. has served as an advisory board member from Amgen, AstraZeneca, Roche, Pfizer, Novartis, Merck Sharp &amp; Dohme, Takeda, CStone Pharmaceuticals, Janssen and Bristol‐Myers Squibb; received speaking honoraria from ACT Genomics; Amgen, Chugai Pharma, CStone Pharmaceuticals, Bayer, AstraZeneca, Eli Lilly, Boehringer Ingelheim, Genconn Biotech, Roche, Novartis, TTY Biopharm, Pfizer, Orient EuroPharma, MundiPharma, Takeda, Janssen, Merck Sharp &amp; Dohme and Bristol‐Myers Squibb; and received a grant from F. Hoffmann‐La Roche Ltd. W. Y. L. has served as an advisory board member and received speaker's bureau from AstraZeneca, Roche, Boehringer Ingelheim, Eli Lilly, Pfizer, MSD Oncology, Novartis, Bristol‐Myers Squibb and Chugai Pharma Taiwan. J. C. H. Y. has received research grant from AstraZeneca; institutional fee for advisory or consultancy services from Amgen, AstraZeneca, Bayer, Boehringer Ingelheim, Bristol‐Myers Squibb, Daiichi Sankyo, Eli Lilly, Merck, Merck Sharp &amp; Dohme, Novartis, Roche/Genentech, Takeda Oncology, Yuhan Parmaceuticals and JNJ; advisory or consultancy services from Ono Pharmaceuticals and Pfizer; and institutional fee for advisory services from advisory services from Puma Technology, Gilead and GSK. Y. T. L. has received speaking honoraria from ACT Genomics, AstraZeneca, Boehringer Ingelheim, Bristol‐Myers Squibb, Chugai Pharmaceutical, Eli Lilly, Illumina, Janssen, Manudipharma, Merck, Merck Sharp &amp; Dohme, Novartis, Pfizer, Roche and Takeda; and support for attending meetings from Bristol‐Myers Squibb, Novartis and Takeda. C. Y. Y. has received speaking honoraria from AstraZeneca, Roche, Boehringer Ingelheim, Pfizer, Novartis, Bristol‐Myers Squibb, Ono Pharmaceutical, Merck Sharp &amp; Dohme and Eli Lilly. All other authors declare no conflicts of interest.</p></sec><sec id="ctm270149-sec-0290"><title>ETHICS STATEMENT</title><p>The study was conducted in accordance with the guidelines of the Declaration of Helsinki and approved by the Institutional Review Board of the National Taiwan University Hospital (REC Nos. 201908090MIFA and 202001101RIPB). All enrolled patients signed informed consent for molecular analyses before obtaining the tissue specimens.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ctm270149-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="ctm270149-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CTM2-15-e70149-s001.pdf" position="float" orientation="portrait"><?suppdata-name CTM2-15-e70149-s001.pdf?><?suppdata-size 761930?><?suppdata-md5 05b29b02b199a617aefa66572a033106?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:a471/11666332/05b29b02b199/CTM2-15-e70149-s001.pdf?></media></supplementary-material></sec></body><back><ack id="ctm270149-sec-0250"><title>ACKNOWLEDGEMENTS</title><p>The authors thank F. Hoffmann‐La Roche Ltd to fund the trial. The authors thank the patients, their families, all study investigators for their contributions to the study. The authors also sincerely thank the 3rd Core Lab, Department of Medical Research, National Taiwan University Hospital, for providing laboratory facilities. This work was funded by F. Hoffmann‐La Roche Ltd, but the funder was not involved in the study design, data collection, data analysis, data interpretation or manuscript writing. The corresponding author had full access to the data and had final responsibility for the decision to submit for publication. This study was also granted by Ministry of Health and Welfare (MOHW CTC110(MQ999), CTC‐202108; 111‐CTC0030, 112‐CTC0019), the National Science and Technology Council, R. O. C. (grant numbers:MOST 09‐2628‐B‐002‐029; NSTC 112‐2628‐B‐002‐016‐MY3), National Taiwan University Hospital, Taipei, Taiwan (grant numbers 109‐N4721) and National Taiwan University Hospital, Cancer Center branch, Taipei, Taiwan (grant numbers NTUCCS‐112‐01).</p></ack><sec sec-type="data-availability" id="ctm270149-sec-0280"><title>DATA AVAILABILITY STATEMENT</title><p>The datasets analysed during the current study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="ctm270149-bibl-0001"><title>REFERENCES</title><ref id="ctm270149-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ctm270149-cit-0001">
+<string-name name-style="western">
+<surname>Mok</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thongprasert</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Gefitinib or carboplatin‐paclitaxel in pulmonary adenocarcinoma</article-title>. <source>N Engl J Med</source>. <year>2009</year>;<volume>361</volume>(<issue>10</issue>):<fpage>947</fpage>‐<lpage>957</lpage>.<pub-id pub-id-type="pmid">19692680</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa0810699</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ctm270149-cit-0002">
+<string-name name-style="western">
+<surname>Maemondo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inoue</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kobayashi</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Gefitinib or chemotherapy for non‐small‐cell lung cancer with mutated EGFR</article-title>. <source>N Engl J Med</source>. <year>2010</year>;<volume>362</volume>(<issue>25</issue>):<fpage>2380</fpage>‐<lpage>2388</lpage>.<pub-id pub-id-type="pmid">20573926</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa0909530</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ctm270149-cit-0003">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Erlotinib versus chemotherapy as first‐line treatment for patients with advanced EGFR mutation‐positive non‐small‐cell lung cancer (OPTIMAL, CTONG‐0802): a multicentre, open‐label, randomised, phase 3 study</article-title>. <source>Lancet Oncol</source>. <year>2011</year>;<volume>12</volume>(<issue>8</issue>):<fpage>735</fpage>‐<lpage>742</lpage>.<pub-id pub-id-type="pmid">21783417</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(11)70184-X</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ctm270149-cit-0004">
+<string-name name-style="western">
+<surname>Sequist</surname>
+<given-names>LV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamamoto</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Phase III study of afatinib or cisplatin plus pemetrexed in patients with metastatic lung adenocarcinoma with EGFR mutations</article-title>. <source>J Clin Oncol</source>. <year>2013</year>;<volume>31</volume>(<issue>27</issue>):<fpage>3327</fpage>‐<lpage>3334</lpage>.<pub-id pub-id-type="pmid">23816960</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2012.44.2806</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ctm270149-cit-0005">
+<string-name name-style="western">
+<surname>Janne</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>DW</given-names>
+</string-name>, et al. <article-title>AZD9291 in EGFR inhibitor‐resistant non‐small‐cell lung cancer</article-title>. <source>N Engl J Med</source>. <year>2015</year>;<volume>372</volume>(<issue>18</issue>):<fpage>1689</fpage>‐<lpage>1699</lpage>.<pub-id pub-id-type="pmid">25923549</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1411817</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ctm270149-cit-0006">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arcila</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rekhtman</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Analysis of tumor specimens at the time of acquired resistance to EGFR‐TKI therapy in 155 patients with EGFR‐mutant lung cancers</article-title>. <source>Clin Cancer Res</source>. <year>2013</year>;<volume>19</volume>(<issue>8</issue>):<fpage>2240</fpage>‐<lpage>2247</lpage>.<pub-id pub-id-type="pmid">23470965</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-12-2246</pub-id><pub-id pub-id-type="pmcid">PMC3630270</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ctm270149-cit-0007">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hung</surname>
+<given-names>JY</given-names>
+</string-name>, et al. <article-title>Pemetrexed had significantly better clinical efficacy in patients with stage IV lung adenocarcinoma with susceptible EGFR mutations receiving platinum‐based chemotherapy after developing resistance to the first‐line gefitinib treatment</article-title>. <source>Onco Targets Ther</source>. <year>2016</year>;<volume>9</volume>:<fpage>1579</fpage>‐<lpage>1587</lpage>.<pub-id pub-id-type="pmid">27051298</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S100164</pub-id><pub-id pub-id-type="pmcid">PMC4803239</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ctm270149-cit-0008">
+<string-name name-style="western">
+<surname>Tseng</surname>
+<given-names>Y‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hung</surname>
+<given-names>H‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sung</surname>
+<given-names>Y‐C</given-names>
+</string-name>, et al. <article-title>Efficacy of chemotherapy in epidermal growth factor receptor (EGFR) mutated metastatic pulmonary adenocarcinoma patients who had acquired resistance to first‐line EGFR tyrosine kinase inhibitor (TKI)</article-title>. <source>J Chemother</source>. <year>2016</year>;<volume>28</volume>(<issue>1</issue>):<fpage>50</fpage>‐<lpage>58</lpage>.<pub-id pub-id-type="pmid">25976428</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1179/1973947815Y.0000000027</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ctm270149-cit-0009">
+<string-name name-style="western">
+<surname>Topalian</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hodi</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brahmer</surname>
+<given-names>JR</given-names>
+</string-name>, et al. <article-title>Safety, activity, and immune correlates of anti‐PD‐1 antibody in cancer</article-title>. <source>N Engl J Med</source>. <year>2012</year>;<volume>366</volume>(<issue>26</issue>):<fpage>2443</fpage>‐<lpage>2454</lpage>.<pub-id pub-id-type="pmid">22658127</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1200690</pub-id><pub-id pub-id-type="pmcid">PMC3544539</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ctm270149-cit-0010">
+<string-name name-style="western">
+<surname>Brahmer</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tykodi</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chow</surname>
+<given-names>LQ</given-names>
+</string-name>, et al. <article-title>Safety and activity of anti‐PD‐L1 antibody in patients with advanced cancer</article-title>. <source>N Engl J Med</source>. <year>2012</year>;<volume>366</volume>(<issue>26</issue>):<fpage>2455</fpage>‐<lpage>2465</lpage>.<pub-id pub-id-type="pmid">22658128</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1200694</pub-id><pub-id pub-id-type="pmcid">PMC3563263</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ctm270149-cit-0011">
+<string-name name-style="western">
+<surname>Herbst</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baas</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>DW</given-names>
+</string-name>, et al. <article-title>Pembrolizumab versus docetaxel for previously treated, PD‐L1‐positive, advanced non‐small‐cell lung cancer (KEYNOTE‐010): a randomised controlled trial</article-title>. <source>Lancet</source>. <year>2016</year>;<volume>387</volume>(<issue>10027</issue>):<fpage>1540</fpage>‐<lpage>1550</lpage>.<pub-id pub-id-type="pmid">26712084</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(15)01281-7</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ctm270149-cit-0012">
+<string-name name-style="western">
+<surname>Socinski</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jotte</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cappuzzo</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Atezolizumab for first‐line treatment of metastatic nonsquamous NSCLC</article-title>. <source>N Engl J Med</source>. <year>2018</year>;<volume>378</volume>(<issue>24</issue>):<fpage>2288</fpage>‐<lpage>2301</lpage>.<pub-id pub-id-type="pmid">29863955</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1716948</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ctm270149-cit-0013">
+<string-name name-style="western">
+<surname>Offin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rizvi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tenet</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Tumor mutation burden and efficacy of EGFR‐tyrosine kinase inhibitors in patients with EGFR‐mutant lung cancers</article-title>. <source>Clin Cancer Res</source>. <year>2019</year>;<volume>25</volume>(<issue>3</issue>):<fpage>1063</fpage>‐<lpage>1069</lpage>.<pub-id pub-id-type="pmid">30045933</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-18-1102</pub-id><pub-id pub-id-type="pmcid">PMC6347551</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ctm270149-cit-0014">
+<string-name name-style="western">
+<surname>Dong</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>SY</given-names>
+</string-name>, et al. <article-title>EGFR mutation correlates with uninflamed phenotype and weak immunogenicity, causing impaired response to PD‐1 blockade in non‐small cell lung cancer</article-title>. <source>Oncoimmunology</source>. <year>2017</year>;<volume>6</volume>(<issue>11</issue>):<elocation-id>e1356145</elocation-id>.<pub-id pub-id-type="pmid">29147605</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/2162402X.2017.1356145</pub-id><pub-id pub-id-type="pmcid">PMC5674946</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ctm270149-cit-0015">
+<string-name name-style="western">
+<surname>Isomoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haratani</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayashi</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Impact of EGFR‐TKI treatment on the tumor immune microenvironment in EGFR mutation‐positive non‐small cell lung cancer</article-title>. <source>Clin Cancer Res</source>. <year>2020</year>;<volume>26</volume>(<issue>8</issue>):<fpage>2037</fpage>‐<lpage>2046</lpage>.<pub-id pub-id-type="pmid">31937613</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-19-2027</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ctm270149-cit-0016">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>JC‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>J‐S</given-names>
+</string-name>, et al. <article-title>Pemetrexed and platinum with or without pembrolizumab for tyrosine kinase inhibitor (TKI)‐resistant, EGFR‐mutant, metastatic nonsquamous NSCLC: phase 3 KEYNOTE‐789 study</article-title>. <source>J Clin Oncol</source>. <year>2023</year>;<volume>41</volume>(<issue>17</issue>):<fpage>LBA9000</fpage>‐<lpage>LBA9000</lpage>. suppl.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.23.02747</pub-id><pub-id pub-id-type="pmcid">PMC11608596</pub-id><pub-id pub-id-type="pmid">39173098</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ctm270149-cit-0017">
+<string-name name-style="western">
+<surname>Mok</surname>
+<given-names>TSK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakagawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>LBA8 Nivolumab (NIVO) + chemotherapy (chemo) vs chemo in patients (pts) with EGFR‐mutated metastatic non‐small cell lung cancer (mNSCLC) with disease progression after EGFR tyrosine kinase inhibitors (TKIs) in CheckMate 722</article-title>. <source>Ann Oncol</source>. <year>2022</year>;<volume>33</volume>:<fpage>S1561</fpage>‐<lpage>S1562</lpage>.</mixed-citation></ref><ref id="ctm270149-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ctm270149-cit-0018">
+<string-name name-style="western">
+<surname>Park</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>JY</given-names>
+</string-name>, et al. <article-title>A phase 3, randomized study of atezolizumab plus bevacizumab and chemotherapy in patients with EGFR or ALK mutated in non‐small cell lung cancer (ATTLAS, KCSG‐LU19‐04)</article-title>. <source>J Clin Oncol</source>. <year>2023</year>:<elocation-id>101200jco2301891</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.23.01891</pub-id><pub-id pub-id-type="pmcid">PMC11095857</pub-id><pub-id pub-id-type="pmid">37861993</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ctm270149-cit-0019">
+<string-name name-style="western">
+<surname>Shiraishi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kishimoto</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sugawara</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Atezolizumab and platinum plus pemetrexed with or without bevacizumab for metastatic nonsquamous non‐small cell lung cancer: a phase 3 randomized clinical trial</article-title>. <source>JAMA Oncol</source>. <year>2024</year>;<volume>10</volume>(<issue>3</issue>):<fpage>315</fpage>‐<lpage>324</lpage>.<pub-id pub-id-type="pmid">38127362</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaoncol.2023.5258</pub-id><pub-id pub-id-type="pmcid">PMC10739077</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ctm270149-cit-0020">
+<string-name name-style="western">
+<surname>Fukumura</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kloepper</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amoozgar</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Enhancing cancer immunotherapy using antiangiogenics: opportunities and challenges</article-title>. <source>Nat Rev Clin Oncol</source>. <year>2018</year>;<volume>15</volume>(<issue>5</issue>):<fpage>325</fpage>‐<lpage>340</lpage>.<pub-id pub-id-type="pmid">29508855</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrclinonc.2018.29</pub-id><pub-id pub-id-type="pmcid">PMC5921900</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ctm270149-cit-0021">
+<string-name name-style="western">
+<surname>Watanabe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Furuya</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakamura</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>A phase II study of atezolizumab with bevacizumab, carboplatin, and paclitaxel for patients with <italic toggle="yes">EGFR</italic>‐mutated NSCLC after TKI treatment failure (NEJ043 study)</article-title>. <source>Eur J Cancer</source>. <year>2024</year>;<volume>197</volume>:<elocation-id>113469</elocation-id>.<pub-id pub-id-type="pmid">38061214</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejca.2023.113469</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ctm270149-cit-0022">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>OA09.06 IMpower151: phase III study of atezolizumab + bevacizumab + chemotherapy in 1L metastatic nonsquamous NSCLC</article-title>. <source>J Thorac Oncol</source>. <year>2023</year>;<volume>18</volume>(<issue>11</issue>):<fpage>S64</fpage>‐<lpage>S65</lpage>. Supplement.</mixed-citation></ref><ref id="ctm270149-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ctm270149-cit-0023">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jian</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Sintilimab plus chemotherapy for patients with <italic toggle="yes">EGFR</italic>‐mutated non‐squamous non‐small‐cell lung cancer with disease progression after EGFR tyrosine‐kinase inhibitor therapy (ORIENT‐31): second interim analysis from a double‐blind, randomised, placebo‐controlled, phase 3 trial</article-title>. <source>Lancet Respir Med</source>. <year>2023</year>;<volume>11</volume>(<issue>7</issue>):<fpage>624</fpage>‐<lpage>636</lpage>.<pub-id pub-id-type="pmid">37156249</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(23)00135-2</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ctm270149-cit-0024">
+<string-name name-style="western">
+<surname>Lam</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsang</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>HC</given-names>
+</string-name>, et al. <article-title>Combination atezolizumab, bevacizumab, pemetrexed and carboplatin for metastatic EGFR mutated NSCLC after TKI failure</article-title>. <source>Lung Cancer</source>. <year>2021</year>;<volume>159</volume>:<fpage>18</fpage>‐<lpage>26</lpage>.<pub-id pub-id-type="pmid">34303276</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lungcan.2021.07.004</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ctm270149-cit-0025">
+<string-name name-style="western">
+<surname>Midha</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dearden</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCormack</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>EGFR mutation incidence in non‐small‐cell lung cancer of adenocarcinoma histology: a systematic review and global map by ethnicity (mutMapII)</article-title>. <source>Am J Cancer Res</source>. <year>2015</year>;<volume>5</volume>(<issue>9</issue>):<fpage>2892</fpage>‐<lpage>2911</lpage>.<pub-id pub-id-type="pmid">26609494</pub-id>
+<pub-id pub-id-type="pmcid">PMC4633915</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ctm270149-cit-0026">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qu</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Phase III trials of standard chemotherapy with or without bevacizumab for ovarian cancer: a meta‐analysis</article-title>. <source>PLoS One</source>. <year>2013</year>;<volume>8</volume>(<issue>12</issue>):<elocation-id>e81858</elocation-id>.<pub-id pub-id-type="pmid">24324725</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0081858</pub-id><pub-id pub-id-type="pmcid">PMC3853655</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ctm270149-cit-0027">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jian</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Sintilimab plus bevacizumab biosimilar IBI305 and chemotherapy for patients with EGFR‐mutated non‐squamous non‐small‐cell lung cancer who progressed on EGFR tyrosine‐kinase inhibitor therapy (ORIENT‐31): first interim results from a randomised, double‐blind, multicentre, phase 3 trial</article-title>. <source>Lancet Oncol</source>. <year>2022</year>;<volume>23</volume>(<issue>9</issue>):<fpage>1167</fpage>‐<lpage>1179</lpage>.<pub-id pub-id-type="pmid">35908558</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(22)00382-5</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ctm270149-cit-0028">
+<string-name name-style="western">
+<surname>Ahn</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsia</surname>
+<given-names>TC</given-names>
+</string-name>, et al. <article-title>Cost‐effectiveness of bevacizumab‐based therapy versus cisplatin plus pemetrexed for the first‐line treatment of advanced non‐squamous NSCLC in Korea and Taiwan</article-title>. <source>Asia Pac J Clin Oncol</source>. <year>2011</year>;<volume>7</volume>(<issue>2</issue>):<fpage>22</fpage>‐<lpage>33</lpage>. Suppl.<pub-id pub-id-type="pmid">21585705</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1743-7563.2011.01399.x</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ctm270149-cit-0029">
+<string-name name-style="western">
+<surname>Ferrara</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hillan</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gerber</surname>
+<given-names>HP</given-names>
+</string-name>, et al. <article-title>Discovery and development of bevacizumab, an anti‐VEGF antibody for treating cancer</article-title>. <source>Nat Rev Drug Discov</source>. <year>2004</year>;<volume>3</volume>(<issue>5</issue>):<fpage>391</fpage>‐<lpage>400</lpage>.<pub-id pub-id-type="pmid">15136787</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrd1381</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ctm270149-cit-0030">
+<string-name name-style="western">
+<surname>Motz</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santoro</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>LP</given-names>
+</string-name>, et al. <article-title>Tumor endothelium FasL establishes a selective immune barrier promoting tolerance in tumors</article-title>. <source>Nat Med</source>. <year>2014</year>;<volume>20</volume>(<issue>6</issue>):<fpage>607</fpage>‐<lpage>615</lpage>.<pub-id pub-id-type="pmid">24793239</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm.3541</pub-id><pub-id pub-id-type="pmcid">PMC4060245</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="ctm270149-cit-0031">
+<string-name name-style="western">
+<surname>Wallin</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bendell</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Funke</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Atezolizumab in combination with bevacizumab enhances antigen‐specific T‐cell migration in metastatic renal cell carcinoma</article-title>. <source>Nat Commun</source>. <year>2016</year>;<volume>7</volume>:<elocation-id>12624</elocation-id>.<pub-id pub-id-type="pmid">27571927</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms12624</pub-id><pub-id pub-id-type="pmcid">PMC5013615</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="ctm270149-cit-0032">
+<string-name name-style="western">
+<surname>Roland</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lynn</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toombs</surname>
+<given-names>JE</given-names>
+</string-name>, et al. <article-title>Cytokine levels correlate with immune cell infiltration after anti‐VEGF therapy in preclinical mouse models of breast cancer</article-title>. <source>PLoS One</source>. <year>2009</year>;<volume>4</volume>(<issue>11</issue>):<elocation-id>e7669</elocation-id>.<pub-id pub-id-type="pmid">19888452</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0007669</pub-id><pub-id pub-id-type="pmcid">PMC2766251</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="ctm270149-cit-0033">
+<string-name name-style="western">
+<surname>Facciabene</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagemann</surname>
+<given-names>IS</given-names>
+</string-name>, et al. <article-title>Tumour hypoxia promotes tolerance and angiogenesis via CCL28 and T(reg) cells</article-title>. <source>Nature</source>. <year>2011</year>;<volume>475</volume>(<issue>7355</issue>):<fpage>226</fpage>‐<lpage>230</lpage>.<pub-id pub-id-type="pmid">21753853</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature10169</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="ctm270149-cit-0034">
+<string-name name-style="western">
+<surname>Reck</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>von Pawel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zatloukal</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Phase III trial of cisplatin plus gemcitabine with either placebo or bevacizumab as first‐line therapy for nonsquamous non‐small‐cell lung cancer: aVAil</article-title>. <source>J Clin Oncol</source>. <year>2009</year>;<volume>27</volume>(<issue>8</issue>):<fpage>1227</fpage>‐<lpage>1234</lpage>.<pub-id pub-id-type="pmid">19188680</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2007.14.5466</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="ctm270149-cit-0035">
+<string-name name-style="western">
+<surname>Mok</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsia</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>CM</given-names>
+</string-name>, et al. <article-title>Efficacy of bevacizumab with cisplatin and gemcitabine in Asian patients with advanced or recurrent non‐squamous non‐small cell lung cancer who have not received prior chemotherapy: a substudy of the avastin in lung trial</article-title>. <source>Asia Pac J Clin Oncol</source>. <year>2011</year>;<volume>7</volume>(<issue>2</issue>):<fpage>4</fpage>‐<lpage>12</lpage>. Suppl.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1743-7563.2011.01397.x</pub-id><pub-id pub-id-type="pmid">21585703</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="ctm270149-cit-0036">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of different doses of bevacizumab combined with pemetrexed and platinum in first‐line treatment of advanced NSCLC: a retrospective‐real world study</article-title>. <source>Front Pharmacol</source>. <year>2021</year>;<volume>12</volume>:<elocation-id>727102</elocation-id>.<pub-id pub-id-type="pmid">34867332</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2021.727102</pub-id><pub-id pub-id-type="pmcid">PMC8635804</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="ctm270149-cit-0037">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S‐G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiang</surname>
+<given-names>C‐L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C‐C</given-names>
+</string-name>, et al. <article-title>Clinical outcomes of atezolizumab therapy for previously‐treated advanced‐stage non‐small cell lung cancer: a real‐world study in Taiwan</article-title>. <source>J Cancer</source>. <year>2022</year>;<volume>13</volume>(<issue>9</issue>):<fpage>2922</fpage>‐<lpage>2932</lpage>.<pub-id pub-id-type="pmid">35912016</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7150/jca.74617</pub-id><pub-id pub-id-type="pmcid">PMC9330461</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="ctm270149-cit-0038">
+<string-name name-style="western">
+<surname>Seto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nosaki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shimokawa</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Phase II study of atezolizumab with bevacizumab for non‐squamous non‐small cell lung cancer with high PD‐L1 expression (@Be study)</article-title>. <source>J Immunother Cancer</source>. <year>2022</year>;<volume>10</volume>(<issue>2</issue>):<elocation-id>e004025</elocation-id>.<pub-id pub-id-type="pmid">35105689</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jitc-2021-004025</pub-id><pub-id pub-id-type="pmcid">PMC8808447</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="ctm270149-cit-0039">
+<string-name name-style="western">
+<surname>Herbst</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giaccone</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Marinis</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Atezolizumab for first‐line treatment of PD‐L1‐selected patients with NSCLC</article-title>. <source>N Engl J Med</source>. <year>2020</year>;<volume>383</volume>(<issue>14</issue>):<fpage>1328</fpage>‐<lpage>1339</lpage>.<pub-id pub-id-type="pmid">32997907</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1917346</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="ctm270149-cit-0040">
+<string-name name-style="western">
+<surname>Investigators</surname>
+<given-names>H‐AS</given-names>
+</string-name>. <article-title>Ivonescimab plus chemotherapy in non–small cell lung cancer with EGFR variant: a randomized clinical trial</article-title>. <source>JAMA</source>. <year>2024</year>;<volume>332</volume>(<issue>7</issue>):<fpage>561</fpage>‐<lpage>570</lpage>.<pub-id pub-id-type="pmid">38820549</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2024.10613</pub-id><pub-id pub-id-type="pmcid">PMC11337070</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="ctm270149-cit-0041">
+<string-name name-style="western">
+<surname>Passaro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Amivantamab plus chemotherapy with and without lazertinib in <italic toggle="yes">EGFR</italic>‐mutant advanced NSCLC after disease progression on osimertinib: primary results from the phase III MARIPOSA‐2 study</article-title>. <source>Ann Oncol</source>. <year>2024</year>;<volume>35</volume>(<issue>1</issue>):<fpage>77</fpage>‐<lpage>90</lpage>.<pub-id pub-id-type="pmid">37879444</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.annonc.2023.10.117</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="ctm270149-cit-0042">
+<string-name name-style="western">
+<surname>Borghaei</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paz‐Ares</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horn</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Nivolumab versus docetaxel in advanced nonsquamous non‐small‐cell lung cancer</article-title>. <source>N Engl J Med</source>. <year>2015</year>;<volume>373</volume>(<issue>17</issue>):<fpage>1627</fpage>‐<lpage>1639</lpage>.<pub-id pub-id-type="pmid">26412456</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1507643</pub-id><pub-id pub-id-type="pmcid">PMC5705936</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="ctm270149-cit-0043">
+<string-name name-style="western">
+<surname>Rittmeyer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barlesi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waterkamp</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Atezolizumab versus docetaxel in patients with previously treated non‐small‐cell lung cancer (OAK): a phase 3, open‐label, multicentre randomised controlled trial</article-title>. <source>Lancet</source>. <year>2017</year>;<volume>389</volume>(<issue>10066</issue>):<fpage>255</fpage>‐<lpage>265</lpage>.<pub-id pub-id-type="pmid">27979383</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(16)32517-X</pub-id><pub-id pub-id-type="pmcid">PMC6886121</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="ctm270149-cit-0044">
+<string-name name-style="western">
+<surname>Spencer</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silk</surname>
+<given-names>AW</given-names>
+</string-name>, et al. <article-title>Biomarkers for immunotherapy: current developments and challenges</article-title>. <source>Am Soc Clin Oncol Educ Book</source>. <year>2016</year>(<issue>36</issue>):<fpage>e493</fpage>‐<lpage>e503</lpage>.<pub-id pub-id-type="pmid">27249758</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/EDBK_160766</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="ctm270149-cit-0045">
+<string-name name-style="western">
+<surname>Sankar</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>The role of biomarkers in personalized immunotherapy</article-title>. <source>Biomarker Res</source>. <year>2022</year>;<volume>10</volume>(<issue>1</issue>):<fpage>32</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40364-022-00378-0</pub-id><pub-id pub-id-type="pmcid">PMC9118650</pub-id><pub-id pub-id-type="pmid">35585623</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="ctm270149-cit-0046">
+<string-name name-style="western">
+<surname>Gadgeel</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stevenson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langer</surname>
+<given-names>CJ</given-names>
+</string-name>, et al. <article-title>Pembrolizumab (pembro) plus chemotherapy as front‐line therapy for advanced NSCLC: kEYNOTE‐021 cohorts A‐C</article-title>. <source>J Clin Oncol</source>. <year>2016</year>;<volume>34</volume>(<issue>15</issue>):<fpage>9016</fpage>‐<lpage>9016</lpage>. suppl.</mixed-citation></ref><ref id="ctm270149-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="ctm270149-cit-0047">
+<string-name name-style="western">
+<surname>Davis</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>VG</given-names>
+</string-name>. <article-title>The role of PD‐L1 expression as a predictive biomarker: an analysis of all US Food and Drug Administration (FDA) approvals of immune checkpoint inhibitors</article-title>. <source>J Immunother Cancer</source>. <year>2019</year>;<volume>7</volume>(<issue>1</issue>):<fpage>278</fpage>.<pub-id pub-id-type="pmid">31655605</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40425-019-0768-9</pub-id><pub-id pub-id-type="pmcid">PMC6815032</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="ctm270149-cit-0048">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ren</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Biochemical aspects of PD‐L1 regulation in cancer immunotherapy</article-title>. <source>Trends Biochem Sci</source>. <year>2018</year>;<volume>43</volume>(<issue>12</issue>):<fpage>1014</fpage>‐<lpage>1032</lpage>.<pub-id pub-id-type="pmid">30287140</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tibs.2018.09.004</pub-id><pub-id pub-id-type="pmcid">PMC6252278</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="ctm270149-cit-0049">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Natural killer cells contribute to ‘hot’ tumor regression in the allergic inflammatory environment</article-title>. <source>Int Immunopharmacol</source>. <year>2023</year>;<volume>123</volume>:<elocation-id>110760</elocation-id>.<pub-id pub-id-type="pmid">37549516</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.intimp.2023.110760</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="ctm270149-cit-0050">
+<string-name name-style="western">
+<surname>Mandal</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Senbabaoglu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desrichard</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>The head and neck cancer immune landscape and its immunotherapeutic implications</article-title>. <source>JCI Insight</source>. <year>2016</year>;<volume>1</volume>(<issue>17</issue>):<elocation-id>e89829</elocation-id>.<pub-id pub-id-type="pmid">27777979</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/jci.insight.89829</pub-id><pub-id pub-id-type="pmcid">PMC5070962</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="ctm270149-cit-0051">
+<string-name name-style="western">
+<surname>Souza‐Fonseca‐Guimaraes</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cursons</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huntington</surname>
+<given-names>ND</given-names>
+</string-name>. <article-title>The emergence of natural killer cells as a major target in cancer immunotherapy</article-title>. <source>Trends Immunol</source>. <year>2019</year>;<volume>40</volume>(<issue>2</issue>):<fpage>142</fpage>‐<lpage>158</lpage>.<pub-id pub-id-type="pmid">30639050</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.it.2018.12.003</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="ctm270149-cit-0052">
+<string-name name-style="western">
+<surname>Hsu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hodgins</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marathe</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Contribution of NK cells to immunotherapy mediated by PD‐1/PD‐L1 blockade</article-title>. <source>J Clin Invest</source>. <year>2018</year>;<volume>128</volume>(<issue>10</issue>):<fpage>4654</fpage>‐<lpage>4668</lpage>.<pub-id pub-id-type="pmid">30198904</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI99317</pub-id><pub-id pub-id-type="pmcid">PMC6159991</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="ctm270149-cit-0053">
+<string-name name-style="western">
+<surname>Herndler‐Brandstetter</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yao</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Humanized mouse model supports development, function, and tissue residency of human natural killer cells</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2017</year>;<volume>114</volume>(<issue>45</issue>):<fpage>E9626</fpage>‐<lpage>E9634</lpage>.<pub-id pub-id-type="pmid">29078283</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1705301114</pub-id><pub-id pub-id-type="pmcid">PMC5692533</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="ctm270149-cit-0054">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quek</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silva</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Integrated molecular and immunophenotypic analysis of NK cells in anti‐PD‐1 treated metastatic melanoma patients</article-title>. <source>Oncoimmunology</source>. <year>2019</year>;<volume>8</volume>(<issue>2</issue>):<elocation-id>e1537581</elocation-id>.<pub-id pub-id-type="pmid">30713793</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/2162402X.2018.1537581</pub-id><pub-id pub-id-type="pmcid">PMC6343795</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="ctm270149-cit-0055">
+<string-name name-style="western">
+<surname>Bevan</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Helping the CD8(+) T‐cell response</article-title>. <source>Nat Rev Immunol</source>. <year>2004</year>;<volume>4</volume>(<issue>8</issue>):<fpage>595</fpage>‐<lpage>602</lpage>.<pub-id pub-id-type="pmid">15286726</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri1413</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="ctm270149-cit-0056">
+<string-name name-style="western">
+<surname>Borst</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahrends</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Babala</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>CD4(+) T cell help in cancer immunology and immunotherapy</article-title>. <source>Nat Rev Immunol</source>. <year>2018</year>;<volume>18</volume>(<issue>10</issue>):<fpage>635</fpage>‐<lpage>647</lpage>.<pub-id pub-id-type="pmid">30057419</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41577-018-0044-0</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="ctm270149-cit-0057">
+<string-name name-style="western">
+<surname>Ahrends</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Busselaar</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Severson</surname>
+<given-names>TM</given-names>
+</string-name>, et al. <article-title>CD4(+) T cell help creates memory CD8(+) T cells with innate and help‐independent recall capacities</article-title>. <source>Nat Commun</source>. <year>2019</year>;<volume>10</volume>(<issue>1</issue>):<fpage>5531</fpage>.<pub-id pub-id-type="pmid">31797935</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-019-13438-1</pub-id><pub-id pub-id-type="pmcid">PMC6892909</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="ctm270149-cit-0058">
+<string-name name-style="western">
+<surname>Janssen</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lemmens</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolfe</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>CD4+ T cells are required for secondary expansion and memory in CD8+ T lymphocytes</article-title>. <source>Nature</source>. <year>2003</year>;<volume>421</volume>(<issue>6925</issue>):<fpage>852</fpage>‐<lpage>856</lpage>.<pub-id pub-id-type="pmid">12594515</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature01441</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="ctm270149-cit-0059">
+<string-name name-style="western">
+<surname>Zuazo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arasanz</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandez‐Hinojal</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Functional systemic CD4 immunity is required for clinical responses to PD‐L1/PD‐1 blockade therapy</article-title>. <source>EMBO Mol Med</source>. <year>2019</year>;<volume>11</volume>(<issue>7</issue>):<elocation-id>e10293</elocation-id>.<pub-id pub-id-type="pmid">31273938</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.15252/emmm.201910293</pub-id><pub-id pub-id-type="pmcid">PMC6609910</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="ctm270149-cit-0060">
+<string-name name-style="western">
+<surname>Kagamu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kitano</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamaguchi</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>CD4(+) T‐cell immunity in the peripheral blood correlates with response to anti‐PD‐1 therapy</article-title>. <source>Cancer Immunol Res</source>. <year>2020</year>;<volume>8</volume>(<issue>3</issue>):<fpage>334</fpage>‐<lpage>344</lpage>.<pub-id pub-id-type="pmid">31871122</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2326-6066.CIR-19-0574</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="ctm270149-cit-0061">
+<string-name name-style="western">
+<surname>Inomata</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kado</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okazawa</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Peripheral PD1‐positive CD4 T‐lymphocyte count can predict progression‐free survival in patients with non‐small cell lung cancer receiving immune checkpoint inhibitor</article-title>. <source>Anticancer Res</source>. <year>2019</year>;<volume>39</volume>(<issue>12</issue>):<fpage>6887</fpage>‐<lpage>6893</lpage>.<pub-id pub-id-type="pmid">31810958</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.21873/anticanres.13908</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="ctm270149-cit-0062">
+<string-name name-style="western">
+<surname>Manjarrez‐Orduno</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Menard</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kansal</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Circulating T cell subpopulations correlate with immune responses at the tumor site and clinical response to PD1 inhibition in non‐small cell lung cancer</article-title>. <source>Front Immunol</source>. <year>2018</year>;<volume>9</volume>:<fpage>1613</fpage>.<pub-id pub-id-type="pmid">30123214</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2018.01613</pub-id><pub-id pub-id-type="pmcid">PMC6085412</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="ctm270149-cit-0063">
+<string-name name-style="western">
+<surname>Möller</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turzer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schütte</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Blood immune cell biomarkers in patient with lung cancer undergoing treatment with checkpoint blockade</article-title>. <source>J Immunother</source>. <year>2020</year>;<volume>43</volume>(<issue>2</issue>):<fpage>57</fpage>‐<lpage>66</lpage>.<pub-id pub-id-type="pmid">31592989</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/CJI.0000000000000297</pub-id><pub-id pub-id-type="pmcid">PMC7012348</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="ctm270149-cit-0064">
+<string-name name-style="western">
+<surname>Limagne</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richard</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thibaudin</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Tim‐3/galectin‐9 pathway and mMDSC control primary and secondary resistances to PD‐1 blockade in lung cancer patients</article-title>. <source>Oncoimmunology</source>. <year>2019</year>;<volume>8</volume>(<issue>4</issue>):<elocation-id>e1564505</elocation-id>.<pub-id pub-id-type="pmid">30906658</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/2162402X.2018.1564505</pub-id><pub-id pub-id-type="pmcid">PMC6422400</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="ctm270149-cit-0065">
+<string-name name-style="western">
+<surname>Kang</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Circulating regulatory T cells predict efficacy and atypical responses in lung cancer patients treated with PD‐1/PD‐L1 inhibitors</article-title>. <source>Cancer Immunol Immunother</source>. <year>2022</year>;<volume>71</volume>(<issue>3</issue>):<fpage>579</fpage>‐<lpage>588</lpage>.<pub-id pub-id-type="pmid">34278517</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00262-021-03018-y</pub-id><pub-id pub-id-type="pmcid">PMC8854239</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="ctm270149-cit-0066">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>JC</given-names>
+</string-name>, et al. <article-title>12P A phase II study of atezolizumab in combination with bevacizumab, carboplatin or cisplatin, and pemetrexed for EGFR‐mutant metastatic NSCLC patients after failure of EGFR TKIs</article-title>. <source>Ann Oncol</source>. <year>2022</year>;<volume>33</volume>:<fpage>S33</fpage>‐<lpage>S34</lpage>.</mixed-citation></ref><ref id="ctm270149-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="ctm270149-cit-0067">
+<string-name name-style="western">
+<surname>Eberhardt</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mitchell</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crowley</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>The IASLC lung cancer staging project: proposals for the revision of the M descriptors in the forthcoming eighth edition of the TNM classification of lung cancer</article-title>. <source>J Thorac Oncol</source>. <year>2015</year>;<volume>10</volume>(<issue>11</issue>):<fpage>1515</fpage>‐<lpage>1522</lpage>.<pub-id pub-id-type="pmid">26536193</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/JTO.0000000000000673</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="ctm270149-cit-0068">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maynard</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vaghasia</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>A role for paracrine interleukin‐6 signaling in the tumor microenvironment in prostate tumor growth</article-title>. <source>Prostate</source>. <year>2019</year>;<volume>79</volume>(<issue>2</issue>):<fpage>215</fpage>‐<lpage>222</lpage>.<pub-id pub-id-type="pmid">30345534</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pros.23726</pub-id></mixed-citation></ref><ref id="ctm270149-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="ctm270149-cit-0069">
+<string-name name-style="western">
+<surname>Ye</surname>
+<given-names>C‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>G‐R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>SY</given-names>
+</string-name>, et al. <article-title>Establishment of multiplex IHC staining panel and immune subpopulation quantificationsystem for cancer prognosis</article-title>. <source>J Clin Oncol</source>. <year>2022</year>;<volume>40</volume>(<issue>16</issue>):<fpage>e20525</fpage>‐<lpage>e20525</lpage>. suppl.</mixed-citation></ref><ref id="ctm270149-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="ctm270149-cit-0070">
+<string-name name-style="western">
+<surname>Simon</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Optimal two‐stage designs for phase II clinical trials</article-title>. <source>Control Clin Trials</source>. <year>1989</year>;<volume>10</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>10</lpage>.<pub-id pub-id-type="pmid">2702835</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0197-2456(89)90015-9</pub-id></mixed-citation></ref></ref-list></back></article>
