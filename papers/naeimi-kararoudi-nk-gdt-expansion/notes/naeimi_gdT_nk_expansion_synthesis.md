@@ -169,9 +169,17 @@ for off-the-shelf immunotherapy" — McMaster (Ashkar) × NCH collaboration; the
 Dean Lee.
 
 **Expansion method (Methods, verbatim details):**
+- Feeder is **K562 expressing mb-IL-21 *and* 4-1BBL**, obtained from Dean Lee — i.e. the same
+  FC21/clone-9 line the patent calls K562.mbIL21.4-1BBL/CStX-002. The Methods shorthand
+  "K562 mb-IL-21" hides the 4-1BBL; the Introduction spells it out.
 - Bulk PBMC **or** EasySep-positively-selected CD3⁺ T cells co-cultured with **K562-mbIL-21 at 1:2
-  (cells:feeder)**; complete RPMI-1640 + **100 U/mL IL-2**; **irradiated feeders replenished
-  weekly**; media/IL-2 every 2–3 days; **≥5 weeks** before functional assays.
+  (cells:feeder)** = 2 feeders per cell, matching the patent's "at least 2:1 (feeder:cell)";
+  complete RPMI-1640 + **100 U/mL IL-2**; **irradiated feeders replenished weekly**; media/IL-2
+  every 2–3 days; **≥5 weeks** before functional assays.
+- **Mid-culture CD3⁺ re-isolation**: because "majority of expanded live cells in the bulk PBMC
+  co-cultures were NK cells", γδ cells are CD3-positively re-selected out of bulk cultures and
+  **re-expanded** before functional use. Easy to miss and it changes what the product is.
+- Cryopreserved in 10% DMSO / 20% FBS / 70% cRPMI; no loss of viability or subset shift post-thaw.
 - **No TCR agonist, no mitogen, no zoledronate** — this is stated as a deliberate design choice
   and as the novelty vs prior Vδ1 protocols.
 - Comparator arms in the same paper: **K562-mbIL-15** feeders (same 1:2), and classic
@@ -182,9 +190,15 @@ Dean Lee.
   HiFi Cas9/RNP + AAVS1 gRNA, then **ssAAV6-HER2-CAR at 300K MOI**.
 
 **Key results relevant to the culture question:**
-- mbIL-21 feeders **preferentially expand Vδ1** (Vδ2 essentially disappears; Table 1 donors are
-  ~22–99% Vδ1, 0–0.4% Vδ2). **>500-fold** γδ expansion from bulk PBMC and **>26,000-fold** from
-  isolated CD3⁺ over the culture period.
+- mbIL-21 feeders **preferentially expand Vδ1**: mean **6.14 ± 3.99% → 70.20 ± 11.37%** at 8 weeks,
+  while **Vδ2 goes 81.50 ± 7.60% → 3.79 ± 2.91%** — and is **0.0% in six of the seven** functional-
+  assay donors in Table 1. There is no version of this protocol that yields a Vδ2-containing
+  product. **>500-fold** γδ expansion from bulk PBMC and **>26,000-fold** from isolated CD3⁺.
+- Table 1 also shows "Vδ1 product" is an approximation: donors 3 and 6 came out **77.4% and 59.1%
+  Vδ1⁻Vδ2⁻** (Vδ1 only 22.5% and 40.8%) — an uncharacterized Vδ3/Vδ5-type population never
+  functionally separated in the paper. And **αβ carryover reaches 11.5%** in one donor with no
+  depletion step in this arm, while their ZA/Vδ2 comparator arm *is* αβ-depleted (CD4/CD8
+  microbeads) at harvest. For an allogeneic product that is the GvHD-relevant number.
 - Expanded γδ T cells acquire an **NK-like activation program**: ↑NKG2D, NKp30, NKp44, CD69, CD56;
   unchanged NKG2A/KIRs.
 - They also **upregulate TIGIT and TIM3** — the authors flag these as ambiguous in this context

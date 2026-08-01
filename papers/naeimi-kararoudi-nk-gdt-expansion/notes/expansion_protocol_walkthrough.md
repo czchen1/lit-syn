@@ -230,18 +230,126 @@ process is claimed and described; only the *editing* half is exemplified with da
 
 ## PROTOCOL A — Portillo et al. 2025. Published, peer-reviewed, and **has no TCR step at all**.
 
-> "To expand γδ T cells, either bulk PBMCs or CD3+ T cells isolated from PBMCs using the EasySep™
-> Human CD3 Positive Selection Kit II (STEMCELL Technologies) were **co-cultured with K562 mb-IL-21
-> cells at a 1:2 ratio**… CD3+ isolated cells were re-expanded with K562 mb-IL-21 cells and **γδ T
-> cells were expanded for a minimum of 5 weeks prior to use in functional assays**… All expanded
-> γδ T cell and NK cell cultures were maintained in **complete RPMI 1640 media supplemented with
-> human IL-2 (100 U/mL)** and cultured at 37°C and 5% CO2. **All cultures were replenished with
-> irradiated feeder cells on a weekly basis and media and IL-2 was replaced every two to three
-> days.**" — Portillo, Methods
+### A1 — Feeder line (same line as the patent, despite the shorthand)
+
+> "**K562 feeder cells expressing membrane-bound IL-21 and 4-1BBL (K562-mb-IL-21)** have been used
+> for the large-scale expansion of highly potent anti-tumor human NK cells for clinical use"
+> — Portillo, Introduction
+
+> "The suspension K562 feeder cells engineered to express **mb-IL-21 or mb-IL-15** as previously
+> described were **kindly obtained from Dr. Dean A. Lee (Nationwide Children's Hospital)**"
+> — Portillo, Methods
+
+So "K562 mb-IL-21" throughout their Methods means **mbIL-21 + 4-1BBL K562**, i.e. the FC21/clone-9
+line — the same feeder the patent calls K562.mbIL21.4-1BBL / CStX-002. **The feeder is not a
+variable between Protocol A and Protocol B.**
+
+### A2 — Starting material and seeding
+
+> "To expand γδ T cells, either **bulk PBMCs or CD3+ T cells isolated from PBMCs using the EasySep™
+> Human CD3 Positive Selection Kit II** (STEMCELL Technologies) were **co-cultured with K562 mb-IL-21
+> cells at a 1:2 ratio**." — Portillo, Methods
+
+`1:2` here is **cells : feeder** — i.e. 2 feeders per target cell, the same feeder excess as the
+patent's "at least a 2:1 ratio *with* mbIL21-expressing feeder cells" (feeder:cell) and the NK
+protocol's "2:1 (feeder:NK)". No TCR agonist, no mitogen, no phosphoantigen is added at any point.
+
+### A3 — Maintenance
+
+> "All expanded γδ T cell and NK cell cultures were maintained in **complete RPMI 1640 media
+> supplemented with human IL-2 (100 U/mL)** and cultured at 37°C and 5% CO2. **All cultures were
+> replenished with irradiated feeder cells on a weekly basis and media and IL-2 was replaced every
+> two to three days.**" — Portillo, Methods
 
 > "We first co-cultured the irradiated feeder cells with bulk PBMCs or isolated CD3+ T cells
 > **every seven days** with 100 U/mL of IL-2 and tracked the proportion and fold expansion of NK,
 > αβ T, and γδ T cells in the cultures weekly." — Portillo, Results
+
+### A4 — Mid-culture re-isolation (easy to miss, and it changes what the product is)
+
+> "**Hence, expanded γδ T cells were isolated from bulk PBMC expanded co-cultures using a CD3+
+> immunomagnetic positive selection kit before further expansion prior to use in functional
+> experiments.**" — Portillo, Results
+
+Their reasoning, quoted: fold expansion was higher from CD3⁺-isolated cultures, but "majority of
+expanded live cells in the bulk PBMC co-cultures were **NK cells**", while bulk PBMC cultures gave a
+higher *proportion* of γδ within CD3⁺. So they take the purity of the bulk route and rescue the
+yield by CD3-selecting mid-culture and re-expanding:
+
+> "CD3+ isolated cells were **re-expanded** with K562 mb-IL-21 cells and **γδ T cells were expanded
+> for a minimum of 5 weeks prior to use in functional assays**." — Portillo, Methods
+
+### A5 — Cryopreservation
+
+> "Cells were cryopreserved in **10% DMSO, 20% FBS, and 70% complete RPMI 1640** media." — Methods
+
+> "We did not detect a decrease in the viability or change in the proportion of cell subsets
+> post-thaw (Figs. S1A-D)." — Results
+
+### A6 — CAR arming (adapted from his NK method, ref. 27 = CRM 2022)
+
+> "expanded Vδ1 T cells were electroporated with **HiFi CRISPR/Cas9 Nuclease V3** (IDT) and guide
+> RNA targeting the **AAVS1** safe harbor locus. After electroporation, cells were transduced with
+> **ssAAV6 encoding the HER2 CAR construct at a 300K multiplicity of infection (MOI)**… The
+> transduced cells were **replenished with irradiated K562 mb-IL-21 cells 48 h after
+> electroporation and cryopreserved after 7 days**. Cells were replenished with irradiated K562
+> mb-IL-21 cells **weekly post-thaw**." — Portillo, Methods
+
+CAR construct: "a HER2-specific **DARPin28z** binding domain, a **CD28** co-stimulation domain, and
+the cytoplasmic domain of **CD3ξ** [sic — CD3ζ]… with the modification of an **IgG heavy chain for
+the hinge**".
+CAR expression tracked "every seven days… **over 21-days of expansion**".
+
+### A7 — What comes out (and the donor variability, which the headline number hides)
+
+> "The percentage of **Vδ1** T cells significantly increased from mean **6.14 ± 3.99%** at
+> pre-expansion to mean **70.20 ± 11.37%** after eight weeks. The **Vδ2** T cells became **almost
+> completely absent**… from mean **81.50 ± 7.60%** to mean **3.79 ± 2.91%**." — Results
+
+> "we observed an over **500-fold and 26,000-fold expansion** of γδ T cells from bulk PBMCs or
+> isolated CD3+ T cells starting cell populations, respectively." — Results
+
+But Table 1 (the 7 donors actually used in functional assays) is more heterogeneous than
+"Vδ1-dominant" suggests:
+
+| Donor | %CD3⁺ | %CD3⁻CD56⁺ | %αβTCR⁺ | %γδTCR⁺ | **%Vδ1** | %Vδ2 | **%Vδ1⁻Vδ2⁻** |
+|---|---|---|---|---|---|---|---|
+| 1 | 98.7 | 1.1 | 0 | 99.4 | 97.3 | 0 | 2.72 |
+| 2 | 99.4 | 0.31 | 5.33 | 91.7 | 99.0 | 0 | 1.0 |
+| 3 | 96.5 | 2.51 | 0.15 | 97.7 | **22.5** | 0 | **77.4** |
+| 4 | 98.1 | 0.82 | 1.87 | 97.7 | 99.2 | 0 | 0.68 |
+| 5 | 98.8 | 0.72 | 0.24 | 93.6 | 99.3 | 0 | 0.24 |
+| 6 | 99.4 | 0.3 | **11.5** | 87.3 | **40.8** | 0 | **59.1** |
+| 7 | 97.9 | 1.71 | 1.59 | 95.9 | 85.2 | 0.4 | 14.3 |
+
+Three things this table says that the abstract does not:
+- **Vδ2 is not reduced — it is eliminated.** 0.0% in six of seven donors. There is no dose of this
+  protocol that gives you a Vδ2-containing product.
+- **Two of seven donors are actually Vδ1⁻Vδ2⁻-dominant** (77.4% and 59.1%). Those are Vδ3/Vδ5/etc.,
+  an uncharacterized population that was never functionally separated in the paper. "Vδ1 T cells"
+  as the product label is an approximation for 5/7 donors.
+- **αβ carryover reaches 11.5%.** For an allogeneic product that is the GvHD-relevant number, and
+  it is not depleted anywhere in Protocol A. (Their own Vδ2 comparator arm *does* get αβ-depleted
+  with CD4/CD8 microbeads at harvest; the mbIL-21 arm does not.)
+
+### A8 — The Vδ2 comparator arm in the same paper, quoted in full
+
+> "Vγ9 Vδ2 T cells were activated with **10 mM Zoledronic acid** (Sigma-Aldrich) and **4 ng/mL
+> IL-2** (Cellgenix) from bulk PBMCs. PBMCs were seeded at **2x10^6 cells/cm^2 in a 24-well G-Rex
+> plate**. Cells were maintained in complete RPMI 1640 supplemented with 1 mM sodium pyruvate,
+> 1 mM non-essential amino acids, and 55 μM β-mercaptoethanol for the **first 4 days**. On **day 4**
+> cells were… resuspended in **CTS OpTmizer T cell Expansion SFM** + 1X Glutamax + **5% CTS Immune
+> Cell Serum Replacement**. A **75% media replacement every 3–4 days** with **4 ng/mL IL-2 every
+> 2–3 days** and **5 ng/mL IL-15 every 2–3 days starting on day 7**. Cells were harvested on
+> **day 14**, **depleted of αβ T cells using CD4 and CD8 Microbeads**… cryopreserved in CryoStor
+> CS10, thawed, and **rested in IL-2 (1.5 ng/mL) and IL-15 (5 ng/mL) for 24 h** prior to use."
+> — Portillo, Methods
+
+⚠️ **"10 mM zoledronic acid" is almost certainly an error in the published paper** — standard γδ
+expansion uses **1–5 µM**, so this is ~2,000–10,000× high. Two consequences: (a) don't reproduce
+the number; (b) if it were literally 10 mM the comparator arm would be a toxicity condition, which
+would materially weaken the "ZA-expanded Vδ2 cells are metabolically fragile" comparison that this
+paper leans on. Worth confirming with the authors before citing that comparison as evidence.
 
 Differences from Protocol B that actually change the product:
 
