@@ -186,7 +186,43 @@ Versus the NK parent (CRM 2022): program **EN-138**, AAV at **+30 min**, **300K 
 AAV MOI dropped 4× to 75K with **no titration shown in γδ cells**. Claim 26 only requires "at least
 1k". Whether 75K is optimized or operational is unanswerable from the document.
 
-## Step 8 — duration: the patent contradicts itself *(and I reported only one side)*
+## Step 8 — duration to product: the editing timepoint is NOT the product timepoint
+
+**This step was previously misframed.** d14–21 is when the cells are *edited*, not when the product
+exists. The patent adds a post-transduction culture period on top:
+
+> "It is understood and herein contemplated that **the period of culturing of the CD70 CAR-expressing
+> γδ T cells can be between 1- and 14-days post AAV infection** (i.e., 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+> 11, 12, 13, or 14 days)." — [0079]
+
+> "**29.** The method of claims 7-28, wherein generating expanded CD70 CAR-expressing γδ T cells,
+> **post-transduction, occurs in at least 14 days**."
+
+So **Protocol B to a CAR product = 14–21 d expansion + 1–14 d post-transduction ≈ 15–35 days**, i.e.
+up to five weeks — not the "2–3 weeks" previously stated.
+
+And Portillo's "≥5 weeks" is time to functional assay of *unedited* cells. Their **CAR** product runs
+longer: ≥5 wk expansion → electroporation → feeders at 48 h → "**cryopreserved after 7 days**" →
+"replenished with irradiated K562 mb-IL-21 cells **weekly post-thaw** to expand cells for functional
+assessment", with CAR tracked "over **21-days** of expansion".
+
+**Corrected comparison: B ≈ 2–5 weeks to CAR product; A ≈ 6+ weeks.** A real but modest difference of
+roughly one to two weeks — not the large gap previously claimed. Consequences: (a) "duration to
+product" is a weak differentiator between the two protocols; (b) the argument that B implements
+Portillo's "decreasing the length of the expansion process may be advantageous" is weakened — B is
+shorter, but not dramatically. What survives is that **B reaches an *editable* state at d14 vs
+≥5 weeks in A**, and that **B's TCR-agonist phase is bounded at ≤7 days regardless of total culture
+length**. "Short" holds for the TCR window, not for the process.
+
+⚠️ **[0079] and claim 29 contradict each other**: the description caps the post-transduction period
+at 14 days ("between 1- and 14-days"), the claim sets 14 days as a floor ("at least 14 days"). On
+top of the anchor mismatch already noted (claim 29 counts from transduction; the Example counts
+"14 days after isolation and expansion").
+
+⚠️ **No data exist for this period.** The Examples confirm CAR only at **48 h post-transduction** by
+Protein L flow. The 1–14 d post-transduction expansion the claim rests on is entirely unexemplified.
+
+### Expansion-phase duration: the patent also contradicts itself here
 
 [0079], consecutive sentences:
 
@@ -198,10 +234,10 @@ Both. Plus claim 19 ("**expanded for at least 7 days**"), claim 46 (same), and c
 Examples edit at **21 days** (mCherry) and **14 days** (CD70-CAR).
 
 The defensible statement is: **the claimed floor is 7 days of feeder expansion; editing is performed
-at 14–21 days after isolation in the worked examples; and the description covers everything from
-1 day to ≥21 days.** My earlier flat "at least 21 days" over-read one sentence. What survives intact
-is the substantive point: **nothing here is a short culture, so "short TCR expansion" cannot mean
-short total process.**
+at 14–21 days after isolation in the worked examples; the description covers everything from 1 day
+to ≥21 days; and the CAR product follows 1–14 days after that.** My earlier flat "at least 21 days"
+over-read one sentence. What survives intact is the substantive point: **nothing here is a short
+culture, so "short TCR expansion" cannot mean short total process.**
 
 ## Step 9 — CD70 CAR knock-in *(Example)*
 
@@ -237,6 +273,7 @@ unit is wrong. Do not reproduce this stoichiometry without checking.
 | 2 | [0079] | MOI given as "about 1 to about **1000K** MOI (e.g., about 5 to **500K**)" then enumerated "…450, or **500 MOI**" — the K is dropped mid-paragraph, a 1000× ambiguity |
 | 3 | Claim 2, [0005] | "**γ1δ9 or a γ2δ9** T cell" — not valid nomenclature. Intended Vγ9Vδ1 / Vγ9Vδ2. This is in a *claim*, so it recites a cell type that does not exist |
 | 4 | Claim 29 vs Example | Claim: CAR-expressing γδ cells generated "**post-transduction, occurs in at least 14 days**". Example: "generated **14 days after isolation and expansion**". Different anchors (transduction vs isolation) for the same number |
+| 4b | Claim 29 vs [0079] | Description **caps** the post-transduction period at 14 d ("between 1- and 14-days post AAV infection"); claim 29 makes 14 d a **floor** ("at least 14 days"). Direct contradiction |
 | 5 | [0078] / claims 12–16, 39–46 | **Irradiation of the K562 feeders is never recited** (only in the [0077] alternatives list, which also permits "nonirradiated") |
 | 6 | [0079] | "electroporated **and transduced** with Cas/RNP complexes" — Cas9/RNP is electroporated, not transduced |
 | 7 | Throughout | Feeder line spelled **CStX-002** in [0076] and **CSTX-002** in [0078]/claims 15, 42 |
@@ -260,7 +297,8 @@ unit is wrong. Do not reproduce this stoichiometry without checking.
 | Vδ1/Vδ2 subset staining | ✅ **FIG. 1B** (no percentages in text) | — | — |
 | Electroporation program screen | ✅ EO-115/CM-137/EH-115 → CM-137 | ❌ not claimed | ❌ |
 | AAV6 +20 min, MOI 75K | ✅ | ✅ cl. 26 as "**at least 1k**" | ✅ [0079] as 1–1000K |
-| CD70 KO + CD70-CAR KI | ✅ | ✅ cl. 30 | ✅ [0080] |
+| CD70 KO + CD70-CAR KI | ✅ (flow at 48 h only) | ✅ cl. 30 | ✅ [0080] |
+| 1–14 d post-transduction expansion | ❌ **no data** | ✅ cl. 29 | ✅ [0079] |
 | Fold expansion (number) | ❌ | ❌ | ❌ |
 | Vδ1:Vδ2 of product | ❌ | ❌ | ❌ |
 | Long vs short anti-CD3 | ❌ | ❌ | ❌ |
