@@ -16,15 +16,20 @@ examples section. **These three tiers are not equivalent and are kept separate t
 
 ## Corrections to my earlier write-ups
 
+0. **⚠️ BIGGEST CORRECTION: "the expansion protocol is never exemplified" was WRONG.** I missed
+   paragraph **[0095], headed "γδ T-Cells Expansion"** — a complete worked expansion protocol with
+   catalog numbers, cell numbers, and timings. It is quoted in full in Step 3A below. Everything I
+   previously said about the expansion half being "claims and description only" must be discarded.
+   What is genuinely missing is narrower and is itemized at the end of Step 3A.
 1. **"No growth curve" was wrong.** FIG. 1A is "**γδ T-Cell growth curve from day one till 2 weeks
    after isolation**". The figure exists; what is absent is any *numeric* fold-expansion in the text.
 2. **"No Vδ1:Vδ2 data" was too strong.** FIG. 1B is flow "for anti-CD3, anti-TCRγδ, TCR Vδ1, and
    TCR Vδ2". Subsets *were* measured at 2 weeks. What is absent is (a) the subset percentages in the
    text — only "98.8%… CD3+ … 98.4%… TCRγδ+" is given — and (b) any *timecourse*.
-3. **"The stimulation step is never mentioned in the Examples" was wrong in the strict sense.** The
-   figure title is "**γδ T Cell Isolation, Stimulation, and Proliferation**". The word is there. What
-   is absent is any statement of the stimulation *conditions actually used* — no antibody, no
-   coating concentration, no duration appears anywhere in the Examples body.
+3. **"The stimulation step is never mentioned in the Examples" was wrong twice over.** The figure
+   title is "γδ T Cell **Isolation, Stimulation**, and Proliferation", *and* [0095] states the
+   conditions: Tonbo anti-CD3 + anti-CD28 coated plate, 2 days. Only the coating concentration and
+   plate format are missing.
 4. **I conflated two different examples' post-transduction feeds.** The "1 mL of 10% RPMI … + 100IU
    IL2 at 24 h" belongs to the **mCherry electroporation-optimization** example. The **CD70-CAR**
    example says "**24 hours post transduction 500uL of media was added**". Different volumes,
@@ -75,7 +80,7 @@ Background numbers, [0074]: γδ are "**1–5% of all CD3+ cells**"; Vγ9Vδ2 "c
 last figure sits above Portillo's measured 6.14 ± 3.99% Vδ1 pre-expansion — a background-literature
 value, not a measurement in this document.)*
 
-## Step 3 — anti-CD3 priming *(description + claims ONLY — no conditions exemplified)*
+## Step 3 — anti-CD3 priming *(description + claims; worked conditions in Step 3A)*
 
 [0076], in full:
 
@@ -97,15 +102,70 @@ What the wording establishes:
 - **anti-CD3, not anti-Vδ1 or phosphoantigen** — pan-T by design ("regardless of their antigen
   specificity"), which is the mechanistic basis for retaining Vδ2.
 
-What the wording does **not** establish: no antibody clone, no coating concentration, no
-plate format, no preferred duration within 6 h–7 d, and **no comparison between durations
-anywhere in the document.**
+What this description alone does not establish — the clone, the duration used, whether CD28 is
+included — **is supplied by the worked example in [0095]; see Step 3A.** What remains missing even
+after [0095] is the coating concentration, the plate format, and **any comparison between
+stimulation durations anywhere in the document.**
 
 ⚠️ **The word "exhaustion" appears zero times in the patent. "STAT", "JAK" and "telomere" appear zero
 times as mechanism** (the only "JAK"/"zoledronic" hits are inside a boilerplate list of approved
 oncology drugs). The verbal rationale he gave is nowhere in the filing.
 
-## Step 4 — feeder cells *(description + claims; ratio broader than I reported)*
+## Step 3A — THE WORKED EXPANSION EXAMPLE, [0095] *(the paragraph I missed)*
+
+Immediately before this, the end of the isolation example gives a **yield**:
+
+> "The addition of magnetic particles was repeated in the enriched cell suspension with a volume of
+> **37.5ul**, incubated for 5mins, placed into the magnet for 5min, and inverted to the new 5ml tube.
+> The isolated cells were ready to use. Since γδ T-Cells account for less than 1% of circulating
+> white blood cells, therefore **700,000 γδ T-Cells were isolated from 20,000,000 PBMCs**."
+
+(3.5% of PBMC — above the "1–5% of CD3+" of [0074], and note the second magnetic round, which I had
+also missed.)
+
+Then [0095] in full:
+
+> "**γδ T-Cells Expansion** [0095] **350,000 cells were seeded** in completed RPMI (Fisher Scientific
+> cat# SH30096FS or equivalent) (**10% Fetal Bovine Serum** (GenClone cat# 25-514H), **1%
+> Penicillin-Streptomycin** (Fisher cat# 15-140-122), **1% GlutaMax** (Fisher cat# 35-050-061), and
+> **1% HEPES** (Fisher cat# MT25060CI)) and **supplemented with 100IU IL2** on an **anti CD3 (Tonbo
+> Bioscience cat# 40-0038-U100 or equivalent) and anti CD28 (Tonbo Bioscience cat# 40-0289-U100 or
+> equivalent) coated plate** for their stimulation. **Two days post-stimulation, cells were counted
+> and expanded at a 2:1 ratio with mbIL21 K562 feeder cells (CSTX002).** During expansion, cells were
+> counted and **supplemented with 100IU IL2 every other day**, media was added as necessary. **Cells
+> were expanded every 7 days.**"
+
+Everything the claims recite is here as an actual worked condition:
+
+| Element | Claim/description | **[0095] worked value** |
+|---|---|---|
+| Anti-CD3 ± anti-CD28 | "and/or", no clone | **both**, Tonbo 40-0038-U100 + 40-0289-U100, plate-coated |
+| Stimulation time | 6 h – 7 d; "at least 2 days" | **exactly 2 days** |
+| Feeder | K562.mbIL21.4-1BBL / CStX-002 | **mbIL21 K562 (CSTX002)** |
+| Ratio | "at least a 2:1 ratio" | **2:1**, and unambiguously **feeder:cell** ("expanded **at** a 2:1 ratio **with** … feeder cells") |
+| IL-2 | 100 IU q≤48 h | **100 IU every other day** |
+| Re-stimulation | not recited | **"Cells were expanded every 7 days"** — weekly, same as Portillo |
+| Seeding | not recited | **350,000 cells** (half the 700,000 isolated) |
+| Medium | "complete growth medium" | **cRPMI + 10% FBS + 1% P-S + 1% GlutaMax + 1% HEPES** |
+
+Three substantive points that only this paragraph establishes:
+
+1. **IL-2 is present from day 0, during the anti-CD3 phase** — 100 IU is in the seeding medium, not
+   added later. So the TCR pulse is delivered *on top of* tonic γc signalling; it is not a pure
+   TCR-only window.
+2. **anti-CD28 is actually used**, not merely permitted. The "and/or" of [0076] is claim-breadth
+   language; the real protocol gives CD3 + CD28 together, i.e. full two-signal priming.
+3. **Weekly feeder re-stimulation** — "expanded every 7 days" — which makes the feeder cadence
+   identical to Portillo's "replenished with irradiated feeder cells on a weekly basis". I had
+   previously listed re-stimulation frequency as unspecified in the patent.
+
+**What is still genuinely absent from [0095] and the rest of the Examples:** no numeric fold
+expansion in the text (FIG. 1A plots it, the narrative gives no value); no Vδ1/Vδ2 percentages in the
+text (FIG. 1B stains them); no donor number or replicates; no plate format or coating concentration;
+**no statement that the CSTX002 feeders are irradiated**; and no comparison of a longer or shorter
+anti-CD3 window — the 2-day value is used, never justified against alternatives.
+
+## Step 4 — feeder cells *(description + claims; now also exemplified in [0095])*
 
 [0076] names two "**established clinical-grade feeder systems**": "**Epstein-Barr virus transformed
 lymphoblastoid cell lines** and genetically engineered **K562.mbIL21.4-1BBL feeder cells including,
@@ -198,8 +258,10 @@ exists. The patent adds a post-transduction culture period on top:
 > "**29.** The method of claims 7-28, wherein generating expanded CD70 CAR-expressing γδ T cells,
 > **post-transduction, occurs in at least 14 days**."
 
-So **Protocol B to a CAR product = 14–21 d expansion + 1–14 d post-transduction ≈ 15–35 days**, i.e.
-up to five weeks — not the "2–3 weeks" previously stated.
+So **Protocol B to a CAR product = [2 d anti-CD3/CD28 priming + feeder expansion to d14–d21] +
+1–14 d post-transduction ≈ 15–35 days**, i.e. up to five weeks — not the "2–3 weeks" previously
+stated. ([0095] fixes the priming phase at exactly 2 days, so the feeder phase is d2→d14 or d2→d21,
+i.e. **12–19 days of feeder co-culture, or 2–3 weekly re-stimulation cycles**.)
 
 And Portillo's "≥5 weeks" is time to functional assay of *unedited* cells. Their **CAR** product runs
 longer: ≥5 wk expansion → electroporation → feeders at 48 h → "**cryopreserved after 7 days**" →
@@ -221,6 +283,25 @@ top of the anchor mismatch already noted (claim 29 counts from transduction; the
 
 ⚠️ **No data exist for this period.** The Examples confirm CAR only at **48 h post-transduction** by
 Protein L flow. The 1–14 d post-transduction expansion the claim rests on is entirely unexemplified.
+
+### Duration head-to-head, both sources verified
+
+| Phase | **B (WO2025123022A1)** | **A (Portillo 2025)** |
+|---|---|---|
+| TCR priming | **2 days** anti-CD3+CD28 [0095] | **none** |
+| Feeder co-culture before editing | **d2 → d14** (CD70-CAR) or **d2 → d21** (mCherry) | "γδ T cells were expanded for a **minimum of 5 weeks** prior to use in functional assays"; subsets tracked to **8 weeks** |
+| Feeder cadence | "Cells were expanded **every 7 days**" [0095] | "replenished with irradiated feeder cells on a **weekly basis**" |
+| IL-2 | 100 IU **every other day** | 100 U/mL, "replaced **every two to three days**" |
+| Post-edit culture | **1–14 d** ([0079]) / "at least 14 days" (cl. 29) | feeders at **48 h**, "**cryopreserved after 7 days**"; CAR stability then tracked "over **21-days** of expansion" post-thaw |
+| **Total to CAR product** | **≈15–35 days** | **≈6+ weeks** (≥5 wk expansion, then edit, then 7 d, then post-thaw re-expansion) |
+
+Both cadences are weekly and both IL-2 schedules are q2–3 d — **the feeder engine runs identically.**
+The entire duration difference sits in **how long the cells are grown before editing**: ~2–3 weeks in
+B versus ≥5 weeks in A. B's 2-day TCR pulse is not what makes B shorter; **skipping three-plus weeks
+of pre-editing feeder culture is.**
+
+Note also that A's mid-culture CD3⁺ re-isolation and re-expansion (absent in B, unnecessary because
+B starts γδ-pure) is part of why A takes ≥5 weeks — a purity step that costs weeks of calendar time.
 
 ### Expansion-phase duration: the patent also contradicts itself here
 
@@ -287,11 +368,13 @@ unit is wrong. Do not reproduce this stoichiometry without checking.
 | Element | Example (data) | Claim | Description |
 |---|---|---|---|
 | Ficoll/PBMC prep | ✅ full detail | — | ✅ |
-| γδ negative selection | ✅ full detail | ✅ cl. 9 | ✅ [0074-75] |
-| **anti-CD3 priming** | ❌ **named in Fig. 1 title only; no conditions** | ✅ cl. 10–11 | ✅ [0076] |
-| **mbIL21+4-1BBL feeder** | ❌ | ✅ cl. 12–15, 39–42 | ✅ [0076-78] |
-| **≥2:1 ratio** | ❌ | ✅ cl. 16, 43 | ✅ [0078]; [0077] also allows 1:2 and 1:1 |
-| **100 IU IL-2 q48h** | ❌ (appears only as post-transduction feed) | ✅ cl. 17–18, 44–45 | ✅ [0078] |
+| γδ negative selection | ✅ full detail + yield (700k from 20M PBMC) | ✅ cl. 9 | ✅ [0074-75] |
+| **anti-CD3 + anti-CD28 priming** | ✅ **[0095]: Tonbo clones, plate-coated, 2 days** | ✅ cl. 10–11 | ✅ [0076] |
+| **mbIL21 K562 (CSTX002) feeder** | ✅ **[0095]** | ✅ cl. 12–15, 39–42 | ✅ [0076-78] |
+| **2:1 ratio (feeder:cell)** | ✅ **[0095]** | ✅ cl. 16, 43 | ✅ [0078]; [0077] also allows 1:2 and 1:1 |
+| **100 IU IL-2 every other day** | ✅ **[0095]** | ✅ cl. 17–18, 44–45 | ✅ [0078] |
+| **Weekly feeder re-stimulation** | ✅ **[0095]** | ❌ not claimed | ❌ not described |
+| Feeder **irradiation** | ❌ | ❌ | ❌ only in [0077] alternatives list |
 | Growth curve to 2 wk | ✅ **FIG. 1A** (no numbers in text) | — | — |
 | 98.8% CD3⁺ / 98.4% γδ⁺ | ✅ | — | — |
 | Vδ1/Vδ2 subset staining | ✅ **FIG. 1B** (no percentages in text) | — | — |
@@ -304,10 +387,14 @@ unit is wrong. Do not reproduce this stoichiometry without checking.
 | Long vs short anti-CD3 | ❌ | ❌ | ❌ |
 | Exhaustion / STAT / telomere | ❌ | ❌ | ❌ **(0 occurrences)** |
 
-**Bottom line.** The *editing* half of Protocol B is a genuine, reproducible, optimized method with
-data. The *expansion* half — the part that corresponds to what he described verbally — is claimed
-and described but its conditions are never stated in an example, and its stated rationale
-(exhaustion, JAK/STAT) appears nowhere in the filing. Claims 39–46 separately claim mbIL-21 feeder
-culture as a method of making γδ cells "susceptible to gene editing", which is the honest framing:
-the feeder phase is being claimed for what it demonstrably enables (editing), not for an
-exhaustion benefit the document never attempts to show.
+**Bottom line (revised after finding [0095]).** Both halves of Protocol B are exemplified. The
+expansion protocol is reproducible at the bench from [0095] — catalog numbers, cell numbers, ratio,
+cytokine cadence and weekly re-stimulation are all stated. Two real gaps remain: **feeder
+irradiation is never mentioned**, and **no quantitative expansion outcome appears in the text**
+(FIG. 1A/1B carry the data; the narrative reports only 98.8% CD3⁺ / 98.4% TCRγδ⁺).
+
+What is missing is not the protocol but the *rationale*: **"exhaustion", "STAT", "JAK" and
+"telomere" appear zero times.** The 2-day window is used, never justified; no duration comparison
+exists. Claims 39–46 separately claim mbIL-21 feeder culture as a method of making γδ cells
+"susceptible to gene editing" — the honest framing: the feeder phase is claimed for what the
+document demonstrates it enables (editing), not for an exhaustion benefit it never attempts to show.

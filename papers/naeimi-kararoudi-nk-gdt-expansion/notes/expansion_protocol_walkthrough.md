@@ -217,14 +217,19 @@ Three protocol details worth calling out:
 > "Figure 1a illustrates the proliferation of [γδ] T-cells **2 weeks post-isolation**… **98.8% of
 > the expanded cells are CD3+ T cells and 98.4% are TCRγδ+.**" — Examples
 
-**Caveat you should know about before quoting this protocol as validated:** the patent's *Examples*
-section never actually narrates the anti-CD3 priming step or the feeder addition. It goes straight
-from the EasySep negative selection to "proliferation of [γδ] T-cells 2 weeks post-isolation."
-The anti-CD3 window, the K562.mbIL21.4-1BBL feeders, the ≥2:1 ratio and the 100 IU q48h all appear
-in the **description ([0076]–[0078]) and the claims (10–19, 39–46)** — never in a worked example
-with a figure. There is **no expansion-fold number, no growth curve, no Vδ1:Vδ2 ratio over time,
-and no head-to-head against a longer or absent anti-CD3 window anywhere in the document.** The
-process is claimed and described; only the *editing* half is exemplified with data.
+**RETRACTED CAVEAT — the expansion protocol *is* exemplified.** Earlier versions of this note said
+the Examples never narrate the anti-CD3 priming or feeder addition. That was wrong: **[0095], headed
+"γδ T-Cells Expansion", is a complete worked expansion protocol.** See
+`protocol_B_patent_verified.md` §Step 3A for the full quote. In brief: 350,000 cells seeded in
+complete RPMI (10% FBS / 1% P-S / 1% GlutaMax / 1% HEPES) **+ 100 IU IL-2** on an **anti-CD3 (Tonbo
+40-0038-U100) and anti-CD28 (Tonbo 40-0289-U100) coated plate**; **two days post-stimulation**
+transferred to a **2:1 ratio with mbIL21 K562 feeder cells (CSTX002)**; 100 IU IL-2 **every other
+day**; "**Cells were expanded every 7 days.**"
+
+What remains genuinely absent: **no numeric fold expansion in the text** (FIG. 1A is a growth curve
+but carries no value in the narrative), **no Vδ1:Vδ2 percentages in the text** (FIG. 1B stains them),
+no donor number, **no irradiation of the feeders stated anywhere**, and **no head-to-head against a
+longer or absent anti-CD3 window.**
 
 ---
 
