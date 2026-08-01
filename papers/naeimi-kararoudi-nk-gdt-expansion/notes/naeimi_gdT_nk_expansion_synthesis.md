@@ -68,11 +68,15 @@ underlying feeder platform (K562 clone9.mbIL21.4-1BBL) is Lee-lineage technology
 - **FC21 / K562 clone 9.mbIL21.4-1BBL** — K562 (HLA-I-null CML line) engineered with CD19, CD64,
   CD86, **4-1BBL (CD137L)**, and **membrane-bound IL-21**; γ-irradiated before use.
   Clinical-grade descendant referenced in his patent: **CStX-002**.
-- Culture: irradiated feeders at **1:1 to 2:1** with lymphocytes, restimulated **weekly**,
-  **50–100 IU/mL IL-2**, media refreshed every 2–3 days (AIM-V or RPMI-1640-based;
-  CTS Immune Cell serum replacement for GMP-compatible runs).
-  (Naeimi Kararoudi et al., *Cell Rep Methods* 2022 STAR Methods; Troy et al., *Blood Neoplasia*
-  2024 Methods; Portillo et al., *OncoImmunology* 2025 Methods.)
+- Culture parameters, stated per source rather than merged (they differ):
+  - *Cell Rep Methods* 2022 (NK): feeders **2:1 (feeder:NK)**, serum-free **AIM-V/ICSR** medium,
+    **50 IU/mL IL-2**, 7-day stimulation before editing; after electroporation, feed at 24 h and
+    **re-stimulate with 2×10⁶ feeder cells at 48 h**.
+  - *OncoImmunology* 2025 (γδ/NK): feeders **1:2 (cells:feeder)** = 2 feeders per cell, complete
+    **RPMI-1640**, **IL-2 100 U/mL**, feeders replenished **weekly**, media + IL-2 **q2–3 days**.
+  - WO2025123022A1 (γδ): feeders **≥2:1 (feeder:cell)**, **100 IU IL-2 q48h**.
+  The three feeder ratios are the same number written in different orders (~2 feeders per target
+  cell); the IL-2 dose genuinely differs (50 IU in the NK paper vs 100 in the γδ work).
 
 ### 2.2 Why mbIL-21 rather than mbIL-15 — the STAT3 argument
 
@@ -108,9 +112,11 @@ schedule:
 - **Day 0** isolate (RosetteSep negative selection), start FC21 co-culture, 50 IU/mL IL-2
 - **Day 7** electroporate Cas9/RNP (Alt-R HiFi Cas9 V3 + sgRNA; AAVS1 or gene-specific gRNA)
 - **+20–30 min** transduce ssAAV6/scAAV6 donor (typically **300K MOI**, range 10K–500K)
-- **+24 h** feed; **+48 h** restimulate with feeders (1:1–2:1); **+7 d** restimulate again
+- **+24 h** feed with fresh media + 50 IU IL-2 (old media not changed); **+48 h** re-stimulate with
+  **2×10⁶ feeder cells**; 48 h after that, add 8 mL fresh IL-2-supplemented media
 - Read out CAR at day 7 and day 14 post-electroporation; CAR expression is **stable through
-  further expansion** — the historical failure mode this method solved.
+  further expansion** — the historical failure mode this method solved. (Electroporation program
+  for NK was **EN-138**; the γδ patent re-optimized to **CM-137**.)
 
 The same logic is transplanted verbatim into the γδ program (see §3).
 
@@ -168,9 +174,10 @@ Dean Lee.
   weekly**; media/IL-2 every 2–3 days; **≥5 weeks** before functional assays.
 - **No TCR agonist, no mitogen, no zoledronate** — this is stated as a deliberate design choice
   and as the novelty vs prior Vδ1 protocols.
-- Comparator arms in the same paper: **K562-mbIL-15** feeders (1:2), and classic
-  **Vγ9Vδ2** expansion = **10 mM zoledronic acid + 4 ng/mL IL-2**, G-Rex, 14 days, IL-15 added
-  from day 7, αβ-depletion at harvest.
+- Comparator arms in the same paper: **K562-mbIL-15** feeders (same 1:2), and classic
+  **Vγ9Vδ2** expansion = **"10 mM" zoledronic acid + 4 ng/mL IL-2** in a 24-well G-Rex at
+  2×10⁶ cells/cm², harvested day 14. (The "10 mM" is as printed in the paper and is almost
+  certainly a µM/mM error — standard is 1–5 µM. Don't reuse the number unchecked.)
 - CAR arming: adapted from the NK CRISPR/AAV method (ref. 27 = his own *Cell Rep Methods* 2022):
   HiFi Cas9/RNP + AAVS1 gRNA, then **ssAAV6-HER2-CAR at 300K MOI**.
 
@@ -198,7 +205,7 @@ Dean Lee.
 | | **Design A — Portillo/Ashkar 2025 (published)** | **Design B — WO2025123022A1 (patent) / CARTx** |
 |---|---|---|
 | TCR agonist | **none** | plate-bound anti-CD3, **≥6 h to ~2–7 days only** |
-| Feeder | K562-mbIL21 (± 4-1BBL), 1:2, weekly | K562.mbIL21.4-1BBL / CStX-002, ≥2:1 |
+| Feeder | K562-mbIL21 **+ 4-1BBL**, 2 feeders/cell, weekly | K562.mbIL21.4-1BBL / CStX-002, ≥2 feeders/cell |
 | IL-2 | 100 U/mL | 100 IU, ~q48h |
 | Duration to product | **≥5 weeks** | edit at ~d14–21; CAR product ~14 d post-transduction |
 | Subset output | **Vδ1-dominant** (Vδ2 lost) | **polyclonal — CAR obtained in both Vδ1 and Vδ2** |
@@ -294,7 +301,7 @@ Mechanistic backing for preferring the STAT3 arm (imported from αβ/NK biology,
 | **DOT** (Almeida 2016, Silva-Santos / Lymphact-Takeda) | anti-CD3 agonist, **feeder-free** | IL-4 + IL-15 + IFN-γ + IL-21 → IL-15 | 2–3 wk, 2 steps | **Vδ1**, NKp30/NKp44⁺ | ~2,000-fold; GMP bags; persists in vivo; NCT05001451 |
 | **One-step CAR-Vδ1** (Ferry 2022, GammaDelta Tx) | OKT-3, αβ/CD56-depleted PBMC | **IL-15 only** | single step | Vδ1 + CAR | Standard viral transduction; no alloreactivity |
 | **aAPC polyclonal** (Deniger 2014, MD Anderson) | K562 aAPC clone 4 (CD19/CD64/CD86/**4-1BBL**/mbIL15) | IL-2 **+ IL-21** (soluble) | ~3–4 wk | **polyclonal** Vδ1/Vδ2/Vδ1negVδ2neg | Proliferation required **CD137L**; in vivo potency polyclonal > Vδ1 > Vδ1negVδ2neg > Vδ2 |
-| **Naeimi Kararoudi — Design A** (Portillo 2025) | **none** | **K562-mbIL21** feeder + IL-2 | ≥5 wk | **Vδ1**-dominant | 500–26,000-fold; metabolically fit in ascites; HER2-CAR via CRISPR/AAV6 |
+| **Naeimi Kararoudi — Design A** (Portillo 2025) | **none** | **K562-mbIL21 + 4-1BBL** feeder + IL-2 | ≥5 wk | **Vδ1**-dominant | 500–26,000-fold; metabolically fit in ascites; HER2-CAR via CRISPR/AAV6 |
 | **Naeimi Kararoudi — Design B** (WO2025123022A1) | **anti-CD3, ≥2 d only** | **K562.mbIL21.4-1BBL (CStX-002)** + 100 IU IL-2 | edit d14–21 | **polyclonal (Vδ1 + Vδ2)** | CD70 KO + CD70-CAR into AAVS1; Nucleofector CM-137; AAV6 MOI 75K |
 
 His differentiator vs the field is not the CAR and not the subset — it is **replacing the

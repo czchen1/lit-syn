@@ -41,9 +41,14 @@ isolation step:
 
 **This is the most self-consistent part of the design.** He refuses to let an antibody touch the
 TCR incidentally during isolation, and then applies a TCR stimulus deliberately, on a clock, in the
-next step. Contrast Portillo, which uses **positive** selection ("EasySep™ Human CD3 Positive
-Selection Kit II") — i.e. anti-CD3 beads on the cells — which is exactly the incidental ligation
-[0075] warns about.
+next step. Contrast Portillo, whose *expansion* cultures start from bulk PBMC or from cells taken
+with **positive** selection ("EasySep™ Human CD3 Positive Selection Kit II") — i.e. anti-CD3 beads
+on the cells — which is the incidental ligation [0075] warns about. Fair qualifier: Portillo *does*
+use negative selection where it matters most to them — their **fresh, unexpanded** comparator γδ
+cells were isolated "using a TCRγ/δ+ T cell isolation kit (Miltenyi Biotec) or a EasySep™ Human
+Gamma/Delta T Cell Isolation Kit (STEMCELL Technologies) and were used immediately in functional
+assays." So the difference is a choice made for the expansion arm, not a lab-wide difference in
+practice.
 
 ### Step 3 — the **short TCR priming window**
 
@@ -132,6 +137,12 @@ The two-signal logic of this step, made explicit:
 
 > "**19. The method of claims 7-18, wherein the γδ T cells were expanded for at least 7 days.**"
 
+> "20. The method of claims 7-19, wherein, **at least 21 days after isolation of γδ T cells**, at
+> least 3 million γδ T cells /condition were electroporated with Cas/RNP complexes targeting AAVS1
+> safe harbor site."
+
+The 21-day figure is not merely a description — it is **in the claims**, which settles the point.
+
 So: TCR phase ≤7 d, feeder phase ≥7 d and typically to ~21 d. **The "short" is the TCR phase. The
 overall culture is not short.** Anyone reading his verbal comment as "short culture" has it wrong.
 
@@ -176,9 +187,12 @@ proliferative state on the day he electroporates.
 
 Three protocol details worth calling out:
 
-- **AAV 20 min after electroporation**, both times. Identical to NK: *"Electroporation of the NK
-  cells with Cas9/RNP targeting AAVS1 followed **30 min later** by AAV transduction"* (CRM 2022).
+- **AAV 20 min after electroporation**, both times. Near-identical to NK: *"Electroporation of the
+  NK cells with Cas9/RNP targeting AAVS1 followed **30 min later** by AAV transduction"* (CRM 2022).
   The window is when the double-strand break is fresh and HDR template needs to be present.
+- **The Nucleofector program differs by cell type and was re-optimized.** NK used *program EN-138*
+  (CRM 2022); γδ screened EO-115 / CM-137 / EH-115 and picked **CM-137**. So the port from NK to γδ
+  was not blind — at least the electroporation parameters were empirically re-derived.
 - **MOI 75K for γδ vs 300K for NK.** CRM 2022: *"we transduced 3 × 10^5 electroporated cells with
   **300K MOI** (10-500K MOI if needed)"*, and Portillo used *"an MOI of 300 K"*. The patent's γδ
   process gets away with **4× less AAV**. Whether that reflects better transducibility of
@@ -187,7 +201,16 @@ Three protocol details worth calling out:
   the NK paper (*"AAVS1 was targeted using gRNA (crRNA: 5′GGGGCCACTAGGGACAGGAT)"*, CRM 2022).
   The γδ program is a direct port of the NK toolkit, not a parallel invention.
 - **"CD70CAR in both Vδ1 and Vδ2 subsets"** is the payoff of the anti-CD3 step. Compare Portillo,
-  where Vδ2 is gone (below).
+  where Vδ2 is gone (below). Caveat: the patent shows CAR *in* both subsets by flow; it does not
+  report what fraction of the culture each subset represents, so "polyclonal" is supported for the
+  edited cells but the Vδ1:Vδ2 composition of the product is not quantified anywhere.
+- **Post-edit feeder re-stimulation matches NK almost exactly.** Patent: "24 hours post transduction
+  1 mL of 10% RPMI… + 100IU IL2 was added". CRM 2022: "The day after electroporation and
+  transduction, we added 300ul of fresh media containing 50 IU of IL2… The cells were kept in
+  culture for **48 h after electroporation and were then re-stimulated with 2 × 10^6 feeder
+  cells**". Portillo: "The transduced cells were replenished with irradiated K562 mb-IL-21 cells
+  **48 h after electroporation** and cryopreserved after 7 days." All three: feed at 24 h,
+  re-feeder at 48 h.
 
 ### Step 7 — what the protocol yields
 
@@ -224,16 +247,32 @@ Differences from Protocol B that actually change the product:
 
 | | Protocol A (Portillo) | Protocol B (patent) |
 |---|---|---|
-| Selection | CD3 **positive** (anti-CD3 beads) | γδ **negative** |
+| Selection (expansion arm) | bulk PBMC, or CD3 **positive** | γδ **negative** |
 | TCR agonist | **none** | plate-bound anti-CD3, ≥6 h–7 d |
-| Feeder:cell | **1:2** (feeder is the *minority*) | **≥2:1** (feeder in excess) |
-| 4-1BBL on feeder | "K562 mb-IL-21" — 4-1BBL not stated | mbIL21 **+ 4-1BBL** explicitly |
+| Feeder:cell | 1:2 cells:feeder = **2 feeders per cell** | "at least a 2:1 ratio" feeder:cell = **≥2 feeders per cell** |
+| 4-1BBL on feeder | **yes** — see correction below | mbIL21 **+ 4-1BBL** explicitly |
 | IL-2 | 100 U/mL, q2–3 d | 100 IU, q48h |
 | Duration | **≥5 weeks**, weekly restim | edit at d14–21 |
 
-The 1:2 vs ≥2:1 inversion is not a typo on either side — Portillo writes "at a 1:2 ratio" for
-cells:feeder and the patent writes "at least a 2:1 ratio" for feeder:cells, so they are actually
-**within 4× of each other and both feeder-rich**, but the patent demands more feeder per cell.
+**Two corrections worth stating plainly, because the obvious reading of the wording is wrong.**
+
+*Feeder ratio.* Portillo writes "at a **1:2** ratio" and the patent writes "at least a **2:1**
+ratio" — but they are written in opposite orders. Portillo's is cells:feeder; the patent's is
+explicitly "2:1 ratio **with** mbIL21-expressing feeder cells" following the NK convention
+(feeder:cell). Both therefore mean **~2 feeder cells per γδ cell**, matching the NK protocol
+("stimulated with irradiated feeder cells (FC21)… at a **ratio of 2:1 (feeder:NK)**", CRM 2022).
+The apparent 4× discrepancy is an artifact of notation; the patent's "at least" only makes it a
+floor rather than a fixed value. **This is not a real difference between the two protocols.**
+
+*4-1BBL.* Portillo's shorthand "K562 mb-IL-21" hides the costimulatory ligand, but the paper's
+introduction spells it out: "K562 feeder cells expressing **membrane-bound IL-21 and 4-1BBL**
+(K562-mb-IL-21) have been used for the large-scale expansion of highly potent anti-tumor human NK
+cells for clinical use". So **both protocols use the same mbIL-21 + 4-1BBL feeder**; the feeder is
+not a variable between them. (Portillo also notes the feeders "were kindly obtained from Dr." —
+Lee — confirming they are the same FC21-lineage line.)
+
+What that leaves as the *actual* differences: **the TCR-priming step, the starting selection, and
+the timepoint at which the product is taken.** Nothing else.
 
 ### The outputs, quoted
 
@@ -256,8 +295,14 @@ of Denman's NK result, and the closest thing to evidence that the "IL-21 not IL-
 
 ### The comparator arm, i.e. what a TCR-driven protocol looks like in the same hands
 
-> "**Vγ9 Vδ2 T cells were activated with 10 mM Zoledronic acid** … **and 4 ng/mL IL-2** … Cells were
-> harvested on **day 14** of culture" — Portillo, Methods
+> "Vδ2 T cell expansion — **Vγ9 Vδ2 T cells were activated with 10 mM Zoledronic acid**
+> (Sigma-Aldrich) **and 4 ng/mL IL-2** (Cellgenix) from bulk PBMCs. **PBMCs were seeded at 2x10^6
+> cells/cm^2 in a 24-well G-Rex plate** (Wilson Wolf). Cells were maintained in complete RPMI 1640
+> supplemented with 1 mM sodium pyruvate, 1 mM non-essential [amino acids]…" — Portillo, Methods
+
+(Flagging a probable error **in the published paper**, not in my transcription: "10 mM zoledronic
+acid" is ~1,000–10,000× the standard γδ-expansion concentration, which is 1–5 µM. The paper says
+mM; almost certainly µM was intended. Don't propagate the number without checking with the authors.)
 
 and the functional consequence they report: ZA-expanded Vδ2 cells lost CD71 (transferrin receptor /
 nutrient uptake) and metabolic competence in patient ovarian ascites, where the mbIL-21-expanded
@@ -288,10 +333,12 @@ patent is the answer to the second sentence — add TCR stimulation back, but bo
    the ends. "At least 2 days" in claim 11 looks like a claim-drafting floor, not an optimum.
 2. **Feeder:cell ratio is asserted, never optimized.** ≥2:1 is inherited from the NK protocol
    verbatim. γδ cells are not NK cells; 4-1BB expression kinetics after anti-CD3 priming differ.
-3. **4-1BBL vs mbIL-21 is unresolved for γδ.** Deniger's data say proliferation "was dependent upon
-   CD137L", i.e. the costim, whereas the whole STAT3 story is about IL-21. Portillo's feeder is
-   written as "K562 mb-IL-21" without stating 4-1BBL. Which signal is actually carrying the γδ
-   expansion has not been dissected in his own work.
+3. **4-1BBL vs mbIL-21 is unresolved for γδ.** Deniger's data say γδ proliferation "was dependent
+   upon **CD137L** expression on aAPC and addition of exogenous IL2 and IL21", i.e. the
+   costimulatory ligand was the non-negotiable component, whereas the whole STAT3 narrative is about
+   IL-21. Both protocols here use a feeder carrying **both**, and neither drops one to see which is
+   load-bearing in γδ cells. The mbIL-21-vs-mbIL-15 comparisons (Denman in NK, Portillo Fig. S2 in
+   γδ) hold 4-1BBL constant and vary the cytokine — they cannot answer this.
 4. **Nothing verifies the STAT3 mechanism in γδ cells.** No pSTAT3 blot, no telomere/hTERT
    measurement, no JAK inhibitor control in either document. "Feeders that do JAK/STAT stimulation"
    is a mechanistic claim carried entirely by NK data (Denman 2012) and inference from IL-21R
