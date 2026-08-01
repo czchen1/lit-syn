@@ -15,6 +15,10 @@ against the wider γδ T cell manufacturing literature.
 - `index.tsv` — curated papers, patents, and tech-transfer listings with the specific culture
   parameters extracted into the `notes` column.
 - `notes/expansion_protocol_walkthrough.md` — step-by-step walkthrough of both expansion protocols with verbatim quotes from the patent, the Portillo Methods, and the NK STAR Methods.
+- `notes/protocol_B_patent_verified.md` — line-by-line verification of the patent protocol against
+  the full text: what is exemplified vs claimed vs merely described, plus 11 internal
+  inconsistencies / drafting defects found in the filing. **Supersedes the Protocol B sections of
+  the walkthrough where they disagree.**
 - `notes/naeimi_gdT_nk_expansion_synthesis.md` — the synthesis: decoding of the verbal statement,
   the mbIL-21/STAT3 NK platform it is built on, the two coexisting γδ process designs, a
   head-to-head against other γδ manufacturing platforms, and open questions.
@@ -24,8 +28,9 @@ against the wider γδ T cell manufacturing literature.
 
 His statement maps almost literally onto patent **WO2025123022A1**: γδ T cells are primed on
 plate-bound anti-CD3 for a deliberately bounded window (claimed "at least 2 days"; spec allows
-6 h – 7 d), then handed off to irradiated **K562.mbIL21.4-1BBL** feeders (clinical-grade
-**CStX-002**) at ≥2:1 with 100 IU/mL IL-2 every ~48 h. "JAK/STAT stimulation" = membrane-bound
+6 h – 7 d), then handed off to **K562.mbIL21.4-1BBL** feeders (clinical-grade **CStX-002**) at ≥2:1 with
+100 IU/mL IL-2 every ~48 h. (The patent never actually recites that these feeders are *irradiated* —
+see the verification note; Portillo and the NK protocol both do.) "JAK/STAT stimulation" = membrane-bound
 IL-21 → JAK1/JAK3 → **STAT3** (plus 4-1BBL → NF-κB), the same engine the Lee lab built for NK cells
 (Denman 2012: 47,967-fold vs 825-fold for mbIL-15, with *lengthened* rather than shortened
 telomeres). The feeder phase is also claimed independently as the state that makes γδ T cells
