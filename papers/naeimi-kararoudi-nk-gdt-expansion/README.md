@@ -15,6 +15,8 @@ against the wider γδ T cell manufacturing literature.
 - `index.tsv` — curated papers, patents, and tech-transfer listings with the specific culture
   parameters extracted into the `notes` column.
 - `notes/expansion_protocol_walkthrough.md` — step-by-step walkthrough of both expansion protocols with verbatim quotes from the patent, the Portillo Methods, and the NK STAR Methods.
+- `notes/protocol_B_clean.md` — **start here for Protocol B.** Clean single-source, patent-only
+  step list with every line tagged worked-example / description / claim, plus a change log.
 - `notes/protocol_B_patent_verified.md` — line-by-line verification of the patent protocol against
   the full text: what is exemplified vs claimed vs merely described, plus 11 internal
   inconsistencies / drafting defects found in the filing. **Supersedes the Protocol B sections of
