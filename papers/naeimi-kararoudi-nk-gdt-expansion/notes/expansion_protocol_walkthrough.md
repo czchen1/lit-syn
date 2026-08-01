@@ -452,10 +452,22 @@ patent is the answer to the second sentence — add TCR stimulation back, but bo
    IL-21. Both protocols here use a feeder carrying **both**, and neither drops one to see which is
    load-bearing in γδ cells. The mbIL-21-vs-mbIL-15 comparisons (Denman in NK, Portillo Fig. S2 in
    γδ) hold 4-1BBL constant and vary the cytokine — they cannot answer this.
-4. **Nothing verifies the STAT3 mechanism in γδ cells.** No pSTAT3 blot, no telomere/hTERT
-   measurement, no JAK inhibitor control in either document. "Feeders that do JAK/STAT stimulation"
-   is a mechanistic claim carried entirely by NK data (Denman 2012) and inference from IL-21R
-   biology. A tofacitinib/ruxolitinib add-back would settle it in a week.
+4. **Nothing verifies the STAT3 mechanism in γδ cells.** No pSTAT3 measurement and no telomere/hTERT
+   data in either document. "Feeders that do JAK/STAT stimulation" is a mechanistic claim carried
+   entirely by NK data (Denman 2012) and inference from IL-21R biology.
+
+   ⚠️ **A JAK inhibitor is the wrong experiment** (an earlier version of this note proposed
+   tofacitinib/ruxolitinib — retracted). IL-2, IL-15 and IL-21 are all γc cytokines signalling
+   through the **same JAK1 + JAK3 pair**; the divergence is at the STAT docking step, set by the
+   private receptor chain (IL-2Rβ → STAT5A/B; IL-21R → STAT3/STAT1). A JAK inhibitor would block
+   both arms equally and discriminate nothing. **The correct term is "STAT3-biased", not
+   "JAK/STAT3-biased"** — the JAK layer is identical across these cytokines. The discriminating
+   experiments are **pSTAT3 vs pSTAT5 flow during feeder co-culture**, and STAT3 KO or a selective
+   STAT3 inhibitor with the rest of the culture held constant.
+
+   Note also that only *half* the feeder is JAK/STAT: mbIL-21 → JAK1/JAK3 → STAT3, but
+   **4-1BBL → 4-1BB → TRAF1/2 → NF-κB**, no JAKs or STATs involved. Deniger's γδ data point at
+   the latter ("dependent upon CD137L").
 5. **Two-week vs five-week product.** The patent edits at d14–21; Portillo assays at ≥5 weeks. If
    the short-culture rationale is real, the *published functional data* were generated on cells the
    rationale says are suboptimal. Worth asking which duration the CARTx clinical process uses.
