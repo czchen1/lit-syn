@@ -14,6 +14,7 @@ against the wider γδ T cell manufacturing literature.
 
 - `index.tsv` — curated papers, patents, and tech-transfer listings with the specific culture
   parameters extracted into the `notes` column.
+- `notes/expansion_protocol_walkthrough.md` — step-by-step walkthrough of both expansion protocols with verbatim quotes from the patent, the Portillo Methods, and the NK STAR Methods.
 - `notes/naeimi_gdT_nk_expansion_synthesis.md` — the synthesis: decoding of the verbal statement,
   the mbIL-21/STAT3 NK platform it is built on, the two coexisting γδ process designs, a
   head-to-head against other γδ manufacturing platforms, and open questions.
