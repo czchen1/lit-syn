@@ -1,0 +1,46 @@
+# Anti-CAR antibodies in solid-tumour CAR-T, and rituximab / B-cell-depletion dosing
+
+Literature collection for one question: **is there a rituximab dosing schedule, given around CAR-T therapy
+for solid tumours, to avoid anti-CAR (anti-idiotype / anti-drug) antibodies?**
+
+**Short answer: no such schedule has been published.** The one in-vivo experiment that gave anti-CD20 before
+a CAR-T product (7 mg/kg, 7 days pre-infusion, SIV-infected macaques) **did not prevent anti-CAR IgG**
+(PMID 36825014), and the only in-human attempt at B-cell depletion alongside a solid-tumour CAR used a CD19
+CAR rather than rituximab and did not improve persistence (n = 3, PMID 32730744).
+Every concrete rituximab schedule in this collection comes from a *different* indication —
+enzyme replacement therapy, AAV gene therapy, haemophilia inhibitors, or autoimmunity — and is labelled as
+indirect. See `REPORT.md`.
+
+## Files
+
+- `REPORT.md` — the synthesis: direct evidence table, dosing-schedule table with evidence class, timing/depth
+  principles, CAR-T-specific hazards, alternatives, and an explicitly-labelled extrapolated schedule.
+- `index.tsv` — 185 curated records with category, PMID/PMCID/DOI, local full-text path, and a per-paper note
+  on why it is included.
+- `notes/dosing_schedules_extracted.md` — dose, route, number of doses, and timing relative to antigen
+  exposure, quoted from the primary sources.
+- `notes/search_strategy.md` — queries, record counts, screening, and the inclusion/exclusion rules.
+- `fulltext/` — 101 open-access full texts (JATS XML from Europe PMC/PMC, or publisher OA PDFs). Rows marked
+  `not_open_access` are paywalled; abstract-level evidence only.
+
+## Categories in `index.tsv`
+
+| Category | Meaning |
+|---|---|
+| `A_anticar_evidence_solid` | Anti-CAR/anti-idiotype antibodies documented in solid-tumour (or non-B-cell-malignancy) engineered T cells, and the two B-cell-depletion attempts. **Primary evidence.** |
+| `B_mechanism_assays_regulatory` | Mechanism, ADA assays, immunogenicity guidance. Haematology-derived papers here are marked MECHANISM ONLY. |
+| `C_solid_redosing_trials` | Solid-tumour CAR-T trials that redose (IV, ICV, intrapleural, intraperitoneal, intra-arterial) — the setting where ADA matters. |
+| `D_ritux_pharmacology_schedule` | What determines a rituximab schedule: dose–depletion–duration, tissue vs blood depletion, plasma-cell escape, resistance, safety cost. |
+| `E_prophylaxis_gene_therapy` | Rituximab/anti-CD20 prophylaxis that *did* prevent anti-drug antibodies to a novel protein — AAV and gene therapy. Indirect. |
+| `F_prophylaxis_ITI_regimens` | Immune tolerance induction regimens with hard schedules: Pompe/MPS ERT and haemophilia. Indirect but the best-specified. |
+| `G_solid_tumour_HAMA_precedent` | Solid-tumour precedent for suppressing anti-murine-protein humoral responses (high-dose cyclophosphamide, cyclosporin A, deoxyspergualin). |
+| `H_lymphodepletion_context` | Lymphodepletion and concomitant immunosuppression already used with CAR-T, and the cost of B-cell ablation. |
+| `I_confusables_do_not_confuse` | **Not evidence.** Rituximab as a CD20/RQR8 CAR kill switch, rituximab as anti-tumour/target-sensitising therapy, dual CD19/CD20 targeting. |
+
+## Scope rules
+
+Excluded from the evidence set (per the request not to be misled by B-cell cancers): CAR-T for lymphoma,
+leukaemia, myeloma or other B-cell malignancies; rituximab as direct anti-tumour therapy; rituximab as a
+CAR safety switch; autoimmune CD19 CAR-T. Where such a paper carries transferable mechanism (e.g. the first
+human demonstration of anti-transgene rejection, or plasma-cell survival during B-cell aplasia) it is
+retained with an explicit MECHANISM ONLY flag in its note.
