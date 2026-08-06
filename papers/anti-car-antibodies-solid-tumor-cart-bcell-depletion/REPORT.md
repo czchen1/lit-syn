@@ -9,31 +9,60 @@ anti-tumour/target-sensitising therapy is catalogued separately as a confusable,
 
 ## 1. Bottom line
 
-1. **There is no published rituximab dosing schedule for solid-tumour CAR-T given to prevent anti-CAR
-   antibodies.** Targeted PubMed searching (~3,100 records screened, `notes/search_strategy.md`) found no
-   clinical trial, case report, or protocol in which rituximab was administered around a solid-tumour CAR-T
-   product for ADA prophylaxis. Any schedule quoted as "the" schedule for this indication is extrapolation.
-2. **The one in-vivo test of anti-CD20 before a CAR-T product failed to prevent anti-CAR antibodies.**
+1. **No rituximab schedule for this indication has been *published*, but two active trials specify one and
+   their results are not out yet.** Targeted PubMed searching (~3,100 records, `notes/search_strategy.md`)
+   found no *publication*; ClinicalTrials.gov does (full quotes and URLs in
+   `notes/registry_and_unpublished_evidence.md`):
+   - **Stanford, GD2-CAR T, H3K27M+ diffuse midline glioma, NCT04196413 Arm D** (recruiting): rituximab
+     **750 mg/m²/day IV on days −6 and −5 for the first round, then 750 mg/m² on day −5 for subsequent
+     rounds**; cyclophosphamide 500 mg/m² + fludarabine 30 mg/m² on days −4/−3/−2; GD2-CAR T ICV
+     10–50 × 10⁶ cells on day 0, repeated with re-lymphodepletion. Note this is **2× the conventional
+     375 mg/m² dose**, and it is repeated per cycle rather than given as a one-off induction. Arms A–C use
+     no rituximab.
+   - **Penn, CART-EGFR-IL13Rα2 (murine EGFR806 scFv + humanised IL13Rα2 scFv), newly diagnosed GBM,
+     NCT06973096 Cohort B**: rituximab **375 mg/m²/day × 1 day** with fludarabine 30 mg/m² and
+     cyclophosphamide 300 mg/m² × 3 days, before each **q6-week** repeat ICV cycle. Cohort A (single dose,
+     no repeat) gets no lymphodepletion and no rituximab.
+   Neither has reported immunogenicity or efficacy data. Any *efficacy* claim for rituximab in this setting
+   is still extrapolation.
+2. **The rationale is now documented, in the same trial that added rituximab.** Chen et al. (medRxiv 2026,
+   PMID 42465905, `fulltext/chen_2026_medrxiv_anticar_dmg.pdf`) show in NCT04196413 that GD2-CAR T therapy
+   induces CD4+/CD8+ anti-CAR T-cell reactivity against murine scFv and junctional epitopes plus circulating
+   **human anti-CAR antibodies (HACAs)** that bind CAR-expressing cells and inhibit CAR-mediated killing;
+   HACA appearance tracked with progression, and HACA level correlated inversely with CAR-T persistence.
+   They state Arm-A outcomes will be compared with "patients currently being enrolled on arms delivering an
+   intensified lymphodepletion regimen designed to reduce or eliminate anti-CAR immune responses" — Arm D.
+   The January 2026 CIRM board presentation (`fulltext/mackall_2026_cirm_board_gd2cart.pdf`) tabulates the
+   arms — anti-CAR immunity in **all** Arm-B patients (no lymphodepletion) and early, versus **many but
+   late** in Arm A, with Arm C (sequential lymphodepletion) showing "lower levels but still present" — and
+   concludes the target product profile "requires sequential intracerebral infusions and sequential
+   lymphodepleting chemotherapy, **likely with rituximab (mirror Arm D)**".
+3. **Same preprint gives the reason B-cell-malignancy CAR-T tells you nothing here**: those patients are
+   already immunosuppressed and CD19/BCMA products self-deplete B and plasma cells, "limiting induction of
+   anti-CAR antibody responses". Solid-tumour patients have intact humoral immunity — e.g. **95% of
+   recipients** of the CLDN18.2 CAR satri-cel in gastric/GEJ cancer developed anti-CAR antibodies
+   (Lancet 2025, PMID 40460847).
+4. **The one in-vivo test of anti-CD20 before a CAR-T product failed to prevent anti-CAR antibodies.**
    Pampusch 2023 (PMID 36825014, non-human primate, SIV — not a tumour) gave **anti-CD20 7 mg/kg IV as a
    single dose 7 days before CAR-T infusion**. B cells were fully depleted in blood but only partially in
    lymph nodes, and **all three CAR-T-treated animals still had anti-CAR IgG at day 56**; the authors
    attribute the failure to incomplete depletion of lymphoid follicles. Pre-treatment was also associated
    with prolonged IL-6 elevation and *faster* CAR-T disappearance. This is the closest thing to direct
    evidence and it is negative for a single low pre-dose.
-3. **The problem being solved is real and solid-tumour-specific.** Anti-idiotype/anti-CAR humoral responses
+5. **The problem being solved is real and solid-tumour-specific.** Anti-idiotype/anti-CAR humoral responses
    have neutralised or curtailed solid-tumour CAR-T in: CAIX CAR-T in renal cell carcinoma (PMID 20889925,
    23423337), FRα CAR-T in ovarian cancer (17062687), TAG-72 CAR-T in colorectal cancer (28344808),
    mesothelin CAR-T where human anti-chimeric antibodies appeared in 8/14 patients (31420241), and most
    severely mRNA mesothelin CAR-T, where intermittent repeat dosing of a murine scFv produced **anaphylaxis
    and cardiac arrest** via IgE (24777247).
-4. **The field's own B-cell-depletion attempt in a solid tumour used a CAR, not rituximab — and was
+6. **The field's own B-cell-depletion attempt in a solid tumour used a CAR, not rituximab — and was
    negative**: in metastatic pancreatic cancer a CD19 CAR was co-infused with a mesothelin CAR to deplete
    B cells; B cells became undetectable by 7–10 days and stayed so for ≥28 days, but CART-Meso persistence
    did not improve at the dose tested (n = 3, PMID 32730744).
-5. **If a rituximab-containing regimen is to be designed, the transferable schedules come from immune
+7. **If a rituximab-containing regimen is to be designed, the transferable schedules come from immune
    tolerance induction (ITI) in enzyme replacement therapy, AAV gene therapy and haemophilia** (§3), and
    from one solid-tumour precedent using cyclophosphamide rather than rituximab (§4). All are indirect.
-6. **Design-side mitigation is better evidenced than immunosuppression**: humanised/fully human binders,
+8. **Design-side mitigation is better evidenced than immunosuppression**: humanised/fully human binders,
    linker choice, and ADA monitoring before redosing (§6).
 
 ---
@@ -50,6 +79,9 @@ anti-tumour/target-sensitising therapy is catalogued separately as a confusable,
 | Pancreas (n = 3) | mesothelin CAR-T **co-infused with CD19 CAR-T** | B cells undetectable 7–10 d and ≥28 d, but **CART-Meso persistence not improved** | yes — CAR-mediated, not rituximab; **negative** | 32730744 |
 | NHP, SIV (not tumour) | CD4-MBL-CAR/CXCR5 T cells | anti-CAR IgG in **all** animals, ADCC-competent | — | 36582226 |
 | NHP, SIV (not tumour) | same CAR + **anti-CD20 7 mg/kg IV, day −7, single dose** | **anti-CAR IgG still developed in all animals**; partial LN depletion only | yes — **failed** | 36825014 |
+| Gastric / GEJ | satri-cel (CLDN18.2) CAR-T, up to 3 infusions, phase 2 randomised | **anti-CAR antibodies in 95% of recipients** | none | 40460847 |
+| H3K27M+ DMG | GD2-CAR T (murine 14g2a scFv), IV then sequential ICV, NCT04196413 | anti-CAR CD4/CD8 responses + **HACAs that inhibit CAR killing**; HACA inversely correlated with persistence, temporally linked to progression | **Arm D adds rituximab 750 mg/m² d−6/−5 then d−5 per round**; no results yet | 42465905 (preprint) |
+| Newly diagnosed GBM | CART-EGFR-IL13Rα2 (murine EGFR806 scFv), q6-week repeat ICV cycles | not yet reported | **rituximab 375 mg/m² ×1 + Flu/Cy per cycle**, Cohort B only; no results yet | NCT06973096 |
 
 Solid-tumour trials that depend on repeat dosing — and therefore carry the ADA risk this question is about —
 are indexed under `C_solid_redosing_trials` (HER2 sarcoma up to 12 infusions, 25800760; repeated
@@ -134,11 +166,26 @@ All extracted verbatim from the sources in `fulltext/` (see `notes/dosing_schedu
 
 ---
 
-## 7. If a schedule must be proposed (extrapolation, not evidence)
+## 7. If a schedule must be proposed
 
-Flagged clearly as **hypothesis-generating**; it has never been tested with a CAR-T product, and the only
-in-vivo attempt with a single low pre-dose failed (36825014). A defensible starting design, assembled from
-§3–§4 and requiring formal protocol review:
+**Preferred: copy a schedule that is actually being tested in a solid-tumour CAR-T protocol** rather than
+porting one from ERT/AAV. The two options, with no outcome data yet
+(`notes/registry_and_unpublished_evidence.md`):
+
+| | Stanford NCT04196413 Arm D | Penn NCT06973096 Cohort B |
+|---|---|---|
+| Rituximab | 750 mg/m²/day IV, days −6 **and** −5 first round; 750 mg/m² day −5 each later round | 375 mg/m²/day × 1 day, each cycle |
+| Chemo | Cy 500 + Flu 30 mg/m², days −4/−3/−2 | Cy 300 + Flu 30 mg/m² × 3 days |
+| CAR-T | ICV 10–50 × 10⁶, day 0, repeated | ICV, q6 weeks |
+| Logic | double the standard dose, before **every** round | standard dose, before **every** round |
+
+Both re-dose rituximab with each CAR-T cycle rather than giving a single induction — consistent with §4:
+blood depletion is easy, follicular/germinal-centre depletion is not, and repeat CAR-T exposure keeps
+re-priming the response.
+
+The generic ITI-derived design below is **hypothesis-generating** and pre-dates the trial schedules above;
+it has never been tested with a CAR-T product, and the only in-vivo attempt with a single low pre-dose
+failed (36825014):
 
 - **Precondition, do not react**: rituximab **375 mg/m² IV weekly, starting ≥ 2–4 weeks before the first CAR-T
   infusion**, for ≥ 2–4 doses (the ITI/AAV templates: 32849613, 25541616) — with the explicit caveat that
