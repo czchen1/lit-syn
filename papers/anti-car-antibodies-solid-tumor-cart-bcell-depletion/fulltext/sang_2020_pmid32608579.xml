@@ -1,0 +1,514 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><?da-xref-anchor-style superscripted?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="nlm-id">101595310</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7433814</article-id><article-id pub-id-type="pmcid-ver">PMC7433814.1</article-id><article-id pub-id-type="pmcaid">7433814</article-id><article-id pub-id-type="pmcaiid">7433814</article-id><article-id pub-id-type="pmid">32608579</article-id><article-id pub-id-type="doi">10.1002/cam4.3259</article-id><article-id pub-id-type="publisher-id">CAM43259</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Cancer Research</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Phase II trial of co‐administration of CD19‐ and CD20‐targeted chimeric antigen receptor T cells for relapsed and refractory diffuse large B cell lymphoma</article-title><alt-title alt-title-type="left-running-head">SANG et al.</alt-title></title-group><contrib-group><contrib id="cam43259-cr-0001" contrib-type="author"><name name-style="western"><surname>Sang</surname><given-names initials="W">Wei</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1170-7074</contrib-id><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0002" contrib-type="author"><name name-style="western"><surname>Shi</surname><given-names initials="M">Ming</given-names></name><xref ref-type="aff" rid="cam43259-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam43259-cr-0003" contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="J">Jingjing</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0004" contrib-type="author"><name name-style="western"><surname>Cao</surname><given-names initials="J">Jiang</given-names></name><xref ref-type="aff" rid="cam43259-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="cam43259-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cam43259-cr-0005" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="L">Linyan</given-names></name><xref ref-type="aff" rid="cam43259-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="cam43259-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cam43259-cr-0006" contrib-type="author"><name name-style="western"><surname>Yan</surname><given-names initials="D">Dongmei</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0007" contrib-type="author"><name name-style="western"><surname>Yao</surname><given-names initials="M">Meixue</given-names></name><xref ref-type="aff" rid="cam43259-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cam43259-cr-0008" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="H">Hui</given-names></name><xref ref-type="aff" rid="cam43259-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cam43259-cr-0009" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="W">Weidong</given-names></name><xref ref-type="aff" rid="cam43259-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="cam43259-cr-0010" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="B">Bing</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0011" contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="K">Kemeng</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0012" contrib-type="author"><name name-style="western"><surname>Song</surname><given-names initials="X">Xuguang</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0013" contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="C">Cai</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0014" contrib-type="author"><name name-style="western"><surname>Jiao</surname><given-names initials="J">Jun</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0015" contrib-type="author"><name name-style="western"><surname>Qin</surname><given-names initials="Y">Yuanyuan</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0016" contrib-type="author"><name name-style="western"><surname>Sang</surname><given-names initials="T">Tingting</given-names></name><xref ref-type="aff" rid="cam43259-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="cam43259-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cam43259-cr-0017" contrib-type="author"><name name-style="western"><surname>Ma</surname><given-names initials="Y">Yuanyuan</given-names></name><xref ref-type="aff" rid="cam43259-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cam43259-cr-0018" contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="M">Mei</given-names></name><xref ref-type="aff" rid="cam43259-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cam43259-cr-0019" contrib-type="author"><name name-style="western"><surname>Gao</surname><given-names initials="X">Xiang</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0020" contrib-type="author"><name name-style="western"><surname>Cheng</surname><given-names initials="H">Hai</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0021" contrib-type="author"><name name-style="western"><surname>Yan</surname><given-names initials="Z">Zhiling</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0022" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="D">Depeng</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0023" contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="H">Haiying</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0024" contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="F">Feng</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0025" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="Y">Ying</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0026" contrib-type="author"><name name-style="western"><surname>Zeng</surname><given-names initials="L">Lingyu</given-names></name><xref ref-type="aff" rid="cam43259-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="cam43259-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cam43259-cr-0027" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="Z">Zhenyu</given-names></name><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam43259-cr-0028" contrib-type="author" corresp="yes"><name name-style="western"><surname>Zheng</surname><given-names initials="J">Junnian</given-names></name><xref ref-type="aff" rid="cam43259-aff-0002">
+<sup>2</sup>
+</xref><address><email>jnzhengxzmu@126.com</email></address></contrib><contrib id="cam43259-cr-0029" contrib-type="author" corresp="yes"><name name-style="western"><surname>Xu</surname><given-names initials="K">Kailin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1375-1084</contrib-id><xref ref-type="aff" rid="cam43259-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cam43259-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="cam43259-aff-0004">
+<sup>4</sup>
+</xref><address><email>lihmd@163.com</email></address></contrib></contrib-group><aff id="cam43259-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>the Affiliated Hospital of Xuzhou Medical University</institution>
+<city>Xuzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cam43259-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Cancer Institute</named-content>
+<institution>Xuzhou Medical University</institution>
+<city>Xuzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cam43259-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Blood Diseases Institute</named-content>
+<institution>Xuzhou Medical University</institution>
+<city>Xuzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cam43259-aff-0004">
+<label><sup>4</sup></label>
+<institution>Key Laboratory of Bone Marrow Stem Cell</institution>
+<city>Jiangsu Province</city>
+<country country="CN">China</country>
+</aff><aff id="cam43259-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Epidemiology and Biostatistics</named-content>
+<named-content content-type="organisation-division">School of Public Health</named-content>
+<institution>Xuzhou Medical University</institution>
+<city>Xuzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cam43259-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>the Affiliated Hospital of Xuzhou Medical University</institution>
+<city>Xuzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cam43259-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<institution>the Affiliated Hospital of Xuzhou Medical University</institution>
+<city>Xuzhou</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Kailin Xu, Department of Hematology, the Affiliated Hospital of Xuzhou Medical University, 99th West Huaihai Road, Xuzhou, Jiangsu 221002, China.<break/>
+Email: <email>lihmd@163.com</email><break/>
+Junnian Zheng, Cancer Institute, Xuzhou Medical University, 84th West Huaihai Road, Xuzhou, Jiangsu 221002, China.<break/>
+Email: <email>jnzhengxzmu@126.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>7</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2020</year></pub-date><volume>9</volume><issue>16</issue><issue-id pub-id-type="pmc-issue-id">363536</issue-id><issue-id pub-id-type="doi">10.1002/cam4.v9.16</issue-id><fpage>5827</fpage><lpage>5838</lpage><history><date date-type="received"><day>06</day><month>3</month><year>2020</year></date><date date-type="rev-recd"><day>17</day><month>5</month><year>2020</year></date><date date-type="accepted"><day>24</day><month>5</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>07</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>20</day><month>08</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-28 16:25:15.140"><day>28</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-9-5827.pdf"><?pdf-name CAM4-9-5827.pdf?><?pdf-size 1263006?><?pdf-md5 09255f7d6348fb4c019cb373914db963?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:d2e8/7433814/09255f7d6348/CAM4-9-5827.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-9-5827.pdf"/><abstract id="cam43259-abs-0001"><title>Abstract</title><sec id="cam43259-sec-0001"><title>Purpose</title><p>Anti‐CD19 chimeric antigen receptor T (CAR‐T) cell therapy has demonstrated remarkable efficacy for refractory and relapsed diffuse large B cell lymphoma (R/R DLBCL). However, this therapy failed in nearly 25% patients mainly due to antigen loss. The authors performed a phase Ⅱ trial by coadministration of anti‐CD19 and anti‐CD20 CAR‐T cells treatment for R/R DLBCL and evaluated its efficacy and toxicity.</p></sec><sec id="cam43259-sec-0002"><title>Methods</title><p>Totally 21 patients with DLBCL were enrolled in this study. The patients were conditioned with fludarabine and cyclophosphamide before the infusion of anti‐CD19 and anti‐CD20 CAR‐T cells. Treatment response, toxicity, and persistence were monitored continuously.</p></sec><sec id="cam43259-sec-0003"><title>Results</title><p>Of the 21 patients received the treatment, the objective response rate (ORR) is 81.0% (95% confidence interval [CI], 58.1%‐94.6%) with four cases of bulk (4/5) and one case of testis involvement; 52.4% (95% CI, 29.8%‐74.3%) had a complete response (CR). Peak levels of anti‐CD19 and anti‐CD20 CAR cells were associated with response (<italic toggle="yes">P</italic> = .007 and .002). Grade 3‐4 cytokine release syndrome (CRS) and neurologic events occurred in 28.5% and 9.5% patients, respectively. Median overall survival (OS) and progression‐free survival (PFS) were 8.1 and 5.0 months, respectively. The maximum standard uptake value (SUVmax) of CD4/CD8 ratio before and after infusion were associated with responses, and the total lesion glycolysis (TLG) before infusion correlates with cytokines level.</p></sec><sec id="cam43259-sec-0004"><title>Conclusions</title><p>Coadministration of anti‐CD19 and CD20 CAR‐T cells therapy for DLBCL is feasible with manageable toxicity. Cytokine markers are related to toxicity and SUVmax could predict efficacy. This trial was registered at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">www.clinicaltrials.gov</ext-link> as <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03207178">NCT03207178</ext-link>.</p></sec></abstract><abstract abstract-type="graphical" id="cam43259-abs-0002"><p>In this study, we confirmed that combination of anti‐CD19 and anti‐CD20 CAR‐T cells therapy strategy was efficient (81% ORR and 52.4% CR respectively) for R/R DLBCL, and that the toxicities was transient and manageable. To our knowledge, this is the first report that combination of anti‐CD19 and anti‐CD20 double‐target CAR‐T cell therapy for R/R DLBCL, and our data demonstrated the feasibility of combination of anti‐CD19 and anti‐CD20 CAR‐T cells therapy for R/R DLBCL. <boxed-text position="anchor" content-type="graphic" id="cam43259-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="CAM4-9-5827-g006.jpg"><?image-name CAM4-9-5827-g006.jpg?><?image-size 13257?><?image-md5 a1dae87a5949acf165d3d096531bf5b1?><?image-image-server-status NEVER_LOAD?><?image-original-height 80?><?image-original-width 120?><?image-scaled-height 80?><?image-scaled-width 120?><?image-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/a1dae87a5949/CAM4-9-5827-g006.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group><kwd id="cam43259-kwd-0001">CAR‐T</kwd><kwd id="cam43259-kwd-0002">CD19</kwd><kwd id="cam43259-kwd-0003">CD20</kwd><kwd id="cam43259-kwd-0004">clinical trial</kwd><kwd id="cam43259-kwd-0005">DLBCL</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Natural Science Foundation of Jiangsu Province </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004608</institution-id></institution-wrap></funding-source><award-id>BK20171181</award-id></award-group><award-group id="funding-0002"><funding-source>Jiangsu Key Research and Development Project of Social Development</funding-source><award-id>BE2019638</award-id></award-group><award-group id="funding-0003"><funding-source>Young Medical Talents of Jiangsu Science and Education Health Project</funding-source><award-id>QNRC2016791</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="3"/><page-count count="12"/><word-count count="6412"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.6 mode:remove_FC converted:18.08.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam43259-cit-1001">
+<string-name name-style="western">
+<surname>Sang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Phase II trial of co‐administration of CD19‐ and CD20‐targeted chimeric antigen receptor T cells for relapsed and refractory diffuse large B cell lymphoma</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>5827</fpage>–<lpage>5838</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.3259</pub-id>
+<pub-id pub-id-type="pmcid">PMC7433814</pub-id><pub-id pub-id-type="pmid">32608579</pub-id></mixed-citation>
+</p><fn-group id="cam43259-ntgp-0001"><fn fn-type="equal" id="cam43259-note-0001"><p>Wei Sang, Ming Shi and Jingjing Yang contributed equally to this work.</p></fn></fn-group></notes></front><body id="cam43259-body-0001"><sec id="cam43259-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Diffuse large B cell lymphoma (DLBCL) accounts for approximately 40% of non‐Hodgkin lymphoma (NHL). Due to high heterogeneity, nearly 40% of DLBCL patients did not benefit from rituximab‐based immunochemotherapy.<xref rid="cam43259-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="cam43259-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> R‐CHOP plus X regimen or rituximab‐based high‐dose regimen also failed to improve overall survival (OS) for some patients, especially those with MYC and BCL‐2/BCL‐6 double hit/expression, activated B cell (ABC), and CD5‐positive DLBCL.<xref rid="cam43259-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="cam43259-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> In addition, elder patients tend to be more ABC subtype, complexed molecular genetic background, and poor tolerance to chemotherapy, resulting in worse prognosis.<xref rid="cam43259-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="cam43259-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> For cases of R/R DLBCL, the 3‐year progression‐free survival (PFS) after high‐dose chemotherapy and hematopoietic stem cell transplantation (HSCT) is only 30%‐40% and the median OS is 4.4 months for those frail and unfit for HSCT patients.<xref rid="cam43259-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="cam43259-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Although novel drugs have improved the survival of individuals with R/R DLBCL, the objective response rate (ORR) is still less than 40%.<xref rid="cam43259-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cam43259-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="cam43259-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>
+</p><p>Chimeric antigen receptor (CAR) T cell therapy targeting CD19 has achieved great success in R/R DLBCL treatment with about 50% CR and a greater than 80% ORR.<xref rid="cam43259-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="cam43259-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cam43259-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> However, since nearly 25% of anti‐CD19 CAR‐T cell therapy for R/R DLBCL failed due to antigen loss,<xref rid="cam43259-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> and CAR‐T cell therapy targeting other targets such as CD20 and CD22 has achieved encouraging results,<xref rid="cam43259-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="cam43259-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> we speculated that a combined‐target CAR‐T cell treatment to cover more than one target might potentially increase the efficacy by remedying antigen loss‐associated failure. We have previously demonstrated both efficacy and feasibility of combined anti‐CD19 and anti‐BCMA CAR‐T cells for R/R multiple myeloma (ChiCTROIC‐17011272).<xref rid="cam43259-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> These findings prompted us to explore the efficacy and potential adverse effects including CRS and CAR‐T cell therapy‐related encephalopathy syndrome (CRES) in R/R DLBCL when multiple CAR‐T cells were coadministered. Therefore, we treated 21 R/R DLBCL patients with coadministration of anti‐CD19 and anti‐CD20 CAR‐T cells after lymphodepleting and evaluated the safety and efficacy of the dual‐targeted CAR‐T cell therapy.</p></sec><sec sec-type="materials-and-methods" id="cam43259-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cam43259-sec-0007"><label>2.1</label><title>Study design and patients</title><p>This trial was designed by Blood Disease Institute of Xuzhou Medical University with a registration in ClinicalTrials.gov (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03207178">NCT03207178</ext-link>), and the CAR was assembled in a lentivirus encoding a murine CD19 or CD20‐specific single chain variable fragment combined with the 4‐1BB costimulatory domain and the CD3ζ domain (Figure <xref rid="cam43259-fig-0001" ref-type="fig">1A</xref>). The enrolled patients met the following criteria: (a) DLBCL was confirmed by pathology and immunohistochemistry; (b) Patients have previously underwent immunochemotherapy based on anti‐CD20 antibody and anthracycline; (c) At least one measurable lesion was present (refer to the International Working Group [IWG] standard); (d) Nether radiotherapy nor systemic therapy has been administered two weeks before lymphocyte collection; (e) Physical score &gt;50 (Karnofsky Performance Status); and (f) Normal liver, kidney, and cardiac function. Patients were excluded if (a) with a serious autoimmune disease or other tumor disease; (b) participated in other clinical trials of new drugs within the past 3 months; (c) with systemic or local uncontrollable infection; (d) with active hepatitis B and C infection; (e) with HIV infection; and (f) with psychiatric disorders. The CAR‐T cell therapy were conducted between March 2017 and July 2018. The end of follow‐up was October 31, 2018, and the median follow‐up time was 6.6 months (ranged 0.3‐16.4). Clinical trial was approved by the Institutional Review Board of the Affiliated Hospital of Xuzhou Medical University in accordance with Declaration of Helsinki principles. All enrolled patients signed the informed consent prior to the study. Generation of CAR‐T cells, quantitative polymerase chain reaction, image analysis, and cytokine assays are described in the <xref rid="cam43259-sup-0002" ref-type="supplementary-material">Supplementary Material</xref>.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43259-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>Design of chimeric antigen receptor (CAR) targeting CD19 and CD20. (A) Schematic of anti‐CD19 CAR and anti‐CD20 CAR. Single‐chain (sc) Fv region recognizes CD19 or CD20, CAR contained 4‐1BB costimulatory domain and CD3‐ζ T cell activation domain. (B) Fludarabine combined with cyclophosphamide was used as the pretreatment regimen. Cells were ready for infusion on day 0</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CAM4-9-5827-g001.jpg"><?image-name CAM4-9-5827-g001.jpg?><?image-size 53111?><?image-md5 3eb04d22b97c6418302227947b58f0c0?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 454?><?image-original-width 1064?><?image-scaled-height 303?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/3eb04d22b97c/CAM4-9-5827-g001.jpg?><?thumb-name CAM4-9-5827-g001.gif?><?thumb-size 11647?><?thumb-md5 706b282e52dd41ab9940225a444ac780?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 187?><?thumb-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/706b282e52dd/CAM4-9-5827-g001.gif?></graphic></fig></sec><sec id="cam43259-sec-0008"><label>2.2</label><title>Lymphodepletion chemotherapy and CAR‐T cells infusion</title><p>Of the 21 patients, 19 received fludarabine (30 mg/m<sup>2</sup>/d) at days of −5 to −3 and cyclophosphamide (750 mg/m<sup>2</sup>/d) at day −5; and the remaining two patients were treated with ifosfamide (2 g/d) at days of −5 to −3. None of the patients underwent additional chemotherapy as a bridging therapy. The median number of anti‐CD19 CAR‐T cells anti‐CD20 CAR‐T cells was 1.0 × 10<sup>6</sup>/kg (0.2‐4.0 × 10<sup>6</sup>/kg) and 1.0 × 10<sup>6</sup>/kg (0.1‐4.0 × 10<sup>6</sup>/kg), respectively.</p></sec><sec id="cam43259-sec-0009"><label>2.3</label><title>Assessment of clinical response and toxicity</title><p>The primary end point of the study was ORR. The secondary end point of the study was the CR status at month 6, median OS and PFS, safety, and expansion of CAR‐T cells in vivo. Response of treatment was defined according to the standard international criteria.<xref rid="cam43259-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> For CRS diagnosis and severity assessment, the grading standard were based on that revised criteria by Lee et al.<xref rid="cam43259-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> Other adverse events were evaluated according to the Common Nervous Adverse Events Standards (CTCAE) Version 4.03.<xref rid="cam43259-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>
+</p></sec><sec id="cam43259-sec-0010"><label>2.4</label><title>Statistical methods</title><p>The study was determined to provide 80% power to test the null hypothesis that the ORR would be 20% or lower vs the alternative hypothesis that it would be 40% or higher. A prespecified rate of response of 20% on the basis of historical values for refractory diffuse large B cell lymphoma.<xref rid="cam43259-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="cam43259-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="cam43259-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>, <xref rid="cam43259-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> This design minimized the maximum sample size among all participants in the Simon 2‐stage optimal design with 1‐sided 10% type I error rate. Under the assumption of 5% ineligibility, 21 patients were planned. The 95% CIs for the ORR were calculated using the binomial exact method.</p><p>Patients' demographics and clinical characteristics have been summarized using descriptive statistics. PFS was defined as the time from CAR‐T cell infusion until disease progression or death, whichever occurred first. OS was determined as the time from CAR‐T cell infusion until death from any cause. Patients were censored at the date on which they were last known to be alive and/or progression‐free. The median 2‐sided PFS and OS with the 95% CIs were estimated using the Kaplan‐Meier method. For continuous variables that conform to normal distribution, <italic toggle="yes">t</italic> test was used. For those that do not conform to normal distribution, Wilcoxon signed‐rank test was used for paired samples, and Mann‐Whitney <italic toggle="yes">U</italic> test was used for independent samples. <italic toggle="yes">P</italic> values less than .05 were considered significant.</p></sec></sec><sec sec-type="results" id="cam43259-sec-0011"><label>3</label><title>RESULTS</title><sec id="cam43259-sec-0012"><label>3.1</label><title>Patients characteristics</title><p>A total of 25 patients with R/R DLBCL were originally enrolled. However, one of them failed to collect sufficient T lymphocytes; CAR‐T cell expansion in vitro failed in two of them, and another patient died due to rapid progressive disease (PD) before CAR‐T cell infusion. Therefore, 21 patients received CAR‐T cell infusion according to the treatment schema (Table <xref rid="cam43259-tbl-0001" ref-type="table">1</xref>; Table <xref rid="cam43259-sup-0001" ref-type="supplementary-material">S1</xref>, and Figure <xref rid="cam43259-fig-0001" ref-type="fig">1B</xref>). Among them, four patients were MCY/BCL2 double expression, five patients were with bulky mass (≥7.5 cm), and one patient was with MCY/BCL2 rearrangement, one CD5 positive patient had testicular involvement, and one patient received autologous HSCT before CAR‐T cell therapy. Fourteen patients were immunochemotherapy refractory as defined as the best response was stable disease (SD) or PD after two cycles of a standard or conventional first‐line treatment regimen, or failed to achieve CR after two cycles. Seven patients met the criteria of relapse that CR was achieved after treatment, but relapse occurred within 1 year after treatment. Patients received a median of 3‐line (range, 1‐6) regimens before protocol enrollment (Table <xref rid="cam43259-sup-0001" ref-type="supplementary-material">S2</xref>).</p><table-wrap id="cam43259-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 1</label><caption><p>Characteristics of the patients at baseline</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="top" rowspan="1" colspan="1">Patients, n (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total patients</td><td align="char" char="(" rowspan="1" colspan="1">21 (100%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median age, years (range)</td><td align="char" char="(" rowspan="1" colspan="1">55 (23‐72)</td></tr><tr><td align="left" colspan="2" rowspan="1">Sex</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char="(" rowspan="1" colspan="1">13 (61.9%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char="(" rowspan="1" colspan="1">8 (38.1%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Disease stage</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I‐II</td><td align="char" char="(" rowspan="1" colspan="1">3 (14.3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III‐IV</td><td align="char" char="(" rowspan="1" colspan="1">18 (85.7%)</td></tr><tr><td align="left" colspan="2" rowspan="1">NCCN‐IPI group</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Low‐intermediate: 2‐3</td><td align="char" char="(" rowspan="1" colspan="1">6 (28.6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">High‐intermediate: 4‐5</td><td align="char" char="(" rowspan="1" colspan="1">13 (61.9%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">High: ≥6</td><td align="char" char="(" rowspan="1" colspan="1">2 (9.5%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Extranodal disease</td><td align="char" char="(" rowspan="1" colspan="1">6 (28.6%)</td></tr><tr><td align="left" rowspan="1" colspan="1">BM involved</td><td align="char" char="(" rowspan="1" colspan="1">5 (23.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">CNS involved</td><td align="char" char="(" rowspan="1" colspan="1">3 (14.3%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Bulky</td><td align="char" char="(" rowspan="1" colspan="1">5 (23.8%)</td></tr><tr><td align="left" colspan="2" rowspan="1">Cell of origin</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">GCB</td><td align="char" char="(" rowspan="1" colspan="1">16 (76.2%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">NON‐GCB</td><td align="char" char="(" rowspan="1" colspan="1">5 (23.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">MCY/BCL2 DE</td><td align="char" char="(" rowspan="1" colspan="1">4 (19.0%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Refractory DLBCL</td><td align="char" char="(" rowspan="1" colspan="1">15 (71.4%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median previous therapies (range)</td><td align="char" char="(" rowspan="1" colspan="1">3 (1‐6)</td></tr><tr><td align="left" colspan="2" rowspan="1">Conditioning therapy</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">FC</td><td align="char" char="(" rowspan="1" colspan="1">19 (90.5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Others</td><td align="char" char="(" rowspan="1" colspan="1">2 (9.5%)</td></tr></tbody></table><table-wrap-foot id="cam43259-ntgp-0002"><fn id="cam43259-note-0002"><p>Abbreviations: BM, bone marrow; CNS, central nervous system; DE, double expression; FC, fludarabine and cyclophosphamide; GCB, germinal center B cell; NCCN‐IPI, National Comprehensive Cancer Network‐International Prognostic Index.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam43259-sec-0013"><label>3.2</label><title>Response assessment</title><p>The median time between recruitment and infusion was 32 days (range, 16‐45). The ORR and CR rates at 3 months were 81.0% (17 patients, 95% CI, 58.1%‐94.6%) and 52.4% (11 patients), and the 6‐month sustained ORR and CR rates were 46.2% (6 patients, 95% CI, 19.2%‐74.9%) and 40.0% (4 patients, 95% CI, 12.2%‐73.84%), respectively. The median PFS, OS, and duration of response were 5.0 months (95% CI, 2.3‐7.7), 8.1 months (95% CI, 6.5‐9.6), and 6.8 months, respectively (Figure <xref rid="cam43259-fig-0002" ref-type="fig">2A‐C</xref>). Of the five patients with bulky mass, four patients responded, and two of them achieved CR (Table <xref rid="cam43259-tbl-0002" ref-type="table">2</xref>). Of the four patients with MYC/BCL‐2 expression, three achieved CR, and one achieved PR. The patient of MYC/BCL2 rearrangement developed PD. CR was achieved in a CD5 positive case with testicular involvement. There were three patients with central nervous system (CNS) involvement, including two of primary and one secondary cases. Of the two patients with primary CNS lymphoma, one achieved PR (P12) and the other showed SD (P18). The patient with secondary CNS involvement (P13) achieved PR at 3 months. At the end of follow‐up, 10 patients died due to PD. Two patients died without relapse, one was due to pulmonary infection at day 42 and the other suffered from severe intestinal infection at day 121 after CAR‐T cell infusion (Figure <xref rid="cam43259-fig-0002" ref-type="fig">2D,E</xref>).</p><fig fig-type="FIGURE" xml:lang="en" id="cam43259-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>Function of anti‐CD19 and anti‐CD20 CAR‐T cells in R/R DLBCL. (A, B) The median PFS and OS of 21 patients are shown. (C) The response duration and non‐relapse mortality (NRM) (D) of 17 patients with response are shown. The survival fractions were calculated by the Kaplan‐Meier method, and the (green) lines indicate censored patients. (E) The clinical responds and survival condition of anti‐CD19 combined with anti‐CD20 CAR‐T cells therapy</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CAM4-9-5827-g002.jpg"><?image-name CAM4-9-5827-g002.jpg?><?image-size 109239?><?image-md5 4b39f81a62d19ffb2f54d81bfdc9f40a?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1354?><?image-original-width 1064?><?image-scaled-height 902?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/4b39f81a62d1/CAM4-9-5827-g002.jpg?><?thumb-name CAM4-9-5827-g002.gif?><?thumb-size 12246?><?thumb-md5 fc710e9c8428cdb0ebad7976ca93f470?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 127?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/fc710e9c8428/CAM4-9-5827-g002.gif?></graphic></fig><table-wrap id="cam43259-tbl-0002" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 2</label><caption><p>Baseline characteristics of patients with bulky</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">No.</th><th align="left" rowspan="2" valign="bottom" colspan="1">Age (y)</th><th align="left" rowspan="2" valign="bottom" colspan="1">Sex</th><th align="left" rowspan="2" valign="bottom" colspan="1">Stage/status</th><th align="left" rowspan="2" valign="bottom" colspan="1">Previous therapies</th><th align="left" rowspan="2" valign="bottom" colspan="1">Site involved</th><th align="left" rowspan="2" valign="bottom" colspan="1">Response</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">The longest diameter (cm)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Before</th><th align="left" valign="bottom" rowspan="1" colspan="1">After</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">58</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">ⅣB/PD</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Abdomen</td><td align="left" rowspan="1" colspan="1">CR</td><td align="char" char="." rowspan="1" colspan="1">11.0</td><td align="char" char="." rowspan="1" colspan="1">1.3</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">70</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">ⅣA/PD</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Abdomen</td><td align="left" rowspan="1" colspan="1">CR</td><td align="char" char="." rowspan="1" colspan="1">8.0</td><td align="char" char="." rowspan="1" colspan="1">1.2</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">48</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">ⅣA/PD</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">Neck (L)</td><td align="left" rowspan="1" colspan="1">PR</td><td align="char" char="." rowspan="1" colspan="1">11.9</td><td align="char" char="." rowspan="1" colspan="1">5.1</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">46</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">ⅣA/PD</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Abdomen</td><td align="left" rowspan="1" colspan="1">PR</td><td align="char" char="." rowspan="1" colspan="1">7.8</td><td align="char" char="." rowspan="1" colspan="1">3.2</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">57</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">ⅢA/PD</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">Iliac fossa (L)</td><td align="left" rowspan="1" colspan="1">PD</td><td align="char" char="." rowspan="1" colspan="1">9.1</td><td align="char" char="." rowspan="1" colspan="1">9.3</td></tr></tbody></table><table-wrap-foot id="cam43259-ntgp-0003"><fn id="cam43259-note-0003"><p>Abbreviations: CR, complete remission; F, female; L, left; M, male; PD, progressive disease; PR, partial remission.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam43259-sec-0014"><label>3.3</label><title>Toxicities of CAR‐T cell</title><p>The adverse events were detailed in Table <xref rid="cam43259-tbl-0003" ref-type="table">3</xref>. CRS occurred in all 21 patients with 6 (28.5%) of them as grade 3‐4 CRS. The median time from CAR‐T cell infusion to CRS occurrence was 2 days (ranged 0‐5) and the median CRS duration was 5 days (ranged 2‐14). Four patients with CRS returned to normal after dexamethasone treatment and none of them needed tocilizumab. Five patients were with CRES, and the median duration was 5 days (ranged 3‐8). For the two patients with grade 3‐4 CRES, the duration were 7 and 8 days, respectively. The main symptoms of CRES were dysphoria (n = 3) and delirium (n = 2) with a median duration of 3 days (ranged 2‐7). Of the five patients over 60 years old, one had grade four CRS and another had CRES.</p><table-wrap id="cam43259-tbl-0003" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 3</label><caption><p>Treatment‐emergent adverse events</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Adverse events</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">No. of patients, (%, n = 21)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">All grades</th><th align="left" valign="bottom" rowspan="1" colspan="1">Grade ≧3</th></tr></thead><tbody><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fatigue</td><td align="char" char="(" rowspan="1" colspan="1">16 (76.2%)</td><td align="left" rowspan="1" colspan="1">5 (23.8%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dyspnea</td><td align="char" char="(" rowspan="1" colspan="1">7 (33.3%)</td><td align="left" rowspan="1" colspan="1">3 (14.3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nausea</td><td align="char" char="(" rowspan="1" colspan="1">7 (33.3%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Anorexia</td><td align="char" char="(" rowspan="1" colspan="1">11 (52.4%)</td><td align="left" rowspan="1" colspan="1">3 (14.3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diarrhea</td><td align="char" char="(" rowspan="1" colspan="1">2 (9.5%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Vomit</td><td align="char" char="(" rowspan="1" colspan="1">5 (23.8%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Constipation</td><td align="char" char="(" rowspan="1" colspan="1">4 (19.0%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Acute kidney injury</td><td align="char" char="(" rowspan="1" colspan="1">2 (9.5%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pulmonary infection</td><td align="char" char="(" rowspan="1" colspan="1">4 (19.0%)</td><td align="left" rowspan="1" colspan="1">1 (4.8%)</td></tr><tr><td align="left" colspan="3" rowspan="1">
+<xref ref-type="fn" rid="cam43259-note-0005">
+<sup>a</sup>
+</xref>CRS, specific symptoms</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fever</td><td align="char" char="(" rowspan="1" colspan="1">20 (95.2%)</td><td align="left" rowspan="1" colspan="1">2 (9.5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Rigors</td><td align="char" char="(" rowspan="1" colspan="1">6 (28.6%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hypotension</td><td align="char" char="(" rowspan="1" colspan="1">10 (47.6%)</td><td align="left" rowspan="1" colspan="1">4 (19.0%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hypoxia</td><td align="char" char="(" rowspan="1" colspan="1">10 (47.6%)</td><td align="left" rowspan="1" colspan="1">3 (14.3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tachycardia</td><td align="char" char="(" rowspan="1" colspan="1">13 (61.9%)</td><td align="left" rowspan="1" colspan="1">4 (19.0%)</td></tr><tr><td align="left" colspan="3" rowspan="1">Neurotoxicity, specific symptoms</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Encephalopathy</td><td align="char" char="(" rowspan="1" colspan="1">5 (23.8%)</td><td align="left" rowspan="1" colspan="1">2 (9.5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Delirium</td><td align="char" char="(" rowspan="1" colspan="1">2 (9.5%)</td><td align="left" rowspan="1" colspan="1">2 (9.5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Somnolence</td><td align="char" char="(" rowspan="1" colspan="1">1 (4.8%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Restlessness</td><td align="char" char="(" rowspan="1" colspan="1">3 (14.3%)</td><td align="left" rowspan="1" colspan="1">2 (9.5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dysmnesia</td><td align="char" char="(" rowspan="1" colspan="1">1 (4.8%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tremor</td><td align="char" char="(" rowspan="1" colspan="1">1 (4.8%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" colspan="3" rowspan="1">Hematologic events</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Leukopenia</td><td align="char" char="(" rowspan="1" colspan="1">16 (76.2%)</td><td align="left" rowspan="1" colspan="1">10 (47.6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Neutropenia</td><td align="char" char="(" rowspan="1" colspan="1">16 (76.2%)</td><td align="left" rowspan="1" colspan="1">11 (52.4%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Anemia</td><td align="char" char="(" rowspan="1" colspan="1">17 (81.0%)</td><td align="left" rowspan="1" colspan="1">6 (28.6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Thrombocytopenia</td><td align="char" char="(" rowspan="1" colspan="1">6 (28.6%)</td><td align="left" rowspan="1" colspan="1">6 (28.6%)</td></tr><tr><td align="left" colspan="3" rowspan="1">Laboratory abnormalities</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">ALT elevation</td><td align="char" char="(" rowspan="1" colspan="1">4 (19.0%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">AST elevation</td><td align="char" char="(" rowspan="1" colspan="1">4 (19.0%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hyperuricemia</td><td align="char" char="(" rowspan="1" colspan="1">3 (14.3%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hypoalbuminemia</td><td align="char" char="(" rowspan="1" colspan="1">7 (33.3%)</td><td align="left" rowspan="1" colspan="1">3 (14.3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hypokalemia</td><td align="char" char="(" rowspan="1" colspan="1">8 (38.1%)</td><td align="left" rowspan="1" colspan="1">2 (9.5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hyponatremia</td><td align="char" char="(" rowspan="1" colspan="1">6 (28.6%)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hypocalcemia</td><td align="char" char="(" rowspan="1" colspan="1">4 (19.0%)</td><td align="left" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot id="cam43259-ntgp-0004"><fn id="cam43259-note-0004"><p>Abbreviations: ALT, alanine aminotransferase; AST, aspartate aminotransferase; LDH, lactate dehydrogenase.</p></fn><fn id="cam43259-note-0005"><label><sup>a</sup></label><p>CRS was graded per a modified grading system proposed by Lee et al.<xref rid="cam43259-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>
+</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam43259-sec-0015"><label>3.4</label><title>Cytokine and laboratory assessment</title><p>The levels of IL‐6, ferritin, C‐reactive protein (CRP), and IFN‐γ reached their peak between days of 7 and 14 after CAR‐T cell infusion. The peak levels of these factors in patients with grade 1‐2 CRS (n = 15) were significantly lower than those with grade 3‐4 CRS (n = 6) (Figure <xref rid="cam43259-fig-0003" ref-type="fig">3A‐D</xref>). Hematologic toxicities were found in 17 patients, including 16 cases of neutropenia (76.2%), 17 cases of anemia (81.0%), 6 cases of thrombocytopenia (28.6%), and 16 cases with a decreased white blood cell count (76.2%). Grade 3 hematologic toxicities of neutropenia, anemia, and thrombocytopenia were 52.4%, 28.6%, and 28.6%, respectively. Eleven patients received an injection of recombinant human granulocyte macrophage‐stimulating factor to increase leukocyte levels, four and three patients required platelet and red blood cell transfusion, respectively.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43259-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>Changes of serum biomarkers and CD4/CD8 ratio after CAR‐T cell infusion. (A‐D) IL‐6, IFN‐γ, ferritin, and CRP were associated only with CRS. The peak value is defined as the maximum level of the cytokine after baseline within a month of cell infusion. The peak factor is the value in patients with CRS of grade 3‐4 vs those with events of grade 1‐2. The horizontal line within each box represents the median, the lower and upper borders of each box represent the 25th and the 75th percentiles, respectively, and the I bars represent the minimum and maximum range. The Mann‐Whitney <italic toggle="yes">U</italic> test or <italic toggle="yes">t</italic> test was used for statistical analysis. (E) Dynamic changes of CD4/CD8 ratio in patients after CAR‐T cell infusion. P6, 9, 10, and 11 were CR patients, P12, 14, and 15 were PR patients, P18 was SD patient, and P19 was PD patient. (F) Dynamic changes of CD4/CD8 ratio in 17 patients with response. (G) Dynamic changes of CD4/CD8 ratio in 9/17 patients with relapse after CAR‐T cell infusion. (H) Dynamic changes of CD4/CD8 ratio in patients with response duration. The Wilcoxon rank‐sum test or <italic toggle="yes">t</italic> test were used for statistical analysis</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CAM4-9-5827-g003.jpg"><?image-name CAM4-9-5827-g003.jpg?><?image-size 124797?><?image-md5 135bff67068e9944b718199be87a91aa?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1812?><?image-original-width 1064?><?image-scaled-height 1207?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/135bff67068e/CAM4-9-5827-g003.jpg?><?thumb-name CAM4-9-5827-g003.gif?><?thumb-size 13812?><?thumb-md5 eb251cd261f842c07771d8aceda1a69a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 170?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/eb251cd261f8/CAM4-9-5827-g003.gif?></graphic></fig></sec><sec id="cam43259-sec-0016"><label>3.5</label><title>Assessment of B cells and immunoglobulin</title><p>B cells and immunoglobulin were measured to assess the immune status of B cells after CAR‐T cell therapy (data not shown). In five (23.8%) patients, B cells were not detected in peripheral blood before CAR‐T cell infusion, including four patients with response and one patient without response eventually. Two weeks after CAR‐T cell infusion, B cells were undetectable in 11 responsive patients and one nonresponsive patient; and detectable in two non‐responsive patients. B cells recurred in five of nine relapsed patients, and the median time is 6.1 months (ranged 4‐13.7) after CAR‐T cell infusion. Of the 17 patients with response, 14 (82.4%) showed a progressive reduction of serum immunoglobulin levels one week after infusion. Eight of the 21 (38.1%) patients received intravenous immunoglobulin during CAR‐T cell therapy.</p></sec><sec id="cam43259-sec-0017"><label>3.6</label><title>Assessment of T cells and CD4/CD8 ratio</title><p>T cells in the peripheral blood of patients were measured to assess cellular immune status after CAR‐T cell therapy (data not shown). A dynamic reduction of CD4/CD8 ratio occurred in 15 of 17 responsive patients. Among the four nonresponsive patients, the ratio did not change in three and declined in one (Figure <xref rid="cam43259-fig-0003" ref-type="fig">3E</xref>). The CD4/CD8 ratio in the 17 responsive patients at 4 weeks after CAR‐T cell infusion was significantly lower than that before infusion (Figure <xref rid="cam43259-fig-0003" ref-type="fig">3F</xref>, <italic toggle="yes">P</italic> = .001). Of the 17 responsive patients, nine relapsed later but their CD4/CD8 ratio displayed no change before and after the relapse (Figure <xref rid="cam43259-fig-0003" ref-type="fig">3G</xref>, <italic toggle="yes">P</italic> = .895). Of note, the CD4/CD8 ratio in the six patients with continuous response did not change even by the end of the follow‐up (Figure <xref rid="cam43259-fig-0003" ref-type="fig">3H</xref>, <italic toggle="yes">P</italic> = .911).</p></sec><sec id="cam43259-sec-0018"><label>3.7</label><title>In vivo expansion and persistence of CAR‐T cells</title><p>Significant CAR‐T cell expansion occurred in 17 responsive patients and both anti‐CD19 and anti‐CD20 CAR peaked between 7‐14 days after CAR‐T cell infusion. Of the four non‐responders, three had anti‐CD19 CAR‐T expansion, two had anti‐CD20 CAR‐T expansion, and one amplified neither of them. The expansion of anti‐CD19/CD20 CAR‐T cells in patients with response (n = 17) was significantly higher than those without response (n = 4) (Figure <xref rid="cam43259-fig-0004" ref-type="fig">4A,B</xref>, <italic toggle="yes">P</italic> = .007 and .002). For the 11 patients achieving CR, there was no difference between the peaks of anti‐CD19 and anti‐CD20 CAR‐T cells (Figure <xref rid="cam43259-fig-0004" ref-type="fig">4C</xref>). In the six patients with grade 3‐4 CRS, the median copies of anti‐CD19 and anti‐CD20 CAR were 65 680 and 23 715 copies/100 ng total DNA, respectively, which were not significantly different from those with grade 1‐2 CRS (n = 15) (Figure <xref rid="cam43259-fig-0004" ref-type="fig">4D‐I</xref>). CAR‐T cells could not be detected in the patients after relapse and the two patients with continuous remission, respectively, at 6 and 9 months after CAR‐T cell infusion.</p><fig fig-type="FIGURE" xml:lang="en" id="cam43259-fig-0004" orientation="portrait" position="float"><label>FIGURE 4</label><caption><p>Expansion and persistence of anti‐CD19 and anti‐CD20 CAR‐T cells in vivo. (A, B) Peak CAR DNA copies of anti‐CD19 and anti‐CD20 CAR‐T cells in the groups with response and without response. (C) Peak CAR DNA copies of anti‐CD19 CAR‐T cell and anti‐CD20 CAR‐T cell in patients of CR. (D, E) CAR DNA copies of anti‐CD19 CAR‐T cell at serial time points after infusion in patients who developed grade 1‐2 CRS and those who developed grade 3‐4 CRS. (F) Peak CAR DNA copies of anti‐CD19 CAR‐T cell in the groups with grade 1‐2 and grade 3‐4 CRS. (G, H) CAR DNA copies of anti‐CD20 CAR‐T cell at serial time points after infusion in patients who developed grade 1‐2 CRS and those who developed grade 3‐4 CRS. (I) Peak CAR DNA copies of anti‐CD20 CAR‐T cell in the groups with grade 1‐2 and grade 3‐4 CRS. The horizontal line at 100 copies per microgram of DNA represents the lower limit of quantification of this assay. The Mann‐Whitney <italic toggle="yes">U</italic> test was used for statistical analysis</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CAM4-9-5827-g004.jpg"><?image-name CAM4-9-5827-g004.jpg?><?image-size 92946?><?image-md5 9acff13a0debca5302d193ef143523e5?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 821?><?image-original-width 1064?><?image-scaled-height 547?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/9acff13a0deb/CAM4-9-5827-g004.jpg?><?thumb-name CAM4-9-5827-g004.gif?><?thumb-size 13799?><?thumb-md5 0cd203d993391b567aa8fc9be48d438b?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 103?><?thumb-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/0cd203d99339/CAM4-9-5827-g004.gif?></graphic></fig></sec><sec id="cam43259-sec-0019"><label>3.8</label><title>Impact of SUVmax and TLG on response, CRS and CAR‐T cell expansion</title><p>Based on PET‐CT, we evaluated the SUVmax and TLG before CAR‐T cell therapy. The SUVmax (g/ml) of 15 evaluable patients with treatment response (median of 12.23, range: 6.49‐35.71) was significantly lower than that of three patients without response (median of 24.8, range: 18.6‐42.29) (Figure <xref rid="cam43259-fig-0005" ref-type="fig">5A</xref>, <italic toggle="yes">P</italic> = .038), but the SUVmax is comparable in the six patients with durable remission and the other nine cases (<italic toggle="yes">P</italic> = .541). There was no significant difference in TLG values between responders and non‐responders (Figure <xref rid="cam43259-fig-0005" ref-type="fig">5B</xref>). The SUVmax and TLG of evaluable patients with grade 1‐2 CRS (n = 13) were not significantly different from those with grade 3‐4 CRS (n = 5) (Figure <xref rid="cam43259-fig-0005" ref-type="fig">5C,D</xref>). SUVmax and cytokine levels were not correlated (Figure <xref rid="cam43259-fig-0005" ref-type="fig">5E‐H</xref>). However, high levels of TLG correlate with the levels of IL‐6, ferritin, and IFN‐γ but not the CRP level (Figure <xref rid="cam43259-fig-0005" ref-type="fig">5I‐L</xref>). In addition, we evaluated the correlations of SUVmax and TLG with the expansion of CAR‐T cells in vivo. There was no significant difference in the anti‐CD19 CAR‐T and anti‐CD20 CAR‐T expansion between patients whose SUVmax or TLG was over the median and those below (Figure <xref rid="cam43259-fig-0005" ref-type="fig">5M‐P</xref>).</p><fig fig-type="FIGURE" xml:lang="en" id="cam43259-fig-0005" orientation="portrait" position="float"><label>FIGURE 5</label><caption><p>The values of SUVmax and TLG in response, CRS and CAR‐T cells expansion. (A, B) The vaule of SUVmax and TLG in the groups with and without response. (C, D) The vaule of SUVmax and TLG in grade 1‐2 and grade 3‐4 CRS. (E‐H) Peak CAR DNA copies of anti‐CD19 and anti‐CD20 in below and above the median SUVmax/TLG groups. (I‐P) The peak value of serum biomarkers (IL‐6, IFN‐γ, ferritin, and CRP) in below and above the median SUVmax/TLG groups. The peak value is defined as the maximum level of the cytokine after baseline within a month. The data represent the means ± SD. The Mann‐Whitney <italic toggle="yes">U</italic> test or <italic toggle="yes">t</italic> test were used for statistical analysis</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CAM4-9-5827-g005.jpg"><?image-name CAM4-9-5827-g005.jpg?><?image-size 88870?><?image-md5 786b0c1ef2160fa09e5c648e2e6848d5?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 990?><?image-original-width 1064?><?image-scaled-height 660?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/786b0c1ef216/CAM4-9-5827-g005.jpg?><?thumb-name CAM4-9-5827-g005.gif?><?thumb-size 14728?><?thumb-md5 770232197c20087603b6a2a7e3bc89da?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 93?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/d2e8/7433814/770232197c20/CAM4-9-5827-g005.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="cam43259-sec-0020"><label>4</label><title>DISCUSSION</title><p>To our knowledge, this is the first reported clinical trial of coadministration of anti‐CD19 and anti‐CD20 CAR‐T cell therapy for R/R DLBCL. Although anti‐CD19 CAR‐T cell therapy is effective for R/R DLBCL,<xref rid="cam43259-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="cam43259-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cam43259-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> about 50%‐60% patients relapse after CAR‐T treatment with as high as 27% are antigen loss‐associated.<xref rid="cam43259-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> Based on the expectation that multi‐target CAR‐T cell therapeutic strategy should improve efficacy and potentially solve the problem with antigen loss‐associated failure, we treated R/R DLBCL with the combination of anti‐CD19 and anti‐CD20 CAR‐T cells and achieved a promising response with CR rate of 52.4% and ORR rate of 81% albeit the PFS and DOR were not as encouraging. This could be the results of immune escaping, lacking patient‐originated memory CAR‐T cells, or failure of continued CAR‐T cell expansion. Generally, MYC and BCL‐2/BCL‐6 double‐expression/rearrangement and CD5‐positive DLBCL are resistant to rituximab‐based immunochemotherapy. We noticed in this trail that three out of four patients with MYC/BCL‐2 double expression achieved CR. Due to the limited number of cases, we cannot make solid conclusion that co‐administration of anti‐CD19 and anti‐CD20 CAR‐T cells can overcome the adverse prognosis caused by double expression. In addition to that multiple cases with bulk achieved 80% ORR, we have also noticed that in one patient of CD5‐positive DLBCL with testicular involvement also achieved CR, suggesting that anti‐CD19 and anti‐CD20 CAR‐T cells are capable of passing the blood‐testis barrier.</p><p>The universal application of CAR‐T cell therapy is limited mainly due to the complications of CAR‐T cell therapy, especially for ≥grade 3 CRS and CRES.<xref rid="cam43259-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>, <xref rid="cam43259-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> In our trial, 23.8% and 9.5% patients had CRS (≥grade 3) and CRES (≥grade 3), respectively, four patients received emergent glucocorticoid therapy due to hemorheological instability, but none of the patients received tocilizumab. Interestingly, of the 21 patients receiving CAR‐T cells, six elderly achieved 83% ORR with only one of them had grade 3 CRS. More importantly, the toxicity was transient and manageable while the median dose of 1.0 × 10<sup>6</sup>/kg CAR‐T cells were administered and the levels of cytokine peaked 7‐14 days after CAR‐T cell infusion. We have also noticed that the peak levels of the inflammatory cytokines in patients with grade 1‐2 CRS were significantly lower than those with grade 3 CRS and these notifications were consistent with the reports in the literature.<xref rid="cam43259-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="cam43259-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cam43259-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> The hematologic toxicities primarily manifested as manageable hemocytopenia and none of the patients died due to CAR‐T cell treatment‐associated hematologic complications although off‐target effects were noticeable. All responders and a few nonresponders lost B cells two weeks after CAR‐T cell infusion. However, B cells recurred in five of nine relapsed patients with the median time of 6.1 months post CAR‐T cell infusion. Consistently, immunoglobulin levels reduced progressively in the responders and some of the nonresponders and 38.1% patients received intravenous immunoglobulin infusion during CAR‐T cell therapy but none of them had serious infection.</p><p>Great expansion of CD8 positive CAR‐T cells was closely related to efficacy, and IL‐2 produced by CD4 positive T cells was important in sustaining its response.<xref rid="cam43259-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref> As reported by Turtle and his colleagues, CAR‐T cell products in a 1:1 CD4/CD8 ratio was supposed to be worthy of recommendation.<xref rid="cam43259-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> However, the correlation of CD4/CD8 ratio after CAR‐T cell infusion and efficacy is not clear. As shown in this study, the CD4/CD8 ratio in 15 of 17 responders decreased gradually, whereas the ratios did not change in three of the four nonresponders. So, we propose that the CD4/CD8 ratio could serve as a predictor for CAR‐T cell therapy. We also analyzed the expansion and persistence of CAR‐T cells in patients. We found that all responders exhibited expansion with the peak values of anti‐CD19 and CD20 CAR‐T cells in responders significantly higher than that of the nonresponders. However, there is no significant difference between the peak values of anti‐CD19 and anti‐CD20 CAR‐T cells in the CR patients.</p><p>PET‐CT is of great value in assessment of tumor burden and treatment efficacy.<xref rid="cam43259-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> To evaluate the role of metabolic activity of lymphoma on CAR‐T therapy, we analyzed the correlation of SUVmax, and we also evaluated the correlation of TLG, which was determined by SUVmean and TMV. We found that lower SUVmax correlates with better response suggesting high levels SUVmax predict high risk of CAR‐T cells treatment. However, the levels of TLG have nothing to do with efficacy but highly associated with IFN‐γ, IL‐6, and the ferritin levels. Nevertheless, neither SUVmax nor TLG correlate with the occurrence of CRS or CAR‐T cell expansion.</p><p>In summary, this trial demonstrated that coadministration of anti‐CD19 and anti‐CD20 CAR‐T cell therapy is safe and feasible with manageable toxicity even for those with bulk, MYC/BCL‐2 double expression, and CD5 positive DLBCL. We also found that CAR‐T cells are capable of passing the blood‐brain and blood‐testis barriers. Finally, reduced CD4/CD8 ratio and lower SUVmax predict a better treatment efficacy.</p></sec><sec sec-type="COI-statement" id="cam43259-sec-0022"><title>CONFLICT OF INTEREST</title><p>No potential conflict of interest was disclosed.</p></sec><sec id="cam43259-sec-0023"><title>AUTHORS CONTRIBUTIONS</title><p>Conception and design: Kailin Xu, Wei Sang, Zhenyu Li, Junnian Zheng. Development of methodology: Kailin Xu, Wei Sang, Jiang Cao, Ming Shi. Acquisition of data (provided animals, acquired and managed patients, provide facilities, etc): Kailin Xu, Wei Sang, Ming Shi, Jingjing Yang, Jiang Cao, Linyan Xu, Dongmei Yan, Meixue Yao, Hui Liu, Hai Cheng, Zhiling Yan, Depeng Li, Haiying Sun, Feng Zhu, Ying Wang. Analysis and interpretation of data (eg, statistical analysis, biostatistics, computational analysis): Wei Sang, Jingjing Yang, Bing Zhang, Kemeng Sun, Xuguang Song, Cai Sun, Jun Jiao, Tingting Sang, Xiang Gao, Lingyu Zeng. Writing, review, and/or revision of the manuscript: All authors. Administrative, technical, or material support (ie, reporting or organizing data, constructing databases): Kailin Xu, Wei Sang, Jiang Cao, Zhenyu Li, Junnian Zheng.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cam43259-sup-0001" position="float" orientation="portrait"><caption><p>Table S1‐S2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-9-5827-s001.doc" position="float" orientation="portrait"><?suppdata-name CAM4-9-5827-s001.doc?><?suppdata-size 94720?><?suppdata-md5 d655231f25c6b76f1ce886bfdaa57d42?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type msword?><?suppdata-cloudpmc-urn urn:app:d2e8/7433814/d655231f25c6/CAM4-9-5827-s001.doc?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="cam43259-sup-0002" position="float" orientation="portrait"><caption><p>Supplementary Material</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-9-5827-s002.doc" position="float" orientation="portrait"><?suppdata-name CAM4-9-5827-s002.doc?><?suppdata-size 28160?><?suppdata-md5 02bb60a625fde83b8d8ddba8e1ff0f86?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type msword?><?suppdata-cloudpmc-urn urn:app:d2e8/7433814/02bb60a625fd/CAM4-9-5827-s002.doc?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cam43259-sec-0021"><title>ACKNOWLEDGMENTS</title><p>The study was supported by Natural Science Foundation of Jiangsu Province (BK20171181), Young Medical Talents of Jiangsu Science and Education Health Project (QNRC2016791) and Jiangsu Key Research and Development Project of Social Development (BE2019638). We thank Xin Wang in Shanghai Longyao Biotechnology Co., Ltd for assistance with providing partial technical support. We also thank the attending fellows, nurses, and other staff of the Department of Hematology, the Affiliated Hospital of Xuzhou Medical University.</p></ack><sec sec-type="data-availability" id="cam43259-sec-0025"><title>DATA AVAILABILITY STATEMENT</title><p>The data will be provided upon the request.</p></sec><ref-list content-type="cited-references" id="cam43259-bibl-0001"><title>REFERENCES</title><ref id="cam43259-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam43259-cit-0001">
+<string-name name-style="western">
+<surname>Sehn</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donaldson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chhanabhai</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Introduction of combined CHOP plus rituximab therapy dramatically improved outcome of diffuse large B‐cell lymphoma in British Columbia</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2005</year>;<volume>23</volume>:<fpage>5027</fpage>‐<lpage>5033</lpage>.<pub-id pub-id-type="pmid">15955905</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2005.09.137</pub-id></mixed-citation></ref><ref id="cam43259-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam43259-cit-0002">
+<string-name name-style="western">
+<surname>Coiffier</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thieblemont</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Den Neste</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Long‐term outcome of patients in the LNH‐98.5 trial, the first randomized study comparing rituximab‐CHOP to standard CHOP chemotherapy in DLBCL patients: a study by the Groupe d'Etudes des Lymphomes de l'Adulte</article-title>. <source xml:lang="en">Blood</source>. <year>2010</year>;<volume>116</volume>:<fpage>2040</fpage>‐<lpage>2045</lpage>.<pub-id pub-id-type="pmid">20548096</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2010-03-276246</pub-id><pub-id pub-id-type="pmcid">PMC2951853</pub-id></mixed-citation></ref><ref id="cam43259-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam43259-cit-0003">
+<string-name name-style="western">
+<surname>Thakral</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medeiros</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desai</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Prognostic impact of CD5 expression in diffuse large B‐cell lymphoma in patients treated with rituximab‐EPOCH</article-title>. <source xml:lang="en">Eur J Haematol</source>. <year>2017</year>;<volume>98</volume>:<fpage>415</fpage>‐<lpage>421</lpage>.<pub-id pub-id-type="pmid">28039906</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/ejh.12847</pub-id></mixed-citation></ref><ref id="cam43259-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam43259-cit-0004">
+<string-name name-style="western">
+<surname>Staiger</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ziepert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horn</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Clinical impact of the cell‐of‐origin classification and the MYC/BCL2 dual expresser status in diffuse large B‐cell lymphoma treated within prospective clinical trials of the German High‐Grade Non‐Hodgkin's Lymphoma Study Group</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2017</year>;<volume>35</volume>:<fpage>2515</fpage>‐<lpage>2526</lpage>.<pub-id pub-id-type="pmid">28525305</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2016.70.3660</pub-id></mixed-citation></ref><ref id="cam43259-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam43259-cit-0005">
+<string-name name-style="western">
+<surname>Mareschal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lanic</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruminy</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bastard</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tilly</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jardin</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>The proportion of activated B‐cell like subtype among de novo diffuse large B‐cell lymphoma increases with age</article-title>. <source xml:lang="en">Haematologica</source>. <year>2011</year>;<volume>96</volume>:<fpage>1888</fpage>‐<lpage>1890</lpage>.<pub-id pub-id-type="pmid">21859735</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3324/haematol.2011.050617</pub-id><pub-id pub-id-type="pmcid">PMC3232277</pub-id></mixed-citation></ref><ref id="cam43259-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam43259-cit-0006">
+<string-name name-style="western">
+<surname>Klapper</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kreuz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kohler</surname>
+<given-names>CW</given-names>
+</string-name>, et al. <article-title>Patient age at diagnosis is associated with the molecular characteristics of diffuse large B‐cell lymphoma</article-title>. <source xml:lang="en">Blood</source>. <year>2012</year>;<volume>119</volume>:<fpage>1882</fpage>‐<lpage>1887</lpage>.<pub-id pub-id-type="pmid">22238326</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2011-10-388470</pub-id></mixed-citation></ref><ref id="cam43259-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam43259-cit-0007">
+<string-name name-style="western">
+<surname>Crump</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuruvilla</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Couban</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Randomized comparison of gemcitabine, dexamethasone, and cisplatin versus dexamethasone, cytarabine, and cisplatin chemotherapy before autologous stem‐cell transplantation for relapsed and refractory aggressive lymphomas: NCIC‐CTG LY.12</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2014</year>;<volume>32</volume>:<fpage>3490</fpage>‐<lpage>3496</lpage>.<pub-id pub-id-type="pmid">25267740</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2013.53.9593</pub-id></mixed-citation></ref><ref id="cam43259-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam43259-cit-0008">
+<string-name name-style="western">
+<surname>Van Den Neste</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmitz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mounier</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Outcome of patients with relapsed diffuse large B‐cell lymphoma who fail second‐line salvage regimens in the International CORAL study</article-title>. <source xml:lang="en">Bone Marrow Transplant</source>. <year>2016</year>;<volume>51</volume>:<fpage>51</fpage>‐<lpage>57</lpage>.<pub-id pub-id-type="pmid">26367239</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bmt.2015.213</pub-id></mixed-citation></ref><ref id="cam43259-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam43259-cit-0009">
+<string-name name-style="western">
+<surname>Oki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kelly</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flinn</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>CUDC‐907 in relapsed/refractory diffuse large B‐cell lymphoma, including patients with MYC‐alterations: results from an expanded phase I trial</article-title>. <source xml:lang="en">Haematologica</source>. <year>2017</year>;<volume>102</volume>:<fpage>1923</fpage>‐<lpage>1930</lpage>.<pub-id pub-id-type="pmid">28860342</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3324/haematol.2017.172882</pub-id><pub-id pub-id-type="pmcid">PMC5664396</pub-id></mixed-citation></ref><ref id="cam43259-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam43259-cit-0010">
+<string-name name-style="western">
+<surname>Lesokhin</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ansell</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Armand</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Nivolumab in patients with relapsed or refractory hematologic malignancy: preliminary results of a phase Ib study</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2016</year>;<volume>34</volume>:<fpage>2698</fpage>‐<lpage>2704</lpage>.<pub-id pub-id-type="pmid">27269947</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2015.65.9789</pub-id><pub-id pub-id-type="pmcid">PMC5019749</pub-id></mixed-citation></ref><ref id="cam43259-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam43259-cit-0011">
+<string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Young</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmitz</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Targeting B cell receptor signaling with ibrutinib in diffuse large B cell lymphoma</article-title>. <source xml:lang="en">Nat Med</source>. <year>2015</year>;<volume>21</volume>:<fpage>922</fpage>‐<lpage>926</lpage>.<pub-id pub-id-type="pmid">26193343</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm.3884</pub-id><pub-id pub-id-type="pmcid">PMC8372245</pub-id></mixed-citation></ref><ref id="cam43259-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam43259-cit-0012">
+<string-name name-style="western">
+<surname>Abramson</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palomba</surname>
+<given-names>ML</given-names>
+</string-name>, et al. <article-title>Updated safety and long‐term clinical outcomes in TRANSCEND NHL 001, pivotal trial of lisocabtagene maraleucel (JCAR017) in R/R aggressive NHL</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2018</year>;<volume>36</volume>:<elocation-id>7505</elocation-id>.</mixed-citation></ref><ref id="cam43259-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam43259-cit-0013">
+<string-name name-style="western">
+<surname>Locke</surname>
+<given-names>FL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghobadi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacobson</surname>
+<given-names>CA</given-names>
+</string-name>, et al. <article-title>Long‐term safety and activity of axicabtagene ciloleucel in refractory large B‐cell lymphoma (ZUMA‐1): a single‐arm, multicentre, phase 1–2 trial</article-title>. <source xml:lang="en">Lancet Oncol</source>. <year>2019</year>;<volume>20</volume>:<fpage>31</fpage>‐<lpage>42</lpage>.<pub-id pub-id-type="pmid">30518502</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(18)30864-7</pub-id><pub-id pub-id-type="pmcid">PMC6733402</pub-id></mixed-citation></ref><ref id="cam43259-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam43259-cit-0014">
+<string-name name-style="western">
+<surname>Schuster</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bishop</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tam</surname>
+<given-names>CS</given-names>
+</string-name>, et al. <article-title>Tisagenlecleucel in adult relapsed or refractory diffuse large B‐cell lymphoma</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2019</year>;<volume>380</volume>:<fpage>45</fpage>‐<lpage>56</lpage>.<pub-id pub-id-type="pmid">30501490</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1804980</pub-id></mixed-citation></ref><ref id="cam43259-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam43259-cit-0015">
+<string-name name-style="western">
+<surname>Neelapu</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Locke</surname>
+<given-names>FL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartlett</surname>
+<given-names>NL</given-names>
+</string-name>, et al. <article-title>Axicabtagene ciloleucel CAR T‐cell therapy in refractory large B‐cell lymphoma</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2017</year>;<volume>377</volume>:<fpage>2531</fpage>‐<lpage>2544</lpage>.<pub-id pub-id-type="pmid">29226797</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1707447</pub-id><pub-id pub-id-type="pmcid">PMC5882485</pub-id></mixed-citation></ref><ref id="cam43259-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam43259-cit-0016">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The efficacy and safety of anti‐CD19/CD20 chimeric antigen receptor‐ T cells immunotherapy in relapsed or refractory B‐cell malignancies:a meta‐analysis</article-title>. <source xml:lang="en">BMC Cancer</source>. <year>2018</year>;<volume>18</volume>:<fpage>929</fpage>.<pub-id pub-id-type="pmid">30257649</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12885-018-4817-4</pub-id><pub-id pub-id-type="pmcid">PMC6158876</pub-id></mixed-citation></ref><ref id="cam43259-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam43259-cit-0017">
+<string-name name-style="western">
+<surname>Fry</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shah</surname>
+<given-names>NN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orentas</surname>
+<given-names>RJ</given-names>
+</string-name>, et al. <article-title>CD22‐targeted CAR T cells induce remission in B‐ALL that is naive or resistant to CD19‐targeted CAR immunotherapy</article-title>. <source xml:lang="en">Nat Med</source>. <year>2018</year>;<volume>24</volume>:<fpage>20</fpage>‐<lpage>28</lpage>.<pub-id pub-id-type="pmid">29155426</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm.4441</pub-id><pub-id pub-id-type="pmcid">PMC5774642</pub-id></mixed-citation></ref><ref id="cam43259-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam43259-cit-0018">
+<string-name name-style="western">
+<surname>Yan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>A combination of humanised anti‐CD19 and anti‐BCMA CAR T cells in patients with relapsed or refractory multiple myeloma: a single‐arm, phase 2 trial</article-title>. <source xml:lang="en">Lancet Haematol</source>. <year>2019</year>;<volume>6</volume>:<fpage>e521</fpage>‐<lpage>e529</lpage>.<pub-id pub-id-type="pmid">31378662</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2352-3026(19)30115-2</pub-id></mixed-citation></ref><ref id="cam43259-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam43259-cit-0019">
+<string-name name-style="western">
+<surname>Cheson</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fisher</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barrington</surname>
+<given-names>SF</given-names>
+</string-name>, et al. <article-title>Recommendations for initial evaluation, staging, and response assessment of Hodgkin and non‐Hodgkin lymphoma: the Lugano classification</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2014</year>;<volume>32</volume>:<fpage>3059</fpage>‐<lpage>3068</lpage>.<pub-id pub-id-type="pmid">25113753</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2013.54.8800</pub-id><pub-id pub-id-type="pmcid">PMC4979083</pub-id></mixed-citation></ref><ref id="cam43259-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam43259-cit-0020">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gardner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porter</surname>
+<given-names>DL</given-names>
+</string-name>, et al. <article-title>Current concepts in the diagnosis and management of cytokine release syndrome</article-title>. <source xml:lang="en">Blood</source>. <year>2014</year>;<volume>124</volume>:<fpage>188</fpage>‐<lpage>195</lpage>.<pub-id pub-id-type="pmid">24876563</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2014-05-552729</pub-id><pub-id pub-id-type="pmcid">PMC4093680</pub-id></mixed-citation></ref><ref id="cam43259-bib-0021"><label>21</label><mixed-citation publication-type="book" id="cam43259-cit-0021">
+<collab collab-type="authors">US Department of Health and Human Services</collab>
+. <source xml:lang="en">Common Terminology Criteria for Adverse Events Version 4.03</source>. <publisher-loc>Bethesda, MD</publisher-loc>: <publisher-name>National Institutes of Health</publisher-name>; <year>2010</year>.</mixed-citation></ref><ref id="cam43259-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam43259-cit-0022">
+<string-name name-style="western">
+<surname>Hitz</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Connors</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gascoyne</surname>
+<given-names>RD</given-names>
+</string-name>, et al. <article-title>Outcome of patients with primary refractory diffuse large B cell lymphoma after R‐CHOP treatment</article-title>. <source xml:lang="en">Ann Hematol</source>. <year>2015</year>;<volume>94</volume>:<fpage>1839</fpage>‐<lpage>1843</lpage>.<pub-id pub-id-type="pmid">26246466</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00277-015-2467-z</pub-id></mixed-citation></ref><ref id="cam43259-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam43259-cit-0023">
+<string-name name-style="western">
+<surname>Matasar</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Czuczman</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodriguez</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Ofatumumab in combination with ICE or DHAP chemotherapy in relapsed or refractory intermediate grade B‐cell lymphoma</article-title>. <source xml:lang="en">Blood</source>. <year>2013</year>;<volume>122</volume>:<fpage>499</fpage>‐<lpage>506</lpage>.<pub-id pub-id-type="pmid">23692856</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2012-12-472027</pub-id><pub-id pub-id-type="pmcid">PMC3724189</pub-id></mixed-citation></ref><ref id="cam43259-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam43259-cit-0024">
+<string-name name-style="western">
+<surname>Nagle</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schuster</surname>
+<given-names>SJ</given-names>
+</string-name>, et al. <article-title>Outcomes of patients with relapsed/refractory diffuse large B‐cell lymphoma with progression of lymphoma after autologous stem cell transplantation in the rituximab era</article-title>. <source xml:lang="en">Am J Hematol</source>. <year>2013</year>;<volume>88</volume>:<fpage>890</fpage>‐<lpage>894</lpage>.<pub-id pub-id-type="pmid">23813874</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajh.23524</pub-id></mixed-citation></ref><ref id="cam43259-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam43259-cit-0025">
+<string-name name-style="western">
+<surname>Telio</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandes</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Salvage chemotherapy and autologous stem cell transplant in primary refractory diffuse large B‐cell lymphoma: outcomes and prognostic factors</article-title>. <source xml:lang="en">Leuk Lymphoma</source>. <year>2012</year>;<volume>53</volume>:<fpage>836</fpage>‐<lpage>841</lpage>.<pub-id pub-id-type="pmid">22136378</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/10428194.2011.643404</pub-id></mixed-citation></ref><ref id="cam43259-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam43259-cit-0026">
+<string-name name-style="western">
+<surname>Brudno</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kochenderfer</surname>
+<given-names>JN</given-names>
+</string-name>. <article-title>Toxicities of chimeric antigen receptor T cells: recognition and management</article-title>. <source xml:lang="en">Blood</source>. <year>2016</year>;<volume>127</volume>:<fpage>3321</fpage>‐<lpage>3330</lpage>.<pub-id pub-id-type="pmid">27207799</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2016-04-703751</pub-id><pub-id pub-id-type="pmcid">PMC4929924</pub-id></mixed-citation></ref><ref id="cam43259-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam43259-cit-0027">
+<string-name name-style="western">
+<surname>Hay</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanafi</surname>
+<given-names>L‐A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Kinetics and biomarkers of severe cytokine release syndrome after CD19 chimeric antigen receptor‐modified T‐cell therapy</article-title>. <source xml:lang="en">Blood</source>. <year>2017</year>;<volume>130</volume>:<fpage>2295</fpage>‐<lpage>2306</lpage>.<pub-id pub-id-type="pmid">28924019</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2017-06-793141</pub-id><pub-id pub-id-type="pmcid">PMC5701525</pub-id></mixed-citation></ref><ref id="cam43259-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam43259-cit-0028">
+<string-name name-style="western">
+<surname>Sommermeyer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hudecek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosasih</surname>
+<given-names>PL</given-names>
+</string-name>, et al. <article-title>Chimeric antigen receptor‐modified T cells derived from defined CD8+ and CD4+ subsets confer superior antitumor reactivity in vivo</article-title>. <source xml:lang="en">Leukemia</source>. <year>2016</year>;<volume>30</volume>:<fpage>492</fpage>‐<lpage>500</lpage>.<pub-id pub-id-type="pmid">26369987</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/leu.2015.247</pub-id><pub-id pub-id-type="pmcid">PMC4746098</pub-id></mixed-citation></ref><ref id="cam43259-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam43259-cit-0029">
+<string-name name-style="western">
+<surname>Turtle</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanafi</surname>
+<given-names>L‐A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berger</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>CD19 CAR‐T cells of defined CD4+:CD8+ composition in adult B cell ALL patients</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>2016</year>;<volume>126</volume>(<issue>6</issue>):<fpage>2123</fpage>‐<lpage>2138</lpage>.<pub-id pub-id-type="pmid">27111235</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI85309</pub-id><pub-id pub-id-type="pmcid">PMC4887159</pub-id></mixed-citation></ref><ref id="cam43259-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam43259-cit-0030">
+<string-name name-style="western">
+<surname>Tsuchiya</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamamoto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bae</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Tumor identification of less aggressive or indolent lymphoma with whole‐body 11C‐acetate PET/CT</article-title>. <source xml:lang="en">Clin Nucl Med</source>. <year>2019</year>;<volume>44</volume>:<fpage>276</fpage>‐<lpage>281</lpage>.<pub-id pub-id-type="pmid">30688736</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/RLU.0000000000002464</pub-id></mixed-citation></ref></ref-list></back></article>

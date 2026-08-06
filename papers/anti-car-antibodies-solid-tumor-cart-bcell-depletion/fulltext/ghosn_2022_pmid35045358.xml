@@ -1,0 +1,694 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Lung Cancer</journal-id><journal-id journal-id-type="iso-abbrev">Lung Cancer</journal-id><journal-id journal-id-type="pmc-domain-id">319</journal-id><journal-id journal-id-type="pmc-domain">nihpa</journal-id><journal-id journal-id-type="nlm-id">8800805</journal-id><journal-title-group><journal-title>Lung cancer (Amsterdam, Netherlands)</journal-title></journal-title-group><issn pub-type="ppub">0169-5002</issn><issn pub-type="epub">1872-8332</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>NIHPA Author Manuscripts</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9256852</article-id><article-id pub-id-type="pmcid-ver">PMC9256852.319</article-id><article-id pub-id-type="pmcaid">9256852</article-id><article-id pub-id-type="pmcaiid">9256852</article-id><article-id pub-id-type="manuscript-id">NIHMS1772432</article-id><article-id pub-id-type="pmid">35045358</article-id><article-id pub-id-type="doi">10.1016/j.lungcan.2022.01.003</article-id><article-id pub-id-type="manuscript-id-alternative">NIHMS1772432</article-id><article-id pub-id-type="manuscript-id-alternative">NIHPA1772432</article-id><article-version article-version-type="pmc-version">319</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Image-Guided Interventional Radiological Delivery of Chimeric Antigen
+Receptor (CAR) T Cells for Pleural Malignancies in a Phase I/II Clinical
+Trial</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Ghosn</surname><given-names initials="M">Mario</given-names></name><xref rid="A1" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Cheema</surname><given-names initials="W">Waseem</given-names></name><xref rid="A2" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="A">Amy</given-names></name><xref rid="A2" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Livschitz</surname><given-names initials="J">Jennifer</given-names></name><xref rid="A2" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Maybody</surname><given-names initials="M">Majid</given-names></name><xref rid="A1" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Boas</surname><given-names initials="FE">Franz E.</given-names></name><xref rid="A1" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Santos</surname><given-names initials="E">Ernesto</given-names></name><xref rid="A1" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kim</surname><given-names initials="D">DaeHee</given-names></name><xref rid="A1" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Beattie</surname><given-names initials="JA">Jason A.</given-names></name><xref rid="A3" ref-type="aff">c</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Offin</surname><given-names initials="M">Michael</given-names></name><xref rid="A4" ref-type="aff">d</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Rusch</surname><given-names initials="VW">Valerie W.</given-names></name><xref rid="A2" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zauderer</surname><given-names initials="MG">Marjorie G.</given-names></name><xref rid="A4" ref-type="aff">d</xref><xref rid="A5" ref-type="aff">e</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Adusumilli</surname><given-names initials="PS">Prasad S.</given-names></name><xref rid="A2" ref-type="aff">b</xref><xref rid="A5" ref-type="aff">e</xref><xref rid="A6" ref-type="aff">f</xref><xref rid="CR1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Solomon</surname><given-names initials="SB">Stephen B.</given-names></name><xref rid="A1" ref-type="aff">a</xref></contrib></contrib-group><aff id="A1"><label>a</label>Department of Radiology, Memorial Sloan Kettering Cancer
+Center, 1275 York Avenue, New York, New York 10065 USA</aff><aff id="A2"><label>b</label>Thoracic Service, Department of Surgery, Memorial Sloan
+Kettering Cancer Center, 1275 York Avenue, New York, New York 10065 USA</aff><aff id="A3"><label>c</label>Pulmonary Service, Department of Medicine, Memorial Sloan
+Kettering Cancer Center, 1275 York Avenue, New York, New York 10065 USA</aff><aff id="A4"><label>d</label>Thoracic Oncology Service, Department of Medicine, Memorial
+Sloan Kettering Cancer Center, 1275 York Avenue, New York, New York 10065 USA</aff><aff id="A5"><label>e</label>Cellular Therapeutics Center, Department of Medicine,
+Memorial Sloan Kettering Cancer Center, 1275 York Avenue, New York, New York 10065
+USA</aff><aff id="A6"><label>f</label>Center For Cell Engineering, Memorial Sloan Kettering
+Cancer Center, 1275 York Avenue, New York, New York 10065 USA</aff><author-notes><fn fn-type="con" id="FN1"><p id="P1">CRediT Statement</p><p id="P2"><bold>Mario Ghosn:</bold> Data curation, Formal analysis,
+Investigation, Resources, Software, Visualization, Writing-original draft,
+Writing-review and editing. <bold>Waseem Cheema:</bold> Data curation,
+Formal analysis, Software, Visualization, Writing-original draft,
+Writing-review and editing. <bold>Amy Zhu:</bold> Data curation,
+Visualization, Writing-review and editing. <bold>Jennifer Livschitz:</bold>
+Data curation, Writing-review and editing. <bold>Majid Maybody:</bold>
+Investigation, Resources, Writing-review and editing. <bold>Franz E.
+Boas:</bold> Investigation, Resources, Writing-review and editing.
+<bold>Ernesto Santos:</bold> Resources, Writing-review and editing.
+<bold>DaeHee Kim:</bold> Investigation, Resources, Writing-review and
+editing. <bold>Jason A. Beattie:</bold> Investigation, Resources,
+Writing-review and editing. <bold>Michael Offin:</bold> Resources,
+Writing-review and editing. <bold>Valerie W. Rusch:</bold> Resources,
+Writing-review and editing. <bold>Marjorie G. Zauderer:</bold> Resources,
+Writing-review and editing. <bold>Prasad S. Adusumilli:</bold>
+Conceptualization, Data curation, Formal analysis, Funding acquisition,
+Investigation, Methodology, Project administration, Resources, Software,
+Supervision, Validation, Visualization, Writing-original draft,
+Writing-review and editing. <bold>Stephen B. Solomon:</bold>
+Conceptualization, Data curation, Formal analysis, Investigation,
+Methodology, Project administration, Resources, Supervision, Validation,
+Visualization, Writing-original draft, Writing-review and editing.</p></fn><corresp id="CR1"><label>*</label><bold>Corresponding Author:</bold> Prasad S.
+Adusumilli, MD, FACS, Deputy Chief and Attending, Thoracic Service, Vice Chair,
+Department of Surgery, Co-Director, Mesothelioma Program; Head, Solid Tumors
+Cell Therapy, Cellular Therapeutics Center, Memorial Sloan Kettering Cancer
+Center, 1275 York Avenue, New York, NY 10065, Tel: 212-639-8093; Fax:
+646-422-2340, <email>adusumip@mskcc.org</email></corresp></author-notes><pub-date pub-type="ppub"><month>3</month><year>2022</year></pub-date><pub-date pub-type="epub"><day>06</day><month>1</month><year>2022</year></pub-date><volume>165</volume><issue-id pub-id-type="pmc-issue-id">411802</issue-id><fpage>1</fpage><lpage>9</lpage><pub-history><event event-type="nihms-submitted"><date><day>29</day><month>01</month><year>2022</year></date></event><event event-type="pmc-release"><date><day>06</day><month>07</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>06</day><month>07</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-04-15 16:25:15.577"><day>15</day><month>04</month><year>2024</year></date></event></pub-history><permissions><license><license-p>This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="nihms-1772432.pdf"/><abstract id="ABS1"><sec id="S1"><title>Objectives:</title><p id="P3">We describe techniques and results of image-guided delivery of
+mesothelin-targeted chimeric antigen receptor (CAR) T cells in patients with
+pleural malignancies in a phase I/II trial (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ClinicalTrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link>: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02414269" ext-link-type="uri">NCT02414269</ext-link>).</p></sec><sec id="S2"><title>Materials and Methods:</title><p id="P4">Patients without a pleural catheter or who lack effusion for
+insertion of a catheter (31 of 41) were administered intrapleural CAR T
+cells by interventional radiologists under image guidance by computed
+tomography or ultrasound. CAR T cells were administered through a needle in
+an accessible pleural loculation (intracavitary) or following an induced
+loculated artificial pneumothorax. In patients where intracavitary infusion
+was not feasible, CAR T cells were injected via percutaneous approach either
+surrounding and/or in the pleural nodule/thickening (intratumoral). Pre- and
+post-procedural clinical, laboratory, and imaging findings were
+assessed.</p></sec><sec id="S3"><title>Results:</title><p id="P5">CAR T cells were administered intrapleurally in 31 patients (33
+procedures, 2 patients were administered a second dose) with successful
+delivery of planned dose (10–186 mL); 14/33 (42%) intracavitary and
+19/33 (58%) intratumoral. All procedures were completed within 2 hours of
+T-cell thawing. There were no procedure-related adverse events greater than
+grade 1 (1 in 3 patients had prior ipsilateral pleural fusion procedures).
+The most common imaging finding was ground glass opacities with interlobular
+septal thickening and/or consolidation, observed in 12/33 (36%) procedures.
+There was no difference in the incidence of fever, CRP, IL-6, and peak
+vector copy number in the peripheral blood between infusion methods.</p></sec><sec id="S4"><title>Conclusion:</title><p id="P6">Image-guided intrapleural delivery of CAR T cells using intracavitary
+or intratumoral routes is feasible, repeatable and safe across anatomically
+variable pleural cancers.</p></sec></abstract><kwd-group><kwd>Regional delivery</kwd><kwd>Adoptive cell therapy</kwd><kwd>Malignant pleural mesothelioma</kwd><kwd>Pleural metastases</kwd><kwd>Malignant pleural effusion</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-manuscript</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="S5"><label>1.</label><title>INTRODUCTION<sup><xref rid="FN3" ref-type="fn">1</xref></sup></title><p id="P7">Cancer therapeutics including chemotherapy and immune checkpoint inhibitors
+are administered systemically by intravenous infusion allowing for the distribution
+of the administered drug through the circulation. Adoptive cell therapy by chimeric
+antigen receptor (CAR) T cells demonstrated impressive results with intravenous
+infusion of CD19 and B-cell maturation antigen—cancer-cell surface antigen
+targeted CAR T cells for hematological malignancies [<xref rid="R1" ref-type="bibr">1</xref>–<xref rid="R3" ref-type="bibr">3</xref>]. However, we and
+others have shown the limitations of intravenous administration of CAR T cells to
+treat solid tumors; known barriers include pulmonary sequestration of adoptively
+transferred cells that are activated by cytokine beads during manufacturing with
+ensuing pulmonary inflammation, potential “on-target off-tumor”
+toxicity within the lung, limited CAR T-cell trafficking, and infiltration into the
+tumor compounded by unique microenvironment of the tumor embedded organ [<xref rid="R4" ref-type="bibr">4</xref>–<xref rid="R8" ref-type="bibr">8</xref>]. Biological therapies such as oncolytic viruses have been delivered
+intratumoral to promote their infiltration into the tumor, to prevent neutralization
+by preexisting antibodies in the systemic circulation, and to augment their efficacy
+[<xref rid="R9" ref-type="bibr">9</xref>–<xref rid="R11" ref-type="bibr">11</xref>], and raised interest in this delivery approach with cancer
+immunotherapies [<xref rid="R12" ref-type="bibr">12</xref>–<xref rid="R15" ref-type="bibr">15</xref>].</p><p id="P8">Case reports demonstrated the feasibility of regional delivery of CAR T cells
+via intracranial, intrahepatic, or intraperitoneal routes [<xref rid="R16" ref-type="bibr">16</xref>–<xref rid="R19" ref-type="bibr">19</xref>].
+While these approaches have used catheter-directed delivery of cells, image-guided
+procedures performed by interventional radiologists allow for the reach of a wide
+range of organs, including the liver [<xref rid="R20" ref-type="bibr">20</xref>],
+lung [<xref rid="R21" ref-type="bibr">21</xref>], pleura [<xref rid="R22" ref-type="bibr">22</xref>], and peritoneum [<xref rid="R23" ref-type="bibr">23</xref>], with high precision, facilitating intratumoral immunotherapies for
+solid organ or diffuse cavitary embedded tumors [<xref rid="R24" ref-type="bibr">24</xref>]. However, to date, there is no description of the techniques and
+results for regional delivery of immunotherapy including CAR T cells in a large
+series of patients; several approaches are under investigation [<xref rid="R24" ref-type="bibr">24</xref>–<xref rid="R28" ref-type="bibr">28</xref>].</p><p id="P9">Pleural cancers resulting from primary malignant pleural mesothelioma (MPM)
+or metastatic lung and breast cancers affect &gt;150,000 patients a year within
+the U.S. alone and are associated with poor clinical outcomes [<xref rid="R29" ref-type="bibr">29</xref>–<xref rid="R31" ref-type="bibr">31</xref>].
+MPM’s unique characteristic of locoregional invasion contributing to the
+aggressiveness with lower incidence of distant metastases provides an opportunity to
+deliver gene-engineered immune cells directly to the pleural cavity [<xref rid="R32" ref-type="bibr">32</xref>,<xref rid="R33" ref-type="bibr">33</xref>]. In
+addition to the clinical rationale to deliver CAR T cells locoregionally, our group
+has shown the immunological benefits from immediate antigen activation and
+proliferation of CAR T cells as well as augmented CD4 helper function following
+intrapleural administration of mesothelin, a cancer-cell surface antigen-targeted
+CAR T cells in an orthotopic MPM mouse model [<xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R19" ref-type="bibr">19</xref>]. Intrapleural
+administration demonstrated superior anti-tumor efficacy even at a 30-fold lower
+dose as well as systemic immunity compared to intravenous administration [<xref rid="R4" ref-type="bibr">4</xref>]. Our recent phase I trial confirmed that
+regionally delivered mesothelin-targeted CAR T cells were able to treat the pleural
+tumor and persist in systemic circulation [<xref rid="R19" ref-type="bibr">19</xref>]. Patients with pleural malignancies can have variable clinical
+presentation, including pleural masses, heterogenous pleural thickening (parietal,
+visceral or both), pleural nodules in the fissure, pleural effusion (generalized or
+loculated), or a combination of these, complicating the feasibility of regional
+intervention and delivery of cells, especially among patients previously treated
+with surgery or radiotherapy to the pleura [<xref rid="R34" ref-type="bibr">34</xref>].</p><p id="P10">Given the significance of a personalized approach / technique in regional
+delivery of immunotherapy to ensure successful administration of the intended dose
+and homogeneity of treatment delivery in clinical trials [<xref rid="R26" ref-type="bibr">26</xref>,<xref rid="R35" ref-type="bibr">35</xref>], the
+primary aim of this study is to describe the successful techniques of image-guided,
+interventional radiological (IR) delivery of mesothelin-targeted CAR T cells in
+patients with pleural malignancies in our phase I/II clinical trial (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ClinicalTrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link>: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02414269" ext-link-type="uri">NCT02414269</ext-link>), with a focus on administration routes, target
+selection criteria, post-procedural imaging findings, and safety. We demonstrate
+that regional intrathoracic delivery of a large volume of therapeutic agent is
+feasible, safe and effective in patients with pleural malignancies. We further
+propose an algorithmic approach to deliver agents to the pleural cavity using IR
+expertise.</p></sec><sec id="S6"><label>2.</label><title>MATERIALS and METHODS</title><sec id="S7"><label>2.1</label><title>Study Design</title><p id="P11">This is an open-label, dose-escalating, single-center, phase I/II study
+of mesothelin-targeted CAR T cells in patients with previously treated
+histologically proven pleural cancer from MPM, metastatic lung cancer, or
+metastatic breast cancer (Trial registration number: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02414269" ext-link-type="uri">NCT02414269</ext-link>, study protocol provided in the <xref rid="SD1" ref-type="supplementary-material">Supplementary Material</xref>). Patients
+with mesothelin expression of at least 10% of tumor cells on immunohistochemical
+analysis and/or patients with epithelioid mesothelioma with serum soluble
+mesothelin-related peptides &gt; 1.0 nm/L were eligible. Following a single
+dose of preconditioning cyclophosphamide (1500 mg/m<sup>2</sup>),
+mesothelin-targeted CAR T cells (0.3M-60M CAR T cells/kg) with the iCaspase-9
+safety gene were administered intrapleurally either through a pleural catheter
+or via IR-guided imaging. Among 41 patients treated to date, this report is a
+subgroup analysis of 31 patients (33 procedures, 2 patients received repeat
+administration) who underwent image-guided infusion of CAR T cells performed by
+IR.</p></sec><sec id="S8"><label>2.2</label><title>Study Oversight</title><p id="P12">The study protocol and amendments were approved by the institutional
+review board at Memorial Sloan Kettering Cancer Center. All patients provided
+written informed consent. Response and toxicity outcomes were reviewed by an
+independent committee established by the institutional Clinical Research
+Oversight Committee to manage potential conflicts of interest in the
+interpretation of responses. No one who is not an author contributed to the
+writing of the manuscript.</p></sec><sec id="S9"><label>2.3</label><title>Image-guided Infusion of CAR T Cells</title><p id="P13">Prior to the procedure, contraindications for percutaneous solid organ
+biopsies were ruled out: severe coagulopathy that cannot be corrected, namely
+platelet levels &lt; 50K/mcL or international normalized ratio &gt; 1.5,
+or hemodynamic instability [<xref rid="R36" ref-type="bibr">36</xref>]. All
+patients who do not have an indwelling pleural catheter or lack generalized
+pleural effusion for insertion of pleural catheter (31/41) were referred to the
+IR clinic to assess the feasibility and to obtain informed consent.</p><p id="P14">CAR T cells were infused in the pleural space (intracavitary infusion)
+and/or directly surrounding/into the tumor (intratumoral infusion) through a
+needle or a catheter placed under imaging guidance by interventional
+radiologists with at least 5 years of experience in performing intrathoracic
+interventional procedures, including lung and pleural biopsies and thermal
+ablations. Procedures were performed under moderate intravenous sedation, local
+anesthesia, and continuous non-invasive monitoring of vital signs. Patients were
+positioned supine if the percutaneous access was anterior or lateral and in
+prone position otherwise.</p></sec><sec id="S10"><label>2.4</label><title>Intratumoral and Intracavitary Infusion Routes</title><p id="P15">Chest computed tomography (CT) or fluorine-18-fluorodeoxyglucose
+positron emission tomography (PET) CT scan performed within one month of the
+procedure were reviewed by the interventional radiologist and principal
+investigator of the trial to select the appropriate target. Following
+confirmation that there were no issues following cyclophosphamide
+lymphodepletion that preclude IR procedure, the timing of IR procedure was
+coordinated with IR staff, principal investigator and cellular therapeutics
+center nursing staff as manufactured CAR T cells have to be infused within 3
+hours of thawing and cannot be frozen back (protocol in <xref rid="SD1" ref-type="supplementary-material">Supplementary Material</xref>). Choice of
+appropriate infusion route was determined based on tumoral presentation
+(different tumoral presentations are presented in <xref rid="F1" ref-type="fig">Fig. 1A</xref>–<xref rid="F1" ref-type="fig">D</xref>), tumor size,
+and uptake on PET CT.</p><p id="P16">For intracavitary infusion, if the patient presented with a pleural
+effusion (free or loculated), a needle or a catheter was placed under image
+guidance in the pleural space to infuse CAR T cells (<xref rid="F1" ref-type="fig">Fig. 1E</xref>). Prior to the administration of CAR T cells,
+pleural fluid was completely drained. When pleural effusion was absent or
+estimated too small by the operator, a pleural expansion could be attempted in
+an aim to provide enough space for the volume of the solution to be injected.
+Pleural expansion consisted of insufflating air in the pleural space through a
+percutaneously inserted needle. Presence of a small pneumothorax confirmed
+success and, consequently, the operator placed a pleural catheter into this
+induced pleural space prior to infusion (<xref rid="F1" ref-type="fig">Fig.
+1F</xref>).</p><p id="P17">For intratumoral infusion, if intracavitary infusion could not be
+performed, CAR T cells were directly injected via percutaneous access either
+surrounding and/or in the pleural nodule/mass (<xref rid="F1" ref-type="fig">Fig. 1G</xref>) or in the pleural thickening (<xref rid="F1" ref-type="fig">Fig. 1H</xref>). In case of multiple nodules, those with the highest
+metabolic activity on PET CT and largest diameter accessible for infusion were
+selected. Concerning injections into pleural thickening, the needle was inserted
+along the pleural plane as previously described for pleural biopsies to ensure a
+successful delivery of CAR T cells even when the pleural thickening was minimal
+[<xref rid="R22" ref-type="bibr">22</xref>].</p><p id="P18">Choice of the appropriate imaging guidance and material were at the
+discretion of the operator, but the desired final in-target position was
+verified by CT imaging in all procedures [<xref rid="R37" ref-type="bibr">37</xref>,<xref rid="R38" ref-type="bibr">38</xref>]. Once the position of
+the final needle/catheter was confirmed on CT, CAR T cells were consequently
+injected by the study principal investigator (P.S.A.) or by the intervention
+radiologist. All patients had a post-infusion CT and chest radiography
+immediately and 2 hours after the CAR T-cell infusion to rule out any expanding
+pneumothorax or other procedural complications.</p></sec><sec id="S11"><label>2.5</label><title>Technical Success</title><p id="P19">Technical success was defined as the ability to deliver complete volume
+of CAR T cells (10–186 mL; increasing volume with increasing T-cell dose
+by cohort) to the desired target. Patients medical records were reviewed for the
+confounding variables that could influence the technical success: previous
+treatments (surgery, radiotherapy, and/or regional infusion of CAR T cells),
+tumoral presentation on chest CT, infusion route, imaging guidance modality,
+material used to inject CAR T cells, volume and dose infused, anesthesia time,
+as well as intra- and post-procedural imaging findings.</p></sec><sec id="S12"><label>2.6</label><title>Adverse Events</title><p id="P20">All adverse events according to Common Terminology Criteria for Adverse
+Events v4.0. within 7 days (potential procedural related complications) after
+CAR T-cell infusion were reported.</p></sec><sec id="S13"><label>2.7</label><title>Comparison Metrics of Infusion Method</title><p id="P21">To assess if CAR T cells injected in the tumor or the pleural cavity can
+be detected in systemic circulation, peak vector copy numbers—a
+quantitative real-time polymerase chain reaction assay was used to identify and
+quantify the presence of CAR T cells in the peripheral blood (vector copies per
+milliliter)—within one month following CAR T-cell infusion were compared
+between the two intrapleural infusion methods, intracavitary or intratumoral. In
+addition, metrics that reflect CAR T-cell activity in the immediate infusion
+period: fever, C-reactive protein (CRP), and interleukin-6 (IL-6) peak serum
+levels within 1 week following CAR T-cell infusion were compared between all
+patients that received regional infusion of CAR T cells (total number of
+procedures = 45), either by an indwelling pleural catheter placed by thoracic
+surgery or intervention pulmonary (number of procedures = 12) or by image-guided
+IR (number of procedures = 33).</p></sec><sec id="S14"><label>2.8</label><title>Statistical Analyses</title><p id="P22">Quantitative variables were described as medians
+(minimum–maximum) and categorical variables as numbers (proportions,
+percentages). Normal distribution was tested with the Shapiro-Wilk test.
+Comparisons were performed using Fisher’s test, unpaired t-test and
+Mann-Whitney test for proportions, normal and non-normal distributed variables,
+respectively. Statistical analysis was performed using SPSS
+(SPSS<sup>®</sup>, IBM<sup>®</sup> SPSS<sup>®</sup>
+Statistics, version 26, release 26.0.0.1, Armonk, New York). A
+<italic toggle="yes">P</italic> value &lt; 0.05 was considered statistically
+significant.</p></sec></sec><sec id="S15"><label>3.</label><title>RESULTS</title><sec id="S16"><label>3.1</label><title>Study Participant Characteristics</title><p id="P23">Thirty-one patients underwent an image-guided infusion among 41 total
+study participants in the study (<xref rid="T1" ref-type="table">Table
+1</xref>). Two patients (Patients 19 and 24) had repeat image-guided infusions
+performed 8 and 8.4 months apart respectively (second procedures indicated as
+Patient 19* and 24* among 33 total number of procedures). Tumor diagnosis at the
+site of planned administration was confirmed by on-site histology and consisted
+of MPM for all patients except 1 patient (1/31, 3%) who had pleural metastases
+from breast cancer. The most common tumoral presentations were pleural
+thickening and pleural nodules and/or masses, with a mean diameter of 45 mm
+± 28. Small loculated pleural effusion was present in 14 (14/33, 42%)
+patients. Eleven (11/31, 35%) patients underwent prior pleural fusion-promoting
+procedures—three (3/31, 10%) patients previously treated with
+radiotherapy to the hemithorax, 1 (1/31, 3%) patient with pleurectomy and
+decortication, 5 (5/31, 16%) patients with both, and 2 (2/31, 6%) patients
+(Patients 11* and 12*) had a previous infusion of CAR T cells through an
+indwelling pleural catheter.</p></sec><sec id="S17"><label>3.2</label><title>Selected Targets and Successful Injection Routes</title><p id="P24">Technical success was achieved in 100% of the cases, with 14 (14/33,
+42%) infusions instilled in the pleural cavity and 19 (19/33, 58%) infusions
+instilled directly in the pleural tumor and/or peritumor. Successful infusion
+route and technical details for each procedure are presented in <xref rid="F2" ref-type="fig">Figure 2</xref>.</p><p id="P25">In the intracavitary subgroup, 2 patients (Patients 19* and 24*) had a
+previous intratumoral infusion and 1 patient (Patient 12*) had a previous
+intracavitary infusion through an indwelling pleural catheter (<xref rid="F2" ref-type="fig">Fig. 2</xref>). Infusions were administered into loculations
+in 11 (11/14, 79%) cases and into the pleural cavity after a successful pleural
+expansion in 1 (1/14, 7%) case. The 5 (5/6, 83%) other pleural expansions failed
+due to dense adhesions, among whom 2 patients had a prior history of ipsilateral
+radiotherapy and/or surgery to the pleura (Patients 25 and 41), but none were
+previously treated with infusion of CAR T cells in the pleural cavity. Despite
+failure of pleural expansion, the IR physician succeeded to place a 21G
+micropuncture needle between the pleura and the diaphragm and to inject complete
+volume of CAR T cells in 2 (2/14, 14%) cases (Patients 6 and 41).</p><p id="P26">In the intratumoral infusions subgroup, 1 patient (Patient 11*) had a
+previous ipsilateral intracavitary infusion through an indwelling pleural
+catheter. The target was a pleural nodule/mass in 13 (13/19, 68%) procedures,
+measuring 40 mm (23–125) and a pleural thickness in 6 (6/19, 32%)
+procedures, measuring 11 mm (6–17).</p></sec><sec id="S18"><label>3.3</label><title>Imaging Guidance and Injection Material</title><p id="P27">In the intracavitary infusions subgroup, CT guidance was used in all
+cases, with additional ultrasound guidance in 6 (6/14, 43%) cases. Injections
+were performed through a 17G needle (3/14, 22%), 19G needle (4/14, 29%), 21G
+micropuncture set needle (2/14, 14%), 5Fr Yueh needle (2/14, 14%), 6Fr pigtail
+catheter (1/14, 7%), 8Fr Dawson-Mueller catheter (2/14, 14%).</p><p id="P28">In the intratumoral infusions subgroup, only CT guidance was used.
+Injections were performed through a 17G needle (14/19, 74%), 19G needle (2/19,
+11%), 5Fr Yueh needle (1/19, 5%), 6Fr catheter (1/19, 5%) and 6.3Fr
+Dawson-Mueller catheter (1/19, 5%).</p><p id="P29">There was no statistically significant difference between intracavitary
+and intratumoral infusions of injected volumes (114 mL [10–176] vs. 65 mL
+[30–186], <italic toggle="yes">P</italic>= 0.3) and doses (60M [0.3M-60M] vs. 30M
+[0.3M-60M], <italic toggle="yes">P</italic>= 0.3) (<xref rid="T2" ref-type="table">Table
+2</xref>), but anesthesia time was lower for intratumoral injections,
+measured at 55 minutes (25–107) vs. 70 minutes (45–120) in the
+intracavitary group (<italic toggle="yes">P</italic>= 0.03).</p></sec><sec id="S19"><label>3.4</label><title>Procedural Safety and Post-procedure Image Characteristics</title><p id="P30">No adverse events &gt; grade 1 related to the procedure (needle or
+catheter placement) were observed. Post-infusion imaging findings are summarized
+in <xref rid="F3" ref-type="fig">Figure 3</xref>. The most common were moderate
+ground glass opacities associated with interlobular septal thickening and/or
+consolidation (<xref rid="F3" ref-type="fig">Fig. 3B</xref>, <xref rid="F3" ref-type="fig">3E</xref>), observed more frequently after intratumoral than
+after intracavitary infusions (10 [10/19, 53%] vs. 2 [2/14, 14%],
+<italic toggle="yes">P</italic>= 0.02) (<xref rid="F3" ref-type="fig">Fig. 3H</xref>).
+These changes occurred in the parenchyma adjacent to the injection site and were
+of mild to moderate extension, except in 1 case where they were diffuse (<xref rid="F3" ref-type="fig">Fig. 3B</xref>, Patient 25). In this case, the
+patient did not have any noticeable clinical findings such as chest
+pain/discomfort, cough, or change in oxygen saturation, and the planned infusion
+was continued. Two patients (2/33, 6%) had small asymptomatic pneumothoraxes
+(grade 1) that were stable on 48-hour follow-up imaging and did not require
+chest tube placement or prolonged hospital stay. No hemoptysis or hemothorax
+were observed.</p></sec><sec id="S20"><label>3.5</label><title>CAR T-cell Infusion Metrics: Intracavitary vs. Intratumoral Infusions</title><p id="P31">Only 2 (2/33, 6%) serious adverse events (grade ≥ 3) consisting
+of a cytokine release syndrome and dyspnea occurred between the intratumoral and
+intracavitary groups within 7 days following CAR T-cell infusions. All
+non-biological adverse events within 7 days following CAR T-cell infusions are
+listed in <xref rid="SD2" ref-type="supplementary-material">Supplementary Table
+1</xref>.</p><p id="P32">Fever within 7 days of infusion was observed in 8 (8/33, 24%)
+procedures, with no statistically significant difference between intratumoral
+and intracavitary infusions reported (4 [4/19, 21%] vs. 4 [4/14, 29%]<italic toggle="yes">,
+P</italic>= 0.7). Similarly, there was no statistically significant
+difference between intratumoral and intracavitary injections regarding peak IL-6
+(113 pg/mL [13–949] vs. 103 pg/mL [5–3800], <italic toggle="yes">P</italic>= 1)
+and CRP levels (14 mg/dL [1–29] vs. 16 mg/dL [2–33],
+<italic toggle="yes">P</italic>= 0.6) reported within 7 days after CAR T-cell infusion.
+Peak vector copy number within 30 days after CAR T-cell infusion reached 3340
+copies/mL (0–77300) in the intratumoral group and 5895 copies/mL
+(438–21960) in the intracavitary group, and the difference was not
+statistically significant (<italic toggle="yes">P</italic>= 0.3) (<xref rid="T2" ref-type="table">Table 2</xref>).</p><p id="P33">No statistically significant difference was reported between patients
+that received CAR T-cell infusion by interventional radiology or through an
+indwelling pleural catheter placed by thoracic surgery or intervention pulmonary
+procedures regarding fever (8 [8/33, 24%] vs. 1 [1/12, 8%]<italic toggle="yes">, P</italic>=
+0.3), peak IL-6 (113 pg/mL [5–3800] vs. 58 pg/mL [24–305],
+<italic toggle="yes">P</italic>= 0.5) and CRP levels (15 mg/dL [1–33] vs. 10 mg/dL
+[0–26], <italic toggle="yes">P</italic>= 0.06) within 7 days after CAR T-cell
+infusion.</p></sec></sec><sec id="S21"><label>4.</label><title>DISCUSSION</title><p id="P34">Our results from a larger series of pleural cancer patients demonstrate that
+image-guided regional infusion of CAR T cells in the setting of a phase I/II
+clinical trial was successful and safe. Using two infusion routes, intracavitary and
+intratumoral, delivery of CAR T cells was achieved across all tumoral presentations
+of pleural malignancies, including patients previously treated with radiotherapy to
+the pleura, surgery, or both in ipsilateral hemithorax. Our study also supports the
+repeatability of regional infusion of CAR T cells. We have previously demonstrated
+the benefit of performing correlative immune analyses of pleural fluid and pleural
+biopsies in comparison with systemic immune factors [<xref rid="R19" ref-type="bibr">19</xref>].</p><p id="P35">The first considerations for a novel approach to deliver immunotherapeutics
+are technical feasibility and safety considerations [<xref rid="R26" ref-type="bibr">26</xref>]. As demonstrated in our series, patients with pleural malignancies
+may lack pleural effusion or present with a fused cavity from prior therapy that
+prevent access to the pleural space [<xref rid="R34" ref-type="bibr">34</xref>].
+With improved imaging methods and techniques, combined with experience garnered from
+difficult intrathoracic diagnostic (multiple core biopsies) and therapeutic
+(catheter insertion, embolization, and ablation) procedures, we were able to
+successfully perform IR-guided delivery of even a large volume (&gt; 150 ml) of
+therapeutic agent within the stipulated time frame. A successful delivery was
+achieved either by artificially expanding the pleural space or by directly injecting
+CAR T cells in the pleural nodules/masses or the pleural thickening. While all
+infusions were safe and successful when performed by experienced IR physicians, in 5
+patients with prior pleural fusion procedures, an alternative approach was required.
+This is an important consideration in planning as there is only a 3-hour time limit to inject cells with a high manufacturing cost per patient.
+Consolidative or ground glass appearance and interlobular septal thickening can be
+observed after local infusion in up to 36% of the procedures, more often after
+intratumoral than intracavitary delivery, perhaps related to the tumor lymphatic
+drainage and spread of the instilled fluid in the tumor [<xref rid="R39" ref-type="bibr">39</xref>]. Patients with these imaging findings remained
+asymptomatic and did not require any intervention even when the pulmonary image
+findings were diffuse; the operator should be aware of these radiological changes
+which in our cohort were asymptomatic. Our preclinical studies show that CAR T cells
+when inadvertently administered into subcutaneous tissue or intramuscular or
+peritoneal cavity, are absorbed into systemic circulation and traffic to tumor,
+albeit with decreased efficacy. However, to assess safety and efficacy, there is
+need for uniform dose delivery within a cohort. Building upon our experience, we
+provide a flowchart to standardize delivery route and target selection in <xref rid="F4" ref-type="fig">Figure 4</xref>.</p><p id="P36">Unlike the intraventricular infusion of CAR T cells that resulted in the
+regression of recurrent multifocal glioblastoma including spinal metastases, wherein
+CAR T cells remained within the central nervous system due to the blood-brain
+barrier [<xref rid="R16" ref-type="bibr">16</xref>], CAR T cells delivered
+regionally either in the pleural cavitary or locally in the tumor both reached
+systemic circulation with no difference in peak vector copy numbers between infusion
+routes. These results are in line with our pre-clinical study that showed that
+regionally delivered CAR T cells, irrespective of site of administration, can not
+only infiltrate the diffuse pleural tumor but also circulate and efficiently traffic
+to distant tumor sites [<xref rid="R4" ref-type="bibr">4</xref>]. In the presence of
+diffuse tumor or multiple pleural nodules, in our study, target selection was based
+on lesion size and uptake on recent PET CT, as lesions size ≤ 2 cm has been
+associated with increased safety in CT-guided percutaneous lung biopsies [<xref rid="R40" ref-type="bibr">40</xref>]. Uptake on recent PET CT was also
+considered when available to target a metabolically active part of the tumor [<xref rid="R41" ref-type="bibr">41</xref>].</p><p id="P37">Image-guided interventional procedures have revolutionized treatments in the
+field of cardiology, cardiac surgery, vascular surgery, and neurosurgery. While
+applying the advantages of IR, the critical component of our approach is based on
+the strong clinical, biological, and immunological rationale developed from
+preclinical studies in clinically relevant mouse models. Regional aggressive disease
+with relatively uncommon distant metastases provides the clinical rationale to treat
+MPM with regional delivery. Novel genetic engineering adopted in the development of
+our CAR construct to target high mesothelin-expressing tumor and spare adjacent low
+mesothelin-expressing normal pleura and pericardium supports the biological
+rationale. In addition to avoiding pulmonary sequestration that occurs following
+systemic delivery; immediate cancer-antigen activation with ensuing proliferation
+and dose expansion of intrapleurally delivered CAR T cells provides the
+immunological basis. Our unpublished data and emerging published data from others
+demonstrate that regionally delivered and antigen-activated CAR T cells not only
+circulate systemically but also provide a ‘swarming effect’ to attract
+other effector T cells to the tumor aided by a chemokine gradient, and they
+themselves can enter distant metastases in an improved fashion due to upregulated
+chemokine receptors [<xref rid="R42" ref-type="bibr">42</xref>]. Unlike in
+intraperitoneal administration where the delivery and subsequent inflammatory
+response can precipitate bowel obstruction or perforation, intrapleural delivery in
+our study did not result in any procedure-related morbidity while successfully
+eliminating pulmonary toxicity. Published evidence of augmenting systemic immunity
+following regional administration of oncolytic viruses or regional administration of
+immune checkpoint inhibitors agents into the pleural cavity effectively providing
+checkpoint blockade in tumor draining lymph nodes attests to the expansion of the
+applicability of regional immunotherapy to augment systemic immunity [<xref rid="R11" ref-type="bibr">11</xref>,<xref rid="R43" ref-type="bibr">43</xref>,<xref rid="R44" ref-type="bibr">44</xref>].</p><p id="P38">While our study used standard introducer needles or catheters to deliver CAR
+T cells, Muñoz et al. showed in their preclinical work that multiside hole
+needles allowed better intratumoral distribution and retention compared to end hole
+needles, along with decreasing the pressure during the injection [<xref rid="R45" ref-type="bibr">45</xref>]. More interestingly, an increase of type I
+interferon-associated genes following multiside hole needles injections suggested a
+potential influence of the injection technique on the drug efficacy [<xref rid="R45" ref-type="bibr">45</xref>]. A standardized administrative method, technique, and
+access equipment is preferrable to ensure uniform instillation of therapeutic agents
+[<xref rid="R24" ref-type="bibr">24</xref>]. With the aim of ensuring a
+homogeneous intratumoral distribution, Tselikas et al. suggested to target different
+parts of the tumor, either during the same procedure (“radial
+technique”) or through repeated injections over time (“sequential
+technique”), although these approaches seem more technically challenging and
+might increase the procedure related complications, particularly for tumors
+presenting with minimal pleural thickening [<xref rid="R26" ref-type="bibr">26</xref>]. In the future, repurposing port-a-cath devices used for repeated
+intravenous injections and development of multiside hole needles that could be
+placed in the pleural tumor and attached to a subcutaneous device might facilitate
+repeated administration as well as sampling.</p><p id="P39">There are several limitations in our study. First, the infused agent was not
+visible on conventional imaging, which prevented the operator from assessing the
+drug’s distribution after the injection. However, CT was used in every
+procedure to confirm the needle or catheter position in the target before injection.
+Radiopaque drug delivery vehicles, like ethiodized oil used for liver trans-arterial
+chemoembolizations [<xref rid="R46" ref-type="bibr">46</xref>], could allow an
+accurate intra- and post-procedural assessment of intra- and peritumoral
+distribution and could also serve to tag the tumor for imaging follow-up. However,
+addition of such agents to therapeutic agent requires preclinical and
+pharmacokinetic studies to ensure no compromise of CAR T-cell viability and
+function; pre-clinical studies are underway in our laboratory [<xref rid="R7" ref-type="bibr">7</xref>]. Second, a multi-center study with larger series of
+patients is necessary to validate our approach. Finally, this study only evaluated
+mesothelin-targeted CAR T cells; given the role of the specificity of the targeted
+antigen in limiting on-target off-tumor reactions [<xref rid="R47" ref-type="bibr">47</xref>], our short-term results in an early-phase study cannot be
+extrapolated to other immunotherapeutic agents.</p><sec id="S22"><label>4.1</label><title>Conclusions</title><p id="P40">In conclusion, image-guided regional infusion of CAR T cells for pleural
+malignancies is successful, safe, and repeatable. We described CAR T-cell
+infusion in the pleural cavity or directly in the pleural tumor, with a
+feasibility across all anatomical variations in tumoral presentation. An
+algorithmic approach for selection of infusion route, target and procedural
+instruments and techniques is key for optimal efficacy and consistency of
+outcomes among regional delivery of immunotherapy trials.</p></sec></sec><sec sec-type="supplementary-material" id="SM1"><title>Supplementary Material</title><supplementary-material id="SD1" position="float" content-type="local-data" orientation="portrait"><label>1</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NIHMS1772432-supplement-1.pdf" id="d64e648" position="anchor" orientation="portrait"/></supplementary-material><supplementary-material id="SD2" position="float" content-type="local-data" orientation="portrait"><label>2</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NIHMS1772432-supplement-2.docx" id="d64e651" position="anchor" orientation="portrait"/></supplementary-material></sec></body><back><ack id="S23"><title>Acknowledgements</title><p id="P41">We thank all the patients and family members who participated in this
+clinical trial of novel therapy delivered through an interventional procedure. We
+acknowledge the tireless efforts of nursing and research staff from the Cellular
+Therapeutics Center (CTC), specifically Elizabeth Halton, John Pineda, Claudia
+Diamonte, and Analisa Willis, and Dr. Isabelle Riviere and staff from the Cell
+Therapy and Cell Engineering Facility (CTCEF) for coordinating efforts to align cell
+delivery from the manufacturing facility, IR administration, and post-procedural
+care. We thank Summer Koop of the Thoracic Service, Department of Surgery, Memorial
+Sloan Kettering Cancer Center, for editorial assistance.</p><sec id="S24"><title>Funding:</title><p id="P42">Dr. Adusumilli’s laboratory work is supported by grants from the
+National Institutes of Health [grant numbers P30 CA008748, R01
+CA236615–01, and R01 CA235667]; the U.S. Department of Defense [grant
+numbers BC132124, LC160212, CA170630, CA180889, and CA200437]; the Baker Street
+Foundation; the Batishwa Fellowship; the DallePezze Foundation; the Derfner
+Foundation; the Esophageal Cancer Education Fund; the Geoffrey Beene Foundation;
+the Memorial Sloan Kettering Technology Development Fund; the Miner Fund for
+Mesothelioma Research; the Mr. William H. Goodwin and Alice Goodwin; the
+Commonwealth Foundation for Cancer Research; and the Experimental Therapeutics
+Center of Memorial Sloan Kettering Cancer Center. Dr. Adusumilli’s
+laboratory received research support from ATARA Biotherapeutics. Dr. Zauderer
+received research support from ATARA Biotherapeutics. The research support
+sources did not have any role in the study design, collection, analysis and
+interpretation of data, writing of the article, or the decision to submit the
+article for publication.</p></sec><sec id="S25"><title>Declarations of Interest:</title><p id="P43">Dr. Ghosn declares research funding from GE Healthcare. Dr. Boas
+declares research funding from the Society of Interventional Oncology (sponsored
+by Guerbet), U.S. Department of Defense, Thompson Family Foundation, Brockman
+Medical Research Foundation, City of Hope, and GE Healthcare, received speaker
+fees from Society of Interventional Oncology (sponsored by Guerbet), received
+research meeting attendance support from Guerbet, has a patent on reducing
+artifacts in computed tomography images, has served as a co-founder for
+Claripacs, LLC, has investments in Labdoor, Qventus, CloudMedx, Notable Labs,
+and Xgenomes, and received research supplies support from Bayer, Steba Biotech,
+and Terumo. Dr. Kim declares research funding from the Radiological Society of
+North America and has served as a consultant for Exicure, Inc. Dr. Offin
+declares consulting fees from PharmaMar, Novartis, and Jazz Pharmaceuticals,
+received payments for lectures from Targeted Oncology, ASTRO, and OncLive,
+received meeting support from Bristol-Myers Squibb and Merck Sharp &amp; Dohme,
+and has served on the scientific advisory board for the Mesothelioma Applied
+Research Foundation. Dr. Rusch declares research funding from Genetech, received
+meeting preparation payments from the National Institutes of Health, and
+received meeting travel support from Intuitive Surgical. Dr. Zauderer declares
+research funding from the U.S. Department of Defense, the National Institutes of
+Health, PrECOG, LLC., GSK, Epizyme, Inc., Polaris, SELLAS Life Sciences Group,
+Inc., Bristol Myers Squibb, Millenium, Curis, and ATARA Biotherapeutics,
+received consulting fees from Takeda Therapeutics, GSK, Aldeyra Therapeutics,
+Novocure, and ATARA Biotherapeutics, received payment or honoraria for lectures,
+presentations, speakers bureaus, manuscript writing or educational events from
+Research to Practice, Medical Learning Institute, OncLive, and Medscape, and
+served as the Chair of the Board of Directors for the Mesothelioma Applied
+Research Foundation. Dr. Adusumilli declares research funding from ATARA
+Biotherapeutics, has served on the Scientific Advisory Board or as consultant to
+ATARA Biotherapeutics, Bayer, BioArdis, Carisma Therapeutics, Imugene, ImmPACT
+Bio, and Takeda Therapeutics, and has patents, royalties, and intellectual
+property on mesothelin-targeted CARs and T-cell therapies, which has been
+licensed to ATARA Biotherapeutics, as well as method for detection of cancer
+cells using virus, and pending patent applications on T-cell therapies. All
+other authors do not have conflicts of interest to disclose.</p><p id="P44">Memorial Sloan Kettering Cancer Center (MSK) has licensed intellectual
+property related to mesothelin-targeted CARs and T-cell therapies to ATARA
+Biotherapeutics, and has associated financial interests.</p></sec></ack><fn-group><fn id="FN2"><p id="P45"><bold>Data Sharing Statement:</bold> Data generated or analyzed during
+the study are available from the corresponding author by request.</p></fn><fn id="FN3"><label>1</label><p id="P46">Abbreviations: chimeric antigen receptor (CAR); malignant pleural
+mesothelioma (MPM); interventional radiological (IR); computed tomography (CT);
+positron emission tomography (PET); C-reactive protein (CRP); interleukin-6
+(IL-6)</p></fn><fn id="FN4"><p id="P47" content-type="publisher-disclaimer">This is a PDF file of an unedited
+manuscript that has been accepted for publication. As a service to our customers
+we are providing this early version of the manuscript. The manuscript will
+undergo copyediting, typesetting, and review of the resulting proof before it is
+published in its final form. Please note that during the production process
+errors may be discovered which could affect the content, and all legal
+disclaimers that apply to the journal pertain.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>[1]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Maude</surname><given-names>SL</given-names></name>, <name name-style="western"><surname>Laetsch</surname><given-names>TW</given-names></name>, <name name-style="western"><surname>Buechner</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Rives</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Boyer</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Bittencourt</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Bader</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Verneris</surname><given-names>MR</given-names></name>, <name name-style="western"><surname>Stefanski</surname><given-names>HE</given-names></name>, <name name-style="western"><surname>Myers</surname><given-names>GD</given-names></name>, <name name-style="western"><surname>Qayed</surname><given-names>M</given-names></name>, <name name-style="western"><surname>De Moerloose</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Hiramatsu</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Schlis</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Davis</surname><given-names>KL</given-names></name>, <name name-style="western"><surname>Martin</surname><given-names>PL</given-names></name>, <name name-style="western"><surname>Nemecek</surname><given-names>ER</given-names></name>, <name name-style="western"><surname>Yanik</surname><given-names>GA</given-names></name>, <name name-style="western"><surname>Peters</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Baruchel</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Boissel</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Mechinaud</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Balduzzi</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Krueger</surname><given-names>J</given-names></name>, <name name-style="western"><surname>June</surname><given-names>CH</given-names></name>, <name name-style="western"><surname>Levine</surname><given-names>BL</given-names></name>, <name name-style="western"><surname>Wood</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Taran</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Leung</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Mueller</surname><given-names>KT</given-names></name>, <name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Sen</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Lebwohl</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Pulsipher</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Grupp</surname><given-names>SA</given-names></name>, <article-title>Tisagenlecleucel in children and young adults with
+B-cell lymphoblastic leukemia</article-title>, <source>N Engl J Med</source>
+<volume>378</volume>(<issue>5</issue>) (<year>2018</year>)
+<fpage>439</fpage>–<lpage>448</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1709866</pub-id><pub-id pub-id-type="pmid">29385370</pub-id><pub-id pub-id-type="pmcid">PMC5996391</pub-id></mixed-citation></ref><ref id="R2"><label>[2]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Park</surname><given-names>JH</given-names></name>, <name name-style="western"><surname>Riviere</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Gonen</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Senechal</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Curran</surname><given-names>KJ</given-names></name>, <name name-style="western"><surname>Sauter</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Santomasso</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Mead</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Roshal</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Maslak</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Davila</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Brentjens</surname><given-names>RJ</given-names></name>, <name name-style="western"><surname>Sadelain</surname><given-names>M</given-names></name>, <article-title>Long-term follow-up of CD19 CAR therapy in acute
+lymphoblastic leukemia</article-title>, <source>N Engl J Med</source>
+<volume>378</volume>(<issue>5</issue>) (<year>2018</year>)
+<fpage>449</fpage>–<lpage>459</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1709919</pub-id><pub-id pub-id-type="pmid">29385376</pub-id><pub-id pub-id-type="pmcid">PMC6637939</pub-id></mixed-citation></ref><ref id="R3"><label>[3]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Schuster</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Svoboda</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Chong</surname><given-names>EA</given-names></name>, <name name-style="western"><surname>Nasta</surname><given-names>SD</given-names></name>, <name name-style="western"><surname>Mato</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Anak</surname><given-names>Ö</given-names></name>, <name name-style="western"><surname>Brogdon</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Pruteanu-Malinici</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Bhoj</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Landsburg</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Wasik</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Levine</surname><given-names>BL</given-names></name>, <name name-style="western"><surname>Lacey</surname><given-names>SF</given-names></name>, <name name-style="western"><surname>Melenhorst</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Porter</surname><given-names>DL</given-names></name>, <name name-style="western"><surname>June</surname><given-names>CH</given-names></name>, <article-title>Chimeric antigen receptor T cells in refractory B-cell
+lymphomas</article-title>, <source>N Engl J Med</source>
+<volume>377</volume>(<issue>26</issue>) (<year>2017</year>)
+<fpage>2545</fpage>–<lpage>2554</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1708566</pub-id><pub-id pub-id-type="pmid">29226764</pub-id><pub-id pub-id-type="pmcid">PMC5788566</pub-id></mixed-citation></ref><ref id="R4"><label>[4]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Adusumilli</surname><given-names>PS</given-names></name>, <name name-style="western"><surname>Cherkassky</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Villena-Vargas</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Colovos</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Servais</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Plotkin</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Jones</surname><given-names>DR</given-names></name>, <name name-style="western"><surname>Sadelain</surname><given-names>M</given-names></name>, <article-title>Regional delivery of mesothelin-targeted CAR T cell
+therapy generates potent and long-lasting CD4-dependent tumor
+immunity</article-title>, <source>Sci Transl Med</source>
+<volume>6</volume>(<issue>261</issue>) (<year>2014</year>)
+<fpage>261ra151</fpage>. <pub-id pub-id-type="doi">10.1126/scitranslmed.3010162</pub-id><pub-id pub-id-type="pmcid">PMC4373413</pub-id><pub-id pub-id-type="pmid">25378643</pub-id></mixed-citation></ref><ref id="R5"><label>[5]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Maus</surname><given-names>MV</given-names></name>, <name name-style="western"><surname>Haas</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Beatty</surname><given-names>GL</given-names></name>, <name name-style="western"><surname>Albelda</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Levine</surname><given-names>BL</given-names></name>, <name name-style="western"><surname>Liu</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Zhao</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Kalos</surname><given-names>M</given-names></name>, <name name-style="western"><surname>June</surname><given-names>CH</given-names></name>, <article-title>T cells expressing chimeric antigen receptors can cause
+anaphylaxis in humans</article-title>, <source>Cancer Immunol Res</source>
+<volume>1</volume> (<year>2013</year>)
+<fpage>26</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1158/2326-6066</pub-id><pub-id pub-id-type="pmid">24777247</pub-id><pub-id pub-id-type="pmcid">PMC3888798</pub-id></mixed-citation></ref><ref id="R6"><label>[6]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Morgan</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Yang</surname><given-names>JC</given-names></name>, <name name-style="western"><surname>Kitano</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Dudley</surname><given-names>ME</given-names></name>, <name name-style="western"><surname>Laurencot</surname><given-names>CM</given-names></name>, <name name-style="western"><surname>Rosenberg</surname><given-names>SA</given-names></name>, <article-title>Case report of a serious adverse event following the
+administration of T cells transduced with a chimeric antigen receptor
+recognizing ERBB2</article-title>, <source>Mol Ther</source>
+<volume>18</volume>(<issue>4</issue>) (<year>2010</year>)
+<fpage>843</fpage>–<lpage>851</lpage>. <pub-id pub-id-type="doi">10.1038/mt.2010.24</pub-id><pub-id pub-id-type="pmid">20179677</pub-id><pub-id pub-id-type="pmcid">PMC2862534</pub-id></mixed-citation></ref><ref id="R7"><label>[7]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Skovgard</surname><given-names>MS</given-names></name>, <name name-style="western"><surname>Hocine</surname><given-names>HR</given-names></name>, <name name-style="western"><surname>Saini</surname><given-names>JK</given-names></name>, <name name-style="western"><surname>Moroz</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Bellis</surname><given-names>RY</given-names></name>, <name name-style="western"><surname>Banerjee</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Morello</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Ponomarev</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Villena-Vargas</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Adusumilli</surname><given-names>PS</given-names></name>, <article-title>Imaging CAR T-cell kinetics in solid tumors:
+translational implications</article-title>, <source>Mol Ther Oncolytics</source> (<year>2021</year>). <pub-id pub-id-type="doi">10.1016/j.omto.2021.06.006</pub-id><pub-id pub-id-type="pmcid">PMC8426175</pub-id><pub-id pub-id-type="pmid">34553024</pub-id></mixed-citation></ref><ref id="R8"><label>[8]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Cherkassky</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Adusumilli</surname><given-names>PS</given-names></name>, <article-title>Arming T cells to infiltrate pancreatic
+tumours</article-title>, <source>Nat Biomed Eng</source>
+<volume>5</volume>(<issue>11</issue>) (<year>2021</year>)
+<fpage>1243</fpage>–<lpage>1245</lpage>. <pub-id pub-id-type="doi">10.1038/s41551-021-00821-x</pub-id><pub-id pub-id-type="pmid">34773102</pub-id></mixed-citation></ref><ref id="R9"><label>[9]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Sterman</surname><given-names>DH</given-names></name>, <name name-style="western"><surname>Recio</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Haas</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Vachani</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Katz</surname><given-names>SI</given-names></name>, <name name-style="western"><surname>Gillespie</surname><given-names>CT</given-names></name>, <name name-style="western"><surname>Cheng</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Sun</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Moon</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Pereira</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Heitjan</surname><given-names>DF</given-names></name>, <name name-style="western"><surname>Litzky</surname><given-names>L</given-names></name>, <name name-style="western"><surname>June</surname><given-names>CH</given-names></name>, <name name-style="western"><surname>Vonderheide</surname><given-names>RH</given-names></name>, <name name-style="western"><surname>Carroll</surname><given-names>RG</given-names></name>, <name name-style="western"><surname>Albelda</surname><given-names>SM</given-names></name>, <article-title>A phase I trial of repeated intrapleural
+adenoviral-mediated interferon-beta gene transfer for mesothelioma and
+metastatic pleural effusions</article-title>, <source>Mol Ther</source>
+<volume>18</volume>(<issue>4</issue>) (<year>2010</year>)
+<fpage>852</fpage>–<lpage>860</lpage>. <pub-id pub-id-type="doi">10.1038/mt.2009.309</pub-id><pub-id pub-id-type="pmid">20068553</pub-id><pub-id pub-id-type="pmcid">PMC2862532</pub-id></mixed-citation></ref><ref id="R10"><label>[10]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Krug</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Zauderer</surname><given-names>MG</given-names></name>, <name name-style="western"><surname>Adusumili</surname><given-names>PS</given-names></name>, <name name-style="western"><surname>McGee</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Sepkowitz</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Klang</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Yu</surname><given-names>YA</given-names></name>, <name name-style="western"><surname>Scigalla</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Rusch</surname><given-names>VW</given-names></name>, <article-title>Phase I study of intra-pleural administration of
+GL-ONC1, an oncolytic vaccinia virus, in patients with malignant pleural
+effusion</article-title>, <source>J Clin Oncol</source>
+<volume>33</volume>(<issue>15_suppl</issue>) (<year>2015</year>)
+<fpage>7559</fpage>–<lpage>7559</lpage>. <pub-id pub-id-type="doi">10.1200/jco.2015.33.15_suppl.7559</pub-id></mixed-citation></ref><ref id="R11"><label>[11]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Zamarin</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Holmgaard</surname><given-names>RB</given-names></name>, <name name-style="western"><surname>Subudhi</surname><given-names>SK</given-names></name>, <name name-style="western"><surname>Park</surname><given-names>JS</given-names></name>, <name name-style="western"><surname>Mansour</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Palese</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Merghoub</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Wolchok</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Allison</surname><given-names>JP</given-names></name>, <article-title>Localized oncolytic virotherapy overcomes systemic tumor
+resistance to immune checkpoint blockade immunotherapy</article-title>,
+<source>Sci Transl Med</source>
+<volume>6</volume>(<issue>226</issue>) (<year>2014</year>)
+<fpage>226ra32</fpage>. <pub-id pub-id-type="doi">10.1126/scitranslmed.3008095</pub-id><pub-id pub-id-type="pmcid">PMC4106918</pub-id><pub-id pub-id-type="pmid">24598590</pub-id></mixed-citation></ref><ref id="R12"><label>[12]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Melero</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Castanon</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Alvarez</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Champiat</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Marabelle</surname><given-names>A</given-names></name>, <article-title>Intratumoural administration and tumour tissue targeting
+of cancer immunotherapies</article-title>, <source>Nat Rev Clin Oncol</source>
+<volume>18</volume> (<year>2021</year>)
+<fpage>558</fpage>–<lpage>576</lpage>. <pub-id pub-id-type="doi">10.1038/s41571-021-00507-y</pub-id><pub-id pub-id-type="pmid">34006998</pub-id><pub-id pub-id-type="pmcid">PMC8130796</pub-id></mixed-citation></ref><ref id="R13"><label>[13]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Murthy</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Katzman</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Sterman</surname><given-names>DH</given-names></name>, <article-title>Intrapleural immunotherapy: An update on emerging
+treatment strategies for pleural malignancy</article-title>, <source>Clin Respir J</source>
+<volume>13</volume>(<issue>5</issue>) (<year>2019</year>)
+<fpage>272</fpage>–<lpage>279</lpage>. <pub-id pub-id-type="doi">10.1111/crj.13010</pub-id><pub-id pub-id-type="pmid">30810270</pub-id></mixed-citation></ref><ref id="R14"><label>[14]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Aggarwal</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Haas</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Metzger</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Aguilar</surname><given-names>LK</given-names></name>, <name name-style="western"><surname>Aguilar-Cordova</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Manzanera</surname><given-names>AG</given-names></name>, <name name-style="western"><surname>Gomez-Hernandez</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Katz</surname><given-names>SI</given-names></name>, <name name-style="western"><surname>Alley</surname><given-names>EW</given-names></name>, <name name-style="western"><surname>Evans</surname><given-names>TL</given-names></name>, <name name-style="western"><surname>Bauml</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Cohen</surname><given-names>RB</given-names></name>, <name name-style="western"><surname>Langer</surname><given-names>CJ</given-names></name>, <name name-style="western"><surname>Albelda</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Sterman</surname><given-names>DH</given-names></name>, <article-title>Phase I Study of Intrapleural Gene-Mediated Cytotoxic
+Immunotherapy in Patients with Malignant Pleural Effusion</article-title>,
+<source>Mol Ther</source>
+<volume>26</volume>(<issue>5</issue>) (<year>2018</year>)
+<fpage>1198</fpage>–<lpage>1205</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymthe.2018.02.015</pub-id><pub-id pub-id-type="pmid">29550074</pub-id><pub-id pub-id-type="pmcid">PMC5993936</pub-id></mixed-citation></ref><ref id="R15"><label>[15]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Sterman</surname><given-names>DH</given-names></name>, <name name-style="western"><surname>Alley</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Stevenson</surname><given-names>JP</given-names></name>, <name name-style="western"><surname>Friedberg</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Metzger</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Recio</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Moon</surname><given-names>EK</given-names></name>, <name name-style="western"><surname>Haas</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Vachani</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Katz</surname><given-names>SI</given-names></name>, <name name-style="western"><surname>Sun</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Heitjan</surname><given-names>DF</given-names></name>, <name name-style="western"><surname>Hwang</surname><given-names>WT</given-names></name>, <name name-style="western"><surname>Litzky</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Yearley</surname><given-names>JH</given-names></name>, <name name-style="western"><surname>Tan</surname><given-names>KS</given-names></name>, <name name-style="western"><surname>Papasavvas</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Kennedy</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Montaner</surname><given-names>LJ</given-names></name>, <name name-style="western"><surname>Cengel</surname><given-names>KA</given-names></name>, <name name-style="western"><surname>Simone</surname><given-names>CB</given-names><suffix>2nd</suffix></name>, <name name-style="western"><surname>Culligan</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Langer</surname><given-names>CJ</given-names></name>, <name name-style="western"><surname>Albelda</surname><given-names>SM</given-names></name>, <article-title>Pilot and Feasibility Trial Evaluating Immuno-Gene
+Therapy of Malignant Mesothelioma Using Intrapleural Delivery of
+Adenovirus-IFNalpha Combined with Chemotherapy</article-title>, <source>Clin Cancer Res</source>
+<volume>22</volume>(<issue>15</issue>) (<year>2016</year>)
+<fpage>3791</fpage>–<lpage>800</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-15-2133</pub-id><pub-id pub-id-type="pmid">26968202</pub-id><pub-id pub-id-type="pmcid">PMC4970934</pub-id></mixed-citation></ref><ref id="R16"><label>[16]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Brown</surname><given-names>CE</given-names></name>, <name name-style="western"><surname>Alizadeh</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Starr</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Weng</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Wagner</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Naranjo</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Ostberg</surname><given-names>JR</given-names></name>, <name name-style="western"><surname>Blanchard</surname><given-names>MS</given-names></name>, <name name-style="western"><surname>Kilpatrick</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Simpson</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Kurien</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Priceman</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Harshbarger</surname><given-names>TL</given-names></name>, <name name-style="western"><surname>D’Apuzzo</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Ressler</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Jensen</surname><given-names>MC</given-names></name>, <name name-style="western"><surname>Barish</surname><given-names>ME</given-names></name>, <name name-style="western"><surname>Chen</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Portnow</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Forman</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Badie</surname><given-names>B</given-names></name>, <article-title>Regression of glioblastoma after chimeric antigen
+receptor T-cell therapy</article-title>, <source>N Engl J Med</source>
+<volume>375</volume>(<issue>26</issue>) (<year>2016</year>)
+<fpage>2561</fpage>–<lpage>2569</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1610497</pub-id><pub-id pub-id-type="pmid">28029927</pub-id><pub-id pub-id-type="pmcid">PMC5390684</pub-id></mixed-citation></ref><ref id="R17"><label>[17]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Koneru</surname><given-names>M</given-names></name>, <name name-style="western"><surname>O’Cearbhaill</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Pendharkar</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Spriggs</surname><given-names>DR</given-names></name>, <name name-style="western"><surname>Brentjens</surname><given-names>RJ</given-names></name>, <article-title>A phase I clinical trial of adoptive T cell therapy
+using IL-12 secreting MUC-16(ecto) directed chimeric antigen receptors for
+recurrent ovarian cancer</article-title>, <source>J Transl Med</source>
+<volume>13</volume> (<year>2015</year>) <fpage>102</fpage>. <pub-id pub-id-type="doi">10.1186/s12967-015-0460-x</pub-id><pub-id pub-id-type="pmid">25890361</pub-id><pub-id pub-id-type="pmcid">PMC4438636</pub-id></mixed-citation></ref><ref id="R18"><label>[18]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Vitanza</surname><given-names>NA</given-names></name>, <name name-style="western"><surname>Johnson</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Wilson</surname><given-names>AL</given-names></name>, <name name-style="western"><surname>Brown</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Yokoyama</surname><given-names>JK</given-names></name>, <name name-style="western"><surname>Künkele</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Chang</surname><given-names>CA</given-names></name>, <name name-style="western"><surname>Rawlings-Rhea</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Huang</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Seidel</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Albert</surname><given-names>CM</given-names></name>, <name name-style="western"><surname>Pinto</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Gust</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Finn</surname><given-names>LS</given-names></name>, <name name-style="western"><surname>Ojemann</surname><given-names>JG</given-names></name>, <name name-style="western"><surname>Wright</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Orentas</surname><given-names>RJ</given-names></name>, <name name-style="western"><surname>Baldwin</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Gardner</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Jensen</surname><given-names>MC</given-names></name>, <name name-style="western"><surname>Park</surname><given-names>JR</given-names></name>, <article-title>Locoregional infusion of HER2-specific CAR T cells in
+children and young adults with recurrent or refractory CNS tumors: an
+interim analysis</article-title>, <source>Nat Med</source>
+(<year>2021</year>). <pub-id pub-id-type="doi">10.1038/s41591-021-01404-8</pub-id><pub-id pub-id-type="pmid">34253928</pub-id></mixed-citation></ref><ref id="R19"><label>[19]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Adusumilli</surname><given-names>PS</given-names></name>, <name name-style="western"><surname>Zauderer</surname><given-names>MG</given-names></name>, <name name-style="western"><surname>Riviere</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Solomon</surname><given-names>SB</given-names></name>, <name name-style="western"><surname>Rusch</surname><given-names>VW</given-names></name>, <name name-style="western"><surname>O’Cearbhaill</surname><given-names>RE</given-names></name>, <name name-style="western"><surname>Zhu</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Cheema</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Chintala</surname><given-names>NK</given-names></name>, <name name-style="western"><surname>Halton</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Pineda</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Perez-Johnston</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Tan</surname><given-names>KS</given-names></name>, <name name-style="western"><surname>Daly</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Araujo Filho</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Ngai</surname><given-names>D</given-names></name>, <name name-style="western"><surname>McGee</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Vincent</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Diamonte</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Sauter</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Modi</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Sikder</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Senechal</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Travis</surname><given-names>WD</given-names></name>, <name name-style="western"><surname>Gonen</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Rudin</surname><given-names>CM</given-names></name>, <name name-style="western"><surname>Brentjens</surname><given-names>RJ</given-names></name>, <name name-style="western"><surname>Jones</surname><given-names>DR</given-names></name>, <name name-style="western"><surname>Sadelain</surname><given-names>M</given-names></name>, <article-title>A phase I trial of regional mesothelin-targeted CAR
+T-cell therapy in patients with malignant pleural disease, in combination
+with the anti-PD-1 agent pembrolizumab</article-title>, <source>Cancer Discov</source>
+<volume>11</volume>(<issue>11</issue>) (<year>2021</year>)
+<fpage>2748</fpage>–<lpage>2763</lpage>. <pub-id pub-id-type="doi">10.1158/2159-8290.CD-21-0407</pub-id><pub-id pub-id-type="pmid">34266984</pub-id><pub-id pub-id-type="pmcid">PMC8563385</pub-id></mixed-citation></ref><ref id="R20"><label>[20]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Lipnik</surname><given-names>AJ</given-names></name>, <name name-style="western"><surname>Brown</surname><given-names>DB</given-names></name>, <article-title>Image-guided percutaneous abdominal mass biopsy:
+technical and clinical considerations</article-title>, <source>Radiol Clin North Am</source>
+<volume>53</volume>(<issue>5</issue>) (<year>2015</year>)
+<fpage>1049</fpage>–<lpage>1059</lpage>. <pub-id pub-id-type="doi">10.1016/j.rcl.2015.05.007</pub-id><pub-id pub-id-type="pmid">26321453</pub-id></mixed-citation></ref><ref id="R21"><label>[21]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Tam</surname><given-names>AL</given-names></name>, <name name-style="western"><surname>Kim</surname><given-names>ES</given-names></name>, <name name-style="western"><surname>Lee</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Ensor</surname><given-names>JE</given-names></name>, <name name-style="western"><surname>Hicks</surname><given-names>ME</given-names></name>, <name name-style="western"><surname>Tang</surname><given-names>X</given-names></name>, <name name-style="western"><surname>Blumenschein</surname><given-names>GR</given-names></name>, <name name-style="western"><surname>Alden</surname><given-names>CM</given-names></name>, <name name-style="western"><surname>Erasmus</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Tsao</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Lippman</surname><given-names>SM</given-names></name>, <name name-style="western"><surname>Hong</surname><given-names>WK</given-names></name>, <name name-style="western"><surname>Wistuba</surname><given-names>II</given-names></name>, <name name-style="western"><surname>Gupta</surname><given-names>S</given-names></name>, <article-title>Feasibility of image-guided transthoracic core-needle
+biopsy in the BATTLE lung trial</article-title>, <source>J Thorac Oncol</source>
+<volume>8</volume>(<issue>4</issue>) (<year>2013</year>)
+<fpage>436</fpage>–<lpage>442</lpage>. <pub-id pub-id-type="doi">10.1097/JTO.0b013e318287c91e</pub-id><pub-id pub-id-type="pmid">23442309</pub-id><pub-id pub-id-type="pmcid">PMC3879952</pub-id></mixed-citation></ref><ref id="R22"><label>[22]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Maskell</surname><given-names>NA</given-names></name>, <name name-style="western"><surname>Gleeson</surname><given-names>FV</given-names></name>, <name name-style="western"><surname>Davies</surname><given-names>RJ</given-names></name>, <article-title>Standard pleural biopsy versus CT-guided cutting-needle
+biopsy for diagnosis of malignant disease in pleural effusions: a randomised
+controlled trial</article-title>, <source>Lancet</source>
+<volume>361</volume>(<issue>9366</issue>) (<year>2003</year>)
+<fpage>1326</fpage>–<lpage>1330</lpage>. <pub-id pub-id-type="doi">10.1016/s0140-6736(03)13079-6</pub-id><pub-id pub-id-type="pmid">12711467</pub-id></mixed-citation></ref><ref id="R23"><label>[23]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Spencer</surname><given-names>JA</given-names></name>, <name name-style="western"><surname>Weston</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Saidi</surname><given-names>SA</given-names></name>, <name name-style="western"><surname>Wilkinson</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Hall</surname><given-names>GD</given-names></name>, <article-title>Clinical utility of image-guided peritoneal and omental
+biopsy</article-title>, <source>Nat Rev Clin Oncol</source>
+<volume>7</volume>(<issue>11</issue>) (<year>2010</year>)
+<fpage>623</fpage>–<lpage>631</lpage>. <pub-id pub-id-type="doi">10.1038/nrclinonc.2010.155</pub-id><pub-id pub-id-type="pmid">20981128</pub-id></mixed-citation></ref><ref id="R24"><label>[24]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Sheth</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Murthy</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Hong</surname><given-names>DS</given-names></name>, <name name-style="western"><surname>Patel</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Overman</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Diab</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Hwu</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Tam</surname><given-names>A</given-names></name>, <article-title>Assessment of image-guided intratumoral delivery of
+immunotherapeutics in patients with cancer</article-title>, <source>JAMA Netw Open</source>
+<volume>3</volume>(<issue>7</issue>) (<year>2020</year>) <fpage>e207911</fpage>.
+<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2020.7911</pub-id><pub-id pub-id-type="pmid">32725245</pub-id><pub-id pub-id-type="pmcid">PMC11984515</pub-id></mixed-citation></ref><ref id="R25"><label>[25]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Schaft</surname><given-names>N</given-names></name>, <article-title>The landscape of CAR-T cell clinical trials against
+solid tumors- a comprehensive overview</article-title>, <source>Cancers (Basel)</source>
+<volume>12</volume>(<issue>9</issue>) (<year>2020</year>) <fpage>2567</fpage>.
+<pub-id pub-id-type="doi">10.3390/cancers12092567</pub-id><pub-id pub-id-type="pmid">32916883</pub-id><pub-id pub-id-type="pmcid">PMC7563774</pub-id></mixed-citation></ref><ref id="R26"><label>[26]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Tselikas</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Champiat</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Sheth</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Yevich</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Ammari</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Deschamps</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Farhane</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Roux</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Susini</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Mouraud</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Delpla</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Raoult</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Robert</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Massard</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Barlesi</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Soria</surname><given-names>JC</given-names></name>, <name name-style="western"><surname>Marabelle</surname><given-names>A</given-names></name>, <name name-style="western"><surname>de Baere</surname><given-names>T</given-names></name>, <article-title>Interventional radiology for local immunotherapy in
+oncology</article-title>, <source>Clin Cancer Res</source>
+<volume>27</volume>(<issue>10</issue>) (<year>2021</year>)
+<fpage>2698</fpage>–<lpage>2705</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-19-4073</pub-id><pub-id pub-id-type="pmid">33419781</pub-id></mixed-citation></ref><ref id="R27"><label>[27]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Dumoulin</surname><given-names>DW</given-names></name>, <name name-style="western"><surname>Cornelissen</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Bezemer</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Baart</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Aerts</surname><given-names>J</given-names></name>, <article-title>Long-term follow-up of mesothelioma patients treated
+with dendritic cell therapy in three phase I/II trials</article-title>,
+<source>Vaccines (Basel)</source>
+<volume>9</volume>(<issue>5</issue>) (<year>2021</year>) <fpage>525</fpage>.
+<pub-id pub-id-type="doi">10.3390/vaccines9050525</pub-id><pub-id pub-id-type="pmid">34069348</pub-id><pub-id pub-id-type="pmcid">PMC8158710</pub-id></mixed-citation></ref><ref id="R28"><label>[28]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Belderbos</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Baas</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Berardi</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Cornelissen</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Fennell</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>van Meerbeeck</surname><given-names>JP</given-names></name>, <name name-style="western"><surname>Scherpereel</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Vroman</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Aerts</surname><given-names>J</given-names></name>, <article-title>A multicenter, randomized, phase II/III study of
+dendritic cells loaded with allogeneic tumor cell lysate (MesoPher) in
+subjects with mesothelioma as maintenance therapy after chemotherapy:
+DENdritic cell Immunotherapy for Mesothelioma (DENIM) trial</article-title>,
+<source>Transl Lung Cancer Res</source>
+<volume>8</volume>(<issue>3</issue>) (<year>2019</year>)
+<fpage>280</fpage>–<lpage>285</lpage>. <pub-id pub-id-type="doi">10.21037/tlcr.2019.05.05</pub-id><pub-id pub-id-type="pmid">31367541</pub-id><pub-id pub-id-type="pmcid">PMC6626859</pub-id></mixed-citation></ref><ref id="R29"><label>[29]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Carbone</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Adusumilli</surname><given-names>PS</given-names></name>, <name name-style="western"><surname>Alexander</surname><given-names>HR</given-names><suffix>Jr.</suffix></name>, <name name-style="western"><surname>Baas</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Bardelli</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Bononi</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Bueno</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Felley-Bosco</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Galateau-Salle</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Jablons</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Mansfield</surname><given-names>AS</given-names></name>, <name name-style="western"><surname>Minaai</surname><given-names>M</given-names></name>, <name name-style="western"><surname>de Perrot</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Pesavento</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Rusch</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Severson</surname><given-names>DT</given-names></name>, <name name-style="western"><surname>Taioli</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Tsao</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Woodard</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Zauderer</surname><given-names>MG</given-names></name>, <name name-style="western"><surname>Pass</surname><given-names>HI</given-names></name>, <article-title>Mesothelioma: scientific clues for prevention,
+diagnosis, and therapy</article-title>, <source>CA Cancer J Clin</source>
+<volume>69</volume>(<issue>5</issue>) (<year>2019</year>)
+<fpage>402</fpage>–<lpage>429</lpage>. <pub-id pub-id-type="doi">10.3322/caac.21572</pub-id><pub-id pub-id-type="pmid">31283845</pub-id><pub-id pub-id-type="pmcid">PMC8192079</pub-id></mixed-citation></ref><ref id="R30"><label>[30]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Dozier</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Zheng</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Adusumilli</surname><given-names>PS</given-names></name>, <article-title>Immunotherapy for malignant pleural mesothelioma:
+current status and future directions</article-title>, <source>Transl Lung Cancer Res</source>
+<volume>6</volume>(<issue>3</issue>) (<year>2017</year>)
+<fpage>315</fpage>–<lpage>324</lpage>. <pub-id pub-id-type="doi">10.21037/tlcr.2017.05.02</pub-id><pub-id pub-id-type="pmid">28713676</pub-id><pub-id pub-id-type="pmcid">PMC5504119</pub-id></mixed-citation></ref><ref id="R31"><label>[31]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Ujiie</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Kadota</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Nitadori</surname><given-names>JI</given-names></name>, <name name-style="western"><surname>Aerts</surname><given-names>JG</given-names></name>, <name name-style="western"><surname>Woo</surname><given-names>KM</given-names></name>, <name name-style="western"><surname>Sima</surname><given-names>CS</given-names></name>, <name name-style="western"><surname>Travis</surname><given-names>WD</given-names></name>, <name name-style="western"><surname>Jones</surname><given-names>DR</given-names></name>, <name name-style="western"><surname>Krug</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Adusumilli</surname><given-names>PS</given-names></name>, <article-title>The tumoral and stromal immune microenvironment in
+malignant pleural mesothelioma: A comprehensive analysis reveals prognostic
+immune markers</article-title>, <source>Oncoimmunology</source>
+<volume>4</volume>(<issue>6</issue>) (<year>2015</year>)
+<fpage>e1009285</fpage>. <pub-id pub-id-type="doi">10.1080/2162402X.2015.1009285</pub-id><pub-id pub-id-type="pmid">26155428</pub-id><pub-id pub-id-type="pmcid">PMC4485766</pub-id></mixed-citation></ref><ref id="R32"><label>[32]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Chintala</surname><given-names>NK</given-names></name>, <name name-style="western"><surname>Restle</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Quach</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Saini</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Bellis</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Offin</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Beattie</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Adusumilli</surname><given-names>PS</given-names></name>, <article-title>CAR T-cell therapy for pleural mesothelioma: Rationale,
+preclinical development, and clinical trials</article-title>, <source>Lung Cancer</source>
+<volume>157</volume> (<year>2021</year>)
+<fpage>48</fpage>–<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1016/j.lungcan.2021.05.004</pub-id><pub-id pub-id-type="pmid">33972125</pub-id><pub-id pub-id-type="pmcid">PMC8184643</pub-id></mixed-citation></ref><ref id="R33"><label>[33]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Flores</surname><given-names>RM</given-names></name>, <name name-style="western"><surname>Zakowski</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Venkatraman</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Krug</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Rosenzweig</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Dycoco</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Lee</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Yeoh</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Bains</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Rusch</surname><given-names>V</given-names></name>, <article-title>Prognostic factors in the treatment of malignant pleural
+mesothelioma at a large tertiary referral center</article-title>, <source>J Thorac Oncol</source>
+<volume>2</volume>(<issue>10</issue>) (<year>2007</year>)
+<fpage>957</fpage>–<lpage>965</lpage>. <pub-id pub-id-type="doi">10.1097/JTO.0b013e31815608d9</pub-id><pub-id pub-id-type="pmid">17909360</pub-id></mixed-citation></ref><ref id="R34"><label>[34]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Nickell</surname><given-names>LT</given-names><suffix>Jr.</suffix></name>, <name name-style="western"><surname>Lichtenberger</surname><given-names>JP</given-names><suffix>3rd</suffix></name>, <name name-style="western"><surname>Khorashadi</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Abbott</surname><given-names>GF</given-names></name>, <name name-style="western"><surname>Carter</surname><given-names>BW</given-names></name>, <article-title>Multimodality imaging for characterization,
+classification, and staging of malignant pleural
+mesothelioma</article-title>, <source>Radiographics</source>
+<volume>34</volume>(<issue>6</issue>) (<year>2014</year>)
+<fpage>1692</fpage>–<lpage>1706</lpage>. <pub-id pub-id-type="doi">10.1148/rg.346130089</pub-id><pub-id pub-id-type="pmid">25310424</pub-id></mixed-citation></ref><ref id="R35"><label>[35]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Marabelle</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Andtbacka</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Harrington</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Melero</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Leidner</surname><given-names>R</given-names></name>, <name name-style="western"><surname>de Baere</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Robert</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Ascierto</surname><given-names>PA</given-names></name>, <name name-style="western"><surname>Baurain</surname><given-names>JF</given-names></name>, <name name-style="western"><surname>Imperiale</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Rahimian</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Tersago</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Klumper</surname><given-names>E</given-names></name>, <name name-style="western"><surname>Hendriks</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Kumar</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Stern</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Ohrling</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Massacesi</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Tchakov</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Tse</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Douillard</surname><given-names>JY</given-names></name>, <name name-style="western"><surname>Tabernero</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Haanen</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Brody</surname><given-names>J</given-names></name>, <article-title>Starting the fight in the tumor: expert recommendations
+for the development of human intratumoral immunotherapy
+(HIT-IT)</article-title>, <source>Ann Oncol</source>
+<volume>29</volume>(<issue>11</issue>) (<year>2018</year>)
+<fpage>2163</fpage>–<lpage>2174</lpage>. <pub-id pub-id-type="doi">10.1093/annonc/mdy423</pub-id><pub-id pub-id-type="pmid">30295695</pub-id><pub-id pub-id-type="pmcid">PMC6290929</pub-id></mixed-citation></ref><ref id="R36"><label>[36]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Gupta</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Wallace</surname><given-names>MJ</given-names></name>, <name name-style="western"><surname>Cardella</surname><given-names>JF</given-names></name>, <name name-style="western"><surname>Kundu</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Miller</surname><given-names>DL</given-names></name>, <name name-style="western"><surname>Rose</surname><given-names>SC</given-names></name>, <article-title>Quality improvement guidelines for percutaneous needle
+biopsy</article-title>, <source>J Vasc Interv Radiol</source>
+<volume>21</volume>(<issue>7</issue>) (<year>2010</year>)
+<fpage>969</fpage>–<lpage>975</lpage>. <pub-id pub-id-type="doi">10.1016/j.jvir.2010.01.011</pub-id><pub-id pub-id-type="pmid">20304676</pub-id></mixed-citation></ref><ref id="R37"><label>[37]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Lee</surname><given-names>MH</given-names></name>, <name name-style="western"><surname>Lubner</surname><given-names>MG</given-names></name>, <name name-style="western"><surname>Hinshaw</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Pickhardt</surname><given-names>PJ</given-names></name>, <article-title>Ultrasound guidance versus CT guidance for peripheral
+lung biopsy: performance according to lesion size and pleural
+contact</article-title>, <source>AJR Am J Roentgenol</source>
+<volume>210</volume>(<issue>3</issue>) (<year>2018</year>)
+<fpage>W110</fpage>–<lpage>W117</lpage>. <pub-id pub-id-type="doi">10.2214/AJR.17.18014</pub-id><pub-id pub-id-type="pmid">29364723</pub-id></mixed-citation></ref><ref id="R38"><label>[38]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Sconfienza</surname><given-names>LM</given-names></name>, <name name-style="western"><surname>Mauri</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Grossi</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Truini</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Serafini</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Sardanelli</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Murolo</surname><given-names>C</given-names></name>, <article-title>Pleural and peripheral lung lesions: comparison of US-
+and CT-guided biopsy</article-title>, <source>Radiology</source>
+<volume>266</volume>(<issue>3</issue>) (<year>2013</year>)
+<fpage>930</fpage>–<lpage>935</lpage>. <pub-id pub-id-type="doi">10.1148/radiol.12112077</pub-id><pub-id pub-id-type="pmid">23204543</pub-id></mixed-citation></ref><ref id="R39"><label>[39]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Raman</surname><given-names>SP</given-names></name>, <name name-style="western"><surname>Pipavath</surname><given-names>SN</given-names></name>, <name name-style="western"><surname>Raghu</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Schmidt</surname><given-names>RA</given-names></name>, <name name-style="western"><surname>Godwin</surname><given-names>JD</given-names></name>, <article-title>Imaging of thoracic lymphatic diseases</article-title>,
+<source>AJR Am J Roentgenol</source>
+<volume>193</volume>(<issue>6</issue>) (<year>2009</year>)
+<fpage>1504</fpage>–<lpage>1513</lpage>. <pub-id pub-id-type="doi">10.2214/AJR.09.2532</pub-id><pub-id pub-id-type="pmid">19933641</pub-id></mixed-citation></ref><ref id="R40"><label>[40]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Huo</surname><given-names>YR</given-names></name>, <name name-style="western"><surname>Chan</surname><given-names>MV</given-names></name>, <name name-style="western"><surname>Habib</surname><given-names>AR</given-names></name>, <name name-style="western"><surname>Lui</surname><given-names>I</given-names></name>, <name name-style="western"><surname>Ridley</surname><given-names>L</given-names></name>, <article-title>Pneumothorax rates in CT-guided lung biopsies: a
+comprehensive systematic review and meta-analysis of risk
+factors</article-title>, <source>Br J Radiol</source>
+<volume>93</volume>(<issue>1108</issue>) (<year>2020</year>)
+<comment>20190866</comment>. <pub-id pub-id-type="doi">10.1259/bjr.20190866</pub-id><pub-id pub-id-type="pmcid">PMC7362905</pub-id><pub-id pub-id-type="pmid">31860329</pub-id></mixed-citation></ref><ref id="R41"><label>[41]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Kruse</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Sherry</surname><given-names>SJ</given-names></name>, <name name-style="western"><surname>Paidpally</surname><given-names>V</given-names></name>, <name name-style="western"><surname>Mercier</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Subramaniam</surname><given-names>RM</given-names></name>, <article-title>FDG PET/CT in the management of primary pleural tumors
+and pleural metastases</article-title>, <source>AJR Am J Roentgenol</source>
+<volume>201</volume>(<issue>2</issue>) (<year>2013</year>)
+<fpage>W215</fpage>–<lpage>W226</lpage>. <pub-id pub-id-type="doi">10.2214/AJR.13.10572</pub-id><pub-id pub-id-type="pmid">23883236</pub-id></mixed-citation></ref><ref id="R42"><label>[42]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Galeano Niño</surname><given-names>JL</given-names></name>, <name name-style="western"><surname>Pageon</surname><given-names>SV</given-names></name>, <name name-style="western"><surname>Tay</surname><given-names>SS</given-names></name>, <name name-style="western"><surname>Colakoglu</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Kempe</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Hywood</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Mazalo</surname><given-names>JK</given-names></name>, <name name-style="western"><surname>Cremasco</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Govendir</surname><given-names>MA</given-names></name>, <name name-style="western"><surname>Dagley</surname><given-names>LF</given-names></name>, <name name-style="western"><surname>Hsu</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Rizzetto</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Zieba</surname><given-names>J</given-names></name>, <name name-style="western"><surname>Rice</surname><given-names>G</given-names></name>, <name name-style="western"><surname>Prior</surname><given-names>V</given-names></name>, <name name-style="western"><surname>O’Neill</surname><given-names>GM</given-names></name>, <name name-style="western"><surname>Williams</surname><given-names>RJ</given-names></name>, <name name-style="western"><surname>Nisbet</surname><given-names>DR</given-names></name>, <name name-style="western"><surname>Kramer</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Webb</surname><given-names>AI</given-names></name>, <name name-style="western"><surname>Luciani</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Read</surname><given-names>MN</given-names></name>, <name name-style="western"><surname>Biro</surname><given-names>M</given-names></name>, <article-title>Cytotoxic T cells swarm by homotypic chemokine
+signalling</article-title>, <source>eLife</source>
+<volume>9</volume> (<year>2020</year>) <fpage>e56554</fpage>. <pub-id pub-id-type="doi">10.7554/eLife.56554</pub-id><pub-id pub-id-type="pmid">33046212</pub-id><pub-id pub-id-type="pmcid">PMC7669268</pub-id></mixed-citation></ref><ref id="R43"><label>[43]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Dai</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Wang</surname><given-names>W</given-names></name>, <name name-style="western"><surname>Yang</surname><given-names>N</given-names></name>, <name name-style="western"><surname>Serna-Tamayo</surname><given-names>C</given-names></name>, <name name-style="western"><surname>Ricca</surname><given-names>JM</given-names></name>, <name name-style="western"><surname>Zamarin</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Shuman</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Merghoub</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Wolchok</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Deng</surname><given-names>L</given-names></name>, <article-title>Intratumoral delivery of inactivated modified vaccinia
+virus Ankara (iMVA) induces systemic antitumor immunity via STING and
+Batf3-dependent dendritic cells</article-title>, <source>Sci Immunol</source>
+<volume>2</volume>(<issue>11</issue>) (<year>2017</year>)
+<fpage>eaal1713</fpage>. <pub-id pub-id-type="doi">10.1126/sciimmunol.aal1713</pub-id><pub-id pub-id-type="pmid">28763795</pub-id><pub-id pub-id-type="pmcid">PMC5559204</pub-id></mixed-citation></ref><ref id="R44"><label>[44]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Dammeijer</surname><given-names>F</given-names></name>, <name name-style="western"><surname>van Gulijk</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Mulder</surname><given-names>EE</given-names></name>, <name name-style="western"><surname>Lukkes</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Klaase</surname><given-names>L</given-names></name>, <name name-style="western"><surname>van den Bosch</surname><given-names>T</given-names></name>, <name name-style="western"><surname>van Nimwegen</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Lau</surname><given-names>SP</given-names></name>, <name name-style="western"><surname>Latupeirissa</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Schetters</surname><given-names>S</given-names></name>, <name name-style="western"><surname>van Kooyk</surname><given-names>Y</given-names></name>, <name name-style="western"><surname>Boon</surname><given-names>L</given-names></name>, <name name-style="western"><surname>Moyaart</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Mueller</surname><given-names>YM</given-names></name>, <name name-style="western"><surname>Katsikis</surname><given-names>PD</given-names></name>, <name name-style="western"><surname>Eggermont</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Vroman</surname><given-names>H</given-names></name>, <name name-style="western"><surname>Stadhouders</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Hendriks</surname><given-names>RW</given-names></name>, <name name-style="western"><surname>Thusen</surname><given-names>JV</given-names></name>, <name name-style="western"><surname>Grunhagen</surname><given-names>DJ</given-names></name>, <name name-style="western"><surname>Verhoef</surname><given-names>C</given-names></name>, <name name-style="western"><surname>van Hall</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Aerts</surname><given-names>JG</given-names></name>, <article-title>The PD-1/PD-L1-checkpoint restrains T cell immunity in
+tumor-draining lymph nodes</article-title>, <source>Cancer Cell</source>
+<volume>38</volume>(<issue>5</issue>) (<year>2020</year>)
+<fpage>685</fpage>–<lpage>700.e8</lpage>. <pub-id pub-id-type="doi">10.1016/j.ccell.2020.09.001</pub-id><pub-id pub-id-type="pmid">33007259</pub-id></mixed-citation></ref><ref id="R45"><label>[45]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Munoz</surname><given-names>NM</given-names></name>, <name name-style="western"><surname>Williams</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Dixon</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Dupuis</surname><given-names>C</given-names></name>, <name name-style="western"><surname>McWatters</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Avritscher</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Manrique</surname><given-names>SZ</given-names></name>, <name name-style="western"><surname>McHugh</surname><given-names>K</given-names></name>, <name name-style="western"><surname>Murthy</surname><given-names>R</given-names></name>, <name name-style="western"><surname>Tam</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Naing</surname><given-names>A</given-names></name>, <name name-style="western"><surname>Patel</surname><given-names>SP</given-names></name>, <name name-style="western"><surname>Leach</surname><given-names>D</given-names></name>, <name name-style="western"><surname>Hartgerink</surname><given-names>JD</given-names></name>, <name name-style="western"><surname>Young</surname><given-names>S</given-names></name>, <name name-style="western"><surname>Prakash</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Hwu</surname><given-names>P</given-names></name>, <name name-style="western"><surname>Sheth</surname><given-names>RA</given-names></name>, <article-title>Influence of injection technique, drug formulation and
+tumor microenvironment on intratumoral immunotherapy delivery and
+efficacy</article-title>, <source>J Immunother Cancer</source>
+<volume>9</volume>(<issue>2</issue>) (<year>2021</year>) <fpage>e001800</fpage>.
+<pub-id pub-id-type="doi">10.1136/jitc-2020-001800</pub-id><pub-id pub-id-type="pmid">33589526</pub-id><pub-id pub-id-type="pmcid">PMC7887346</pub-id></mixed-citation></ref><ref id="R46"><label>[46]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Lencioni</surname><given-names>R</given-names></name>, <name name-style="western"><surname>de Baere</surname><given-names>T</given-names></name>, <name name-style="western"><surname>Soulen</surname><given-names>MC</given-names></name>, <name name-style="western"><surname>Rilling</surname><given-names>WS</given-names></name>, <name name-style="western"><surname>Geschwind</surname><given-names>JF</given-names></name>, <article-title>Lipiodol transarterialchemoembolization for
+hepatocellular carcinoma: A systematic review of efficacy and safety
+data</article-title>, <source>Hepatology</source>
+<volume>64</volume>(<issue>1</issue>) (<year>2016</year>)
+<fpage>106</fpage>–<lpage>116</lpage>. <pub-id pub-id-type="doi">10.1002/hep.28453</pub-id><pub-id pub-id-type="pmid">26765068</pub-id></mixed-citation></ref><ref id="R47"><label>[47]</label><mixed-citation publication-type="journal"><name name-style="western"><surname>Beatty</surname><given-names>GL</given-names></name>, <name name-style="western"><surname>O’Hara</surname><given-names>MH</given-names></name>, <name name-style="western"><surname>Lacey</surname><given-names>SF</given-names></name>, <name name-style="western"><surname>Torigian</surname><given-names>DA</given-names></name>, <name name-style="western"><surname>Nazimuddin</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Chen</surname><given-names>F</given-names></name>, <name name-style="western"><surname>Kulikovskaya</surname><given-names>IM</given-names></name>, <name name-style="western"><surname>Soulen</surname><given-names>MC</given-names></name>, <name name-style="western"><surname>McGarvey</surname><given-names>M</given-names></name>, <name name-style="western"><surname>Nelson</surname><given-names>AM</given-names></name>, <name name-style="western"><surname>Gladney</surname><given-names>WL</given-names></name>, <name name-style="western"><surname>Levine</surname><given-names>BL</given-names></name>, <name name-style="western"><surname>Melenhorst</surname><given-names>JJ</given-names></name>, <name name-style="western"><surname>Plesa</surname><given-names>G</given-names></name>, <name name-style="western"><surname>June</surname><given-names>CH</given-names></name>, <article-title>Activity of mesothelin-specific chimeric antigen
+receptor T cells against pancreatic carcinoma metastases in a phase 1
+trial</article-title>, <source>Gastroenterology</source>
+<volume>155</volume>(<issue>1</issue>) (<year>2018</year>)
+<fpage>29</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1053/j.gastro.2018.03.029</pub-id><pub-id pub-id-type="pmid">29567081</pub-id><pub-id pub-id-type="pmcid">PMC6035088</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig position="float" id="F1" orientation="portrait"><label>Figure 1.</label><caption><title>Various clinical presentations and image-guided intracavitary and
+intratumoral infusion routes of CAR T cells for pleural malignancies.</title><p id="P48"><bold>(A)</bold> Contrast enhanced chest CT showing diffuse right
+pleural thickening, with multiple nodules of various sizes (arrowheads). Note
+the extension of the pleural thickening to the interlobar fissure (long arrow).
+<bold>(B)</bold> Contrast enhanced chest CT showing a single right pleural
+mass (arrowhead). <bold>(C)</bold> This patient presented with only a small
+right pleural effusion (arrowhead). <bold>(D)</bold> The most challenging
+disease presentations were patients with only minimal pleural thickening
+(arrowhead), here measured at 9 mm thickness. <bold>(E)</bold> CAR T cells were
+injected into the pleural space (arrowhead), as shown in this case (Patient 37)
+where a 5Fr Yueh needle was inserted (arrow) under ultrasound guidance.
+<bold>(F)</bold> Axial non-contrast chest CT scan (Patient 39) after a
+successful pleural expansion showing the artificially induced pneumothorax
+(arrowhead) and a catheter placed within the newly expanded pleural cavity
+(arrow). <bold>(G)</bold> Axial non contrast chest CT scan (Patient 13) showing
+direct intratumoral infusion with a 17G needle (arrow) inserted percutaneously
+from an anterior intercostal approach directly into a right pleural mass
+(arrowhead) that was extending to the fissure. <bold>(H)</bold> Axial non
+contrast chest CT scan (Patient 19) showing another intratumoral infusion
+target, here a 12mm pleural thickening (arrowhead), also targeted with a 17G
+needle (arrow) using a posterior approach.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms-1772432-f0001.jpg"/></fig><fig position="float" id="F2" orientation="portrait"><label>Figure 2.</label><caption><title>Summarized technical details for image guided regional delivery of CAR T
+cells.</title><p id="P49">Bar chart showing injected volume, type of target and material used for
+each procedure. Cases of pleural expansion were noted.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms-1772432-f0002.jpg"/></fig><fig position="float" id="F3" orientation="portrait"><label>Figure 3.</label><caption><title>Intra- and post-procedural imaging characteristics.</title><p id="P50"><bold>(A)</bold> Attempted pleural expansion in Patient 25 who had prior
+pleurectomy decortication and radiation therapy with a 19G needle (short arrow)
+to facilitate pleural infusion of CAR T cells was not successful. Air
+administered through the needle tracked superiorly and along the right
+pectoralis muscle (long arrow). Thus, infusion was performed directly into a
+pleural nodule (arrowhead). <bold>(B)</bold> In this same patient, increasing
+ground glass opacities and interlobular septal thickening (arrowhead) were
+observed on intraprocedural non contrast chest axial CT scan. Note the absence
+of these parenchymal findings before the infusion, as shown in A. The patient
+respiratory status was stable throughout without cough or change in oxygen
+saturation suggesting intralymphatic/visceral pleural administration. Following
+successful administration of planned volume, the 19G needle was then removed and
+post procedure radiographs showed stability of the small right pneumothorax
+(long arrow), not requiring any chest tube placement. <bold>(C)</bold> Axial CT
+scan of the chest performed 3 weeks after CAR T cells infusion showed complete
+resolution of previous imaging findings. <bold>(D)</bold> In another example,
+pre-procedural CT scan of the chest (Patient 19*) performed 5 days before the
+procedure showed normal lung parenchyma in the right lower lobe.
+<bold>(E)</bold> Mild ground glass opacities and interlobular septal
+thickening (arrowhead) occurred after pleural injection of CAR T cells.
+<bold>(F)</bold> CT of the chest performed 1 month after CAR T cells
+infusion showed near complete resolution of previous imaging findings.
+<bold>(G)</bold> Slight extravasation of infusate below the diaphragm (long
+arrows) occurred in one patient (Patient 41), without associated clinical
+symptoms. <bold>(H)</bold> Table summarizing per procedural and post infusion
+imaging findings. Ground glass opacities and interlobular septal thickening were
+mild to moderate in all cases except in Patient 25 where they were diffuse.</p><p id="P51">IR= interventional radiology</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms-1772432-f0003.jpg"/></fig><fig position="float" id="F4" orientation="portrait"><label>Figure 4.</label><caption><title>Algorithmic approach for optimal CAR T-cell infusion route selection.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="nihms-1772432-f0004.jpg"/></fig><table-wrap position="float" id="T1" orientation="portrait"><label>Table 1.</label><caption><p id="P52">Population and tumor baseline characteristics.</p></caption><table frame="hsides" rules="none"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th align="left" valign="top" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="top" rowspan="1" colspan="1">Total (n=31)</th></tr></thead><tbody><tr><td colspan="2" align="left" valign="middle" rowspan="1">
+<hr/>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, years</td><td align="left" valign="top" rowspan="1" colspan="1">70 (44–77)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Sex</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Female</td><td align="center" valign="top" rowspan="1" colspan="1">9 (9/31, 29%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Male</td><td align="center" valign="top" rowspan="1" colspan="1">22 (22/31, 71%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Body mass index, kg/m2</td><td align="center" valign="top" rowspan="1" colspan="1">27 (18–44)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Primary cancer</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Mesothelioma</td><td align="center" valign="top" rowspan="1" colspan="1">30 (30/31, 97%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Breast</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1/31, 3%)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Pleural disease presentation</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Multiple nodules/masses</td><td align="center" valign="top" rowspan="1" colspan="1">22 (22/33, 67%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Single nodule/mass</td><td align="center" valign="top" rowspan="1" colspan="1">2 (2/33, 6%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Nodule largest diameter, mm</td><td align="center" valign="top" rowspan="1" colspan="1">40 (16–125)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Pleural thickening</td><td align="center" valign="top" rowspan="1" colspan="1">27 (27/33, 82%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Pleural effusion</td><td align="center" valign="top" rowspan="1" colspan="1">14 (14/33, 42%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Prior ipsilateral thoracic pleural fusion
+promoting treatments</td><td align="center" valign="top" rowspan="1" colspan="1">11 (11/31, 35%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Surgery</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1/31, 3%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Radiotherapy</td><td align="center" valign="top" rowspan="1" colspan="1">3 (3/31, 10%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Surgery and radiotherapy</td><td align="center" valign="top" rowspan="1" colspan="1">5 (5/31, 16%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Interval duration from surgery to infusion,
+months</td><td align="center" valign="top" rowspan="1" colspan="1">30 (10–41)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Interval duration from radiotherapy to
+infusion, months</td><td align="center" valign="top" rowspan="1" colspan="1">22 (0.5–33)</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><p id="P53">Continuous variables are presented in median (minimum-maximum).
+Categorical variables are presented in raw numbers (proportions,
+percentages). Total number of patients= 31, total number of procedures= 33.
+Since two patients had a second image-guided infusion of CAR T cells,
+pleural disease presentation was considered for each procedure.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="T2" orientation="portrait"><label>Table 2.</label><caption><p id="P54">Comparison of intratumoral and intracavitary infusion routes of CAR T
+cells.</p></caption><table frame="hsides" rules="none"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th rowspan="2" align="left" valign="middle" colspan="1">Variable</th><th colspan="2" align="center" valign="top" rowspan="1">Image guided infusion by
+IR<hr/></th><th rowspan="2" align="center" valign="middle" colspan="1">
+<italic toggle="yes">P</italic>
+</th></tr><tr><th align="center" valign="top" rowspan="1" colspan="1">Intratumoral (N= 19)</th><th align="center" valign="top" rowspan="1" colspan="1">Intracavitary (N= 14)</th></tr></thead><tbody><tr><td colspan="4" align="left" valign="middle" rowspan="1">
+<hr/>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Volume injected, mL</td><td align="left" valign="top" rowspan="1" colspan="1">65 (30–186)</td><td align="left" valign="top" rowspan="1" colspan="1">114 (10–176)</td><td align="left" valign="top" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dose, cells/Kg</td><td align="left" valign="top" rowspan="1" colspan="1">30M (0.3M–60M)</td><td align="left" valign="top" rowspan="1" colspan="1">60M (0.3M–60M)</td><td align="left" valign="top" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Peak vector copy number<sup><xref rid="TFN4" ref-type="table-fn">b</xref></sup>, copies/mL</td><td align="left" valign="top" rowspan="1" colspan="1">3340 (0–77300)</td><td align="left" valign="top" rowspan="1" colspan="1">5895 (438–21960)</td><td align="left" valign="top" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fever<sup><xref rid="TFN3" ref-type="table-fn">a</xref></sup></td><td align="left" valign="top" rowspan="1" colspan="1">4 (4/19, 21%)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (4/14, 29%)</td><td align="left" valign="top" rowspan="1" colspan="1">0.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Peak IL-6<sup><xref rid="TFN3" ref-type="table-fn">a</xref></sup>, pg/mL</td><td align="left" valign="top" rowspan="1" colspan="1">113 (13–949)</td><td align="left" valign="top" rowspan="1" colspan="1">103 (5–3800)</td><td align="left" valign="top" rowspan="1" colspan="1">1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Peak CRP<sup><xref rid="TFN3" ref-type="table-fn">a</xref></sup>, mg/dL</td><td align="left" valign="top" rowspan="1" colspan="1">14 (1–29)</td><td align="left" valign="top" rowspan="1" colspan="1">16 (2–33)</td><td align="left" valign="top" rowspan="1" colspan="1">0.6</td></tr></tbody></table><table-wrap-foot><fn id="TFN2"><p id="P55">Continuous variables are presented in median (minimum-maximum).
+Categorical variables are presented in raw numbers (proportions,
+percentages). CAR= chimeric antigen receptor; CRP= C-reactive protein; IL=
+interleukin; IR= interventional radiology.</p></fn><fn id="TFN3"><label>a</label><p id="P56">Within 0–7 days of infusion.</p></fn><fn id="TFN4"><label>b</label><p id="P57">Within 0–30 days of infusion.</p></fn></table-wrap-foot></table-wrap><boxed-text id="BX1" position="float" orientation="portrait"><caption><title>Highlights:</title></caption><list list-type="bullet" id="L1"><list-item><p id="P58">CAR T cells administered intrapleurally in 31 participants with
+pleural cancers</p></list-item><list-item><p id="P59">Intrapleural delivery of CAR T cells using
+intracavitary/intratumoral routes is safe</p></list-item><list-item><p id="P60">Repeated administration of therapeutic agents to the pleural cavity
+is feasible</p></list-item></list></boxed-text></floats-group></article></pmc-articleset>
