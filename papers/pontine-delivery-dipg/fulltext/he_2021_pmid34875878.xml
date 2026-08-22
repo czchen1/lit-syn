@@ -1,0 +1,998 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Control</journal-id><journal-id journal-id-type="pmc-domain-id">3344</journal-id><journal-id journal-id-type="pmc-domain">ccon</journal-id><journal-id journal-id-type="nlm-id">9438457</journal-id><journal-id journal-id-type="publisher-id">CCX</journal-id><journal-title-group><journal-title>Cancer Control : Journal of the Moffitt Cancer Center</journal-title></journal-title-group><issn pub-type="ppub">1073-2748</issn><issn pub-type="epub">1526-2359</issn><?publisher_abbrev sage?><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8670786</article-id><article-id pub-id-type="pmcid-ver">PMC8670786.1</article-id><article-id pub-id-type="pmcaid">8670786</article-id><article-id pub-id-type="pmcaiid">8670786</article-id><article-id pub-id-type="pmid">34875878</article-id><article-id pub-id-type="doi">10.1177/10732748211059858</article-id><article-id pub-id-type="publisher-id">10.1177_10732748211059858</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Research Article</subject></subj-group></article-categories><title-group><article-title>Stereotactic Biopsy for Brainstem Lesions: A Meta-analysis with
+Noncomparative Binary Data</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7390-1702</contrib-id><name name-style="western"><surname>He</surname><given-names initials="L">Lin</given-names></name><xref rid="aff1-10732748211059858" ref-type="aff">1</xref><xref rid="author-notes1-10732748211059858" ref-type="author-notes">†</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>He</surname><given-names initials="D">Dongjie</given-names></name><xref rid="aff1-10732748211059858" ref-type="aff">1</xref><xref rid="author-notes1-10732748211059858" ref-type="author-notes">†</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Qi</surname><given-names initials="Y">Yuhong</given-names></name><xref rid="aff1-10732748211059858" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="J">Jiejing</given-names></name><xref rid="aff1-10732748211059858" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yuan</surname><given-names initials="C">Canliang</given-names></name><xref rid="aff1-10732748211059858" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Chang</surname><given-names initials="H">Hao</given-names></name><xref rid="aff1-10732748211059858" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="Q">Qiming</given-names></name><xref rid="aff1-10732748211059858" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="G">Gaiyan</given-names></name><xref rid="aff1-10732748211059858" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Shao</surname><given-names initials="Q">Qiuju</given-names></name><xref rid="aff1-10732748211059858" ref-type="aff">1</xref><xref rid="corresp1-10732748211059858" ref-type="corresp"/></contrib><aff id="aff1-10732748211059858"><label>1</label>Department of Radiotherapy, Tangdu
+Hospital, <institution-wrap><institution-id institution-id-type="Ringgold">56697</institution-id><institution content-type="university">Air Force Military Medical
+University</institution></institution-wrap>, Xi’an, China</aff></contrib-group><author-notes><corresp id="corresp1-10732748211059858">Qiuju Shao Department of Radiotherapy
+Tangdu Hospital Air Force Military Medical University, No,569 Xinsi Road,
+Baqiao, Xi’an, Shanxi 710032, China. Email:
+<email>shaoqjfmmu@163.com</email></corresp><fn fn-type="equal" id="author-notes1-10732748211059858"><label>†</label><p>These authors are contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>7</day><month>12</month><year>2021</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2021</year></pub-date><volume>28</volume><issue-id pub-id-type="pmc-issue-id">383838</issue-id><elocation-id>10732748211059858</elocation-id><pub-history><event event-type="pmc-release"><date><day>07</day><month>12</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>15</day><month>12</month><year>2021</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-05-24 22:25:18.210"><day>24</day><month>05</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2021</copyright-statement><copyright-year>2021</copyright-year><copyright-holder content-type="sage">SAGE Publications Inc, unless otherwise noted.
+Manuscript content on this site is licensed under Creative Common
+Licences</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_10732748211059858.pdf"><?pdf-name 10.1177_10732748211059858.pdf?><?pdf-size 1536624?><?pdf-md5 b19aaa9afd00690bb02954257358d3aa?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:4634/8670786/b19aaa9afd00/10.1177_10732748211059858.pdf?></self-uri><abstract><sec><title>Objectives</title><p>To evaluate the diagnostic yield and safety of brainstem stereotactic biopsy
+for brainstem lesions.</p></sec><sec><title>Methods</title><p>We performed a meta-analysis of English articles retrieved from the PubMed,
+Web of Science, Cochrane Library, and APA psycInfo databases up to May 12,
+2021. A binary fixed-effect model, the inverse variance method, or a binary
+random-effect model, the Dersimonian Laird method, were utilized for pooling
+the data. This meta-analysis was registered with INPLASY,
+INPLASY202190034.</p></sec><sec><title>Findings</title><p>A total of 41 eligible studies with 2792 participants were included. The
+weighted average diagnostic yield was 97.0% (95% confidential interval [CI],
+96.0-97.9%). The weighted average proportions of temporary complications,
+permanent deficits, and deaths were 6.2% (95% CI, 4.5–7.9%), .5% (95% CI,
+.2–.8%), and .3% (95% CI, .1–.5%), respectively. The subgroup analysis
+indicated a nearly identical weighted average diagnostic yield between
+MRI-guided stereotactic biopsy and CT-guided stereotactic biopsy (95.9% vs
+95.8%) but slightly increased proportions of temporary complications (7.9%
+vs 6.0%), permanent deficits (1.9% vs .2%), and deaths (1.1% vs .4%) in the
+former compared to the latter. Moreover, a greater weighted average
+diagnostic yield (99.2% vs 97.6%) and lower proportions of temporary
+complications (5.1% vs 6.8%) and deaths (.7% vs 1.5%) were shown in the
+pediatric patient population than in the adult patient population.</p></sec><sec><title>Conclusions</title><p>Brainstem stereotactic biopsy demonstrates striking accuracy plus satisfying
+safety in the diagnosis of brainstem lesions. The diagnostic yield,
+morbidity, and mortality mildly vary based on the diversity of assistant
+techniques and subject populations.</p></sec></abstract><kwd-group><kwd>stereotactic biopsy</kwd><kwd>brainstem lesion</kwd><kwd>diagnostic yield</kwd><kwd>safety</kwd><kwd>meta-analysis</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts10</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2021</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1-10732748211059858"><title>Key Points</title><p>
+<list list-type="simple" id="list1-10732748211059858"><list-item><p>(1) Combined with multiple new techniques, brainstem stereotactic biopsy
+is efficient and safe to diagnose brainstem lesions in adults and
+children.</p></list-item><list-item><p>(2) CT-guided stereotactic biopsy shows a diagnostic yield similar to
+that of MRI-guided stereotactic biopsy but with improved safety.</p></list-item><list-item><p>(3) Brainstem stereotactic biopsy reveals more effectiveness and safety
+to diagnose brainstem lesions in the pediatric patient population than
+in the adult patient population.</p></list-item><list-item><p>(4) When modifying the combined techniques and/or participant
+populations, the diagnostic yield, morbidity, and mortality of the
+procedure may be marginally different.</p></list-item></list>
+</p></sec><sec sec-type="intro" id="sec2-10732748211059858"><title>Introduction</title><p>Since the advent of stereotactic biopsy for more than 7 decades, its application
+fields and clinical utilities have been gradually expanded in combination with an
+increasing body of novel adjunctive tools (e.g., CT, MRI, PET-CT, and robot
+assistance). With the advantages of accurate positioning, less trauma, and
+contributions to pathological diagnosis, stereotactic biopsy has become the gold
+standard for diagnosing brain tumors at the end of the 20th century.<sup>
+<xref rid="bibr1-10732748211059858" ref-type="bibr">1</xref>
+</sup> Stereotactic localization was first applied to biopsy and radiofrequency
+treatment of brainstem lesions by Gleason et al. in 1978.<sup>
+<xref rid="bibr2-10732748211059858" ref-type="bibr">2</xref>
+</sup> Approximately 15% of pediatric and 2% of adult intracranial space-occupying
+lesions are brainstem lesions.<sup>
+<xref rid="bibr3-10732748211059858" ref-type="bibr">3</xref>
+</sup> Brainstem stereotactic biopsy is performed through 4 main routes:
+contralateral extraventricular transfrontal approach, ipsilateral transfrontal
+approach, transtentorial approach, and suboccipital transcerebellar approach, which
+appear to have no significant difference concerning the diagnostic yield and total
+complications.<sup><xref rid="bibr4-10732748211059858" ref-type="bibr">4</xref>,<xref rid="bibr5-10732748211059858" ref-type="bibr">5</xref></sup>
+Given that the brainstem is the densest distribution area of cerebral nuclei, many
+neurosurgical teams are concerned about the potential risks of brainstem
+stereotactic biopsy and discern no direct benefits to patients, thus they are prone
+to decline the implementation of this procedure. In 1993, the Children’s Cancer
+Group-9882 study<sup>
+<xref rid="bibr6-10732748211059858" ref-type="bibr">6</xref>
+</sup> demonstrated the high specificity of MRI in diagnosing brainstem glioma and
+made no alteration to the treatment paradigm because of histological confirmation,
+thus they suggested obviating the usage of biopsy before radiotherapy. Since then,
+there has been a paucity of brainstem stereotactic biopsies for nearly 1 decade.</p><p>Over time, this operation has been refueled by the following 3 factors. First, a
+large number of studies together confirm that there are more than 15–20%
+inconsistent outcomes between preoperative MRI diagnosis and postoperative
+pathological findings<sup><xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref><xref rid="bibr8-10732748211059858" ref-type="bibr"/><xref rid="bibr9-10732748211059858" ref-type="bibr"/><xref rid="bibr10-10732748211059858" ref-type="bibr"/>-<xref rid="bibr11-10732748211059858" ref-type="bibr">11</xref></sup>; second, many benign brain
+lesions (e.g., ischemia, demyelination, radionecrosis, vascular malformation,
+abscess, tuberculoma, granuloma, encephalitis, and cystic lesions)<sup><xref rid="bibr12-10732748211059858" ref-type="bibr">12</xref>,<xref rid="bibr13-10732748211059858" ref-type="bibr">13</xref></sup> and several
+malignant tumors (e.g., glioma, metastasis, lymphoma, ependymoma, and primitive
+neuroectodermal tumor)<sup>
+<xref rid="bibr14-10732748211059858" ref-type="bibr">14</xref>
+</sup> may mimic each other in radiological imaging; and finally, the diagnosis and
+treatment of brainstem tumors increasingly depend on the molecular diagnostics, for
+example, the 3 molecularly distinct subgroups (H3-K27 M, Silent, and MYCN) of the
+diffuse intrinsic pontine gliomas that can be utilized as new therapeutic targets.<sup>
+<xref rid="bibr15-10732748211059858" ref-type="bibr">15</xref>
+</sup> Therefore, stereotactic biopsy is extremely crucial for the definitive
+diagnosis of space-occupying lesions of the brainstem, the molecular classification
+of brainstem neoplasms, and the development of new targeted therapies.</p><p>Brainstem stereotactic biopsy can be operated with CT-, MRI-, or PET-CT-guided framed
+navigation or with robotic frameless assistance.<sup><xref rid="bibr16-10732748211059858" ref-type="bibr">16</xref><xref rid="bibr17-10732748211059858" ref-type="bibr"/><xref rid="bibr18-10732748211059858" ref-type="bibr"/>-<xref rid="bibr19-10732748211059858" ref-type="bibr">19</xref></sup> Again, thanks to these new
+techniques, contemporary brainstem stereotactic biopsy shows high diagnostic yield
+and good safety. Two previous systematic reviews and meta-analyses investigating the
+diagnostic value and safety of brainstem stereotactic biopsy in brainstem tumors by
+Dr Ruge’s team both found a high weighted average proportion of diagnostic success
+(96.1-96.2%) coupled with low overall morbidity (6.7-7.8%), permanent morbidity
+(.6-1.7%), and mortality (.6-.9%).<sup><xref rid="bibr20-10732748211059858" ref-type="bibr">20</xref>,<xref rid="bibr21-10732748211059858" ref-type="bibr">21</xref></sup> However, none of the 2
+systematic reviews performed further subgroup analyses in light of populations and
+biopsy methods. We herein conducted a meta-analysis to explore the diagnostic yield
+and safety of brainstem stereotactic biopsy for brainstem lesions. Additionally,
+subgroup analysis of the operation with different biopsy strategies (i.e., CT
+guidance, MRI guidance, framed navigation, and transcerebellar approach) and in
+diverse populations (i.e., adults and children) was performed to gauge its clinical
+utility.</p></sec><sec sec-type="materials|methods" id="sec3-10732748211059858"><title>Materials and Methods</title><p>Our work abided by the Preferred Reporting Items for Systematic Reviews and
+Meta-analyses guidelines.<sup><xref rid="bibr22-10732748211059858" ref-type="bibr">22</xref>,<xref rid="bibr23-10732748211059858" ref-type="bibr">23</xref></sup> This meta-analysis was registered with INPLASY,
+INPLASY202190034. There was no need for Ethical or Institutional Review Board
+Approval for the study design due to the nature of our work.</p><sec id="sec4-10732748211059858"><title>Literature Search</title><p>We conducted a computerized search in the PubMed, Web of Science, Cochrane
+Library, and APA psycInfo databases to identify English-language articles up to
+May 12<sup>th</sup>, 2021. The following terms were used: (“brainstem lesion
+[MeSH]” or ((brainstem or (brain stem) or pons or pontine or mesencephalon or
+midbrain or (medulla oblongata)) AND (tumor or tumor or cancer or neoplasm or
+glioma or carcinoma)) AND (biopsy or biopsies) AND (diagnosis or diagnostic or
+diagnose).</p></sec><sec id="sec5-10732748211059858"><title>Inclusion and Exclusion Criteria</title><p>Clinical articles evaluating the diagnostic yield and/or safety of brainstem
+stereotactic biopsy were considered to be eligible for our purposes.
+Additionally, potential studies were required to meet the following inclusion
+criteria: (1) populations—patients with brainstem mass lesions, regardless of
+age; and (2) reference standards—the ultimate diagnosis was compared with
+histopathologic results plus clinical assessments. Retrieved citations that met
+any of the following criteria were removed: (1) article type—reviews, case
+reports, case series that involved fewer than 10 patients, editorials, letters,
+comments, and conference papers; (2) diagnostic methods—only radiological images
+but without pathological examinations; and (3) overlapping study
+populations.</p></sec><sec id="sec6-10732748211059858"><title>Data Extraction and Quality Assessment</title><p>We extracted the following data from the included studies by using a standardized
+form: (1) study characteristics—family name of the first author, publication
+year, study duration, original country or area, study type, number of patients,
+and tumor/total ratio; (2) demographic characteristics—mean age, patient cohort
+(i.e., pediatric patient population and adult patient population) and
+male/female ratio; (3) examination characteristics—guided techniques or
+assistant methods; and (4) outcome characteristics—diagnostic yield and safety,
+comprising temporary complications, permanent deficits, and deaths. The overall
+survival (OS) of the included subjects was also assessed in our study. Two
+coauthors (Dr Dongjie He and Dr Gaiyan Li) independently assessed the literature
+search, study selection, and data extraction. If there were any inconsistencies,
+they were addressed by a third coauthor (Dr Yuhong Qi).</p><p>Quality assessment of the analyzed studies was not judged because the
+noncomparative data did not present any risk of publication bias.</p></sec><sec id="sec7-10732748211059858"><title>Data Synthesis and Statistical Analysis</title><p>The primary outcome was the weighted average diagnostic yield of stereotactic
+biopsy for brainstem lesions, and the secondary outcomes were the weighted
+average proportions of temporary complications, permanent deficits, and deaths.
+The crude proportions with 95% confidence intervals (CIs) in all analyzed
+studies were independently calculated and then pooled together to the weighted
+average values. The number of events, if not provided by the publication, was
+calculated in light of the endpoint percentage or other relevant information.
+The heterogeneity that implicated the degree of variability in results across
+the included studies was assessed by Cochran’s Q test and Higgins I<sup>2</sup>
+statistic test<sup>
+<xref rid="bibr24-10732748211059858" ref-type="bibr">24</xref>
+</sup>; <italic toggle="yes">P</italic> &lt; .10 suggested significant heterogeneity, and
+different cutoff intervals of I<sup>2</sup> values at 0–25%, 25–50%, 50–75%, and
+75–100% corresponded to nonsignificant, moderate, substantial, and considerable
+heterogeneity, respectively. When the heterogeneity test indicated no
+statistical significance (<italic toggle="yes">P</italic> ≥ .1), a binary fixed-effect model,
+the inverse variance method, was used to pool data, and if not so, a binary
+random-effect model, the Dersimonian Laird method, was employed.<sup>
+<xref rid="bibr25-10732748211059858" ref-type="bibr">25</xref>
+</sup> All statistical analyses were conducted by the software Open Meta-Analyst
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.cebm.brown.edu/openmeta/download.html" ext-link-type="uri">http://www.cebm.brown.edu/openmeta/download.html</ext-link>).</p></sec></sec><sec sec-type="results" id="sec8-10732748211059858"><title>Results</title><sec id="sec9-10732748211059858"><title>Literature Search</title><p>A PRISMA flow diagram of the literature screening selection is shown in <xref rid="fig1-10732748211059858" ref-type="fig">Figure 1</xref>. We obtained
+5012 citations from the PubMed, Web of Science, Cochrane Library, and APA
+psycInfo databases and excluded 303 reduplications, 22 conference papers, 571
+reviews, 449 case reports, and 228 non-English publications. The remaining 3439
+citations were assessed by title and abstract screening, and 3391 of them were
+removed; fundamental characteristics of the abstracts were judged with respect
+to the inclusion and exclusion criteria, and full-length articles were chosen.
+After full-text scrutinization, 7 of the remaining 48 articles were further
+omitted for the following reasons: (1) 3 articles investigated intraoperative or
+postoperative biopsy; (2) 1 article involved space-occupying lesions of
+non-brainstem; (3) 1 article involved non-stereotactic biopsy; and (4) 1 article
+presented no available data. Ultimately, 41 articles including 2792 unique
+patients with brainstem lesions were eligible for the meta-analysis.<sup><xref rid="bibr1-10732748211059858" ref-type="bibr">1</xref>,<xref rid="bibr4-10732748211059858" ref-type="bibr">4</xref>,<xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref>,<xref rid="bibr8-10732748211059858" ref-type="bibr">8</xref>,<xref rid="bibr13-10732748211059858" ref-type="bibr">13</xref>,<xref rid="bibr14-10732748211059858" ref-type="bibr">14</xref>,<xref rid="bibr16-10732748211059858" ref-type="bibr">16</xref><xref rid="bibr17-10732748211059858" ref-type="bibr"/><xref rid="bibr18-10732748211059858" ref-type="bibr"/>-<xref rid="bibr19-10732748211059858" ref-type="bibr">19</xref>,<xref rid="bibr26-10732748211059858" ref-type="bibr">26</xref><xref rid="bibr27-10732748211059858" ref-type="bibr"/><xref rid="bibr28-10732748211059858" ref-type="bibr"/><xref rid="bibr29-10732748211059858" ref-type="bibr"/><xref rid="bibr30-10732748211059858" ref-type="bibr"/><xref rid="bibr31-10732748211059858" ref-type="bibr"/><xref rid="bibr32-10732748211059858" ref-type="bibr"/><xref rid="bibr33-10732748211059858" ref-type="bibr"/><xref rid="bibr34-10732748211059858" ref-type="bibr"/><xref rid="bibr35-10732748211059858" ref-type="bibr"/><xref rid="bibr36-10732748211059858" ref-type="bibr"/><xref rid="bibr37-10732748211059858" ref-type="bibr"/><xref rid="bibr38-10732748211059858" ref-type="bibr"/><xref rid="bibr39-10732748211059858" ref-type="bibr"/><xref rid="bibr40-10732748211059858" ref-type="bibr"/><xref rid="bibr41-10732748211059858" ref-type="bibr"/><xref rid="bibr42-10732748211059858" ref-type="bibr"/><xref rid="bibr43-10732748211059858" ref-type="bibr"/><xref rid="bibr44-10732748211059858" ref-type="bibr"/><xref rid="bibr45-10732748211059858" ref-type="bibr"/><xref rid="bibr46-10732748211059858" ref-type="bibr"/><xref rid="bibr47-10732748211059858" ref-type="bibr"/><xref rid="bibr48-10732748211059858" ref-type="bibr"/><xref rid="bibr49-10732748211059858" ref-type="bibr"/><xref rid="bibr50-10732748211059858" ref-type="bibr"/><xref rid="bibr51-10732748211059858" ref-type="bibr"/><xref rid="bibr52-10732748211059858" ref-type="bibr"/><xref rid="bibr53-10732748211059858" ref-type="bibr"/><xref rid="bibr54-10732748211059858" ref-type="bibr"/><xref rid="bibr55-10732748211059858" ref-type="bibr"/>-<xref rid="bibr56-10732748211059858" ref-type="bibr">56</xref></sup><fig position="float" fig-type="figure" id="fig1-10732748211059858" orientation="portrait"><label>Figure 1.</label><caption><p>PRISMA flow diagram of study selection.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_10732748211059858-fig1.jpg"><?image-name 10.1177_10732748211059858-fig1.jpg?><?image-size 109163?><?image-md5 6846b93d923cca4ff9ff4f759bb9519e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2432?><?image-original-width 2610?><?image-scaled-height 694?><?image-scaled-width 745?><?image-cloudpmc-urn urn:cdn:blobs/4634/8670786/6846b93d923c/10.1177_10732748211059858-fig1.jpg?><?thumb-name 10.1177_10732748211059858-fig1.gif?><?thumb-size 11546?><?thumb-md5 8161bea4902fbc0840840770201eab4f?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 92?><?thumb-scaled-width 99?><?thumb-cloudpmc-urn urn:cdn:blobs/4634/8670786/8161bea4902f/10.1177_10732748211059858-fig1.gif?></graphic></fig></p></sec><sec id="sec10-10732748211059858"><title>Characteristics of the Studies Included for Meta-analysis</title><p>The characteristics of the 41 eligible studies in the “study-level” analysis are
+outlined in <xref rid="table1-10732748211059858" ref-type="table">Table
+1</xref>, and those in the “patient-level” analysis are summarized in <xref rid="table2-10732748211059858" ref-type="table">Table 2</xref>. The
+retrospective cohort studies (n = 32)<sup><xref rid="bibr1-10732748211059858" ref-type="bibr">1</xref>,<xref rid="bibr4-10732748211059858" ref-type="bibr">4</xref>,<xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref>,<xref rid="bibr8-10732748211059858" ref-type="bibr">8</xref>,<xref rid="bibr13-10732748211059858" ref-type="bibr">13</xref>,<xref rid="bibr14-10732748211059858" ref-type="bibr">14</xref>,<xref rid="bibr16-10732748211059858" ref-type="bibr">16</xref>,<xref rid="bibr17-10732748211059858" ref-type="bibr">17</xref>,<xref rid="bibr19-10732748211059858" ref-type="bibr">19</xref>,<xref rid="bibr26-10732748211059858" ref-type="bibr">26</xref>,<xref rid="bibr29-10732748211059858" ref-type="bibr">29</xref><xref rid="bibr30-10732748211059858" ref-type="bibr"/><xref rid="bibr31-10732748211059858" ref-type="bibr"/><xref rid="bibr32-10732748211059858" ref-type="bibr"/><xref rid="bibr33-10732748211059858" ref-type="bibr"/><xref rid="bibr34-10732748211059858" ref-type="bibr"/><xref rid="bibr35-10732748211059858" ref-type="bibr"/><xref rid="bibr36-10732748211059858" ref-type="bibr"/>-<xref rid="bibr37-10732748211059858" ref-type="bibr">37</xref>,<xref rid="bibr42-10732748211059858" ref-type="bibr">42</xref><xref rid="bibr43-10732748211059858" ref-type="bibr"/><xref rid="bibr44-10732748211059858" ref-type="bibr"/><xref rid="bibr45-10732748211059858" ref-type="bibr"/><xref rid="bibr46-10732748211059858" ref-type="bibr"/><xref rid="bibr47-10732748211059858" ref-type="bibr"/><xref rid="bibr48-10732748211059858" ref-type="bibr"/><xref rid="bibr49-10732748211059858" ref-type="bibr"/><xref rid="bibr50-10732748211059858" ref-type="bibr"/><xref rid="bibr51-10732748211059858" ref-type="bibr"/>-<xref rid="bibr52-10732748211059858" ref-type="bibr">52</xref>,<xref rid="bibr54-10732748211059858" ref-type="bibr">54</xref>,<xref rid="bibr56-10732748211059858" ref-type="bibr">56</xref></sup> outnumbered the
+prospective cohort studies (n = 9)<sup><xref rid="bibr18-10732748211059858" ref-type="bibr">18</xref>,<xref rid="bibr27-10732748211059858" ref-type="bibr">27</xref>,<xref rid="bibr28-10732748211059858" ref-type="bibr">28</xref>,<xref rid="bibr38-10732748211059858" ref-type="bibr">38</xref><xref rid="bibr39-10732748211059858" ref-type="bibr"/><xref rid="bibr40-10732748211059858" ref-type="bibr"/>-<xref rid="bibr41-10732748211059858" ref-type="bibr">41</xref>,<xref rid="bibr53-10732748211059858" ref-type="bibr">53</xref>,<xref rid="bibr55-10732748211059858" ref-type="bibr">55</xref></sup>; the publication year
+ranged from 1986 to 2021 (median: 2010); USA ranked at the first place of all
+original nations (n = 13)<sup><xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref>,<xref rid="bibr8-10732748211059858" ref-type="bibr">8</xref>,<xref rid="bibr13-10732748211059858" ref-type="bibr">13</xref>,<xref rid="bibr19-10732748211059858" ref-type="bibr">19</xref>,<xref rid="bibr33-10732748211059858" ref-type="bibr">33</xref>,<xref rid="bibr35-10732748211059858" ref-type="bibr">35</xref>,<xref rid="bibr38-10732748211059858" ref-type="bibr">38</xref>,<xref rid="bibr39-10732748211059858" ref-type="bibr">39</xref>,<xref rid="bibr45-10732748211059858" ref-type="bibr">45</xref>,<xref rid="bibr48-10732748211059858" ref-type="bibr">48</xref>,<xref rid="bibr50-10732748211059858" ref-type="bibr">50</xref>,<xref rid="bibr52-10732748211059858" ref-type="bibr">52</xref>,<xref rid="bibr54-10732748211059858" ref-type="bibr">54</xref></sup>; from all available
+studies, the median value of the mean age of included subjects was 32.7 (6-63),
+that of the male/female ratio was 1.3 (.5-4.5), and that of the tumor proportion
+was 93.2% (61.5-100.0%); and the median OS of included subjects was provided by
+11 publications,<sup><xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref>,<xref rid="bibr18-10732748211059858" ref-type="bibr">18</xref>,<xref rid="bibr19-10732748211059858" ref-type="bibr">19</xref>,<xref rid="bibr28-10732748211059858" ref-type="bibr">28</xref>,<xref rid="bibr32-10732748211059858" ref-type="bibr">32</xref>,<xref rid="bibr33-10732748211059858" ref-type="bibr">33</xref>,<xref rid="bibr35-10732748211059858" ref-type="bibr">35</xref>,<xref rid="bibr37-10732748211059858" ref-type="bibr">37</xref>,<xref rid="bibr41-10732748211059858" ref-type="bibr">41</xref>,<xref rid="bibr42-10732748211059858" ref-type="bibr">42</xref>,<xref rid="bibr52-10732748211059858" ref-type="bibr">52</xref></sup> with the median value of 11.0 (7.5-28.0). Additionally,
+<xref rid="table1-10732748211059858" ref-type="table">Table 1</xref>
+summarizes the details of diagnostic yield and safety from all analyzed
+studies.<table-wrap position="float" id="table1-10732748211059858" orientation="portrait"><label>Table 1.</label><caption><p>Characteristics of Included Studies in the “Study-Level”
+Analysis.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="table1-10732748211059858" position="float" orientation="portrait" xlink:href="10.1177_10732748211059858-table1.jpg"><?image-name 10.1177_10732748211059858-table1.jpg?><?image-size 144966?><?image-md5 96b87d3d31ba60a9e2ac7963c00478ff?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2064?><?image-original-width 2719?><?image-scaled-height 589?><?image-scaled-width 776?><?image-cloudpmc-urn urn:cdn:blobs/4634/8670786/96b87d3d31ba/10.1177_10732748211059858-table1.jpg?><?thumb-name 10.1177_10732748211059858-table1.gif?><?thumb-size 5376?><?thumb-md5 7f6faec2c439c476de895ed2555c3b60?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 105?><?thumb-cloudpmc-urn urn:cdn:blobs/4634/8670786/7f6faec2c439/10.1177_10732748211059858-table1.gif?></graphic><table frame="hsides" rules="groups"><thead valign="top"><tr><th align="left" rowspan="1" colspan="1">Study (Year)</th><th align="left" rowspan="1" colspan="1">Study Duration</th><th align="left" rowspan="1" colspan="1">Original Nation</th><th align="left" rowspan="1" colspan="1">Biopsy technique†</th><th align="left" rowspan="1" colspan="1">Patient Cohort</th><th align="left" rowspan="1" colspan="1">Mean Age</th><th align="left" rowspan="1" colspan="1">Total Sample (n)</th><th align="left" rowspan="1" colspan="1">Definitive Diagnosis (n)</th><th align="left" rowspan="1" colspan="1">Permanent Deficits (n)</th><th align="left" rowspan="1" colspan="1">Temporary Complications (n)</th><th align="left" rowspan="1" colspan="1">Death (n)</th><th align="left" rowspan="1" colspan="1">Tumor/Total*</th><th align="left" rowspan="1" colspan="1">Ref</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="1" colspan="1">Bahrami (2020)</td><td align="left" rowspan="1" colspan="1">2006–2016</td><td align="left" rowspan="1" colspan="1">Iran</td><td align="left" rowspan="1" colspan="1">MRI; F; TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">35.4</td><td align="char" char="." rowspan="1" colspan="1">39</td><td align="char" char="." rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">27/38</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr26-10732748211059858" ref-type="bibr">26</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Shad (2005)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">UK</td><td align="left" rowspan="1" colspan="1">CT; F; TF</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">47.0</td><td align="char" char="." rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">11/12</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr27-10732748211059858" ref-type="bibr">27</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Puget (2015)</td><td align="left" rowspan="1" colspan="1">2002–2015</td><td align="left" rowspan="1" colspan="1">France</td><td align="left" rowspan="1" colspan="1">MRI/CT; F; TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">6.7</td><td align="char" char="." rowspan="1" colspan="1">130</td><td align="char" char="." rowspan="1" colspan="1">130</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">130/130</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr28-10732748211059858" ref-type="bibr">28</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Pincus (2006)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">3D; F; TF/TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">12.8</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">10/10</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr13-10732748211059858" ref-type="bibr">13</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Cheng (2020)</td><td align="left" rowspan="1" colspan="1">2015–2017</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">MRI/CT; F/FL; TF/TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">32.7</td><td align="char" char="." rowspan="1" colspan="1">111</td><td align="char" char="." rowspan="1" colspan="1">106</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">99/106</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr29-10732748211059858" ref-type="bibr">29</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Dellaretti (2011)</td><td align="left" rowspan="1" colspan="1">1988–2007</td><td align="left" rowspan="1" colspan="1">France</td><td align="left" rowspan="1" colspan="1">MRI; F; TF/TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">6.0</td><td align="char" char="." rowspan="1" colspan="1">44</td><td align="char" char="." rowspan="1" colspan="1">41</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">41/44</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr30-10732748211059858" ref-type="bibr">30</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Dellaretti (2012)</td><td align="left" rowspan="1" colspan="1">1988–2007</td><td align="left" rowspan="1" colspan="1">France</td><td align="left" rowspan="1" colspan="1">MRI; F; TF/TC</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">41.0</td><td align="char" char="." rowspan="1" colspan="1">96</td><td align="char" char="." rowspan="1" colspan="1">92</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">82/92</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr31-10732748211059858" ref-type="bibr">31</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Cartmill (1999)</td><td align="left" rowspan="1" colspan="1">1990–1995</td><td align="left" rowspan="1" colspan="1">UK</td><td align="left" rowspan="1" colspan="1">CT; F; TT</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">6.0</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">18/18</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr32-10732748211059858" ref-type="bibr">32</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Wang (2015)</td><td align="left" rowspan="1" colspan="1">2001–2012</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">NA; NA; TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">8.8</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">15/15</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr33-10732748211059858" ref-type="bibr">33</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Birski (2021)</td><td align="left" rowspan="1" colspan="1">2007–2018</td><td align="left" rowspan="1" colspan="1">Poland</td><td align="left" rowspan="1" colspan="1">MRI/CT; F; NA</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">48.0</td><td align="char" char="." rowspan="1" colspan="1">85</td><td align="char" char="." rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">83/83</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr1-10732748211059858" ref-type="bibr">1</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Hamisch (2019)</td><td align="left" rowspan="1" colspan="1">1996–2015</td><td align="left" rowspan="1" colspan="1">Germany</td><td align="left" rowspan="1" colspan="1">MRI/CT; F; TT</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">48.5</td><td align="char" char="." rowspan="1" colspan="1">498</td><td align="char" char="." rowspan="1" colspan="1">494</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">48</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">431/494</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr34-10732748211059858" ref-type="bibr">34</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Lara-Almunia (2019)</td><td align="left" rowspan="1" colspan="1">1982–2016</td><td align="left" rowspan="1" colspan="1">Spain</td><td align="left" rowspan="1" colspan="1">CT; F; NA</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">53.8</td><td align="char" char="." rowspan="1" colspan="1">407</td><td align="char" char="." rowspan="1" colspan="1">368</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">321/368</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr16-10732748211059858" ref-type="bibr">16</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Dellaretti (2020)</td><td align="left" rowspan="1" colspan="1">2008–2018</td><td align="left" rowspan="1" colspan="1">Brazil</td><td align="left" rowspan="1" colspan="1">MRI/CT; NA; TF/TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">29.4</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">26</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">26/26</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr14-10732748211059858" ref-type="bibr">14</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ryken (1992)</td><td align="left" rowspan="1" colspan="1">1985–1990</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">NA; NA; NA</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">43.8</td><td align="char" char="." rowspan="1" colspan="1">11</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">9/9</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr35-10732748211059858" ref-type="bibr">35</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Puget (2012)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">France</td><td align="left" rowspan="1" colspan="1">NA; F; TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">90</td><td align="char" char="." rowspan="1" colspan="1">90</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">90/90</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr36-10732748211059858" ref-type="bibr">36</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Akay (2019)</td><td align="left" rowspan="1" colspan="1">2011–2018</td><td align="left" rowspan="1" colspan="1">Turkey</td><td align="left" rowspan="1" colspan="1">MRI; F; TF/TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">43.8</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">16/18</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr17-10732748211059858" ref-type="bibr">17</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Morais (2020)</td><td align="left" rowspan="1" colspan="1">2008–2018</td><td align="left" rowspan="1" colspan="1">Brazil</td><td align="left" rowspan="1" colspan="1">MRI; F; TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">8.8</td><td align="char" char="." rowspan="1" colspan="1">26</td><td align="char" char="." rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">21/22</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr37-10732748211059858" ref-type="bibr">37</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Gupta (2018)</td><td align="left" rowspan="1" colspan="1">2011–2015</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">MRI; F; TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">6.4</td><td align="char" char="." rowspan="1" colspan="1">50</td><td align="char" char="." rowspan="1" colspan="1">46</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">46/46</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr38-10732748211059858" ref-type="bibr">38</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Kondziolka (1995)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">CT; F; TF</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">40</td><td align="char" char="." rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">34/38</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr39-10732748211059858" ref-type="bibr">39</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Pirotte (2007)</td><td align="left" rowspan="1" colspan="1">1995–2006</td><td align="left" rowspan="1" colspan="1">Belgium</td><td align="left" rowspan="1" colspan="1">PET; F; TF/TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">8.2</td><td align="char" char="." rowspan="1" colspan="1">20</td><td align="char" char="." rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">20/20</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr18-10732748211059858" ref-type="bibr">18</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Gupta (2020)</td><td align="left" rowspan="1" colspan="1">2015–2020</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">Robot; F/FL; TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">9.1</td><td align="char" char="." rowspan="1" colspan="1">22</td><td align="char" char="." rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">20/21</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr18-10732748211059858" ref-type="bibr">18</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Dawes (2019)</td><td align="left" rowspan="1" colspan="1">2015–2017</td><td align="left" rowspan="1" colspan="1">UK</td><td align="left" rowspan="1" colspan="1">Robot; F; TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">10.0</td><td align="char" char="." rowspan="1" colspan="1">11</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">9/10</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr40-10732748211059858" ref-type="bibr">40</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Rachinger (2009)</td><td align="left" rowspan="1" colspan="1">1998–2007</td><td align="left" rowspan="1" colspan="1">Germany</td><td align="left" rowspan="1" colspan="1">MRI/CT; NA; TF/TC</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">43.0</td><td align="char" char="." rowspan="1" colspan="1">46</td><td align="char" char="." rowspan="1" colspan="1">46</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">43/46</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr41-10732748211059858" ref-type="bibr">41</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Rajshekhar (2010)</td><td align="left" rowspan="1" colspan="1">1987–2008</td><td align="left" rowspan="1" colspan="1">India</td><td align="left" rowspan="1" colspan="1">CT; F; TF/TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">9.25</td><td align="char" char="." rowspan="1" colspan="1">106</td><td align="char" char="." rowspan="1" colspan="1">106</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">96/106</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr42-10732748211059858" ref-type="bibr">42</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Gonçalves-Ferreira (2003)</td><td align="left" rowspan="1" colspan="1">1992–2001</td><td align="left" rowspan="1" colspan="1">Portugal</td><td align="left" rowspan="1" colspan="1">MRI/CT; F; TF/TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">43.0</td><td align="char" char="." rowspan="1" colspan="1">30</td><td align="char" char="." rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">18/28</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr43-10732748211059858" ref-type="bibr">43</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Dellaretti (2012)</td><td align="left" rowspan="1" colspan="1">1984–2007</td><td align="left" rowspan="1" colspan="1">Brazil</td><td align="left" rowspan="1" colspan="1">MRI; F; TF/TC</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">123</td><td align="char" char="." rowspan="1" colspan="1">115</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">106/115</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr4-10732748211059858" ref-type="bibr">4</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Valdés-Gorcía (1998)</td><td align="left" rowspan="1" colspan="1">1989–1997</td><td align="left" rowspan="1" colspan="1">Mexico</td><td align="left" rowspan="1" colspan="1">MRI/CT; F; NA</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">6.5</td><td align="char" char="." rowspan="1" colspan="1">30</td><td align="char" char="." rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">20/29</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr44-10732748211059858" ref-type="bibr">44</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Samadani (2006)</td><td align="left" rowspan="1" colspan="1">1996–2003</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">MRI; F; NA</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">46.0</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">10/12</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr45-10732748211059858" ref-type="bibr">45</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Quick-Weller (2016)</td><td align="left" rowspan="1" colspan="1">1994–2015</td><td align="left" rowspan="1" colspan="1">Germany</td><td align="left" rowspan="1" colspan="1">MRI; F; TF/TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">33.0</td><td align="char" char="." rowspan="1" colspan="1">26</td><td align="char" char="." rowspan="1" colspan="1">26</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">26/26</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr46-10732748211059858" ref-type="bibr">46</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Manoj (2014)</td><td align="left" rowspan="1" colspan="1">1994–2009</td><td align="left" rowspan="1" colspan="1">India</td><td align="left" rowspan="1" colspan="1">MRI/CT; F; NA</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">22.11</td><td align="char" char="." rowspan="1" colspan="1">82</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">61/75</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr47-10732748211059858" ref-type="bibr">47</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Steck (1995)</td><td align="left" rowspan="1" colspan="1">1983–1993</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">CT; F; TF/TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">39.5</td><td align="char" char="." rowspan="1" colspan="1">24</td><td align="char" char="." rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">23/23</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr48-10732748211059858" ref-type="bibr">48</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Haegelen (2010)</td><td align="left" rowspan="1" colspan="1">2004–2006</td><td align="left" rowspan="1" colspan="1">France</td><td align="left" rowspan="1" colspan="1">Robot; FL; TF/TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">32.0</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">9/13</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr49-10732748211059858" ref-type="bibr">49</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Coffey (1985)</td><td align="left" rowspan="1" colspan="1">1982–1984</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">CT; F; TF/TC</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">56.5</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">10/12</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr8-10732748211059858" ref-type="bibr">8</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Parker (1999)</td><td align="left" rowspan="1" colspan="1">1991–1996</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">MRI/CT; F; TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">25.3</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="char" char="." rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">17/18</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr50-10732748211059858" ref-type="bibr">50</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Chico-Ponce de León (2003)</td><td align="left" rowspan="1" colspan="1">1989–2002</td><td align="left" rowspan="1" colspan="1">Mexico</td><td align="left" rowspan="1" colspan="1">MRI/CT; F; TF/TC</td><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">7.0</td><td align="char" char="." rowspan="1" colspan="1">50</td><td align="char" char="." rowspan="1" colspan="1">50</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">50/50</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr51-10732748211059858" ref-type="bibr">51</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Hood (1986)</td><td align="left" rowspan="1" colspan="1">1984–1985</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">CT; F; TF/TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">15.5</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">12/12</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr52-10732748211059858" ref-type="bibr">52</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Abernathey (1989)</td><td align="left" rowspan="1" colspan="1">1984–1988</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">MRI/CT; F; TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">34.0</td><td align="char" char="." rowspan="1" colspan="1">26</td><td align="char" char="." rowspan="1" colspan="1">26</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">16/26</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Mathisen (1987)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">Norway</td><td align="left" rowspan="1" colspan="1">CT; F; TC</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">29</td><td align="char" char="." rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">24/28</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr53-10732748211059858" ref-type="bibr">53</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Sanai (2008)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">MRI/CT; F; TC</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">52.0</td><td align="char" char="." rowspan="1" colspan="1">13</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">10/12</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr54-10732748211059858" ref-type="bibr">54</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Quick-Weller (2018)</td><td align="left" rowspan="1" colspan="1">2013–2015</td><td align="left" rowspan="1" colspan="1">Germany</td><td align="left" rowspan="1" colspan="1">NA; F; NA</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">63.0</td><td align="char" char="." rowspan="1" colspan="1">43</td><td align="char" char="." rowspan="1" colspan="1">43</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">43/43</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr55-10732748211059858" ref-type="bibr">55</xref>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Yu (1998)</td><td align="left" rowspan="1" colspan="1">1991–1995</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">CT; F; NA</td><td align="left" rowspan="1" colspan="1">A+C</td><td align="left" rowspan="1" colspan="1">39.3</td><td align="char" char="." rowspan="1" colspan="1">310</td><td align="char" char="." rowspan="1" colspan="1">299</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">257/299</td><td align="left" rowspan="1" colspan="1">
+<sup>
+<xref rid="bibr56-10732748211059858" ref-type="bibr">56</xref>
+</sup>
+</td></tr></tbody></table></alternatives><table-wrap-foot><fn><p>*The calculation of the tumor/total ratio is based on the biopsy
+results.</p></fn><fn><p>†Information on the biopsy techniques details the guided
+techniques, navigation methods, and biopsy approaches.</p></fn><fn><p>Abbreviations: NA, not applicable; MRI, magnetic resonance
+imaging; CT, computerized X-ray tomography; PET, positron
+emission tomography; 3D, three-dimensional localization; F,
+framed; FL, frameless; TC, transcerebellar; TF, transfrontal;
+TT, transtentorial; A, adults; C, children.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="table2-10732748211059858" orientation="portrait"><label>Table 2.</label><caption><p>Characteristics of Included Studies in the “Patient-Level”
+Analysis.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="table2-10732748211059858" position="float" orientation="portrait" xlink:href="10.1177_10732748211059858-table2.jpg"><?image-name 10.1177_10732748211059858-table2.jpg?><?image-size 114512?><?image-md5 1ba212b02a8189fa7026278b0bd516d3?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2691?><?image-original-width 2081?><?image-scaled-height 896?><?image-scaled-width 693?><?image-cloudpmc-urn urn:cdn:blobs/4634/8670786/1ba212b02a81/10.1177_10732748211059858-table2.jpg?><?thumb-name 10.1177_10732748211059858-table2.gif?><?thumb-size 5183?><?thumb-md5 18c8546ae74be76238a920e6037e9205?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 129?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4634/8670786/18c8546ae74b/10.1177_10732748211059858-table2.gif?></graphic><table frame="hsides" rules="groups"><thead valign="top"><tr><th align="left" rowspan="1" colspan="1">Characteristic</th><th align="left" rowspan="1" colspan="1">Studies, no. (%) (N = 41)</th><th align="left" rowspan="1" colspan="1">Analyzed Subjects, no. (%) (N = 2792)</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="3" rowspan="1">Study type</td></tr><tr><td align="left" rowspan="1" colspan="1"> Prospective cohort</td><td align="left" rowspan="1" colspan="1">32 (78.0)</td><td align="left" rowspan="1" colspan="1">382 (13.7)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Retrospective cohort</td><td align="left" rowspan="1" colspan="1">9 (22.0)</td><td align="left" rowspan="1" colspan="1">2410 (86.3)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Publication year, median (range), y</td><td align="left" rowspan="1" colspan="1">2010 (1986–2021)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"> Mean age, median (range), y*</td><td align="left" rowspan="1" colspan="1">32.7 (6–63)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"> Male/female ratio, median (range)*</td><td align="left" rowspan="1" colspan="1">1.3 (.5–4.5)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"> Tumor proportion, median (range), %</td><td align="left" rowspan="1" colspan="1">93.2 (61.5–100.0)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="3" rowspan="1">Original nation</td></tr><tr><td align="left" rowspan="1" colspan="1"> Iran</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">39 (1.4)</td></tr><tr><td align="left" rowspan="1" colspan="1"> UK</td><td align="left" rowspan="1" colspan="1">3 (7.3)</td><td align="left" rowspan="1" colspan="1">42 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1"> France</td><td align="left" rowspan="1" colspan="1">5 (12.2)</td><td align="left" rowspan="1" colspan="1">375 (13.4)</td></tr><tr><td align="left" rowspan="1" colspan="1"> USA</td><td align="left" rowspan="1" colspan="1">13 (31.7)</td><td align="left" rowspan="1" colspan="1">304 (10.9)</td></tr><tr><td align="left" rowspan="1" colspan="1"> China</td><td align="left" rowspan="1" colspan="1">2 (4.9)</td><td align="left" rowspan="1" colspan="1">421 (15.1)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Poland</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">85 (3.0)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Germany</td><td align="left" rowspan="1" colspan="1">4 (9.8)</td><td align="left" rowspan="1" colspan="1">613 (22.0)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Spain</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">407 (14.6)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Brazil</td><td align="left" rowspan="1" colspan="1">3 (7.3)</td><td align="left" rowspan="1" colspan="1">180 (6.4)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Turkey</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">18 (.6)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Belgium</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">20 (.7)</td></tr><tr><td align="left" rowspan="1" colspan="1"> India</td><td align="left" rowspan="1" colspan="1">2 (4.9)</td><td align="left" rowspan="1" colspan="1">188 (6.7)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Portugal</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">30 (1.1)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Mexico</td><td align="left" rowspan="1" colspan="1">2 (4.9)</td><td align="left" rowspan="1" colspan="1">80 (2.9)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Norway</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">29 (1.0)</td></tr><tr><td align="left" colspan="3" rowspan="1">Patient cohort</td></tr><tr><td align="left" rowspan="1" colspan="1"> Adult</td><td align="left" rowspan="1" colspan="1">7 (17.1)</td><td align="left" rowspan="1" colspan="1">308 (11.0)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Children</td><td align="left" rowspan="1" colspan="1">14 (34.1)</td><td align="left" rowspan="1" colspan="1">622 (22.3)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Adult + children</td><td align="left" rowspan="1" colspan="1">19 (46.3)</td><td align="left" rowspan="1" colspan="1">1739 (62.3)</td></tr><tr><td align="left" rowspan="1" colspan="1"> No details</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">123 (4.4)</td></tr><tr><td align="left" colspan="3" rowspan="1">Guidance technique</td></tr><tr><td align="left" rowspan="1" colspan="1"> MRI</td><td align="left" rowspan="1" colspan="1">9 (22.0)</td><td align="left" rowspan="1" colspan="1">434 (15.5)</td></tr><tr><td align="left" rowspan="1" colspan="1"> CT</td><td align="left" rowspan="1" colspan="1">10 (24.4)</td><td align="left" rowspan="1" colspan="1">971 (34.8)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Robot-assistant</td><td align="left" rowspan="1" colspan="1">3 (7.3)</td><td align="left" rowspan="1" colspan="1">48 (1.7)</td></tr><tr><td align="left" rowspan="1" colspan="1"> PET</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">20 (.7)</td></tr><tr><td align="left" rowspan="1" colspan="1"> MRI/CT</td><td align="left" rowspan="1" colspan="1">12 (29.3)</td><td align="left" rowspan="1" colspan="1">1150 (41.2)</td></tr><tr><td align="left" rowspan="1" colspan="1"> 3D</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">10 (.4)</td></tr><tr><td align="left" rowspan="1" colspan="1"> No details</td><td align="left" rowspan="1" colspan="1">4 (9.8)</td><td align="left" rowspan="1" colspan="1">159 (5.7)</td></tr><tr><td align="left" colspan="3" rowspan="1">Navigation methods</td></tr><tr><td align="left" rowspan="1" colspan="1"> Framed</td><td align="left" rowspan="1" colspan="1">34 (82.9)</td><td align="left" rowspan="1" colspan="1">2721 (97.5)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Frameless</td><td align="left" rowspan="1" colspan="1">1 (2.4)</td><td align="left" rowspan="1" colspan="1">15 (.5)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Framed/frameless</td><td align="left" rowspan="1" colspan="1">2 (4.9)</td><td align="left" rowspan="1" colspan="1">133 (4.8)</td></tr><tr><td align="left" rowspan="1" colspan="1"> No details</td><td align="left" rowspan="1" colspan="1">4 (9.8)</td><td align="left" rowspan="1" colspan="1">103 (3.7)</td></tr><tr><td align="left" colspan="3" rowspan="1">Biopsy approaches</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transfrontal approach</td><td align="left" rowspan="1" colspan="1">2 (4.9)</td><td align="left" rowspan="1" colspan="1">53 (1.9)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transtentorial approach</td><td align="left" rowspan="1" colspan="1">2 (4.9)</td><td align="left" rowspan="1" colspan="1">516 (18.5)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transcerebellar approach</td><td align="left" rowspan="1" colspan="1">12 (29.3)</td><td align="left" rowspan="1" colspan="1">469 (16.8)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transfrontal/transcerebellar approach</td><td align="left" rowspan="1" colspan="1">17 (41.5)</td><td align="left" rowspan="1" colspan="1">774 (27.7)</td></tr><tr><td align="left" rowspan="1" colspan="1"> No details</td><td align="left" rowspan="1" colspan="1">8 (19.5)</td><td align="left" rowspan="1" colspan="1">980 (35.1)</td></tr><tr><td align="left" colspan="3" rowspan="1">Median OS assessment</td></tr><tr><td align="left" rowspan="1" colspan="1"> Yes</td><td align="left" rowspan="1" colspan="1">11 (26.8)</td><td align="left" rowspan="1" colspan="1">432 (15.5)</td></tr><tr><td align="left" rowspan="1" colspan="1"> No</td><td align="left" rowspan="1" colspan="1">30 (73.2)</td><td align="left" rowspan="1" colspan="1">2360 (84.5)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Median OS, median (range), m*</td><td align="left" rowspan="1" colspan="1">11.0 (7.5–28.0)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn><p>*The calculation of the median value is based on the provided
+data from the included studies.; Abbreviations: MRI, magnetic
+resonance imaging; CT, Computerized X-ray tomography; PET,
+positron emission tomography; 3D, three-dimensional graphics
+workstation; OS, overall survival.</p></fn></table-wrap-foot></table-wrap></p></sec><sec id="sec11-10732748211059858"><title>Diagnostic Yield</title><p>All 41 studies were involved in analyzing the diagnostic yield of brainstem
+stereotactic biopsy.<sup><xref rid="bibr1-10732748211059858" ref-type="bibr">1</xref>,<xref rid="bibr4-10732748211059858" ref-type="bibr">4</xref>,<xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref>,<xref rid="bibr8-10732748211059858" ref-type="bibr">8</xref>,<xref rid="bibr13-10732748211059858" ref-type="bibr">13</xref>,<xref rid="bibr14-10732748211059858" ref-type="bibr">14</xref>,<xref rid="bibr16-10732748211059858" ref-type="bibr">16</xref><xref rid="bibr17-10732748211059858" ref-type="bibr"/><xref rid="bibr18-10732748211059858" ref-type="bibr"/>-<xref rid="bibr19-10732748211059858" ref-type="bibr">19</xref>,<xref rid="bibr26-10732748211059858" ref-type="bibr">26</xref><xref rid="bibr27-10732748211059858" ref-type="bibr"/><xref rid="bibr28-10732748211059858" ref-type="bibr"/><xref rid="bibr29-10732748211059858" ref-type="bibr"/><xref rid="bibr30-10732748211059858" ref-type="bibr"/><xref rid="bibr31-10732748211059858" ref-type="bibr"/><xref rid="bibr32-10732748211059858" ref-type="bibr"/><xref rid="bibr33-10732748211059858" ref-type="bibr"/><xref rid="bibr34-10732748211059858" ref-type="bibr"/><xref rid="bibr35-10732748211059858" ref-type="bibr"/><xref rid="bibr36-10732748211059858" ref-type="bibr"/><xref rid="bibr37-10732748211059858" ref-type="bibr"/><xref rid="bibr38-10732748211059858" ref-type="bibr"/><xref rid="bibr39-10732748211059858" ref-type="bibr"/><xref rid="bibr40-10732748211059858" ref-type="bibr"/><xref rid="bibr41-10732748211059858" ref-type="bibr"/><xref rid="bibr42-10732748211059858" ref-type="bibr"/><xref rid="bibr43-10732748211059858" ref-type="bibr"/><xref rid="bibr44-10732748211059858" ref-type="bibr"/><xref rid="bibr45-10732748211059858" ref-type="bibr"/><xref rid="bibr46-10732748211059858" ref-type="bibr"/><xref rid="bibr47-10732748211059858" ref-type="bibr"/><xref rid="bibr48-10732748211059858" ref-type="bibr"/><xref rid="bibr49-10732748211059858" ref-type="bibr"/><xref rid="bibr50-10732748211059858" ref-type="bibr"/><xref rid="bibr51-10732748211059858" ref-type="bibr"/><xref rid="bibr52-10732748211059858" ref-type="bibr"/><xref rid="bibr53-10732748211059858" ref-type="bibr"/><xref rid="bibr54-10732748211059858" ref-type="bibr"/><xref rid="bibr55-10732748211059858" ref-type="bibr"/>-<xref rid="bibr56-10732748211059858" ref-type="bibr">56</xref></sup> The pooled result showed
+a weighted average diagnostic yield of 97.0% (95% CI, 96.0–97.9%) (<xref rid="fig2-10732748211059858" ref-type="fig">Figure 2</xref>). The subgroup
+analysis indicated that the weighted average diagnostic yields with the
+CT-guided technique, MRI-guided technique, framed navigation, and
+transcerebellar approach were 95.8% (95% CI, 93.0–98.6%), 95.9% (95% CI,
+93.7–98.1%), 97.1% (95% CI, 96.1–98.1%), and 99.1% (95% CI, 98.3–99.9%),
+respectively. The weighted average diagnostic yield in the pediatric patient
+population (99.2%; 95% CI, 98.5–99.9%) was numerically higher than that in the
+adult patient population (97.6%; 95% CI, 96.0–99.1%) (<xref rid="table3-10732748211059858" ref-type="table">Table 3</xref>).<fig position="float" fig-type="figure" id="fig2-10732748211059858" orientation="portrait"><label>Figure 2.</label><caption><p>Coupled forest plot of diagnostic yield. A binary random-effect
+model, the Dersimonian Laird method, was used to pool the data
+because of substantial heterogeneity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_10732748211059858-fig2.jpg"><?image-name 10.1177_10732748211059858-fig2.jpg?><?image-size 139363?><?image-md5 6211361fbcbaa4785a4f52950e9c6bd7?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 3321?><?image-original-width 2985?><?image-scaled-height 830?><?image-scaled-width 746?><?image-cloudpmc-urn urn:cdn:blobs/4634/8670786/6211361fbcba/10.1177_10732748211059858-fig2.jpg?><?thumb-name 10.1177_10732748211059858-fig2.gif?><?thumb-size 11189?><?thumb-md5 e92f113ccf5da33299b982ef30c002f6?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 110?><?thumb-scaled-width 99?><?thumb-cloudpmc-urn urn:cdn:blobs/4634/8670786/e92f113ccf5d/10.1177_10732748211059858-fig2.gif?></graphic></fig><table-wrap position="float" id="table3-10732748211059858" orientation="portrait"><label>Table 3.</label><caption><p>Subgroup Analysis With the Different Assistant Techniques and Patient
+Populations.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="table3-10732748211059858" position="float" orientation="portrait" xlink:href="10.1177_10732748211059858-table3.jpg"><?image-name 10.1177_10732748211059858-table3.jpg?><?image-size 115220?><?image-md5 b2bd029cc6d246f78256996366516e84?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1631?><?image-original-width 2081?><?image-scaled-height 543?><?image-scaled-width 693?><?image-cloudpmc-urn urn:cdn:blobs/4634/8670786/b2bd029cc6d2/10.1177_10732748211059858-table3.jpg?><?thumb-name 10.1177_10732748211059858-table3.gif?><?thumb-size 5291?><?thumb-md5 ea245cf941c25651cf435f4922c5d6db?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 102?><?thumb-cloudpmc-urn urn:cdn:blobs/4634/8670786/ea245cf941c2/10.1177_10732748211059858-table3.gif?></graphic><table frame="hsides" rules="groups"><thead valign="top"><tr><th align="left" rowspan="2" colspan="1">Subgroup Analysis</th><th align="left" rowspan="2" colspan="1">Weighted Average Proportion
+(95% CI)</th><th align="left" rowspan="2" colspan="1">Included Studies (N)</th><th align="left" rowspan="2" colspan="1">Event/Total (N)</th><th align="left" rowspan="2" colspan="1">Effect Model</th><th align="left" colspan="2" rowspan="1">Heterogeneity Test</th></tr><tr><th align="left" rowspan="1" colspan="1">I<sup>2</sup>, %</th><th align="left" rowspan="1" colspan="1"><italic toggle="yes">P</italic> Value</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="7" rowspan="1">
+<italic toggle="yes">Diagnostic yield</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> CT-guided technique</td><td align="left" rowspan="1" colspan="1">95.8% (93.0-98.6%)</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">916/971</td><td align="left" rowspan="1" colspan="1">Random</td><td align="char" char="." rowspan="1" colspan="1">74.61</td><td align="char" char="." rowspan="1" colspan="1">&lt; .001</td></tr><tr><td align="left" rowspan="1" colspan="1"> MRI-guided technique</td><td align="left" rowspan="1" colspan="1">95.9% (93.7-98.1%)</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">295/311</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.615</td></tr><tr><td align="left" rowspan="1" colspan="1"> Framed navigation</td><td align="left" rowspan="1" colspan="1">97.1% (96.1-98.1%)</td><td align="left" rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1">2444/2541</td><td align="left" rowspan="1" colspan="1">Random</td><td align="char" char="." rowspan="1" colspan="1">55.29</td><td align="char" char="." rowspan="1" colspan="1">&lt; .001</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transcerebellar approach</td><td align="left" rowspan="1" colspan="1">99.1% (98.3-99.9%)</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">466/479</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.362</td></tr><tr><td align="left" rowspan="1" colspan="1"> Adult patients</td><td align="left" rowspan="1" colspan="1">97.6% (96.0-99.1%)</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">344/359</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.352</td></tr><tr><td align="left" rowspan="1" colspan="1"> Pediatric patients</td><td align="left" rowspan="1" colspan="1">99.2% (98.5-99.9%)</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">647/663</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.309</td></tr><tr><td align="left" colspan="7" rowspan="1">
+<italic toggle="yes">Temporary complications</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> CT-guided technique</td><td align="left" rowspan="1" colspan="1">6.0% (1.8-10.1%)</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">27/535</td><td align="left" rowspan="1" colspan="1">Random</td><td align="char" char="." rowspan="1" colspan="1">62.42</td><td align="char" char="." rowspan="1" colspan="1">.009</td></tr><tr><td align="left" rowspan="1" colspan="1"> MRI-guided technique</td><td align="left" rowspan="1" colspan="1">7.9% (3.7-12.0%)</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">36/396</td><td align="left" rowspan="1" colspan="1">Random</td><td align="char" char="." rowspan="1" colspan="1">60.58</td><td align="char" char="." rowspan="1" colspan="1">.019</td></tr><tr><td align="left" rowspan="1" colspan="1"> Framed navigation</td><td align="left" rowspan="1" colspan="1">6.0% (4.2-7.7%)</td><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">141/1991</td><td align="left" rowspan="1" colspan="1">Random</td><td align="char" char="." rowspan="1" colspan="1">60.72</td><td align="char" char="." rowspan="1" colspan="1">&lt; .001</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transcerebellar approach</td><td align="left" rowspan="1" colspan="1">3.6% (1.9-5.4%)</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">22/424</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.433</td></tr><tr><td align="left" rowspan="1" colspan="1"> Adult patients</td><td align="left" rowspan="1" colspan="1">6.8% (2.4-11.2%)</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">23/265</td><td align="left" rowspan="1" colspan="1">Random</td><td align="char" char="." rowspan="1" colspan="1">48.52</td><td align="char" char="." rowspan="1" colspan="1">.084</td></tr><tr><td align="left" rowspan="1" colspan="1"> Pediatric patients</td><td align="left" rowspan="1" colspan="1">5.1% (3.2-6.9%)</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">36/528</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.284</td></tr><tr><td align="left" colspan="7" rowspan="1">
+<italic toggle="yes">Permanent deficits</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> CT-guided technique</td><td align="left" rowspan="1" colspan="1">.2% (.0-.7%)</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">1/535</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.854</td></tr><tr><td align="left" rowspan="1" colspan="1"> MRI-guided technique</td><td align="left" rowspan="1" colspan="1">1.9% (.1-3.7%)</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">13/396</td><td align="left" rowspan="1" colspan="1">Random</td><td align="char" char="." rowspan="1" colspan="1">52.21</td><td align="char" char="." rowspan="1" colspan="1">.051</td></tr><tr><td align="left" rowspan="1" colspan="1"> Framed navigation</td><td align="left" rowspan="1" colspan="1">.4% (.2-.7%)</td><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">20/1974</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.627</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transcerebellar approach</td><td align="left" rowspan="1" colspan="1">.7% (.0-1.5%)</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">1/424</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.977</td></tr><tr><td align="left" rowspan="1" colspan="1"> Adult patients</td><td align="left" rowspan="1" colspan="1">.3% (.0-.7%)</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">1/575</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.85</td></tr><tr><td align="left" rowspan="1" colspan="1"> Pediatric patients</td><td align="left" rowspan="1" colspan="1">.6% (.0-1.3%)</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">1/546</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.99</td></tr><tr><td align="left" colspan="7" rowspan="1">
+<italic toggle="yes">Deaths</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> CT-guided technique</td><td align="left" rowspan="1" colspan="1">.4% (.0-.7%)</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">5/942</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.736</td></tr><tr><td align="left" rowspan="1" colspan="1"> MRI-guided technique</td><td align="left" rowspan="1" colspan="1">1.1% (.1-2.1%)</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">3/434</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.997</td></tr><tr><td align="left" rowspan="1" colspan="1"> Framed navigation</td><td align="left" rowspan="1" colspan="1">.3% (.1-.5%)</td><td align="left" rowspan="1" colspan="1">32</td><td align="left" rowspan="1" colspan="1">11/2469</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.982</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transcerebellar approach</td><td align="left" rowspan="1" colspan="1">.7% (.0-1.5%)</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">0/450</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.993</td></tr><tr><td align="left" rowspan="1" colspan="1"> Adult patients</td><td align="left" rowspan="1" colspan="1">1.5% (.2-2.8%)</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">3/316</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.987</td></tr><tr><td align="left" rowspan="1" colspan="1"> Pediatric patients</td><td align="left" rowspan="1" colspan="1">.7% (.1-1.3%)</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">1/663</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="char" char="." rowspan="1" colspan="1">.00</td><td align="char" char="." rowspan="1" colspan="1">.998</td></tr></tbody></table></alternatives><table-wrap-foot><fn><p>Abbreviations: CT, computerized X-ray tomography; MRI, magnetic
+resonance imaging.</p></fn></table-wrap-foot></table-wrap></p></sec><sec id="sec12-10732748211059858"><title>Temporary Complications</title><p>We collected 34 eligible studies<sup><xref rid="bibr1-10732748211059858" ref-type="bibr">1</xref>,<xref rid="bibr4-10732748211059858" ref-type="bibr">4</xref>,<xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref>,<xref rid="bibr8-10732748211059858" ref-type="bibr">8</xref>,<xref rid="bibr13-10732748211059858" ref-type="bibr">13</xref>,<xref rid="bibr14-10732748211059858" ref-type="bibr">14</xref>,<xref rid="bibr17-10732748211059858" ref-type="bibr">17</xref><xref rid="bibr18-10732748211059858" ref-type="bibr"/>-<xref rid="bibr19-10732748211059858" ref-type="bibr">19</xref>,<xref rid="bibr26-10732748211059858" ref-type="bibr">26</xref><xref rid="bibr27-10732748211059858" ref-type="bibr"/>-<xref rid="bibr28-10732748211059858" ref-type="bibr">28</xref>,<xref rid="bibr30-10732748211059858" ref-type="bibr">30</xref><xref rid="bibr31-10732748211059858" ref-type="bibr"/><xref rid="bibr32-10732748211059858" ref-type="bibr"/><xref rid="bibr33-10732748211059858" ref-type="bibr"/><xref rid="bibr34-10732748211059858" ref-type="bibr"/><xref rid="bibr35-10732748211059858" ref-type="bibr"/>-<xref rid="bibr36-10732748211059858" ref-type="bibr">36</xref>,<xref rid="bibr38-10732748211059858" ref-type="bibr">38</xref><xref rid="bibr39-10732748211059858" ref-type="bibr"/><xref rid="bibr40-10732748211059858" ref-type="bibr"/><xref rid="bibr41-10732748211059858" ref-type="bibr"/><xref rid="bibr42-10732748211059858" ref-type="bibr"/><xref rid="bibr43-10732748211059858" ref-type="bibr"/>-<xref rid="bibr44-10732748211059858" ref-type="bibr">44</xref>,<xref rid="bibr46-10732748211059858" ref-type="bibr">46</xref><xref rid="bibr47-10732748211059858" ref-type="bibr"/><xref rid="bibr48-10732748211059858" ref-type="bibr"/><xref rid="bibr49-10732748211059858" ref-type="bibr"/>-<xref rid="bibr50-10732748211059858" ref-type="bibr">50</xref>,<xref rid="bibr52-10732748211059858" ref-type="bibr">52</xref>,<xref rid="bibr54-10732748211059858" ref-type="bibr">54</xref>,<xref rid="bibr56-10732748211059858" ref-type="bibr">56</xref></sup> to investigate the
+temporary complications caused by brainstem stereotactic biopsy. The pooled
+result indicated that the weighted average proportion of temporary complications
+was 6.2% (95% CI, 4.5–7.9%) (<xref rid="fig3-10732748211059858" ref-type="fig">Figure 3</xref>). The subgroup analysis indicated that the weighted average
+proportions of temporary complications with the CT-guided technique, MRI-guided
+technique, framed navigation, and transcerebellar approach were 6.0% (95% CI,
+1.8–10.1%), 7.9% (95% CI, 3.7–12.0%), 6.0% (95% CI, 4.2–7.7%), and 3.6% (95% CI,
+1.9–5.4%), respectively. The weighted average proportion in the pediatric
+patient population (6.8%; 95% CI, 2.4–11.2%) was 1.7% less than that in the
+adult patient population (5.1%; 95% CI, 3.2-6.9%) (<xref rid="table3-10732748211059858" ref-type="table">Table 3</xref>).<fig position="float" fig-type="figure" id="fig3-10732748211059858" orientation="portrait"><label>Figure 3.</label><caption><p>Coupled forest plot of the proportion of temporary complications. A
+binary random-effect model, the Dersimonian Laird method, was used
+to pool the data because of substantial heterogeneity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_10732748211059858-fig3.jpg"><?image-name 10.1177_10732748211059858-fig3.jpg?><?image-size 122584?><?image-md5 6bc5c7583473797799e40ad627747b4a?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2912?><?image-original-width 2998?><?image-scaled-height 728?><?image-scaled-width 749?><?image-cloudpmc-urn urn:cdn:blobs/4634/8670786/6bc5c7583473/10.1177_10732748211059858-fig3.jpg?><?thumb-name 10.1177_10732748211059858-fig3.gif?><?thumb-size 11480?><?thumb-md5 93028a68c9db1bd9663aa3dc3ce75240?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 97?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4634/8670786/93028a68c9db/10.1177_10732748211059858-fig3.gif?></graphic></fig></p></sec><sec id="sec13-10732748211059858"><title>Permanent Deficits</title><p>Equivalently, these 34 articles<sup><xref rid="bibr1-10732748211059858" ref-type="bibr">1</xref>,<xref rid="bibr4-10732748211059858" ref-type="bibr">4</xref>,<xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref>,<xref rid="bibr8-10732748211059858" ref-type="bibr">8</xref>,<xref rid="bibr13-10732748211059858" ref-type="bibr">13</xref>,<xref rid="bibr14-10732748211059858" ref-type="bibr">14</xref>,<xref rid="bibr17-10732748211059858" ref-type="bibr">17</xref><xref rid="bibr18-10732748211059858" ref-type="bibr"/>-<xref rid="bibr19-10732748211059858" ref-type="bibr">19</xref>,<xref rid="bibr26-10732748211059858" ref-type="bibr">26</xref><xref rid="bibr27-10732748211059858" ref-type="bibr"/>-<xref rid="bibr28-10732748211059858" ref-type="bibr">28</xref>,<xref rid="bibr30-10732748211059858" ref-type="bibr">30</xref><xref rid="bibr31-10732748211059858" ref-type="bibr"/><xref rid="bibr32-10732748211059858" ref-type="bibr"/><xref rid="bibr33-10732748211059858" ref-type="bibr"/><xref rid="bibr34-10732748211059858" ref-type="bibr"/><xref rid="bibr35-10732748211059858" ref-type="bibr"/>-<xref rid="bibr36-10732748211059858" ref-type="bibr">36</xref>,<xref rid="bibr38-10732748211059858" ref-type="bibr">38</xref><xref rid="bibr39-10732748211059858" ref-type="bibr"/><xref rid="bibr40-10732748211059858" ref-type="bibr"/><xref rid="bibr41-10732748211059858" ref-type="bibr"/><xref rid="bibr42-10732748211059858" ref-type="bibr"/><xref rid="bibr43-10732748211059858" ref-type="bibr"/>-<xref rid="bibr44-10732748211059858" ref-type="bibr">44</xref>,<xref rid="bibr46-10732748211059858" ref-type="bibr">46</xref><xref rid="bibr47-10732748211059858" ref-type="bibr"/><xref rid="bibr48-10732748211059858" ref-type="bibr"/><xref rid="bibr49-10732748211059858" ref-type="bibr"/>-<xref rid="bibr50-10732748211059858" ref-type="bibr">50</xref>,<xref rid="bibr52-10732748211059858" ref-type="bibr">52</xref>,<xref rid="bibr54-10732748211059858" ref-type="bibr">54</xref>,<xref rid="bibr56-10732748211059858" ref-type="bibr">56</xref></sup> were further included in
+the analysis of brainstem stereotactic biopsy-caused permanent deficits. The
+pooled result showed that the weighted average proportion of permanent deficits
+was .5% (95% CI, .2–.8%) (<xref rid="fig4-10732748211059858" ref-type="fig">Figure 4</xref>). The subgroup analysis suggested that the weighted average
+proportions of permanent deficits with the CT-guided technique, MRI-guided
+technique, framed navigation, and transcerebellar approach were .2% (95% CI,
+.0–.7%), 1.9% (95% CI, .1–3.7%), .4% (95% CI, .2–.7%), and .7% (95% CI,
+.0–1.5%), respectively. The weighted average proportion in the pediatric patient
+population (.6%; 95% CI, .0-1.3%) was similar to that in the adult patient
+population (.3%; .0-.7%) (<xref rid="table3-10732748211059858" ref-type="table">Table 3</xref>).<fig position="float" fig-type="figure" id="fig4-10732748211059858" orientation="portrait"><label>Figure 4.</label><caption><p>Coupled forest plot of the proportion of permanent deficits. A binary
+fixed-effect model, the inverse variance method, was used to pool
+the data because there was no significant heterogeneity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_10732748211059858-fig4.jpg"><?image-name 10.1177_10732748211059858-fig4.jpg?><?image-size 116432?><?image-md5 4b73b7b770e24ddcbcf20c3002f0b4a5?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2984?><?image-original-width 3010?><?image-scaled-height 746?><?image-scaled-width 752?><?image-cloudpmc-urn urn:cdn:blobs/4634/8670786/4b73b7b770e2/10.1177_10732748211059858-fig4.jpg?><?thumb-name 10.1177_10732748211059858-fig4.gif?><?thumb-size 11050?><?thumb-md5 3cbcd3925263102b7b07e61393f62406?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 99?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4634/8670786/3cbcd3925263/10.1177_10732748211059858-fig4.gif?></graphic></fig></p></sec><sec id="sec14-10732748211059858"><title>Deaths</title><p>There was concern regarding brainstem stereotactic biopsy-caused mortality, for
+which 39 articles<sup><xref rid="bibr1-10732748211059858" ref-type="bibr">1</xref>,<xref rid="bibr4-10732748211059858" ref-type="bibr">4</xref>,<xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref>,<xref rid="bibr8-10732748211059858" ref-type="bibr">8</xref>,<xref rid="bibr13-10732748211059858" ref-type="bibr">13</xref>,<xref rid="bibr14-10732748211059858" ref-type="bibr">14</xref>,<xref rid="bibr16-10732748211059858" ref-type="bibr">16</xref><xref rid="bibr17-10732748211059858" ref-type="bibr"/><xref rid="bibr18-10732748211059858" ref-type="bibr"/>-<xref rid="bibr19-10732748211059858" ref-type="bibr">19</xref>,<xref rid="bibr26-10732748211059858" ref-type="bibr">26</xref><xref rid="bibr27-10732748211059858" ref-type="bibr"/><xref rid="bibr28-10732748211059858" ref-type="bibr"/><xref rid="bibr29-10732748211059858" ref-type="bibr"/><xref rid="bibr30-10732748211059858" ref-type="bibr"/><xref rid="bibr31-10732748211059858" ref-type="bibr"/><xref rid="bibr32-10732748211059858" ref-type="bibr"/><xref rid="bibr33-10732748211059858" ref-type="bibr"/><xref rid="bibr34-10732748211059858" ref-type="bibr"/><xref rid="bibr35-10732748211059858" ref-type="bibr"/><xref rid="bibr36-10732748211059858" ref-type="bibr"/><xref rid="bibr37-10732748211059858" ref-type="bibr"/><xref rid="bibr38-10732748211059858" ref-type="bibr"/><xref rid="bibr39-10732748211059858" ref-type="bibr"/><xref rid="bibr40-10732748211059858" ref-type="bibr"/><xref rid="bibr41-10732748211059858" ref-type="bibr"/><xref rid="bibr42-10732748211059858" ref-type="bibr"/><xref rid="bibr43-10732748211059858" ref-type="bibr"/><xref rid="bibr44-10732748211059858" ref-type="bibr"/><xref rid="bibr45-10732748211059858" ref-type="bibr"/><xref rid="bibr46-10732748211059858" ref-type="bibr"/><xref rid="bibr47-10732748211059858" ref-type="bibr"/><xref rid="bibr48-10732748211059858" ref-type="bibr"/><xref rid="bibr49-10732748211059858" ref-type="bibr"/><xref rid="bibr50-10732748211059858" ref-type="bibr"/><xref rid="bibr51-10732748211059858" ref-type="bibr"/>-<xref rid="bibr52-10732748211059858" ref-type="bibr">52</xref>,<xref rid="bibr54-10732748211059858" ref-type="bibr">54</xref>,<xref rid="bibr56-10732748211059858" ref-type="bibr">56</xref></sup> were involved in the
+analysis. The pooled result in <xref rid="fig5-10732748211059858" ref-type="fig">Figure 5</xref> revealed that the weighted average proportion of deaths was
+.3% (95% CI, .1–.5%). The subgroup analysis indicated that the weighted average
+proportions of deaths with the CT-guided technique, MRI-guided technique, framed
+navigation, and transcerebellar approach were .4% (95% CI, .0–.7%), 1.1% (95%
+CI, .1–2.1%), .3% (95% CI, .1–.5%), and .7% (95% CI, .0–1.5%), respectively. The
+weighted average proportion in the pediatric patient population (.7%; 95% CI,
+.1–1.3%) seemed to be safer than that in the adult patient population (1.5%; 95%
+CI, .2–2.8%), with a .8% decreased proportion (<xref rid="table3-10732748211059858" ref-type="table">Table 3</xref>).<fig position="float" fig-type="figure" id="fig5-10732748211059858" orientation="portrait"><label>Figure 5.</label><caption><p>Coupled forest plot of the proportion of deaths. A binary
+fixed-effect model, the inverse variance method, was used to pool
+the data because there was no significant heterogeneity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_10732748211059858-fig5.jpg"><?image-name 10.1177_10732748211059858-fig5.jpg?><?image-size 136478?><?image-md5 9578246ff5352ada148200d7f793c3cc?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 3232?><?image-original-width 2980?><?image-scaled-height 808?><?image-scaled-width 745?><?image-cloudpmc-urn urn:cdn:blobs/4634/8670786/9578246ff535/10.1177_10732748211059858-fig5.jpg?><?thumb-name 10.1177_10732748211059858-fig5.gif?><?thumb-size 11295?><?thumb-md5 be64450ff937155b72e9645785e3a341?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 108?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4634/8670786/be64450ff937/10.1177_10732748211059858-fig5.gif?></graphic></fig></p></sec><sec id="sec15-10732748211059858"><title>Heterogenicity</title><p>The majority of analyses found insignificant heterogenicity across their involved
+clinical studies, and the minority of analyses showed moderate to considerable
+heterogenicity as follows: (1) diagnostic yield (<italic toggle="yes">P</italic> &lt; .001,
+I<sup>2</sup> = 53.29%); (2) permanent deficits (<italic toggle="yes">P</italic> &lt;
+.001, I<sup>2</sup> = 57.55%); (3) diagnostic yield of CT-guided technique
+(<italic toggle="yes">P</italic> &lt; .001, I<sup>2</sup> = 74.61%), and framed
+navigation (<italic toggle="yes">P</italic> &lt; .001, I<sup>2</sup> = 55.29%); (4) temporary
+complications of CT-guided technique (<italic toggle="yes">P</italic> = .009, I<sup>2</sup> =
+62.42%), MRI-guided technique (<italic toggle="yes">P</italic> = .019, I<sup>2</sup> =
+60.58%), framed navigation (<italic toggle="yes">P</italic> &lt; .001, I<sup>2</sup> =
+60.72%), and in the adult patient population (<italic toggle="yes">P</italic> = .084,
+I<sup>2</sup> = 48.52%); and (5) permanent deficits of MRI-guided technique
+(<italic toggle="yes">P</italic> = .051, I<sup>2</sup> = 52.21%).</p></sec></sec><sec sec-type="discussion" id="sec16-10732748211059858"><title>Discussion</title><p>Despite the refined sensitivity and specificity of modern neuroimaging technologies,
+only relying on imaging results to diagnose brainstem lesions gives rise to a
+nonnegligible misdiagnosis rate, ranging from 10% to 20%.<sup><xref rid="bibr7-10732748211059858" ref-type="bibr">7</xref><xref rid="bibr8-10732748211059858" ref-type="bibr"/><xref rid="bibr9-10732748211059858" ref-type="bibr"/><xref rid="bibr10-10732748211059858" ref-type="bibr"/>-<xref rid="bibr11-10732748211059858" ref-type="bibr">11</xref></sup> With the popularity of
+molecularly targeted therapy for cancers, the selection of well-matched targeted
+agents is dependent on the biologically diagnostic outcome of tumor samples;
+additionally, the demonstrations of different molecular phenotypes of brainstem
+tumors require a high level of histological diagnosis for space-occupying lesions.
+Accurate tissue diagnosis may alter the subsequent treatment intervention and
+prognosis. However, correct surgical algorithms, appropriate biopsy techniques, and
+adequate sample acquisition affect the diagnostic yield and safety of brainstem
+stereotactic biopsy. Involving recently published literature spanning more than
+3 decades, our meta-analysis confirms a maximal diagnostic yield plus the minimal
+morbidity and mortality of brainstem stereotactic biopsy. These optimistic results
+can obviate the concerns of most neurosurgical teams who consider brainstem
+stereotactic biopsy to be detrimental to patients and support the successful
+histologic diagnosis of brainstem lesions.</p><p>Some clinical studies have revealed the reliability of brainstem stereotactic biopsy
+for brainstem lesions, with a diagnostic yield of 81.8–100.0%.<sup><xref rid="bibr17-10732748211059858" ref-type="bibr">17</xref>,<xref rid="bibr34-10732748211059858" ref-type="bibr">34</xref>,<xref rid="bibr35-10732748211059858" ref-type="bibr">35</xref></sup> The weighted
+average diagnostic yield of brainstem stereotactic biopsy for brainstem lesions is
+97%, which mirrors the outcomes of the 2 aforementioned meta-analyses.<sup><xref rid="bibr20-10732748211059858" ref-type="bibr">20</xref>,<xref rid="bibr21-10732748211059858" ref-type="bibr">21</xref></sup> Brainstem
+stereotactic biopsy combined with other techniques yields the achievement of tissue
+samples from children and adults for histopathologic diagnosis. Multiple studies
+have suggested that the diagnostic yield of brainstem stereotactic biopsy with CT
+guidance is 90.4–100.0%<sup><xref rid="bibr16-10732748211059858" ref-type="bibr">16</xref>,<xref rid="bibr42-10732748211059858" ref-type="bibr">42</xref></sup> and that with MRI guidance is 84.6–100.0%.<sup><xref rid="bibr37-10732748211059858" ref-type="bibr">37</xref>,<xref rid="bibr46-10732748211059858" ref-type="bibr">46</xref></sup> Furthermore,
+according to different patient cohorts, other studies noted that the diagnostic
+yields of brainstem stereotactic biopsy in the pediatric and adult patient
+populations were 84.6–100.0%<sup><xref rid="bibr28-10732748211059858" ref-type="bibr">28</xref>,<xref rid="bibr37-10732748211059858" ref-type="bibr">37</xref></sup> and 80.0–100.0%,<sup><xref rid="bibr49-10732748211059858" ref-type="bibr">49</xref>,<xref rid="bibr55-10732748211059858" ref-type="bibr">55</xref></sup> respectively.
+The present subgroup analysis signifies a nearly identical diagnostic yield between
+CT-guided and MRI-guided stereotactic biopsy and a 1.6% increment in the weighted
+average diagnostic yield in the pediatric patient population compared to the adult
+patient population. Our findings suggest that brainstem stereotactic biopsy to
+definitively diagnose brainstem lesions is somewhat more effective in children than
+in adults.</p><p>Brainstem stereotactic biopsy is safe for the diagnosis of brainstem lesions, with a
+low proportion of temporary complications (e.g., facioplegia, facial pain, changes
+in blood pressure and heart rate, and breathing difficulty).<sup><xref rid="bibr26-10732748211059858" ref-type="bibr">26</xref>,<xref rid="bibr36-10732748211059858" ref-type="bibr">36</xref>,<xref rid="bibr56-10732748211059858" ref-type="bibr">56</xref></sup> Our study
+reaffirms the safety of this procedure in that the weighted average proportion of
+temporary complications is 6.2%. The diverse guided techniques and different
+analyzed patient cohorts may slightly influence the safety of brainstem stereotactic
+biopsy. In our subgroup analysis, the imaging technique using MRI guidance manifests
+a 1.9% higher proportion of the weighted average temporary complications than that
+using CT guidance, and the adult patient population has a 1.7% higher proportion
+than the pediatric patient population. Notably, the heterogeneity test of the
+subgroup analyses of the CT-guided technique, MRI-guided technique, and the adult
+patient population shows moderate to substantial heterogeneity.</p><p>A lower proportion of permanent deficits (i.e., nonself-limiting damage) than
+temporary complications occur after the procedure.<sup><xref rid="bibr14-10732748211059858" ref-type="bibr">14</xref>,<xref rid="bibr28-10732748211059858" ref-type="bibr">28</xref>,<xref rid="bibr34-10732748211059858" ref-type="bibr">34</xref></sup> The weighted average
+proportion of permanent deficits was .5% in the present meta-analysis. The subgroup
+analysis indicates the similarity of weighted average proportion between the
+pediatric patient population and the adult patient population but an increased
+proportion in MRI-guided techniques compared to CT-guided techniques. It is worth
+mentioning the substantial heterogeneity across all studies included in the subgroup
+analysis of MRI-guided techniques, which is attributed to the study of Dellaretti et al<sup>
+<xref rid="bibr4-10732748211059858" ref-type="bibr">4</xref>
+</sup> that documents the occurrence of permanent deficits in 13 of 123 included
+patients.</p><p>Successful and safe brainstem stereotactic biopsy demands a set of optimal
+infrastructures, a highly standardized surgical workflow, and an experienced biopsy neurosurgeon.<sup>
+<xref rid="bibr41-10732748211059858" ref-type="bibr">41</xref>
+</sup> Nevertheless, procedure-induced mortality is a nonnegligible issue. Indeed,
+our work demonstrates a very low weighted average proportion of deaths that is
+merely .3%. The subgroup analysis shows that biopsy with MRI guidance is likely to
+have larger mortality than biopsy with CT guidance, and biopsy in the adult patient
+population seems to be more detrimental than biopsy in the pediatric patient
+population. There may be several reasons why CT-guided biopsy would
+counterintuitively have lower mortality rates than MRI-guided biopsy. First,
+CT-guided biopsy may involve larger lesions that do not require MRI and thus are
+easier to biopsy. Additionally, the CT-guided technique may involve an older series
+and be more likely to employ framed navigation because frameless navigation is
+unavailable. Nevertheless, histopathologic biopsy can result in an unequivocal
+diagnosis and assist in the selection of suitable targeted therapy, indicating that
+brainstem stereotactic biopsy may optimize the prognosis of patients.</p><p>The importance of framed navigation and biopsy trajectories influencing the
+diagnostic yield, complications, and mortality cannot be overlooked. Jaradat et al<sup>
+<xref rid="bibr57-10732748211059858" ref-type="bibr">57</xref>
+</sup> recommended that a supratentorial transfrontal approach was indicated for
+lesions in the midbrain, upper pons, and medulla oblongata, and an infratentorial
+transcerebellar approach was suitable for lesions within the lower pons. In
+contrast, a study by Mathon and coworkers<sup>
+<xref rid="bibr58-10732748211059858" ref-type="bibr">58</xref>
+</sup> highlighted a greater complication rate in the supratentorial transfrontal
+approach than in the infratentorial transcerebellar approach. In light of this, they
+proposed that only midbrain lesions should be used for biopsy with a supratentorial
+transfrontal approach, whereas lesions located within other parts could be safely
+attained by an infratentorial transcerebellar approach. The diagnostic accuracy and
+safety may vary from the supratentorial transfrontal approach to the infratentorial
+transcerebellar approach and from framed navigation to frameless navigation.
+However, because of the low number of studies with small sample sizes of
+participants on frameless navigation, transfrontal approach, and transtentorial
+approach (<xref rid="table4-10732748211059858" ref-type="table">Table A1</xref> in
+<xref rid="app1-10732748211059858" ref-type="app">Appendix 1</xref><italic toggle="yes">,
+Page 1</italic>), the diagnostic yield and safety within these subgroups were
+not available for pooling in our meta-analysis.</p><p>Collectively, brainstem stereotactic biopsy is a safe and accurate procedure.
+CT-guided biopsy has a similar diagnostic yield but low morbidity and mortality to
+MRI-guided biopsy. The diagnostic accuracy and safety of this procedure are improved
+in the pediatric patient population compared to the adult patient population. Since
+the subgroup of 1 single guided technique involves different patient cohorts and
+vice versa, heterogeneity occurs. Thus, future clinical trials need to validate our
+findings by comparing the diagnostic yield and safety of CT guidance to that of MRI
+guidance in the same patient setting and also comparing them in the pediatric
+patient population and the adult patient population using the same biopsy
+method.</p><p>There are some limitations in this article that deserve a mention. First, the
+analyzed data in this meta-analysis were binary noncomparative variables, as no
+available methods were used to calculate the publication bias. Second, the majority
+of analyzed studies (n = 19) involved smaller sample sizes ( &lt; 30 participants),
+which might give rise to important selection bias. Third, the majority of included
+studies were performed retrospectively, which indicated other biases due to the data
+collection and subject selection. More importantly, since there were limited numbers
+of publications included in the subgroup analyses, the data did not allow us to
+conduct further subgroup analyses according to different patient cohorts with the
+same combined assistant technique or distinct guided techniques with the same
+patient cohort.</p></sec><sec sec-type="conclusions" id="sec17-10732748211059858"><title>Conclusions</title><p>Brainstem stereotactic biopsy is an accurate and safe procedure for the diagnosis of
+brainstem lesions. Alterations in assistant techniques and/or patient populations
+slightly modify the optimal diagnostic yield and safety. Biopsies targeting the
+brainstem, as a critical function-related structure, may be associated with higher
+functional complications or mortality. Our findings may help guide treatment options
+by elucidating the benefits and risks commonly encountered in neurosurgical practice
+when performing stereotactic brainstem biopsies.</p></sec></body><back><fn-group><fn fn-type="presented-by"><p><bold>Authors’ Contributions:</bold> LH, Writing manuscript, Statistical analysis DH, Writing manuscript; Data
+collection YQ, Writing manuscript, Supervision JZ, Table drawing CY, Figure
+drawing HC, Validity QW, Supervision GL, Data collection QS,
+Conception/DesignFinal approval of manuscript. All authors reviewed and approved
+the manuscript prior to submission.</p></fn><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold> The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) received no financial support for the research, authorship, and/or
+publication of this article.</p></fn></fn-group><sec id="sec18-10732748211059858"><title>ORCID iD</title><p>Lin He <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-7390-1702" ext-link-type="uri">https://orcid.org/0000-0002-7390-1702</ext-link></p></sec><ref-list><title>References</title><ref id="bibr1-10732748211059858"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Birski</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Furtak</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Krystkiewicz</surname><given-names>K</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Endoscopic versus stereotactic biopsies of intracranial lesions
+involving the ventricles</article-title>. <source>Neurosurg Rev</source>.
+<year>2021</year>;<volume>44</volume>:<fpage>1721</fpage>-<lpage>1727</lpage>.<pub-id pub-id-type="pmid">32827050</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10143-020-01371-7</pub-id><pub-id pub-id-type="pmcid">PMC8121744</pub-id></mixed-citation></ref><ref id="bibr2-10732748211059858"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gleason</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Wise</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Feinstein</surname><given-names>B</given-names></name>
+</person-group>. <article-title>Stereotactic localization (with computerized
+tomographic scanning), biopsy, and radiofrequency treatment of deep brain
+lesions</article-title>. <source>Neurosurgery</source>.
+<year>1978</year>;<volume>2</volume>:<fpage>217</fpage>-<lpage>222</lpage>.<pub-id pub-id-type="pmid">215935</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1227/00006123-197805000-00006</pub-id></mixed-citation></ref><ref id="bibr3-10732748211059858"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Pereira</surname><given-names>EAC</given-names></name>
+<name name-style="western"><surname>Jegan</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Green</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Aziz</surname><given-names>TZ</given-names></name>
+</person-group>. <article-title>Awake stereotactic brainstem biopsy via a
+contralateral, transfrontal, transventricular approach</article-title>.
+<source>Br J Neurosurg</source>.
+<year>2008</year>;<volume>22</volume>:<fpage>599</fpage>-<lpage>601</lpage>.<pub-id pub-id-type="pmid">18686061</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/02688690802220387</pub-id></mixed-citation></ref><ref id="bibr4-10732748211059858"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dellaretti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Reyns</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Touzet</surname><given-names>G</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Stereotactic biopsy for brainstem tumors: comparison of
+transcerebellar with transfrontal approach</article-title>.
+<source>Stereotact Funct Neurosurg</source>.
+<year>2012</year>;<volume>90</volume>:<fpage>79</fpage>-<lpage>83</lpage>.<pub-id pub-id-type="pmid">22286495</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000335502</pub-id></mixed-citation></ref><ref id="bibr5-10732748211059858"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Amundson</surname><given-names>EW</given-names></name>
+<name name-style="western"><surname>McGirt</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Olivi</surname><given-names>A</given-names></name>
+</person-group>. <article-title>A contralateral, transfrontal, extraventricular
+approach to stereotactic brainstem biopsy procedures</article-title>.
+<source>J Neurosurg</source>.
+<year>2005</year>;<volume>102</volume>:<fpage>565</fpage>-<lpage>570</lpage>.<pub-id pub-id-type="pmid">15796398</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3171/jns.2005.102.3.0565</pub-id></mixed-citation></ref><ref id="bibr6-10732748211059858"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Albright</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Packer</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Zimmerman</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Rorke</surname><given-names>LB</given-names></name>
+<name name-style="western"><surname>Boyett</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hammond</surname><given-names>GD</given-names></name>
+</person-group>. <article-title>Magnetic resonance scans should replace biopsies
+for the diagnosis of diffuse brain stem gliomas</article-title>.
+<source>Neurosurgery</source>.
+<year>1993</year>;<volume>33</volume>:<fpage>1026</fpage>-<lpage>1030</lpage>.
+<comment>discussion 1029-1030</comment>.<pub-id pub-id-type="pmid">8133987</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1227/00006123-199312000-00010</pub-id></mixed-citation></ref><ref id="bibr7-10732748211059858"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Abernathey</surname><given-names>CD</given-names></name>
+<name name-style="western"><surname>Camacho</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kelly</surname><given-names>PJ</given-names></name>
+</person-group>. <article-title>Stereotaxic suboccipital transcerebellar biopsy
+of pontine mass lesions</article-title>. <source>J Neurosurg</source>.
+<year>1989</year>;<volume>70</volume>:<fpage>195</fpage>-<lpage>200</lpage>.<pub-id pub-id-type="pmid">2643686</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3171/jns.1989.70.2.0195</pub-id></mixed-citation></ref><ref id="bibr8-10732748211059858"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Coffey</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lunsford</surname><given-names>DL</given-names></name>
+</person-group>. <article-title>Stereotactic surgery for mass lesions of the
+midbrain and pons</article-title>. <source>Neurosurgery</source>.
+<year>1985</year>;<volume>17</volume>:<fpage>12</fpage>-<lpage>18</lpage>.<pub-id pub-id-type="pmid">3895028</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1227/00006123-198507000-00003</pub-id></mixed-citation></ref><ref id="bibr9-10732748211059858"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Coffey</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lunsford</surname><given-names>LD</given-names></name>
+</person-group>. <article-title>Diagnosis and treatment of brainstem mass
+lesions by CT-guided stereotactic surgery</article-title>.
+<source>Stereotact Funct Neurosurg</source>.
+<year>1985</year>;<volume>48</volume>:<fpage>467</fpage>-<lpage>471</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000101180</pub-id><pub-id pub-id-type="pmid">3915668</pub-id></mixed-citation></ref><ref id="bibr10-10732748211059858"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Franzini</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Allegranza</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Melcarne</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Giorgi</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ferraresi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Broggi</surname><given-names>G</given-names></name>
+</person-group>. <article-title>Serial stereotactic biopsy of brain stem
+expanding lesions. Considerations on 45 consecutive cases</article-title>.
+<source>Acta Neurochir Suppl (Wien)</source>.
+<year>1988</year>;<volume>42</volume>:<fpage>170</fpage>-<lpage>176</lpage>.<pub-id pub-id-type="pmid">3055827</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-3-7091-8975-7_34</pub-id></mixed-citation></ref><ref id="bibr11-10732748211059858"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Giunta</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Marini</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Grasso</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Zorzi</surname><given-names>F</given-names></name>
+</person-group>. <article-title>Brain stem expansive lesions: stereotactic
+biopsy for a better therapeutic approach</article-title>. <source>Acta
+Neurochir Suppl (Wien)</source>.
+<year>1988</year>;<volume>42</volume>:<fpage>182</fpage>-<lpage>186</lpage>.<pub-id pub-id-type="pmid">3055829</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-3-7091-8975-7_36</pub-id></mixed-citation></ref><ref id="bibr12-10732748211059858"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jansen</surname><given-names>MHA</given-names></name>
+<name name-style="western"><surname>van Vuurden</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Vandertop</surname><given-names>WP</given-names></name>
+<name name-style="western"><surname>Kaspers</surname><given-names>GJL</given-names></name>
+</person-group>. <article-title>Diffuse intrinsic pontine gliomas: a systematic
+update on clinical trials and biology</article-title>. <source>Cancer Treat
+Rev</source>.
+<year>2012</year>;<volume>38</volume>:<fpage>27</fpage>-<lpage>35</lpage>.<pub-id pub-id-type="pmid">21764221</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ctrv.2011.06.007</pub-id></mixed-citation></ref><ref id="bibr13-10732748211059858"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Pincus</surname><given-names>DW</given-names></name>
+<name name-style="western"><surname>Richter</surname><given-names>EO</given-names></name>
+<name name-style="western"><surname>Yachnis</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>Bennett</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bhatti</surname><given-names>MT</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>A</given-names></name>
+</person-group>. <article-title>Brainstem stereotactic biopsy sampling in
+children</article-title>. <source>J Neurosurg Pediatr</source>.
+<year>2006</year>;<volume>104</volume>:<fpage>108</fpage>-<lpage>114</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3171/ped.2006.104.2.108</pub-id><pub-id pub-id-type="pmid">16506498</pub-id></mixed-citation></ref><ref id="bibr14-10732748211059858"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dellaretti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Câmara</surname><given-names>BBA</given-names></name>
+<name name-style="western"><surname>Ferreira</surname><given-names>PHPB</given-names></name>
+<name name-style="western"><surname>da Silva Júnior</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Arantes</surname><given-names>RME</given-names></name>
+</person-group>. <article-title>Impact of histological diagnosis on the
+treatment of atypical brainstem lesions</article-title>. <source>Sci
+Rep</source>.
+<year>2020</year>;<volume>10</volume>:<fpage>11065</fpage>.<pub-id pub-id-type="pmid">32632139</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-020-68063-6</pub-id><pub-id pub-id-type="pmcid">PMC7338439</pub-id></mixed-citation></ref><ref id="bibr15-10732748211059858"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Buczkowicz</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Hoeman</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Rakopoulos</surname><given-names>P</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Genomic analysis of diffuse intrinsic pontine gliomas identifies
+three molecular subgroups and recurrent activating ACVR1
+mutations</article-title>. <source>Nat Genet</source>.
+<year>2014</year>;<volume>46</volume>:<fpage>451</fpage>-<lpage>456</lpage>.<pub-id pub-id-type="pmid">24705254</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.2936</pub-id><pub-id pub-id-type="pmcid">PMC3997489</pub-id></mixed-citation></ref><ref id="bibr16-10732748211059858"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lara-Almunia</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hernandez-Vicente</surname><given-names>J</given-names></name>
+</person-group>. <article-title>Frame-based stereotactic biopsy: description and
+association of anatomical, radiologic, and surgical variables with
+diagnostic yield in a series of 407 cases</article-title>. <source>J Neurol
+Surg Cent Eur Neurosurg</source>.
+<year>2019</year>;<volume>80</volume>:<fpage>149</fpage>-<lpage>161</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-0038-1676597</pub-id><pub-id pub-id-type="pmid">30654404</pub-id></mixed-citation></ref><ref id="bibr17-10732748211059858"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Akay</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Işlekel</surname><given-names>S</given-names></name>
+</person-group>. <article-title>MRI-guided frame-based stereotactic brainstem
+biopsy procedure: a single-center experience</article-title>.
+<source>Neurocirugía</source>.
+<year>2019</year>;<volume>30</volume>:<fpage>167</fpage>-<lpage>172</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neucir.2019.03.001</pub-id><pub-id pub-id-type="pmid">31000332</pub-id></mixed-citation></ref><ref id="bibr18-10732748211059858"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Pirotte</surname><given-names>BJM</given-names></name>
+<name name-style="western"><surname>Lubansu</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Massager</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Wikler</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Goldman</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Levivier</surname><given-names>M</given-names></name>
+</person-group>. <article-title>Results of positron emission tomography guidance
+and reassessment of the utility of and indications for stereotactic biopsy
+in children with infiltrative brainstem tumors</article-title>. <source>J
+Neurosurg Pediatr</source>.
+<year>2007</year>;<volume>107</volume>:<fpage>392</fpage>-<lpage>399</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3171/PED-07/11/392</pub-id><pub-id pub-id-type="pmid">18459902</pub-id></mixed-citation></ref><ref id="bibr19-10732748211059858"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gupta</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Santiago-Dieppa</surname><given-names>DR</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Robot-assisted stereotactic biopsy of pediatric brainstem and
+thalamic lesions</article-title>. <source>J Neurosurg Pediatr</source>.
+<year>2020</year>;<volume>25</volume>:<fpage>1</fpage>-<lpage>8</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3171/2020.7.PEDS20373</pub-id><pub-id pub-id-type="pmid">33361479</pub-id></mixed-citation></ref><ref id="bibr20-10732748211059858"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hamisch</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kickingereder</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Fischer</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Simon</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ruge</surname><given-names>MI</given-names></name>
+</person-group>. <article-title>Update on the diagnostic value and safety of
+stereotactic biopsy for pediatric brainstem tumors: a systematic review and
+meta-analysis of 735 cases</article-title>. <source>J Neurosurg
+Pediatr</source>.
+<year>2017</year>;<volume>20</volume>:<fpage>261</fpage>-<lpage>268</lpage>.<pub-id pub-id-type="pmid">28621573</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3171/2017.2.PEDS1665</pub-id></mixed-citation></ref><ref id="bibr21-10732748211059858"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kickingereder</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Willeit</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Simon</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ruge</surname><given-names>MI</given-names></name>
+</person-group>. <article-title>Diagnostic value and safety of stereotactic
+biopsy for brainstem tumors: a systematic review and meta-analysis of 1480
+cases</article-title>. <source>Neurosurgery</source>.
+<year>2013</year>;<volume>72</volume>:<fpage>873</fpage>-<lpage>882</lpage>.
+<comment>discussion 882; quiz 882</comment>.<pub-id pub-id-type="pmid">23426149</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1227/NEU.0b013e31828bf445</pub-id></mixed-citation></ref><ref id="bibr22-10732748211059858"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liberati</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Altman</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Tetzlaff</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>The PRISMA statement for reporting systematic reviews and
+meta-analyses of studies that evaluate health care interventions:
+explanation and elaboration</article-title>. <source>PLoS Med</source>.
+<year>2009</year>;<volume>6</volume>:<fpage>e1000100</fpage>.<pub-id pub-id-type="pmid">19621070</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pmed.1000100</pub-id><pub-id pub-id-type="pmcid">PMC2707010</pub-id></mixed-citation></ref><ref id="bibr23-10732748211059858"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>McInnes</surname><given-names>MDF</given-names></name>
+<name name-style="western"><surname>Moher</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Thombs</surname><given-names>BD</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Preferred reporting items for a systematic review and
+meta-analysis of diagnostic test accuracy studies</article-title>.
+<source>Jama</source>.
+<year>2018</year>;<volume>319</volume>:<fpage>388</fpage>-<lpage>396</lpage>.<pub-id pub-id-type="pmid">29362800</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2017.19163</pub-id></mixed-citation></ref><ref id="bibr24-10732748211059858"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liang</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>C</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Hyaluronic acid/hyaluronidase as biomarkers for bladder cancer: a
+diagnostic meta-analysis</article-title>. <source>Neoplasma</source>.
+<year>2017</year>;<volume>64</volume>:<fpage>901</fpage>-<lpage>908</lpage>.<pub-id pub-id-type="pmid">28895415</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4149/neo_2017_612</pub-id></mixed-citation></ref><ref id="bibr25-10732748211059858"><label>25</label><mixed-citation publication-type="book"><person-group person-group-type="author">
+<name name-style="western"><surname>Sutton</surname><given-names>AJAK</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>DR</given-names></name>
+</person-group>. <article-title>Methods for meta analysis in medical
+research</article-title>. In: <source>Wiley series in probability and
+statistics-applied probability and statistics section</source>.
+<publisher-loc>Hoboken</publisher-loc>:
+<publisher-name>Wiley</publisher-name>; <year>2000</year>.</mixed-citation></ref><ref id="bibr26-10732748211059858"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bahrami</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Parvaresh</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bahrami</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fattahi</surname><given-names>A</given-names></name>
+</person-group>. <article-title>An experience with frame-based stereotactic
+biopsy of posterior fossa lesions via transcerebellar route</article-title>.
+<source>World Neurosurgery</source>.
+<year>2020</year>;<volume>136</volume>:<fpage>e380</fpage>-<lpage>e385</lpage>.<pub-id pub-id-type="pmid">31931238</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.wneu.2020.01.003</pub-id></mixed-citation></ref><ref id="bibr27-10732748211059858"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Shad</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Green</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bojanic</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Aziz</surname><given-names>T</given-names></name>
+</person-group>. <article-title>Awake stereotactic biopsy of brain stem lesions:
+technique and results</article-title>. <source>Acta Neurochir</source>.
+<year>2005</year>;<volume>147</volume>:<fpage>47</fpage>-<lpage>50</lpage>.
+<comment>discussion 49-50</comment>.<pub-id pub-id-type="pmid">15570435</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00701-004-0420-3</pub-id></mixed-citation></ref><ref id="bibr28-10732748211059858"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Puget</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Beccaria</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Blauwblomme</surname><given-names>T</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Biopsy in a series of 130 pediatric diffuse intrinsic pontine
+gliomas</article-title>. <source>Child’s Nerv Syst</source>.
+<year>2015</year>;<volume>31</volume>:<fpage>1773</fpage>-<lpage>1780</lpage>.<pub-id pub-id-type="pmid">26351229</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00381-015-2832-1</pub-id></mixed-citation></ref><ref id="bibr29-10732748211059858"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Cheng</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>H</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Complications of stereotactic biopsy of lesions in the sellar
+region, pineal gland, and brainstem</article-title>.
+<source>Medicine</source>.
+<year>2020</year>;<volume>99</volume>:<fpage>e18572</fpage>.<pub-id pub-id-type="pmid">32080071</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MD.0000000000018572</pub-id><pub-id pub-id-type="pmcid">PMC7034708</pub-id></mixed-citation></ref><ref id="bibr30-10732748211059858"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dellaretti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Touzet</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Reyns</surname><given-names>N</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Correlation among magnetic resonance imaging findings, prognostic
+factors for survival, and histological diagnosis of intrinsic brainstem
+lesions in children</article-title>. <source>J Neurosurg Pediatr</source>.
+<year>2011</year>;<volume>8</volume>:<fpage>539</fpage>-<lpage>543</lpage>.<pub-id pub-id-type="pmid">22132909</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3171/2011.9.PEDS1167</pub-id></mixed-citation></ref><ref id="bibr31-10732748211059858"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dellaretti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Touzet</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Reyns</surname><given-names>N</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Correlation between magnetic resonance imaging findings and
+histological diagnosis of intrinsic brainstem lesions in
+adults</article-title>. <source>Neuro Oncol</source>.
+<year>2012</year>;<volume>14</volume>:<fpage>381</fpage>-<lpage>385</lpage>.<pub-id pub-id-type="pmid">22223289</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/neuonc/nor215</pub-id><pub-id pub-id-type="pmcid">PMC3280800</pub-id></mixed-citation></ref><ref id="bibr32-10732748211059858"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Cartmill</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Punt</surname><given-names>J</given-names></name>
+</person-group>. <article-title>Diffuse brain stem glioma. A review of
+stereotactic biopsies</article-title>. <source>Child’s Nerv Syst : ChNS :
+official journal of the International Society for Pediatric
+Neurosurgery</source>.
+<year>1999</year>;<volume>15</volume>:<fpage>235</fpage>-<lpage>238</lpage>.
+<comment>discussion 238</comment>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s003810050379</pub-id><pub-id pub-id-type="pmid">10392494</pub-id></mixed-citation></ref><ref id="bibr33-10732748211059858"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>ZJ</given-names></name>
+<name name-style="western"><surname>Rao</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bhambhani</surname><given-names>K</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Diffuse intrinsic pontine glioma biopsy: a single institution
+experience</article-title>. <source>Pediatr Blood Cancer</source>.
+<year>2015</year>;<volume>62</volume>:<fpage>163</fpage>-<lpage>165</lpage>.<pub-id pub-id-type="pmid">25263768</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pbc.25224</pub-id></mixed-citation></ref><ref id="bibr34-10732748211059858"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hamisch</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Minartz</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Blau</surname><given-names>T</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Frame-based stereotactic biopsy of deep-seated and midline
+structures in 511 procedures: feasibility, risk profile, and diagnostic
+yield</article-title>. <source>Acta Neurochir</source>.
+<year>2019</year>;<volume>161</volume>:<fpage>2065</fpage>-<lpage>2071</lpage>.<pub-id pub-id-type="pmid">31359191</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00701-019-04020-1</pub-id></mixed-citation></ref><ref id="bibr35-10732748211059858"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ryken</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Hitchon</surname><given-names>PW</given-names></name>
+<name name-style="western"><surname>Roach</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Traynelis</surname><given-names>VC</given-names></name>
+</person-group>. <article-title>Infratentorial stereotactic
+biopsy</article-title>. <source>Stereotact Funct Neurosurg</source>.
+<year>1992</year>;<volume>59</volume>:<fpage>111</fpage>-<lpage>114</lpage>.<pub-id pub-id-type="pmid">1295028</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000098926</pub-id></mixed-citation></ref><ref id="bibr36-10732748211059858"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Puget</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Blauwblomme</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Grill</surname><given-names>J</given-names></name>
+</person-group>. <article-title>Is biopsy safe in children with newly diagnosed
+diffuse intrinsic pontine glioma?</article-title>
+<source>American Society of Clinical Oncology Educational Book</source>.
+<year>2012</year>;<volume>32</volume>:<fpage>629</fpage>-<lpage>633</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.14694/EdBook_AM.2012.32.59</pub-id><pub-id pub-id-type="pmid">24451809</pub-id></mixed-citation></ref><ref id="bibr37-10732748211059858"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Morais</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Solla</surname><given-names>DJF</given-names></name>
+<name name-style="western"><surname>Matushita</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Teixeira</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Monaco</surname><given-names>BA</given-names></name>
+</person-group>. <article-title>Pediatric intrinsic brainstem lesions: clinical,
+imaging, histological characterization, and predictors of
+survival</article-title>. <source>Child’s Nerv Syst</source>.
+<year>2020</year>;<volume>36</volume>:<fpage>933</fpage>-<lpage>939</lpage>.<pub-id pub-id-type="pmid">31836906</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00381-019-04453-0</pub-id></mixed-citation></ref><ref id="bibr38-10732748211059858"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gupta</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Goumnerova</surname><given-names>LC</given-names></name>
+<name name-style="western"><surname>Manley</surname><given-names>P</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Prospective feasibility and safety assessment of surgical biopsy
+for patients with newly diagnosed diffuse intrinsic pontine
+glioma</article-title>. <source>Neuro Oncol</source>.
+<year>2018</year>;<volume>20</volume>:<fpage>1547</fpage>-<lpage>1555</lpage>.<pub-id pub-id-type="pmid">29741745</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/neuonc/noy070</pub-id><pub-id pub-id-type="pmcid">PMC6176802</pub-id></mixed-citation></ref><ref id="bibr39-10732748211059858"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kondziolka</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Lunsford</surname><given-names>LD</given-names></name>
+</person-group>. <article-title>Results and expectations with image-integrated
+brainstem stereotactic biopsy</article-title>. <source>Surg Neurol</source>.
+<year>1995</year>;<volume>43</volume>:<fpage>558</fpage>-<lpage>562</lpage>.<pub-id pub-id-type="pmid">7482234</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0090-3019(95)00009-7</pub-id></mixed-citation></ref><ref id="bibr40-10732748211059858"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dawes</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Marcus</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Tisdall</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Aquilina</surname><given-names>K</given-names></name>
+</person-group>. <article-title>Robot-assisted stereotactic brainstem biopsy in
+children: prospective cohort study</article-title>. <source>Journal of
+Robotic Surgery</source>.
+<year>2019</year>;<volume>13</volume>:<fpage>575</fpage>-<lpage>579</lpage>.<pub-id pub-id-type="pmid">30523502</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11701-018-0899-x</pub-id><pub-id pub-id-type="pmcid">PMC6647535</pub-id></mixed-citation></ref><ref id="bibr41-10732748211059858"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Rachinger</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Grau</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Holtmannspötter</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Herms</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Tonn</surname><given-names>J-C</given-names></name>
+<name name-style="western"><surname>Kreth</surname><given-names>FW</given-names></name>
+</person-group>. <article-title>Serial stereotactic biopsy of brainstem lesions
+in adults improves diagnostic accuracy compared with MRI
+only</article-title>. <source>J Neurol Neurosurg Psychiatr</source>.
+<year>2009</year>;<volume>80</volume>:<fpage>1134</fpage>-<lpage>1139</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jnnp.2009.174250</pub-id><pub-id pub-id-type="pmid">19520698</pub-id></mixed-citation></ref><ref id="bibr42-10732748211059858"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Rajshekhar</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Moorthy</surname><given-names>RK</given-names></name>
+</person-group>. <article-title>Status of stereotactic biopsy in children with
+brain stem masses: insights from a series of 106 patients</article-title>.
+<source>Stereotact Funct Neurosurg</source>.
+<year>2010</year>;<volume>88</volume>:<fpage>360</fpage>-<lpage>366</lpage>.<pub-id pub-id-type="pmid">20861659</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000319044</pub-id></mixed-citation></ref><ref id="bibr43-10732748211059858"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gonçalves-Ferreira</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Herculano-Carvalho</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pimentel</surname><given-names>J</given-names></name>
+</person-group>. <article-title>Stereotactic biopsies of focal brainstem
+lesions</article-title>. <source>Surg Neurol</source>.
+<year>2003</year>;<volume>60</volume>:<fpage>311</fpage>-<lpage>320</lpage>.
+<comment>discussion 320</comment>.<pub-id pub-id-type="pmid">14505847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0090-3019(03)00379-3</pub-id></mixed-citation></ref><ref id="bibr44-10732748211059858"><label>44</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Valdés-Gorcía</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Espinoza-Díaz</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Paredes-Díaz</surname><given-names>E</given-names></name>
+</person-group>. <article-title>Stereotactic biopsy of brain stem and posterior
+fossa lesions in children</article-title>. <source>Acta Neurochir</source>.
+<year>1998</year>;<volume>140</volume>:<fpage>899</fpage>-<lpage>903</lpage>.<pub-id pub-id-type="pmid">9842426</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s007010050191</pub-id></mixed-citation></ref><ref id="bibr45-10732748211059858"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Samadani</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Stein</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Moonis</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Sonnad</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Bonura</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Judy</surname><given-names>KD</given-names></name>
+</person-group>. <article-title>Stereotactic biopsy of brain stem masses:
+Decision analysis and literature review</article-title>. <source>Surg
+Neurol</source>.
+<year>2006</year>;<volume>66</volume>:<fpage>484</fpage>-<lpage>490</lpage>.
+<comment>discussion 491</comment>.<pub-id pub-id-type="pmid">17084194</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.surneu.2006.05.056</pub-id></mixed-citation></ref><ref id="bibr46-10732748211059858"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Quick-Weller</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lescher</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bruder</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Stereotactic biopsy of brainstem lesions: 21 years experiences of
+a single center</article-title>. <source>J Neuro Oncol</source>.
+<year>2016</year>;<volume>129</volume>:<fpage>243</fpage>-<lpage>250</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11060-016-2166-1</pub-id><pub-id pub-id-type="pmid">27291894</pub-id></mixed-citation></ref><ref id="bibr47-10732748211059858"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Manoj</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Arivazhagan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bhat</surname><given-names>DI</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Stereotactic biopsy of brainstem lesions: techniques, efficacy,
+safety, and disease variation between adults and children: a single
+institutional series and review</article-title>. <source>J Neurosci Rural
+Pract</source>.
+<year>2014</year>;<volume>5</volume>:<fpage>32</fpage>-<lpage>39</lpage>.<pub-id pub-id-type="pmid">24741247</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/0976-3147.127869</pub-id><pub-id pub-id-type="pmcid">PMC3985354</pub-id></mixed-citation></ref><ref id="bibr48-10732748211059858"><label>48</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Steck</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Friedman</surname><given-names>WA</given-names></name>
+</person-group>. <article-title>Stereotactic biopsy of brainstem mass
+lesions</article-title>. <source>Surg Neurol</source>.
+<year>1995</year>;<volume>43</volume>:<fpage>563</fpage>-<lpage>568</lpage>.
+<comment>discussion 567-568</comment>.<pub-id pub-id-type="pmid">7482235</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0090-3019(95)00156-5</pub-id></mixed-citation></ref><ref id="bibr49-10732748211059858"><label>49</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Haegelen</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Touzet</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Reyns</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Maurage</surname><given-names>C-A</given-names></name>
+<name name-style="western"><surname>Ayachi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Blond</surname><given-names>S</given-names></name>
+</person-group>. <article-title>Stereotactic robot-guided biopsies of brain stem
+lesions: Experience with 15 cases</article-title>.
+<source>Neurochirurgie</source>.
+<year>2010</year>;<volume>56</volume>:<fpage>363</fpage>-<lpage>367</lpage>.<pub-id pub-id-type="pmid">20728907</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuchi.2010.05.006</pub-id></mixed-citation></ref><ref id="bibr50-10732748211059858"><label>50</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Parker</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Levesque</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Bittoun</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Doyon</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Tadie</surname><given-names>M</given-names></name>
+</person-group>. <article-title>Stereotactic transcerebellar approach to pontine
+lesions through the middle cerebellar peduncle</article-title>.
+<source>Intervent Neuroradiol</source>.
+<year>1999</year>;<volume>5</volume>:<fpage>19</fpage>-<lpage>25</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/159101999900500103</pub-id><pub-id pub-id-type="pmcid">PMC4268661</pub-id><pub-id pub-id-type="pmid">20670487</pub-id></mixed-citation></ref><ref id="bibr51-10732748211059858"><label>51</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chico-Ponce de León</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Perezpeña-Diazconti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Castro-Sierra</surname><given-names>E</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>Stereotactically-guided biopsies of brainstem
+tumors</article-title>. <source>Child’s Nerv Syst: ChNS: Official Journal of
+the International Society for Pediatric Neurosurgery</source>.
+<year>2003</year>;<volume>19</volume>:<fpage>305</fpage>-<lpage>310</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00381-003-0737-x</pub-id><pub-id pub-id-type="pmid">12732939</pub-id></mixed-citation></ref><ref id="bibr52-10732748211059858"><label>52</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hood</surname><given-names>TW</given-names></name>
+<name name-style="western"><surname>Gebarski</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>McKeever</surname><given-names>PE</given-names></name>
+<name name-style="western"><surname>Venes</surname><given-names>JL</given-names></name>
+</person-group>. <article-title>Stereotaxic biopsy of intrinsic lesions of the
+brain stem</article-title>. <source>J Neurosurg</source>.
+<year>1986</year>;<volume>65</volume>:<fpage>172</fpage>-<lpage>176</lpage>.<pub-id pub-id-type="pmid">3522821</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3171/jns.1986.65.2.0172</pub-id></mixed-citation></ref><ref id="bibr53-10732748211059858"><label>53</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mathisen</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Giunta</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Marini</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Backlund</surname><given-names>E-O</given-names></name>
+</person-group>. <article-title>Transcerebellar biopsy in the posterior fossa:
+12 years experience</article-title>. <source>Surg Neurol</source>.
+<year>1987</year>;<volume>28</volume>:<fpage>100</fpage>-<lpage>104</lpage>.<pub-id pub-id-type="pmid">3299823</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0090-3019(87)90080-2</pub-id></mixed-citation></ref><ref id="bibr54-10732748211059858"><label>54</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sanai</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Wachhorst</surname><given-names>SP</given-names></name>
+<name name-style="western"><surname>Gupta</surname><given-names>NM</given-names></name>
+<name name-style="western"><surname>McDermott</surname><given-names>MW</given-names></name>
+</person-group>. <article-title>Transcerebellar stereotactic biopsy for lesions
+of the brainstem and peduncles under local anesthesia</article-title>.
+<source>Neurosurgery</source>.
+<year>2008</year>;<volume>63</volume>:<fpage>460</fpage>-<lpage>468</lpage>.
+<comment>discussion 466-468</comment>.<pub-id pub-id-type="pmid">18812957</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1227/01.NEU.0000324731.68843.74</pub-id></mixed-citation></ref><ref id="bibr55-10732748211059858"><label>55</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Quick-Weller</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Tichy</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Harter</surname><given-names>PN</given-names></name>
+</person-group>, <etal>et al.</etal>
+<article-title>“Two is not enough” - impact of the number of tissue samples
+obtained from stereotactic brain biopsies in suspected
+glioblastoma</article-title>. <source>J Clin Neurosci</source>.
+<year>2018</year>;<volume>47</volume>:<fpage>311</fpage>-<lpage>314</lpage>.<pub-id pub-id-type="pmid">29078974</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jocn.2017.09.032</pub-id></mixed-citation></ref><ref id="bibr56-10732748211059858"><label>56</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Tian</surname><given-names>Z</given-names></name>
+</person-group>, <article-title>Impact of the number CT-guided stereotactic
+biopsy of deep brain lesions: report of 310 cases</article-title>.
+<source>Chinese Med J</source>.
+<year>1998</year>;<volume>111</volume>:<fpage>361</fpage>-<lpage>363</lpage>.<pub-id pub-id-type="pmid">10374405</pub-id></mixed-citation></ref><ref id="bibr57-10732748211059858"><label>57</label><mixed-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jaradat</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nowacki</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fichtner</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Schlaeppi</surname><given-names>J-A</given-names></name>
+<name name-style="western"><surname>Pollo</surname><given-names>C</given-names></name>
+</person-group>. <article-title>Stereotactic biopsies of brainstem lesions:
+which approach?</article-title>
+<source>Acta Neurochir</source>.
+<year>2021</year>;<volume>163</volume>:<fpage>1957</fpage>-<lpage>1964</lpage>.<pub-id pub-id-type="pmid">33538882</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00701-021-04733-2</pub-id><pub-id pub-id-type="pmcid">PMC8195881</pub-id></mixed-citation></ref><ref id="bibr58-10732748211059858"><label>58</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mathon</surname><given-names>B</given-names></name>, <name name-style="western"><surname>Malaiz¨¦</surname><given-names>H</given-names></name> and <name name-style="western"><surname>Amelot</surname><given-names>A</given-names></name></person-group>. <article-title>Psl brain-biopsy study G:
+stereotactic biopsies of brainstem lesions: dilemma on the best
+trajectory</article-title>. <source>Acta Neurochir</source>
+<year>2021</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00701-021-04924-x</pub-id><pub-id pub-id-type="pmid">34216253</pub-id></mixed-citation></ref></ref-list><app-group><app id="app1-10732748211059858"><label>Appendix 1</label><table-wrap position="anchor" id="table4-10732748211059858" orientation="portrait"><label>Table A1.</label><caption><p>Study details for different stereotactic biopsy methods.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" specific-use="table4-10732748211059858" position="float" orientation="portrait" xlink:href="10.1177_10732748211059858-table4.jpg"><?image-name 10.1177_10732748211059858-table4.jpg?><?image-size 84879?><?image-md5 7241beb52b88d528cee1136c86294c1f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1689?><?image-original-width 2081?><?image-scaled-height 562?><?image-scaled-width 693?><?image-cloudpmc-urn urn:cdn:blobs/4634/8670786/7241beb52b88/10.1177_10732748211059858-table4.jpg?><?thumb-name 10.1177_10732748211059858-table4.gif?><?thumb-size 3891?><?thumb-md5 aeaa7fb3f7f9e3258b2ffce3d1fd6e42?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 81?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4634/8670786/aeaa7fb3f7f9/10.1177_10732748211059858-table4.gif?></graphic><table frame="hsides" rules="groups"><thead valign="top"><tr><th align="left" rowspan="1" colspan="1">Classifications</th><th align="left" rowspan="1" colspan="1">Studies (N)</th><th align="left" rowspan="1" colspan="1">Event/Total (n/N)</th><th align="left" rowspan="1" colspan="1">Subgroup Analysis</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="4" rowspan="1">
+<italic toggle="yes">Diagnostic yield</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> CT-guidance</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">916/971</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> MRI-guidance</td><td align="char" char="." rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">295/311</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Frame-based navigation</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1">2444/2541</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Frameless navigation</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">13/15</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transcerebellar approach</td><td align="char" char="." rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">466/479</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transfrontal approach</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">50/53</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transtentorial approach</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">512/516</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" colspan="4" rowspan="1">
+<italic toggle="yes">Temporary complications</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> CT-guidance</td><td align="char" char="." rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">27/535</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> MRI-guidance</td><td align="char" char="." rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">36/396</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Frame-based navigation</td><td align="char" char="." rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">141/1991</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Frameless navigation</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2/15</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transcerebellar approach</td><td align="char" char="." rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">22/424</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transfrontal approach</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">4/53</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transtentorial approach</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">53/516</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" colspan="4" rowspan="1">
+<italic toggle="yes">Permanent deficits</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> CT-guidance</td><td align="char" char="." rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">1/535</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> MRI-guidance</td><td align="char" char="." rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">13/396</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Frame-based navigation</td><td align="char" char="." rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">20/1974</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Frameless navigation</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1/15</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transcerebellar approach</td><td align="char" char="." rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">1/424</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transfrontal approach</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0/53</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transtentorial approach</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2/516</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" colspan="4" rowspan="1">
+<italic toggle="yes">Deaths</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"> CT-guidance</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">5/942</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> MRI-guidance</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">3/434</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Frame-based navigation</td><td align="char" char="." rowspan="1" colspan="1">32</td><td align="left" rowspan="1" colspan="1">11/2469</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Frameless navigation</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0/15</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transcerebellar approach</td><td align="char" char="." rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">0/450</td><td align="left" rowspan="1" colspan="1">Available</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transfrontal approach</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0/53</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr><tr><td align="left" rowspan="1" colspan="1"> Transtentorial approach</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0/516</td><td align="left" rowspan="1" colspan="1">Unavailable</td></tr></tbody></table></alternatives></table-wrap></app></app-group></back></article>

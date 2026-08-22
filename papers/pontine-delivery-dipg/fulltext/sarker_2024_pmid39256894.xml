@@ -1,0 +1,533 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="feb413894" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">FEBS Open Bio</journal-id><journal-id journal-id-type="iso-abbrev">FEBS Open Bio</journal-id><journal-id journal-id-type="pmc-domain-id">2013</journal-id><journal-id journal-id-type="pmc-domain">febsopenbio</journal-id><journal-id journal-id-type="nlm-id">101580716</journal-id><journal-id journal-id-type="publisher-id">FEB4</journal-id><journal-title-group><journal-title>FEBS Open Bio</journal-title></journal-title-group><issn pub-type="epub">2211-5463</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11532971</article-id><article-id pub-id-type="pmcid-ver">PMC11532971.1</article-id><article-id pub-id-type="pmcaid">11532971</article-id><article-id pub-id-type="pmcaiid">11532971</article-id><article-id pub-id-type="pmid">39256894</article-id><article-id pub-id-type="doi">10.1002/2211-5463.13894</article-id><article-id pub-id-type="publisher-id">FEB413894</article-id><article-id pub-id-type="other">FEBSOPEN-24-0174.R2</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="article-subject-classification"><subject>Brain Cancer</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Viral Vector</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Next Generation Sequencing</subject></subj-group><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Identifying adeno‐associated virus (<styled-content style="fixed-case" toggle="no">AAV</styled-content>) vectors that efficiently target high grade glioma cells, for <italic toggle="no">in vitro</italic> monitoring of temporal cell responses</article-title><alt-title alt-title-type="right-running-head">AAV vectors for transducing gliomas</alt-title><alt-title alt-title-type="left-running-head">F. A. Sarker <italic toggle="no">et al.</italic>
+</alt-title></title-group><contrib-group><contrib id="feb413894-cr-0001" contrib-type="author"><name name-style="western"><surname>Sarker</surname><given-names initials="FA">Farhana A.</given-names></name><xref rid="feb413894-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="feb413894-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="feb413894-cr-0002" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="Y">Yuyan</given-names></name><xref rid="feb413894-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="feb413894-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="feb413894-cr-0003" contrib-type="author"><name name-style="western"><surname>Westhaus</surname><given-names initials="A">Adrian</given-names></name><xref rid="feb413894-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="feb413894-cr-0004" contrib-type="author"><name name-style="western"><surname>Lisowski</surname><given-names initials="L">Leszek</given-names></name><xref rid="feb413894-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="feb413894-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="feb413894-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="feb413894-cr-0005" contrib-type="author" corresp="yes"><name name-style="western"><surname>O'Neill</surname><given-names initials="GM">Geraldine M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9997-8794</contrib-id><xref rid="feb413894-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="feb413894-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>geraldine.oneill@sydney.edu.au</email></address></contrib></contrib-group><aff id="feb413894-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Children's Hospital Clinical School, Faculty of Medicine and Health</named-content>
+<institution>University of Sydney</institution>
+<country country="AU">Australia</country>
+</aff><aff id="feb413894-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Children's Cancer Research Unit</named-content>
+<institution>The Children's Hospital at Westmead</institution>
+<city>Sydney</city>
+<country country="AU">Australia</country>
+</aff><aff id="feb413894-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Translational Vectorology Research Unit, Faculty of Medicine and Health, Children's Medical Research Institute</named-content>
+<institution>The University of Sydney</institution>
+<city>Westmead</city>
+<country country="AU">Australia</country>
+</aff><aff id="feb413894-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Australian Genome Therapeutics Centre</named-content>
+<institution>Children's Medical Research Institute and Sydney Children's Hospitals Network</institution>
+<city>Westmead</city>
+<country country="AU">Australia</country>
+</aff><aff id="feb413894-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Laboratory of Molecular Oncology and Innovative Therapies</named-content>
+<institution>Military Institute of Medicine</institution>
+<city>Warsaw</city>
+<country country="PL">Poland</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+G. M. O'Neill, The Children's Cancer Research Unit, The Children's Hospital at Westmead, Locked Bag 4001, Westmead, NSW 2145, Australia<break/>
+Tel: +61 2 9845 1206<break/>
+E‐mail: <email>geraldine.oneill@sydney.edu.au</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>9</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2024</year></pub-date><volume>14</volume><issue seq="130">11</issue><issue-id pub-id-type="pmc-issue-id">474253</issue-id><issue-id pub-id-type="doi">10.1002/feb4.v14.11</issue-id><fpage>1914</fpage><lpage>1925</lpage><history>
+<date date-type="rev-recd"><day>15</day><month>8</month><year>2024</year></date>
+<date date-type="received"><day>20</day><month>3</month><year>2024</year></date>
+<date date-type="accepted"><day>29</day><month>8</month><year>2024</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>10</day><month>09</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>05</day><month>11</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-11-05 00:25:15.897"><day>05</day><month>11</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">FEBS Open Bio</italic> published by John Wiley &amp; Sons Ltd on behalf of Federation of European Biochemical Societies.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="FEB4-14-1914.pdf"><?pdf-name FEB4-14-1914.pdf?><?pdf-size 8124912?><?pdf-md5 1ab77da550106c780fd3436e57c94103?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:c4cc/11532971/1ab77da55010/FEB4-14-1914.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:FEB4-14-1914.pdf"/><abstract><p>To improve the translation of preclinical cancer research data to successful clinical effect, there is an increasing focus on the use of primary patient‐derived cancer cells with limited growth in culture to reduce genetic and phenotype drift. However, these primary lines are less amenable to standardly used methods of exogenous DNA introduction. Adeno‐associated viral (AAV) vectors display tropism for a wide range of human tissues, avidly infect primary cells and have a good safety profile. In the present study, we therefore used a next‐generation sequencing (NGS) barcoded AAV screening method to assess transduction capability of a panel of 36 AAVs in primary cell lines representing high‐grade glioma (HGG) brain tumours including glioblastoma (GBM) and diffuse intrinsic pontine glioma (DIPG)/diffuse midline glioma (DMG). As proof of principle, we created a reporter construct to analyse activity of the transcriptional co‐activators yes‐associated protein (YAP) and transcriptional co‐activator with PDZ‐binding motif (TAZ). Transcriptional activation was monitored by promoter‐driven expression of the Timer fluorescent tag, a protein that fluoresces green immediately after transcription and transitions to red fluorescence over time. As expected, attempts to express the reporter in primary HGG cells from plasmid expression vectors were unsuccessful. Using the top candidate from the AAV screen, we demonstrate successful AAV‐mediated transduction of HGG cells with the YAP/TAZ dynamic activity reporter. In summary, the NGS‐screening approach facilitated screening of many potential AAVs, identifying vectors that can be used to study the biology of primary HGG cells.</p></abstract><abstract abstract-type="graphical"><p>Primary patient‐derived cancer cells better emulate human physiology, improving research outcomes. However, delivery of recombinant DNA is a challenge using standard transduction methods. We report a high‐throughput screen to identify an optimal adeno‐associated virus (AAV) vector. We then provide proof‐of‐principle evidence with AAV transduction of primary high‐grade glioma brain cancer cells encoding a novel reporter for measuring YAP/TAZ dynamic signalling.<boxed-text position="anchor" content-type="graphic" id="feb413894-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="FEB4-14-1914-g003.jpg"><?image-name FEB4-14-1914-g003.jpg?><?image-size 69503?><?image-md5 b3adf4092c6e964e5eb0d2376b58f89e?><?image-image-server-status NEVER_LOAD?><?image-original-height 465?><?image-original-width 461?><?image-scaled-height 465?><?image-scaled-width 461?><?image-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/b3adf4092c6e/FEB4-14-1914-g003.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="feb413894-kwd-0001">AAV</kwd><kwd id="feb413894-kwd-0002">barcoded</kwd><kwd id="feb413894-kwd-0003">glioma</kwd><kwd id="feb413894-kwd-0004">YAP/TAZ</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Faculty of Medicine and Health, University of Sydney
+</institution><institution-id institution-id-type="doi">10.13039/501100021071</institution-id></institution-wrap></funding-source><award-id>N/A</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="12"/><word-count count="6974"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.0 mode:remove_FC converted:04.11.2024</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="feb413894-body-0001"><def-list list-content="abbreviations" id="feb413894-dl-0001"><title>Abbreviations</title><def-item><term id="feb413894-li-0001">AAV</term><def id="feb413894-li-0002"><p>Adeno‐associated virus</p></def></def-item><def-item><term id="feb413894-li-0003">DIPG</term><def id="feb413894-li-0004"><p>Diffuse Intrinsic Pontine Glioma</p></def></def-item><def-item><term id="feb413894-li-0005">DMG</term><def id="feb413894-li-0006"><p>Diffuse Midline Glioma</p></def></def-item><def-item><term id="feb413894-li-0007">eGFP</term><def id="feb413894-li-0008"><p>enhanced green fluorescent protein</p></def></def-item><def-item><term id="feb413894-li-0009">GBM</term><def id="feb413894-li-0010"><p>Glioblastoma</p></def></def-item><def-item><term id="feb413894-li-0011">HGG</term><def id="feb413894-li-0012"><p>High grade glioma</p></def></def-item><def-item><term id="feb413894-li-0013">HIP</term><def id="feb413894-li-0014"><p>Hippo‐YAP signalling incompetent promoter</p></def></def-item><def-item><term id="feb413894-li-0015">HOP</term><def id="feb413894-li-0016"><p>Hippo‐YAP signalling optimal promoter</p></def></def-item><def-item><term id="feb413894-li-0017">ITR</term><def id="feb413894-li-0018"><p>Inverted Terminal Repeat</p></def></def-item><def-item><term id="feb413894-li-0019">NGS</term><def id="feb413894-li-0020"><p>Next Generation Sequencing</p></def></def-item><def-item><term id="feb413894-li-0021">TAZ</term><def id="feb413894-li-0022"><p>Transcriptional coactivator with PDZ‐binding motif</p></def></def-item><def-item><term id="feb413894-li-0023">TEAD</term><def id="feb413894-li-0024"><p>Transcriptional Enhanced Associated Domain</p></def></def-item><def-item><term id="feb413894-li-0025">VCN</term><def id="feb413894-li-0026"><p>Vector genome copy number</p></def></def-item><def-item><term id="feb413894-li-0027">YAP</term><def id="feb413894-li-0028"><p>Yes‐Associated Protein</p></def></def-item></def-list><p>High‐grade glioma (HGG) are deadly brain tumours that arise from the supporting glial cells of the central nervous system. Presently, there is very little chance of survival past 2 years from diagnosis. A key component to the high mortality of HGG is a rapid and diffuse pattern of growth, where individual and small clusters of tumour cells infiltrate into the healthy brain, destroying vital tissue and evading primary treatments [<xref rid="feb413894-bib-0001" ref-type="bibr">1</xref>]. Paediatric HGG including diffuse intrinsic pontine glioma (DIPG: now reclassified as diffuse midline glioma DMG) were previously grouped with their adult counterparts due to similar clinical and histopathological presentation. However, it has become apparent that paediatric tumours are molecularly distinct and may represent a subset of developmentally derived cancers [<xref rid="feb413894-bib-0002" ref-type="bibr">2</xref>]. Many preclinical studies in HGG have been shown to poorly predict subsequent activity in phase I trials and further to over‐estimate anti‐tumour activity [<xref rid="feb413894-bib-0003" ref-type="bibr">3</xref>]. It is increasingly appreciated that the standard cell lines that have been used in preclinical testing—which have undergone innumerable passages and are cultured in the presence of serum—are phenotypically and genotypically distant from the original source tumour [<xref rid="feb413894-bib-0004" ref-type="bibr">4</xref>]. There is thus a greater focus on low‐passage, serum‐free cell lines cultured directly from patient tumour tissue [<xref rid="feb413894-bib-0005" ref-type="bibr">5</xref>, <xref rid="feb413894-bib-0006" ref-type="bibr">6</xref>].</p><p>We recently demonstrated that the mechanotransductive transcriptional co‐activators yes‐associated protein (YAP) and transcriptional co‐activator with PDZ‐binding motif (TAZ) display rigidity‐dependent nuclear translocation in HGG lines [<xref rid="feb413894-bib-0007" ref-type="bibr">7</xref>]. Translocation of these molecules into the nucleus and subsequent interaction with transcriptional enhanced associated domain (TEAD) transcription factors results in activation of canonical targets [<xref rid="feb413894-bib-0008" ref-type="bibr">8</xref>]. As this is a dynamic process, and since invading cancer cells are likely to be exposed to different tissue stiffness when transmigrating diverse tissues, we were motivated to establish a method for transducing primary HGG cells with a YAP/TAZ reporter that would allow monitoring of this dynamic process.</p><p>Primary HGG cell lines present an experimental challenge, as primary cells are resistant to transfection using plasmid‐based methods. Adeno‐associated viral (AAV) vectors are small, non‐enveloped viruses consisting of a total genome size of 4.7 kb, and the dimeric self‐complementary vectors used in this study have a packaging capacity of up to 2.4 kb [<xref rid="feb413894-bib-0009" ref-type="bibr">9</xref>]. AAV variants are encapsulated within different icosahedral capsids that confer cell and tissue tropism [<xref rid="feb413894-bib-0010" ref-type="bibr">10</xref>]. We sought to identify AAV variants with the highest tropism for patient‐derived HGG cells from a broad panel of 36 individually barcoded AAV capsid variants using a high‐throughput, NGS‐based detection method [<xref rid="feb413894-bib-0011" ref-type="bibr">11</xref>]. This identified AAV KP1 and AAV KP3 as efficient gene transfer vectors in all HGG cells tested. As proof of principle, we demonstrate transduction of HGG cells with an AAV KP1::YAP/TAZ activity reporter, carrying a modified GFP (Timer) that has been engineered to colour shift from green to red over time.</p><sec sec-type="materials-and-methods" id="feb413894-sec-0002"><title>Materials and methods</title><sec id="feb413894-sec-0003"><title>Cell culture</title><p>Primary patient‐derived HGG cell lines [Glioblastoma (GBM): JK2 and WK1 [<xref rid="feb413894-bib-0005" ref-type="bibr">5</xref>], kindly provided by Bryan Day and Brett Stringer, Queensland Institute of Medical Research; Diffuse Intrinsic Pontine Glioma (DIPG)/Diffuse Midline Glioma (DMG): SU‐DIPG‐6 and SU‐DIPG‐24 [<xref rid="feb413894-bib-0006" ref-type="bibr">6</xref>], kindly provided by Michelle Monje, Stanford University] were maintained in serum‐free defined media for a maximum of 35 passages. Cell line identities were independently verified by STR profiling (Cell Bank Australia). GBM lines were grown as adherent cultures on 1% (v/v) Matrigel‐coated tissue culture plates in KnockOut™ DMEM/F‐12 supplemented with recombinant Human EGF (20 ng·mL<sup>−1</sup>), recombinant human bFGF (10 ng·mL<sup>−1</sup>), glutamine (20 m<sc>m</sc>·mL<sup>−1</sup>), penicillin/streptomycin (100 U·mL<sup>−1</sup>), StemPro Neural Supplement (20 ng·mL<sup>−1</sup>) and Heparin (20 ng·mL<sup>−1</sup>; Sigma‐Aldrich, Darmstadt, Germany). All media and supplements with the exception of Heparin were purchased from Thermo Fisher Scientific, USA. DIPG/DMG lines were cultured in Tumour Stem Medium (TSM) made from 1 : 1 parts of Neurobasal A medium (Thermo Fisher Scientific, Waltham, MA, USA) and DMEM F‐12 (Thermo Fisher Scientific), with the addition of HEPES (10 m<sc>m</sc>; Thermo Fisher Scientific), Sodium Pyruvate (1.0 m<sc>m</sc>; Thermo Fisher Scientific), Non‐essential Amino Acids Solution (1×; Thermo Fisher Scientific), GlutaMAX (100×; Thermo Fisher Scientific) and Antibiotic‐antimycotic (100×; Thermo Fisher Scientific), freshly supplemented with B27‐without vitamin A supplement (Thermo Fisher Scientific), human recombinant EGF (20 ng·mL<sup>−1</sup>; Shenandoah Biotechnology, USA), human recombinant bFGF (20 ng·mL<sup>−1</sup>; Shenandoah Biotechnology, Warminster, PA, USA), human recombinant PDGF‐AA (10 ng·mL<sup>−1</sup>; Shenandoah Biotechnology), human recombinant PGDF‐BB (10 ng·mL<sup>−1</sup>; Shenandoah Biotechnology) and Heparin (2 μg·mL<sup>−1</sup>; StemCell Technologies, Vancouver, BC, Canada).</p></sec><sec id="feb413894-sec-0004"><title>
+<styled-content style="fixed-case" toggle="no">AAV</styled-content> testing kit</title><p>The AAV variant testing kit containing a mix of 36 iodixanol‐purified AAV capsid variants was provided by the Vectorology Facility [Children's Medical Research Institute (CMRI), Westmead, Australia]. The variants contained within the kit constitute 30 that were previously summarised [<xref rid="feb413894-bib-0011" ref-type="bibr">11</xref>], along with six additional variants AAV KP1, AAV KP2, AAV KP3, AAV NP84, AAV SYDO1 and AAV NP6, details of which have been previously summarised [<xref rid="feb413894-bib-0012" ref-type="bibr">12</xref>]. Each AAV variant contains a unique, random six‐nucleotide barcode (“N6BC”) positioned between an enhanced green fluorescent protein (eGFP) reporter gene and a Woodchuck‐Hepatitis virus post‐translational regulatory element (WPRE). This positioning enables the barcode to relay, via NGS, whether the vector has been successfully delivered into the target cell and if it can drive transgene expression, and for cells to be treated with a mixture of all variants at once. AAV capsids were quantified by real‐time quantitative PCR (RT‐qPCR) with iTaqTM Universal SYBRR green Supermix (Bio‐Rad, Hercules, CA, USA) eGFP primers (forward primer: 5′‐TCAAGATCCGCCACAACATC‐3′; reverse primer: 5′‐TTCTCGTTGGGGTCTTTGCT‐3′) and compared to a standard curve generated from serial dilutions of a known linearised plasmid. AAV variants were first digested with 0.1 unit DNase I (New England Biolabs, Ipswich, MA, USA) in 0.1% (v/v) Pluronic F68 (Thermo Fisher Scientific) at 37 °C for 30 min, followed by incubation with 0.2 μg·μL<sup>−1</sup> Proteinase K in 0.1% (v/v) Pluronic F68 at 55 °C for 30 min, and denaturing at 95 °C for 15 min. Samples were then mixed with 1% (v/v) Tween 20 for neutralisation, which were further diluted into 1 : 1000, 1 : 10 000 and 1 : 100 000 in Ambion RT‐PCR Grade Water (Thermo Fisher Scientific) for RT‐qPCR quantification. Each variant was then diluted [dilution buffer: 10% v/v Pluronic Acid F68, 1× phosphate‐buffered saline (PBS), 1 <sc>m</sc> NaCl] to the lowest capsid titre prior to mixing all variants at a 1 : 1 molar ratio. Final variant proportions were confirmed with RT‐qPCR again and independently by NGS (GENEWIZ Genomics, Suzhou, China) using an Illumina HiSeq/MiSeq instrument. Analysis was conducted as previously described [<xref rid="feb413894-bib-0011" ref-type="bibr">11</xref>] and detailed below.</p></sec><sec id="feb413894-sec-0005"><title>
+<styled-content style="fixed-case" toggle="no">AAV</styled-content> transduction and assessment of transduction efficiency</title><p>Cells were seeded at 2 × 10<sup>5</sup> per well of a 24‐well culture dish. After overnight incubation, cells were transduced with the AAV mix using a range of dilutions. GFP expression was monitored using an Olympus IX18 inverted microscope. WK1, JK2 and DIPG6 cell lines were incubated with the AAV mix overnight, whilst DIPG24 was incubated for 6 h as following longer incubation periods, cells were detached and cellular debris evident. The AAV mixture was subsequently removed from cells, followed by two washes in 1× PBS solution. Cells were harvested 48 h after transduction via enzymatic detachment with Accutase (Sigma‐Aldrich) and pelleted at 300 <bold>
+<italic toggle="yes">g</italic>
+</bold> for 5 min in an Allegra x‐12 centrifuge. DNA and RNA were then extracted from cell pellets using QIAGEN AllPrep DNA/RNA Mini Kit (QIAGEN, Hilden, Germany). Concentration and purity were assessed with the NanoDrop™2000 spectrophotometer and DNA integrity confirmed by agarose gel electrophoresis. Transduced AAV vector copy number was quantified by digital droplet PCR (ddPCR) analysis of eGFP (forward primer: 5′‐TCAAGATCCGCCACAACATC‐3′; reverse primer: 5′‐TTCTCGTTGGGGTCTTTGCT‐3′) normalised to human albumin (forward primer: 5′‐ TGCTGTCATCTCTTGTGGGCTG‐3′; reverse primer: 5′‐ AACTCATGGGAGCTGCTGGTTC‐3) using QX200™ ddPCR EvaGreen Supermix, QX200™ Droplet Generator and Droplet Reader, followed by analysis using QuantaSoft™ software (ver. 1.7.4) (all from Bio‐Rad). The efficacy of entry efficiency and expression of each AAV variant was assessed through NGS of transduced HGG gDNA and mRNA/cDNA, respectively. Extracted total RNA (~ 1 μg) was incubated with 2 units of TURBO DNase (Thermo Fisher Scientific) for 1 h at 37 °C followed by inactivation with the TURBO DNase inactivation reagent at room temperature. RNA was then treated with the SuperScript IV First‐Strand Synthesis System (Thermo Fisher Scientific) and 2 μ<sc>m</sc> WRPE‐binding primer (5′‐GGATTTATACAAGGAGGAGAAAATGAAAG‐3′) following manufacturer's instructions.</p><p>Next, primers were designed to generate 155 bp amplicons containing configurations of the N6BC barcodes that were associated with transduced AAV variants. Primers N6BC‐NGS_F (forward: 5′‐NNNNNGCTGGAGTTCGTGACCGCCG‐3′; where “NNNNN” represents different barcodes) and N6BC‐NGS_R (reverse: 5′‐CAACATAGTTAAGAATACCAGTCAATCTTTCAC‐3′) [<xref rid="feb413894-bib-0011" ref-type="bibr">11</xref>] were incubated with 50 ng of extracted gDNA/5 μL cDNA and Q5 High‐Fidelity DNA Polymerase (New England Biolabs, Ipswich, MA, USA). Samples were then cycled with the following PCR program: denaturation at 98 °C for 2 min, 42 amplification cycles at 98 °C for 10 s, 62 °C for 10 s and 72 °C for 10 s, followed by a final extension at 72 °C for 10 min. The PCR products were separated on a 2% (w/v) Tris‐acetate‐EDTA (TAE) gel. Target bands were excised extracted using a FavorPrep™ Gel Purification Mini Kit (Favorgen, Pingtung County, Taiwan). PCR products from all cell lines were pooled into one sample comprising 250 ng DNA each and sent to GENEWIZ Genomics. Analysis of paired reads was conducted offsite with BBMerge Paired Read Merger (v.37.64) and Geneious Workflow (Geneious, v11.1.4). NGS results were deconvoluted with a custom Python‐based N6BC barcode identifier and counter script [<xref rid="feb413894-bib-0011" ref-type="bibr">11</xref>]. Read counts for each cell line and each variant were multiplied by a variant‐specific “normalisation coefficient” [% of NGS reads (ideal)/% of NGS reads (measured)]. The percentage of each AAV variant present within each sample was then determined by dividing each variant normalised read by the sum of all variant normalised reads. This was computed for all cell lines using Excel and data plotted with <sc>gra</sc> (v9.0.1; Boston, MA, USA).</p></sec><sec id="feb413894-sec-0006"><title>Flow cytometric analyses</title><p>Cells were seeded in 24‐well dishes (WK1: 200 000 and DIPG24: 150 000) and transduced with 10 000 and 50 000 MOT of each AAV in duplicate wells, as indicated. At 48 h following transduction, cells were harvested and cell pellets were resuspended with chilled FACs buffer (137.4 m<sc>m</sc> NaCl, 2.7 m<sc>m</sc> KCl, 10.1 m<sc>m</sc> Na<sub>2</sub>PO<sub>4</sub>, 1.8 m<sc>m</sc> KH<sub>2</sub>PO<sub>4</sub>, 0.1% (w/v) BSA) and passed through the 35 μm cell strainer‐cap of a 5 mL FACs tube (Corning™, Corning, NY, USA). Samples were then immediately processed on a FACs Canto II cytometer (BD Biosciences, Franklin Lakes, NJ, USA), collecting 10 000 events for each. For all samples, a forward scatter height (FSC‐H) and area (FSC‐A) gating strategy was used to exclude any doublet cells. The subpopulation of single cells was then gated against the B530_30E‐A fluorochrome detector to determine the percentage of eGFP‐positive cells, with non‐transduced cells serving as the negative control. Subsequent analysis was conducted with FlowJo™v10.8 software (FlowJo LLC, Ashland, OR, USA).</p></sec><sec id="feb413894-sec-0007"><title>
+<styled-content style="fixed-case" toggle="no">HIP</styled-content>/<styled-content style="fixed-case" toggle="no">HOP</styled-content>‐timer expression vector construction</title><p>Plasmids encoding luciferase reporters downstream of multiple copies of promoter sequences containing TEAD binding sites [<xref rid="feb413894-bib-0013" ref-type="bibr">13</xref>] were sourced from Addgene (Watertown, MA, USA) [Hippo‐YAP signalling optimal promoter (HOP)‐flash #83467; negative control Hippo‐YAP signalling incompetent promoter (HIP)‐flash #83466]. Exchange of luciferase for the Timer reporter (a mutant form of the red‐fluorescent protein DS‐RED that changes colour over time [<xref rid="feb413894-bib-0014" ref-type="bibr">14</xref>], purchased from TaKaRa Bio, Shiga, Japan) in the HIP‐ and HOP‐Flash plasmids was conducted by GenScript<sup>®</sup> (Piscataway, NJ, USA). Briefly, luciferase sequences were exchanged for the Timer open reading frame, generating constructs in which the HIP (negative control) or HOP (positive) promoter sequences were located upstream of Timer, with the new plasmids labelled HIP‐ and HOP‐Timer. To generate AAV vectors encoding the HIP‐/HOP‐Timer constructs, a transfer plasmid containing the transgenes and structural AAV Inverted Terminal Repeat (ITR) regions (scAAV‐H1‐RSV‐eGFP) was engineered by exchanging the promotor and reporter encoding regions for an existing RSV‐eGFP between the ITR sites of an existing self‐complementary (sc) AAV expression cassette backbone. scAAV‐H1‐RSV‐eGFP was digested with restriction enzymes AscI and XhoI, and the backbone (~ 3.2 kb) was assembled with two PCR fragments (one containing HIP‐ or HOP‐Timer amplified from HIP‐ or HOP‐Timer constructs as above (~ 1.2 kb), the other containing “Stuffer DNA” amplified from an existing plasmid (T3 Stuffer_LSP_Cerulean HCP consisting of ~ 350 bp of unrelated DNA sequence)) using NEBuilderR HiFi DNA Assembly Cloning Kit (New England Biolabs, Ipswitch, MA, USA). Primers were designed to contain overlap sequences that adjoined the ITR regions of the scAAV expression cassette to the HIP/HOP‐pTimer transgene and stuffer DNA (Fragment 1 F: 5′‐TCCCAGATCTGATATCGGCGCGCCGGTACCGAGCTCGGAT‐3′ and Fragment 1 R: 5′‐GTCGACGTCGACTCCGGC‐3′; Fragment 2 F: 5′‐GTCGACGTCGACGGATCCTTATCGA‐3′ and Fragment 2 R: 5′‐TATCGTCGAGGCCGCCTCGAGCGACGTCTGTATAGGGATG‐3′). Prior to packaging, quality control of the assembled scAAV::HIP‐/HOP‐Timer transfer plasmids was conducted, via diagnostic restriction enzyme digestion to ensure ITR region integrity (AdhI, MscI, XmaI cleavage), Sanger sequencing (Australian Genome Research Facility) and ddPCR as described above to confirm transfer plasmid concentrations. AAV packaging of the new AAV::HIP‐/HOP‐Timer reporter constructs was conducted by Vectorology Services at the Translational Vectorology Group using Iodixanol Gradient Purification. The final AAV products were also quantified with ddPCR as described above.</p></sec></sec><sec sec-type="results" id="feb413894-sec-0008"><title>Results</title><sec id="feb413894-sec-0009"><title>Screening <styled-content style="fixed-case" toggle="no">AAV</styled-content> vectors for <styled-content style="fixed-case" toggle="no">HGG</styled-content> cell transduction</title><p>To identify AAV vectors suitable for transducing HGG cells, a panel of 36 individually barcoded AAV capsid variants were screened utilising a high‐throughput, NGS‐based detection approach [<xref rid="feb413894-bib-0011" ref-type="bibr">11</xref>]. HGG cells were transduced with a 1 : 1 molar ratio mixture of all AAV variants simultaneously. Primary patient‐derived HGG cell lines JK2, WK1, DIPG6 and DIPG24 were transduced with the AAV Testing Kit. The cells were transduced at total MOT of 1000, 10 000 and 100 000 vector genomes per cell (vg per cell), equivalent to individual MOT of ~ 28, 278 and 2778 per AAV variant. Notably, during culture, the DIPG lines characteristically grow as loosely attached chains that pile up on each other (DIPG24), or as neurospheres (DIPG6) [<xref rid="feb413894-bib-0015" ref-type="bibr">15</xref>], hence the out‐of‐focus appearance of these cultures (Fig. <xref rid="feb413894-fig-0001" ref-type="fig">1A</xref>). Both DIPG lines exhibited cell clumping at the highest dose and due to apparent toxicities indicated by cell rounding and debris, DIPG24 cells were only transduced for 6 h. Transduction efficiency was monitored by assessment of GFP‐positive cells (Fig. <xref rid="feb413894-fig-0001" ref-type="fig">1A</xref>) and independently quantified by ddPCR‐mediated detection of GFP coding sequence in genomic DNA extracts, normalised to human albumin. Quantification of the average vector genome copy number per diploid genome (VCN·dg<sup>−1</sup>) confirmed transduction of the AAV mix into each of the cell lines investigated (VCN·dg<sup>−1</sup>: WK1 100 000 vg per cell = 1423; JK2 100 000 vg per cell = 134; DIPG6 10 000 vg per cell = 98; DIPG24 10 000 vg per cell = 64). Lower transduction efficiencies in the DIPG24 likely reflect the shorter transduction incubation time.</p><fig position="float" fig-type="Fig." id="feb413894-fig-0001" orientation="portrait"><label>Fig. 1</label><caption><p>Screen identifies AAV variants with tropism for primary patient‐derived HGG cells. (A) Representative fluorescence images of GFP‐positive cells in primary, patient‐derived HGG cell lines, WK1, JK2, DIPG24 and DIPG6 transduced with 1 : 1 molar mixture of 36 individual AAV variants with the indicated MOTs. Scale bars = 100 μm. (B) NGS‐based quantification of N<sub>6</sub>BC barcodes of individual AAV variants in DNA extracted from transduced HGG cell lines to quantify transduction efficiency of each variant into cells. Values represent percentage of total NGS‐DNA reads for each variant within each cell line. Look‐up table represents low (blue) to high (yellow) percentage. Adjacent Venn diagram shows distribution of best‐performing AAV variants (&gt; 1% of total NGS‐DNA reads). (C) Results of NGS‐based quantification of barcoded variants from vector genome‐transcribed mRNA/cDNA to determine functional transduction efficacy. Values are percentage of total variant reads for each cell line. Look‐up table scales low (black) to high (yellow) percentage. Venn diagram shows distribution of highly expressed AAV variants (&gt; 5% of total NGS‐RNA reads).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="FEB4-14-1914-g006.jpg"><?image-name FEB4-14-1914-g006.jpg?><?image-size 142323?><?image-md5 8a7ce33f5fab961ef94642fc9318d10c?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1089?><?image-original-width 1064?><?image-scaled-height 726?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/8a7ce33f5fab/FEB4-14-1914-g006.jpg?><?thumb-name FEB4-14-1914-g006.gif?><?thumb-size 6807?><?thumb-md5 c1a4dbd2c0ad4785fcf8da36d3626d64?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 102?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/c1a4dbd2c0ad/FEB4-14-1914-g006.gif?></graphic></fig><p>Next, to elucidate individual AAV variant uptake and expression, respectively, within each cell line, DNA and RNA was extracted, and barcoded variants were analysed by NGS. Genomic DNA was used for NGS analysis of the unique barcode (BC) present in the AAV expression cassette. Analysis of the NGS results revealed that the AAV capsid variants contributing to the average vector copy number for each of the four HGG lines were remarkably consistent (Fig. <xref rid="feb413894-fig-0001" ref-type="fig">1B</xref>, Venn diagram). In each cell line, AAV KP1 contributed the greatest fraction ranging from 25% to 35% of all reads, closely followed by AAV KP3 which contributed 20–28% of all reads (Fig. <xref rid="feb413894-fig-0001" ref-type="fig">1B</xref>). Thus, almost 50% of the vector uptake was accounted for by these two variants.</p><p>We next utilised NGS of the BC region of the expression cassette to quantify transgene expression at the RNA (cDNA) level (Fig. <xref rid="feb413894-fig-0001" ref-type="fig">1C</xref>). This revealed that capsids with the highest transduction efficiency (AAV KP1 and AAV KP3) resulted in transgene expression levels that were comparable to those driven by capsids that contributed only to a small fraction of the total genomic DNA reads. Notably, there was a consistent pattern of gene expression by the different capsids across the four cell lines (Fig. <xref rid="feb413894-fig-0001" ref-type="fig">1C</xref>). AAV KP1, AAV KP3, AAV 7m8, AAV DJ and AAV 4 were chosen for further analysis due to their combined viral entry and transgene expression, suggesting that they mediate effective delivery into HGG cells. Notably, AAV 9, which is frequently used to deliver therapeutic cargo to the CNS [<xref rid="feb413894-bib-0016" ref-type="bibr">16</xref>] and is the serotype utilised in market‐approved gene therapy for spinal muscular atrophy (SMA) (Zolgensma™) [<xref rid="feb413894-bib-0017" ref-type="bibr">17</xref>], had low efficiency in HGG cells.</p></sec><sec id="feb413894-sec-0010"><title>
+<styled-content style="fixed-case" toggle="no">AAV KP1</styled-content> and <styled-content style="fixed-case" toggle="no">AAV KP3</styled-content> efficiently transduce <styled-content style="fixed-case" toggle="no">HGG</styled-content> cells</title><p>Next, we compared GFP expression after transduction with the 5 AAV individual variants identified from the screen as having the best efficiency. To determine account for potential differences between cell lines with different origins, we compared GFP transgene expression between WK1 GBM cells and DIPG24 cells (Fig. <xref rid="feb413894-fig-0002" ref-type="fig">2A</xref>). Quantification by flow cytometry (Fig. <xref rid="feb413894-fig-0002" ref-type="fig">2B</xref>) revealed that AAV KP1 and AAV KP3 resulted in the greatest number of GFP‐positive WK1 cells (Fig. <xref rid="feb413894-fig-0002" ref-type="fig">2C</xref>). GFP expression was low in WK1 cells transduced with AA V4 and AAV DJ vectors and intermediate expression was quantified in WK1 cells transduced with AAV 7m8 (Fig. <xref rid="feb413894-fig-0002" ref-type="fig">2C</xref>). This contrasts with DIPG24, where 4/5 AAVs (AAV DJ, AAV 7m8, AAV KP1, AAV KP3) resulted in equivalently high expression, and the 5<sup>th</sup>, AAV 4, resulted in an intermediate level of expression (Fig. <xref rid="feb413894-fig-0002" ref-type="fig">2C</xref>). Notably, capsids AAV KP1 and AAV KP3 were consistently high in all functional assessments. AAV KP1 was selected as the variant of choice for further experiments, as more cellular debris was evident following exposure to AAV KP3.</p><fig position="float" fig-type="Fig." id="feb413894-fig-0002" orientation="portrait"><label>Fig. 2</label><caption><p>Quantification of transgene expression. (A) Micrographs showing GFP‐positive cells overlayed on bright‐field images of WK1 and DIPG24 cells, transduced as indicated. Images of WK1 cells were acquired 24 h after transduction and DIPG24 6 h after transduction. Scale bars = 200 μm. (B) Representative histograms of GFP‐profiling by flow cytometry, showing fluorescence intensity (<italic toggle="yes">x</italic>‐axis) and cell count (<italic toggle="yes">y</italic>‐axis) of AAV‐transduced WK1 cells (MOT 10K and 50K, as indicated). Colours of the individual histogram plots correspond to the colours for each AAV as per the key at the bottom of the figure. Plots on the right show the same data, with data for each AAV separated in half offset format. Dotted line indicates the delineation between GFP‐positive and GFP‐negative cell populations. Scatter‐plot inset shows example of non‐transduced WK1‐negative control, used to establish gates for GFP positivity. (C) Graph show GFP‐positive cells as a percentage of the total cell population determined by flow cytometry. WK1 (blue) and DIPG24 (orange) cells were transduced with the indicated AAV serotypes at MOTs of 10 000 (light blue and light orange, respectively) and 50 000 (dark blue and dark orange, respectively). Dots represent individual repeats.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="FEB4-14-1914-g005.jpg"><?image-name FEB4-14-1914-g005.jpg?><?image-size 112637?><?image-md5 1b56d4cae338ee2fcff76a293ac81c63?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1179?><?image-original-width 1064?><?image-scaled-height 786?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/1b56d4cae338/FEB4-14-1914-g005.jpg?><?thumb-name FEB4-14-1914-g005.gif?><?thumb-size 5029?><?thumb-md5 c01706dfbfee7ee667a2a2acb827daa9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 111?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/c01706dfbfee/FEB4-14-1914-g005.gif?></graphic></fig></sec><sec id="feb413894-sec-0011"><title>Transduction with the <styled-content style="fixed-case" toggle="no">HIP</styled-content>/<styled-content style="fixed-case" toggle="no">HOP</styled-content>‐<styled-content style="fixed-case" toggle="no">TIMER</styled-content>
+</title><p>To generate a dynamic fluorescent reporter for YAP/TAZ activity, the luciferase coding domain of the HIP‐ and HOP‐Flash plasmids was exchanged for the Timer reporter. Functionality of the HIP‐/HOP‐Timer plasmids was assessed by transfection into murine NIH 3T3 fibroblasts and assessed after 24 h (Fig. <xref rid="feb413894-fig-0003" ref-type="fig">3A</xref>). Imaging of HOP‐Timer‐transfected cells revealed examples of green‐positive cells representing early reporter translation, yellow cells (mix of red and green) representing longer‐lived reporter molecules and red indicating cells with the longest‐lived Timer expression (Fig. <xref rid="feb413894-fig-0003" ref-type="fig">3A</xref>). No fluorescent cells were detected in the HIP‐Timer‐negative control cells. NIH 3T3 cells transfected with a control GFP plasmid displayed greater numbers of positive cells than seen with the HOP‐Timer construct (Fig. <xref rid="feb413894-fig-0003" ref-type="fig">3A</xref>). The smaller fraction of the HOP‐Timer‐positive cells likely reflects a combination of transfection efficiency and the percentage of cells with YAP/TAZ activation during the period of the experiment. To confirm the dynamic colour change of the Timer reporter, HOP‐Timer‐transfected cells were analysed across the time‐lapse imaging period. Over 12 h, positive cells transitioned from predominantly green fluorescence to increased red fluorescence (Fig. <xref rid="feb413894-fig-0003" ref-type="fig">3B</xref>).</p><fig position="float" fig-type="Fig." id="feb413894-fig-0003" orientation="portrait"><label>Fig. 3</label><caption><p>Confirmation of dynamic fluorescent HOP‐Timer expression. (A) Representative fluorescence and bright‐field images of NIH 3T3 fibroblast cells 24 h after transfection with HOP‐/HIP‐Timer plasmid constructs and GFP plasmid control. Arrows in HOP‐Timer transfected cells in the bright‐field and fluorescent image overlay indicate cells in which the Timer reporter protein has recently been synthesised (green arrows to green cells), cells in which the reporter has been expressed for some time (yellow arrows to yellow cells) and in which the reporter has been expressed for the longest period (red arrows to red cells). Scale bars = 100 μm. (B) Representative images of two fields of view of 3T3 fibroblasts transfected with HOP‐Timer. Time‐lapse images of positive cells were captured over a 12‐h period from 24 h post transfection. Line scans to the right depict green and red channel fluorescence intensity of HOP‐Timer expressing cells at the start of imagine (<italic toggle="yes">t</italic> = 0 h) and the end (<italic toggle="yes">t</italic> = 12 h). Arrows in adjacent images depict the position and direction of the line scans. Scale bars = 50 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="FEB4-14-1914-g004.jpg"><?image-name FEB4-14-1914-g004.jpg?><?image-size 156373?><?image-md5 28f91f60f0aa06e2e49ebbf2b26234ba?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1666?><?image-original-width 1064?><?image-scaled-height 1110?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/28f91f60f0aa/FEB4-14-1914-g004.jpg?><?thumb-name FEB4-14-1914-g004.gif?><?thumb-size 7882?><?thumb-md5 8aef8f5759f423610561b2a098b93ce9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 157?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/8aef8f5759f4/FEB4-14-1914-g004.gif?></graphic></fig><p>Attempts to transfect WK1 cells with the HOP‐Timer plasmid using different methods (lipofectamine and nucleofection) were unsuccessful, with no positive cells detected (data not shown). This was not due to lack of YAP/TAZ expression and activity in these cell lines, as we have previously demonstrated YAP/TAZ activity in WK1 cells [<xref rid="feb413894-bib-0007" ref-type="bibr">7</xref>]. This underscores the need for alternative transduction method for these cell lines. Consequently, as proof of principle, HIP/HOP‐Timer transfer plasmids were constructed (Fig. <xref rid="feb413894-fig-0004" ref-type="fig">4</xref>) and the HIP‐/HOP‐Timer constructs then packaged into AAV 1KP1 and used to transduce WK1 cells, with an MOT of 50 000. Transduced cultures were observed from 48 h after transduction then every day up to 6 days (Fig. <xref rid="feb413894-fig-0005" ref-type="fig">5A</xref>). This revealed a mix of cells exhibiting both green and red fluorescence (appearing yellow in merged images) and cells that were predominantly red (Fig. <xref rid="feb413894-fig-0005" ref-type="fig">5A,B</xref>). Cloning of the HOP‐Timer into the AAV KP1 vector therefore provides a method for studying the activity of YAP/TAZ that was not possible with plasmid transfection methods.</p><fig position="float" fig-type="Fig." id="feb413894-fig-0004" orientation="portrait"><label>Fig. 4</label><caption><p>Schematic representation of scAAV::HIP/HOP‐Timer construction. Self‐complementary AAV (scAAV) expression cassette (<italic toggle="yes">ii</italic>: scAAV::H1‐RSV‐eGFP) was used as a backbone for AAV transfer plasmid assembly and prepared through restriction enzyme digestion. Two insert fragments were generated with PCR amplification, Fragment 1 (highlighted in red) was isolated from the HIP/HOP‐Timer plasmid (<italic toggle="yes">i</italic>) and contained the HIP/HOP‐Timer transgene conjugated to an ITR region from the scAAV expression cassette. Fragment 2 (highlighted in blue) contained the second ITR and random DNA base pairs from Stuffer_LSP_Cerulean (<italic toggle="yes">iii</italic>) to buffer remaining space in the final construct. Fragments were assembled into the scAAV expression cassette backbone with the NEBuilder HIFI DNA assembly cloning kit (New England Biolabs, Ipswitch, MA, USA), such that the final scAAV::HIP/HOP‐Timer transfer plasmid (<italic toggle="yes">v</italic>) encoded the HIP/HOP‐Timer transgene flanked between AAV ITR regions (<italic toggle="yes">iv</italic>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="FEB4-14-1914-g001.jpg"><?image-name FEB4-14-1914-g001.jpg?><?image-size 64276?><?image-md5 77cf2762f56c249460df5d086b963528?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 625?><?image-original-width 1064?><?image-scaled-height 416?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/77cf2762f56c/FEB4-14-1914-g001.jpg?><?thumb-name FEB4-14-1914-g001.gif?><?thumb-size 3715?><?thumb-md5 8f0a08e118a635fc44c29e73af5ab84d?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 136?><?thumb-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/8f0a08e118a6/FEB4-14-1914-g001.gif?></graphic></fig><fig position="float" fig-type="Fig." id="feb413894-fig-0005" orientation="portrait"><label>Fig. 5</label><caption><p>Transduction of WK1 cells with HOP‐Timer delivered by AAVKP1. (A) Representative images of WK1 cells transduced with AAVKP1::HOP‐Timer. Shown are examples of individual cells at the indicated time periods after transduction. Scale bars = 50 μm. (B) Line scans showing green and red fluorescence of HOP‐Timer‐positive cells. Arrows in adjacent images indicate the direction of the line scans. Scale bars = 50 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="FEB4-14-1914-g002.jpg"><?image-name FEB4-14-1914-g002.jpg?><?image-size 103724?><?image-md5 68fd61f3d35735440fa9bcbf124f918c?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1188?><?image-original-width 1064?><?image-scaled-height 792?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/68fd61f3d357/FEB4-14-1914-g002.jpg?><?thumb-name FEB4-14-1914-g002.gif?><?thumb-size 5781?><?thumb-md5 2524aca16c28de0db2332459c971838b?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 112?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/c4cc/11532971/2524aca16c28/FEB4-14-1914-g002.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="feb413894-sec-0012"><title>Discussion</title><p>In this study, the identification of optimal AAV variant tropism to HGG cell lines was made feasible by multiplexed, barcoded, NGS‐based detection [<xref rid="feb413894-bib-0011" ref-type="bibr">11</xref>]. Cell lines representing GBM and DIPG were assessed for transduction, in case there were significant differences in AAV tropism for these different cell types. Notably, while we found relatively consistent tropism across the 36 variants between the different cancer cell types, subsequent assessment of the top five candidates from the AAV variant screen in individual assessments identified some differences between preference for DIPG versus GBM. Of the 5 top candidates, AAV KP1 and AAV KP3, displayed both high‐level transduction and subsequent functional protein expression in both GBM and DIPG cancer cell lines.</p><p>Of the 5 top variants, AAV4 is the only naturally occurring serotype, with the others representing synthetically derived variants. AAV KP1 and AAV KP3 were originally generated from capsid shuffled libraries and selected for high transduction efficiency of primary human islets [<xref rid="feb413894-bib-0018" ref-type="bibr">18</xref>]. The presence of neutralising antibodies due to the prevalence of AAV exposure in the population is a significant complication in the <italic toggle="yes">in vivo</italic> application of AAV vectors [<xref rid="feb413894-bib-0019" ref-type="bibr">19</xref>]. The derivation and application of synthetic variants is one approach taken to overcome this limitation [<xref rid="feb413894-bib-0020" ref-type="bibr">20</xref>]. Neutralisation assays with AAV KP1 and AAV KP3 with pooled human immunoglobin suggested that they required greater concentrations of antibody for efficient neutralisation than AAV LKO3, although this was less than that required for AAV DJ [<xref rid="feb413894-bib-0018" ref-type="bibr">18</xref>]. Thus, in addition to these vectors as promising tools for preclinical analysis in HGG, they may have further application in clinical applications in HGG.</p><p>To demonstrate the utility of the AAV vectors for transducing HGG cells, we created a novel YAP/TAZ promoter reporter construct. This novel reporter affords the opportunity to visualise YAP/TAZ activity over time in primary brain cancer cells, for example as cells migrate and invade through environments with different mechanical characteristics. We note that since the first description of the Timer reporter [<xref rid="feb413894-bib-0014" ref-type="bibr">14</xref>], it has become apparent that this molecule has a propensity to aggregate [<xref rid="feb413894-bib-0021" ref-type="bibr">21</xref>]. While this characteristic prevents the use of Timer as a fused tag for analysing protein function in other applications, in the case of the YAP/TAZ Timer, the Timer moiety is unfused and thus is a suitable molecule for analysing promoter activity, even if the molecule undergoes aggregation.</p><p>Transduction with AAV KP1 overcame the limitations of transducing primary HGG cells with plasmid expression vectors. Despite successful transduction, there was only a low rate of positive cells, considerably lower than AAV KP1 constructs constitutively expressing GFP control protein. Notably, the cells were analysed under steady‐state conditions, thus YAP/TAZ activity is not synchronised across the population. Therefore, at any time only a percentage of cells are anticipated to display YAP/TAZ mediated activation of the TEAD promoter and hence Timer expression. Nonetheless, the data demonstrate that AAV can successfully transduce difficult‐to‐transfect primary HGG cells, opening the way for future analysis of temporally regulated pathways in living cells.</p></sec><sec sec-type="COI-statement" id="feb413894-sec-0014"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="feb413894-sec-0017"><title>Author contributions</title><p>Conceived the project: LL and GON; experimental design: FAS, YC, AW, LL and GON; undertook experiments: FAS, YC and AW; interpreted the data FAS, YC and AW; drafted the manuscript: FAS and GON; revised and approved the final manuscript: FAS, YC, AW, LL and GON.</p></sec></body><back><ack id="feb413894-sec-0013"><title>Acknowledgements</title><p>FS was supported by a Research Training Program scholarship from the University of Sydney. Graphical abstract was generated with <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://biorender.com" ext-link-type="uri">BioRender.com</ext-link>. Open access publishing facilitated by The University of Sydney, as part of the Wiley ‐ The University of Sydney agreement via the Council of Australian University Librarians.</p></ack><sec sec-type="data-availability" id="feb413894-sec-0016"><title>Data accessibility</title><p>Data are available upon request from the corresponding author.</p></sec><ref-list id="feb413894-bibl-0001" content-type="cited-references"><title>References</title><ref id="feb413894-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="feb413894-cit-0001">
+<string-name name-style="western">
+<surname>Rao</surname>
+<given-names>JS</given-names>
+</string-name> (<year>2003</year>) <article-title>Molecular mechanisms of glioma invasiveness: the role of proteases</article-title>. <source>Nat Rev Cancer</source>
+<volume>3</volume>, <fpage>489</fpage>–<lpage>501</lpage>.<pub-id pub-id-type="pmid">12835669</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc1121</pub-id></mixed-citation></ref><ref id="feb413894-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="feb413894-cit-0002">
+<string-name name-style="western">
+<surname>Perez</surname>
+<given-names>A</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Huse</surname>
+<given-names>JT</given-names>
+</string-name> (<year>2021</year>) <article-title>The evolving classification of diffuse gliomas: World Health Organization updates for 2021</article-title>. <source>Curr Neurol Neurosci Rep</source>
+<volume>21</volume>, <fpage>67</fpage>.<pub-id pub-id-type="pmid">34817712</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11910-021-01153-8</pub-id></mixed-citation></ref><ref id="feb413894-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="feb413894-cit-0003">
+<string-name name-style="western">
+<surname>Gunjur</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balasubramanian</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hafeez</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Menon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cher</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parakh</surname>
+<given-names>S</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Gan</surname>
+<given-names>HK</given-names>
+</string-name> (<year>2022</year>) <article-title>Poor correlation between preclinical and patient efficacy data for tumor targeted monotherapies in glioblastoma: the results of a systematic review</article-title>. <source>J Neuro‐Oncol</source>
+<volume>159</volume>, <fpage>539</fpage>–<lpage>549</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11060-022-04092-7</pub-id><pub-id pub-id-type="pmid">35933567</pub-id></mixed-citation></ref><ref id="feb413894-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="feb413894-cit-0004">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotliarova</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotliarov</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donin</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pastorino</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Purow</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Christopher</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. (<year>2006</year>) <article-title>Tumor stem cells derived from glioblastomas cultured in bFGF and EGF more closely mirror the phenotype and genotype of primary tumors than do serum‐cultured cell lines</article-title>. <source>Cancer Cell</source>
+<volume>9</volume>, <fpage>391</fpage>–<lpage>403</lpage>.<pub-id pub-id-type="pmid">16697959</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccr.2006.03.030</pub-id></mixed-citation></ref><ref id="feb413894-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="feb413894-cit-0005">
+<string-name name-style="western">
+<surname>Stringer</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Day</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Souza</surname>
+<given-names>RCJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jamieson</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ensbey</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bruce</surname>
+<given-names>ZC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lim</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goasdoué</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Offenhäuser</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akgül</surname>
+<given-names>S</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. (<year>2019</year>) <article-title>A reference collection of patient‐derived cell line and xenograft models of proneural, classical and mesenchymal glioblastoma</article-title>. <source>Sci Rep</source>
+<volume>9</volume>, <fpage>4902</fpage>.<pub-id pub-id-type="pmid">30894629</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-019-41277-z</pub-id><pub-id pub-id-type="pmcid">PMC6427001</pub-id></mixed-citation></ref><ref id="feb413894-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="feb413894-cit-0006">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>GL</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Monje</surname>
+<given-names>M</given-names>
+</string-name> (<year>2017</year>) <article-title>A protocol for rapid post‐mortem cell culture of diffuse intrinsic pontine glioma (DIPG)</article-title>. <source>J Vis Exp</source>
+<elocation-id>55360</elocation-id>. doi: <pub-id pub-id-type="doi">10.3791/55360</pub-id>
+<pub-id pub-id-type="pmid">28362421</pub-id>
+<pub-id pub-id-type="pmcid">PMC5409295</pub-id></mixed-citation></ref><ref id="feb413894-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="feb413894-cit-0007">
+<string-name name-style="western">
+<surname>Grundy</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orcheston‐Findlay</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Silva</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jegathees</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prior</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarker</surname>
+<given-names>FA</given-names>
+</string-name> and <string-name name-style="western">
+<surname>O'Neill</surname>
+<given-names>GM</given-names>
+</string-name> (<year>2022</year>) <article-title>Mechanosensitive expression of the mesenchymal subtype marker connective tissue growth factor in glioblastoma</article-title>. <source>Sci Rep</source>
+<volume>12</volume>, <fpage>14982</fpage>.<pub-id pub-id-type="pmid">36056123</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-022-19175-8</pub-id><pub-id pub-id-type="pmcid">PMC9440209</pub-id></mixed-citation></ref><ref id="feb413894-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="feb413894-cit-0008">
+<string-name name-style="western">
+<surname>Dupont</surname>
+<given-names>S</given-names>
+</string-name> (<year>2016</year>) <article-title>Role of YAP/TAZ in cell‐matrix adhesion‐mediated signalling and mechanotransduction</article-title>. <source>Exp Cell Res</source>
+<volume>343</volume>, <fpage>42</fpage>–<lpage>53</lpage>.<pub-id pub-id-type="pmid">26524510</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.yexcr.2015.10.034</pub-id></mixed-citation></ref><ref id="feb413894-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="feb413894-cit-0009">
+<string-name name-style="western">
+<surname>McCarty</surname>
+<given-names>DM</given-names>
+</string-name> (<year>2008</year>) <article-title>Self‐complementary AAV vectors; advances and applications</article-title>. <source>Mol Ther</source>
+<volume>16</volume>, <fpage>1648</fpage>–<lpage>1656</lpage>.<pub-id pub-id-type="pmid">18682697</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mt.2008.171</pub-id></mixed-citation></ref><ref id="feb413894-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="feb413894-cit-0010">
+<string-name name-style="western">
+<surname>Pupo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernández</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Low</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>François</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suárez‐Amarán</surname>
+<given-names>L</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Samulski</surname>
+<given-names>RJ</given-names>
+</string-name> (<year>2022</year>) <article-title>AAV vectors: the Rubik's cube of human gene therapy</article-title>. <source>Mol Ther</source>
+<volume>30</volume>, <fpage>3515</fpage>–<lpage>3541</lpage>.<pub-id pub-id-type="pmid">36203359</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ymthe.2022.09.015</pub-id><pub-id pub-id-type="pmcid">PMC9734031</pub-id></mixed-citation></ref><ref id="feb413894-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="feb413894-cit-0011">
+<string-name name-style="western">
+<surname>Westhaus</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cabanes‐Creus</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rybicki</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baltazar</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Navarro</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drouyer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knight</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albu</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ng</surname>
+<given-names>BH</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. (<year>2020</year>) <article-title>High‐throughput in vitro, ex vivo, and in vivo screen of adeno‐associated virus vectors based on physical and functional transduction</article-title>. <source>Hum Gene Ther</source>
+<volume>31</volume>, <fpage>575</fpage>–<lpage>589</lpage>.<pub-id pub-id-type="pmid">32000541</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/hum.2019.264</pub-id><pub-id pub-id-type="pmcid">PMC7232709</pub-id></mixed-citation></ref><ref id="feb413894-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="feb413894-cit-0012">
+<string-name name-style="western">
+<surname>Westhaus</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eamegdool</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernando</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuller‐Carter</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brunet</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rashwan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knight</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daniszewski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lidgerwood</surname>
+<given-names>GE</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. (<year>2023</year>) <article-title>AAV capsid bioengineering in primary human retina models</article-title>. <source>Sci Rep</source>
+<volume>13</volume>, <fpage>21946</fpage>.<pub-id pub-id-type="pmid">38081924</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-023-49112-2</pub-id><pub-id pub-id-type="pmcid">PMC10713676</pub-id></mixed-citation></ref><ref id="feb413894-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="feb413894-cit-0013">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>NG</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Gumbiner</surname>
+<given-names>BM</given-names>
+</string-name> (<year>2015</year>) <article-title>Adhesion to fibronectin regulates hippo signaling via the FAK‐Src‐PI3K pathway</article-title>. <source>J Cell Biol</source>
+<volume>210</volume>, <fpage>503</fpage>–<lpage>515</lpage>.<pub-id pub-id-type="pmid">26216901</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1083/jcb.201501025</pub-id><pub-id pub-id-type="pmcid">PMC4523609</pub-id></mixed-citation></ref><ref id="feb413894-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="feb413894-cit-0014">
+<string-name name-style="western">
+<surname>Terskikh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fradkov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ermakova</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaraisky</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kajava</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lukyanov</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. (<year>2000</year>) <article-title>“Fluorescent timer”: protein that changes color with time</article-title>. <source>Science</source>
+<volume>290</volume>, <fpage>1585</fpage>–<lpage>1588</lpage>.<pub-id pub-id-type="pmid">11090358</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.290.5496.1585</pub-id></mixed-citation></ref><ref id="feb413894-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="feb413894-cit-0015">
+<string-name name-style="western">
+<surname>Qin</surname>
+<given-names>EY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbott</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lennon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nagaraja</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mackay</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogel</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jackson</surname>
+<given-names>PK</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Monje</surname>
+<given-names>M</given-names>
+</string-name> (<year>2017</year>) <article-title>Neural precursor‐derived pleiotrophin mediates subventricular zone invasion by glioma</article-title>. <source>Cell</source>
+<volume>170</volume>, <fpage>845</fpage>–<lpage>859</lpage>.e19.<pub-id pub-id-type="pmid">28823557</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2017.07.016</pub-id><pub-id pub-id-type="pmcid">PMC5587159</pub-id></mixed-citation></ref><ref id="feb413894-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="feb413894-cit-0016">
+<string-name name-style="western">
+<surname>Goertsen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flytzanis</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goeden</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chuapoco</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cummins</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duan</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. (<year>2022</year>) <article-title>AAV capsid variants with brain‐wide transgene expression and decreased liver targeting after intravenous delivery in mouse and marmoset</article-title>. <source>Nat Neurosci</source>
+<volume>25</volume>, <fpage>106</fpage>–<lpage>115</lpage>.<pub-id pub-id-type="pmid">34887588</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41593-021-00969-4</pub-id></mixed-citation></ref><ref id="feb413894-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="feb413894-cit-0017">
+<string-name name-style="western">
+<surname>Shchaslyvyi</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Antonenko</surname>
+<given-names>SV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tesliuk</surname>
+<given-names>MG</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Telegeev</surname>
+<given-names>GD</given-names>
+</string-name> (<year>2023</year>) <article-title>Current state of human gene therapy: approved products and vectors</article-title>. <source>Pharmaceuticals (Basel)</source>
+<volume>16</volume>, <elocation-id>1416</elocation-id>.<pub-id pub-id-type="pmid">37895887</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ph16101416</pub-id><pub-id pub-id-type="pmcid">PMC10609992</pub-id></mixed-citation></ref><ref id="feb413894-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="feb413894-cit-0018">
+<string-name name-style="western">
+<surname>Pekrun</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Alencastro</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>QJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nygaard</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galivo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tiffany</surname>
+<given-names>MR</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. (<year>2019</year>) <article-title>Using a barcoded AAV capsid library to select for clinically relevant gene therapy vectors</article-title>. <source>JCI Insight</source>
+<volume>4</volume>, <elocation-id>e131610</elocation-id>.<pub-id pub-id-type="pmid">31723052</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/jci.insight.131610</pub-id><pub-id pub-id-type="pmcid">PMC6948855</pub-id></mixed-citation></ref><ref id="feb413894-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="feb413894-cit-0019">
+<string-name name-style="western">
+<surname>Zaiss</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bowen</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wong</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartlett</surname>
+<given-names>JS</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Muruve</surname>
+<given-names>DA</given-names>
+</string-name> (<year>2002</year>) <article-title>Differential activation of innate immune responses by adenovirus and adeno‐associated virus vectors</article-title>. <source>J Virol</source>
+<volume>76</volume>, <fpage>4580</fpage>–<lpage>4590</lpage>.<pub-id pub-id-type="pmid">11932423</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/JVI.76.9.4580-4590.2002</pub-id><pub-id pub-id-type="pmcid">PMC155101</pub-id></mixed-citation></ref><ref id="feb413894-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="feb413894-cit-0020">
+<string-name name-style="western">
+<surname>Santiago‐Ortiz</surname>
+<given-names>JL</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Schaffer</surname>
+<given-names>DV</given-names>
+</string-name> (<year>2016</year>) <article-title>Adeno‐associated virus (AAV) vectors in cancer gene therapy</article-title>. <source>J Control Release</source>
+<volume>240</volume>, <fpage>287</fpage>–<lpage>301</lpage>.<pub-id pub-id-type="pmid">26796040</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2016.01.001</pub-id><pub-id pub-id-type="pmcid">PMC4940329</pub-id></mixed-citation></ref><ref id="feb413894-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="feb413894-cit-0021">
+<string-name name-style="western">
+<surname>Tsuboi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kitaguchi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karasawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fukuda</surname>
+<given-names>M</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Miyawaki</surname>
+<given-names>A</given-names>
+</string-name> (<year>2010</year>) <article-title>Age‐dependent preferential dense‐core vesicle exocytosis in neuroendocrine cells revealed by newly developed monomeric fluorescent timer protein</article-title>. <source>Mol Biol Cell</source>
+<volume>21</volume>, <fpage>87</fpage>–<lpage>94</lpage>.<pub-id pub-id-type="pmid">19889833</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1091/mbc.E09-08-0722</pub-id><pub-id pub-id-type="pmcid">PMC2801723</pub-id></mixed-citation></ref></ref-list></back></article>

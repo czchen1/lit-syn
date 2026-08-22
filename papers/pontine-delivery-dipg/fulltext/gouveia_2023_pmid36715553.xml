@@ -1,0 +1,1276 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="acn351737" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="iso-abbrev">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="pmc-domain-id">2565</journal-id><journal-id journal-id-type="pmc-domain">ancltransneuro</journal-id><journal-id journal-id-type="nlm-id">101623278</journal-id><journal-id journal-id-type="publisher-id">ACN3</journal-id><journal-title-group><journal-title>Annals of Clinical and Translational Neurology</journal-title></journal-title-group><issn pub-type="epub">2328-9503</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10109287</article-id><article-id pub-id-type="pmcid-ver">PMC10109287.1</article-id><article-id pub-id-type="pmcaid">10109287</article-id><article-id pub-id-type="pmcaiid">10109287</article-id><article-id pub-id-type="pmid">36715553</article-id><article-id pub-id-type="doi">10.1002/acn3.51737</article-id><article-id pub-id-type="publisher-id">ACN351737</article-id><article-id pub-id-type="other">ACN3-2022-11-0571.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Anesthetic‐loaded nanodroplets with focused ultrasound reduces agitation in Alzheimer's mice</article-title><alt-title alt-title-type="right-running-head">
+<styled-content style="fixed-case" toggle="no">FUS</styled-content> Reduces Agitation in Alzheimer's Mice</alt-title><alt-title alt-title-type="left-running-head">F. V. Gouveia <italic toggle="no">et al.</italic>
+</alt-title></title-group><contrib-group><contrib id="acn351737-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Gouveia</surname><given-names initials="FV">Flavia Venetucci</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0029-1269</contrib-id><xref rid="acn351737-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn351737-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>flavia.venetuccigouveia@sickkids.ca</email></address></contrib><contrib id="acn351737-cr-0002" contrib-type="author"><name name-style="western"><surname>Lea‐Banks</surname><given-names initials="H">Harriet</given-names></name><xref rid="acn351737-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="acn351737-cr-0003" contrib-type="author"><name name-style="western"><surname>Aubert</surname><given-names initials="I">Isabelle</given-names></name><xref rid="acn351737-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn351737-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="acn351737-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="acn351737-cr-0004" contrib-type="author"><name name-style="western"><surname>Lipsman</surname><given-names initials="N">Nir</given-names></name><xref rid="acn351737-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn351737-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="acn351737-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="acn351737-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="acn351737-cr-0005" contrib-type="author"><name name-style="western"><surname>Hynynen</surname><given-names initials="K">Kullervo</given-names></name><xref rid="acn351737-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="acn351737-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="acn351737-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="acn351737-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="acn351737-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Hamani</surname><given-names initials="C">Clement</given-names></name><xref rid="acn351737-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn351737-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="acn351737-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="acn351737-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><address><email>clement.hamani@sunnybrook.ca</email></address></contrib></contrib-group><aff id="acn351737-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Biological Sciences Platform</named-content>
+<institution>Sunnybrook Research Institute</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<postal-code>M4N 3M5</postal-code>
+<country country="CA">Canada</country>
+</aff><aff id="acn351737-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Neurosciences and Mental Health</named-content>
+<institution>The Hospital for Sick Children</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<postal-code>M5G 1X8</postal-code>
+<country country="CA">Canada</country>
+</aff><aff id="acn351737-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Physical Sciences Platform</named-content>
+<institution>Sunnybrook Research Institute</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<postal-code>M4N 3M5</postal-code>
+<country country="CA">Canada</country>
+</aff><aff id="acn351737-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Laboratory Medicine &amp; Pathobiology</named-content>
+<institution>University of Toronto</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<postal-code>M5S 1A1</postal-code>
+<country country="CA">Canada</country>
+</aff><aff id="acn351737-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Hurvitz Brain Sciences Program, Sunnybrook Health Sciences Centre</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<postal-code>M4N 3M5</postal-code>
+<country country="CA">Canada</country>
+</aff><aff id="acn351737-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Harquail Centre for Neuromodulation, Sunnybrook Health Sciences Centre</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<postal-code>M4N 3M5</postal-code>
+<country country="CA">Canada</country>
+</aff><aff id="acn351737-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Division of Neurosurgery</named-content>
+<institution>University of Toronto</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<postal-code>M5T 1P5</postal-code>
+<country country="CA">Canada</country>
+</aff><aff id="acn351737-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Biophysics</named-content>
+<institution>University of Toronto</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<postal-code>M5S 1A1</postal-code>
+<country country="CA">Canada</country>
+</aff><aff id="acn351737-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Institute of Biomedical Engineering, University of Toronto</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<postal-code>M5S 1A1</postal-code>
+<country country="CA">Canada</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Flavia Venetucci Gouveia, Neuroscience and Mental Health, The Hospital for Sick Children, 555 University Ave, Toronto, ON M5G 0A4, Canada. E‐mail: <email>flavia.venetuccigouveia@sickkids.ca</email>; Tel: +1 416 813 1500 and Clement Hamani. Sunnybrook Research Institute, 2075 Bayview Ave, S1 26, Toronto, ON M4N 3M5, Canada. E‐mail: <email>clement.hamani@sunnybrook.ca</email>; Tel: +1 416 480 6100<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>1</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2023</year></pub-date><volume>10</volume><issue seq="50">4</issue><issue-id pub-id-type="pmc-issue-id">433644</issue-id><issue-id pub-id-type="doi">10.1002/acn3.v10.4</issue-id><fpage>507</fpage><lpage>519</lpage><history>
+<date date-type="rev-recd"><day>03</day><month>1</month><year>2023</year></date>
+<date date-type="received"><day>03</day><month>11</month><year>2022</year></date>
+<date date-type="accepted"><day>16</day><month>1</month><year>2023</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>30</day><month>01</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>18</day><month>04</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-04-18 04:10:36.923"><day>18</day><month>04</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2023 The Authors. <italic toggle="yes">Annals of Clinical and Translational Neurology</italic> published by Wiley Periodicals LLC on behalf of American Neurological Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ACN3-10-507.pdf"><?pdf-name ACN3-10-507.pdf?><?pdf-size 1340495?><?pdf-md5 8ebf323c96a124e5b03e80a466004c1e?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:c874/10109287/8ebf323c96a1/ACN3-10-507.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ACN3-10-507.pdf"/><abstract><title>Abstract</title><sec id="acn351737-sec-0001"><title>Objective</title><p>Alzheimer's disease (AD) is often associated with neuropsychiatric symptoms, including agitation and aggressive behavior. These symptoms increase with disease severity, ranging from 10% in mild cognitive impairment to 50% in patients with moderate‐to‐severe AD, pose a great risk for self‐injury and injury to caregivers, result in high rates of institutionalization and great suffering for patients and families. Current pharmacological therapies have limited efficacy and a high potential for severe side effects. Thus, there is a growing need to develop novel therapeutics tailored to safely and effectively reduce agitation and aggressive behavior in AD. Here, we investigate for the first time the use of focused ultrasound combined with anesthetic‐loaded nanodroplets (nanoFUS) targeting the amygdala (key structure in the neurocircuitry of agitation) as a novel minimally invasive tool to modulate local neural activity and reduce agitation and aggressive behavior in the TgCRND8 AD transgenic mice.</p></sec><sec id="acn351737-sec-0002"><title>Methods</title><p>Male and female animals were tested in the resident‐intruder (i.e., aggressive behavior) and open‐field tests (i.e., motor agitation) for baseline measures, followed by treatment with active‐ or sham‐nanoFUS. Behavioral testing was then repeated after treatment.</p></sec><sec id="acn351737-sec-0003"><title>Results</title><p>Active‐nanoFUS neuromodulation reduced aggressive behavior and agitation in male mice, as compared to sham‐treated controls. Treatment with active‐nanoFUS increased the time male mice spent in social‐non‐aggressive behaviors.</p></sec><sec id="acn351737-sec-0004"><title>Interpretation</title><p>Our results show that neuromodulation with active‐nanoFUS may be a potential therapeutic tool for the treatment of neuropsychiatric symptoms, with special focus on agitation and aggressive behaviors. Further studies are necessary to establish cellular, molecular and long‐term behavioral changes following treatment with nanoFUS.</p></sec></abstract><funding-group><award-group id="funding-0001"><funding-source>Canada Research Chair in Brain Repair and Regeneration Tier 1</funding-source></award-group><award-group id="funding-0002"><funding-source>Canadian Institutes for Health Research</funding-source><award-id>FRN 119312</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Canadian Institutes of Health Research
+</institution><institution-id institution-id-type="doi">10.13039/501100000024</institution-id></institution-wrap></funding-source><award-id>472484</award-id></award-group><award-group id="funding-0004"><funding-source>Harquail Centre for Neuromodulation</funding-source></award-group><award-group id="funding-0005"><funding-source>National Institute of Biomedical Imaging and Bioengineering of the National Institutes of Health</funding-source><award-id>R01 EB003268</award-id></award-group><award-group id="funding-0006"><funding-source>Temerty Chair in Focused Ultrasound Research at Sunnybrook Health Sciences Centre</funding-source></award-group><funding-statement>This work was funded by <funding-source>Canada Research Chair in Brain Repair and Regeneration Tier 1</funding-source>; <funding-source>Canadian Institutes for Health Research</funding-source> grant <award-id>FRN 119312</award-id>; <funding-source><institution-wrap><institution>Canadian Institutes of Health Research
+</institution><institution-id institution-id-type="doi">10.13039/501100000024</institution-id></institution-wrap></funding-source> grant <award-id>472484</award-id>; <funding-source>Harquail Centre for Neuromodulation</funding-source>; <funding-source>National Institute of Biomedical Imaging and Bioengineering of the National Institutes of Health</funding-source> grant <award-id>R01 EB003268</award-id>; <funding-source>Temerty Chair in Focused Ultrasound Research at Sunnybrook Health Sciences Centre</funding-source>.</funding-statement></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="519"/><word-count count="8846"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC converted:17.04.2023</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="acn351737-body-0001"><sec id="acn351737-sec-0005"><title>Introduction</title><p>Alzheimer's disease (AD) is a chronic and progressive neurodegenerative disorder, characterized by impairments in memory and cognition, the accumulation of extracellular amyloid‐β plaques, intraneuronal fibrillar depositions of tau protein, and neuronal loss.<xref rid="acn351737-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> AD is the most common form of dementia, with a global prevalence expected to reach over 100 million cases by 2050.<xref rid="acn351737-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Along with cognitive changes, patients with AD often experience neuropsychiatric symptoms, such as depression, delusions, and agitation.<xref rid="acn351737-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="acn351737-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>Agitation is a multifactorial behavioral syndrome that includes excessive motor activity (e.g., pacing and restlessness), verbal (e.g., yelling and shouting), and/or physical aggression (e.g., grabbing, hitting others and/or self, destroying property).<xref rid="acn351737-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Agitation increases with disease severity, from approximately 10% in mild cognitive impairment,<xref rid="acn351737-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> up to 50% in patients with moderate‐to‐severe AD,<xref rid="acn351737-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> affecting 48–88% of institutionalized patients.<xref rid="acn351737-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="acn351737-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Patients with AD and associated agitation are challenging to treat, pose a high caregiver burden, have a poor quality of life and an increased rate of institutionalization.<xref rid="acn351737-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="acn351737-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Also, standard medical treatments with antipsychotic medications may be costly, lead to undesirable side effects, and increase mortality risk.<xref rid="acn351737-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="acn351737-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Thus, the development of novel therapeutics tailored to address these symptoms is paramount.</p><p>Magnetic resonance imaging (MRI) studies in patients with AD and agitation have shown widespread cortical atrophy and loss of white matter integrity in limbic and frontal cortical regions.<xref rid="acn351737-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="acn351737-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="acn351737-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> This correlates with reduced metabolic activity in frontal, temporal, and cingulate cortices,<xref rid="acn351737-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="acn351737-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="acn351737-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> as well as an increased activation of the amygdala.<xref rid="acn351737-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> These results are in line with previous studies suggesting that agitation and aggressive behavior occur as a result of a reduced top‐down inhibitory control of frontal areas over the amygdala, which becomes hyperactive.<xref rid="acn351737-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="acn351737-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="acn351737-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="acn351737-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> In fact, the modulation or inactivation of the amygdala have been reported to successfully reduce agitation and aggressive behaviors in distinct patient populations.<xref rid="acn351737-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="acn351737-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="acn351737-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p><p>Targeted neuromodulation with ultrasound‐sensitive nanodroplets coupled with Focused Ultrasound (nanoFUS) is a safe, reproducible and attractive minimally invasive tool that does not compromise the integrity of the blood–brain barrier (BBB). In addition, anesthetic‐loaded nanodroplets are highly stable and have a prolonged half‐life compared to microbubbles.<xref rid="acn351737-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="acn351737-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="acn351737-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> The release and distribution of pharmaceuticals loaded onto nanodroplets only occur above the vaporization threshold and are pressure‐dependent, achieving precise spatial resolution.<xref rid="acn351737-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Furthermore, it is possible to predict the extent of the distribution via the acoustic emissions detected during sonications<xref rid="acn351737-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> and investigate the successful treatment via the behavioral modifications observed in rodents.<xref rid="acn351737-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="acn351737-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><p>Mouse models of AD are useful for the development of novel therapeutics, as they can present with amyloid and/or tau pathology and behavioral changes that mimic AD symptoms. Agitation, as detected by increased motor activity in homecage or in the open‐field test (OFT), has been reported to occur spontaneously in several AD mouse models.<xref rid="acn351737-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Male mice with AD pathology frequently show aggressive behaviors towards same‐sex conspecifics,<xref rid="acn351737-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> a feature not observed in females (for a review see Kosel et al.<xref rid="acn351737-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>). The TgCRND8 mouse model of AD<xref rid="acn351737-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> encodes a double mutant form of the human amyloid precursor protein 695,<xref rid="acn351737-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> presenting amyloid pathology and cognitive deficits by 3 months of age, and are extensively used for the study of novel therapeutics.<xref rid="acn351737-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="acn351737-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="acn351737-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="acn351737-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="acn351737-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> In this study, we apply nanoFUS for the first time in a mouse model of AD to test the hypothesis that bilateral intra‐amygdala nanoFUS neuromodulation will reduce agitation and aggressive behavior in TgCRND8 mice.</p></sec><sec sec-type="materials-and-methods" id="acn351737-sec-0006"><title>Materials and Methods</title><sec id="acn351737-sec-0007"><title>Animals included and husbandry</title><p>All procedures were approved by the Sunnybrook Research Institute Animal Care Committee and were in agreement with the guidelines of the Canadian Council on Animal Care and the Animals for Research Act of Ontario. Male and female 3 months old (at onset of experiments) transgenic CRND8 (TgCRND8) mice from the Centre for Research in Neurodegenerative Disease were used (12 female, 14 male). Mice were bred and housed at the Sunnybrook Research Institute (Toronto, Canada). TgCRND8 mice were maintained on a C57BL/6 and C3H hybrid background, encoding a double mutant form of the human amyloid precursor protein 695 (i.e., Swedish [KM670/671NL] and Indiana [V717F]) under the control of the hamster prion (PrP gene) promoter.<xref rid="acn351737-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> TgCRND8 mice amyloid pathology has been well characterized in various immunization paradigms.<xref rid="acn351737-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="acn351737-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="acn351737-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> At the onset of the experiments, TgCRND8 mice were transferred to an inverted 12 h light cycle housing room with optimal conditions of temperature and humidity and kept single‐housed in regular mouse cages containing nest material and environmental enrichments, with free access to food and water. Single housing was necessary for the development of isolation‐induced aggressive behavior.<xref rid="acn351737-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="acn351737-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> BALB/cAnNCrl (Charles River Laboratories Canada) of the same sex and age at the time of behavioral testing were used as intruders. These mice were group housed (minimum of 2, maximum of 5 animals/cage) in regular mouse cages containing nest material and environmental enrichments with free access to food and water, and maintained in optimal conditions of temperature and humidity in an inverted 12 h light cycle.</p></sec><sec id="acn351737-sec-0008"><title>Study design</title><p>Twenty‐six 3‐month‐old male and female TgCRND8 mice were single housed for 3 weeks in an inverted 12 h light cycle housing room, for the development of the isolation‐induced aggressive behavior. Following the isolation period, mice were tested in the Resident‐Intruder Test (RIT) in 4 distinct encounters with intruders, followed by the open‐field test (OFT) for the assessment of locomotor activity and motor agitation. Aggressive behavior was present in all male mice, but not in females after 3 weeks of single housing. Animals were then treated with active‐ or sham‐nanoFUS (Females [active <italic toggle="yes">n</italic> = 8, sham <italic toggle="yes">n</italic> = 4], Males [active <italic toggle="yes">n</italic> = 10, sham = 4]) targeting the amygdala bilaterally. Mice in the active‐nanoFUS group received pentobarbital‐loaded nanodroplets, while animals in the sham‐nanoFUS group were treated with empty nanodroplets. They were then evaluated using the 18‐points neurological test<xref rid="acn351737-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> (details in the Behavioral Testing below), and tested on 2 additional RIT, followed by an additional OFT. Vaginal cytology was performed in all females to determine the stage of the estrous cycle. Figure <xref rid="acn351737-fig-0001" ref-type="fig">1A</xref> illustrates the study design.</p><fig position="float" fig-type="Figure" id="acn351737-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Study design. (A) Treating agitation/aggressive behavior in TgCRND8 mice with ultrasound‐sensitive nanodroplets (nanoFUS) targeting the amygdala. After 3 weeks of single housing, animals were tested 4 times in the resident‐intruder test (RIT) and one time in the open‐field test (OFT) for the assessment of baseline levels of aggressive behavior and motor agitation. TgCRND8 mice were then treated with active‐ or sham‐nanoFUS, followed by an evaluation using the 18‐points composite neurological test (NT), and retested in the RIT and OFT for after treatment measures of behavior. (B) Illustration of the LP100 focused ultrasound system used in this study. (C) Illustrations of coronal and sagittal sections of the mouse brain showing the eight focal spots used to cover the amygdala bilaterally (4 focal spots per hemisphere).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ACN3-10-507-g001.jpg"><?image-name ACN3-10-507-g001.jpg?><?image-size 103691?><?image-md5 687a540970c96f976c4a7a44123ba74c?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 811?><?image-original-width 1064?><?image-scaled-height 540?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c874/10109287/687a540970c9/ACN3-10-507-g001.jpg?><?thumb-name ACN3-10-507-g001.gif?><?thumb-size 5422?><?thumb-md5 ec818a641203a41295ca99703b04dc1e?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 104?><?thumb-cloudpmc-urn urn:cdn:blobs/c874/10109287/ec818a641203/ACN3-10-507-g001.gif?></graphic></fig></sec><sec id="acn351737-sec-0009"><title>Behavioral testing</title><p>Behavioral testing was conducted under red light (active time of the animals' day/night cycle), as mice were kept in an inverted light cycle. Sessions were video‐recorded and analyzed by an expert observer blinded to treatment allocation using the EthoWatcher® software.<xref rid="acn351737-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+</p><sec id="acn351737-sec-0010"><title>Resident‐intruder test</title><p>The RIT, a standard test for aggression in mice, was used to investigate aggressive behavior.<xref rid="acn351737-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> Mice were single housed for 3 weeks for the development of isolation‐induced aggression (i.e., Resident). Thereafter, during each trial, resident mice were exposed to an intruder (i.e., unfamiliar adult mouse of the same‐sex) in its home cage for 5 min. Behaviors were categorized in social or non‐social, and further subdivided in social‐aggressive (i.e., bites/attacks, threats, mounting, and pursuit), social‐non‐aggressive (i.e., whole body social sniffing and whole body social grooming), non‐social‐towards‐self (i.e., self‐grooming), and non‐social‐towards‐environment (i.e., exploring, eating, digging, and resting).</p></sec><sec id="acn351737-sec-0011"><title>Open‐field test</title><p>The OFT was used to access motor agitation, as previously described.<xref rid="acn351737-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Mice were placed in the open‐field apparatus (50 cm × 50 cm × 38 cm) and allowed to freely explore it for 5 min. Between sessions, the OF was cleaned with virox and ethanol solutions and dried with a paper towel. The total distance (cm) traveled during the test and average speed (cm/sec) were scored. To better investigate motor agitation, speed fluctuations during the test were individually calculated using the standard deviation of each animal's velocity.</p></sec><sec id="acn351737-sec-0012"><title>18‐Points composite neurological test</title><p>Mice were assessed in the 18‐points neurological test to determine whether they were fully recovered from anesthesia prior to further testing. Scoring was conducted according to a standard classification system<xref rid="acn351737-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> evaluating neurological responses in 6 domains: (i) Spontaneous activity (i.e., ability to freely and spontaneously move, and approach all four walls of the cage during 5 min of observation); (ii) Symmetry in the movement of the four limbs (i.e., the animal is briefly held in the air by the tail to observe whether all four limbs extend symmetrically); (iii) Forepaw Outstretching (i.e., the animal is briefly placed on the edge of the cage lid, while being held by the tail to observe whether both forelimbs outstretch, and the animal walks symmetrically on forepaws); (iv) Climbing (i.e., the animal is placed on the wall of a wired cage to observe climbing and the strength of attachment to the wire); (v) Body proprioception (i.e., the animal is gently touched with a blunt stick on each side of the hind body to observe the reaction of turning the head towards the stimulus); (vi) Response to vibrissae touch (i.e., the animal's vibrissae is gently touched with a blunt stick on each side of the face, starting from the back of the head, to observe the reaction of turning the head towards the stimulus). Lower scores indicate neurological impairment. Only animals presenting normal neurological activity were included in this study, as neurological impairment would alter the animal's response on the behavioral testing and the recorded results could be potentially misinterpreted.</p></sec></sec><sec id="acn351737-sec-0013"><title>Magnetic resonance guided focused ultrasound with ultrasound‐sensitive nanodroplets</title><p>Mice were anesthetized with Isoflurane and a 22 gauge tail vein catheter was placed. Depilatory cream was used to remove hair from the scalp, and ultrasound gel was applied to enable sufficient coupling with the system. The animal was then positioned supine on top of an MRI‐compatible ultrasound positioning system. Using a 7‐Tesla small bore MRI scanner (BioSpec 70/30 USR, Bruker, Billerica, MA, USA), T2‐weighted images were acquired for precise targeting (TR = 800 ms, TE = 3 ms, matrix = 256 × 256, Slice Thickness = 1.5 mm). The ultrasound‐sensitive nanodroplets were fabricated as previously described.<xref rid="acn351737-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="acn351737-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Briefly, definity‐based (Lantheus Medical Imaging, USA) nanodroplets with lipid shell and liquid decafluorobutane (Synquest Labs, USA) core were synthesized using a modified condensation technique<xref rid="acn351737-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="acn351737-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> and loaded with pentobarbital (25 μg/mL, Sigma Aldrich Millipore Sigma, USA). The final nanodroplet solution was passed slowly through a cold 0.8 μm sterile syringe filter (Minisart Syringe Filter, Sartorius, Germany) to remove erroneous large droplets. Nanodroplets were delivered via the tail vein catheter in a slow bolus (0.1 mL per injection, 1 injection per hemisphere), followed by a 100 μL saline flush, 10 sec after the start of FUS sonication.<xref rid="acn351737-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="acn351737-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><p>Focused ultrasound was delivered using an ultrasound system (a prototype of LP100, FUS Instruments Inc., Toronto, ON, Canada; Fig. <xref rid="acn351737-fig-0001" ref-type="fig">1B</xref>) with a spherically focused transducer (1.78 MHz center frequency, 60 mm radius of curvature, 75 mm external diameter with circular cut‐out of 20 mm diameter in the center of the transducer), with a coaxially aligned polyvinylidene fluoride (PVDF) hydrophone embedded in the center, used to detect acoustic activity from vaporizing nanodroplets. The focal pressure was calibrated in water using a planar fiber optic hydrophone with an active tip diameter of 10 μm (Precision Acoustics Ltd., Dorset, UK). The system includes a tank of degassed and deionized water through which the transducer is moved using a motorized positioning system. The surface of the water is coupled to a polyimide membrane which in turn is coupled, using ultrasound gel, to the animal's skull. The spatial coordinates of the LP100 system were co‐registered with the 7 T MRI scanner, allowing the target to be determined using axial T2w images. In the current study, eight focal spots were chosen to cover the amygdala bilaterally (4 focal spots per hemisphere, Fig. <xref rid="acn351737-fig-0001" ref-type="fig">1C</xref>), where each ultrasound focus had a volume of 0.8 × 0.8 × 3 mm. The sonication parameters were selected based on previous work<xref rid="acn351737-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="acn351737-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="acn351737-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="acn351737-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="acn351737-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> showing optimal nanodroplet vaporization without disrupting the BBB, and were applied using 10 msec bursts, at a repetition frequency of 1 Hz, for 180 sec, starting 10 sec before nanodroplet injection. For all sonications, the acoustic pressure amplitude was increased in a stepwise manner, starting at 1.0 MPa, with 0.012 MPa increments until subharmonic emissions were detected, signaling nanodroplet vaporization. At the end of the procedures, animals returned to their homecages and were allowed to recover for 1 h.</p></sec><sec id="acn351737-sec-0014"><title>Vaginal cytology</title><p>Vaginal lavage was performed in all female mice on the final day of experiments, by applying 100 μL of sterile saline solution via a 200 μL pipette. After collection, the samples were stained with Giemsa and evaluated under light microscopy.<xref rid="acn351737-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> In the last day of the experiments, 14% of females were in estrus, 43% in diestrus, 29% in metestrus, and 14% in proestrus. There were no statistical differences in the estrous cycle, and the stages of the estrous cycle were included in all statistical models as fixed effects.</p></sec><sec id="acn351737-sec-0015"><title>Statistical analyses</title><p>Statistical analyses were performed using the packages survival (version 3.2–13) and lme4 (version 1.1–23) in R (version 3.6.1; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.r-project.org/" ext-link-type="uri">https://www.r‐project.org/</ext-link>). Latency to Attack and percentage of animals attacking were analyzed using Cox Proportional Hazards Model and Pearson's chi‐squared test with Yates' continuity correction. For the remaining behaviors, linear mixed effect models were chosen, as they allow for the analysis of the relationship between a response variable (i.e., dependent variable) and one or more variables and their interactions (i.e., independent variables, or fixed effect). In these models, behavior of interest was set as the dependent variable, timepoint (i.e., trials 1–6) as fixed effect, and subject as a random effect. For females, the stage of the estrous cycle was added to the model as a fixed effect. The nanoFUS target pressure was evaluated using t‐test. Where applicable, data are presented as mean ± standard error. The level of significance was set at <italic toggle="yes">p</italic> &lt; 0.05.</p></sec></sec><sec sec-type="results" id="acn351737-sec-0016"><title>Results</title><p>Male and female TgCRND8 mice were randomly assigned to receive active‐ or sham‐nanoFUS neuromodulation targeting the amygdala bilaterally (Fig. <xref rid="acn351737-fig-0002" ref-type="fig">2A</xref>). The target pressure was determined by ramping the ultrasound pressure until the onset of subharmonic activity was detected by the hydrophone. Ultrasound transmission through the skull is known to correlate with the rodent's weight.<xref rid="acn351737-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> Males were heavier than females and required greater target pressure (females: 20.6 ± 3 g, 2 ± 0.2 MPa; males: 27.8 ± 1.9 g, 2.1 ± 0.2 MPa; t = −2.11, <italic toggle="yes">df</italic> = 24, <italic toggle="yes">p</italic> = 0.045; Fig. <xref rid="acn351737-fig-0002" ref-type="fig">2B,C</xref>). Following treatment, animals were allowed to recover for 1 h in their homecage, followed by an evaluation with the 18‐point neurological scale. One male mouse presented neurological deficits and was excluded from further analyses (i.e., reduced spontaneous motor activity with the animal barely moving in the home cage; slow response to body and vibrissae stimuli). Animals were then tested in the RIT and OFT.</p><fig position="float" fig-type="Figure" id="acn351737-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>NanoFUS treatment and resident‐intruder test. Treatment of aggressive behavior/agitation in the TgCRND8 mouse model of Alzheimer's Disease using Magnetic Resonance Guided Focused Ultrasound with Ultrasound‐Sensitive Nanodroplets (nanoFUS). (A). Axial T2 weighted magnetic resonance images showing an amygdala bilaterally targeted with nanoFUS. (B). The target pressure required to reach subharmonic activity corresponded to the animals' weight. (C) Males were heavier and required a greater target pressure to reach subharmonic activity compared to females. (D) There were no differences between animals at baseline measures on the latency to attack and the proportion of animals attacking. (E) Active‐nanoFUS (Active) treatment resulted in an increased latency to attack and a reduced proportion of animals attacking as compared to sham‐nanoFUS group (Sham). (F) There were no differences between animals before treatment on the number of attacks performed in each trial. (G) Active‐nanoFUS neuromodulation resulted in a reduced number of attacks as compared to sham‐nanoFUS control. Significance codes: *<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.01; ns: non‐significant.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ACN3-10-507-g003.jpg"><?image-name ACN3-10-507-g003.jpg?><?image-size 93522?><?image-md5 3aafc097bf116bedc230f833806c60b3?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1057?><?image-original-width 1064?><?image-scaled-height 704?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c874/10109287/3aafc097bf11/ACN3-10-507-g003.jpg?><?thumb-name ACN3-10-507-g003.gif?><?thumb-size 5352?><?thumb-md5 de276a22e0a9d4fbdadb572e957b606a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 99?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/c874/10109287/de276a22e0a9/ACN3-10-507-g003.gif?></graphic></fig><sec id="acn351737-sec-0017"><title>Resident‐intruder test</title><p>Before treatment, no differences were found between male mice allocated to the active‐ or sham‐nanoFUS groups in the latency to attack (<italic toggle="yes">β</italic> = −0.4, exp = 0.6, <italic toggle="yes">SE</italic> = 0.3, z = −1.4, <italic toggle="yes">p</italic> = 0.174) or the proportion of attacking animals (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 1.6, <italic toggle="yes">df</italic> = 1, <italic toggle="yes">p</italic> = 0.205; Fig. <xref rid="acn351737-fig-0002" ref-type="fig">2D</xref>). After treatment, male mice in the active‐nanoFUS group had a significantly higher latency to attack compared to sham‐treated controls (<italic toggle="yes">β</italic> = −1.6, exp = 0.2, <italic toggle="yes">SE</italic> = 0.6, z = −2.4, <italic toggle="yes">p</italic> = 0.017). In addition, the proportion of animals that attacked the intruders was smaller in the active‐nanoFUS group compared to sham‐treated animals (<italic toggle="yes">χ</italic>
+<sup>2</sup> = 4.5, <italic toggle="yes">df</italic> = 1, <italic toggle="yes">p</italic> = 0.034, Fig. <xref rid="acn351737-fig-0002" ref-type="fig">2E</xref>).</p><p>No differences between groups were observed before treatment in the number of attacks per trial (<italic toggle="yes">β</italic> = 2.4, <italic toggle="yes">SE</italic> = 3.6, <italic toggle="yes">df</italic> = 11, <italic toggle="yes">p</italic> = 0.506). Both groups showed the same progressive increase in the number of attacks, such that both groups attacked more times on trial 4 than in previous trials (<italic toggle="yes">β</italic> = −10, <italic toggle="yes">SE</italic> = 4.5, <italic toggle="yes">df</italic> = 55, <italic toggle="yes">p</italic> = 0.029; Fig. <xref rid="acn351737-fig-0002" ref-type="fig">2F</xref>). After nanoFUS neuromodulation, a significant reduction in the number of attacks was observed, with male animals in the active‐nanoFUS group attacking less compared to animals in the sham‐nanoFUS group (<italic toggle="yes">β</italic> = −15, <italic toggle="yes">SE</italic> = 5.4, <italic toggle="yes">df</italic> = 55, <italic toggle="yes">p</italic> = 0.007; Fig. <xref rid="acn351737-fig-0002" ref-type="fig">2G</xref>). No female mice showed aggressive behaviors in the RIT (Table <xref rid="acn351737-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="acn351737-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Behavioral response in the resident‐intruder test (RIT) and open‐field test (OFT).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1"/><th align="left" colspan="12" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>FEMALE</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">
+<bold>Variable RIT</bold>
+</th><th align="left" colspan="8" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Baseline</bold>
+</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>After treatment</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Active‐nanoFUS</bold>
+</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Sham‐nanoFUS</bold>
+</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Active‐nanoFUS</bold>
+</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Sham‐nanoFUS</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>1st</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>2nd</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>3rd</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>4th</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>1st</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>2nd</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>3rd</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>4th</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>5th</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>6th</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>5th</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>6th</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Latency to attack (sec)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Animals attacking (%)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Number of attacks</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time in aggressive behavior (%)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time in non‐social behavior (%)</td><td align="left" valign="top" rowspan="1" colspan="1">67 ± 16</td><td align="left" valign="top" rowspan="1" colspan="1">59 ± 16</td><td align="left" valign="top" rowspan="1" colspan="1">52 ± 6</td><td align="left" valign="top" rowspan="1" colspan="1">54 ± 17</td><td align="left" valign="top" rowspan="1" colspan="1">51 ± 19</td><td align="left" valign="top" rowspan="1" colspan="1">69 ± 13</td><td align="left" valign="top" rowspan="1" colspan="1">55 ± 29</td><td align="left" valign="top" rowspan="1" colspan="1">54 ± 20</td><td align="left" valign="top" rowspan="1" colspan="1">87 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">95 ± 5</td><td align="left" valign="top" rowspan="1" colspan="1">86 ± 1</td><td align="left" valign="top" rowspan="1" colspan="1">89 ± 7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time in Social non‐aggressive Behavior (%)</td><td align="left" valign="top" rowspan="1" colspan="1">33 ± 16</td><td align="left" valign="top" rowspan="1" colspan="1">41 ± 16</td><td align="left" valign="top" rowspan="1" colspan="1">48 ± 6</td><td align="left" valign="top" rowspan="1" colspan="1">46 <bold>±</bold> 17</td><td align="left" valign="top" rowspan="1" colspan="1">49 ± 19</td><td align="left" valign="top" rowspan="1" colspan="1">31 ± 13</td><td align="left" valign="top" rowspan="1" colspan="1">45 ± 29</td><td align="left" valign="top" rowspan="1" colspan="1">46 ± 20</td><td align="left" valign="top" rowspan="1" colspan="1">14 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">5 ± 5</td><td align="left" valign="top" rowspan="1" colspan="1">14 ± 1</td><td align="left" valign="top" rowspan="1" colspan="1">11 ± 7</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">
+<bold>Variable OFT</bold>
+</th><th align="left" colspan="6" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Baseline</bold>
+</th><th align="left" colspan="6" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>After treatment</bold>
+</th></tr><tr><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Active‐nanoFUS</bold>
+</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Sham‐nanoFUS</bold>
+</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Active‐nanoFUS</bold>
+</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Sham‐nanoFUS</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Total distance (cm)</td><td align="left" colspan="3" valign="top" rowspan="1">9100 ± 1300</td><td align="left" colspan="3" valign="top" rowspan="1">10300 ± 3500</td><td align="left" colspan="3" valign="top" rowspan="1">7000 ± 1600</td><td align="left" colspan="3" valign="top" rowspan="1">6200 ± 850</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Speed fluctuation</td><td align="left" colspan="3" valign="top" rowspan="1">570 ± 150</td><td align="left" colspan="3" valign="top" rowspan="1">680 ± 400</td><td align="left" colspan="3" valign="top" rowspan="1">340 ± 120</td><td align="left" colspan="3" valign="top" rowspan="1">260 ± 50</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" colspan="12" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>MALE</bold>
+</th></tr><tr><th rowspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">
+<bold>Variable RIT</bold>
+</th><th align="left" colspan="8" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>Baseline</bold>
+</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<bold>After treatment</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Active‐nanoFUS</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1"/><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Sham‐nanoFUS</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1"/><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Active‐nanoFUS</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1"/><th style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Sham‐nanoFUS</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>1st</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>2nd</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>3rd</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>4th</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>1st</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>2nd</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>3rd</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>4th</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>5th</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>6th</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>5th</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>6th</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Latency to attack (sec)</td><td align="center" valign="top" rowspan="1" colspan="1">169 ± 93</td><td align="center" valign="top" rowspan="1" colspan="1">66 ± 37</td><td align="center" valign="top" rowspan="1" colspan="1">90 ± 44</td><td align="center" valign="top" rowspan="1" colspan="1">37 ± 55</td><td align="center" valign="top" rowspan="1" colspan="1">103 ± 84</td><td align="center" valign="top" rowspan="1" colspan="1">89 ± 66</td><td align="center" valign="top" rowspan="1" colspan="1">48 ± 9</td><td align="center" valign="top" rowspan="1" colspan="1">66 ± 91</td><td align="center" valign="top" rowspan="1" colspan="1">278 ± 66</td><td align="center" valign="top" rowspan="1" colspan="1">248 ± 104</td><td align="center" valign="top" rowspan="1" colspan="1">122 ± 120</td><td align="center" valign="top" rowspan="1" colspan="1">185±162</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Animals attacking (%)</td><td align="left" valign="top" rowspan="1" colspan="1">56</td><td align="left" valign="top" rowspan="1" colspan="1">67</td><td align="left" valign="top" rowspan="1" colspan="1">89</td><td align="left" valign="top" rowspan="1" colspan="1">100</td><td align="left" valign="top" rowspan="1" colspan="1">75</td><td align="left" valign="top" rowspan="1" colspan="1">100</td><td align="left" valign="top" rowspan="1" colspan="1">75</td><td align="left" valign="top" rowspan="1" colspan="1">100</td><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="left" valign="top" rowspan="1" colspan="1">22</td><td align="left" valign="top" rowspan="1" colspan="1">75</td><td align="left" valign="top" rowspan="1" colspan="1">75</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Number of attacks</td><td align="left" valign="top" rowspan="1" colspan="1">6 ± 11</td><td align="left" valign="top" rowspan="1" colspan="1">11 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">18 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">22 ± 24</td><td align="left" valign="top" rowspan="1" colspan="1">14 ± 15</td><td align="left" valign="top" rowspan="1" colspan="1">10 ± 10</td><td align="left" valign="top" rowspan="1" colspan="1">8 ± 10</td><td align="left" valign="top" rowspan="1" colspan="1">8 ± 10</td><td align="left" valign="top" rowspan="1" colspan="1">0 ± 0</td><td align="left" valign="top" rowspan="1" colspan="1">1 ± 1</td><td align="left" valign="top" rowspan="1" colspan="1">3 ± 3</td><td align="left" valign="top" rowspan="1" colspan="1">1 ± 2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time in aggressive Behavior (%)</td><td align="left" valign="top" rowspan="1" colspan="1">6 ± 11</td><td align="left" valign="top" rowspan="1" colspan="1">12 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">22 ± 15</td><td align="left" valign="top" rowspan="1" colspan="1">28 ± 15</td><td align="left" valign="top" rowspan="1" colspan="1">12 ± 14</td><td align="left" valign="top" rowspan="1" colspan="1">11 ± 7</td><td align="left" valign="top" rowspan="1" colspan="1">17 ± 14</td><td align="left" valign="top" rowspan="1" colspan="1">12 ± 16</td><td align="left" valign="top" rowspan="1" colspan="1">1 ± 3</td><td align="left" valign="top" rowspan="1" colspan="1">2 ± 5</td><td align="left" valign="top" rowspan="1" colspan="1">2 ± 2</td><td align="left" valign="top" rowspan="1" colspan="1">4 ± 5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time in non‐social behavior (%)</td><td align="left" valign="top" rowspan="1" colspan="1">62 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">69 ± 9</td><td align="left" valign="top" rowspan="1" colspan="1">56 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">63 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">48 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">53 ± 8</td><td align="left" valign="top" rowspan="1" colspan="1">60 ± 10</td><td align="left" valign="top" rowspan="1" colspan="1">65 ± 10</td><td align="left" valign="top" rowspan="1" colspan="1">78 ± 11</td><td align="left" valign="top" rowspan="1" colspan="1">79 ± 13</td><td align="left" valign="top" rowspan="1" colspan="1">78 ± 7</td><td align="left" valign="top" rowspan="1" colspan="1">78 ± 9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time in social non‐aggressive Behavior (%)</td><td align="left" valign="top" rowspan="1" colspan="1">32 ± 13</td><td align="left" valign="top" rowspan="1" colspan="1">19 ± 11</td><td align="left" valign="top" rowspan="1" colspan="1">22 ± 17</td><td align="left" valign="top" rowspan="1" colspan="1">9 ± 5</td><td align="left" valign="top" rowspan="1" colspan="1">40 ± 23</td><td align="left" valign="top" rowspan="1" colspan="1">36 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">23 ± 11</td><td align="left" valign="top" rowspan="1" colspan="1">23 ± 15</td><td align="left" valign="top" rowspan="1" colspan="1">21 ± 11</td><td align="left" valign="top" rowspan="1" colspan="1">19 ± 12</td><td align="left" valign="top" rowspan="1" colspan="1">20 ± 6</td><td align="left" valign="top" rowspan="1" colspan="1">17 ± 5</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="bottom" colspan="1">
+<bold>Variable OFT</bold>
+</th><th align="left" colspan="6" valign="bottom" rowspan="1">
+<bold>Baseline</bold>
+</th><th align="left" colspan="6" valign="bottom" rowspan="1">
+<bold>After treatment</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="3" valign="bottom" rowspan="1">
+<bold>Active‐nanoFUS</bold>
+</th><th align="left" colspan="3" valign="bottom" rowspan="1">
+<bold>Sham‐nanoFUS</bold>
+</th><th align="left" colspan="3" valign="bottom" rowspan="1">
+<bold>Active‐nanoFUS</bold>
+</th><th align="left" colspan="3" valign="bottom" rowspan="1">
+<bold>Sham‐nanoFUS</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Total distance (cm)</td><td align="left" colspan="3" valign="top" rowspan="1">10500 ± 1700</td><td align="left" colspan="3" valign="top" rowspan="1">11000 ± 1800</td><td align="left" colspan="3" valign="top" rowspan="1">7100 ± 1600</td><td align="left" colspan="3" valign="top" rowspan="1">9800 ± 2000</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Speed fluctuation</td><td align="left" colspan="3" valign="top" rowspan="1">720 ± 300</td><td align="left" colspan="3" valign="top" rowspan="1">670 ± 200</td><td align="left" colspan="3" valign="top" rowspan="1">380 ± 160</td><td align="left" colspan="3" valign="top" rowspan="1">620 ± 290</td></tr></tbody></table><table-wrap-foot id="acn351737-ntgp-0001"><fn id="acn351737-note-0001"><p>Values in the table represent mean ± standard deviation.</p></fn></table-wrap-foot></table-wrap><p>Before treatment, no differences were observed between groups on the percentage of time spent in non‐social behaviors (male: <italic toggle="yes">β</italic> = 4.4, <italic toggle="yes">SE</italic> = 4.4, <italic toggle="yes">df</italic> = 11, <italic toggle="yes">p</italic> = 0.332; female: <italic toggle="yes">β</italic> = 1, <italic toggle="yes">SE</italic> = 3.8, <italic toggle="yes">df</italic> = 59, <italic toggle="yes">p</italic> = 0.795) or social non‐aggressive behaviors (male: <italic toggle="yes">β</italic> = −6.3, <italic toggle="yes">SE</italic> = 4.3, <italic toggle="yes">df</italic> = 11, <italic toggle="yes">p</italic> = 0.170; female: <italic toggle="yes">β</italic> = 19, <italic toggle="yes">SE</italic> = 3.9, <italic toggle="yes">df</italic> = 59, <italic toggle="yes">p</italic> = 0.795). After nanoFUS neuromodulation, male mice in the active‐nanoFUS group presented a significant increase in the percentage of time spent in non‐social behaviors (<italic toggle="yes">β</italic> = −14, <italic toggle="yes">SE</italic> = 5.4, <italic toggle="yes">df</italic> = 55, <italic toggle="yes">p</italic> = 0.011) and social non‐aggressive behaviors (<italic toggle="yes">β</italic> = −13.6, <italic toggle="yes">SE</italic> = 6.6, <italic toggle="yes">df</italic> = 55, <italic toggle="yes">p</italic> = 0.044), in relation to the sham‐nanoFUS group. No differences were observed between treatment groups in females (non‐social behaviors: <italic toggle="yes">β</italic> = −1.6, <italic toggle="yes">SE</italic> = 8.8, <italic toggle="yes">df</italic> = 59, <italic toggle="yes">p</italic> = 0.857; social non‐aggressive behaviors: <italic toggle="yes">β</italic> = −1.69, <italic toggle="yes">SE</italic> = 8.89, <italic toggle="yes">df</italic> = 59, <italic toggle="yes">p</italic> = 0.706, Table <xref rid="acn351737-tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="acn351737-sec-0018"><title>Open‐field test</title><p>No differences between groups were observed at baseline in the total distance traveled (male: <italic toggle="yes">β</italic> = −1591.5, <italic toggle="yes">SE</italic> = 906.4, <italic toggle="yes">df</italic> = 11, <italic toggle="yes">p</italic> = 0.106, female: <italic toggle="yes">β</italic> = −77.7, <italic toggle="yes">SE</italic> = 1052.6, <italic toggle="yes">df</italic> = 9, <italic toggle="yes">p</italic> = 0.942, Figs. <xref rid="acn351737-fig-0003" ref-type="fig">3A,B</xref>) or in speed fluctuation (male: <italic toggle="yes">β</italic> = −5.2, <italic toggle="yes">SE</italic> = 3.2, <italic toggle="yes">df</italic> = 10, <italic toggle="yes">p</italic> = 0.135, female: <italic toggle="yes">β</italic> = −0.7, <italic toggle="yes">SE</italic> = 3.5, <italic toggle="yes">df</italic> = 8, <italic toggle="yes">p</italic> = 0.838, Fig. <xref rid="acn351737-fig-0003" ref-type="fig">3C</xref>, Table <xref rid="acn351737-tbl-0001" ref-type="table">1</xref>). After nanoFUS neuromodulation, male mice in the active‐nanoFUS group traveled significantly less than sham‐treated controls (<italic toggle="yes">β</italic> = −1520.9, <italic toggle="yes">SE</italic> = 648.2, <italic toggle="yes">df</italic> = 11, <italic toggle="yes">p</italic> = 0.038; Fig. <xref rid="acn351737-fig-0003" ref-type="fig">3A</xref>) and presented a significant reduction in speed fluctuation (<italic toggle="yes">β</italic> = 0.3, <italic toggle="yes">SE</italic> = 0.1, <italic toggle="yes">df</italic> = 18, <italic toggle="yes">p</italic> = 0.031, Fig. <xref rid="acn351737-fig-0003" ref-type="fig">3C</xref>). No differences were observed between treatment groups composed of female mice (total distance: <italic toggle="yes">β</italic> = 1455.0, <italic toggle="yes">SE</italic> = 858.8, <italic toggle="yes">df</italic> = 10, <italic toggle="yes">p</italic> = 0.121, speed fluctuation: <italic toggle="yes">β</italic> = 4.4, <italic toggle="yes">SE</italic> = 3.3, <italic toggle="yes">df</italic> = 9, <italic toggle="yes">p</italic> = 0.224, Fig. <xref rid="acn351737-fig-0003" ref-type="fig">3</xref>, Table <xref rid="acn351737-tbl-0001" ref-type="table">1</xref>).</p><fig position="float" fig-type="Figure" id="acn351737-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Open‐field test. Treatment of aggressive behavior/agitation in the TgCRND8 mouse model of Alzheimer's Disease using Magnetic Resonance Guided Focused Ultrasound and pentobarbital‐loaded Ultrasound‐Sensitive Nanodroplets (nanoFUS). (A) No difference between groups was observed before treatment in the Total Distance Traveled. Treatment with active‐nanoFUS reduced the total distance traveled in males. (B) Illustration of the automated tracking for each sex (i.e., male or female), group (i.e., active‐ or sham‐nanoFUS), and timepoint (i.e. baseline or after treatment). (C) No difference between groups was observed at baseline in speed fluctuation. Treatment with active‐nanoFUS reduced speed fluctuation in males. Significance code: *<italic toggle="yes">p</italic> &lt; 0.05; ns: non‐significant.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ACN3-10-507-g002.jpg"><?image-name ACN3-10-507-g002.jpg?><?image-size 142716?><?image-md5 e5bad108a21ffff88b4be49001314ad4?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 848?><?image-original-width 1064?><?image-scaled-height 565?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c874/10109287/e5bad108a21f/ACN3-10-507-g002.jpg?><?thumb-name ACN3-10-507-g002.gif?><?thumb-size 5594?><?thumb-md5 79abe8992839b7a0617567b95f5ecd54?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/c874/10109287/79abe8992839/ACN3-10-507-g002.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="acn351737-sec-0019"><title>Discussion</title><p>Agitation and aggressive behaviors are distressing neuropsychiatric symptoms frequently observed in patients with AD.<xref rid="acn351737-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="acn351737-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="acn351737-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> These symptoms pose a great risk for self‐injury and injury to caregivers, result in high rates of institutionalization, and lead to great suffering for patients and families.<xref rid="acn351737-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="acn351737-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Current pharmacological therapies have limited efficacy and a high potential for severe side effects.<xref rid="acn351737-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Thus, there is a growing need to develop novel therapeutics that are tailored to safely and effectively reduce agitation in AD. Transgenic animal models of AD, such as the TgCRND8 mice used in our study, are useful for the development of novel therapies, as behavioral responses following treatment can be thoroughly investigated.</p><p>Recently, our group has demonstrated the potential of using focused ultrasound as a non‐invasive neuromodulatory method to vaporize drug‐loaded ultrasound‐sensitive nanodroplets, release their content in specific brain targets, and alter local neural activity.<xref rid="acn351737-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="acn351737-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> In this study, we sought to investigate the effects of nanoFUS neuromodulation to reduce neuropsychiatric symptoms, specifically agitation and aggressive behavior, in the TgCRND8 mouse model of AD. In contrast to systemic drug administration, the delivery via nanoFUS offers the possibility of targeting only a discrete brain target, while preserving the surrounding areas.<xref rid="acn351737-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>Nanodroplets firstly respond to ultrasound by being converted from liquid droplet into gaseous microbubbles (i.e., vaporization), and then by expanding, becoming unstable, and collapsing inwards from the inertia of the surrounding fluid (i.e., inertial cavitation).<xref rid="acn351737-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Stable cavitation is fundamental for enhancing drug delivery and distribution, and can be controlled via real‐time acoustic monitoring.<xref rid="acn351737-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Small lipophilic drugs, such as the pentobarbital, do not require the BBB to be breached to penetrate the brain tissue. However, the encapsulation in nanodroplets is fundamental for a localized and precise delivery. Although previous studies have shown possible BBB disruption during nanodroplets sonication,<xref rid="acn351737-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>, <xref rid="acn351737-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> our recent work using contrast‐enhanced MRI has shown that the blood–brain barrier remains intact after exposure to nanoFUS using the sonication parameters applied in this study.<xref rid="acn351737-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+</p><p>It is important to highlight that this is the first study investigating nanoFUS as a direct way of modulating behavior in a mouse model of AD. Thus, our current results may be considered a starting point for the development of new treatments for neuropsychiatric symptoms in AD models. The RIT is considered to be the standard test for investigating aggressive behaviors in rodents.<xref rid="acn351737-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> As a result, it has been extensively used in studies involving both wild‐type animals and transgenic mice with AD pathology.<xref rid="acn351737-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="acn351737-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="acn351737-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> In this test, a resident mouse is confronted by a same‐sex intruder in its homecage and both the latency to the first attack and number of attacks are recorded. In general, the aggressive behavior increases with repeated exposure to the RIT.<xref rid="acn351737-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="acn351737-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> Before treatment, we observed that male mice expressed this well‐established behavioral pattern in the RIT, characterized by a progressive increase in aggressive behavior over time, a lower latency to attack, and several attacks in each encounter. Following nanoFUS neuromodulation, there was a significant reduction in aggressive behavior in the active‐nanoFUS group, as compared to sham‐nanoFUS controls (Fig. <xref rid="acn351737-fig-0002" ref-type="fig">2</xref>).</p><p>A critical aspect to consider is that the sham‐treated group underwent anesthesia and were treated with FUS with empty nanodroplets. This group was selected instead of animals exposed only to anesthesia to control for the possible effect of nanodroplet vaporization and the passage of the FUS beams through the brain. In females, aggressive behavior is typically observed in the context of maternal aggression<xref rid="acn351737-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>, <xref rid="acn351737-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> and not in the RIT. Previous studies in transgenic female mice with AD pathology tested in the RIT have shown an absence of aggressive behavior, a phenotype that was also observed in our study.<xref rid="acn351737-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="acn351737-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="acn351737-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>, <xref rid="acn351737-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>, <xref rid="acn351737-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+</p><p>The time spent on social‐non‐aggressive behaviors is another important feature evaluated in our study, as social impairment is frequently observed in AD patients.<xref rid="acn351737-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> The pattern of social behaviors has been found to be correlated with the concentration of amyloid peptides in the frontal cortex in mouse models of AD.<xref rid="acn351737-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Our animals were approximately 4 months old during behavioral testing, an age during which amyloid accumulation is clearly present in the frontal cortex.<xref rid="acn351737-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> As a result, it is possible to reason that the pattern of social behaviors presented here may be a product of amyloid pathology. Interestingly, treatment with active‐nanoFUS increases the time male mice spend on social‐non‐aggressive behavior, suggesting that this neuromodulation technique has the potential to simultaneously treat several distinct domains of neuropsychiatric symptoms.</p><p>The assessment of hyperactivity using standard tests, such as the OFT, has been shown to be reliable for studying agitation in mice.<xref rid="acn351737-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="acn351737-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>, <xref rid="acn351737-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> While several transgenic mouse models of AD have been described as presenting hyperactivity,<xref rid="acn351737-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> motor activity was found to be normal<xref rid="acn351737-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> or even reduced in previous work, depending on the strain tested<xref rid="acn351737-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> (for review see Lalonde et al.<xref rid="acn351737-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>). It has been postulated that distinct genetic backgrounds, husbandry practices, baseline levels of anxiety‐like behavior, along with methodologic factors related to the apparatus, could result in the different levels of agitation observed in those studies.<xref rid="acn351737-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="acn351737-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> We observed a significant reduction in motor agitation in male mice receiving active‐nanoFUS neuromodulation, in comparison with the sham‐treated controls, as measured by reductions in the total distance traveled and speed fluctuations.</p><p>It has been shown that the delivery of pentobarbital (an agonist of GABA receptor type A<xref rid="acn351737-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>, <xref rid="acn351737-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>) via nanoFUS is capable of reducing immediate early gene expression in the target area.<xref rid="acn351737-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> The systemic delivery of this drug decreases serotonin turnover, thus increasing the extracellular concentration of this neurotransmitter throughout the brain.<xref rid="acn351737-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> These results are in line with the body of literature showing reductions in motor agitation and aggressive behaviors following functional neurosurgery and neuromodulation treatments that reduce amygdala activity<xref rid="acn351737-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="acn351737-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="acn351737-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> (for a review see Gouveia et al.<xref rid="acn351737-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>). Also, it is believed that agitation and aggressive behavior occur when there is an imbalance in serotonin transmission leading to a reduced top‐down inhibitory control of the limbic system,<xref rid="acn351737-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>, <xref rid="acn351737-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> subsequently increasing amygdala activity and dopamine release.<xref rid="acn351737-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="acn351737-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="acn351737-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Thus, it is possible that nanoFUS neuromodulation reduces agitation and aggressive behavior via two simultaneous mechanisms: Reducing amygdala activity and increasing a top‐down inhibitory control of the limbic system. Interestingly, the acute administration of dopamine (i.e., D2) and serotonin (i.e., 5HT‐1 and 5HT‐2) receptor antagonists reduce aggressive behavior in male Tg‐AD mice undergoing the RIT, as reflected by an increase in the latency to attack and a reduction in the number of attacks per trial.<xref rid="acn351737-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> Further studies investigating the involvement of the monoamines in the mechanism of action of nanoFUS are still required.</p><p>Altogether, our results show that neuromodulation with active‐nanoFUS may be a potential therapeutic tool for the treatment of neuropsychiatric symptoms, with special focus on agitation and aggressive behaviors. Further studies are necessary to establish cellular, molecular, and long‐term behavioral changes following treatment with nanoFUS.</p></sec><sec id="acn351737-sec-0020"><title>Author Contributions</title><p>Design of the study: Flavia Venetucci Gouveia, Harriet Lea‐Banks, Isabelle Aubert, Nir Lipsman, Kullervo Hynynen, Clement Hamani. Acquisition of data: Flavia Venetucci Gouveia and Harriet Lea‐Banks. Analysis and interpretation of data: Flavia Venetucci Gouveia, Harriet Lea‐Banks, Clement Hamani. Drafting the manuscript: Flavia Venetucci Gouveia and Clement Hamani. Revising the manuscript for important intellectual content: Flavia Venetucci Gouveia, Harriet Lea‐Banks, Isabelle Aubert, Nir Lipsman, Kullervo Hynynen, Clement Hamani. All authors approved the version to be published.</p></sec><sec sec-type="COI-statement" id="acn351737-sec-0022"><title>Conflict of Interest</title><p>K.H. is the founder of FUS Instruments, a company that commercializes the preclinical FUS system. The authors declare no further competing interest.</p></sec></body><back><ack id="acn351737-sec-0021"><title>Acknowledgments</title><p>The authors would like to thank Shawna Rideout‐Gros for support as veterinary technician, Kristina Mikloska for assistance with MRI experiments, and Mustansir Diwan for technical support on cytology. Drs. Paul Fraser, David Westaway, and Peter St George‐Hyslop are acknowledged for supplying breeding pairs of TgCRND8 mice. We thank Melissa Theodore for animal breeding expertise. Funding for this work was provided by the Harquail Centre for Neuromodulation, the National Institute of Biomedical Imaging and Bioengineering of the National Institutes of Health (R01 EB003268) (KH), the Canadian Institutes for Health Research (FRN 119312) (KH), the Temerty Chair in Focused Ultrasound Research at Sunnybrook Health Sciences Centre (KH), Canadian Institutes of Health Research (CIHR) Postdoctoral Fellowship #472484 (FVG). This research was undertaken, in part, thanks to funding from the Canada Research Chairs program (Canada Research Chair in Brain Repair and Regeneration Tier 1 to I.A.).</p></ack><ref-list content-type="cited-references" id="acn351737-bibl-0001"><title>REFERENCES</title><ref id="acn351737-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="acn351737-cit-0001">
+<string-name name-style="western">
+<surname>Breijyeh</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karaman</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Comprehensive review on Alzheimer's disease: causes and treatment</article-title>. <source>Molecules</source>. <year>2020</year>;<volume>25</volume>(<issue>24</issue>):<elocation-id>5789</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/molecules25245789</pub-id>
+<pub-id pub-id-type="pmid">33302541</pub-id><pub-id pub-id-type="pmcid">PMC7764106</pub-id></mixed-citation></ref><ref id="acn351737-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="acn351737-cit-0002">
+<string-name name-style="western">
+<surname>Brookmeyer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdalla</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kawas</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corrada</surname>
+<given-names>MM</given-names>
+</string-name>. <article-title>Forecasting the prevalence of preclinical and clinical Alzheimer's disease in the United States</article-title>. <source>Alzheimers Dement</source>. <year>2018</year>;<volume>14</volume>(<issue>2</issue>):<fpage>121</fpage>‐<lpage>129</lpage>.<pub-id pub-id-type="pmid">29233480</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2017.10.009</pub-id><pub-id pub-id-type="pmcid">PMC5803316</pub-id></mixed-citation></ref><ref id="acn351737-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="acn351737-cit-0003">
+<string-name name-style="western">
+<surname>Carrarini</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Russo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dono</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Agitation and dementia: prevention and treatment strategies in acute and chronic conditions</article-title>. <source>Front Neurol</source>. <year>2021</year>;<volume>12</volume>:<elocation-id>644317</elocation-id>.<pub-id pub-id-type="pmid">33935943</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2021.644317</pub-id><pub-id pub-id-type="pmcid">PMC8085397</pub-id></mixed-citation></ref><ref id="acn351737-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="acn351737-cit-0004">
+<string-name name-style="western">
+<surname>Magierski</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sobow</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwertner</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Religa</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Pharmacotherapy of behavioral and psychological symptoms of dementia: state of the art and future Progress</article-title>. <source>Front Pharmacol</source>. <year>2020</year>;<volume>11</volume>:<fpage>1168</fpage>.<pub-id pub-id-type="pmid">32848775</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2020.01168</pub-id><pub-id pub-id-type="pmcid">PMC7413102</pub-id></mixed-citation></ref><ref id="acn351737-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="acn351737-cit-0005">
+<string-name name-style="western">
+<surname>Cummings</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mintzer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brodaty</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Agitation in cognitive disorders: international psychogeriatric association provisional consensus clinical and research definition</article-title>. <source>Int Psychogeriatr</source>. <year>2015</year>;<volume>27</volume>(<issue>1</issue>):<fpage>7</fpage>‐<lpage>17</lpage>.<pub-id pub-id-type="pmid">25311499</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S1041610214001963</pub-id><pub-id pub-id-type="pmcid">PMC4301197</pub-id></mixed-citation></ref><ref id="acn351737-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="acn351737-cit-0006">
+<string-name name-style="western">
+<surname>Ryu</surname>
+<given-names>S‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ha</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>D‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Livingston</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Persistence of neuropsychiatric symptoms over six months in mild cognitive impairment in community‐dwelling Korean elderly</article-title>. <source>Int Psychogeriatr</source>. <year>2011</year>;<volume>23</volume>(<issue>2</issue>):<fpage>214</fpage>‐<lpage>220</lpage>.<pub-id pub-id-type="pmid">20863423</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S1041610210001766</pub-id></mixed-citation></ref><ref id="acn351737-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="acn351737-cit-0007">
+<string-name name-style="western">
+<surname>Lyketsos</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopez</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fitzpatrick</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breitner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeKosky</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Prevalence of neuropsychiatric symptoms in dementia and mild cognitive impairment: results from the cardiovascular health study</article-title>. <source>Jama</source>. <year>2002</year>;<volume>288</volume>(<issue>12</issue>):<fpage>1475</fpage>‐<lpage>1483</lpage>.<pub-id pub-id-type="pmid">12243634</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.288.12.1475</pub-id></mixed-citation></ref><ref id="acn351737-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="acn351737-cit-0008">
+<string-name name-style="western">
+<surname>Kales</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gitlin</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lyketsos</surname>
+<given-names>CG</given-names>
+</string-name>. <article-title>Detroit expert panel on assessment and Management of Neuropsychiatric Symptoms of dementia. Management of neuropsychiatric symptoms of dementia in clinical settings: recommendations from a multidisciplinary expert panel</article-title>. <source>J Am Geriatr Soc</source>. <year>2014</year>;<volume>62</volume>(<issue>4</issue>):<fpage>762</fpage>‐<lpage>769</lpage>.<pub-id pub-id-type="pmid">24635665</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jgs.12730</pub-id><pub-id pub-id-type="pmcid">PMC4146407</pub-id></mixed-citation></ref><ref id="acn351737-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="acn351737-cit-0009">
+<string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>S‐T</given-names>
+</string-name>. <article-title>Dementia caregiver burden: a research update and critical analysis</article-title>. <source>Curr Psychiatry Rep</source>. <year>2017</year>;<volume>19</volume>(<issue>9</issue>):<fpage>64</fpage>.<pub-id pub-id-type="pmid">28795386</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11920-017-0818-2</pub-id><pub-id pub-id-type="pmcid">PMC5550537</pub-id></mixed-citation></ref><ref id="acn351737-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="acn351737-cit-0010">
+<string-name name-style="western">
+<surname>Jeste</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blazer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casey</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>ACNP white paper: update on use of antipsychotic drugs in elderly persons with dementia</article-title>. <source>Neuropsychopharmacology</source>. <year>2008</year>;<volume>33</volume>(<issue>5</issue>):<fpage>957</fpage>‐<lpage>970</lpage>.<pub-id pub-id-type="pmid">17637610</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.npp.1301492</pub-id><pub-id pub-id-type="pmcid">PMC2553721</pub-id></mixed-citation></ref><ref id="acn351737-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="acn351737-cit-0011">
+<string-name name-style="western">
+<surname>Trzepacz</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhamidipati</surname>
+<given-names>PK</given-names>
+</string-name>, et al. <article-title>Frontolimbic atrophy is associated with agitation and aggression in mild cognitive impairment and Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2013</year>;<volume>9</volume>(<issue>5 Suppl</issue>):<fpage>S95</fpage>‐<lpage>S104.e1</lpage>.<pub-id pub-id-type="pmid">23253778</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2012.10.005</pub-id><pub-id pub-id-type="pmcid">PMC3955297</pub-id></mixed-citation></ref><ref id="acn351737-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="acn351737-cit-0012">
+<string-name name-style="western">
+<surname>Ruthirakuhan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lanctôt</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Scipio</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Biomarkers of agitation and aggression in Alzheimer's disease: a systematic review</article-title>. <source>Alzheimers Dement</source>. <year>2018</year>;<volume>14</volume>(<issue>10</issue>):<fpage>1344</fpage>‐<lpage>1376</lpage>.<pub-id pub-id-type="pmid">29940162</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2018.04.013</pub-id></mixed-citation></ref><ref id="acn351737-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="acn351737-cit-0013">
+<string-name name-style="western">
+<surname>Kunst</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marecek</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klobusiakova</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Patterns of Grey matter atrophy at different stages of Parkinson's and Alzheimer's diseases and relation to cognition</article-title>. <source>Brain Topogr</source>. <year>2019</year>;<volume>32</volume>(<issue>1</issue>):<fpage>142</fpage>‐<lpage>160</lpage>.<pub-id pub-id-type="pmid">30206799</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10548-018-0675-2</pub-id></mixed-citation></ref><ref id="acn351737-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="acn351737-cit-0014">
+<string-name name-style="western">
+<surname>Hirono</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mega</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dinov</surname>
+<given-names>ID</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mishkin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cummings</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>Left frontotemporal hypoperfusion is associated with aggression in patients with dementia</article-title>. <source>Arch Neurol</source>. <year>2000</year>;<volume>57</volume>(<issue>6</issue>):<fpage>861</fpage>‐<lpage>866</lpage>.<pub-id pub-id-type="pmid">10867784</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneur.57.6.861</pub-id></mixed-citation></ref><ref id="acn351737-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="acn351737-cit-0015">
+<string-name name-style="western">
+<surname>Lanctôt</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herrmann</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nadkarni</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leibovitch</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caldwell</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Black</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>Medial temporal hypoperfusion and aggression in Alzheimer disease</article-title>. <source>Arch Neurol</source>. <year>2004</year>;<volume>61</volume>(<issue>11</issue>):<fpage>1731</fpage>‐<lpage>1737</lpage>.<pub-id pub-id-type="pmid">15534184</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneur.61.11.1731</pub-id></mixed-citation></ref><ref id="acn351737-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="acn351737-cit-0016">
+<string-name name-style="western">
+<surname>Yoshida</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mori</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamazaki</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Relationship between regional cerebral blood flow and neuropsychiatric symptoms in dementia with Lewy bodies</article-title>. <source>Int J Geriatr Psychiatry</source>. <year>2015</year>;<volume>30</volume>(<issue>10</issue>):<fpage>1068</fpage>‐<lpage>1075</lpage>.<pub-id pub-id-type="pmid">25694273</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/gps.4263</pub-id></mixed-citation></ref><ref id="acn351737-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="acn351737-cit-0017">
+<string-name name-style="western">
+<surname>Wright</surname>
+<given-names>CI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickerson</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feczko</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Negeira</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>A functional magnetic resonance imaging study of amygdala responses to human faces in aging and mild Alzheimer's disease</article-title>. <source>Biol Psychiatry</source>. <year>2007</year>;<volume>62</volume>(<issue>12</issue>):<fpage>1388</fpage>‐<lpage>1395</lpage>.<pub-id pub-id-type="pmid">17336945</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopsych.2006.11.013</pub-id></mixed-citation></ref><ref id="acn351737-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="acn351737-cit-0018">
+<string-name name-style="western">
+<surname>Blair</surname>
+<given-names>RJR</given-names>
+</string-name>. <article-title>The neurobiology of impulsive aggression</article-title>. <source>J Child Adolesc Psychopharmacol</source>. <year>2016</year>;<volume>26</volume>(<issue>1</issue>):<fpage>4</fpage>‐<lpage>9</lpage>.<pub-id pub-id-type="pmid">26465707</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/cap.2015.0088</pub-id><pub-id pub-id-type="pmcid">PMC4779272</pub-id></mixed-citation></ref><ref id="acn351737-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="acn351737-cit-0019">
+<string-name name-style="western">
+<surname>Gouveia</surname>
+<given-names>FV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamani</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fonoff</surname>
+<given-names>ET</given-names>
+</string-name>, et al. <article-title>Amygdala and hypothalamus: historical overview with focus on aggression</article-title>. <source>Neurosurgery</source>. <year>2019</year>;<volume>85</volume>(<issue>1</issue>):<fpage>11</fpage>‐<lpage>30</lpage>.<pub-id pub-id-type="pmid">30690521</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/neuros/nyy635</pub-id><pub-id pub-id-type="pmcid">PMC6565484</pub-id></mixed-citation></ref><ref id="acn351737-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="acn351737-cit-0020">
+<string-name name-style="western">
+<surname>Helmy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Neurobiology and neural circuits of aggression</article-title>. <source>Adv Exp Med Biol</source>. <year>2020</year>;<volume>1284</volume>:<fpage>9</fpage>‐<lpage>22</lpage>.<pub-id pub-id-type="pmid">32852736</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-981-15-7086-5_2</pub-id></mixed-citation></ref><ref id="acn351737-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="acn351737-cit-0021">
+<string-name name-style="western">
+<surname>Rosell</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siever</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>The neurobiology of aggression and violence</article-title>. <source>CNS Spectr</source>. <year>2015</year>;<volume>20</volume>(<issue>3</issue>):<fpage>254</fpage>‐<lpage>279</lpage>.<pub-id pub-id-type="pmid">25936249</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S109285291500019X</pub-id></mixed-citation></ref><ref id="acn351737-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="acn351737-cit-0022">
+<string-name name-style="western">
+<surname>Gouveia</surname>
+<given-names>FV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Germann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Morais</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Longitudinal changes after amygdala surgery for intractable aggressive behavior: clinical, imaging genetics, and deformation‐based morphometry study‐a case series</article-title>. <source>Neurosurgery</source>. <year>2021</year>;<volume>88</volume>(<issue>2</issue>):<fpage>E158</fpage>‐<lpage>E169</lpage>.<pub-id pub-id-type="pmid">33026432</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/neuros/nyaa378</pub-id></mixed-citation></ref><ref id="acn351737-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="acn351737-cit-0023">
+<string-name name-style="western">
+<surname>Gouveia</surname>
+<given-names>FV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Germann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devenyi</surname>
+<given-names>GA</given-names>
+</string-name>, et al. <article-title>Bilateral amygdala radio‐frequency ablation for refractory aggressive behavior alters local cortical thickness to a pattern found in non‐refractory patients</article-title>. <source>Front Hum Neurosci</source>. <year>2021</year>;<volume>15</volume>:<elocation-id>653631</elocation-id>.<pub-id pub-id-type="pmid">34177490</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnhum.2021.653631</pub-id><pub-id pub-id-type="pmcid">PMC8219880</pub-id></mixed-citation></ref><ref id="acn351737-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="acn351737-cit-0024">
+<string-name name-style="western">
+<surname>Sturm</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fricke</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bührle</surname>
+<given-names>CP</given-names>
+</string-name>, et al. <article-title>DBS in the basolateral amygdala improves symptoms of autism and related self‐injurious behavior: a case report and hypothesis on the pathogenesis of the disorder</article-title>. <source>Front Hum Neurosci</source>. <year>2012</year>;<volume>6</volume>:<fpage>341</fpage>.<pub-id pub-id-type="pmid">23346052</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnhum.2012.00341</pub-id><pub-id pub-id-type="pmcid">PMC3549527</pub-id></mixed-citation></ref><ref id="acn351737-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="acn351737-cit-0025">
+<string-name name-style="western">
+<surname>Lea‐Banks</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hynynen</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Sub‐millimetre precision of drug delivery in the brain from ultrasound‐triggered nanodroplets</article-title>. <source>J Control Release</source>. <year>2021</year>;<volume>338</volume>:<fpage>731</fpage>‐<lpage>741</lpage>.<pub-id pub-id-type="pmid">34530050</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2021.09.014</pub-id></mixed-citation></ref><ref id="acn351737-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="acn351737-cit-0026">
+<string-name name-style="western">
+<surname>Lea‐Banks</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Reilly</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamani</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hynynen</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Localized anesthesia of a specific brain region using ultrasound‐responsive barbiturate nanodroplets</article-title>. <source>Theranostics</source>. <year>2020</year>;<volume>10</volume>(<issue>6</issue>):<fpage>2849</fpage>‐<lpage>2858</lpage>.<pub-id pub-id-type="pmid">32194839</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7150/thno.41566</pub-id><pub-id pub-id-type="pmcid">PMC7052887</pub-id></mixed-citation></ref><ref id="acn351737-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="acn351737-cit-0027">
+<string-name name-style="western">
+<surname>Lea‐Banks</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S‐K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belhadjhamida</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamani</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hynynen</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Ultrasound‐sensitive nanodroplets achieve targeted neuromodulation</article-title>. <source>J Control Release</source>. <year>2021</year>;<volume>332</volume>:<fpage>30</fpage>‐<lpage>39</lpage>.<pub-id pub-id-type="pmid">33600879</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2021.02.010</pub-id><pub-id pub-id-type="pmcid">PMC8089063</pub-id></mixed-citation></ref><ref id="acn351737-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="acn351737-cit-0028">
+<string-name name-style="western">
+<surname>Kosel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pelley</surname>
+<given-names>JMS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franklin</surname>
+<given-names>TB</given-names>
+</string-name>. <article-title>Behavioural and psychological symptoms of dementia in mouse models of Alzheimer's disease‐related pathology</article-title>. <source>Neurosci Biobehav Rev</source>. <year>2020</year>;<volume>112</volume>:<fpage>634</fpage>‐<lpage>647</lpage>.<pub-id pub-id-type="pmid">32070692</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neubiorev.2020.02.012</pub-id></mixed-citation></ref><ref id="acn351737-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="acn351737-cit-0029">
+<string-name name-style="western">
+<surname>Kosel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamilton</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Godin</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franklin</surname>
+<given-names>TB</given-names>
+</string-name>. <article-title>Reduced social investigation and increased injurious behavior in transgenic 5xFAD mice</article-title>. <source>J Neurosci Res</source>. <year>2021</year>;<volume>99</volume>(<issue>1</issue>):<fpage>209</fpage>‐<lpage>222</lpage>.<pub-id pub-id-type="pmid">31912571</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jnr.24578</pub-id></mixed-citation></ref><ref id="acn351737-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="acn351737-cit-0030">
+<string-name name-style="western">
+<surname>Chishti</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janus</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Early‐onset amyloid deposition and cognitive deficits in transgenic mice expressing a double mutant form of amyloid precursor protein 695</article-title>. <source>J Biol Chem</source>. <year>2001</year>;<volume>276</volume>(<issue>24</issue>):<fpage>21562</fpage>‐<lpage>21570</lpage>.<pub-id pub-id-type="pmid">11279122</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M100710200</pub-id></mixed-citation></ref><ref id="acn351737-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="acn351737-cit-0031">
+<string-name name-style="western">
+<surname>Janus</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Welzl</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanna</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Impaired conditioned taste aversion learning in APP transgenic mice</article-title>. <source>Neurobiol Aging</source>. <year>2004</year>;<volume>25</volume>(<issue>9</issue>):<fpage>1213</fpage>‐<lpage>1219</lpage>.<pub-id pub-id-type="pmid">15312967</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2003.11.007</pub-id></mixed-citation></ref><ref id="acn351737-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="acn351737-cit-0032">
+<string-name name-style="western">
+<surname>DaSilva</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brown</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McLaurin</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Reduced oligomeric and vascular amyloid‐beta following immunization of TgCRND8 mice with an Alzheimer's DNA vaccine</article-title>. <source>Vaccine</source>. <year>2009</year>;<volume>27</volume>(<issue>9</issue>):<fpage>1365</fpage>‐<lpage>1376</lpage>.<pub-id pub-id-type="pmid">19150380</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.vaccine.2008.12.044</pub-id></mixed-citation></ref><ref id="acn351737-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="acn351737-cit-0033">
+<string-name name-style="western">
+<surname>Qu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Q‐P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>Z‐R</given-names>
+</string-name>, et al. <article-title>Nano‐honokiol ameliorates the cognitive deficits in TgCRND8 mice of Alzheimer's disease via inhibiting neuropathology and modulating gut microbiota</article-title>. <source>J Advert Res</source>. <year>2022</year>;<volume>35</volume>:<fpage>231</fpage>‐<lpage>243</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jare.2021.03.012</pub-id><pub-id pub-id-type="pmcid">PMC8721355</pub-id><pub-id pub-id-type="pmid">35024199</pub-id></mixed-citation></ref><ref id="acn351737-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="acn351737-cit-0034">
+<string-name name-style="western">
+<surname>Cortes‐Canteli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kruyer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandez‐Nueda</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Long‐term dabigatran treatment delays Alzheimer's disease pathogenesis in the TgCRND8 mouse model</article-title>. <source>J Am Coll Cardiol</source>. <year>2019</year>;<volume>74</volume>(<issue>15</issue>):<fpage>1910</fpage>‐<lpage>1923</lpage>.<pub-id pub-id-type="pmid">31601371</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2019.07.081</pub-id><pub-id pub-id-type="pmcid">PMC6822166</pub-id></mixed-citation></ref><ref id="acn351737-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="acn351737-cit-0035">
+<string-name name-style="western">
+<surname>Poon</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shah</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Time course of focused ultrasound effects on β‐amyloid plaque pathology in the TgCRND8 mouse model of Alzheimer's disease</article-title>. <source>Sci Rep</source>. <year>2018</year>;<volume>8</volume>(<issue>1</issue>):<fpage>14061</fpage>.<pub-id pub-id-type="pmid">30232364</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-018-32250-3</pub-id><pub-id pub-id-type="pmcid">PMC6145880</pub-id></mixed-citation></ref><ref id="acn351737-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="acn351737-cit-0036">
+<string-name name-style="western">
+<surname>Janus</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pearson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McLaurin</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>A beta peptide immunization reduces behavioural impairment and plaques in a model of Alzheimer's disease</article-title>. <source>Nature</source>. <year>2000</year>;<volume>408</volume>(<issue>6815</issue>):<fpage>979</fpage>‐<lpage>982</lpage>.<pub-id pub-id-type="pmid">11140685</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/35050110</pub-id></mixed-citation></ref><ref id="acn351737-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="acn351737-cit-0037">
+<string-name name-style="western">
+<surname>Bouchatta</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaibi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baba</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ba‐M'Hamed</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennis</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The effects of topiramate on isolation‐induced aggression: a behavioral and immunohistochemical study in mice</article-title>. <source>Psychopharmacology (Berl)</source>. <year>2020</year>;<volume>237</volume>(<issue>8</issue>):<fpage>2451</fpage>‐<lpage>2467</lpage>.<pub-id pub-id-type="pmid">32430516</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00213-020-05546-4</pub-id></mixed-citation></ref><ref id="acn351737-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="acn351737-cit-0038">
+<string-name name-style="western">
+<surname>Hartmann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lisboa</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sonego</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coutinho</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gomes</surname>
+<given-names>FV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guimarães</surname>
+<given-names>FS</given-names>
+</string-name>. <article-title>Cannabidiol attenuates aggressive behavior induced by social isolation in mice: involvement of 5‐HT1A and CB1 receptors</article-title>. <source>Prog Neuropsychopharmacol Biol Psychiatry</source>. <year>2019</year>;<volume>94</volume>:<elocation-id>109637</elocation-id>.<pub-id pub-id-type="pmid">31054943</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pnpbp.2019.109637</pub-id></mixed-citation></ref><ref id="acn351737-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="acn351737-cit-0039">
+<string-name name-style="western">
+<surname>Encarnacion</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horie</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keren‐Gill</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bliss</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steinberg</surname>
+<given-names>GK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shamloo</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Long‐term behavioral assessment of function in an experimental model for ischemic stroke</article-title>. <source>J Neurosci Methods</source>. <year>2011</year>;<volume>196</volume>(<issue>2</issue>):<fpage>247</fpage>‐<lpage>257</lpage>.<pub-id pub-id-type="pmid">21256866</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jneumeth.2011.01.010</pub-id><pub-id pub-id-type="pmcid">PMC3539723</pub-id></mixed-citation></ref><ref id="acn351737-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="acn351737-cit-0040">
+<string-name name-style="western">
+<surname>Crispim Junior</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pederiva</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bose</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lino‐de‐Oliveira</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marino‐Neto</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>ETHOWATCHER: validation of a tool for behavioral and video‐tracking analysis in laboratory animals</article-title>. <source>Comput Biol Med</source>. <year>2012</year>;<volume>42</volume>(<issue>2</issue>):<fpage>257</fpage>‐<lpage>264</lpage>.<pub-id pub-id-type="pmid">22204867</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.compbiomed.2011.12.002</pub-id></mixed-citation></ref><ref id="acn351737-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="acn351737-cit-0041">
+<string-name name-style="western">
+<surname>Seibenhener</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wooten</surname>
+<given-names>MC</given-names>
+</string-name>. <article-title>Use of the open field maze to measure locomotor and anxiety‐like behavior in mice</article-title>. <source>J Vis Exp</source>. <year>2015</year>;<volume>96</volume>:<elocation-id>e52434</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3791/52434</pub-id><pub-id pub-id-type="pmcid">PMC4354627</pub-id><pub-id pub-id-type="pmid">25742564</pub-id></mixed-citation></ref><ref id="acn351737-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="acn351737-cit-0042">
+<string-name name-style="western">
+<surname>Lea‐Banks</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S‐K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hynynen</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Ultrasound‐triggered oxygen‐loaded nanodroplets enhance and monitor cerebral damage from sonodynamic therapy</article-title>. <source>Nanotheranostics</source>. <year>2022</year>;<volume>6</volume>(<issue>4</issue>):<fpage>376</fpage>‐<lpage>387</lpage>.<pub-id pub-id-type="pmid">35795341</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7150/ntno.71946</pub-id><pub-id pub-id-type="pmcid">PMC9254362</pub-id></mixed-citation></ref><ref id="acn351737-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="acn351737-cit-0043">
+<string-name name-style="western">
+<surname>Meng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pople</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lea‐Banks</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Focused ultrasound neuromodulation</article-title>. <source>Int Rev Neurobiol</source>. <year>2021</year>;<volume>159</volume>:<fpage>221</fpage>‐<lpage>240</lpage>.<pub-id pub-id-type="pmid">34446247</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/bs.irn.2021.06.004</pub-id></mixed-citation></ref><ref id="acn351737-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="acn351737-cit-0044">
+<string-name name-style="western">
+<surname>Cora</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kooistra</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Travlos</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Vaginal cytology of the laboratory rat and mouse: review and criteria for the staging of the estrous cycle using stained vaginal smears</article-title>. <source>Toxicol Pathol</source>. <year>2015</year>;<volume>43</volume>(<issue>6</issue>):<fpage>776</fpage>‐<lpage>793</lpage>.<pub-id pub-id-type="pmid">25739587</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0192623315570339</pub-id><pub-id pub-id-type="pmcid">PMC11504324</pub-id></mixed-citation></ref><ref id="acn351737-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="acn351737-cit-0045">
+<string-name name-style="western">
+<surname>O'Reilly</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muller</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hynynen</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Ultrasound insertion loss of rat parietal bone appears to be proportional to animal mass at submegahertz frequencies</article-title>. <source>Ultrasound Med Biol</source>. <year>2011</year>;<volume>37</volume>(<issue>11</issue>):<fpage>1930</fpage>‐<lpage>1937</lpage>.<pub-id pub-id-type="pmid">21925788</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ultrasmedbio.2011.08.001</pub-id><pub-id pub-id-type="pmcid">PMC3228246</pub-id></mixed-citation></ref><ref id="acn351737-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="acn351737-cit-0046">
+<string-name name-style="western">
+<surname>Borsje</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wetzels</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lucassen</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pot</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koopmans</surname>
+<given-names>RT</given-names>
+</string-name>. <article-title>The course of neuropsychiatric symptoms in community‐dwelling patients with dementia: a systematic review</article-title>. <source>Int Psychogeriatr</source>. <year>2015</year>;<volume>27</volume>(<issue>3</issue>):<fpage>385</fpage>‐<lpage>405</lpage>.<pub-id pub-id-type="pmid">25403309</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S1041610214002282</pub-id></mixed-citation></ref><ref id="acn351737-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="acn351737-cit-0047">
+<string-name name-style="western">
+<surname>Lea‐Banks</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Reilly</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hynynen</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Ultrasound‐responsive droplets for therapy: a review</article-title>. <source>J Control Release</source>. <year>2019</year>;<volume>293</volume>:<fpage>144</fpage>‐<lpage>154</lpage>.<pub-id pub-id-type="pmid">30503398</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2018.11.028</pub-id><pub-id pub-id-type="pmcid">PMC6459400</pub-id></mixed-citation></ref><ref id="acn351737-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="acn351737-cit-0048">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fix</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arena</surname>
+<given-names>CB</given-names>
+</string-name>, et al. <article-title>Focused ultrasound‐facilitated brain drug delivery using optimized nanodroplets: vaporization efficiency dictates large molecular delivery</article-title>. <source>Phys Med Biol</source>. <year>2018</year>;<volume>63</volume>(<issue>3</issue>):<elocation-id>035002</elocation-id>.<pub-id pub-id-type="pmid">29260735</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1088/1361-6560/aaa30d</pub-id><pub-id pub-id-type="pmcid">PMC5823501</pub-id></mixed-citation></ref><ref id="acn351737-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="acn351737-cit-0049">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheeran</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olumolade</surname>
+<given-names>OO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dayton</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Konofagou</surname>
+<given-names>EE</given-names>
+</string-name>. <article-title>Targeted drug delivery with focused ultrasound‐induced blood‐brain barrier opening using acoustically‐activated nanodroplets</article-title>. <source>J Control Release</source>. <year>2013</year>;<volume>172</volume>(<issue>3</issue>):<fpage>795</fpage>‐<lpage>804</lpage>.<pub-id pub-id-type="pmid">24096019</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jconrel.2013.09.025</pub-id><pub-id pub-id-type="pmcid">PMC3866692</pub-id></mixed-citation></ref><ref id="acn351737-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="acn351737-cit-0050">
+<string-name name-style="western">
+<surname>Sánchez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arnt</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hyttel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moltzen</surname>
+<given-names>EK</given-names>
+</string-name>. <article-title>The role of serotonergic mechanisms in inhibition of isolation‐induced aggression in male mice</article-title>. <source>Psychopharmacology (Berl)</source>. <year>1993</year>;<volume>110</volume>(<issue>1–2</issue>):<fpage>53</fpage>‐<lpage>59</lpage>.<pub-id pub-id-type="pmid">7870899</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF02246950</pub-id></mixed-citation></ref><ref id="acn351737-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="acn351737-cit-0051">
+<string-name name-style="western">
+<surname>Alexander</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanna</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serna</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Younkin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Younkin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janus</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Increased aggression in males in transgenic Tg2576 mouse model of Alzheimer's disease</article-title>. <source>Behav Brain Res</source>. <year>2011</year>;<volume>216</volume>(<issue>1</issue>):<fpage>77</fpage>‐<lpage>83</lpage>.<pub-id pub-id-type="pmid">20655336</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbr.2010.07.016</pub-id></mixed-citation></ref><ref id="acn351737-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="acn351737-cit-0052">
+<string-name name-style="western">
+<surname>Thurmond</surname>
+<given-names>JB</given-names>
+</string-name>. <article-title>Technique for producing and measuring territorial aggression using laboratory mice</article-title>. <source>Physiol Behav</source>. <year>1975</year>;<volume>14</volume>(<issue>6</issue>):<fpage>879</fpage>‐<lpage>881</lpage>.<pub-id pub-id-type="pmid">1237905</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0031-9384(75)90086-4</pub-id></mixed-citation></ref><ref id="acn351737-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="acn351737-cit-0053">
+<string-name name-style="western">
+<surname>Foti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bilel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tirri</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Low‐normal doses of methiopropamine induce aggressive behaviour in mice</article-title>. <source>Psychopharmacology (Berl)</source>. <year>2021</year>;<volume>238</volume>(<issue>7</issue>):<fpage>1847</fpage>‐<lpage>1856</lpage>.<pub-id pub-id-type="pmid">33770233</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00213-021-05813-y</pub-id></mixed-citation></ref><ref id="acn351737-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="acn351737-cit-0054">
+<string-name name-style="western">
+<surname>Miczek</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maxson</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fish</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faccidomo</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Aggressive behavioral phenotypes in mice</article-title>. <source>Behav Brain Res</source>. <year>2001</year>;<volume>125</volume>(<issue>1–2</issue>):<fpage>167</fpage>‐<lpage>181</lpage>.<pub-id pub-id-type="pmid">11682108</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0166-4328(01)00298-4</pub-id></mixed-citation></ref><ref id="acn351737-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="acn351737-cit-0055">
+<string-name name-style="western">
+<surname>St John</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corning</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Maternal aggression in mice</article-title>. <source>Behav Biol</source>. <year>1973</year>;<volume>9</volume>(<issue>5</issue>):<fpage>635</fpage>‐<lpage>639</lpage>.<pub-id pub-id-type="pmid">4796850</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0091-6773(73)80058-6</pub-id></mixed-citation></ref><ref id="acn351737-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="acn351737-cit-0056">
+<string-name name-style="western">
+<surname>Bories</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guitton</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Julien</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Sex‐dependent alterations in social behaviour and cortical synaptic activity coincide at different ages in a model of Alzheimer's disease</article-title>. <source>PLoS One</source>. <year>2012</year>;<volume>7</volume>(<issue>9</issue>):<elocation-id>e46111</elocation-id>.<pub-id pub-id-type="pmid">23029404</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0046111</pub-id><pub-id pub-id-type="pmcid">PMC3454358</pub-id></mixed-citation></ref><ref id="acn351737-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="acn351737-cit-0057">
+<string-name name-style="western">
+<surname>Moechars</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuipéri</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laenen</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Leuven</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Aggressive behaviour in transgenic mice expressing APP is alleviated by serotonergic drugs</article-title>. <source>Neuroreport</source>. <year>1998</year>;<volume>9</volume>(<issue>16</issue>):<fpage>3561</fpage>‐<lpage>3564</lpage>.<pub-id pub-id-type="pmid">9858360</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00001756-199811160-00004</pub-id></mixed-citation></ref><ref id="acn351737-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="acn351737-cit-0058">
+<string-name name-style="western">
+<surname>Vloeberghs</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Dam</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coen</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Aggressive male APP23 mice modeling behavioral alterations in dementia</article-title>. <source>Behav Neurosci</source>. <year>2006</year>;<volume>120</volume>(<issue>6</issue>):<fpage>1380</fpage>‐<lpage>1383</lpage>.<pub-id pub-id-type="pmid">17201483</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1037/0735-7044.120.6.1380</pub-id></mixed-citation></ref><ref id="acn351737-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="acn351737-cit-0059">
+<string-name name-style="western">
+<surname>Ballard</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corbett</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Agitation and aggression in people with Alzheimer's disease</article-title>. <source>Curr Opin Psychiatry</source>. <year>2013</year>;<volume>26</volume>(<issue>3</issue>):<fpage>252</fpage>‐<lpage>259</lpage>.<pub-id pub-id-type="pmid">23528917</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/YCO.0b013e32835f414b</pub-id></mixed-citation></ref><ref id="acn351737-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="acn351737-cit-0060">
+<string-name name-style="western">
+<surname>Arendash</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>King</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>MN</given-names>
+</string-name>, et al. <article-title>Progressive, age‐related behavioral impairments in transgenic mice carrying both mutant amyloid precursor protein and presenilin‐1 transgenes</article-title>. <source>Brain Res</source>. <year>2001</year>;<volume>891</volume>(<issue>1–2</issue>):<fpage>42</fpage>‐<lpage>53</lpage>.<pub-id pub-id-type="pmid">11164808</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0006-8993(00)03186-3</pub-id></mixed-citation></ref><ref id="acn351737-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="acn351737-cit-0061">
+<string-name name-style="western">
+<surname>Lalonde</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fukuchi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strazielle</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>APP transgenic mice for modelling behavioural and psychological symptoms of dementia (BPSD)</article-title>. <source>Neurosci Biobehav Rev</source>. <year>2012</year>;<volume>36</volume>(<issue>5</issue>):<fpage>1357</fpage>‐<lpage>1375</lpage>.<pub-id pub-id-type="pmid">22373961</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neubiorev.2012.02.011</pub-id><pub-id pub-id-type="pmcid">PMC3340431</pub-id></mixed-citation></ref><ref id="acn351737-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="acn351737-cit-0062">
+<string-name name-style="western">
+<surname>Hsiao</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borchelt</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olson</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Age‐related CNS disorder and early death in transgenic FVB/N mice overexpressing Alzheimer amyloid precursor proteins</article-title>. <source>Neuron</source>. <year>1995</year>;<volume>15</volume>(<issue>5</issue>):<fpage>1203</fpage>‐<lpage>1218</lpage>.<pub-id pub-id-type="pmid">7576662</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0896-6273(95)90107-8</pub-id></mixed-citation></ref><ref id="acn351737-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="acn351737-cit-0063">
+<string-name name-style="western">
+<surname>Maldifassi</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baur</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sigel</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Functional sites involved in modulation of the GABAA receptor channel by the intravenous anesthetics propofol, etomidate and pentobarbital</article-title>. <source>Neuropharmacology</source>. <year>2016</year>;<volume>105</volume>:<fpage>207</fpage>‐<lpage>214</lpage>.<pub-id pub-id-type="pmid">26767954</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuropharm.2016.01.003</pub-id></mixed-citation></ref><ref id="acn351737-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="acn351737-cit-0064">
+<string-name name-style="western">
+<surname>Olsen</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>GABA receptor: positive and negative allosteric modulators</article-title>. <source>Neuropharmacology</source>. <year>2018</year>;<volume>136</volume>(<issue>Pt A</issue>):<fpage>10</fpage>‐<lpage>22</lpage>.<pub-id pub-id-type="pmid">29407219</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuropharm.2018.01.036</pub-id><pub-id pub-id-type="pmcid">PMC6027637</pub-id></mixed-citation></ref><ref id="acn351737-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="acn351737-cit-0065">
+<string-name name-style="western">
+<surname>Kuschinsky</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seidel</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reetz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyer‐Burgdorf</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The effect of pentobarbital on brain 5‐HT metabolism in mice</article-title>. <source>Experientia</source>. <year>1973</year>;<volume>29</volume>(<issue>7</issue>):<fpage>826</fpage>‐<lpage>827</lpage>.<pub-id pub-id-type="pmid">4724714</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF01946312</pub-id></mixed-citation></ref><ref id="acn351737-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="acn351737-cit-0066">
+<string-name name-style="western">
+<surname>Miczek</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Almeida</surname>
+<given-names>RMM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kravitz</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rissman</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Boer</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raine</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Neurobiology of escalated aggression and violence</article-title>. <source>J Neurosci</source>. <year>2007</year>;<volume>27</volume>(<issue>44</issue>):<fpage>11803</fpage>‐<lpage>11806</lpage>.<pub-id pub-id-type="pmid">17978016</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.3500-07.2007</pub-id><pub-id pub-id-type="pmcid">PMC2667097</pub-id></mixed-citation></ref><ref id="acn351737-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="acn351737-cit-0067">
+<string-name name-style="western">
+<surname>Takahashi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quadros</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Almeida</surname>
+<given-names>RMM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miczek</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>Behavioral and pharmacogenetics of aggressive behavior</article-title>. <source>Curr Top Behav Neurosci</source>. <year>2012</year>;<volume>12</volume>:<fpage>73</fpage>‐<lpage>138</lpage>.<pub-id pub-id-type="pmid">22297576</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/7854_2011_191</pub-id><pub-id pub-id-type="pmcid">PMC3864145</pub-id></mixed-citation></ref></ref-list></back></article>
