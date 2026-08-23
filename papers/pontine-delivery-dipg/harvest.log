@@ -1,0 +1,126 @@
+convection_enhanced_delivery: '"convection-enhanced delivery" AND ("diffuse intrinsic ponti' -> 100
+convection_enhanced_delivery: '"convection enhanced delivery" AND (brainstem OR "brain stem' -> 100
+convection_enhanced_delivery: '"convection-enhanced delivery" AND (catheter OR "infusion ra' -> 100
+convection_enhanced_delivery: '"convection-enhanced delivery" AND (glioma OR glioblastoma) ' -> 100
+convection_enhanced_delivery: '("interstitial infusion" OR "intratumoral infusion" OR "intr' -> 100
+convection_enhanced_delivery: '"convection-enhanced delivery" AND (panobinostat OR "MTX110"' -> 100
+focused_ultrasound_bbb_opening: '("focused ultrasound" OR "MR-guided focused ultrasound" OR "' -> 100
+focused_ultrasound_bbb_opening: '("focused ultrasound" OR sonication) AND microbubble AND ("b' -> 100
+focused_ultrasound_bbb_opening: '("focused ultrasound" AND "blood-brain barrier opening") AND' -> 100
+focused_ultrasound_bbb_opening: '("focused ultrasound" OR "ultrasound-mediated") AND ("drug d' -> 100
+focused_ultrasound_bbb_opening: '"histotripsy" OR ("sonodynamic therapy" AND glioma)' -> 100
+intra_arterial_and_bbb_disruption: '("intra-arterial" OR "intraarterial" OR "superselective intr' -> 100
+intra_arterial_and_bbb_disruption: '("osmotic blood-brain barrier disruption" OR "mannitol" AND ' -> 100
+intra_arterial_and_bbb_disruption: '"intra-arterial" AND ("basilar artery" OR "vertebral artery"' -> 100
+intra_arterial_and_bbb_disruption: '("regadenoson" OR "NEO100" OR "RMP-7" OR "Cereport" OR brady' -> 100
+intrathecal_intraventricular: '("intrathecal" OR "intraventricular" OR "intracerebroventric' -> 100
+intrathecal_intraventricular: '("intracerebroventricular" OR "intraventricular") AND ("CAR ' -> 100
+intrathecal_intraventricular: '("intrathecal" OR "intra-CSF") AND ("drug delivery" OR pharm' -> 100
+intrathecal_intraventricular: '"cerebrospinal fluid" AND ("glymphatic" OR "CSF flow") AND (' -> 100
+car_t_and_cell_therapy_delivery: '("CAR T" OR "CAR-T" OR "chimeric antigen receptor") AND ("di' -> 100
+car_t_and_cell_therapy_delivery: '("GD2 CAR" OR "B7-H3 CAR" OR "GD2-CAR" OR "B7H3 CAR") AND (g' -> 100
+car_t_and_cell_therapy_delivery: '("neural stem cell" OR "mesenchymal stem cell" OR "NSC-media' -> 100
+car_t_and_cell_therapy_delivery: '("locoregional" OR "loco-regional") AND ("CAR T" OR "cell th' -> 100
+viral_vectors_and_oncolytic: '("oncolytic" OR "adenovirus" OR "DNX-2401" OR "poliovirus" O' -> 100
+viral_vectors_and_oncolytic: '("AAV" OR "adeno-associated virus") AND ("brainstem" OR pons' -> 100
+viral_vectors_and_oncolytic: '("oncolytic virus" AND ("intratumoral injection" OR "intratu' -> 100
+viral_vectors_and_oncolytic: '("gene therapy" AND ("intraparenchymal" OR "intrathecal" OR ' -> 100
+nanoparticle_and_formulation: '(nanoparticle OR liposome OR "lipid nanoparticle" OR micelle' -> 100
+nanoparticle_and_formulation: '(nanoparticle OR "lipid nanoparticle") AND ("blood-brain bar' -> 100
+nanoparticle_and_formulation: '("convection-enhanced delivery" OR "intratumoral") AND (nano' -> 100
+nanoparticle_and_formulation: '("brain-penetrating nanoparticle" OR "PEGylated nanoparticle' -> 1
+nanoparticle_and_formulation: '(exosome OR "extracellular vesicle") AND ("brain delivery" O' -> 100
+intranasal: '"intranasal" AND ("nose-to-brain" OR "brain delivery" OR "CN' -> 100
+intranasal: '"intranasal" AND ("diffuse intrinsic pontine glioma" OR "DIP' -> 100
+intranasal: '("nose-to-brain" AND (nanoparticle OR "olfactory" OR trigemi' -> 100
+systemic_bbb_penetrant_pharmacology: '("blood-brain barrier" OR "brain penetration" OR "efflux" OR' -> 100
+systemic_bbb_penetrant_pharmacology: '(ONC201 OR dordaviprone OR panobinostat OR "ONC206" OR paxal' -> 100
+systemic_bbb_penetrant_pharmacology: '"unbound brain-to-plasma" OR ("Kp,uu" AND brain)' -> 100
+systemic_bbb_penetrant_pharmacology: '("drug delivery" OR "pharmacokinetic") AND ("diffuse intrins' -> 100
+systemic_bbb_penetrant_pharmacology: '("blood-brain barrier" AND ("intact" OR heterogeneity OR per' -> 100
+implants_depots_and_devices: '("Gliadel" OR "carmustine wafer" OR "polymer implant" OR "dr' -> 100
+implants_depots_and_devices: '("implanted catheter" OR "subcutaneous port" OR "refillable"' -> 100
+implants_depots_and_devices: '("microneedle" OR "intracranial microdevice" OR "implantable' -> 100
+implants_depots_and_devices: '"drug delivery device" AND (brainstem OR "brain stem" OR pon' -> 55
+imaging_dosimetry_and_modeling: '("real-time MRI" OR "gadolinium tracer" OR "co-infusion" OR ' -> 100
+imaging_dosimetry_and_modeling: '("computational model" OR "finite element" OR "predictive mo' -> 100
+imaging_dosimetry_and_modeling: '("PET imaging" OR "SPECT" OR radiolabeled) AND ("convection-' -> 100
+imaging_dosimetry_and_modeling: '"diffusion tensor imaging" AND ("convection-enhanced deliver' -> 100
+surgical_access_and_safety: '("brainstem biopsy" OR "stereotactic biopsy") AND (DIPG OR "' -> 100
+surgical_access_and_safety: '("transcerebellar" OR "transfrontal" OR "trajectory planning' -> 100
+surgical_access_and_safety: '"brainstem" AND ("surgical anatomy" OR "safe entry zones") A' -> 100
+surgical_access_and_safety: '("robot-assisted" OR "frameless stereotaxy" OR "neuronavigat' -> 100
+radiation_and_combined_modality: '("re-irradiation" OR "reirradiation" OR "radiosensitizer" OR' -> 100
+radiation_and_combined_modality: '("radiation-induced blood-brain barrier" OR "radiation and B' -> 33
+radiation_and_combined_modality: '("boron neutron capture" OR "brachytherapy" OR "radioimmunot' -> 100
+related_brainstem_cns_diseases: '("brainstem" OR pons) AND ("drug delivery" OR "targeted deli' -> 100
+related_brainstem_cns_diseases: '("intraparenchymal infusion" OR "convection-enhanced deliver' -> 100
+related_brainstem_cns_diseases: '("leptomeningeal" OR "CSF dissemination") AND ("diffuse midl' -> 100
+related_brainstem_cns_diseases: '"ependymoma" AND (brainstem OR "posterior fossa") AND ("drug' -> 100
+seed convection_enhanced_delivery: '"convection-enhanced delivery" AND PUB_YEAR:[1994 TO 20' -> 100
+seed convection_enhanced_delivery: '"convection-enhanced delivery" AND (brainstem OR "brain' -> 100
+seed convection_enhanced_delivery: 'TITLE:("convection" AND (delivery OR perfusion OR infus' -> 100
+seed convection_enhanced_delivery: '("high-flow microinfusion" OR "convective" AND "interst' -> 5
+seed convection_enhanced_delivery: 'AUTH:"Bobo RH" OR AUTH:"Lonser RR" AND ("convection" OR' -> 68
+seed convection_enhanced_delivery: 'AUTH:"Souweidane MM" AND (delivery OR infusion OR brain' -> 72
+seed convection_enhanced_delivery: '"convection-enhanced delivery" AND (primate OR "non-hum' -> 100
+seed focused_ultrasound: '("focused ultrasound" AND "blood-brain barrier") AND PU' -> 100
+seed focused_ultrasound: 'AUTH:"Hynynen K" AND ("blood-brain barrier" OR microbub' -> 100
+seed intra_arterial: '("osmotic blood-brain barrier disruption" OR "intra-art' -> 100
+seed intra_arterial: 'AUTH:"Neuwelt EA" AND ("barrier disruption" OR "intra-a' -> 100
+seed intrathecal_csf: '("intrathecal chemotherapy" OR "intraventricular chemot' -> 100
+seed systemic_bbb_pharmacology: '("blood-brain barrier" AND ("brainstem glioma" OR "pont' -> 100
+seed systemic_bbb_pharmacology: 'TITLE:("blood-brain barrier" OR "brain penetration") AN' -> 100
+seed surgical_access: '("brainstem biopsy" OR "stereotactic biopsy of brainste' -> 57
+seed surgical_access: '"safe entry zones" AND brainstem' -> 100
+seed viral_vector: '("oncolytic" OR "gene therapy") AND ("brainstem" OR "po' -> 100
+seed viral_vector: 'AAV AND ("brainstem" OR "medulla") AND (transduction OR' -> 100
+seed nanoparticle: '(liposome OR nanoparticle) AND ("convection-enhanced de' -> 100
+seed implant_depot_device: '("carmustine wafer" OR Gliadel) AND (glioma OR "brain t' -> 100
+seed imaging_dosimetry_modeling: '("real-time MR" OR gadolinium OR tracer) AND "convectio' -> 100
+seed imaging_dosimetry_modeling: '("mathematical model" OR "computational") AND "convecti' -> 100
+seed imaging_dosimetry_modeling: '"diffusion tensor imaging" AND ("convection-enhanced de' -> 100
+seed related_brainstem_cns_diseases: '("GDNF" OR "AADC" OR putaminal) AND ("convection-enhanc' -> 100
+seed related_brainstem_cns_diseases: 'nusinersen AND intrathecal AND (distribution OR pharmac' -> 100
+gap intrathecal_intraventricular: '"fourth ventricle" AND (infusion OR chemotherapy OR met' -> 100
+gap intrathecal_intraventricular: 'AUTH:"Sandberg DI" AND (ventricle OR infusion OR delive' -> 31
+gap intrathecal_intraventricular: '("intraventricular" OR "intra-CSF" OR intrathecal) AND ' -> 100
+gap intrathecal_intraventricular: '"intracisternal" AND (infusion OR delivery OR chemother' -> 100
+gap intrathecal_intraventricular: '("intraventricular topotecan" OR "intraventricular meth' -> 100
+gap intrathecal_intraventricular: '"intraventricular" AND ("omburtamab" OR "8H9" OR "radio' -> 100
+gap named_programs_devices: '"MTX110" OR ("soluble panobinostat" AND delivery)' -> 42
+gap named_programs_devices: '"Renishaw" AND (drug delivery OR catheter OR neuroinfus' -> 100
+gap named_programs_devices: 'omburtamab AND (delivery OR brainstem OR intraventricul' -> 100
+gap named_programs_devices: '("rhenium" AND nanoliposome) OR "186RNL"' -> 100
+gap named_programs_devices: '"IL13-PE" OR "IL13-Pseudomonas" OR "IL13RA2 immunotoxin' -> 0
+gap named_programs_devices: '"PNOC" AND (trial OR consortium) AND (glioma OR DIPG OR' -> 100
+gap named_programs_devices: '"ONC201" AND (CSF OR "brain penetration" OR pharmacokin' -> 100
+gap named_programs_devices: '("drug delivery system" OR "implanted device") AND ("di' -> 100
+gap intranasal: '"intranasal" AND (glioma OR "brain tumor") AND (mesench' -> 100
+gap intranasal: '"nose-to-brain" AND (glioma OR "brain tumor" OR "brains' -> 100
+gap intranasal: '"intranasal" AND ("perillyl alcohol" OR NEO100 OR temoz' -> 100
+gap intranasal: '("FUSIN" OR ("focused ultrasound" AND intranasal))' -> 100
+gap antibody_conjugate_shuttle: '("transferrin receptor" OR "TfR" OR "insulin receptor")' -> 100
+gap antibody_conjugate_shuttle: '("antibody-drug conjugate" OR ADC) AND ("brain tumor" O' -> 100
+gap antibody_conjugate_shuttle: '"molecular Trojan horse" OR ("brain shuttle" AND antibo' -> 100
+gap antibody_conjugate_shuttle: '("peptide-mediated" OR angiopep OR "ApoE peptide" OR "R' -> 100
+gap imaging_dosimetry_modeling: '("infusate distribution" OR "drug distribution mapping"' -> 100
+gap imaging_dosimetry_modeling: '("patient-specific" OR "in silico") AND ("drug delivery' -> 100
+gap imaging_dosimetry_modeling: '("gadolinium co-infusion" OR "surrogate tracer" OR "MRI' -> 85
+gap brainstem_bbb_biology: '("blood-brain barrier" OR "vascular" OR pericyte OR "ti' -> 100
+gap brainstem_bbb_biology: '("intact blood-brain barrier" AND (DIPG OR "diffuse mid' -> 100
+gap brainstem_bbb_biology: '("blood-brain barrier organoid" OR "microfluidic BBB" O' -> 100
+related convection_enhanced_delivery: '("MR-guided" OR "MRI-guided" OR "intraputaminal" OR "in' -> 100
+related convection_enhanced_delivery: '"convection-enhanced delivery" AND (Parkinson OR Gauche' -> 100
+related convection_enhanced_delivery: '("intraputaminal infusion" OR "intrastriatal infusion")' -> 100
+related convection_enhanced_delivery: '"brainstem" AND ("gene therapy" OR "AAV") AND (infusion' -> 100
+related intrathecal_csf: 'nusinersen AND (intrathecal OR "CSF distribution" OR ph' -> 100
+related intrathecal_csf: '("antisense oligonucleotide" OR ASO) AND intrathecal AN' -> 100
+related intrathecal_csf: 'cerliponase AND (intraventricular OR "CLN2" OR "enzyme ' -> 100
+related intrathecal_csf: '("intracerebroventricular enzyme replacement" OR "ICV e' -> 41
+related intrathecal_csf: 'onasemnogene AND (intrathecal OR intracisternal OR "CSF' -> 100
+related focused_ultrasound: '"focused ultrasound" AND "blood-brain barrier" AND (Alz' -> 100
+related focused_ultrasound: '"focused ultrasound" AND (brainstem OR pons OR "posteri' -> 100
+related focused_ultrasound: '"transcranial" AND ("MR-guided focused ultrasound") AND' -> 100
+related systemic_bbb_pharmacology: '("blood-brain barrier" OR "brain penetration") AND (nus' -> 100
+related systemic_bbb_pharmacology: '("regional heterogeneity" OR "regional differences") AN' -> 100
