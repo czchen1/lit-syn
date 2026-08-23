@@ -31,6 +31,7 @@ cost-effectiveness papers.
 - `fulltext/` — Europe PMC open-access full-text XML (**494** records) via the EBI REST `fullTextXML` endpoint.
 - `notes/` — synthesis notes organised by delivery modality (index below).
 - `REPORT.md` — cross-modality synthesis: comparison, evidence maturity, gaps.
+- `pontine_delivery_review.pdf` — standalone 85-page review (report + all notes + full reference list), built by `build_pdf.py`.
 - `harvest.py`, `harvest_seeds.py`, `harvest_gaps.py`, `harvest_related.py` — Europe PMC harvest scripts.
 - `curate.py` — scoring/classification/deduplication, writes `index.tsv`.
 - `fetch_fulltext.py` — full-text XML retrieval, updates `index.tsv` status.
