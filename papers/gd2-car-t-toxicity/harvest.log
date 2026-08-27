@@ -1,0 +1,52 @@
+gd2_cart_core: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+gd2_cart_core: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+gd2_cart_core: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+gd2_cart_core: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+gd2_cart_core: '"GD2-CART01" OR "GD2 CART01" OR "CARTOX" AND GD2' -> 13
+icv_locoregional_cns: '("intracerebroventricular" OR "intraventricular" OR "intra-cerebrovent' -> 600
+icv_locoregional_cns: '"intracerebroventricular" AND ("CAR T" OR "CAR-T" OR "CAR T-cell" OR "' -> 409
+icv_locoregional_cns: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 592
+icv_locoregional_cns: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 569
+icv_locoregional_cns: '("B7-H3 CAR" OR "B7H3 CAR" OR "IL13Ralpha2 CAR" OR "IL13Rα2" OR "HER2 ' -> 600
+icv_locoregional_cns: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+cytokine_release_syndrome: '"cytokine release syndrome" AND ("GD2" OR "disialoganglioside" OR "GD2' -> 600
+cytokine_release_syndrome: '"cytokine release syndrome" AND ("CAR T" OR "CAR-T" OR "CAR T-cell" OR' -> 600
+cytokine_release_syndrome: '"cytokine release syndrome" AND (IL-6 OR interleukin-6 OR ferritin OR ' -> 600
+cytokine_release_syndrome: '"macrophage activation syndrome" OR "hemophagocytic" AND ("CAR T" OR "' -> 600
+cytokine_release_syndrome: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+neurotoxicity: '("ICANS" OR "immune effector cell-associated neurotoxicity" OR "neurot' -> 600
+neurotoxicity: '"neurotoxicity" AND ("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD' -> 600
+neurotoxicity: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+neurotoxicity: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+neurotoxicity: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+hepatic: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+hepatic: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+hepatic: '("CAR T" OR "chimeric antigen receptor") AND (liver OR hepatic) AND (d' -> 600
+hepatic: '"cytokine release syndrome" AND (liver OR hepatic) AND (injury OR dysf' -> 600
+renal_electrolyte: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+renal_electrolyte: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+renal_electrolyte: '"chimeric antigen receptor" AND ("renal impairment" OR dialysis OR "gl' -> 600
+hematologic_coagulopathy: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+hematologic_coagulopathy: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+hematologic_coagulopathy: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+hematologic_coagulopathy: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+cardiopulmonary: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+cardiopulmonary: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+cardiopulmonary: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+drug_interaction_pk: '("cytokine" OR "interleukin-6" OR "IL-6" OR inflammation) AND ("cytoch' -> 600
+drug_interaction_pk: '(tocilizumab OR siltuximab OR "IL-6 receptor") AND ("CYP3A4" OR "drug ' -> 600
+drug_interaction_pk: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+drug_interaction_pk: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+drug_interaction_pk: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+drug_interaction_pk: '("chimeric antigen receptor" OR "CAR T") AND (antifungal OR azole OR v' -> 600
+drug_interaction_pk: '"critical illness" AND ("drug clearance" OR "augmented renal clearance' -> 600
+preclinical_toxicity: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+preclinical_toxicity: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+preclinical_toxicity: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 121
+preclinical_toxicity: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+preclinical_toxicity: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+toxicity_mitigation: '("GD2" OR "disialoganglioside" OR "GD2-CAR" OR "GD2 CAR" OR "14g2a" OR' -> 600
+toxicity_mitigation: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+toxicity_mitigation: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+toxicity_mitigation: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "chimeric antigen receptor" OR ' -> 600
+total unique records: 11342

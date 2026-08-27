@@ -1,0 +1,983 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ther Adv Med Oncol</journal-id><journal-id journal-id-type="iso-abbrev">Ther Adv Med Oncol</journal-id><journal-id journal-id-type="pmc-domain-id">1560</journal-id><journal-id journal-id-type="pmc-domain">tam</journal-id><journal-id journal-id-type="nlm-id">101510808</journal-id><journal-id journal-id-type="publisher-id">TAM</journal-id><journal-title-group><journal-title>Therapeutic Advances in Medical Oncology</journal-title></journal-title-group><issn pub-type="ppub">1758-8340</issn><issn pub-type="epub">1758-8359</issn><?publisher_abbrev sage?><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13265983</article-id><article-id pub-id-type="pmcid-ver">PMC13265983.1</article-id><article-id pub-id-type="pmcaid">13265983</article-id><article-id pub-id-type="pmcaiid">13265983</article-id><article-id pub-id-type="pmid">42306495</article-id><article-id pub-id-type="doi">10.1177/17588359261457552</article-id><article-id pub-id-type="publisher-id">10.1177_17588359261457552</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Toxicity of T-Cell Engagers in Solid Tumours: Mechanisms, Management, and Future Directions</subject><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></subj-group></article-categories><title-group><article-title>Cytokine release syndrome in solid tumours: mechanism-based therapeutic strategies for prevention and management</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3265-6755</contrib-id><name name-style="western"><surname>Monaca</surname><given-names initials="F">Federico</given-names></name><aff id="aff1-17588359261457552">Department of Medical Oncology, The Christie NHS Foundation Trust, Manchester, UK</aff><aff id="aff2-17588359261457552">Department of Medical Oncology, Fondazione Policlinico Universitario Agostino Gemelli IRCCS, Rome, Italy</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Woodford</surname><given-names initials="R">Rachel</given-names></name><aff id="aff3-17588359261457552">Advanced Immunotherapy and Cell Therapy Team, The Christie NHS Foundation Trust, Manchester, UK</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Joshi</surname><given-names initials="K">Kroopa</given-names></name><aff id="aff4-17588359261457552">The Royal Free London NHS Foundation Trust, London, UK</aff><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Thistlethwaite</surname><given-names initials="F">Fiona</given-names></name><aff id="aff5-17588359261457552">Advanced Immunotherapy and Cell Therapy Team, The Christie NHS Foundation Trust, Manchester, UK</aff><aff id="aff6-17588359261457552">Division of Cancer Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK</aff><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lim</surname><given-names initials="KHJ">Kok Haw Jonathan</given-names></name><aff id="aff7-17588359261457552">Advanced Immunotherapy and Cell Therapy Team, The Christie NHS Foundation Trust, Manchester, UK</aff><aff id="aff8-17588359261457552">Division of Cancer Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK</aff><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5364-2491</contrib-id><name name-style="western"><surname>Gomez-Randulfe</surname><given-names initials="I">Igor</given-names></name><xref rid="corresp1-17588359261457552" ref-type="corresp"/><aff id="aff9-17588359261457552">Department of Medical Oncology, The Christie NHS Foundation Trust, Wilmslow Road, Manchester M20 4BX, UK</aff><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role></contrib></contrib-group><author-notes><corresp id="corresp1-17588359261457552">
+<email>igor.randulfe@nhs.net</email>
+</corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>6</month><year>2026</year></pub-date><pub-date pub-type="collection"><year>2026</year></pub-date><volume>18</volume><issue-id pub-id-type="pmc-issue-id">503701</issue-id><elocation-id>17588359261457552</elocation-id><history><date date-type="received"><day>29</day><month>1</month><year>2026</year></date><date date-type="accepted"><day>20</day><month>5</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>14</day><month>06</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>16</day><month>06</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-06-20 22:25:19.770"><day>20</day><month>06</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© The Author(s), 2026</copyright-statement><copyright-year>2026</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted. Manuscript content on this site is licensed under Creative Commons Licenses</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_17588359261457552.pdf"><?pdf-name 10.1177_17588359261457552.pdf?><?pdf-size 764153?><?pdf-md5 e06250a6e03d9d38982ed89f528de052?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:4ba9/13265983/e06250a6e03d/10.1177_17588359261457552.pdf?></self-uri><abstract><p>Cytokine release syndrome (CRS) represents a spectrum of immune hyperactivation initiated by rapid T-cell engagement and amplified through innate immune cells, particularly monocytes and macrophages, with downstream cytokine cascades driving endothelial dysfunction, capillary leak and organ impairment. CRS is a frequent, class-associated toxicity of T-cell-engaging immunotherapies and is being observed with increasing regularity as T-cell-redirecting therapies progress through clinical development in solid tumours. Although CRS is typically less severe in patients with solid tumours relative to those with haematological malignancies, phase II–III trials of these emerging agents consistently report grade 1–2 CRS in the majority of patients, highlighting the need for effective prevention and management strategies, while preserving anti-tumour activity of the primary therapy. Current grading and management algorithms have been largely extrapolated from experience with chimeric antigen receptor T-cell therapies and rely on step-up dosing, premedication, supportive care and escalation to interleukin (IL)-6/IL-6R blockade and corticosteroids. However, steroid-refractory or high-grade CRS, as well as overlapping syndromes underscore the limitations of this approach and the need for mechanism-based interventions targeting upstream mediators and signalling hubs. These include IL-1 blockade, Janus kinase-signal transducer and activator of transcription inhibition, granulocyte–macrophage colony-stimulating factor neutralisation, tumour necrosis factor-alpha inhibition and interferon gamma blockade. In this narrative review, we synthesise the mechanistic rationale and emerging clinical evidence underpinning CRS prevention and management in solid tumours, with a particular focus on T-cell engager (TCE) and other T-cell-redirecting therapies. We then outline key risk-mitigation strategies and discuss their potential implications for anti-tumour immunity. Finally, we highlight key knowledge gaps, particularly the paucity of prospective solid tumour-specific data, with current CRS prevention and management strategies therefore remaining largely extrapolated from haematological malignancies, alongside the need for biomarker-driven risk stratification, optimal sequencing and prophylactic strategies and the development of next-generation TCE designs.</p></abstract><kwd-group><kwd>cytokine release syndrome</kwd><kwd>immune-effector cell-associated toxicities</kwd><kwd>solid tumours</kwd><kwd>T-cell engagers</kwd><kwd>T-cell-redirecting therapies</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2026</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-17588359261457552"><title>Introduction</title><p>Over the past decade, immune checkpoint inhibitors (ICIs) have transformed the therapeutic landscape in oncology, with durable survival benefits observed in multiple solid tumours, such as melanoma, lung cancer and renal cell carcinoma.<sup><xref rid="bibr1-17588359261457552" ref-type="bibr">1</xref><xref rid="bibr2-17588359261457552" ref-type="bibr"/>–<xref rid="bibr3-17588359261457552" ref-type="bibr">3</xref></sup> As such, novel immunotherapeutic agents continue to be developed, with some demonstrating promising clinical activity.<sup>
+<xref rid="bibr4-17588359261457552" ref-type="bibr">4</xref>
+</sup> Adoptive cell therapies, including tumour-infiltrating lymphocyte (TIL) therapy, are now being evaluated in phase III trials in solid tumours, while T-cell engagers (TCEs), such as tebentafusp and tarlatamab, have already been adopted as standard of care in uveal melanoma and are reshaping second-line in small-cell lung cancer, although approval status and access remain geographically variable.<sup><xref rid="bibr4-17588359261457552" ref-type="bibr">4</xref><xref rid="bibr5-17588359261457552" ref-type="bibr"/><xref rid="bibr6-17588359261457552" ref-type="bibr"/><xref rid="bibr7-17588359261457552" ref-type="bibr"/>–<xref rid="bibr8-17588359261457552" ref-type="bibr">8</xref></sup></p><p>TCEs are molecules engineered to redirect cytotoxic T cells against tumour cells by simultaneously binding CD3 on T cells and a tumour-associated antigen, thereby mediating major histocompatibility complex-independent tumour cell lysis.<sup>
+<xref rid="bibr9-17588359261457552" ref-type="bibr">9</xref>
+</sup></p><p>Besides these respective binding domains, TCEs are designed with either an active or Fc-silent domain.<sup>
+<xref rid="bibr10-17588359261457552" ref-type="bibr">10</xref>
+</sup> TCEs with an active Fc domain can also mediate antibody-dependent and complement-dependent cytotoxicity, whereas Fc-silent agents are typically associated with reduced off-tumour toxicity and cytokine release syndrome (CRS).<sup>
+<xref rid="bibr11-17588359261457552" ref-type="bibr">11</xref>
+</sup></p><p>Irrespective of the scaffold, T-cell activation remains intrinsically linked to a characteristic toxicity profile driven by immune hyperactivation and CRS.<sup>
+<xref rid="bibr12-17588359261457552" ref-type="bibr">12</xref>
+</sup> In the context of TCEs, phase II–III trials in solid tumours have reported CRS in approximately 50%–80% of patients, albeit predominantly grades 1–2, underscoring that CRS remains a frequent on-target toxicity in this setting.<sup><xref rid="bibr5-17588359261457552" ref-type="bibr">5</xref>,<xref rid="bibr6-17588359261457552" ref-type="bibr">6</xref></sup> Importantly, CRS can manifest with a broad clinical spectrum, ranging from mild, self-limiting episodes to fulminant, life-threatening events.<sup>
+<xref rid="bibr13-17588359261457552" ref-type="bibr">13</xref>
+</sup> Patients typically present with high fever initially, and can rapidly progress to hypotension, hypoxia and multi-organ dysfunction.<sup>
+<xref rid="bibr13-17588359261457552" ref-type="bibr">13</xref>
+</sup> Prompt identification and intervention are essential to enable accurate diagnosis, guide management decisions and ensure timely escalation of care, particularly to distinguish CRS from sepsis, tumour-related fever and other inflammatory syndromes.</p><p>In this narrative review, we summarise the current understanding of the biological mechanisms driving CRS induced by TCEs and other T-cell-redirecting therapies in solid tumours. We then discuss emerging mechanism-based therapeutic strategies targeting key cytokines and signalling pathways, with the aim of optimising CRS management while preserving anti-tumour immunity and enabling a more precise and rational use of immunotherapy in this setting.</p></sec><sec id="section2-17588359261457552"><title>Overview of CRS in solid tumours across T-cell-redirecting therapies</title><sec id="section3-17588359261457552"><title>Definition and grading</title><p>The American Society for Transplantation and Cellular Therapy (ASTCT) provides the most widely accepted consensus grading system for CRS.<sup>
+<xref rid="bibr14-17588359261457552" ref-type="bibr">14</xref>
+</sup> In this consensus, severity is defined primarily by the degree of hypoxia and hypotension, with the presence of fever constituting an essential diagnostic criterion.<sup>
+<xref rid="bibr14-17588359261457552" ref-type="bibr">14</xref>
+</sup> Comparable grading systems have been proposed, including CTCAE v5.0, the Lee criteria, Penn criteria, MSKCC and CARTOX.<sup><xref rid="bibr15-17588359261457552" ref-type="bibr">15</xref><xref rid="bibr16-17588359261457552" ref-type="bibr"/><xref rid="bibr17-17588359261457552" ref-type="bibr"/>–<xref rid="bibr18-17588359261457552" ref-type="bibr">18</xref></sup> Across systems, grade 1 CRS is characterised by mild symptoms without evidence of organ dysfunction, while grade 2 CRS reflects the need for moderate supportive measures such as intravenous fluids or supplemental oxygen. Grades 3 and 4 CRS correspond to severe or life-threatening organ dysfunction, respectively, requiring escalating interventions such as vasopressors, high-flow oxygen or mechanical ventilation.</p><p>Some criteria also stipulate timeframes for intervention, specify the type of supportive measures required or include threshold levels for oxygen supplementation, often using arbitrary cut points.<sup>
+<xref rid="bibr18-17588359261457552" ref-type="bibr">18</xref>
+</sup> Elevated serum cytokines, including interleukin (IL)-6, interferon gamma (IFN-γ) and IL-10, have been incorporated into certain grading systems but are generally considered impractical for clinical use.<sup><xref rid="bibr17-17588359261457552" ref-type="bibr">17</xref>,<xref rid="bibr19-17588359261457552" ref-type="bibr">19</xref></sup> Although these grading systems were developed in the context of chimeric antigen receptor (CAR) T-cell therapy, they have subsequently been extrapolated to CRS arising from other treatment modalities, including TCEs and TIL therapy.</p></sec><sec id="section4-17588359261457552"><title>Incidence</title><p>Variability in the definitions and grading criteria for CRS, as outlined before, complicates comparisons across therapeutic platforms and may further contribute to underreporting.<sup>
+<xref rid="bibr20-17588359261457552" ref-type="bibr">20</xref>
+</sup> Reported rates of CRS are typically highest with CAR-T cell therapies, lower with TCEs and uncommon with ICIs and TIL therapy.<sup><xref rid="bibr21-17588359261457552" ref-type="bibr">21</xref>,<xref rid="bibr22-17588359261457552" ref-type="bibr">22</xref></sup> Severity also varies substantially between immune-stimulating agents. A comparative analysis reported grade 3 CRS in 4.9% of patients treated with bispecific TCEs, compared with 46% among those receiving CAR-T therapy.<sup>
+<xref rid="bibr23-17588359261457552" ref-type="bibr">23</xref>
+</sup> Other studies have described similar or lower rates of severe CRS with TCEs, reflecting differences in dosing schedules and mitigation strategies such as corticosteroid premedication or step-up dosing.<sup><xref rid="bibr13-17588359261457552" ref-type="bibr">13</xref>,<xref rid="bibr19-17588359261457552" ref-type="bibr">19</xref>,<xref rid="bibr23-17588359261457552" ref-type="bibr">23</xref></sup></p><p>A recent systematic review and meta-analysis, including studies published up to June 2025, identified 15 TCEs evaluated in solid tumours.<sup>
+<xref rid="bibr20-17588359261457552" ref-type="bibr">20</xref>
+</sup> Among 2439 treated patients, grade 1–2 inflammatory disorders occurred in 60.2%, while grade ⩾3 events were observed in 5.3%. The term ‘inflammatory disorder’ was used to encompass both confirmed CRS and CRS-like symptom clusters, acknowledging that true CRS incidence may be under-reported due to symptom overlap with other toxicities. Incidence estimates for adoptive cell therapies in solid tumours are limited by the early termination and small size of many studies.</p><p>In addition, we conducted a systematic search of PubMed and ClinicalTrials.gov (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/17588359261457552" ext-link-type="uri">Supplemental Appendix 1</ext-link>) and identified 20 eligible TCR-T and CAR-T trials in solid tumours, including a total of 543 patients. Safety outcomes were extracted and pooled, yielding CRS rates of 56.5% for grades 1–2 and 3.7% for grades 3–5 toxicity (<xref rid="table1-17588359261457552" ref-type="table">Table 1</xref>). However, heterogeneity in grading systems limits comparability and precludes formal meta-analytic weighting. Furthermore, TIL therapy poses an additional diagnostic challenge, as toxicities from non-cellular components such as high-dose IL-2 can mimic or mask CRS. Severe CRS is rare, though subclinical or CRS-like presentations may occur, characterised by pyrexia and hypotension.<sup>
+<xref rid="bibr24-17588359261457552" ref-type="bibr">24</xref>
+</sup> A pooled analysis of 40 TIL trials reported pyrexia of any grade in 56.1% of patients and grade ⩾3 pyrexia in 24.8%.<sup>
+<xref rid="bibr25-17588359261457552" ref-type="bibr">25</xref>
+</sup></p><table-wrap position="float" id="table1-17588359261457552" orientation="portrait"><label>Table 1.</label><caption><p>CRS incidence in adoptive cellular therapy trials for solid tumours (TCR-T and CAR-based trials).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_17588359261457552-table1.jpg"><?image-name 10.1177_17588359261457552-table1.jpg?><?image-size 150282?><?image-md5 52fa7dacd30154341bd8a0510854f1bb?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2158?><?image-original-width 2247?><?image-scaled-height 719?><?image-scaled-width 749?><?image-cloudpmc-urn urn:cdn:blobs/4ba9/13265983/52fa7dacd301/10.1177_17588359261457552-table1.jpg?><?thumb-name 10.1177_17588359261457552-table1.gif?><?thumb-size 16817?><?thumb-md5 6012406122df1bf3cdf60fc42300d9bc?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 96?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4ba9/13265983/6012406122df/10.1177_17588359261457552-table1.gif?></graphic><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Author</th><th align="left" rowspan="1" colspan="1">Agent</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th align="left" rowspan="1" colspan="1">Grade 1–2, <italic toggle="yes">N</italic> (%)</th><th align="left" rowspan="1" colspan="1">Grade ⩾3, <italic toggle="yes">N</italic> (%)</th><th align="left" rowspan="1" colspan="1">References</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Altan, 2025</td><td rowspan="1" colspan="1">Letetresgene autoleucel</td><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">9 (69.2)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr26-17588359261457552" ref-type="bibr">26</xref>)</td></tr><tr><td rowspan="1" colspan="1">Brown, 2024</td><td rowspan="1" colspan="1">IL-13Rα2-CART</td><td rowspan="1" colspan="1">65</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr27-17588359261457552" ref-type="bibr">27</xref>)</td></tr><tr><td rowspan="1" colspan="1">Chen, 2024</td><td rowspan="1" colspan="1">GCC19-CART</td><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">7 (46.7)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr28-17588359261457552" ref-type="bibr">28</xref>)</td></tr><tr><td rowspan="1" colspan="1">D’Angelo, 2024</td><td rowspan="1" colspan="1">MAGE-A4-TCRT</td><td rowspan="1" colspan="1">52</td><td rowspan="1" colspan="1">36 (69.2)</td><td rowspan="1" colspan="1">1 (1.9)</td><td rowspan="1" colspan="1">(<xref rid="bibr29-17588359261457552" ref-type="bibr">29</xref>)</td></tr><tr><td rowspan="1" colspan="1">Katz, 2020</td><td rowspan="1" colspan="1">CEA-CAR-T</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">1 (100)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr30-17588359261457552" ref-type="bibr">30</xref>)</td></tr><tr><td rowspan="1" colspan="1">Keenan, 2025</td><td rowspan="1" colspan="1">GCC19CART</td><td rowspan="1" colspan="1">9</td><td rowspan="1" colspan="1">9 (100)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr31-17588359261457552" ref-type="bibr">31</xref>)</td></tr><tr><td rowspan="1" colspan="1">Lu, 2017</td><td rowspan="1" colspan="1">MAGE-A3-TCRT</td><td rowspan="1" colspan="1">17</td><td rowspan="1" colspan="1">10 (58.8)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr32-17588359261457552" ref-type="bibr">32</xref>)</td></tr><tr><td rowspan="1" colspan="1">Luo, 2023</td><td rowspan="1" colspan="1">EpCAM-CART</td><td rowspan="1" colspan="1">16</td><td rowspan="1" colspan="1">6 (37.5)</td><td rowspan="1" colspan="1">2 (12.5)</td><td rowspan="1" colspan="1">(<xref rid="bibr33-17588359261457552" ref-type="bibr">33</xref>)</td></tr><tr><td rowspan="1" colspan="1">Morelli, 2023</td><td rowspan="1" colspan="1">KRAS/TP53-TCRT</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">1 (33.3)</td><td rowspan="1" colspan="1">1 (33.3)</td><td rowspan="1" colspan="1">(<xref rid="bibr34-17588359261457552" ref-type="bibr">34</xref>)</td></tr><tr><td rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT01218867">NCT01218867</ext-link>, 2010</td><td rowspan="1" colspan="1">VEGFR2-CART</td><td rowspan="1" colspan="1">24</td><td rowspan="1" colspan="1">2 (8.3)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT01218867">NCT01218867</ext-link>)</td></tr><tr><td rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT01967823">NCT01967823</ext-link>, 2021</td><td rowspan="1" colspan="1">NY-ESO1-TCRT</td><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">1 (9.1)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT01967823">NCT01967823</ext-link>)</td></tr><tr><td rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06048705">NCT06048705</ext-link>, 2023</td><td rowspan="1" colspan="1">Anti-NY-ESO-1 TCR/CD8alpha-expressing T cells</td><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">4 (57.1)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06048705">NCT06048705</ext-link>)</td></tr><tr><td rowspan="1" colspan="1">Patel, 2025</td><td rowspan="1" colspan="1">PRAME-TCRT</td><td rowspan="1" colspan="1">74</td><td rowspan="1" colspan="1">62 (83.8)</td><td rowspan="1" colspan="1">8 (10.8)</td><td rowspan="1" colspan="1">(<xref rid="bibr35-17588359261457552" ref-type="bibr">35</xref>)</td></tr><tr><td rowspan="1" colspan="1">Qi, 2024</td><td rowspan="1" colspan="1">CT041</td><td rowspan="1" colspan="1">98</td><td rowspan="1" colspan="1">95 (96.9)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr36-17588359261457552" ref-type="bibr">36</xref>)</td></tr><tr><td rowspan="1" colspan="1">Reiss, 2025</td><td rowspan="1" colspan="1">CAR-M</td><td rowspan="1" colspan="1">14</td><td rowspan="1" colspan="1">9 (64.3)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr37-17588359261457552" ref-type="bibr">37</xref>)</td></tr><tr><td rowspan="1" colspan="1">Robbins, 2015</td><td rowspan="1" colspan="1">NY-ESO-1-TCRT</td><td rowspan="1" colspan="1">45</td><td rowspan="1" colspan="1">1 (2.2)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr38-17588359261457552" ref-type="bibr">38</xref>)</td></tr><tr><td rowspan="1" colspan="1">Wermke, 2024</td><td rowspan="1" colspan="1">MAGE-A1-TCRT</td><td rowspan="1" colspan="1">16</td><td rowspan="1" colspan="1">13 (81.3)</td><td rowspan="1" colspan="1">1 (6.3)</td><td rowspan="1" colspan="1">(<xref rid="bibr39-17588359261457552" ref-type="bibr">39</xref>)</td></tr><tr><td rowspan="1" colspan="1">Wermke, 2025</td><td rowspan="1" colspan="1">PRAME-TCRT</td><td rowspan="1" colspan="1">38</td><td rowspan="1" colspan="1">29 (76.3)</td><td rowspan="1" colspan="1">7 (18.4)</td><td rowspan="1" colspan="1">(<xref rid="bibr40-17588359261457552" ref-type="bibr">40</xref>)</td></tr><tr><td rowspan="1" colspan="1">Zhang, 2025</td><td rowspan="1" colspan="1">Anti-CEA-CART</td><td rowspan="1" colspan="1">12</td><td rowspan="1" colspan="1">1 (8.3)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr41-17588359261457552" ref-type="bibr">41</xref>)</td></tr><tr><td rowspan="1" colspan="1">Zhang, 2023</td><td rowspan="1" colspan="1">B7-H3-CART</td><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">11 (84.6)</td><td rowspan="1" colspan="1">0 (0)</td><td rowspan="1" colspan="1">(<xref rid="bibr42-17588359261457552" ref-type="bibr">42</xref>)</td></tr><tr><td rowspan="1" colspan="1">Total</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">307 (56.5)</td><td rowspan="1" colspan="1">20 (3.7)</td><td rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-17588359261457552"><p>Included studies were identified through the systematic search described in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/17588359261457552" ext-link-type="uri">Supplemental Appendix 1</ext-link>. For each trial, the table reports the agent, sample size (<italic toggle="yes">N</italic>) and the number and proportion of patients experiencing CRS graded as 1–2 and ⩾3 using the grading system applied in the source publication. Totals represent pooled counts of patients across all included trials (<italic toggle="yes">N</italic> = 543), with overall CRS rates of 56.5% (grades 1–2) and 3.7% (grade ⩾3). Pooled rates given as overall number without meta-analytic weighting.</p></fn><fn id="table-fn2-17588359261457552"><p>CRS, cytokine release syndrome.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section5-17588359261457552"><title>Clinical presentation</title><p>CRS typically presents with a constellation of systemic inflammatory symptoms (<xref rid="table2-17588359261457552" ref-type="table">Table 2</xref>). Given the non-specific nature of many symptoms, alternative aetiologies must be excluded; in this context, careful attention to the temporal relationship between treatment and symptom onset is crucial for establishing causality. CRS associated with immune-effector cell engagement typically occurs within the first 14 days of treatment, often peaking within days of administration, corresponding to maximal in vivo T-cell expansion.<sup><xref rid="bibr14-17588359261457552" ref-type="bibr">14</xref>,<xref rid="bibr15-17588359261457552" ref-type="bibr">15</xref></sup> With TCEs such as tarlatamab, CRS onset is usually rapid, with a median time to onset of 13.7 h and a median resolution time of 3 days.<sup>
+<xref rid="bibr43-17588359261457552" ref-type="bibr">43</xref>
+</sup> In contrast, ICI-associated CRS is frequently delayed: one case series reported a median time to fever onset of 11 days following ICI initiation, while an analysis of the WHO pharmacovigilance database identified cases presenting up to 4 weeks post-treatment.<sup><xref rid="bibr22-17588359261457552" ref-type="bibr">22</xref>,<xref rid="bibr44-17588359261457552" ref-type="bibr">44</xref></sup></p><table-wrap position="float" id="table2-17588359261457552" orientation="portrait"><label>Table 2.</label><caption><p>Differential diagnosis of CRS and CRS-like presentations in patients receiving immune-stimulating therapies.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_17588359261457552-table2.jpg"><?image-name 10.1177_17588359261457552-table2.jpg?><?image-size 169053?><?image-md5 66d6db6376d266c6408b97ab1eea53c1?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 4003?><?image-original-width 2248?><?image-scaled-height 1334?><?image-scaled-width 749?><?image-cloudpmc-urn urn:cdn:blobs/4ba9/13265983/66d6db6376d2/10.1177_17588359261457552-table2.jpg?><?thumb-name 10.1177_17588359261457552-table2.gif?><?thumb-size 13397?><?thumb-md5 78778a903090c60a83b4028dd41b5a62?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 178?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4ba9/13265983/78778a903090/10.1177_17588359261457552-table2.gif?></graphic><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Entity</th><th align="left" rowspan="1" colspan="1">Hallmark symptoms</th><th align="left" rowspan="1" colspan="1">Onset</th><th align="left" rowspan="1" colspan="1">Laboratory findings</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">CRS<sup>
+<xref rid="bibr14-17588359261457552" ref-type="bibr">14</xref>
+</sup></td><td rowspan="1" colspan="1">Fever ⩾38°C</td><td rowspan="1" colspan="1">Platform-dependent</td><td rowspan="1" colspan="1">Elevated CRP</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hypoxia</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Cytopenias</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hypotension</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Coagulopathy</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Organ dysfunction</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Elevated liver enzymes</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Malaise</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Elevated creatinine</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Arthralgia/myalgia</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Rash</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Headache</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Nausea/vomiting</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Secondary HLH/MAS<sup><xref rid="bibr45-17588359261457552" ref-type="bibr">45</xref><xref rid="bibr46-17588359261457552" ref-type="bibr"/>–<xref rid="bibr47-17588359261457552" ref-type="bibr">47</xref></sup></td><td rowspan="1" colspan="1">Fever</td><td rowspan="1" colspan="1">Aetiology dependent</td><td rowspan="1" colspan="1">Elevated ferritin</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Splenomegaly</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Cytopenias</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hypertriglyceridaemia</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Coagulopathy (hypofibrinogenaemia)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Liver function derangement</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Evidence of haemophagocytosis on bone-marrow examination</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Elevated sCD25</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Decreased or absent NK-activity</td></tr><tr><td rowspan="1" colspan="1">IRR<sup>
+<xref rid="bibr48-17588359261457552" ref-type="bibr">48</xref>
+</sup></td><td rowspan="1" colspan="1">Anaphylaxis</td><td rowspan="1" colspan="1">Within minutes of infusion or at second administration</td><td rowspan="1" colspan="1">Elevated IgE</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Angioedema</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Elevated tryptase</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Non-anaphylactic fever, rigours, rash</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Sepsis/SIRS<sup><xref rid="bibr49-17588359261457552" ref-type="bibr">49</xref>,<xref rid="bibr50-17588359261457552" ref-type="bibr">50</xref></sup></td><td rowspan="1" colspan="1">Fever</td><td rowspan="1" colspan="1">1–14 days following administration</td><td rowspan="1" colspan="1">Elevated CRP<sup>
+<xref rid="table-fn3-17588359261457552" ref-type="table-fn">a</xref>
+</sup></td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Rigours</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Elevated procalcitonin</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Organ dysfunction</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Altered leukocyte count</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Stigmata of viral or bacterial infection</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Tumour-associated fever<sup><xref rid="bibr51-17588359261457552" ref-type="bibr">51</xref>,<xref rid="bibr52-17588359261457552" ref-type="bibr">52</xref></sup></td><td rowspan="1" colspan="1">Fever, usually &lt;40°C</td><td rowspan="1" colspan="1">Weeks to months; Resolution with treatment of disease</td><td rowspan="1" colspan="1">Normal or elevated leukocyte count</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">New sites of metastasis or progression</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Lack of response to empiric antibiotic therapy for 7 days</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Systemic features lacking</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Tumour lysis syndrome<sup>
+<xref rid="bibr53-17588359261457552" ref-type="bibr">53</xref>
+</sup></td><td rowspan="1" colspan="1">Renal dysfunction</td><td rowspan="1" colspan="1">Spontaneous onset or upon intervention</td><td rowspan="1" colspan="1">Elevated uric acid</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Cardiac arrhythmias</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Elevated potassium</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Seizures</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Elevated phosphate</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">High tumour burden with high mitotic rate</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Reduced calcium</td></tr><tr><td rowspan="1" colspan="1">IL-2 administration<sup><xref rid="bibr21-17588359261457552" ref-type="bibr">21</xref>,<xref rid="bibr54-17588359261457552" ref-type="bibr">54</xref></sup></td><td rowspan="1" colspan="1">Fever ⩾38°C</td><td rowspan="1" colspan="1">Transient, follow half-life of IL-2 (13–85 min)</td><td rowspan="1" colspan="1">Endocrine dysfunction</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Rigours</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Organ dysfunction</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Capillary leak syndrome</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hypothyroidism</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn3-17588359261457552"><label>a</label><p>Uninterpretable in the context of anti-IL6R use.</p></fn><fn id="table-fn4-17588359261457552"><p>CRP, C-reactive protein; CRS, cytokine release syndrome; HLH, haemophagocytic lymphohistiocytosis; IRR, infusion-related reaction; MAS, macrophage activation syndrome; SIRS, systemic inflammatory response syndrome.</p></fn></table-wrap-foot></table-wrap><p>The haemophagocytic lymphohistiocytosis/macrophage activation syndrome (HLH/MAS) spectrum overlaps substantially with CRS. HLH is characterised by high fever, hyperferritinaemia and cytopenias, and is often life-threatening.<sup>
+<xref rid="bibr45-17588359261457552" ref-type="bibr">45</xref>
+</sup> It is a recognised complication of CAR-T and CAR-NK therapies and has been increasingly reported, albeit rarely, with ICIs.<sup><xref rid="bibr16-17588359261457552" ref-type="bibr">16</xref>,<xref rid="bibr45-17588359261457552" ref-type="bibr">45</xref></sup> CRS-like presentations may also be attributable to concomitant therapies within multi-modal treatment regimens. Lymphodepletion preceding adoptive cell therapy increases the risk of febrile neutropenia and sepsis with associated systemic inflammatory response syndrome. By contrast, TCEs do not require lymphodepleting preconditioning.<sup><xref rid="bibr19-17588359261457552" ref-type="bibr">19</xref>,<xref rid="bibr27-17588359261457552" ref-type="bibr">27</xref></sup></p></sec><sec id="section6-17588359261457552"><title>Risk factors</title><p>In haematological malignancies, recognised risk factors for CRS include higher doses of the causative agent, greater tumour burden and inter-current infection.<sup><xref rid="bibr15-17588359261457552" ref-type="bibr">15</xref>,<xref rid="bibr19-17588359261457552" ref-type="bibr">19</xref></sup> Several of these factors also predispose to other complications such as tumour lysis syndrome.<sup>
+<xref rid="bibr16-17588359261457552" ref-type="bibr">16</xref>
+</sup> Rising C-reactive protein (CRP) levels have been shown to predict severe CRS, while elevated concentrations of multiple cytokines within 36 h of CAR-T infusion similarly correlated with grade ⩾3 events.<sup><xref rid="bibr55-17588359261457552" ref-type="bibr">55</xref>,<xref rid="bibr56-17588359261457552" ref-type="bibr">56</xref></sup> As CRS arises from antigen engagement by activated T cells, greater target density and binding efficiency are linked to more severe manifestations. This may explain the relatively lower incidence of severe CRS with CAR-T constructs in solid tumours, where effective trafficking and antigen engagement are hindered by the tumour microenvironment.<sup>
+<xref rid="bibr57-17588359261457552" ref-type="bibr">57</xref>
+</sup> Similar principles extend to other CRS-associated agents in solid tumours, although small molecule inhibitors may achieve higher intratumoural penetration than immune effector cells.<sup>
+<xref rid="bibr58-17588359261457552" ref-type="bibr">58</xref>
+</sup></p><p>Dosing strategy may further modulate CRS risk. Subcutaneous administration is being explored as a means of attenuating systemic cytokine peaks and reducing CRS incidence.<sup>
+<xref rid="bibr56-17588359261457552" ref-type="bibr">56</xref>
+</sup> Conversely, the use of granulocyte colony-stimulating factor (G-CSF) following lymphodepleting chemotherapy has been associated with an increased risk of severe CRS.<sup>
+<xref rid="bibr59-17588359261457552" ref-type="bibr">59</xref>
+</sup> Accordingly, G-CSF is generally avoided during the high-risk period except in contexts such as TIL therapy, where CRS risk is minimal.<sup>
+<xref rid="bibr21-17588359261457552" ref-type="bibr">21</xref>
+</sup></p><p>In solid tumours treated with T-cell-redirecting therapies, the incidence and severity of CRS has been shown to correlate with dose intensity and typically occurs after the first administrations of the drug.<sup>
+<xref rid="bibr60-17588359261457552" ref-type="bibr">60</xref>
+</sup> While some evidence suggests a higher risk of CRS in patients with greater tumour burden, this association remains uncertain, as other analyses have not demonstrated a clear correlation between baseline ctDNA levels and the incidence of CRS.<sup>
+<xref rid="bibr61-17588359261457552" ref-type="bibr">61</xref>
+</sup></p></sec></sec><sec id="section7-17588359261457552"><title>Immunopathogenesis</title><p>Although the mechanisms by which CRS occur are poorly defined, these are thought to occur as a result of ‘on-target’ effects leading to endogenous immune activation triggered by effector immune cell engagement. Upon recognition of tumour antigens, CD4<sup>+</sup> and CD8<sup>+</sup> effector T cells, NK cells and myeloid cells secrete pro-inflammatory cytokines that recruit and activate additional immune cell subsets.<sup>
+<xref rid="bibr15-17588359261457552" ref-type="bibr">15</xref>
+</sup> The inflammatory process is further amplified through IL-6 and IL-1 secretion by activated macrophages and monocytes.<sup>
+<xref rid="bibr62-17588359261457552" ref-type="bibr">62</xref>
+</sup> Whereas tumour necrosis factor-alpha (TNF-α), granulocyte–macrophage CSF (GM-CSF) and IFN-γ are responsible for initial immune system activation, IL-6, IL-8 and IL-18 amplify responses leading to further systemic inflammation and vascular permeability.<sup>
+<xref rid="bibr63-17588359261457552" ref-type="bibr">63</xref>
+</sup></p><p>This excessive cytokine milieu leads to endothelial activation, coagulopathy and immune effector cell-associated neurotoxicity syndrome, accounting for the clinical symptoms of CRS. The magnitude of CRS can be intensified in the presence of increased tumour antigen load, enhancing immune effector cell engagement and subsequent cytokine release, whereas dense stromal networks and restricted vasculature limit immune infiltration and cytokine diffusion.<sup>
+<xref rid="bibr64-17588359261457552" ref-type="bibr">64</xref>
+</sup> Together, these mechanisms highlight how immune cell activation, cytokine signalling and tumour microenvironment dynamics converge to determine CRS severity and outcome and provide the basis for the mechanism-based therapeutic strategies outlined in <xref rid="fig1-17588359261457552" ref-type="fig">Figure 1</xref>.</p><fig position="float" id="fig1-17588359261457552" orientation="portrait"><label>Figure 1.</label><caption><p>Mechanistic overview of CRS associated with CD3-directed TCEs and key therapeutic management.</p><p>Source: Created in BioRender.</p><p>CRS, cytokine release syndrome; GM-CSF, granulocyte–macrophage colony-stimulating factor; IFN, interferon; IL, interleukin; JAK–STAT, Janus kinase–signal transducer and activator of transcription; TCE, T-cell engager; TNF, tumour necrosis factor.</p></caption><alt-text>Detailed overview of cytokine storm mechanisms and potential therapeutic agents.</alt-text><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_17588359261457552-fig1.jpg"><?image-name 10.1177_17588359261457552-fig1.jpg?><?image-size 81034?><?image-md5 d0095dbe575c1f3a1178659d60ef0e99?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 926?><?image-original-width 1811?><?image-scaled-height 370?><?image-scaled-width 724?><?image-cloudpmc-urn urn:cdn:blobs/4ba9/13265983/d0095dbe575c/10.1177_17588359261457552-fig1.jpg?><?thumb-name 10.1177_17588359261457552-fig1.gif?><?thumb-size 15631?><?thumb-md5 73a8efbea4c812dc08368080d2a482e6?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 156?><?thumb-cloudpmc-urn urn:cdn:blobs/4ba9/13265983/73a8efbea4c8/10.1177_17588359261457552-fig1.gif?></graphic></fig></sec><sec id="section8-17588359261457552"><title>Mechanism-based therapeutic armamentarium</title><sec id="section9-17588359261457552"><title>IL-6/IL-6R blockade</title><p>IL-6 is a key downstream mediator of CRS, contributing to fever, capillary leak and vascular permeability, hypotension and acute-phase responses. Accordingly, IL-6 pathway blockade is a central mechanism-based intervention and is widely used across immune effector therapies. Tocilizumab (anti-IL-6R) is the most established option, with regulatory approval for severe or life-threatening CAR-T cell-induced CRS and extensive real-world experience, typically leading to rapid improvement in fever and haemodynamics.<sup>
+<xref rid="bibr65-17588359261457552" ref-type="bibr">65</xref>
+</sup> This approach has been extrapolated to TCEs and is commonly recommended for persistent grade 2 or higher CRS, alongside supportive care and escalation to corticosteroids for severe or refractory cases. In practice, tocilizumab is usually given as 8 mg/kg intravenously (maximum 800 mg) over 1 h, with repeat dosing if clinically indicated (typically at 6–8 h intervals maximum of 3 doses in 24 h and 4 doses total per CRS episode), integrated within local CRS pathways.<sup>
+<xref rid="bibr66-17588359261457552" ref-type="bibr">66</xref>
+</sup> Siltuximab (anti-IL-6) is an alternative strategy that binds and neutralises soluble IL-6 and has been used in CRS, including after prior tocilizumab exposure; in the largest multicentre retrospective series to date of CAR-T-related CRS/ICANS, involving 54 patients across 6 academic centres, 75% of patients treated for CRS had improvement in CRS grade, including activity in tocilizumab-exposed cases, although the supporting evidence remains retrospective and limited to haematological settings.<sup>
+<xref rid="bibr67-17588359261457552" ref-type="bibr">67</xref>
+</sup></p></sec><sec id="section10-17588359261457552"><title>Corticosteroids</title><p>Corticosteroids provide broad suppression of cytokine signalling and endothelial inflammation and remain a cornerstone for CRS, being recommended for grade 2 or higher CRS, or when CRS co-exists with immune effector cell-associated neurotoxicity where IL-6R blockade is not indicated.<sup>
+<xref rid="bibr60-17588359261457552" ref-type="bibr">60</xref>
+</sup> Typical regimens include dexamethasone (e.g. 10 mg IV repeated according to severity) or methylprednisolone (1–2 mg/kg/day) for severe, rapidly progressive cases, followed by prompt de-escalation once clinical improvement is achieved, to minimise infectious and metabolic complications.<sup>
+<xref rid="bibr43-17588359261457552" ref-type="bibr">43</xref>
+</sup> In TCEs, corticosteroids are also commonly embedded as prophylaxis (premedication during step-up dosing) and as part of treatment algorithms for CRS. While early steroid use was historically avoided due to concern about attenuating anti-tumour immunity, several cohorts suggest that short-course, early corticosteroids can reduce progression to high-grade CRS without clearly compromising clinical outcomes or CAR-T cell kinetics, supporting their judicious use when clinically required.<sup>
+<xref rid="bibr68-17588359261457552" ref-type="bibr">68</xref>
+</sup></p></sec><sec id="section11-17588359261457552"><title>IL-1 blockade</title><p>IL-1 comprises a family of related cytokines, including agonists (such as IL-1α and IL-1β), receptor antagonists and an anti-inflammatory cytokine.<sup>
+<xref rid="bibr69-17588359261457552" ref-type="bibr">69</xref>
+</sup> Among these, IL-1β is the principal CRS-relevant effector, acting as an early upstream trigger that drives myeloid activation and amplifies downstream cytokine signalling.<sup>
+<xref rid="bibr70-17588359261457552" ref-type="bibr">70</xref>
+</sup> Consistent with this, preclinical CAR-T cell models have shown that monocyte/macrophage-derived IL-1 is an early driver of toxicity and amplifies a downstream IL-6-mediated cytokine release, ultimately leading to endothelial activation, capillary leak and organ dysfunction.<sup>
+<xref rid="bibr70-17588359261457552" ref-type="bibr">70</xref>
+</sup> By antagonising the IL-1 receptor, the upstream signalling is inhibited, thereby reducing propagation of the downstream pro-inflammatory cytokine cascade. Anakinra, a recombinant IL-1 receptor antagonist, competitively inhibits IL-1α/β signalling and therefore attenuates fever, vascular leak and myeloid activation without directly suppressing T-cell cytotoxic function.<sup>
+<xref rid="bibr71-17588359261457552" ref-type="bibr">71</xref>
+</sup> Moreover, anakinra can cross the blood–brain barrier, supporting a potential neuroprotective role. Translational studies in animal models and humans have shown that its peripheral administration determines cerebrospinal fluid concentrations within the range required to antagonise central IL-1 signalling, providing pharmacokinetic evidence for effective IL-1 blockade within the CNS.<sup><xref rid="bibr72-17588359261457552" ref-type="bibr">72</xref>,<xref rid="bibr73-17588359261457552" ref-type="bibr">73</xref></sup> To date, no prospective studies have evaluated IL-1 blockade for CRS in patients with solid tumours, and its potential role in this setting therefore remains inferred from preclinical evidence and experience in haematological malignancies.</p><p>Consistent with this, in haematological malignancies, anakinra has been increasingly incorporated into the management of immune-effector cell toxicities, particularly in high-grade or steroid-refractory CRS and ICANS.<sup>
+<xref rid="bibr63-17588359261457552" ref-type="bibr">63</xref>
+</sup> In a retrospective multicentre study of patients treated with CAR-T cells, high-dose intravenous anakinra (up to 12 mg/kg/day) for refractory CRS/ICANS was well tolerated, with a median time to CRS/ICANS resolution of 7 days from anakinra initiation.<sup>
+<xref rid="bibr74-17588359261457552" ref-type="bibr">74</xref>
+</sup></p><p>Although these data derive from haematological malignancies, they provide an important mechanistic rationale for exploring prophylactic IL-1 blockade in solid tumours.</p><p>Together with Anakinra, which is a short-acting IL-1 inhibitor, canakinumab, a fully human monoclonal antibody targeting IL-1β, represents a long-acting IL-1-blocking strategy; in hyperinflammatory states, it is typically administered 4 mg/kg subcutaneously.<sup>
+<xref rid="bibr75-17588359261457552" ref-type="bibr">75</xref>
+</sup> Although it is not established as standard therapy for CRS, canakinumab has been investigated in cytokine-storm syndromes in COVID-19 pneumonia, where prospective studies suggest that IL-1β blockade can reduce systemic inflammation with a manageable safety profile.<sup><xref rid="bibr76-17588359261457552" ref-type="bibr">76</xref>,<xref rid="bibr77-17588359261457552" ref-type="bibr">77</xref></sup> These observations support further exploration of IL-1 blockade, anakinra for rapid modulation and canakinumab for sustained IL-1β suppression, as a mechanism-based strategy for CRS in solid tumours, particularly in patients at high risk of severe neurotoxicity or refractory CRS.</p></sec><sec id="section12-17588359261457552"><title>Janus kinase–signal transducer and activator of transcription inhibitors</title><p>The Janus kinase-signal transducer and activator of transcription (JAK–STAT) pathway is a key intracellular signalling cascade involved in immune regulation and inflammation, integrating signals from over 50 cytokines and growth factors, including IL-6, IL-2, IL-4, IFN-γ and TNF-α.<sup>
+<xref rid="bibr78-17588359261457552" ref-type="bibr">78</xref>
+</sup> JAKs are covalently bound to cytokine receptors and become activated upon cytokine binding. This activation leads to phosphorylation of STAT proteins, which then translocate to the nucleus to regulate gene transcription.<sup>
+<xref rid="bibr78-17588359261457552" ref-type="bibr">78</xref>
+</sup></p><p>In CRS, IL-6-driven activation of the JAK–STAT pathway represents a central mediator of inflammation, providing a strong rationale for therapeutic inhibition of this pathway.<sup>
+<xref rid="bibr79-17588359261457552" ref-type="bibr">79</xref>
+</sup> Ruxolitinib, an oral JAK1/2 inhibitor, suppresses STAT1 phosphorylation and has demonstrated both tolerability and efficacy in small cohorts of patients with secondary HLH and CAR-T-related CRS, including cases refractory to corticosteroids.<sup><xref rid="bibr80-17588359261457552" ref-type="bibr">80</xref><xref rid="bibr81-17588359261457552" ref-type="bibr"/>–<xref rid="bibr82-17588359261457552" ref-type="bibr">82</xref></sup> Beyond IL-6 blockade, JAK inhibition reduces the release of other pro-inflammatory cytokines that signal through JAK1, including TNF-α and IFN-γ.<sup><xref rid="bibr83-17588359261457552" ref-type="bibr">83</xref>,<xref rid="bibr84-17588359261457552" ref-type="bibr">84</xref></sup></p><p>The selective JAK1 inhibitor itacitinib has also shown promise in prophylaxis of CRS. In a randomised study, patients receiving anti-CD19 CAR-T therapy and itacitinib 200 mg twice daily had significantly lower rates of grade ⩾2 CRS and ICANS compared with placebo (<italic toggle="yes">p</italic> = 0.003).<sup>
+<xref rid="bibr85-17588359261457552" ref-type="bibr">85</xref>
+</sup> Preclinical data further suggest that JAK1 inhibition may have therapeutic potential in CRS secondary to T-cell bispecific antibodies.<sup>
+<xref rid="bibr86-17588359261457552" ref-type="bibr">86</xref>
+</sup> However, in a clinical study combining ruxolitinib with the CD123 × CD3 bispecific DART flotetuzumab, no clear improvement in clinical CRS severity was observed despite marked reductions in circulating cytokine levels, raising the possibility that circulating cytokine changes alone may not be a reliable surrogate for clinical CRS severity.<sup>
+<xref rid="bibr87-17588359261457552" ref-type="bibr">87</xref>
+</sup></p><p>At present, there are no published data evaluating the efficacy of JAK-pathway inhibitors for CRS associated with solid tumour therapies.</p></sec><sec id="section13-17588359261457552"><title>GM-CSF neutralisation</title><p>GM-CSF plays a key role in the development of CRS through myeloid cell activation, resulting in IL-6, IL-1β and TNF-α secretion.<sup>
+<xref rid="bibr63-17588359261457552" ref-type="bibr">63</xref>
+</sup> GM-CSF neutralisation is therefore an attractive therapeutic strategy to dampen inflammatory responses and maintain effector T cell responses simultaneously. Lenzilumab, a GM-CSF neutralising monoclonal antibody previously demonstrated a significant reduction in CAR-T–related CRS and neuroinflammation and reduced circulating cytokines in COVID-19 pneumonia.<sup><xref rid="bibr88-17588359261457552" ref-type="bibr">88</xref>,<xref rid="bibr89-17588359261457552" ref-type="bibr">89</xref></sup> Similarly, mavrilimumab, an anti-GM-CSF receptor α antibody, reduces myeloid cell-derived cytokine release with benefit in severe COVID-19 pneumonia and systemic hyperinflammation.<sup>
+<xref rid="bibr90-17588359261457552" ref-type="bibr">90</xref>
+</sup> However, direct clinical evidence supporting GM-CSF neutralisation for CRS remains limited, as the available data for lenzilumab and mavrilimumab derive largely from COVID-19-associated hyperinflammation rather than oncology-specific CRS.</p><p>In summary, GM-CSF neutralisation offers a promising approach to treat CRS while preserving anti-tumour immunity and further research regarding its potential efficacy in this setting is warranted. Available data suggest that its inhibition is considered safe with mild reversible adverse events, although careful attention should be given to increased risk of infection.</p></sec><sec id="section14-17588359261457552"><title>TNF-α inhibitors</title><p>TNF-α is another early pro-inflammatory cytokine implicated in CRS pathophysiology. In a CD3-bispecific model, Li et al. showed that T cell-derived TNF-α is the key trigger for myeloid activation, with monocytes and macrophages mainly implicated in release of IL-6 and IL-1β. Accordingly, TNF-α blockade markedly reduced IL-6 and IL-1β release and attenuated the cytokine cascade, while largely preserving CD3-bispecific-mediated T-cell cytotoxic function.<sup><xref rid="bibr91-17588359261457552" ref-type="bibr">91</xref>,<xref rid="bibr92-17588359261457552" ref-type="bibr">92</xref></sup></p><p>Two TNF-inhibitors have been developed so far. Etanercept, a soluble TNF receptor fusion protein that binds circulating TNF, and infliximab, a monoclonal antibody directed against TNF-α. Both are well established in rheumatologic and inflammatory diseases, but their use in CRS has been largely confined to CAR-T cell-associated toxicities and refractory hyperinflammatory syndromes, with solid tumour data remaining limited.<sup><xref rid="bibr92-17588359261457552" ref-type="bibr">92</xref>,<xref rid="bibr93-17588359261457552" ref-type="bibr">93</xref></sup> Some reports and small series suggest TNF-α inhibition may be a useful adjunct in selected steroid- and tocilizumab-refractory ICI-associated CRS, typically as part of multi-agent rescue strategies.<sup><xref rid="bibr94-17588359261457552" ref-type="bibr">94</xref><xref rid="bibr95-17588359261457552" ref-type="bibr"/>–<xref rid="bibr96-17588359261457552" ref-type="bibr">96</xref></sup></p><p>The main side effects related to TNF-α inhibitors are an increased risk of serious infections, including reactivation of latent tuberculosis and opportunistic viral or fungal infections, as well as potential exacerbation of demyelinating disorders.<sup><xref rid="bibr97-17588359261457552" ref-type="bibr">97</xref>,<xref rid="bibr98-17588359261457552" ref-type="bibr">98</xref></sup> These risks are particularly relevant in patients with solid tumours, who are often lymphodepleted and concurrently exposed to high-dose corticosteroids or multiple immunosuppressive agents for CRS management. Thus far, published experience with TNF-α blockade for CRS has not reported any additional concerning safety signals; however, the available data are limited.</p></sec><sec id="section15-17588359261457552"><title>IFN-γ neutralisation</title><p>IFN-γ is a key mediator of systemic inflammation and macrophage activation and is implicated in the pathogenesis of CRS and related hyperinflammatory conditions such as MAS/HLH.<sup><xref rid="bibr99-17588359261457552" ref-type="bibr">99</xref>,<xref rid="bibr100-17588359261457552" ref-type="bibr">100</xref></sup> Emapalumab, a humanised anti-IFN-γ monoclonal antibody, is approved by the US Food and Drug Administration for the treatment of refractory, recurrent or progressive primary HLH and has been investigated for use in other cytokine-driven disorders, including CRS.<sup>
+<xref rid="bibr101-17588359261457552" ref-type="bibr">101</xref>
+</sup></p><p>In a retrospective paediatric series, emapalumab achieved marked reductions in circulating cytokine levels and clinical improvement in children with refractory CRS secondary to anti-CD19 CAR-T therapy, without evidence of impaired CAR-T cell efficacy.<sup>
+<xref rid="bibr100-17588359261457552" ref-type="bibr">100</xref>
+</sup> Similar findings were reported in a subsequent series of eight adults with severe toxicities refractory to anakinra, tocilizumab, siltuximab and corticosteroids.<sup>
+<xref rid="bibr102-17588359261457552" ref-type="bibr">102</xref>
+</sup> Although prospective evidence is lacking, a recent case report described successful use of emapalumab for multi-drug-refractory CRS after PSCA-targeted CAR-T cell therapy in metastatic castration-resistant prostate cancer, with rapid haemodynamic improvement and no clear signal of impaired CAR-T cell persistence, suggesting that IFN-γ blockade may be feasible in selected solid tumour settings.<sup>
+<xref rid="bibr103-17588359261457552" ref-type="bibr">103</xref>
+</sup></p><p>The approved starting dose in HLH is 1 mg/kg twice weekly, however, dosing in the context of CRS remains variable, with reported regimens ranging from 1 to 10 mg/kg administered as single or multiple doses, underscoring the absence of established CRS-specific guidance.<sup><xref rid="bibr99-17588359261457552" ref-type="bibr">99</xref>,<xref rid="bibr102-17588359261457552" ref-type="bibr">102</xref>,<xref rid="bibr104-17588359261457552" ref-type="bibr">104</xref></sup> To date, the role of emapalumab in the management of CRS associated with solid tumours or non-immune effector cell therapies remain largely unexplored.</p></sec></sec><sec id="section16-17588359261457552"><title>Challenges and knowledge gaps</title><p>Although progress has been made in understanding and managing CRS, important unmet challenges remain in patients affected by solid tumours and treated with immune-activating therapies, where data are limited.</p><sec id="section17-17588359261457552"><title>Biomarker development</title><p>A major challenge is the lack of validated biomarkers to predict, detect and monitor CRS in patients with solid tumours. In haematological CAR-T cell therapy, higher baseline tumour burden, elevated ferritin and CRP, and early post-infusion increase in cytokines such as IL-6, IFN-γ and IL-10 correlate with CRS severity and have been used to build early prediction models.<sup><xref rid="bibr105-17588359261457552" ref-type="bibr">105</xref>,<xref rid="bibr106-17588359261457552" ref-type="bibr">106</xref></sup> By contrast, analogous predictive models in solid tumours remain poorly defined. Retrospective series and reviews of CRS in solid tumours, predominantly in patients receiving ICIs and, to a lesser extent, emerging TCEs, postulate that a high baseline inflammatory burden, reflected by elevated CRP, ferritin, LDH or pro-inflammatory cytokines and extensive disease, particularly with liver metastases, may be associated with more severe events.<sup><xref rid="bibr44-17588359261457552" ref-type="bibr">44</xref>,<xref rid="bibr95-17588359261457552" ref-type="bibr">95</xref>,<xref rid="bibr107-17588359261457552" ref-type="bibr">107</xref></sup> However, these data derive from small case series have not yet been prospectively validated in clinical trials.</p><p>In the TCE setting, the most detailed biomarker data come from tebentafusp in metastatic uveal melanoma. Early-phase and phase III studies, and subsequent translational analyses, have consistently shown a characteristic cytokine release after dosing – with marked transient increases in IFN-γ, TNF-α, IL-2 and IL-6, together with interferon-induced chemokines such as CXCL9-11 – was temporally associated with CRS episodes and pharmacodynamic T-cell activation. Interferon-driven chemokine signatures have also been correlated with clinical benefit, underscoring the shared pathways underpinning toxicity and anti-tumour efficacy.<sup><xref rid="bibr61-17588359261457552" ref-type="bibr">61</xref>,<xref rid="bibr108-17588359261457552" ref-type="bibr">108</xref>,<xref rid="bibr109-17588359261457552" ref-type="bibr">109</xref></sup> Nevertheless, no prospectively validated cytokine thresholds or baseline predictors have yet been established to stratify CRS risk with tebentafusp or other TCEs. Furthermore, the identification and validation of predictive biomarkers would be crucial for differentiating CRS from infection, tumour-related fever or early haemophagocytic syndromes.</p><p>In solid tumours, case reports and small series of ICI-related CRS consistently describe marked elevations in IL-6, IFN-γ and ferritin at the time of CRS, often exceeding levels seen during infectious episodes in the same patient and falling rapidly after corticosteroids or IL-6 blockade.<sup><xref rid="bibr95-17588359261457552" ref-type="bibr">95</xref>,<xref rid="bibr110-17588359261457552" ref-type="bibr">110</xref></sup> Serial ferritin and IL-6 trends therefore represent pragmatic markers for emerging CRS, whereas procalcitonin appears more specific for bacterial sepsis and may help to distinguish infection from immune-mediated hyperinflammation.<sup>
+<xref rid="bibr111-17588359261457552" ref-type="bibr">111</xref>
+</sup> By contrast, CRP rises in both settings and therefore has limited specificity for distinguishing between them, consistent with the broader literature evaluating biomarkers of infection and systemic inflammation.<sup>
+<xref rid="bibr112-17588359261457552" ref-type="bibr">112</xref>
+</sup> Interestingly, Daoudlarian et al.<sup>
+<xref rid="bibr113-17588359261457552" ref-type="bibr">113</xref>
+</sup> recently conducted a biomarker-directed study of 35 patients with different solid tumours who developed hyper-inflammatory conditions during ICI therapy, including immune-related HLH (irHLH), immune-related CRS (irCRS) and sepsis, and used deep immune profiling to identify discriminatory signatures. Ferritin and hepatocyte growth factor (HGF) each achieved 100% positive and negative predictive values for distinguishing irCRS from irHLH, while serum CXCL9 levels identified patients likely to require escalation beyond corticosteroids. Notably, all 12 patients with grade 3 steroid-refractory irCRS achieved rapid clinical and biochemical remission within 24 h of tocilizumab, without loss of tumour control.</p><p>Emerging evidence supports a multi-layered biomarker tool for CRS in solid tumours: baseline inflammatory and disease-burden markers (IL-6, CRP, ferritin, LDH, liver metastases) for risk stratification, dynamic on-treatment changes and expanded cytokine panels (including HGF, CXCL9, sIL-2Rα, IL-10 and others) to differentiate overlapping hyperinflammatory syndromes and guide escalation to targeted therapies. However, almost all these potential biomarkers are derived from small series, case reports or ICI cohorts, and none has yet been prospectively validated as a predictive or diagnostic tool specifically in solid tumours.</p></sec><sec id="section18-17588359261457552"><title>Optimal timing, combinations and sequencing of cytokine blockers</title><p>When CRS occurs, a key unanswered question is how best to manage cytokine-directed therapies to control toxicity without undermining anti-tumour immunity.</p><p>In practice, management in solid tumours largely mirrors haematological CAR-T cell protocols, with a stepwise escalation from corticosteroids and IL-6 receptor blockade to, in refractory cases, IL-1 or TNF inhibition, despite the absence of solid tumour-specific trials defining the optimal sequence or thresholds for escalation.<sup><xref rid="bibr63-17588359261457552" ref-type="bibr">63</xref>,<xref rid="bibr114-17588359261457552" ref-type="bibr">114</xref></sup></p><p>Preclinical models suggest that early multi-cytokine targeting could be more effective than single-agent therapy. In humanised mice with high leukaemic cell burdens, combined IL-1 receptor antagonism and IL-6 blockade more completely abrogated the inflammatory cascade and neurotoxicity experienced after CAR-T administration than IL-6 inhibition alone.<sup>
+<xref rid="bibr115-17588359261457552" ref-type="bibr">115</xref>
+</sup> Despite this, combination cytokine blockade (e.g. tocilizumab plus anakinra or TNF inhibitors) has been used almost exclusively as rescue for refractory CRS or CRS/HLH overlap in small series and has not been systematically evaluated as upfront or pre-emptive therapy in solid tumours.<sup><xref rid="bibr74-17588359261457552" ref-type="bibr">74</xref>,<xref rid="bibr116-17588359261457552" ref-type="bibr">116</xref></sup> Such an approach may also entail clinically relevant trade-offs, including increased immunosuppression and a higher risk of infection, while its effect on subsequent anti-tumour efficacy remains uncertain.</p><p>This uncertainty is especially relevant because the same cytokine networks that drive CRS also may represent a pharmacodynamic surrogate of T-cell activation.</p><p>Early clinical trials of tebentafusp showed that markers of T-cell activation, including IFN-γ-driven chemokine signatures and transient cytokine elevations, were associated with improved survival, underscoring that the same inflammatory pathways may reflect both treatment-related toxicity and effective anti-tumour immune activation.<sup>
+<xref rid="bibr108-17588359261457552" ref-type="bibr">108</xref>
+</sup> Accordingly, an important unresolved question is whether indiscriminate suppression of early CRS, particularly with more intensive or pre-emptive cytokine-directed therapy, might blunt pharmacodynamic T-cell activation and, in turn, compromise anti-tumour efficacy.</p></sec><sec id="section19-17588359261457552"><title>Prophylactic and risk-adapted strategies in solid tumours</title><p>A recent real-world study on patients (<italic toggle="yes">n</italic> = 119) with multiple myeloma, demonstrated that a single dose of tocilizumab before the first dose of bispecific antibodies reduced the incidence and severity of CRS without negatively impacting the efficacy of the therapeutic agent.<sup>
+<xref rid="bibr117-17588359261457552" ref-type="bibr">117</xref>
+</sup></p><p>However, the generalisability of these findings to solid tumours remains uncertain, as CRS biology may differ substantially across disease settings owing to differences in tumour microenvironment, antigen distribution and the kinetics of immune-cell engagement.</p><p>In solid tumours, prophylactic cytokine blockade with IL-6 or IL-1 inhibitors remains largely unexplored.</p><p>In addition to cytokine-directed drugs, dosing and administration strategies are central to CRS prevention. Preclinical models suggest that step-up dosing and, in some bispecific agents, subcutaneous administration can attenuate peak cytokine levels and reduce CRS risk while maintaining pharmacodynamic T-cell redirection.<sup><xref rid="bibr118-17588359261457552" ref-type="bibr">118</xref>,<xref rid="bibr119-17588359261457552" ref-type="bibr">119</xref></sup> To date, prophylactic strategies have focused predominantly on premedication with corticosteroids rather than preventive biologic cytokine blockade. With the DLL3 × CD3 TCE tarlatamab in extensive-stage SCLC, a step-up dosing schedule combined with corticosteroid and antipyretic premedication has been associated with a shift in CRS towards predominantly low-grade events occurring early in treatment, and this strategy has been incorporated into the approved regimen.<sup>
+<xref rid="bibr6-17588359261457552" ref-type="bibr">6</xref>
+</sup> Similarly, for tebentafusp in metastatic uveal melanoma, CRS mitigation relies on a weekly step-up schedule, in-patient monitoring for early infusions and supportive care; although IL-6 and other cytokines rise sharply after dosing, pre-emptive IL-6 or IL-1 blockade has not been routinely employed in trials or current practice.<sup><xref rid="bibr5-17588359261457552" ref-type="bibr">5</xref>,<xref rid="bibr61-17588359261457552" ref-type="bibr">61</xref></sup></p><p>Risk stratification and personalised prophylactic strategies are likely to become increasingly important components of CRS management in solid tumours. In principle, clinical and biomarker-based risk calculators integrating tumour burden, baseline inflammatory markers and performance status could identify patients who might benefit from pre-emptive interventions, while allowing lower-risk patients to be managed with standard step-up regimens alone. However, such models have not yet been validated for CRS in solid tumours, and there are no data to support routine prophylactic cytokine blockade before T-cell-redirecting therapies initiation.</p></sec><sec id="section20-17588359261457552"><title>Next-generation TCEs</title><p>TCEs are reshaping the treatment paradigm in solid tumours, but next-generation designs are needed to maintain efficacy while improving tolerability and thereby extending their use to a broader patient population. Structural engineering strategies to optimise TCE architecture and mitigate immune-related toxicities are now beginning to emerge.</p><p>An intriguing strategy is the development of TCEs incorporating low-affinity anti-CD3 binding arms. TNB-585, a PSMA × CD3 bispecific TCE tested for metastatic castration-resistant prostate cancer, combines a low-affinity anti-CD3 arm with anti-PSMA binding and has shown in vitro and ex vivo that it can retain potent tumour cell killing while inducing lower cytokine release compared with a higher-affinity anti-CD3 PSMA bispecific antibodies.<sup>
+<xref rid="bibr120-17588359261457552" ref-type="bibr">120</xref>
+</sup></p><p>Another strategy to improve the therapeutic index of TCEs is the development of conditionally activated, ‘masked’ compounds that are selectively unmasked in the tumour microenvironment.<sup>
+<xref rid="bibr121-17588359261457552" ref-type="bibr">121</xref>
+</sup> Precision-activated TCEs, often referred to as XPAT proteins, use protease-cleavable masking fragments to sterically block CD3 and tumour-associated antigen binding in the circulation, thereby limiting on-target/off-tumour toxicity and systemic cytokine release.<sup>
+<xref rid="bibr121-17588359261457552" ref-type="bibr">121</xref>
+</sup> Upon exposure to tumour-associated proteases, these masking fragments are cleaved, allowing the CD3 × tumour-antigen engager to become fully active within the tumour microenvironment. In preclinical studies, precision-activated TCEs have demonstrated a prolonged half-life, enhanced tumour selectivity and reduced systemic cytokine release compared with unmasked TCEs.<sup>
+<xref rid="bibr121-17588359261457552" ref-type="bibr">121</xref>
+</sup> VIR-5818, formerly AMX-818, is a HER2xCD3 XPAT TCE that has entered early clinical evaluation and is currently being tested as monotherapy and in combination with pembrolizumab in patients with HER2-positive tumours across multiple solid tumour types (ClinicalTrials.gov identifier: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05356741">NCT05356741</ext-link>).</p><p>Similarly, next-generation TCEs have been developed to deliver tumour-specific T-cell cytotoxicity while simultaneously modulating immune checkpoints, through PD-1/PD-L1 inhibition.<sup>
+<xref rid="bibr122-17588359261457552" ref-type="bibr">122</xref>
+</sup> In this design, protease-cleavable PD-1/PD-L1 heterodimer is used as a steric mask to inhibit the CD3 binding in peripheral tissues, thereby limiting off-tumour T-cell activation and systemic toxicity.</p><p>By contrast, within the tumour microenvironment, tumour-associated proteases cleave the linker to unmask CD3 binding, converting the molecule into an active tri-specific compound that combines T-cell redirection, PD-1/PD-L1 axis modulation and tumour-antigen targeting.</p><p>This innovative engineered platform has shown broad applicability across different tumour-associated antigens, including HER2, underscoring its potential as a versatile platform for next-generation–activated TCEs.<sup><xref rid="bibr122-17588359261457552" ref-type="bibr">122</xref>,<xref rid="bibr123-17588359261457552" ref-type="bibr">123</xref></sup></p></sec><sec id="section21-17588359261457552"><title>Standardisation of CRS definitions and grading in clinical trials</title><p>In solid tumours, as described, CRS induced by T-cell-redirecting therapies is reported mostly in small, heterogeneous early-phase trials, with substantial variability in grading and attribution.<sup>
+<xref rid="bibr20-17588359261457552" ref-type="bibr">20</xref>
+</sup> Prospective, multicentric clinical trials will enable systematic characterisation of CRS incidence, grading, management and provide solid evidence for validating biomarker-based risk scores and risk-adapted prophylactic strategies.<sup>
+<xref rid="bibr124-17588359261457552" ref-type="bibr">124</xref>
+</sup></p><p>Similarly, an important unmet need is the adoption of standardised CRS grading in clinical trials. The ASTCT consensus criteria, originally developed in the CAR-T setting, were specifically designed to harmonise CRS and neurotoxicity grading across immune-effector therapies, yet ICI and TCE studies in solid tumours often use CTCAE terminology or trial-specific definitions to report CRS and infusion-related events, rather than uniformly applying ASTCT grading.<sup><xref rid="bibr14-17588359261457552" ref-type="bibr">14</xref>,<xref rid="bibr124-17588359261457552" ref-type="bibr">124</xref></sup> This heterogeneity complicates cross-trial comparisons and obscures the true burden of CRS in solid tumours, a limitation that will become even more critical as T-cell-redirecting therapies, and particularly TCEs, move towards routine clinical practice.</p><p>Prospective implementation of harmonised CRS grading will be essential to accurately characterise toxicity across trials, enable meaningful cross-study comparisons and inform the design of future studies testing risk-adapted prophylaxis and rational cytokine-blocking combinations.</p></sec></sec><sec sec-type="conclusions" id="section22-17588359261457552"><title>Conclusion</title><p>CRS has emerged as a clinically relevant, yet insufficiently characterised, toxicity of T-cell-redirecting therapies in solid tumours. Mechanistic insights from preclinical models and early clinical trials support a mechanism-based approach to CRS management, using IL-6, IL-1 and TNF-α blockade, alone or in combination with corticosteroids, to attenuate hyperinflammation while preserving anti-tumour T-cell function. Next-generation TCE designs, that incorporate built-in attenuation or conditional activation, could potentially offer additional opportunities to widen the therapeutic window while reducing the toxicity burden. A major limitation of the current literature is that most available evidence is either extrapolated from haematological malignancies or derived from small, heterogeneous series in solid tumours.</p><p>Priority areas for future research include biomarker-driven risk stratification, optimisation of timing and sequencing of cytokine inhibitors and the prospective evaluation of prophylactic strategies in high-risk patients.</p><p>Establishing standardised CRS grading and dedicated registries in solid tumour trials will be crucial to accurately quantify risk, refine management algorithms and ultimately enable broader, safer use of T-cell-redirecting therapies in solid tumours.</p></sec><sec id="section23-17588359261457552" sec-type="supplementary-material"><title>Supplemental Material</title><supplementary-material id="suppl1-17588359261457552" position="float" content-type="local-data" orientation="portrait"><caption><title>sj-docx-1-tam-10.1177_17588359261457552 – Supplemental material for Cytokine release syndrome in solid tumours: mechanism-based therapeutic strategies for prevention and management</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sj-docx-1-tam-10.1177_17588359261457552.docx" position="float" orientation="portrait"><?suppdata-name sj-docx-1-tam-10.1177_17588359261457552.docx?><?suppdata-size 37572?><?suppdata-md5 014e969a3935d608c9c6584a63a91601?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:4ba9/13265983/014e969a3935/sj-docx-1-tam-10.1177_17588359261457552.docx?></media><p>Supplemental material, sj-docx-1-tam-10.1177_17588359261457552 for Cytokine release syndrome in solid tumours: mechanism-based therapeutic strategies for prevention and management by Federico Monaca, Rachel Woodford, Kroopa Joshi, Fiona Thistlethwaite, Kok Haw Jonathan Lim and Igor Gomez-Randulfe in Therapeutic Advances in Medical Oncology</p></supplementary-material></sec></body><back><ack><p>None.</p></ack><fn-group><fn fn-type="other"><p><bold>ORCID iDs:</bold> Federico Monaca <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_17588359261457552-img1.jpg"><?image-name 10.1177_17588359261457552-img1.jpg?><?image-size 9522?><?image-md5 4223d99d1c781bb9990bc09e09f6400b?><?image-image-server-status NEVER_LOAD?><?image-cloudpmc-urn urn:cdn:blobs/4ba9/13265983/4223d99d1c78/10.1177_17588359261457552-img1.jpg?></inline-graphic>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-3265-6755" ext-link-type="uri">https://orcid.org/0000-0002-3265-6755</ext-link></p><p>Igor Gomez-Randulfe <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_17588359261457552-img1.jpg"><?image-name 10.1177_17588359261457552-img1.jpg?><?image-size 9522?><?image-md5 4223d99d1c781bb9990bc09e09f6400b?><?image-image-server-status NEVER_LOAD?><?image-cloudpmc-urn urn:cdn:blobs/4ba9/13265983/4223d99d1c78/10.1177_17588359261457552-img1.jpg?></inline-graphic>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-5364-2491" ext-link-type="uri">https://orcid.org/0000-0002-5364-2491</ext-link></p></fn><fn fn-type="supplementary-material"><p><bold>Supplemental material:</bold> Supplemental material for this article is available online.</p></fn></fn-group><sec id="section24-17588359261457552"><title>Declarations</title><fn-group><fn fn-type="other"><p><bold>Ethics approval and consent to participate:</bold> Not applicable.</p></fn><fn fn-type="other"><p><bold>Consent for publication:</bold> Not applicable.</p></fn><fn fn-type="con"><p><bold>Author contributions:</bold>
+<bold>Federico Monaca:</bold> Conceptualisation; Data curation; Visualisation; Writing – original draft; Writing – review &amp; editing.</p><p><bold>Rachel Woodford:</bold> Conceptualisation; Data curation; Writing – original draft.</p><p><bold>Kroopa Joshi:</bold> Conceptualisation; Methodology; Writing – original draft.</p><p><bold>Fiona Thistlethwaite:</bold> Methodology; Supervision; Writing – original draft.</p><p><bold>Kok Haw Jonathan Lim:</bold> Methodology; Supervision; Writing – review &amp; editing.</p><p><bold>Igor Gomez-Randulfe:</bold> Investigation; Supervision; Writing – original draft; Writing – review &amp; editing.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The authors received no financial support for the research, authorship and/or publication of this article.</p></fn><fn fn-type="COI-statement"><p>The authors declare that there is no conflict of interest.</p></fn><fn fn-type="other"><p><bold>Availability of data and materials:</bold> Not applicable.</p></fn></fn-group></sec><ref-list><title>References</title><ref id="bibr1-17588359261457552"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Motzer</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Escudier</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>McDermott</surname><given-names>DF</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Nivolumab versus everolimus in advanced renal-cell carcinoma</article-title>. <source>N Engl J Med</source>
+<year>2015</year>; <volume>373</volume>(<issue>19</issue>): <fpage>1803</fpage>–<lpage>1813</lpage>.<pub-id pub-id-type="pmid">26406148</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1510665</pub-id><pub-id pub-id-type="pmcid">PMC5719487</pub-id></mixed-citation></ref><ref id="bibr2-17588359261457552"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Robert</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ribas</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Schachter</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Pembrolizumab versus ipilimumab in advanced melanoma (KEYNOTE-006): post-hoc 5-year results from an open-label, multicentre, randomised, controlled, phase 3 study</article-title>. <source>Lancet Oncol</source>
+<year>2019</year>; <volume>20</volume>(<issue>9</issue>): <fpage>1239</fpage>–<lpage>1251</lpage>.<pub-id pub-id-type="pmid">31345627</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(19)30388-2</pub-id></mixed-citation></ref><ref id="bibr3-17588359261457552"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gandhi</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Rodríguez-Abreu</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Gadgeel</surname><given-names>S</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Pembrolizumab plus chemotherapy in metastatic non-small-cell lung cancer</article-title>. <source>N Engl J Med</source>
+<year>2018</year>; <volume>378</volume>(<issue>22</issue>): <fpage>2078</fpage>–<lpage>2092</lpage>.<pub-id pub-id-type="pmid">29658856</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1801005</pub-id></mixed-citation></ref><ref id="bibr4-17588359261457552"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rafiq</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hackett</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Brentjens</surname><given-names>RJ.</given-names></name>
+</person-group>
+<article-title>Engineering strategies to overcome the current roadblocks in CAR T cell therapy</article-title>. <source>Nat Rev Clin Oncol</source>
+<year>2020</year>; <volume>17</volume>(<issue>3</issue>): <fpage>147</fpage>–<lpage>167</lpage>.<pub-id pub-id-type="pmid">31848460</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41571-019-0297-y</pub-id><pub-id pub-id-type="pmcid">PMC7223338</pub-id></mixed-citation></ref><ref id="bibr5-17588359261457552"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nathan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Hassel</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Rutkowski</surname><given-names>P</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Overall survival benefit with tebentafusp in metastatic uveal melanoma</article-title>. <source>N Engl J Med</source>
+<year>2021</year>; <volume>385</volume>(<issue>13</issue>): <fpage>1196</fpage>–<lpage>1206</lpage>.<pub-id pub-id-type="pmid">34551229</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2103485</pub-id></mixed-citation></ref><ref id="bibr6-17588359261457552"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mountzios</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>BC</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Tarlatamab in small-cell lung cancer after platinum-based chemotherapy</article-title>. <source>N Engl J Med</source>
+<year>2025</year>; <volume>393</volume>(<issue>4</issue>): <fpage>349</fpage>–<lpage>361</lpage>.<pub-id pub-id-type="pmid">40454646</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2502099</pub-id></mixed-citation></ref><ref id="bibr7-17588359261457552"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rohaan</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Borch</surname><given-names>TH</given-names></name>
+<name name-style="western"><surname>van den Berg</surname><given-names>JH</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Tumor-infiltrating lymphocyte therapy or ipilimumab in advanced melanoma</article-title>. <source>N Engl J Med</source>
+<year>2022</year>; <volume>387</volume>(<issue>23</issue>): <fpage>2113</fpage>–<lpage>2125</lpage>.<pub-id pub-id-type="pmid">36477031</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2210233</pub-id></mixed-citation></ref><ref id="bibr8-17588359261457552"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gomez-Randulfe</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Silva Díaz</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Escriu</surname><given-names>C</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Efficacy of carboplatin–etoposide rechallenge after first-line chemo-immunotherapy in ES-SCLC: an international multicentric analysis</article-title>. <source>Ther Adv Med Oncol</source>
+<year>2024</year>; <volume>16</volume>: 17588359241272957.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/17588359241272957</pub-id><pub-id pub-id-type="pmcid">PMC11443580</pub-id><pub-id pub-id-type="pmid">39355343</pub-id></mixed-citation></ref><ref id="bibr9-17588359261457552"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Labrijn</surname><given-names>AF</given-names></name>
+<name name-style="western"><surname>Janmaat</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Reichert</surname><given-names>JM</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Bispecific antibodies: a mechanistic review of the pipeline</article-title>. <source>Nat Rev Drug Discov</source>
+<year>2019</year>; <volume>18</volume>(<issue>8</issue>): <fpage>585</fpage>–<lpage>608</lpage>.<pub-id pub-id-type="pmid">31175342</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41573-019-0028-1</pub-id></mixed-citation></ref><ref id="bibr10-17588359261457552"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Trinklein</surname><given-names>ND</given-names></name>
+<name name-style="western"><surname>Pham</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Schellenberger</surname><given-names>U</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Efficient tumor killing and minimal cytokine release with novel T-cell agonist bispecific antibodies</article-title>. <source>MAbs</source>
+<year>2019</year>; <volume>11</volume>(<issue>4</issue>): <fpage>639</fpage>–<lpage>652</lpage>.<pub-id pub-id-type="pmid">30698484</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/19420862.2019.1574521</pub-id><pub-id pub-id-type="pmcid">PMC6601548</pub-id></mixed-citation></ref><ref id="bibr11-17588359261457552"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Hoseini</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>H</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Silencing Fc domains in T cell-engaging bispecific antibodies improves T-cell trafficking and antitumor potency</article-title>. <source>Cancer Immunol Res</source>
+<year>2019</year>; <volume>7</volume>(<issue>12</issue>): <fpage>2013</fpage>–<lpage>2024</lpage>.<pub-id pub-id-type="pmid">31615814</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2326-6066.CIR-19-0121</pub-id><pub-id pub-id-type="pmcid">PMC7398503</pub-id></mixed-citation></ref><ref id="bibr12-17588359261457552"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liao</surname><given-names>CY</given-names></name>
+<name name-style="western"><surname>Engelberts</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Ioan-Facsinay</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>CD3-engaging bispecific antibodies trigger a paracrine regulated wave of T-cell recruitment for effective tumor killing</article-title>. <source>Commun Biol</source>
+<year>2024</year>; <volume>7</volume>(<issue>1</issue>): <fpage>983</fpage>.<pub-id pub-id-type="pmid">39138287</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s42003-024-06682-9</pub-id><pub-id pub-id-type="pmcid">PMC11322607</pub-id></mixed-citation></ref><ref id="bibr13-17588359261457552"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Géraud</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hueso</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Laparra</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Reactions and adverse events induced by T-cell engagers as anti-cancer immunotherapies, a comprehensive review</article-title>. <source>Eur J Cancer</source>
+<year>2024</year>; <volume>205</volume>: <fpage>114075</fpage>.<pub-id pub-id-type="pmid">38733717</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejca.2024.114075</pub-id></mixed-citation></ref><ref id="bibr14-17588359261457552"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>DW</given-names></name>
+<name name-style="western"><surname>Santomasso</surname><given-names>BD</given-names></name>
+<name name-style="western"><surname>Locke</surname><given-names>FL</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>ASTCT consensus grading for cytokine release syndrome and neurologic toxicity associated with immune effector cells</article-title>. <source>Biol Blood Marrow Transplant</source>
+<year>2019</year>; <volume>25</volume>(<issue>4</issue>): <fpage>625</fpage>–<lpage>638</lpage>.<pub-id pub-id-type="pmid">30592986</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2018.12.758</pub-id><pub-id pub-id-type="pmcid">PMC12180426</pub-id></mixed-citation></ref><ref id="bibr15-17588359261457552"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>DW</given-names></name>
+<name name-style="western"><surname>Gardner</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Porter</surname><given-names>DL</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Current concepts in the diagnosis and management of cytokine release syndrome</article-title>. <source>Blood</source>
+<year>2014</year>; <volume>124</volume>(<issue>2</issue>): <fpage>188</fpage>–<lpage>195</lpage>.<pub-id pub-id-type="pmid">24876563</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2014-05-552729</pub-id><pub-id pub-id-type="pmcid">PMC4093680</pub-id></mixed-citation></ref><ref id="bibr16-17588359261457552"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Neelapu</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Tummala</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kebriaei</surname><given-names>P</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Chimeric antigen receptor T-cell therapy – assessment and management of toxicities</article-title>. <source>Nat Rev Clin Oncol</source>
+<year>2018</year>; <volume>15</volume>(<issue>1</issue>): <fpage>47</fpage>–<lpage>62</lpage>.<pub-id pub-id-type="pmid">28925994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrclinonc.2017.148</pub-id><pub-id pub-id-type="pmcid">PMC6733403</pub-id></mixed-citation></ref><ref id="bibr17-17588359261457552"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Rivière</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Gonen</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Long-term follow-up of CD19 CAR therapy in acute lymphoblastic leukemia</article-title>. <source>N Engl J Med</source>
+<year>2018</year>; <volume>378</volume>(<issue>5</issue>): <fpage>449</fpage>–<lpage>459</lpage>.<pub-id pub-id-type="pmid">29385376</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1709919</pub-id><pub-id pub-id-type="pmcid">PMC6637939</pub-id></mixed-citation></ref><ref id="bibr18-17588359261457552"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Porter</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Frey</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Wood</surname><given-names>PA</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Grading of cytokine release syndrome associated with the CAR T cell therapy tisagenlecleucel</article-title>. <source>J Hematol Oncol</source>
+<year>2018</year>; <volume>11</volume>(<issue>1</issue>): <fpage>35</fpage>.<pub-id pub-id-type="pmid">29499750</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13045-018-0571-y</pub-id><pub-id pub-id-type="pmcid">PMC5833070</pub-id></mixed-citation></ref><ref id="bibr19-17588359261457552"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ludwig</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Terpos</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>van de Donk</surname><given-names>N</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Prevention and management of adverse events during treatment with bispecific antibodies and CAR T cells in multiple myeloma: a consensus report of the European Myeloma Network</article-title>. <source>Lancet Oncol</source>
+<year>2023</year>; <volume>24</volume>(<issue>6</issue>): e255–e269.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(23)00159-6</pub-id><pub-id pub-id-type="pmid">37269857</pub-id></mixed-citation></ref><ref id="bibr20-17588359261457552"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zaïr</surname><given-names>ZM</given-names></name>
+<name name-style="western"><surname>Butterworth</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Shalaby</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>T-cell engager toxicity in clinical phase trials; a systematic review and meta-analysis</article-title>. <source>Cancer Treat Rev</source>
+<year>2025</year>; <volume>139</volume>: <fpage>102991</fpage>.<pub-id pub-id-type="pmid">40644745</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ctrv.2025.102991</pub-id></mixed-citation></ref><ref id="bibr21-17588359261457552"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Betof Warner</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hamid</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Komanduri</surname><given-names>K</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Expert consensus guidelines on management and best practices for tumor-infiltrating lymphocyte cell therapy</article-title>. <source>J Immunother Cancer</source>
+<year>2024</year>; <volume>12</volume>(<issue>2</issue>): e008735.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jitc-2023-008735</pub-id><pub-id pub-id-type="pmcid">PMC11005706</pub-id><pub-id pub-id-type="pmid">38423748</pub-id></mixed-citation></ref><ref id="bibr22-17588359261457552"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ceschi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Noseda</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Palin</surname><given-names>K</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Immune checkpoint inhibitor-related cytokine release syndrome: analysis of WHO global pharmacovigilance database</article-title>. <source>Front Pharmacol</source>
+<year>2020</year>; <volume>11</volume>: <fpage>557</fpage>.<pub-id pub-id-type="pmid">32425791</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2020.00557</pub-id><pub-id pub-id-type="pmcid">PMC7212758</pub-id></mixed-citation></ref><ref id="bibr23-17588359261457552"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Subklewe</surname><given-names>M.</given-names></name>
+</person-group>
+<article-title>BiTEs better than CAR T cells</article-title>. <source>Blood Adv</source>
+<year>2021</year>; <volume>5</volume>(<issue>2</issue>): <fpage>607</fpage>–<lpage>612</lpage>.<pub-id pub-id-type="pmid">33496755</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2020001792</pub-id><pub-id pub-id-type="pmcid">PMC7839370</pub-id></mixed-citation></ref><ref id="bibr24-17588359261457552"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Turcotte</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Donia</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gastman</surname><given-names>B</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Art of TIL immunotherapy: SITC’s perspective on demystifying a complex treatment</article-title>. <source>J Immunother Cancer</source>
+<year>2025</year>; <volume>13</volume>(<issue>1</issue>): e010207.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jitc-2024-010207</pub-id><pub-id pub-id-type="pmcid">PMC11752064</pub-id><pub-id pub-id-type="pmid">39837618</pub-id></mixed-citation></ref><ref id="bibr25-17588359261457552"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Woodford</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Jethra</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>de Miguel Arroyo</surname><given-names>MJ</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>116P Toxicities of tumour-infiltrating lymphocyte (TIL) therapy: a pooled systematic review of clinical trials</article-title>. <source>Immuno-Oncol Technol</source>
+<year>2025</year>; <volume>28</volume>: <fpage>101201</fpage>.</mixed-citation></ref><ref id="bibr26-17588359261457552"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Altan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lopes</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Hiltermann</surname><given-names>TJN</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Safety and tolerability of letetresgene autoleucel (GSK3377794): pilot studies in patients with advanced non-small cell lung cancer</article-title>. <source>Clin Cancer Res</source>
+<year>2025</year>; <volume>31</volume>(<issue>3</issue>): <fpage>529</fpage>–<lpage>542</lpage>.<pub-id pub-id-type="pmid">39576208</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-24-1591</pub-id><pub-id pub-id-type="pmcid">PMC11788651</pub-id></mixed-citation></ref><ref id="bibr27-17588359261457552"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Brown</surname><given-names>CE</given-names></name>
+<name name-style="western"><surname>Hibbard</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Alizadeh</surname><given-names>D</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Locoregional delivery of IL-13Rα2-targeting CAR-T cells in recurrent high-grade glioma: a phase 1 trial</article-title>. <source>Nat Med</source>
+<year>2024</year>; <volume>30</volume>(<issue>4</issue>): <fpage>1001</fpage>–<lpage>1012</lpage>.<pub-id pub-id-type="pmid">38454126</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-024-02875-1</pub-id><pub-id pub-id-type="pmcid">PMC11031404</pub-id></mixed-citation></ref><ref id="bibr28-17588359261457552"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Pu</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>L</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Chimeric antigen receptor T cells targeting CD19 and GCC in metastatic colorectal cancer</article-title>. <source>JAMA Oncol</source>
+<year>2024</year>; <volume>10</volume>(<issue>11</issue>): <fpage>1532</fpage>.<pub-id pub-id-type="pmid">39298141</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaoncol.2024.3891</pub-id><pub-id pub-id-type="pmcid">PMC11413756</pub-id></mixed-citation></ref><ref id="bibr29-17588359261457552"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>D’Angelo</surname><given-names>SP</given-names></name>
+<name name-style="western"><surname>Araujo</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Abdul Razak</surname><given-names>AR</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Afamitresgene autoleucel for advanced synovial sarcoma and myxoid round cell liposarcoma (SPEARHEAD-1): an international, open-label, phase 2 trial</article-title>. <source>Lancet</source>
+<year>2024</year>; <volume>403</volume>(<issue>10435</issue>): <fpage>1460</fpage>–<lpage>1471</lpage>.<pub-id pub-id-type="pmid">38554725</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(24)00319-2</pub-id><pub-id pub-id-type="pmcid">PMC11419333</pub-id></mixed-citation></ref><ref id="bibr30-17588359261457552"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Katz</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Moody</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Guha</surname><given-names>P</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>HITM-SURE: hepatic immunotherapy for metastases phase Ib anti-CEA CAR-T study utilizing pressure enabled drug delivery</article-title>. <source>J Immunother Cancer</source>
+<year>2020</year>; <volume>8</volume>(<issue>2</issue>): e001097.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jitc-2020-001097</pub-id><pub-id pub-id-type="pmcid">PMC7449487</pub-id><pub-id pub-id-type="pmid">32843493</pub-id></mixed-citation></ref><ref id="bibr31-17588359261457552"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Schlechter</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Lieu</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Fakih</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>A phase 1 dose-escalation study of GCC19CART: a novel CAR T-cell therapy for metastatic colorectal cancer in the United States</article-title>. <source>J Clin Oncol</source>
+<year>2025</year>; <volume>43</volume>(<issue>16_suppl</issue>): <fpage>3581</fpage>.</mixed-citation></ref><ref id="bibr32-17588359261457552"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lu</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Parker</surname><given-names>LL</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>T</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Treatment of patients with metastatic cancer using a major histocompatibility complex class II-restricted T-cell receptor targeting the cancer germline antigen MAGE-A3</article-title>. <source>J Clin Oncol</source>
+<year>2017</year>; <volume>35</volume>(<issue>29</issue>): <fpage>3322</fpage>–<lpage>3329</lpage>.<pub-id pub-id-type="pmid">28809608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2017.74.5463</pub-id><pub-id pub-id-type="pmcid">PMC5652397</pub-id></mixed-citation></ref><ref id="bibr33-17588359261457552"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Luo</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Fang</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>Z</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>EpCAM CAR T (IMC001) for the treatment of advanced GI cancers</article-title>. <source>J Clin Oncol</source>
+<year>2023</year>; <volume>41</volume>(<issue>16_suppl</issue>): <fpage>4034</fpage>.</mixed-citation></ref><ref id="bibr34-17588359261457552"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Morelli</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Negrao</surname><given-names>MV</given-names></name>
+<name name-style="western"><surname>Collinson-Pautz</surname><given-names>MR</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Safety and efficacy of sleeping beauty TCR-T cells targeting shared <italic toggle="yes">KRAS</italic> and <italic toggle="yes">TP53</italic> mutations expressed by solid tumors in first-in-human phase 1 study</article-title>. <source>J Clin Oncol</source>
+<year>2023</year>; <volume>41</volume>(<issue>16_suppl</issue>): <fpage>2547</fpage>.</mixed-citation></ref><ref id="bibr35-17588359261457552"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Patel</surname><given-names>SP</given-names></name>
+<name name-style="western"><surname>Tsimberidou</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Luke</surname><given-names>JJ</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>1600O Efficacy and safety of IMA203, a PRAME-directed T-cell receptor (TCR) T-cell therapy, in patients with previously treated advanced or metastatic uveal melanoma from a phase I trial</article-title>. <source>Ann Oncol</source>
+<year>2025</year>; <volume>36</volume>: S946.</mixed-citation></ref><ref id="bibr36-17588359261457552"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Qi</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>C</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Safety and efficacy of CT041 in patients with refractory metastatic pancreatic cancer: a pooled analysis of two early-phase trials</article-title>. <source>J Clin Oncol</source>
+<year>2024</year>; <volume>42</volume>(<issue>21</issue>): <fpage>2565</fpage>–<lpage>2577</lpage>.<pub-id pub-id-type="pmid">38788174</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.23.02314</pub-id></mixed-citation></ref><ref id="bibr37-17588359261457552"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Reiss</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Angelos</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Dees</surname><given-names>EC</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>CAR-macrophage therapy for HER2-overexpressing advanced solid tumors: a phase 1 trial</article-title>. <source>Nat Med</source>
+<year>2025</year>; <volume>31</volume>(<issue>4</issue>): <fpage>1171</fpage>–<lpage>1182</lpage>.<pub-id pub-id-type="pmid">39920391</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-025-03495-z</pub-id></mixed-citation></ref><ref id="bibr38-17588359261457552"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Robbins</surname><given-names>PF</given-names></name>
+<name name-style="western"><surname>Kassim</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>TLN</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>A pilot trial using lymphocytes genetically engineered with an NY-ESO-1-reactive T-cell receptor: long-term follow-up and correlates with response</article-title>. <source>Clin Cancer Res</source>
+<year>2015</year>; <volume>21</volume>(<issue>5</issue>): <fpage>1019</fpage>–<lpage>1027</lpage>.<pub-id pub-id-type="pmid">25538264</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-14-2708</pub-id><pub-id pub-id-type="pmcid">PMC4361810</pub-id></mixed-citation></ref><ref id="bibr39-17588359261457552"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wermke</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Holderried</surname><given-names>TAW</given-names></name>
+<name name-style="western"><surname>Luke</surname><given-names>JJ</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>First-in-human dose escalation trial to evaluate the clinical safety and efficacy of an anti-MAGEA1 autologous TCR-transgenic T cell therapy in relapsed and refractory solid tumors</article-title>. <source>J Immunother Cancer</source>
+<year>2024</year>; <volume>12</volume>(<issue>7</issue>): e008668.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jitc-2023-008668</pub-id><pub-id pub-id-type="pmcid">PMC11268062</pub-id><pub-id pub-id-type="pmid">39038917</pub-id></mixed-citation></ref><ref id="bibr40-17588359261457552"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wermke</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Araujo</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Chatterjee</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Autologous T cell therapy for PRAME+ advanced solid tumors in HLA-A*02+ patients: a phase 1 trial</article-title>. <source>Nat Med</source>
+<year>2025</year>; <volume>31</volume>(<issue>7</issue>): <fpage>2365</fpage>–<lpage>2374</lpage>.<pub-id pub-id-type="pmid">40205198</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-025-03650-6</pub-id><pub-id pub-id-type="pmcid">PMC12283372</pub-id></mixed-citation></ref><ref id="bibr41-17588359261457552"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>G</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Safety and efficacy of anti-CEA CAR-T cells to prolong relapse-free survival of colorectal cancer liver metastases patients after radical resection</article-title>. <source>J Clin Oncol</source>
+<year>2025</year>; <volume>43</volume>(<issue>16_suppl</issue>): <fpage>3541</fpage>.</mixed-citation></ref><ref id="bibr42-17588359261457552"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Highly proliferative and hypodifferentiated CAR-T cells targeting B7–H3 enhance antitumor activity against ovarian and triple-negative breast cancers</article-title>. <source>Cancer Lett</source>
+<year>2023</year>; <volume>572</volume>: <fpage>216355</fpage>.<pub-id pub-id-type="pmid">37597651</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2023.216355</pub-id></mixed-citation></ref><ref id="bibr43-17588359261457552"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sands</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Champiat</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hummel</surname><given-names>H</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Practical management of adverse events in patients receiving tarlatamab, a delta-like ligand 3-targeted bispecific T-cell engager immunotherapy, for previously treated small cell lung cancer</article-title>. <source>Cancer</source>
+<year>2025</year>; <volume>131</volume>(<issue>3</issue>): e35738.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cncr.35738</pub-id><pub-id pub-id-type="pmcid">PMC11775405</pub-id><pub-id pub-id-type="pmid">39876075</pub-id></mixed-citation></ref><ref id="bibr44-17588359261457552"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tay</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Toh</surname><given-names>MMX</given-names></name>
+<name name-style="western"><surname>Thian</surname><given-names>YL</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Cytokine release syndrome in cancer patients receiving immune checkpoint inhibitors: a case series of 25 patients and review of the literature</article-title>. <source>Front Immunol</source>
+<year>2022</year>; <volume>13</volume>: <fpage>807050</fpage>.<pub-id pub-id-type="pmid">35154124</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2022.807050</pub-id><pub-id pub-id-type="pmcid">PMC8831742</pub-id></mixed-citation></ref><ref id="bibr45-17588359261457552"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rajapakse</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Andanamala</surname><given-names>H.</given-names></name>
+</person-group>
+<article-title>Hemophagocytic lymphohistiocytosis secondary to immune checkpoint inhibitor therapy</article-title>. <source>World J Oncol</source>
+<year>2022</year>; <volume>13</volume>(<issue>2</issue>): <fpage>49</fpage>–<lpage>52</lpage>.<pub-id pub-id-type="pmid">35571340</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14740/wjon1464</pub-id><pub-id pub-id-type="pmcid">PMC9076146</pub-id></mixed-citation></ref><ref id="bibr46-17588359261457552"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Singh</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Nain</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Chatterjee</surname><given-names>T</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Secondary hemophagocytic lymphohistiocytosis in adults: a single institution case series</article-title>. <source>Blood</source>
+<year>2023</year>; <volume>142</volume>(<issue>Suppl. 1</issue>): <fpage>5358</fpage>.</mixed-citation></ref><ref id="bibr47-17588359261457552"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Henter</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Horne</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Aricó</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>HLH-2004: Diagnostic and therapeutic guidelines for hemophagocytic lymphohistiocytosis</article-title>. <source>Pediatr Blood Cancer</source>
+<year>2007</year>; <volume>48</volume>(<issue>2</issue>): <fpage>124</fpage>–<lpage>131</lpage>.<pub-id pub-id-type="pmid">16937360</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pbc.21039</pub-id></mixed-citation></ref><ref id="bibr48-17588359261457552"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Maggi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Vultaggio</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Matucci</surname><given-names>A.</given-names></name>
+</person-group>
+<article-title>Acute infusion reactions induced by monoclonal antibody therapy</article-title>. <source>Expert Rev Clin Immunol</source>
+<year>2011</year>; <volume>7</volume>(<issue>1</issue>): <fpage>55</fpage>–<lpage>63</lpage>.<pub-id pub-id-type="pmid">21162650</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1586/eci.10.90</pub-id></mixed-citation></ref><ref id="bibr49-17588359261457552"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kaukonen</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Bailey</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pilcher</surname><given-names>D</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Systemic inflammatory response syndrome criteria in defining severe sepsis</article-title>. <source>N Engl J Med</source>
+<year>2015</year>; <volume>372</volume>(<issue>17</issue>): <fpage>1629</fpage>–<lpage>1638</lpage>.<pub-id pub-id-type="pmid">25776936</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1415236</pub-id></mixed-citation></ref><ref id="bibr50-17588359261457552"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Brunkhorst</surname><given-names>FM</given-names></name>
+<name name-style="western"><surname>Wegscheider</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Forycki</surname><given-names>ZF</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Procalcitonin for early diagnosis and differentiation of SIRS, sepsis, severe sepsis, and septic shock</article-title>. <source>Intensive Care Med</source>
+<year>2000</year>; <volume>26</volume>(<issue>2</issue>): S148–S152.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF02900728</pub-id><pub-id pub-id-type="pmid">18470710</pub-id></mixed-citation></ref><ref id="bibr51-17588359261457552"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chang</surname><given-names>JC.</given-names></name>
+</person-group>
+<article-title>Neoplastic fever. A proposal for diagnosis</article-title>. <source>Arch Intern Med</source>
+<year>1989</year>; <volume>149</volume>(<issue>8</issue>): <fpage>1728</fpage>–<lpage>1730</lpage>.<pub-id pub-id-type="pmid">2764649</pub-id>
+</mixed-citation></ref><ref id="bibr52-17588359261457552"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chawla</surname><given-names>SP</given-names></name>
+<name name-style="western"><surname>Buzdar</surname><given-names>AU</given-names></name>
+<name name-style="western"><surname>Hortobagyi</surname><given-names>GN</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Tumor-associated fever in breast cancer</article-title>. <source>Cancer</source>
+<year>1984</year>; <volume>53</volume>(<issue>7</issue>): <fpage>1596</fpage>–<lpage>1599</lpage>.<pub-id pub-id-type="pmid">6697296</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/1097-0142(19840401)53:7&lt;1596::aid-cncr2820530729&gt;3.0.co;2-s</pub-id></mixed-citation></ref><ref id="bibr53-17588359261457552"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hochberg</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cairo</surname><given-names>MS.</given-names></name>
+</person-group>
+<article-title>Tumor lysis syndrome: current perspective</article-title>. <source>Haematologica</source>
+<year>2008</year>; <volume>93</volume>(<issue>1</issue>): <fpage>9</fpage>–<lpage>13</lpage>.<pub-id pub-id-type="pmid">18166779</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3324/haematol.12327</pub-id></mixed-citation></ref><ref id="bibr54-17588359261457552"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Siegel</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Puri</surname><given-names>RK.</given-names></name>
+</person-group>
+<article-title>Interleukin-2 toxicity</article-title>. <source>J Clin Oncol</source>
+<year>1991</year>; <volume>9</volume>(<issue>4</issue>): <fpage>694</fpage>–<lpage>704</lpage>.<pub-id pub-id-type="pmid">2066765</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.1991.9.4.694</pub-id></mixed-citation></ref><ref id="bibr55-17588359261457552"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hay</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Hanafi</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>D</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Kinetics and biomarkers of severe cytokine release syndrome after CD19 chimeric antigen receptor-modified T-cell therapy</article-title>. <source>Blood</source>
+<year>2017</year>; <volume>130</volume>(<issue>21</issue>): <fpage>2295</fpage>–<lpage>2306</lpage>.<pub-id pub-id-type="pmid">28924019</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2017-06-793141</pub-id><pub-id pub-id-type="pmcid">PMC5701525</pub-id></mixed-citation></ref><ref id="bibr56-17588359261457552"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Davila</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Riviere</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Efficacy and toxicity management of 19-28z CAR T cell therapy in B cell acute lymphoblastic leukemia</article-title>. <source>Sci Transl Med</source>
+<year>2014</year>; <volume>6</volume>(<issue>224</issue>): 224ra25.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.3008226</pub-id><pub-id pub-id-type="pmcid">PMC4684949</pub-id><pub-id pub-id-type="pmid">24553386</pub-id></mixed-citation></ref><ref id="bibr57-17588359261457552"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>P</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Optimizing CAR T cell therapy for solid tumours: a clinical perspective</article-title>. <source>Nat Rev Clin Oncol</source>
+<year>2025</year>; <volume>22</volume>(<issue>12</issue>): <fpage>953</fpage>–<lpage>968</lpage>.<pub-id pub-id-type="pmid">41039013</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41571-025-01075-1</pub-id></mixed-citation></ref><ref id="bibr58-17588359261457552"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tan</surname><given-names>HY</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Lam</surname><given-names>W</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Targeting tumour microenvironment by tyrosine kinase inhibitor</article-title>. <source>Mol Cancer</source>
+<year>2018</year>; <volume>17</volume>(<issue>1</issue>): <fpage>43</fpage>.<pub-id pub-id-type="pmid">29455663</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12943-018-0800-6</pub-id><pub-id pub-id-type="pmcid">PMC5817793</pub-id></mixed-citation></ref><ref id="bibr59-17588359261457552"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gaut</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Tang</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Sim</surname><given-names>MS</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Filgrastim associations with <italic toggle="yes">CAR</italic> T-cell therapy</article-title>. <source>Int J Cancer</source>
+<year>2021</year>; <volume>148</volume>(<issue>5</issue>): <fpage>1192</fpage>–<lpage>1196</lpage>.<pub-id pub-id-type="pmid">33091961</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.33356</pub-id><pub-id pub-id-type="pmcid">PMC7894177</pub-id></mixed-citation></ref><ref id="bibr60-17588359261457552"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ahn</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>BC</given-names></name>
+<name name-style="western"><surname>Felip</surname><given-names>E</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Tarlatamab for patients with previously treated small-cell lung cancer</article-title>. <source>N Engl J Med</source>
+<year>2023</year>; <volume>389</volume>(<issue>22</issue>): <fpage>2063</fpage>–<lpage>2075</lpage>.<pub-id pub-id-type="pmid">37861218</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2307980</pub-id></mixed-citation></ref><ref id="bibr61-17588359261457552"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Carvajal</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Butler</surname><given-names>MO</given-names></name>
+<name name-style="western"><surname>Shoushtari</surname><given-names>AN</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Clinical and molecular response to tebentafusp in previously treated patients with metastatic uveal melanoma: a phase 2 trial</article-title>. <source>Nat Med</source>
+<year>2022</year>; <volume>28</volume>(<issue>11</issue>): <fpage>2364</fpage>–<lpage>2373</lpage>.<pub-id pub-id-type="pmid">36229663</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-022-02015-7</pub-id><pub-id pub-id-type="pmcid">PMC9671803</pub-id></mixed-citation></ref><ref id="bibr62-17588359261457552"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Guo</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Qian</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Cui</surname><given-names>J.</given-names></name>
+</person-group>
+<article-title>Focused evaluation of the roles of macrophages in chimeric antigen receptor (CAR) T cell therapy associated cytokine release syndrome</article-title>. <source>Cancer Biol Med</source>
+<year>2021</year>; <volume>18</volume>: <fpage>333</fpage>–<lpage>342</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.20892/j.issn.2095-3941.2021.0087</pub-id><pub-id pub-id-type="pmcid">PMC8958886</pub-id><pub-id pub-id-type="pmid">34570442</pub-id></mixed-citation></ref><ref id="bibr63-17588359261457552"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Morris</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Neelapu</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Giavridis</surname><given-names>T</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Cytokine release syndrome and associated neurotoxicity in cancer immunotherapy</article-title>. <source>Nat Rev Immunol</source>
+<year>2022</year>; <volume>22</volume>(<issue>2</issue>): <fpage>85</fpage>–<lpage>96</lpage>.<pub-id pub-id-type="pmid">34002066</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41577-021-00547-6</pub-id><pub-id pub-id-type="pmcid">PMC8127450</pub-id></mixed-citation></ref><ref id="bibr64-17588359261457552"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Yan</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Characteristics and risk factors of cytokine release syndrome in chimeric antigen receptor T cell treatment</article-title>. <source>Front Immunol</source>
+<year>2021</year>; <volume>12</volume>: <fpage>611366</fpage>.<pub-id pub-id-type="pmid">33708205</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2021.611366</pub-id><pub-id pub-id-type="pmcid">PMC7940756</pub-id></mixed-citation></ref><ref id="bibr65-17588359261457552"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Le</surname><given-names>RQ</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Yuan</surname><given-names>W</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>FDA approval summary: tocilizumab for treatment of chimeric antigen receptor T cell-induced severe or life-threatening cytokine release syndrome</article-title>. <source>Oncologist</source>
+<year>2018</year>; <volume>23</volume>(<issue>8</issue>): <fpage>943</fpage>–<lpage>947</lpage>.<pub-id pub-id-type="pmid">29622697</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1634/theoncologist.2018-0028</pub-id><pub-id pub-id-type="pmcid">PMC6156173</pub-id></mixed-citation></ref><ref id="bibr66-17588359261457552"><label>66</label><mixed-citation publication-type="journal">
+<collab>European Medicines Agency</collab>. <article-title>TECVAYLI (teclistamab): summary of product characteristics (SmPC)</article-title>, <year>2025</year>.</mixed-citation></ref><ref id="bibr67-17588359261457552"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bajwa</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Geer</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Siltuximab for chimeric antigen receptor T-cell therapy-related CRS and ICANS: a multicenter retrospective analysis</article-title>. <source>Blood Adv</source>
+<year>2025</year>; <volume>9</volume>(<issue>1</issue>): <fpage>170</fpage>–<lpage>175</lpage>.<pub-id pub-id-type="pmid">39437770</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2024013688</pub-id><pub-id pub-id-type="pmcid">PMC11788129</pub-id></mixed-citation></ref><ref id="bibr68-17588359261457552"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Yin</surname><given-names>Z</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Corticosteroids do not influence the efficacy and kinetics of CAR-T cells for B-cell acute lymphoblastic leukemia</article-title>. <source>Blood Cancer J</source>
+<year>2020</year>; <volume>10</volume>(<issue>2</issue>): <fpage>15</fpage>.<pub-id pub-id-type="pmid">32029707</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41408-020-0280-y</pub-id><pub-id pub-id-type="pmcid">PMC7005173</pub-id></mixed-citation></ref><ref id="bibr69-17588359261457552"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Garlanda</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Di Ceglie</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Jaillon</surname><given-names>S.</given-names></name>
+</person-group>
+<article-title>IL-1 family cytokines in inflammation and immunity</article-title>. <source>Cell Mol Immunol</source>
+<year>2025</year>; <volume>22</volume>(<issue>11</issue>): <fpage>1345</fpage>–<lpage>1362</lpage>.<pub-id pub-id-type="pmid">41087719</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41423-025-01358-8</pub-id><pub-id pub-id-type="pmcid">PMC12575874</pub-id></mixed-citation></ref><ref id="bibr70-17588359261457552"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Giavridis</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>van der Stegen</surname><given-names>SJC</given-names></name>
+<name name-style="western"><surname>Eyquem</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>CAR T cell-induced cytokine release syndrome is mediated by macrophages and abated by IL-1 blockade</article-title>. <source>Nat Med</source>
+<year>2018</year>; <volume>24</volume>(<issue>6</issue>): <fpage>731</fpage>–<lpage>738</lpage>.<pub-id pub-id-type="pmid">29808005</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-018-0041-7</pub-id><pub-id pub-id-type="pmcid">PMC6410714</pub-id></mixed-citation></ref><ref id="bibr71-17588359261457552"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Strati</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Ahmed</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kebriaei</surname><given-names>P</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Clinical efficacy of anakinra to mitigate CAR T-cell therapy-associated toxicity in large B-cell lymphoma</article-title>. <source>Blood Adv</source>
+<year>2020</year>; <volume>4</volume>(<issue>13</issue>): <fpage>3123</fpage>–<lpage>3127</lpage>.<pub-id pub-id-type="pmid">32645136</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2020002328</pub-id><pub-id pub-id-type="pmcid">PMC7362369</pub-id></mixed-citation></ref><ref id="bibr72-17588359261457552"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Galea</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ogungbenro</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Hulme</surname><given-names>S</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Intravenous anakinra can achieve experimentally effective concentrations in the central nervous system within a therapeutic time window: results of a dose-ranging study</article-title>. <source>J Cereb Blood Flow Metab</source>
+<year>2011</year>; <volume>31</volume>(<issue>2</issue>): <fpage>439</fpage>–<lpage>447</lpage>.<pub-id pub-id-type="pmid">20628399</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/jcbfm.2010.103</pub-id><pub-id pub-id-type="pmcid">PMC3049499</pub-id></mixed-citation></ref><ref id="bibr73-17588359261457552"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gutierrez</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Banks</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Kastin</surname><given-names>A.</given-names></name>
+</person-group>
+<article-title>Blood-borne interleukin-1 receptor antagonist crosses the blood-brain barrier</article-title>. <source>J Neuroimmunol</source>
+<year>1994</year>; <volume>55</volume>(<issue>2</issue>): <fpage>153</fpage>–<lpage>160</lpage>.<pub-id pub-id-type="pmid">7829665</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0165-5728(94)90005-1</pub-id></mixed-citation></ref><ref id="bibr74-17588359261457552"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gazeau</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>Q ‘Vicky’</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Anakinra for refractory cytokine release syndrome or immune effector cell-associated neurotoxicity syndrome after chimeric antigen receptor T cell therapy</article-title>. <source>Transplant Cell Ther</source>
+<year>2023</year>; <volume>29</volume>(<issue>7</issue>): <fpage>430</fpage>–<lpage>437</lpage>.<pub-id pub-id-type="pmid">37031746</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jtct.2023.04.001</pub-id><pub-id pub-id-type="pmcid">PMC10330552</pub-id></mixed-citation></ref><ref id="bibr75-17588359261457552"><label>75</label><mixed-citation publication-type="journal">
+<collab>European Medicines Agency</collab>. <article-title>Ilaris (canakinumab): EPAR – product information (summary of product characteristics)</article-title>, <year>2025</year>.</mixed-citation></ref><ref id="bibr76-17588359261457552"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Landi</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ravaglia</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Russo</surname><given-names>E</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Blockage of interleukin-1β with canakinumab in patients with Covid-19</article-title>. <source>Sci Rep</source>
+<year>2020</year>; <volume>10</volume>(<issue>1</issue>): <fpage>21775</fpage>.<pub-id pub-id-type="pmid">33311551</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-020-78492-y</pub-id><pub-id pub-id-type="pmcid">PMC7733468</pub-id></mixed-citation></ref><ref id="bibr77-17588359261457552"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Generali</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bosio</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Malberti</surname><given-names>F</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Canakinumab as treatment for COVID-19-related pneumonia: a prospective case-control study</article-title>. <source>Int J Infect Dis</source>
+<year>2021</year>; <volume>104</volume>: <fpage>433</fpage>–<lpage>440</lpage>.<pub-id pub-id-type="pmid">33385581</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijid.2020.12.073</pub-id><pub-id pub-id-type="pmcid">PMC7771302</pub-id></mixed-citation></ref><ref id="bibr78-17588359261457552"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fu</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>The JAK/STAT signaling pathway: from bench to clinic</article-title>. <source>Signal Transduct Target Ther</source>
+<year>2021</year>; <volume>6</volume>(<issue>1</issue>): <fpage>402</fpage>.<pub-id pub-id-type="pmid">34824210</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41392-021-00791-1</pub-id><pub-id pub-id-type="pmcid">PMC8617206</pub-id></mixed-citation></ref><ref id="bibr79-17588359261457552"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Luo</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>YX</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>LJ</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Targeting JAK-STAT signaling to control cytokine release syndrome in COVID-19</article-title>. <source>Trends Pharmacol Sci</source>
+<year>2020</year>; <volume>41</volume>(<issue>8</issue>): <fpage>531</fpage>–<lpage>543</lpage>.<pub-id pub-id-type="pmid">32580895</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tips.2020.06.007</pub-id><pub-id pub-id-type="pmcid">PMC7298494</pub-id></mixed-citation></ref><ref id="bibr80-17588359261457552"><label>80</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Pan</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Ling</surname><given-names>Z</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Ruxolitinib mitigates steroid-refractory CRS during CAR T therapy</article-title>. <source>J Cell Mol Med</source>
+<year>2021</year>; <volume>25</volume>(<issue>2</issue>): <fpage>1089</fpage>–<lpage>1099</lpage>.<pub-id pub-id-type="pmid">33314568</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcmm.16176</pub-id><pub-id pub-id-type="pmcid">PMC7812291</pub-id></mixed-citation></ref><ref id="bibr81-17588359261457552"><label>81</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wei</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>Y</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Adjuvant ruxolitinib therapy relieves steroid-refractory cytokine-release syndrome without impairing chimeric antigen receptor-modified T-cell function</article-title>. <source>Immunotherapy</source>
+<year>2020</year>; <volume>12</volume>(<issue>14</issue>): <fpage>1047</fpage>–<lpage>1052</lpage>.<pub-id pub-id-type="pmid">32777959</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2217/imt-2020-0116</pub-id></mixed-citation></ref><ref id="bibr82-17588359261457552"><label>82</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ahmed</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Merrill</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Alsawah</surname><given-names>F</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Ruxolitinib in adult patients with secondary haemophagocytic lymphohistiocytosis: an open-label, single-centre, pilot trial</article-title>. <source>Lancet Haematol</source>
+<year>2019</year>; <volume>6</volume>(<issue>12</issue>): e630–e637.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2352-3026(19)30156-5</pub-id><pub-id pub-id-type="pmcid">PMC8054981</pub-id><pub-id pub-id-type="pmid">31537486</pub-id></mixed-citation></ref><ref id="bibr83-17588359261457552"><label>83</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>XF</given-names></name>
+<name name-style="western"><surname>Xue</surname><given-names>SL</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Ruxolitinib reduces severe CRS response by suspending CAR-T cell function instead of damaging CAR-T cells</article-title>. <source>Biochem Biophys Res Commun</source>
+<year>2022</year>; <volume>595</volume>: <fpage>54</fpage>–<lpage>61</lpage>.<pub-id pub-id-type="pmid">35101664</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbrc.2022.01.070</pub-id></mixed-citation></ref><ref id="bibr84-17588359261457552"><label>84</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Huarte</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>O’Connor</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>Peel</surname><given-names>MT</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Itacitinib (INCB039110), a JAK1 inhibitor, reduces cytokines associated with cytokine release syndrome induced by CAR T-cell therapy</article-title>. <source>Clin Cancer Res</source>
+<year>2020</year>; <volume>26</volume>(<issue>23</issue>): <fpage>6299</fpage>–<lpage>6309</lpage>.<pub-id pub-id-type="pmid">32998963</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-20-1739</pub-id><pub-id pub-id-type="pmcid">PMC7895329</pub-id></mixed-citation></ref><ref id="bibr85-17588359261457552"><label>85</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Frigault</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Maziarz</surname><given-names>RT</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>JH</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Itacitinib for the prevention of IEC therapy-associated CRS: results from the 2-part phase 2 INCB 39110-211 study</article-title>. <source>Blood</source>
+<year>2025</year>; <volume>146</volume>(<issue>4</issue>): <fpage>422</fpage>–<lpage>436</lpage>.<pub-id pub-id-type="pmid">40090005</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2024026586</pub-id></mixed-citation></ref><ref id="bibr86-17588359261457552"><label>86</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Leclercq</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Haegel</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Toso</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>JAK and mTOR inhibitors prevent cytokine release while retaining T cell bispecific antibody in vivo efficacy</article-title>. <source>J Immunother Cancer</source>
+<year>2022</year>; <volume>10</volume>(<issue>1</issue>): e003766.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jitc-2021-003766</pub-id><pub-id pub-id-type="pmcid">PMC8785208</pub-id><pub-id pub-id-type="pmid">35064010</pub-id></mixed-citation></ref><ref id="bibr87-17588359261457552"><label>87</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Uy</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Rettig</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Christ</surname><given-names>S</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Prophylactic ruxolitinib for cytokine release syndrome (CRS) in relapse/refractory (R/R) AML patients treated with flotetuzumab</article-title>. <source>Blood</source>
+<year>2020</year>; <volume>136</volume>(<issue>Suppl. 1</issue>): <fpage>19</fpage>–<lpage>21</lpage>.</mixed-citation></ref><ref id="bibr88-17588359261457552"><label>88</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sterner</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Sakemura</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Cox</surname><given-names>MJ</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>GM-CSF inhibition reduces cytokine release syndrome and neuroinflammation but enhances CAR-T cell function in xenografts</article-title>. <source>Blood</source>
+<year>2019</year>; <volume>133</volume>(<issue>7</issue>): <fpage>697</fpage>–<lpage>709</lpage>.<pub-id pub-id-type="pmid">30463995</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2018-10-881722</pub-id><pub-id pub-id-type="pmcid">PMC6376281</pub-id></mixed-citation></ref><ref id="bibr89-17588359261457552"><label>89</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Temesgen</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Burger</surname><given-names>CD</given-names></name>
+<name name-style="western"><surname>Baker</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Lenzilumab in hospitalised patients with COVID-19 pneumonia (LIVE-AIR): a phase 3, randomised, placebo-controlled trial</article-title>. <source>Lancet Respir Med</source>
+<year>2022</year>; <volume>10</volume>(<issue>3</issue>): <fpage>237</fpage>–<lpage>246</lpage>.<pub-id pub-id-type="pmid">34863332</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(21)00494-X</pub-id><pub-id pub-id-type="pmcid">PMC8635458</pub-id></mixed-citation></ref><ref id="bibr90-17588359261457552"><label>90</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cremer</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Abbate</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hudock</surname><given-names>K</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Mavrilimumab in patients with severe COVID-19 pneumonia and systemic hyperinflammation (MASH-COVID): an investigator initiated, multicentre, double-blind, randomised, placebo-controlled trial</article-title>. <source>Lancet Rheumatol</source>
+<year>2021</year>; <volume>3</volume>(<issue>6</issue>): e410–e418.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2665-9913(21)00070-9</pub-id><pub-id pub-id-type="pmcid">PMC7969143</pub-id><pub-id pub-id-type="pmid">33754144</pub-id></mixed-citation></ref><ref id="bibr91-17588359261457552"><label>91</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Piskol</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Ybarra</surname><given-names>R</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>CD3 bispecific antibody-induced cytokine release is dispensable for cytotoxic T cell activity</article-title>. <source>Sci Transl Med</source>
+<year>2019</year>; <volume>11</volume>(<issue>508</issue>): eaax8861.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.aax8861</pub-id><pub-id pub-id-type="pmid">31484792</pub-id></mixed-citation></ref><ref id="bibr92-17588359261457552"><label>92</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Leclercq-Cohen</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Steinhoff</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Albertí Servera</surname><given-names>L</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Dissecting the mechanisms underlying the cytokine release syndrome (CRS) mediated by T-cell bispecific antibodies</article-title>. <source>Clin Cancer Res</source>
+<year>2023</year>; <volume>29</volume>(<issue>21</issue>): <fpage>4449</fpage>–<lpage>4463</lpage>.<pub-id pub-id-type="pmid">37379429</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-22-3667</pub-id><pub-id pub-id-type="pmcid">PMC10618647</pub-id></mixed-citation></ref><ref id="bibr93-17588359261457552"><label>93</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cosenza</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sacchi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pozzi</surname><given-names>S.</given-names></name>
+</person-group>
+<article-title>Cytokine release syndrome associated with T-cell-based therapies for hematological malignancies: pathophysiology, clinical presentation, and treatment</article-title>. <source>Int J Mol Sci</source>
+<year>2021</year>; <volume>22</volume>(<issue>14</issue>): <fpage>7652</fpage>.<pub-id pub-id-type="pmid">34299273</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms22147652</pub-id><pub-id pub-id-type="pmcid">PMC8305850</pub-id></mixed-citation></ref><ref id="bibr94-17588359261457552"><label>94</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Arvanitis</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Tziotis</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Papadimatos</surname><given-names>S</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Pathogenesis, diagnosis, and management of cytokine release syndrome in patients with cancer: focus on infectious disease considerations</article-title>. <source>Curr Oncol</source>
+<year>2025</year>; <volume>32</volume>(<issue>4</issue>): <fpage>198</fpage>.<pub-id pub-id-type="pmid">40277755</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/curroncol32040198</pub-id><pub-id pub-id-type="pmcid">PMC12026323</pub-id></mixed-citation></ref><ref id="bibr95-17588359261457552"><label>95</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Wen</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>OuYang</surname><given-names>Y</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Severe cytokine release syndrome induced by immune checkpoint inhibitors in cancer patients – a case report and review of the literature</article-title>. <source>Heliyon</source>
+<year>2024</year>; <volume>10</volume>(<issue>2</issue>): e24380.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.heliyon.2024.e24380</pub-id><pub-id pub-id-type="pmcid">PMC10826737</pub-id><pub-id pub-id-type="pmid">38293388</pub-id></mixed-citation></ref><ref id="bibr96-17588359261457552"><label>96</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Mamlouk</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Selamet</surname><given-names>U</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Infliximab for the treatment of patients with checkpoint inhibitor associated acute tubular interstitial nephritis</article-title>. <source>Oncoimmunology</source>
+<year>2021</year>; <volume>10</volume>(<issue>1</issue>): <fpage>1877415</fpage>.<pub-id pub-id-type="pmid">33643693</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/2162402X.2021.1877415</pub-id><pub-id pub-id-type="pmcid">PMC7872057</pub-id></mixed-citation></ref><ref id="bibr97-17588359261457552"><label>97</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hrynaszkiewicz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Lipsky</surname><given-names>PE</given-names></name>
+<name name-style="western"><surname>Maini</surname><given-names>RN.</given-names></name>
+</person-group>
+<article-title><italic toggle="yes">Arthritis Research &amp; Therapy</italic> evolves: online only from 2011</article-title>. <source>Arthritis Res Ther</source>
+<year>2010</year>; <volume>12</volume>(<issue>4</issue>): <fpage>137</fpage>.</mixed-citation></ref><ref id="bibr98-17588359261457552"><label>98</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cheon</surname><given-names>JH.</given-names></name>
+</person-group>
+<article-title>Understanding the complications of anti-tumor necrosis factor therapy in East Asian patients with inflammatory bowel disease</article-title>. <source>J Gastroenterol Hepatol</source>
+<year>2017</year>; <volume>32</volume>(<issue>4</issue>): <fpage>769</fpage>–<lpage>777</lpage>.<pub-id pub-id-type="pmid">27723166</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jgh.13612</pub-id></mixed-citation></ref><ref id="bibr99-17588359261457552"><label>99</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Schuelke</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Bassiri</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Behrens</surname><given-names>EM</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Emapalumab for the treatment of refractory cytokine release syndrome in pediatric patients</article-title>. <source>Blood Adv</source>
+<year>2023</year>; <volume>7</volume>(<issue>18</issue>): <fpage>5603</fpage>–<lpage>5607</lpage>.<pub-id pub-id-type="pmid">37721859</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2023010712</pub-id><pub-id pub-id-type="pmcid">PMC10514204</pub-id></mixed-citation></ref><ref id="bibr100-17588359261457552"><label>100</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rainone</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ngo</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Baird</surname><given-names>JH</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Interferon-γ blockade in CAR T-cell therapy-associated macrophage activation syndrome/hemophagocytic lymphohistiocytosis</article-title>. <source>Blood Adv</source>
+<year>2023</year>; <volume>7</volume>(<issue>4</issue>): <fpage>533</fpage>–<lpage>536</lpage>.<pub-id pub-id-type="pmid">35917457</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2022008256</pub-id><pub-id pub-id-type="pmcid">PMC9979758</pub-id></mixed-citation></ref><ref id="bibr101-17588359261457552"><label>101</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Al-Salama</surname><given-names>ZT.</given-names></name>
+</person-group>
+<article-title>Emapalumab: first global approval</article-title>. <source>Drugs</source>
+<year>2019</year>; <volume>79</volume>(<issue>1</issue>): <fpage>99</fpage>–<lpage>103</lpage>.<pub-id pub-id-type="pmid">30623346</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40265-018-1046-8</pub-id></mixed-citation></ref><ref id="bibr102-17588359261457552"><label>102</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Johnson</surname><given-names>WT</given-names></name>
+<name name-style="western"><surname>Brumwell</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Ganesan</surname><given-names>N</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Emapalumab for the treatment of toxicities associated with CD19 CAR-T cells in adult patients</article-title>. <source>Transplant Cell Ther</source>
+<year>2025</year>; <volume>31</volume>(<issue>2</issue>): S239–S240.</mixed-citation></ref><ref id="bibr103-17588359261457552"><label>103</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ruemmele</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Macedo</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Stein</surname><given-names>MN</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Emapalumab for severe cytokine release syndrome in solid tumor CAR-T: a case report</article-title>. <source>Front Oncol</source>
+<year>2025</year>; <volume>15</volume>: <fpage>1543622</fpage>.<pub-id pub-id-type="pmid">40236652</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fonc.2025.1543622</pub-id><pub-id pub-id-type="pmcid">PMC11997384</pub-id></mixed-citation></ref><ref id="bibr104-17588359261457552"><label>104</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Locatelli</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Jordan</surname><given-names>MB</given-names></name>
+<name name-style="western"><surname>Allen</surname><given-names>C</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Emapalumab in children with primary hemophagocytic lymphohistiocytosis</article-title>. <source>N Engl J Med</source>
+<year>2020</year>; <volume>382</volume>(<issue>19</issue>): <fpage>1811</fpage>–<lpage>1822</lpage>.<pub-id pub-id-type="pmid">32374962</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1911326</pub-id></mixed-citation></ref><ref id="bibr105-17588359261457552"><label>105</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Su</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Xie</surname><given-names>L</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Identification of early predictive biomarkers for severe cytokine release syndrome in pediatric patients with chimeric antigen receptor T-cell therapy</article-title>. <source>Front Immunol</source>
+<year>2024</year>; <volume>15</volume>: <fpage>1450173</fpage>.<pub-id pub-id-type="pmid">39328408</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2024.1450173</pub-id><pub-id pub-id-type="pmcid">PMC11424402</pub-id></mixed-citation></ref><ref id="bibr106-17588359261457552"><label>106</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Teachey</surname><given-names>DT</given-names></name>
+<name name-style="western"><surname>Lacey</surname><given-names>SF</given-names></name>
+<name name-style="western"><surname>Shaw</surname><given-names>PA</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Identification of predictive biomarkers for cytokine release syndrome after chimeric antigen receptor T-cell therapy for acute lymphoblastic leukemia</article-title>. <source>Cancer Discov</source>
+<year>2016</year>; <volume>6</volume>(<issue>6</issue>): <fpage>664</fpage>–<lpage>679</lpage>.<pub-id pub-id-type="pmid">27076371</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2159-8290.CD-16-0040</pub-id><pub-id pub-id-type="pmcid">PMC5448406</pub-id></mixed-citation></ref><ref id="bibr107-17588359261457552"><label>107</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Radtke</surname><given-names>KK</given-names></name>
+<name name-style="western"><surname>Bender</surname><given-names>BC</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Z</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Clinical pharmacology of cytokine release syndrome with T-cell-engaging bispecific antibodies: current insights and drug development strategies</article-title>. <source>Clin Cancer Res</source>
+<year>2025</year>; <volume>31</volume>(<issue>2</issue>): <fpage>245</fpage>–<lpage>257</lpage>.<pub-id pub-id-type="pmid">39556515</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-24-2247</pub-id><pub-id pub-id-type="pmcid">PMC11739781</pub-id></mixed-citation></ref><ref id="bibr108-17588359261457552"><label>108</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Middleton</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>McAlpine</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Woodcock</surname><given-names>VK</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Tebentafusp, A TCR/anti-CD3 bispecific fusion protein targeting gp100, potently activated antitumor immune responses in patients with metastatic melanoma</article-title>. <source>Clin Cancer Res</source>
+<year>2020</year>; <volume>26</volume>(<issue>22</issue>): <fpage>5869</fpage>–<lpage>5878</lpage>.<pub-id pub-id-type="pmid">32816891</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-20-1247</pub-id><pub-id pub-id-type="pmcid">PMC9210997</pub-id></mixed-citation></ref><ref id="bibr109-17588359261457552"><label>109</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Howlett</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Carter</surname><given-names>TJ</given-names></name>
+<name name-style="western"><surname>Shaw</surname><given-names>HM</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Tebentafusp: a first-in-class treatment for metastatic uveal melanoma</article-title>. <source>Ther Adv Med Oncol</source>
+<year>2023</year>; <volume>15</volume>: 17588359231160140.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/17588359231160140</pub-id><pub-id pub-id-type="pmcid">PMC10031621</pub-id><pub-id pub-id-type="pmid">36970111</pub-id></mixed-citation></ref><ref id="bibr110-17588359261457552"><label>110</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sekimata</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kinjo</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Tohyama</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Cytokine release syndrome induced by immune checkpoint inhibitor treatment for uterine cervical cancer recurrence: a case report</article-title>. <source>Oncol Lett</source>
+<year>2024</year>; <volume>28</volume>(<issue>1</issue>): <fpage>331</fpage>.<pub-id pub-id-type="pmid">38807673</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ol.2024.14463</pub-id><pub-id pub-id-type="pmcid">PMC11130748</pub-id></mixed-citation></ref><ref id="bibr111-17588359261457552"><label>111</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gilbert</surname><given-names>DN.</given-names></name>
+</person-group>
+<article-title>Neglected variables in the interpretation of serum procalcitonin levels in patients with septic shock</article-title>. <source>J Infect Dis</source>
+<year>2020</year>; <volume>222</volume>(<issue>Suppl_2</issue>): S96–S102.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/infdis/jiaa204</pub-id><pub-id pub-id-type="pmid">32691829</pub-id></mixed-citation></ref><ref id="bibr112-17588359261457552"><label>112</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Tan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>H</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>The diagnostic accuracy of procalcitonin and C-reactive protein for sepsis: a systematic review and meta-analysis</article-title>. <source>J Cell Biochem</source>
+<year>2019</year>; <volume>120</volume>(<issue>4</issue>): <fpage>5852</fpage>–<lpage>5859</lpage>.<pub-id pub-id-type="pmid">30417415</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcb.27870</pub-id></mixed-citation></ref><ref id="bibr113-17588359261457552"><label>113</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Daoudlarian</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Segot</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Latifyan</surname><given-names>S</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Tocilizumab and immune signatures for targeted management of cytokine release syndrome in immune checkpoint therapy</article-title>. <source>Ann Oncol</source>
+<year>2025</year>; <volume>36</volume>(<issue>4</issue>): <fpage>444</fpage>–<lpage>459</lpage>.<pub-id pub-id-type="pmid">39701282</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.annonc.2024.12.004</pub-id></mixed-citation></ref><ref id="bibr114-17588359261457552"><label>114</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Haanen</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Obeid</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Spain</surname><given-names>L</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Management of toxicities from immunotherapy: ESMO clinical practice guideline for diagnosis, treatment and follow-up</article-title>. <source>Ann Oncol</source>
+<year>2022</year>; <volume>33</volume>(<issue>12</issue>): <fpage>1217</fpage>–<lpage>1238</lpage>.<pub-id pub-id-type="pmid">36270461</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.annonc.2022.10.001</pub-id></mixed-citation></ref><ref id="bibr115-17588359261457552"><label>115</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Norelli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Camisa</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Barbiera</surname><given-names>G</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Monocyte-derived IL-1 and IL-6 are differentially required for cytokine-release syndrome and neurotoxicity due to CAR T cells</article-title>. <source>Nat Med</source>
+<year>2018</year>; <volume>24</volume>(<issue>6</issue>): <fpage>739</fpage>–<lpage>748</lpage>.<pub-id pub-id-type="pmid">29808007</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-018-0036-4</pub-id></mixed-citation></ref><ref id="bibr116-17588359261457552"><label>116</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Menakuru</surname><given-names>SR</given-names></name>
+<name name-style="western"><surname>Azeem</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Priscu</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Stage 4 cytokine release syndrome caused by the first dose of nivolumab and ipilimumab combination therapy in a patient with metastatic melanoma successfully treated with methylprednisolone, tocilizumab, and etanercept</article-title>. <source>Case Rep Oncol</source>
+<year>2022</year>; <volume>15</volume>(<issue>2</issue>): <fpage>648</fpage>–<lpage>653</lpage>.<pub-id pub-id-type="pmid">35949898</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000525173</pub-id><pub-id pub-id-type="pmcid">PMC9294929</pub-id></mixed-citation></ref><ref id="bibr117-17588359261457552"><label>117</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kowalski</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lykon</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Diamond</surname><given-names>B</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Tocilizumab prophylaxis for patients with multiple myeloma treated with bispecific antibodies</article-title>. <source>Blood Adv</source>
+<year>2025</year>; <volume>9</volume>(<issue>19</issue>): <fpage>4979</fpage>–<lpage>4986</lpage>.<pub-id pub-id-type="pmid">40590849</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2025016911</pub-id><pub-id pub-id-type="pmcid">PMC12514479</pub-id></mixed-citation></ref><ref id="bibr118-17588359261457552"><label>118</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Deppisch</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Ruf</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Eissler</surname><given-names>N</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Efficacy and tolerability of a GD2-directed trifunctional bispecific antibody in a preclinical model: subcutaneous administration is superior to intravenous delivery</article-title>. <source>Mol Cancer Ther</source>
+<year>2015</year>; <volume>14</volume>(<issue>8</issue>): <fpage>1877</fpage>–<lpage>1883</lpage>.<pub-id pub-id-type="pmid">26063765</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1535-7163.MCT-15-0156</pub-id></mixed-citation></ref><ref id="bibr119-17588359261457552"><label>119</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Iwata</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Matsushita</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Narushima</surname><given-names>Y</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Antitumor cytotoxic activity retained in tolerized T cells following daily dose escalation of a T-cell engager in cynomolgus monkeys to mitigate cytokine release syndrome</article-title>. <source>J Appl Toxicol</source>
+<year>2025</year>; <volume>45</volume>(<issue>9</issue>): <fpage>1844</fpage>–<lpage>1854</lpage>.<pub-id pub-id-type="pmid">40390267</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jat.4812</pub-id></mixed-citation></ref><ref id="bibr120-17588359261457552"><label>120</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dang</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Castello</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Clarke</surname><given-names>SC</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Attenuating CD3 affinity in a PSMAxCD3 bispecific antibody enables killing of prostate tumor cells with reduced cytokine release</article-title>. <source>J Immunother Cancer</source>
+<year>2021</year>; <volume>9</volume>(<issue>6</issue>): e002488.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jitc-2021-002488</pub-id><pub-id pub-id-type="pmcid">PMC8183203</pub-id><pub-id pub-id-type="pmid">34088740</pub-id></mixed-citation></ref><ref id="bibr121-17588359261457552"><label>121</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cattaruzza</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Nazeer</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>To</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Precision-activated T-cell engagers targeting HER2 or EGFR and CD3 mitigate on-target, off-tumor toxicity for immunotherapy in solid tumors</article-title>. <source>Nat Cancer</source>
+<year>2023</year>; <volume>4</volume>(<issue>4</issue>): <fpage>485</fpage>–<lpage>501</lpage>.<pub-id pub-id-type="pmid">36997747</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s43018-023-00536-9</pub-id><pub-id pub-id-type="pmcid">PMC10132983</pub-id></mixed-citation></ref><ref id="bibr122-17588359261457552"><label>122</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Von Rossum</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Desjardins</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Escalante</surname><given-names>N</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Abstract 2926: PROTECTTM, a novel trispecific antibody masking platform with integrated immune modulation displays unique activity and differentiated modes of action</article-title>. <source>Cancer Res</source>
+<year>2023</year>; <volume>83</volume>(<issue>7_Suppl</issue>): <fpage>2926</fpage>.</mixed-citation></ref><ref id="bibr123-17588359261457552"><label>123</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dixit</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Heinkel</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Von Rossum</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Abstract 924: PROTECT, a novel antibody platform for integrating tumor-specific immune modulation and enhancing the therapeutic window of targeted multispecific biologics</article-title>. <source>Cancer Res</source>
+<year>2021</year>; <volume>81</volume>(<issue>13_Suppl</issue>.): <fpage>924</fpage>.</mixed-citation></ref><ref id="bibr124-17588359261457552"><label>124</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Stewart</surname><given-names>MD</given-names></name>
+<name name-style="western"><surname>McCall</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Pasquini</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Need for aligning the definition and reporting of cytokine release syndrome (CRS) in immuno-oncology clinical trials</article-title>. <source>Cytotherapy</source>
+<year>2022</year>; <volume>24</volume>(<issue>7</issue>): <fpage>742</fpage>–<lpage>749</lpage>.<pub-id pub-id-type="pmid">35219582</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcyt.2022.01.004</pub-id><pub-id pub-id-type="pmcid">PMC9721456</pub-id></mixed-citation></ref></ref-list></back></article>

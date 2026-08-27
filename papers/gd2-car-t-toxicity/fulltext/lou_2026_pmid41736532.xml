@@ -1,0 +1,625 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="jmv70853" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Virol</journal-id><journal-id journal-id-type="iso-abbrev">J Med Virol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">7705876</journal-id><journal-id journal-id-type="publisher-id">JMV</journal-id><journal-title-group><journal-title>Journal of Medical Virology</journal-title></journal-title-group><issn pub-type="ppub">0146-6615</issn><issn pub-type="epub">1096-9071</issn><?publisher_abbrev blackwell?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12933161</article-id><article-id pub-id-type="pmcid-ver">PMC12933161.1</article-id><article-id pub-id-type="pmcaid">12933161</article-id><article-id pub-id-type="pmcaiid">12933161</article-id><article-id pub-id-type="pmid">41736532</article-id><article-id pub-id-type="doi">10.1002/jmv.70853</article-id><article-id pub-id-type="publisher-id">JMV70853</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>CD4‐Based Chimeric Antigen Receptor (CAR)‐T Cells With Resistance to HIV‐1 Infection and Enhanced Anti‐HIV Efficacy: Covalent Interaction Between CD4‐CAR and HIV‐1 Envelope Glycoprotein</article-title></title-group><contrib-group><contrib id="jmv70853-cr-0001" contrib-type="author"><name name-style="western"><surname>Lou</surname><given-names initials="Y">Yaoxian</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4915-867X</contrib-id><xref rid="jmv70853-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70853-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70853-cr-0002" contrib-type="author"><name name-style="western"><surname>He</surname><given-names initials="X">Xiuting</given-names></name><xref rid="jmv70853-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70853-cr-0003" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="G">Guangming</given-names></name><xref rid="jmv70853-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70853-cr-0004" contrib-type="author"><name name-style="western"><surname>Sikhondze</surname><given-names initials="M">Martin</given-names></name><xref rid="jmv70853-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv70853-cr-0005" contrib-type="author"><name name-style="western"><surname>Ma</surname><given-names initials="J">Jianping</given-names></name><xref rid="jmv70853-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jmv70853-cr-0006" contrib-type="author"><name name-style="western"><surname>Du</surname><given-names initials="H">Hongwei</given-names></name><xref rid="jmv70853-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jmv70853-cr-0007" contrib-type="author"><name name-style="western"><surname>Ouyang</surname><given-names initials="X">Xin</given-names></name><xref rid="jmv70853-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70853-cr-0008" contrib-type="author"><name name-style="western"><surname>Dotti</surname><given-names initials="G">Gianpietro</given-names></name><xref rid="jmv70853-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jmv70853-cr-0009" contrib-type="author"><name name-style="western"><surname>Sajadi</surname><given-names initials="M">Mohammad</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7798-3605</contrib-id><xref rid="jmv70853-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv70853-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>Su</surname><given-names initials="L">Lishan</given-names></name><xref rid="jmv70853-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jmv70853-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jmv70853-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>lsu@ihv.umaryland.edu</email></address></contrib></contrib-group><aff id="jmv70853-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Microbiologyand Immunology, Institute of Human Virology</named-content>
+<institution>University of MarylandSchool of Medicine</institution>
+<city>Baltimore</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff><aff id="jmv70853-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmacology&amp; Physiology, Institute of HumanVirology, Marlene and Stewart Greenebaum Comprehensive Cancer Center</named-content>
+<institution>University of MarylandSchool of Medicine</institution>
+<city>Baltimore</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff><aff id="jmv70853-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Microbiologyand Immunology, Lineberger ComprehensiveCancer Center</named-content>
+<institution>The University of NorthCarolina at Chapel Hill</institution>
+<city>Chapel Hill</city>
+<named-content content-type="country-part">North Carolina</named-content>
+<country country="US">USA</country>
+</aff><aff id="jmv70853-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine, Institute of Human Virology</named-content>
+<institution>University of Maryland School of Medicine</institution>
+<city>Baltimore</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Lishan Su (<email>lsu@ihv.umaryland.edu</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>2</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2026</year></pub-date><volume>98</volume><issue seq="21">3</issue><issue-id pub-id-type="pmc-issue-id">508254</issue-id><issue-id pub-id-type="doi">10.1002/jmv.v98.3</issue-id><elocation-id>e70853</elocation-id><history>
+<date date-type="rev-recd"><day>26</day><month>1</month><year>2026</year></date>
+<date date-type="received"><day>03</day><month>9</month><year>2025</year></date>
+<date date-type="accepted"><day>07</day><month>2</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>25</day><month>02</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>26</day><month>02</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-26 08:25:13.373"><day>26</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Journal of Medical Virology</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JMV-98-e70853.pdf"><?pdf-name JMV-98-e70853.pdf?><?pdf-size 3428415?><?pdf-md5 1aebc98095a414d43ecd411ce1e3ba20?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:01e5/12933161/1aebc98095a4/JMV-98-e70853.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JMV-98-e70853.pdf"/><abstract><title>ABSTRACT</title><p>The current highly active antiretroviral therapy (HAART or ART) effectively suppresses de novo HIV‐1 infection but fails to eliminate HIV reservoir cells, which leads to rapid viral rebound upon ART cessation. Chimeric antigen receptor (CAR) T cells engineered to target HIV‐1 Env⁺ cells offer a promising strategy to eliminate or control these persistent reservoirs and achieve durable control of HIV‐1 infection. However, a major challenge is the susceptibility of such CAR‐T cells to HIV infection, especially those soluble CD4 (sCD4)‐based CAR‐T cells. In this study, an sCD4‐based CAR incorporating the S85C mutation in the CD4 Ig‐like domain 1 (termed D1C) was engineered to enable disulfide bond formation with the HIV‐1 envelope glycoprotein (Env), thereby reducing viral entry and conferring protection against HIV infection. D1C/sCD4 CAR‐T cells exhibited enhanced T‐cell activation and cytotoxicity in response to Env stimulation while demonstrating resistance HIV‐1 infection in vitro and in vivo. Furthermore, the herpesvirus entry mediator (HVEM) intracellular domain was identified as an optimal costimulatory domain, enhancing cytokine induction, cytotoxicity, and promoting a favorable central memory phenotype and persistence of CAR‐T cells. In humanized mouse models, D1C/sCD4 CAR‐T cells demonstrated superior persistence and improved control of HIV rebound following ART interruption compared to wild‐type (WT)/sCD4 CAR‐T cells. These findings highlight a novel strategy to enhance the efficacy and durability of HIV‐targeted CAR‐T cell therapy by combining HIV resistance and optimized co‐stimulation.</p></abstract><kwd-group><kwd id="jmv70853-kwd-0001">CAR‐T</kwd><kwd id="jmv70853-kwd-0002">costimulatory domain</kwd><kwd id="jmv70853-kwd-0003">HIV resistance</kwd><kwd id="jmv70853-kwd-0004">humanized mouse model</kwd><kwd id="jmv70853-kwd-0005">HVEM (TNFRSF14)</kwd><kwd id="jmv70853-kwd-0006">soluble CD4</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Institutes of Health and National Cancer Institute</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="12"/><word-count count="7757"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:25.02.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="jmv70853-sec-0010"><label>1</label><title>Introduction</title><p>Immunotherapy, particularly chimeric antigen receptor (CAR) T cell therapy, has emerged as a promising strategy for controlling HIV infection [<xref rid="jmv70853-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70853-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70853-bib-0003" ref-type="bibr">3</xref>, <xref rid="jmv70853-bib-0004" ref-type="bibr">4</xref>]. Unlike traditional antiretroviral therapy (ART), which suppresses viral replication but does not eradicate latent reservoirs, CAR‐T cells engineered to recognize and eliminate HIV‐infected cells offer a novel approach to achieving sustained viral remission [<xref rid="jmv70853-bib-0005" ref-type="bibr">5</xref>, <xref rid="jmv70853-bib-0006" ref-type="bibr">6</xref>, <xref rid="jmv70853-bib-0007" ref-type="bibr">7</xref>]. Preclinical studies have demonstrated that CAR T cells can effectively suppress HIV‐1 replication and eliminate HIV‐1‐expressing cells in vitro and in animal models [<xref rid="jmv70853-bib-0008" ref-type="bibr">8</xref>, <xref rid="jmv70853-bib-0009" ref-type="bibr">9</xref>], leading to the initiation of early‐phase clinical trials to evaluate their safety and efficacy in humans [<xref rid="jmv70853-bib-0003" ref-type="bibr">3</xref>, <xref rid="jmv70853-bib-0010" ref-type="bibr">10</xref>].</p><p>A key target for anti‐HIV strategies is the HIV envelope glycoprotein (Env), which facilitates viral entry into host cells. Single‐chain variable fragments (scFvs) derived from broadly neutralizing antibodies (bNAbs) have been incorporated into CAR T cell constructs, enabling precise targeting and elimination of HIV‐infected cells expressing the Env on their surface [<xref rid="jmv70853-bib-0010" ref-type="bibr">10</xref>]. The other targeting strategy of the anti‐HIV CAR‐T cells relies on soluble CD4 (sCD4)‐based domains that interact with the viral envelope [<xref rid="jmv70853-bib-0008" ref-type="bibr">8</xref>]. Nevertheless, critical challenges persist, including optimal antigen targeting and the susceptibility of infused CAR T cell products to HIV infection [<xref rid="jmv70853-bib-0011" ref-type="bibr">11</xref>, <xref rid="jmv70853-bib-0012" ref-type="bibr">12</xref>, <xref rid="jmv70853-bib-0013" ref-type="bibr">13</xref>]. Especially, sCD4‐based CARs are susceptible to HIV infection due to CD4 serving as the natural ligand for the gp120 envelope protein of HIV. As the main target of HIV, infused CD4<sup>+</sup> CAR T cells, attracted to an HIV‐infected cell risk becoming infected, thus limiting their therapeutic benefit [<xref rid="jmv70853-bib-0009" ref-type="bibr">9</xref>, <xref rid="jmv70853-bib-0014" ref-type="bibr">14</xref>].</p><p>It has been reported that a specific mutation, S85C, in the extracellular immunoglobulin (Ig) domain 1 of CD4 can form a disulfide bond with HIV‐1 Env126C [<xref rid="jmv70853-bib-0015" ref-type="bibr">15</xref>]. This structural modification prevents HIV‐1 fusion and entry, providing a potential mechanism for enhancing resistance. Incorporation of the S85C mutation into the CD4 extracellular Ig domain of CAR T cells was hypothesized to confer resistance to HIV infection while promoting covalent interaction between sCD4 and HIV‐1 Env, thereby improving the efficacy and durability of CAR T therapy for HIV treatment. By integrating this mutation, the study aimed to address the critical challenge of Env‐targeting CAR T cell susceptibility to HIV‐1 infection, potentially leading to more effective and durable therapeutic outcomes. This study explored the application of S85C‐mutated CD4 CAR T cells in HIV therapy, evaluated their ability to resist HIV infection while maintaining or enhancing their functions to eliminate HIV Env<sup>+</sup> target cells.</p></sec><sec sec-type="results" id="jmv70853-sec-0020"><label>2</label><title>Results</title><sec id="jmv70853-sec-0030"><label>2.1</label><title>sCD4/CAR With S85C Mutation Within the Ig‐Like Domain 1 (D1C) Confers Resistance to HIV Infection</title><p>To overcome the limitation that HIV Env‐targeting CAR on T cells also serve as receptors for HIV infection, the S85C mutation was introduced within the Ig‐like domain 1 of CD4, enabling disulfide bond formation with HIV Env upon CD4 binding [<xref rid="jmv70853-bib-0015" ref-type="bibr">15</xref>]. The constructs were evaluated in 293 T cells expressing different sCD4‐based CAR designs: sCD4 containing the full‐length extracellular domain (D1–D4) (FL/sCD4), Wild Type sCD4 comprising Domain 1 and Domain 2 (WT/sCD4), sCD4 Domain 1 and Domain 2 with the S85C mutation (D1C/sCD4), and sCD4 Domain 1 and Domain 2 with both S85C and A80F mutations (D1FC/sCD4). The A80F mutation leads to loss of CD4 binding with HIV Env [<xref rid="jmv70853-bib-0016" ref-type="bibr">16</xref>]. These engineered sCD4 variants served as the extracellular antigen‐binding components targeting the CD4‐binding site of HIV Env in CAR‐T constructs. As illustrated in Figure <xref rid="jmv70853-fig-0001" ref-type="fig">1A</xref>, all CAR constructs, except for FL/sCD4, included the costimulatory domain (CSD) 4‐1BB and the TCR CD3ζ (ζ) chain, with the CD8 transmembrane (TM) domain. These HIV Env‐specific CARs were expressed on the 293 T cell surface at similar levels as detected by anti‐CD4 mAb or the c‐myc tag.</p><fig position="float" fig-type="Figure" id="jmv70853-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>D1C (S85C) mutation within IgG domain 1 of CD4 confers resistance to HIV infection. (A) Schematic of HEK293T (293 T) cells expressing the engineered soluble CD4 variants. Created with BioRender. (B) Diagram of D1C‐mediated resistance to HIV infection and of the HIV luciferase reporter assay. Created with BioRender. (C) Engineered 293T cells and (D) transduced primary human CD8⁺ T cells were infected with serial dilutions of HIV Env–pseudotyped HIV‐1 luciferase (HIV‐Luc) virus. (E) Summary of infection readouts for engineered CD8+ CAR‐T cells challenged with VSV‐G/HIV‐Luc. FL/sCD4, sCD4 containing the full‐length extracellular domain (D1–D4). <italic toggle="yes">P‐</italic>values calculated using ordinary two‐way ANOVA Turkeys multiple comparisons test. *<italic toggle="yes">p</italic> &lt; 0.05. **<italic toggle="yes">p</italic> &lt; 0.01. ***<italic toggle="yes">p</italic> &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JMV-98-e70853-g003.jpg"><?image-name JMV-98-e70853-g003.jpg?><?image-size 100054?><?image-md5 f5facafc50ac1f84679d70326032a484?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1026?><?image-original-width 1054?><?image-scaled-height 683?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/01e5/12933161/f5facafc50ac/JMV-98-e70853-g003.jpg?><?thumb-name JMV-98-e70853-g003.gif?><?thumb-size 4056?><?thumb-md5 6a419a3094b8f4eb17d54c52636c9ddd?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 97?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/01e5/12933161/6a419a3094b8/JMV-98-e70853-g003.gif?></graphic></fig><p>The capacity of each sCD4 variant to support HIV‐1 infection was assessed using an HIV luciferase reporter virus pseudotyped with HIV‐1 R3A Env (Figure <xref rid="jmv70853-fig-0001" ref-type="fig">1B</xref>). 293 T cells transfected with sCD4‐based CARs were infected with varying doses of the NL4‐Luc/R3A virus. As expected, 293 T cells expressing full‐length CD4 extracellular domain (293 FL/sCD4) were most susceptible to HIV infection, and CD4 wild‐type D1D2‐derived CAR construct supported 10‐fold lower level of HIV‐1 infection. The D1C/sCD4 CAR demonstrated a significantly lower infection rate compared to WT/sCD4 CAR (Figure <xref rid="jmv70853-fig-0001" ref-type="fig">1C</xref>). The D1FC/sCD4 CAR showed complete resistance to HIV infection, as the A80F mutation disrupted the binding between CD4 and the HIV Env [<xref rid="jmv70853-bib-0016" ref-type="bibr">16</xref>]. There was no difference in supporting vesicular stomatitis virus glycoprotein (VSV‐G) pseudotyped HIV‐Luciferase virus infection in those 293 T cells expressing various sCD4 constructs (Figure <xref rid="jmv70853-suppl-0001" ref-type="supplementary-material">S1A</xref>).</p><p>When tested in human primary T cells, CD8<sup>+</sup> CAR‐T cells expressing WT/sCD4 supported HIV‐1 infection, and the D1C/sCD4 CAR T cells were significantly protected from HIV infection (Figure <xref rid="jmv70853-fig-0001" ref-type="fig">1D</xref>). The low level of infection was probably due to contaminating CD4 T cells, as GFP vector‐transduced cells also supported the low level of HIV infection (Figure <xref rid="jmv70853-fig-0001" ref-type="fig">1D</xref>). There was no difference in VSV‐G mediated infection in CD8<sup>+</sup> T cells expressing various sCD4 CARs (Figure <xref rid="jmv70853-fig-0001" ref-type="fig">1E</xref>). Furthermore, CD4<sup>+</sup> CAR‐T cells expressing the D1C/sCD4 CAR were also partially protected from HIV infection (Figure <xref rid="jmv70853-suppl-0001" ref-type="supplementary-material">S1B</xref>), suggesting interference of D1C/sCD4 CAR with the endogenous CD4 receptor. These findings confirm that introducing the S85C mutation into the CD4 Domain 1 α‐helix, which forms an intermolecular disulfide bond between CD4 and Env and blocks Env intramolecular disulfide bond upon CD4 binding, can inhibit HIV‐1 fusion and entry [<xref rid="jmv70853-bib-0015" ref-type="bibr">15</xref>]. Therefore, D1C/sCD4 CAR‐T cells with the S85C mutation are resistant to HIV‐1 infection.</p></sec><sec id="jmv70853-sec-0040"><label>2.2</label><title>HVEM‐Based CAR‐T Cells With D1C (S85C) Mutation Have Stronger Functions Via Env‐Binding Mechanism</title><p>Given prior observations that the herpesvirus entry mediator (HVEM) derived CSD augments CAR‐T effector function relative to 4‐1BB or CD28 CSD [<xref rid="jmv70853-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70853-bib-0018" ref-type="bibr">18</xref>], HVEM‐based D1C/sCD4 CAR‐T cells were evaluated against K562 cells engineered to express HIV‐1 Env(K.Env) (Figure <xref rid="jmv70853-fig-0002" ref-type="fig">2A–C</xref>). Under identical lentiviral transduction conditions multiplicity of infection (MOI), WT/sCD4 and D1C/sCD4 CAR T cells expressed similar levels of CAR surface expression. These two CAR designs elicited strong interleukin‐2 (IL‐2) and interferon‐gamma (IFN‐γ) responses, whereas nontransduced T cells, GFP controls, and the D1FC/sCD4 variant showed no induction of cytokines (Figure <xref rid="jmv70853-fig-0002" ref-type="fig">2B</xref>). Notably, D1C CAR‐T cells produced significantly more IL‐2 than WT/sCD4 CAR‐T cells, while both exhibited comparable levels of IFN‐γ secretion (Figure <xref rid="jmv70853-fig-0002" ref-type="fig">2B</xref>). To evaluate cytotoxic function, CD8⁺ CAR‐T cells were co‐cultured with K.Env target cells at varying effector‐to‐target (E:T) ratios. After coculture, both D1C‐HM and wild‐type herpes virus entry mediator (HVEM) mutant (WT‐HM) CAR‐T cells exhibited robust, dose‐dependent cytotoxicity compared to control groups. Importantly, D1C‐HM CAR‐T cells exhibited significantly greater cytolytic activity than WT‐HM CAR‐T cells across multiple E:T ratios (Figure <xref rid="jmv70853-fig-0002" ref-type="fig">2C</xref>). In independent stimulation assays, D1C‐HM CAR‐T cells also secreted higher IL‐2 levels when exposed to recombinant gp140 [<xref rid="jmv70853-bib-0019" ref-type="bibr">19</xref>, <xref rid="jmv70853-bib-0020" ref-type="bibr">20</xref>], a trimeric Env protein, compared to WT‐HM CAR‐T cells (Figure <xref rid="jmv70853-fig-0002" ref-type="fig">2D</xref>). Similar results were observed with 4‐1BB‐based D1C/sCD4 CAR‐T cells on cytokine production (Figure <xref rid="jmv70853-suppl-0002" ref-type="supplementary-material">S2A–D</xref>), suggesting that the D1C/sCD4 CAR influences T cell activation and effector function in response to HIV‐Env stimulation. Neither D1C‐HM nor WT‐HM CAR‐T cells were activated by Env<sup>−</sup> K562 (Figure <xref rid="jmv70853-suppl-0002" ref-type="supplementary-material">S2E</xref>), confirming their Env‐dependent activity.</p><fig position="float" fig-type="Figure" id="jmv70853-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>D1C (S85C)‐based CAR‐T cells show elevated functions vis Env‐binding mechanism in vitro. (A) Schematic diagram showing the structure of different sCD4‐based CARs bearing HVEM CSD. (B, C) Different CAR‐T cells were cocultured with HIV‐1 Env+ target cells. (B) Summary of IL‐2 and IFN‐γ production at Day 3 after co‐culture of CAR‐T cells with K562‐Env at E/T ratio of 1 to 10 (<italic toggle="yes">n</italic> = 3). (C) Summary of frequency of HIV<sub>YU2</sub> Envelope+ K562 cells (K.Env) at D3 after coculture with human‐derived CAR‐T cells and nontransduced (NT) T cells at different E/T ratios. (D) Summary of IL‐2 and IFN‐γ production from co‐culture assays, in which 5 × 10⁵ CAR‐T cells were independently stimulated for 24 h with 4 µg recombinant gp140 protein. (E) CAR‐Jurkats were seeded with K562 cells or K562‐Env<sup>+</sup> on the cell surface at a density of 3 × 105 at different target‐to‐effector ratios. Trogocytosis (%CAR + PKH26 +) was determined by fluorescence‐activated cell sorting (FACS) 6‐h post commencement of co‐culture. One‐way or two‐way ANOVA, with Tukey's multiple comparisons test, was applied as appropriate for each dataset. *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001. Statistical comparisons in Figure C were performed between the D1C‐HM group and each of the following groups individually: D1FC‐HM and WT‐HM, at indicated E/T ratios.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JMV-98-e70853-g001.jpg"><?image-name JMV-98-e70853-g001.jpg?><?image-size 103289?><?image-md5 17f5030a344b41f98c1c75ac0d164189?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 971?><?image-original-width 1054?><?image-scaled-height 647?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/01e5/12933161/17f5030a344b/JMV-98-e70853-g001.jpg?><?thumb-name JMV-98-e70853-g001.gif?><?thumb-size 3986?><?thumb-md5 0c1296af48ca3ebcf564008a2118707c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 92?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/01e5/12933161/0c1296af48ca/JMV-98-e70853-g001.gif?></graphic></fig><p>Trogocytosis is the transfer of membrane and surface proteins from target cells to CAR‐T cells during contact [<xref rid="jmv70853-bib-0021" ref-type="bibr">21</xref>]. To test if the D1C mutation affects trogocytosis with altered covalent antigen‐binding affinity, a trogocytosis assay was conducted. The results showed that the D1C (S85C) mutant did not increase or otherwise alter trogocytosis in CD4‐based CAR‐T cells despite enhanced functional activity (Figure <xref rid="jmv70853-fig-0002" ref-type="fig">2E</xref>, <xref rid="jmv70853-suppl-0003" ref-type="supplementary-material">S2F–H</xref>). Collectively, these findings demonstrate that D1C/sCD4 CAR‐T cells, while resistant to HIV‐1 infection, showed elevated cytokine secretion and cytotoxic capabilities against HIV‐1 Env⁺ target cells with comparable levels of trogocytosis as WT/sCD4 CAR‐T cells.</p></sec><sec id="jmv70853-sec-0050"><label>2.3</label><title>HVEM CSD‐Derived CAR T Cells Display Superior Effector Functions Associated With <italic toggle="yes">T</italic>
+<sub>cm</sub> Phenotype</title><p>To confirm that HVEM‐based D1C/sCD4 CAR‐T cells possess superior anti‐HIV activity over CD28‐ or 41BB‐based CAR T cells (Figure <xref rid="jmv70853-fig-0003" ref-type="fig">3A</xref>), D1C/sCD4 CAR constructs with their respective CSDs were tested in primary human CD8⁺ T cells. Flow cytometric analysis 5 days posttransduction confirmed efficient expression of all constructs in CD8⁺ T cells, based on staining with anti‐CD8 and anti‐Myc antibodies. No significant differences were observed in cell viability or expansion among CAR‐T cells with different CSDs (Figure <xref rid="jmv70853-suppl-0004" ref-type="supplementary-material">S3A</xref>). The maturation phenotype of D1C/sCD4 CAR‐T cells bearing different CSDs was next characterized. After 12 days of culture, memory T cell subsets were assessed via surface expression of CD45RO and CCR7. While nontransduced control CD8⁺ T cells primarily exhibited a terminal effector (Tte) phenotype, all CAR‐T cells demonstrated increased frequencies of central memory (Tcm) subsets (Figures <xref rid="jmv70853-fig-0003" ref-type="fig">3B</xref>, <xref rid="jmv70853-suppl-0004" ref-type="supplementary-material">S3B</xref>). Notably, CAR‐T cells with the HVEM CSD showed the highest proportion of <italic toggle="yes">T</italic>
+<sub>cm</sub> cells among the groups (Figure <xref rid="jmv70853-fig-0003" ref-type="fig">3B</xref>).</p><fig position="float" fig-type="Figure" id="jmv70853-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>HVEM CSD‐derived CAR T cells display superior effector functions associated with <italic toggle="yes">T</italic>
+<sub>cm</sub> phenotype. (A) Schematic diagram showing the structure of D1C/sCD4 CARs. (B) Summarized data of CD8+ CAR‐T cell phenotype analysis on day 12 after transduction. (C, D) The CAR‐T cells were cocultured with K562‐Env cells. (C) Summary of IL‐2, IFN‐γ, and TNF‐α in co‐culture experiments of CAR‐T cells with K562‐Env at a T cell to target cell (E/T) ratio of 1 to 10 on Day 3 (<italic toggle="yes">n</italic> = 3). (D) Summary of frequency of HIV<sub>YU2</sub> Envelope+ K562 cells (K.Env) on D3 after coculture with human‐derived CAR‐T cells and Nontransduced (NT) T cells at indicated E/T ratios. One‐way or two‐way ANOVA, with Tukey's multiple comparisons test, was applied as appropriate for each dataset. **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001. Statistical comparisons in Figure D were performed between the D1C‐HM group and each of the following groups individually: pRRL‐GFP, D1C‐28, and D1C‐BB, at indicated E/T ratios.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JMV-98-e70853-g002.jpg"><?image-name JMV-98-e70853-g002.jpg?><?image-size 91790?><?image-md5 678ad214aef019be4c3a6b0636ed0c54?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 884?><?image-original-width 1054?><?image-scaled-height 589?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/01e5/12933161/678ad214aef0/JMV-98-e70853-g002.jpg?><?thumb-name JMV-98-e70853-g002.gif?><?thumb-size 3520?><?thumb-md5 820a46418c1cc51344e5d759e4676447?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 84?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/01e5/12933161/820a46418c1c/JMV-98-e70853-g002.gif?></graphic></fig><p>To assess functional activity, CD8⁺ CAR‐T cells were co‐cultured with K562 cells expressing HIV Envelope protein (K.Env). Consistent with previous reports [<xref rid="jmv70853-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70853-bib-0022" ref-type="bibr">22</xref>], D1C‐HVEM CAR‐T cells secreted significantly higher levels of cytokines, including IL‐2, IFN‐γ, and tumor necrosis factor‐alpha (TNF‐α), compared to CD28‐ and 4‐1BB‐based CAR‐T cells (Figure <xref rid="jmv70853-fig-0003" ref-type="fig">3C</xref>). Furthermore, D1C‐HM CAR‐T cells demonstrated superior cytotoxicity against HIV Env⁺ target cells across various E:T ratios (Figure <xref rid="jmv70853-fig-0003" ref-type="fig">3D</xref>). Elevated cytokine production by D1C‐HM CAR‐T cells was also observed upon stimulation with recombinant gp120 or gp140 protein over D1C‐BB CAR‐T cells (Figure <xref rid="jmv70853-suppl-0004" ref-type="supplementary-material">S3C</xref>). In addition, neither D1C‐BB nor D1C‐HM CAR‐T cells were activated by Env⁻ K562. HVEM‐based D1C/sCD4 CAR‐T cells showed elevated activity than CD28‐ and 4‐1BB‐based versions. They demonstrated enhanced, antigen‐specific cytokine production and cytotoxicity against HIV Env⁺ targets.</p></sec><sec id="jmv70853-sec-0060"><label>2.4</label><title>D1C/sCD4 CAR T Cells Show Increased Persistence With Reduced HIV‐1 Infection in NSG‐Hu PBMC Mouse Model</title><p>The <italic toggle="yes">in vivo</italic> anti‐HIV activity of sCD4 CAR‐T cells was next evaluated using a human PBMC (hu‐PBMC) mouse model with HIV infection and ART (Figure <xref rid="jmv70853-fig-0004" ref-type="fig">4A</xref>). To establish the model, irradiated NSG mice were infused with a mixture of uninfected and HIV‐infected human PBMCs, followed by initiation of ART 4 days later. Two weeks after ART initiation, mice were randomized to receive either WT/sCD4 CAR‐T cells or D1C/sCD4 CAR‐T cells harboring the S85C mutation. Following ART interruption, all groups exhibited viral rebound within 1 week, with no significant differences in the kinetics or magnitude of viremia between all CAR‐T‐treated and control mice (Figure <xref rid="jmv70853-suppl-0005" ref-type="supplementary-material">S4A</xref>). Interestingly, D1C‐BB CAR‐T cells demonstrated robust persistence during viral rebound, with both CD4⁺ and CD8⁺ CAR‐T cells readily detectable in peripheral blood (Figure <xref rid="jmv70853-fig-0004" ref-type="fig">4B,C</xref>). Notably, the D1C group exhibited significantly higher levels of circulating CD4⁺ and CD8⁺ CAR‐T cells at day 18 postinfusion. In addition, D1C‐BB CD8⁺ CAR‐T cells were significantly more abundant in the spleens of treated mice at day 18, whereas CD4⁺ CAR‐T cell levels did not reach statistical significance (Figure <xref rid="jmv70853-fig-0004" ref-type="fig">4G</xref>). These findings indicate that treatment failure was not attributable to insufficient persistence or defective trafficking to lymphoid tissues.</p><fig position="float" fig-type="Figure" id="jmv70853-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>D1C/sCD4 CAR T cells show increased persistence with reduced HIV‐1 infection in NSG‐hu PBMC mouse model. (A) Schematic of the in‐vivo study design. Created with BioRender. (B, C) Frequencies of CAR‐T cells among peripheral blood CD4⁺ (B) and CD8⁺ (C) T cells at 1 and 2.5 weeks postinfusion. (D) Frequency of peripheral CD4⁺ T cells at 1 and 2.5 weeks postinfusion. (E) Frequency of splenic CD4⁺ T cells at study endpoint. (F) Percentage of HIV p24⁺ CD8<sup>−</sup> T cells in spleens. (G) Frequencies of CAR‐T cells among splenic CD8⁺ and CD4⁺ T cells at termination. NT, NonTransduced. <italic toggle="yes">P‐</italic>values calculated using ordinary one‐way ANOVA Turkeys multiple comparisons test. *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JMV-98-e70853-g004.jpg"><?image-name JMV-98-e70853-g004.jpg?><?image-size 104376?><?image-md5 77986923acfda50daa0282247dd6e225?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1050?><?image-original-width 1054?><?image-scaled-height 699?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/01e5/12933161/77986923acfd/JMV-98-e70853-g004.jpg?><?thumb-name JMV-98-e70853-g004.gif?><?thumb-size 4007?><?thumb-md5 c3740e212f07c71707cf910fbd2cea94?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 100?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/01e5/12933161/c3740e212f07/JMV-98-e70853-g004.gif?></graphic></fig><p>Importantly, mice treated with D1C‐BB CAR‐T cells exhibited significantly higher percentages of CD4⁺ T cells in the blood (Figure <xref rid="jmv70853-fig-0004" ref-type="fig">4D</xref>) and in the spleen compared with controls (Figures <xref rid="jmv70853-fig-0004" ref-type="fig">4E</xref>, <xref rid="jmv70853-suppl-0005" ref-type="supplementary-material">S4B</xref>), suggesting a protective effect on host CD4⁺ T cell populations. Moreover, the D1C‐BB group showed reduced levels of HIV‐infected CD4⁺ T cells in the spleen (Figures <xref rid="jmv70853-fig-0004" ref-type="fig">4F</xref>, <xref rid="jmv70853-suppl-0005" ref-type="supplementary-material">S4C</xref>), indicating that the D1C CAR‐T cells relatively resistant to HIV‐1 infection in lymphoid tissues. These findings demonstrate that D1C/sCD4 CAR‐T cells conferred partial protection against HIV‐1 infection and improved their persistence in NSG‐hu PBMC mice.</p></sec><sec id="jmv70853-sec-0070"><label>2.5</label><title>D1C/sCD4 CAR T Cells Show Increased Persistence With HIV‐1 Infection In Vivo</title><p>The in vivo efficacy of HVEM‐based CD4 CAR‐T cells was subsequently assessed in the NSG‐hu HSC humanized mouse model of chronic HIV‐1 infection (Figure <xref rid="jmv70853-fig-0005" ref-type="fig">5A</xref>). Two weeks after infection was established, mice were infused with 3 × 10⁶ CD8⁺ CAR‐T cells. CAR‐T cell treatment reduced plasma viral load, although no significant difference was observed between the CD4 WT and D1C groups (Figure <xref rid="jmv70853-suppl-0006" ref-type="supplementary-material">S5A</xref>). Notably, the proportion of p24⁺ CD8<sup>−</sup> T cells in the spleen was significantly lower in mice treated with D1C/sCD4 CAR‐T cells compared with those receiving WT/sCD4 CAR‐T cells (Figures <xref rid="jmv70853-fig-0005" ref-type="fig">5B</xref>, <xref rid="jmv70853-suppl-0006" ref-type="supplementary-material">S5B</xref>), and a numerically lower frequency of p24⁺ CD8⁺ T cells in D1C/sCD4 CAR‐T treated mice (Figure <xref rid="jmv70853-suppl-0006" ref-type="supplementary-material">S5C</xref>). One‐week post‐infusion, WT‐HM CAR‐T cells were nearly undetectable in peripheral blood, as detected by myc co‐expression (Figure <xref rid="jmv70853-fig-0005" ref-type="fig">5C</xref>). In contrast, D1C‐HM CAR‐T cells persisted throughout the 5‐week study. Additionally, mice treated with D1C‐HM CAR‐T cells exhibited a significantly higher number of hCD3<sup>+</sup> T cells in the spleen compared to the WT‐HM group (Figure <xref rid="jmv70853-fig-0005" ref-type="fig">5D</xref>). Moreover, the percentage of myc<sup>+</sup> CD8<sup>+</sup> CAR‐T cells was significantly higher in the D1C‐HM group in the spleen at termination (Figure <xref rid="jmv70853-fig-0005" ref-type="fig">5E</xref>). Flow cytometry analysis of spleens from the D1C/sCD4 CAR‐T treated mouse with the highest CAR‐T cell frequency at the endpoint shows that splenic p24⁺ CAR⁺ T cells constitute only ~ 1%, indicating a very low level of infection (Figure <xref rid="jmv70853-suppl-0006" ref-type="supplementary-material">S5E</xref>). In addition, the frequencies of CD45RO⁺CCR7⁺ and CD45RO⁻CCR7⁺ T<sub>CM</sub>‐like subsets within the D1C‐HM CAR‐T population were preserved, although reduced relative to preinfusion levels (Figure <xref rid="jmv70853-suppl-0006" ref-type="supplementary-material">S5E</xref>). Due to their extremely low abundance, it was not feasible to analyze WT/sCD4 CAR‐T cells. The persistence of D1C/sCD4 CAR‐T cells is likely attributed to resistance to HIV‐1 infection and to cell death. Collectively, these results demonstrate that D1C/sCD4‐based CD8<sup>+</sup> CAR‐T cells resist HIV‐1 infection and exhibit protective effects against HIV‐1 pathogenesis in vivo.</p><fig position="float" fig-type="Figure" id="jmv70853-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>D1C (S85C) CAR‐T cells show HIV infection resistance and elevated persistence in HIV‐infected NSG‐hu HSC mice in vivo. (A) Schematic outline of the in vivo study using NSG‐hu HSC mice. Created with BioRender. (B) The statistical summary of splenic p24⁺ T cells within the hCD3⁺CD8⁻ lymphocyte gate. (C) Kinetics of circulating CD8 CAR‐T cells in peripheral blood after infusion in HIV‐infected mice. (D) Total human CD3⁺ T cell numbers recovered from spleens at endpoint. (E) Frequency of CAR⁺ CD8 T cells within the splenic CD8⁺ T‐cell compartment (gate: hCD3⁺CD8⁺). Symbols represent individual mice; lines/bars indicate mean ± SEM. One‐way or two‐way ANOVA, with Tukey's multiple comparisons test, was applied as appropriate for each dataset. *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="JMV-98-e70853-g005.jpg"><?image-name JMV-98-e70853-g005.jpg?><?image-size 65364?><?image-md5 469142ef984e7bef6285f650a5b2200c?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 767?><?image-original-width 1000?><?image-scaled-height 511?><?image-scaled-width 666?><?image-cloudpmc-urn urn:cdn:blobs/01e5/12933161/469142ef984e/JMV-98-e70853-g005.jpg?><?thumb-name JMV-98-e70853-g005.gif?><?thumb-size 3083?><?thumb-md5 5e7b0efc5f34de8c55adc621101afd97?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 104?><?thumb-cloudpmc-urn urn:cdn:blobs/01e5/12933161/5e7b0efc5f34/JMV-98-e70853-g005.gif?></graphic></fig></sec><sec id="jmv70853-sec-0080"><label>2.6</label><title>D1C/sCD4 CAR‐T Cells Show Improved Therapeutic Effect in Controlling HIV‐1 Reservoirs With Reduced HIV‐1 Rebound in Humanized Mice</title><p>The therapeutic potential of D1C/sCD4 CAR‐T cells was evaluated in the context of ART‐suppressed HIV infection in vivo. Humanized NSG‐hu HSC mice were infected with HIV‐1, and ART was initiated 6 weeks postinfection. Seven weeks later, the ART‐suppressed mice were divided into groups that received either CD8<sup>+</sup> D1C/sCD4 CAR‐T cells or WT/sCD4 CAR‐T cells. The control group was treated with non‐transduced CD8<sup>+</sup> T cells. ART was interrupted 2 days after CAR‐T cell infusion, and the kinetics of HIV rebound were monitored (Figure <xref rid="jmv70853-fig-0006" ref-type="fig">6A</xref>). HIV rebounded within 2 weeks across all groups following ART interruption, with no significant differences in the initial kinetics or magnitude of viremia between the D1C CAR‐T‐treated mice and other groups during this period (Weeks 13–15). However, by 3 weeks post‐ART removal, the D1C/sCD4 CAR‐T cell group showed a marked reduction in the level of viremia compared to control‐treated mice (Figure <xref rid="jmv70853-fig-0006" ref-type="fig">6B</xref>). Additionally, mice treated with D1C CAR‐T cells displayed a higher percentage of CAR<sup>+</sup> cells within the CD8<sup>+</sup> T cell population in the spleen compared to the WT CD4 group, with no significant difference observed in the bone marrow (Figure <xref rid="jmv70853-fig-0006" ref-type="fig">6C</xref>). Notably, the D1C group also exhibited resistance to HIV‐1 infection, with a reduced frequency of HIV‐infected CAR‐T cells in lymphoid tissues in comparison with WT/sCD4 CAR T cells, significantly in the bone marrow (Figure <xref rid="jmv70853-fig-0006" ref-type="fig">6D</xref>). Taken together, these findings further indicate that the D1C mutation enhances the HIV resistance and survival of D1C/sCD4‐based CAR‐T cells in vivo, leading to improved control over HIV‐1 rebound following ART discontinuation compared to WT/sCD4 CAR‐T cells.</p><fig position="float" fig-type="Figure" id="jmv70853-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>D1C/sCD4 CAR‐T cells show elevated therapeutic effect in controlling HIV‐1 reservoirs with reduced HIV‐1 rebound in NSG‐hu HSC mice. (A) Outline of the in vivo study design. Created with BioRender. (B) Plasma viral load quantified as HIV genomic RNA copies/mL, with total rebounded viremia summarized on the right. (C) Frequency of CD8 CAR‐T cells in the indicated lymphoid tissues. (D) Relative infection (p24⁺) of CD8 CAR‐T cells in the indicated lymphoid tissues. NT, nontransduced. Symbols represent individual mice; bars/lines show mean ± SEM. <italic toggle="yes">P‐</italic> values calculated using ordinary one‐way ANOVA Turkeys multiple comparisons test. *<italic toggle="yes">p</italic> &lt; 0.05.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="JMV-98-e70853-g006.jpg"><?image-name JMV-98-e70853-g006.jpg?><?image-size 82114?><?image-md5 5e46190e0d93cbf9647e2fe123301af0?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 729?><?image-original-width 1054?><?image-scaled-height 486?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/01e5/12933161/5e46190e0d93/JMV-98-e70853-g006.jpg?><?thumb-name JMV-98-e70853-g006.gif?><?thumb-size 3814?><?thumb-md5 8597119f6e2ad6680a1b85db3bd61e9c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 115?><?thumb-cloudpmc-urn urn:cdn:blobs/01e5/12933161/8597119f6e2a/JMV-98-e70853-g006.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="jmv70853-sec-0090"><label>3</label><title>Discussion</title><p>CAR T cell therapy has emerged as a promising strategy in the fight against HIV‐1 [<xref rid="jmv70853-bib-0001" ref-type="bibr">1</xref>, <xref rid="jmv70853-bib-0002" ref-type="bibr">2</xref>, <xref rid="jmv70853-bib-0003" ref-type="bibr">3</xref>, <xref rid="jmv70853-bib-0004" ref-type="bibr">4</xref>, <xref rid="jmv70853-bib-0023" ref-type="bibr">23</xref>]. However, the development of CAR‐T cells targeting the HIV envelope (Env) glycoprotein faces significant challenges, primarily due to the susceptibility of these CAR‐T cells to HIV infection and issues related to binding affinity between CAR and HIV Env. Incorporating native CD4 domains into CAR constructs can inadvertently render T cells vulnerable to HIV entry, compromising their therapeutic efficacy. Additionally, achieving optimal binding with HIV Env is crucial to ensure effective targeting and elimination of HIV‐infected cells [<xref rid="jmv70853-bib-0024" ref-type="bibr">24</xref>, <xref rid="jmv70853-bib-0025" ref-type="bibr">25</xref>, <xref rid="jmv70853-bib-0026" ref-type="bibr">26</xref>, <xref rid="jmv70853-bib-0027" ref-type="bibr">27</xref>]. To address these challenges, an sCD4‐based CAR containing the S85C mutation within the Ig‐like domain 1 (D1C) was engineered. This mutation facilitates the formation of a disulfide bond between D1C/sCD4 and the HIV Env upon binding, thereby inhibiting the fusion process necessary for viral entry [<xref rid="jmv70853-bib-0015" ref-type="bibr">15</xref>, <xref rid="jmv70853-bib-0016" ref-type="bibr">16</xref>]. D1C/sCD4 CAR‐T cells exhibited elevated T cell activation and cytotoxicity in response to Env stimulation while demonstrating resistance to HIV‐1 infection in vitro and in vivo. In humanized mouse models, D1C/sCD4 CAR‐T cells demonstrated superior persistence and improved control of HIV rebound following ART interruption compared to wild‐type sCD4 CAR‐T cells.</p><p>In vitro studies, 293 T cells expressing the D1C/sCD4 CAR exhibited significantly reduced susceptibility to HIV‐1 infection compared to those expressing WT/sCD4‐based CARs. This resistance was consistent across varying doses of the HIV reporter virus, indicating the robustness of the D1C mutation in conferring protection against HIV‐1. In primary human T cells, CD8<sup>+</sup> T cells expressing the D1C/sCD4 CAR were resistant to HIV‐1 infection, suggesting that the D1C mutation effectively reduced susceptibility to HIV‐1 infection in sCD4 CAR‐T cells. These findings underscore the potential of the D1C modification to enhance the durability and safety of CAR‐T cell therapies targeting HIV‐1. This strategic modification renders the CAR‐T cells resistant to HIV infection while preserving their ability to target and eliminate HIV‐infected cells.</p><p>Beyond conferring intrinsic resistance to infection, D1C/sCD4 CAR‐T cells also exhibited elevated antigen‐dependent function against Env⁺ targets. The engineered disulfide “trap” locks HIV Env in a prefusion conformation, prolonging CAR–Env contact and likely improving immunological‐synapse organization and signaling [<xref rid="jmv70853-bib-0028" ref-type="bibr">28</xref>]. Accordingly, D1C/sCD4 CAR‐T cells preserved robust antigen‐specific cytotoxicity and cytokine secretion while remaining nonpermissive to and controlling HIV‐1 infection. These observations are consistent with reports that iterative CARs optimization strengthens T‐cell activation and function [<xref rid="jmv70853-bib-0029" ref-type="bibr">29</xref>], as well as with HIV resistance strategies including CCR5 knockout [<xref rid="jmv70853-bib-0030" ref-type="bibr">30</xref>], fusion‐inhibitor expression [<xref rid="jmv70853-bib-0008" ref-type="bibr">8</xref>], and CD4 truncation [<xref rid="jmv70853-bib-0031" ref-type="bibr">31</xref>]. Notably, unlike CCR5 disruption, the D1C modification directly blocks HIV Env‐mediated entry, thereby extending protection to both CCR5‐ and CXCR4‐tropic strains.</p><p>In CAR‐T therapy, trogocytosis contributes to antigen loss of target cells and CAR‐T dysfunction [<xref rid="jmv70853-bib-0032" ref-type="bibr">32</xref>, <xref rid="jmv70853-bib-0033" ref-type="bibr">33</xref>]. High‐affinity covalent CARs may enhance trogocytosis, leading to impaired CAR‐T function [<xref rid="jmv70853-bib-0034" ref-type="bibr">34</xref>, <xref rid="jmv70853-bib-0035" ref-type="bibr">35</xref>]. When trogocytosis was analyzed, the D1C (S85C) mutation did not affect trogocytosis in sCD4‐based CAR‐T cells despite their elevated functional activity. Therefore, the covalent D1C/sCD4–gp120 interaction enhanced CAR‐T cell activity and conferred resistance to HIV‐1 infection, but did not affect the trogocytosis activity compared with WT/sCD4‐based CAR‐T cells. The choice of CSD within CAR constructs plays a pivotal role in determining the efficacy and persistence of CAR‐T cells [<xref rid="jmv70853-bib-0036" ref-type="bibr">36</xref>, <xref rid="jmv70853-bib-0037" ref-type="bibr">37</xref>, <xref rid="jmv70853-bib-0038" ref-type="bibr">38</xref>, <xref rid="jmv70853-bib-0039" ref-type="bibr">39</xref>]. Previous analyses have revealed that CAR‐T cells incorporating the HVEM‐derived CSD exhibit superior CAR‐T effector functions compared to those with 4‐1BB or CD28 domains. Consistently, HVEM‐based D1C/sCD4 CAR‐T cells produced higher levels of key cytokines and demonstrated enhanced cytotoxic activity against HIV Env‐expressing targets. These cells also exhibited a favorable central memory phenotype, characterized by the expression of markers such as CCR7 and CD45RO, which is associated with improved persistence and long‐term efficacy in vivo. These findings further highlight the advantages of HVEM‐derived CSDs in enhancing CAR‐T cell function and persistence in vivo [<xref rid="jmv70853-bib-0017" ref-type="bibr">17</xref>, <xref rid="jmv70853-bib-0018" ref-type="bibr">18</xref>, <xref rid="jmv70853-bib-0022" ref-type="bibr">22</xref>].</p><p>Studies in humanized mice in vivo further corroborated the enhanced therapeutic potential of D1C/sCD4 CAR‐T cells. In humanized mice with HIV‐1 infection, treatment with D1C/sCD4 CAR‐T cells demonstrated improved persistence compared to CD4 wild‐type CAR‐T cells. This persistence is likely attributed to the resistance of D1C CAR‐T cells to HIV‐1 infection, preventing their depletion. These findings align with previous research indicating that modifications conferring HIV resistance can enhance the durability and efficacy of CAR‐T cell therapies [<xref rid="jmv70853-bib-0027" ref-type="bibr">27</xref>]. Moreover, in the context of ART suppression, D1C/sCD4 CAR‐T cell treatment resulted in better control of viral rebound following ART interruption, indicating their potential role in achieving sustained viral remission. Previously engineered CAR‐T cells through different strategies for HIV resistance have demonstrated encouraging results in reducing viral reservoirs and suppressing HIV replication in preclinical studies [<xref rid="jmv70853-bib-0030" ref-type="bibr">30</xref>, <xref rid="jmv70853-bib-0040" ref-type="bibr">40</xref>].</p><p>In conclusion, the incorporation of the S85C mutation within the CD4 D1 domain of CAR‐T cells effectively addresses major hurdles in HIV Env‐targeting CAR‐T cell therapy by conferring resistance to HIV infection and enhancing sCD4/Env binding with elevated functional activity. The utilization of HVEM‐based CSDs further amplifies these benefits, promoting superior effector functions and persistence in HIV‐infected humanized mice. These findings provide a compelling rationale for the clinical development of D1C‐modified and HVEM‐based sCD4 CAR‐T cells as a durable and effective therapeutic strategy against HIV‐1 infection.</p></sec><sec sec-type="methods" id="jmv70853-sec-0100"><label>4</label><title>Methods</title><sec id="jmv70853-sec-0110"><label>4.1</label><title>Ethics Statement</title><p>Humanized mouse experiments performed at the University of Maryland, Baltimore (UMB), were approved by the UMB Institutional Animal Care and Use Committee (IACUC) under approval protocol AUP‐00000477. All animal studies were carried out in accordance with recommendations in the Guide for the Care and Use of Laboratory Animals of the National Institutes of Health. Peripheral blood mononuclear cells (PBMCs) and purified adult human CD8<sup>+</sup> and CD4<sup>+</sup> T cells were obtained from de‐identified healthy donors. Human PBMCs were isolated by density gradient centrifugation using Ficoll‐Paque.</p></sec><sec id="jmv70853-sec-0120"><label>4.2</label><title>Hu‐PBMC‐NSG Mouse Model of HIV Infection</title><p>Human buffy coats were obtained from the Gulf Coast Regional Blood Center (Texas, USA), and PBMCs were isolated by Ficoll‐Paque PLUS (Cytiva) density gradient centrifugation. PBMCs from HIV‐seronegative donors were activated with PHA‐L (3 µg/mL) and cultured in complete RPMI containing recombinant human IL‐2 (100 U/mL). After 3 days, cells were spinoculated with HIV‐1 JRCSF (MOI = 0.1) for 90 min at 1500 × g. Infected PBMCs were cultured until 6%–10% of cells expressed intracellular p24 (typically 4–6 days). 5–7 weeks old NSG mice (Jackson Laboratory) were anesthetized and whole‐body irradiated (2.5 Gy) before intraperitoneal injection of 1 × 10⁷ infected PBMCs. Mice were allowed to engraft for 4 days before initiating ART via medicated chow for 17 days. ART was discontinued immediately before adoptive transfer of CAR‐T cells (5 × 10⁶ total T cells; E:T ratio = 1:2). At necropsy (2.5 weeks posttransfer), spleen and other tissues were collected for analysis of CAR‐T cell persistence and viral parameters.</p></sec><sec id="jmv70853-sec-0130"><label>4.3</label><title>Construction of Humanized Mice</title><p>Human fetal liver tissues were obtained from elective or medically indicated termination of pregnancy through a nonprofit intermediary working with outpatient clinics (Advanced Bioscience Resources). Approval for animal work was obtained from the UMB, IACUC. We constructed CD34<sup>+</sup> hematopoietic stem cells (HSC) transplanted humanized NSG (NOD‐scid IL2rgnull) mice (hu‐NSG) through intra‐liver injection of 2 × 10<sup>5</sup> purified HSC individually as previously reported [<xref rid="jmv70853-bib-0041" ref-type="bibr">41</xref>]. Human immune cell engraftment was detected by flow cytometry 12 weeks after transplantation.</p></sec><sec id="jmv70853-sec-0140"><label>4.4</label><title>Virus and Infection</title><p>HIV‐1JR‐CSF was generated by transfection of 293 T cells using the calcium phosphate method. Plasmids were obtained from the NIH AIDS Reagent Program. Virus titer was measured by either p24 ELISA (CELL BIOLABS) or MAGI‐CCR5 [<xref rid="jmv70853-bib-0042" ref-type="bibr">42</xref>, <xref rid="jmv70853-bib-0043" ref-type="bibr">43</xref>]. Animals were infected with HIV‐1JR‐CSF at a dose of 5 ng p24/mouse, through retro‐orbital injection.</p></sec><sec id="jmv70853-sec-0150"><label>4.5</label><title>Combination ART</title><p>Individual tablets of TRUVADA (tenofovir/emtricitabine; Gilead Sciences) or raltegravir (Merck) were crushed into fine powder and manufactured as 5BXL by TestDiet based on previously published [<xref rid="jmv70853-bib-0044" ref-type="bibr">44</xref>].</p></sec><sec id="jmv70853-sec-0160"><label>4.6</label><title>HIV Viral Load Quantitation</title><p>Viral RNA was isolated from plasma (20 μL) using the QiaAmp viral RNA mini kit (QIAGEN). Viral loads were determined using quantitative reverse transcription‐polymerase chain reaction using TaqMan® Fast Virus 1‐Step PCR kit (ThermoFisher Scientific) and QuantStudio 6 Flex PCR system (Applied Biosystems) (detection limit ≈ 400 copies/mL) [<xref rid="jmv70853-bib-0041" ref-type="bibr">41</xref>, <xref rid="jmv70853-bib-0044" ref-type="bibr">44</xref>].</p></sec><sec id="jmv70853-sec-0170"><label>4.7</label><title>Plasmid Construction</title><p>The amino acid sequences for the HIV‐specific CD4‐based CAR constructs the CD4‐derived variant specific for HIV, linked to a co‐expressed myc, a CD8 hinge and TM domain, followed by a following intracellular domain: CD28/CD3‐z, 4‐1BB/CD3‐z, and HVEM/CD3‐z. In this study, each CAR is artificially synthesized by GenScript. To make the various CD4‐CAR‐expressing lentiviral vectors, the NdeI/MluI‐digested each CD4 derived DNA fragment and each of the MluI/SalI‐digested CSSD DNA fragments were ligated into NdeI/SalI‐digested pRRL backbone plasmid.</p></sec><sec id="jmv70853-sec-0180"><label>4.8</label><title>Lentivirus Production and Transfection</title><p>Lentivirus particles were generated using lentiviral vector plasmid with the psPAX2/pMD2.G packaging system. The plasmids were transfected into HEK293T cells using Lipofectamine 3000 (Life Technologies), according to the manufacturer's instructions. Transfected HEK293T cell supernatant was collected 48 and 72 h after transfection, filtered through a sterile 0.45‐mm nylon syringe‐driven filter, and concentrated by ultracentrifugation at 25 000 rpm for 2.5 h at 4 C or using Lenti‐X concentrator (Takara). Supernatant was aspirated and the virus pellet was resuspended in 500 µL total volume and stored at −80 C. The lentiviral titers were measured on Jurkat cells based on the percentage of co‐expressed myc by flow cytometry.</p></sec><sec id="jmv70853-sec-0190"><label>4.9</label><title>Luciferase Reporter Assay</title><p>Engineered 293 T cells or primary T cells were spinoculated with HIV‐Luc pseudoviruses at 1200 × g for 2 h at room temperature in the presence of 8 µg/mL Polybrene (Sigma‐Aldrich). After spin infection, cells were washed and cultured for 72 h before analysis. Infection efficiency was assessed by measuring luciferase activity using the Pierce™ Gaussia Luciferase Glow Assay Kit (Thermo Scientific, Cat# 16161) on a microplate luminometer.</p></sec><sec id="jmv70853-sec-0200"><label>4.10</label><title>Cell Lines and Culture</title><p>The culture media, minimum essential medium (MEM), DMEM, and RPMI (Thermo Fisher Scientific, Waltham, MA), were both supplemented with 10% fetal bovine serum (FBS) (Thermo Fisher Scientific), 2 mM glutamine (Thermo Fisher Scientific), 10 U/mL penicillin, and 10 mg/mL streptomycin (Thermo Fisher Scientific). HEK293T cells were cultured in DMEM, and Jurkat cells were maintained in RPMI. K562 and K562‐Env cells were also cultured with RPMI medium. T/CAR‐T cells (described below) were cultured in RPMI medium supplemented with 10% FBS, 1% penicillin/streptomycin, and 200 IU/mL recombinant human IL‐2 (PeproTech). Cells were incubated at 37 C in a 5% CO<sub>2</sub> humidified atmosphere. All cell lines were used within 20 passages of thawing. Cell line authentication and Mycoplasma testing were performed by the vendor and not reevaluated throughout the course of the studies.</p></sec><sec id="jmv70853-sec-0210"><label>4.11</label><title>CAR T‐Cell Preparation</title><p>Human PBMCs from healthy donors were prepared by Ficoll‐Paque Plus (Cytiva) density gradient. Cells were cryopreserved at a density of 20–30 million cells/mL in 90% FBS/10% dimethyl sulfoxide and stored in liquid nitrogen for CAR T‐cell preparation. To manufacture CAR T cells, CD4<sup>+</sup> and CD8<sup>+</sup> T cells from thawed PBMCs were purified by negative selection using MojoSort Human CD4<sup>+</sup> or CD8<sup>+</sup> enrichment cocktails (BioLegend) according to the manufacturer's instructions. All T cells were cultured at 1e6 cells/mL in complete RPMI supplemented with 200 U/mL human IL‐2 (PeproTech). T cells were stimulated with anti‐CD3/CD28 Dynabeads(Life Technologies) at a 1:1bead‐to cell ratio at 37 C, 5% CO2% and 95% humidity incubation conditions. Roughly 24 h after stimulation, half of the medium was removed and replaced with 200–300 µL of concentrated lentivirus supernatant for CAR transduction at a multiplicity of infection round 5. On Day 5, the Dynabeads were removed from cell culture by magnetic separation. Expansion medium was changed every other day throughout cell culture spanning 8–10 days, or as necessary to adjust cell concentration to 0.5e6 cells/mL, and then the cells were used for experiments in vitro or in vivo experiments.</p></sec><sec id="jmv70853-sec-0220"><label>4.12</label><title>Co‐Culture Assay</title><p>To determine cytotoxicity of the CAR‐T cells, target cells (5e4) were seeded in each well of a 96‐well flat‐bottom plate. The CAR‐T cells were added at different effector‐to‐target ratios (see also in the figure legend). On Day 3, the culture supernatants, including cells, were harvested and centrifuged to separate cells and cell‐free supernatants. The remaining target cells were determined as CD3‐ cells by flow cytometry. Collected supernatants were used to determine IL‐2, TNF‐α, and IFN‐γ secretion using human IL‐2, TNF‐α, and IFN‐γ ELISA MAX Deluxe (all from BioLegend), according to the manufacturer's instructions. In cases of unequal percentages of CAR‐transduced cells in the cultures, untransduced T cells were added to ensure that both the number of CAR<sup>+</sup> T cells and the total number of T cells remained consistent across the CAR‐T cell groups.</p></sec><sec id="jmv70853-sec-0230"><label>4.13</label><title>Ag‐Specific Stimulation of CAR‐T Cells</title><p>Different CD4‐based CAR T cells (5e5 per well) were seeded into plates pre‐coated with recombinant HIV‐1 gp120/gp140 (4 µg/well) and incubated for 24 h at 37°C in a humidified incubator. Following stimulation, culture supernatants were harvested for ELISA‐based quantification of activation‐associated cytokines (IL‐2 and IFN‐γ) according to the manufacturer's instructions. Cells were then washed and stained for surface markers for flow‐cytometric analysis.</p></sec><sec id="jmv70853-sec-0240"><label>4.14</label><title>FACS‐Based Trogocytosis Assay</title><p>K562‐WT and K562‐Env target cells were labeled with PKH26 according to the manufacturer's instructions (Sigma‐Aldrich). Immediately following staining, PKH26‐labeled target cells were co‐cultured with CAR‐Jurkat cells (3 × 10⁵) per well in 96‐well plates, using target‐to‐effector ratios of 1:1, 2:1, or 4:1. 6 h post‐co‐culture at 37°C and 5% CO<sub>2</sub>, cells were washed twice with PBS and stained with <italic toggle="yes">F</italic>
+<sub>c</sub> blocker and Fixable Aqua Stain (Thermofisher Scientific) in 50 µL of PBS for 30 min at 4°C. Cells were washed and stained with cMyc‐biotin in 50 µL of PBS for 30 min at 4°C followed by secondary staining using an anti‐biotin antibody in 50 µL of PBS for 30 min at 4°C. After staining, cells were resuspended in fixing buffer (2.5% paraformaldehyde) and analyzed by Fluorescence‐Activated Cell Sorting (FACS). Trogocytosis was measured by the acquisition of PKH26 dye by CAR+ (cMyc) cells from stained CAR‐ target cells.</p></sec><sec id="jmv70853-sec-0250"><label>4.15</label><title>ELISA</title><p>Human CAR T cells were cocultured with target cells for 72 h or gp120/gp140 for 24 h at the indicated E:T ratios. Media from the cocultured wells were collected after centrifugation removal of cell debris. Supernatants were diluted into 3 to 10 times before detection. Cytokines in supernatants were measured using human ELISA kits (BioLegend), IL‐2, TNF‐α, and IFN‐γ, respectively. The detection was performed according to the manufacturer's instructions, and the absorbance was detected by GloMax (Promega). Standard curves were illustrated by standards provided by kits. Concentration of cytokines were calculated by multiply dilution ratios.</p></sec><sec id="jmv70853-sec-0260"><label>4.16</label><title>Flow Cytometry</title><p>Antibodies used in flow cytometry were obtained from BioLegend otherwise indicated. CAR expressions on the transduced Jurkat E6.1 cells or primary T cells were analyzed with anti‐c‐myc tag antibody (Santa Cruz Biotechnology, Dallas, TX), followed by anti‐mouse immunogloburins (Igs)‐ PE antibody (Agilent Technologies, Santa Clara, CA). Surface staining was performed in PBS containing 2% fetal calf serum and 2 mM EDTA using anti‐human antibodies from BioLegend: CD45 (2D1), CD3 (OKT3), CD4 (OKT4), CD8 (RPA‐T8), PD‐1 (EH12.2H7), CD45RO (UCHL1), CCR7 (G043H7), and CD95(DX2). Intracellular proteins were stained for with a cell fixation and cell permeabilization kit (Invitrogen) according to the manufacturer's instructions using antibodies from the following sources: Beckman Coulter: HIV‐1 core antigen (KC57). Flow cytometry data were acquired on a FACS Canto II cell analyzer (Becton‐Dickinson) and analyzed using FlowJo V10.</p></sec><sec id="jmv70853-sec-0270"><label>4.17</label><title>Statistical Analysis</title><p>Statistical analyses were conducted using GraphPad Prism software (version 9.4.1; GraphPad, San Diego, CA, USA), while flow cytometry data were analyzed using FlowJo software (version 10.8.1; FlowJo, Ashland, OR, USA). Results are presented as means with error bars representing SEM. Mean comparisons were performed using one‐way ANOVA, or two‐way ANOVA or paired/unpaired <italic toggle="yes">t</italic>‐tests, with Welch's correction applied when appropriate. For data presented on a logarithmic scale, nonparametric tests were employed. Hypotheses regarding fold changes were tested against a mean of 1. All <italic toggle="yes">p</italic>‐values were two‐tailed, with statistical significance established at <italic toggle="yes">p</italic> &lt; 0.05.</p></sec></sec><sec id="jmv70853-sec-0280"><title>Author Contributions</title><p>Yaoxian Lou designed and performed experiments, prepared figures, analyzed data, and drafted the manuscript. Yaoxian Lou, Xiuting He, Guangming Li, Martin Sikhondze, Jianping Ma, and Hongwei Du contributed to experiments, figure preparation, and data analysis. Xin Ouyang and Mohammad Sajadi provided recombinant gp120 protein and HIV bnAb antibody. Lishan Su conceived the project, guided experimental design, supervised data analysis, and contributed to manuscript writing.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jmv70853-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig_S1.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-98-e70853-s007.tif" position="float" orientation="portrait"><?suppdata-name JMV-98-e70853-s007.tif?><?suppdata-size 1231628?><?suppdata-md5 9fb3dab2fbf642e8dd8496b04f5371c0?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type tiff?><?suppdata-cloudpmc-urn urn:app:01e5/12933161/9fb3dab2fbf6/JMV-98-e70853-s007.tif?></media></supplementary-material><supplementary-material id="jmv70853-suppl-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig_S2A_E.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-98-e70853-s003.TIF" position="float" orientation="portrait"><?suppdata-name JMV-98-e70853-s003.TIF?><?suppdata-size 1827024?><?suppdata-md5 72a974efefce959944ca91bf9bef46d3?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type tiff?><?suppdata-cloudpmc-urn urn:app:01e5/12933161/72a974efefce/JMV-98-e70853-s003.TIF?></media></supplementary-material><supplementary-material id="jmv70853-suppl-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig_S2F_H.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-98-e70853-s001.TIF" position="float" orientation="portrait"><?suppdata-name JMV-98-e70853-s001.TIF?><?suppdata-size 2984158?><?suppdata-md5 ebb77026f4d4eb11fe834cebd5a9788f?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type tiff?><?suppdata-cloudpmc-urn urn:app:01e5/12933161/ebb77026f4d4/JMV-98-e70853-s001.TIF?></media></supplementary-material><supplementary-material id="jmv70853-suppl-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig_S3.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-98-e70853-s005.TIF" position="float" orientation="portrait"><?suppdata-name JMV-98-e70853-s005.TIF?><?suppdata-size 2132412?><?suppdata-md5 af704ba0324dbc6066a90bc2b716b0aa?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type tiff?><?suppdata-cloudpmc-urn urn:app:01e5/12933161/af704ba0324d/JMV-98-e70853-s005.TIF?></media></supplementary-material><supplementary-material id="jmv70853-suppl-0005" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig_S4.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-98-e70853-s004.TIF" position="float" orientation="portrait"><?suppdata-name JMV-98-e70853-s004.TIF?><?suppdata-size 2802306?><?suppdata-md5 b4c06cd804f6173e1e6e35e32296f340?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type tiff?><?suppdata-cloudpmc-urn urn:app:01e5/12933161/b4c06cd804f6/JMV-98-e70853-s004.TIF?></media></supplementary-material><supplementary-material id="jmv70853-suppl-0006" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig_S5.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-98-e70853-s006.TIF" position="float" orientation="portrait"><?suppdata-name JMV-98-e70853-s006.TIF?><?suppdata-size 2618634?><?suppdata-md5 230ba633c1897bdb0ea768de13a1b2d6?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type tiff?><?suppdata-cloudpmc-urn urn:app:01e5/12933161/230ba633c189/JMV-98-e70853-s006.TIF?></media></supplementary-material><supplementary-material id="jmv70853-suppl-0007" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig_S5F.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JMV-98-e70853-s002.TIF" position="float" orientation="portrait"><?suppdata-name JMV-98-e70853-s002.TIF?><?suppdata-size 1631642?><?suppdata-md5 eca300771a98c16d656647a41be10ebb?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type tiff?><?suppdata-cloudpmc-urn urn:app:01e5/12933161/eca300771a98/JMV-98-e70853-s002.TIF?></media></supplementary-material></sec></body><back><ack id="jmv70853-sec-0290"><title>Acknowledgments</title><p>The authors thank Yaxu Wu, Weirong Yuan, and Yichen Lu for technical support, Dr. Paul Zhou, and all current and former members of the Su Lab for discussions of the project. We thank Dr. James L. Riley from U. Penn. for providing the K562 cells expressing HIV‐1 Ev, and Dr. Bing Chen (Children's Hospital, Harvard Medical School) for generously providing recombinant gp140 proteins. We thank the Division of Laboratory Medicine, Flow Cytometry Core Facility, and Center for AIDS Research (P30 AI50410) at University of North Carolina at Chapel Hill. We also thank the Flow Cytometry Shared Service and animal care core of the University of Maryland Marlene and Stewart Greenebaum Comprehensive Cancer Center. This report was supported by funds through the National Cancer Institute Cancer Center Support Grant (P30CA134274), and by NIH grants (AI136990 and CA298839 to LS). The funders had no role in data analysis, preparation, or the decision to publish the manuscript. The Graphic abstract and Schematic illustrations were created with BioRender.com.BioRender.com. The study was supported by National Institutes of Health and National Cancer Institute.</p></ack><sec sec-type="data-availability" id="jmv70853-sec-0310"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="jmv70853-bibl-0001"><title>References</title><ref id="jmv70853-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmv70853-cit-0001">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Campos‐Gonzalez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Martinez‐Picado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Velasco‐Hernandez</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Salgado</surname>
+</string-name>, “<article-title>Opportunities for CAR‐T Cell Immunotherapy in HIV Cure</article-title>,” <source>Viruses</source>
+<volume>15</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>789</fpage>.<pub-id pub-id-type="pmid">36992496</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/v15030789</pub-id><pub-id pub-id-type="pmcid">PMC10057306</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jmv70853-cit-0002">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Anthony‐Gonda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Orentas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Dropulic</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Goldstein</surname>
+</string-name>, “<article-title>Generation of Anti‐HIV CAR‐T Cells for Preclinical Research</article-title>,” <source>Methods in Molecular Biology</source>
+<volume>2807</volume> (<year>2024</year>): <fpage>287</fpage>–<lpage>298</lpage>.<pub-id pub-id-type="pmid">38743236</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-0716-3862-0_20</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmv70853-cit-0003">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Carvalho</surname>
+</string-name>, “<article-title>First Two Patients Receive CAR T Cell Therapy for HIV</article-title>,” <source>Nature Medicine</source>
+<volume>29</volume>, no. <issue>6</issue> (<year>2023</year>): <fpage>1290</fpage>–<lpage>1291</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/d41591-023-00042-6</pub-id><pub-id pub-id-type="pmid">37161063</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmv70853-cit-0004">
+<string-name name-style="western">
+<given-names>V. P.</given-names>
+<surname>Veeraraghavan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Needamangalam Balaji</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Prakash</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Prashar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Mony</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Surapaneni</surname>
+</string-name>, “<article-title>HIV and Immunotherapy: Will CAR‐T Cell Therapy Cure HIV?</article-title>,” <source>International Journal of Surgery</source>
+<volume>109</volume>, no. <issue>10</issue> (<year>2023</year>): <fpage>3224</fpage>–<lpage>3225</lpage>.<pub-id pub-id-type="pmid">37318866</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/JS9.0000000000000556</pub-id><pub-id pub-id-type="pmcid">PMC10583899</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jmv70853-cit-0005">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mueller</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Goldstein</surname>
+</string-name>, “<article-title>Recent Advances on Anti‐HIV Chimeric Antigen Receptor‐T‐Cell Treatment to Provide Sustained HIV Remission</article-title>,” <source>Current Opinion in HIV and AIDS</source>
+<volume>19</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>169</fpage>–<lpage>178</lpage>.<pub-id pub-id-type="pmid">38695148</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/COH.0000000000000858</pub-id><pub-id pub-id-type="pmcid">PMC11981014</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jmv70853-cit-0006">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>York</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Gowrishankar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Micklethwaite</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Palmer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Cunningham</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Nasr</surname>
+</string-name>, “<article-title>Evolving Strategies to Eliminate the CD4 T Cells HIV Viral Reservoir via CAR T Cell Immunotherapy</article-title>,” <source>Frontiers in Immunology</source>
+<volume>13</volume> (<year>2022</year>): <elocation-id>873701</elocation-id>.<pub-id pub-id-type="pmid">35572509</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2022.873701</pub-id><pub-id pub-id-type="pmcid">PMC9098815</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmv70853-cit-0007">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Jiang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, “<article-title>Advances in Developing CAR T‐Cell Therapy for HIV Cure</article-title>,” <source>Frontiers in Immunology</source>
+<volume>11</volume> (<year>2020</year>): <fpage>361</fpage>.<pub-id pub-id-type="pmid">32210965</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2020.00361</pub-id><pub-id pub-id-type="pmcid">PMC7076163</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmv70853-cit-0008">
+<string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Maldini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. T.</given-names>
+<surname>Claiborne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Okawa</surname>
+</string-name>, et al., “<article-title>Dual CD4‐based CAR T Cells With Distinct Costimulatory Domains Mitigate HIV Pathogenesis In Vivo</article-title>,” <source>Nature Medicine</source>
+<volume>26</volume>, no. <issue>11</issue> (<year>2020</year>): <fpage>1776</fpage>–<lpage>1787</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-020-1039-5</pub-id><pub-id pub-id-type="pmcid">PMC9422086</pub-id><pub-id pub-id-type="pmid">32868878</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmv70853-cit-0009">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Patel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. H.</given-names>
+<surname>Ghanem</surname>
+</string-name>, et al., “<article-title>Novel CD4‐Based Bispecific Chimeric Antigen Receptor Designed for Enhanced Anti‐HIV Potency and Absence of HIV Entry Receptor Activity</article-title>,” <source>Journal of Virology</source>
+<volume>89</volume>, no. <issue>13</issue> (<year>2015</year>): <fpage>6685</fpage>–<lpage>6694</lpage>.<pub-id pub-id-type="pmid">25878112</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/JVI.00474-15</pub-id><pub-id pub-id-type="pmcid">PMC4468509</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmv70853-cit-0010">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Xia</surname>
+</string-name>, et al., “<article-title>Broadly Neutralizing Antibody‐Derived CAR T Cells Reduce Viral Reservoir in Individuals Infected With HIV‐1</article-title>,” <source>Journal of Clinical Investigation</source>
+<volume>131</volume>, no. <issue>19</issue> (<year>2021</year>): <elocation-id>e150211</elocation-id>.<pub-id pub-id-type="pmid">34375315</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI150211</pub-id><pub-id pub-id-type="pmcid">PMC8483761</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmv70853-cit-0011">
+<string-name name-style="western">
+<given-names>R. T.</given-names>
+<surname>Mitsuyasu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Anton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Deeks</surname>
+</string-name>, et al., “<article-title>Prolonged Survival and Tissue Trafficking Following Adoptive Transfer of CD4zeta Gene‐Modified Autologous CD4(<sup>+</sup>) and CD8(<sup>+</sup>) T Cells in Human Immunodeficiency Virus‐Infected Subjects</article-title>,” <source>Blood</source>
+<volume>96</volume>, no. <issue>3</issue> (<year>2000</year>): <fpage>785</fpage>–<lpage>793</lpage>.<pub-id pub-id-type="pmid">10910888</pub-id>
+</mixed-citation></ref><ref id="jmv70853-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmv70853-cit-0012">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Scholler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Brady</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Binder‐Scholl</surname>
+</string-name>, et al., “<article-title>Decade‐Long Safety and Function of Retroviral‐Modified Chimeric Antigen Receptor T Cells</article-title>,” <source>Science Translational Medicine</source>
+<volume>4</volume>, no. <issue>132</issue> (<year>2012</year>): <fpage>132ra53</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.3003761</pub-id><pub-id pub-id-type="pmcid">PMC4368443</pub-id><pub-id pub-id-type="pmid">22553251</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmv70853-cit-0013">
+<string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Walker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Bechtel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Natarajan</surname>
+</string-name>, et al., “<article-title>Long‐Term In Vivo Survival of Receptor‐Modified Syngeneic T Cells in Patients With Human Immunodeficiency Virus Infection</article-title>,” <source>Blood</source>
+<volume>96</volume>, no. <issue>2</issue> (<year>2000</year>): <fpage>467</fpage>–<lpage>474</lpage>.<pub-id pub-id-type="pmid">10887107</pub-id>
+</mixed-citation></ref><ref id="jmv70853-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmv70853-cit-0014">
+<string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Okoye</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Picker</surname>
+</string-name>, “<article-title>CD4(<sup>+</sup>) T‐Cell Depletion in HIV Infection: Mechanisms of Immunological Failure</article-title>,” <source>Immunological Reviews</source>
+<volume>254</volume>, no. <issue>1</issue> (<year>2013</year>): <fpage>54</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">23772614</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/imr.12066</pub-id><pub-id pub-id-type="pmcid">PMC3729334</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmv70853-cit-0015">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Cerutti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. V.</given-names>
+<surname>Mendelow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. B.</given-names>
+<surname>Napier</surname>
+</string-name>, et al., “<article-title>Stabilization of HIV‐1 gp120‐CD4 Receptor Complex Through Targeted Interchain Disulfide Exchange</article-title>,” <source>Journal of Biological Chemistry</source>
+<volume>285</volume>, no. <issue>33</issue> (<year>2010</year>): <fpage>25743</fpage>–<lpage>25752</lpage>.<pub-id pub-id-type="pmid">20538591</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M110.144121</pub-id><pub-id pub-id-type="pmcid">PMC2919137</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmv70853-cit-0016">
+<string-name name-style="western">
+<given-names>T. K.</given-names>
+<surname>Hart</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Kirsh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ellens</surname>
+</string-name>, et al., “<article-title>Binding of Soluble CD4 Proteins to Human Immunodeficiency Virus Type 1 and Infected Cells Induces Release of Envelope Glycoprotein gp120</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>88</volume>, no. <issue>6</issue> (<year>1991</year>): <fpage>2189</fpage>–<lpage>2193</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.88.6.2189</pub-id><pub-id pub-id-type="pmcid">PMC51195</pub-id><pub-id pub-id-type="pmid">2006155</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jmv70853-cit-0017">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Nunoya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Masuda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Ye</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Su</surname>
+</string-name>, “<article-title>Chimeric Antigen Receptor T Cell Bearing Herpes Virus Entry Mediator Co‐Stimulatory Signal Domain Exhibits High Functional Potency</article-title>,” <source>Molecular Therapy— Oncolytics</source>
+<volume>14</volume> (<year>2019</year>): <fpage>27</fpage>–<lpage>37</lpage>.<pub-id pub-id-type="pmid">31011630</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.omto.2019.03.002</pub-id><pub-id pub-id-type="pmcid">PMC6463745</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmv70853-cit-0018">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Nunoya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Imuta</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Masuda</surname>
+</string-name>, “<article-title>Chimeric Antigen Receptor T Cell Bearing Herpes Virus Entry Mediator Co‐Stimulatory Signal Domain Exhibits Exhaustion‐Resistant Properties</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>25</volume>, no. <issue>16</issue> (<year>2024</year>): <fpage>8662</fpage>.<pub-id pub-id-type="pmid">39201348</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms25168662</pub-id><pub-id pub-id-type="pmcid">PMC11354286</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jmv70853-cit-0019">
+<string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Kovacs</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Noeldeke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. J.</given-names>
+<surname>Ha</surname>
+</string-name>, et al., “<article-title>Stable, Uncleaved HIV‐1 Envelope Glycoprotein gp140 Forms a Tightly Folded Trimer With a Native‐Like Structure</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>111</volume>, no. <issue>52</issue> (<year>2014</year>): <fpage>18542</fpage>–<lpage>18547</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1422269112</pub-id><pub-id pub-id-type="pmcid">PMC4284565</pub-id><pub-id pub-id-type="pmid">25512514</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jmv70853-cit-0020">
+<string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Kovacs</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Nkolola</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Peng</surname>
+</string-name>, et al., “<article-title>HIV‐1 Envelope Trimer Elicits More Potent Neutralizing Antibody Responses Than Monomeric gp120</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>109</volume>, no. <issue>30</issue> (<year>2012</year>): <fpage>12111</fpage>–<lpage>12116</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1204533109</pub-id><pub-id pub-id-type="pmcid">PMC3409750</pub-id><pub-id pub-id-type="pmid">22773820</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jmv70853-cit-0021">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, et al., “<article-title>Trogocytosis of CAR Molecule Regulates CAR‐T Cell Dysfunction and Tumor Antigen Escape</article-title>,” <source>Signal Transduction and Targeted Therapy</source>
+<volume>8</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>457</fpage>.<pub-id pub-id-type="pmid">38143263</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41392-023-01708-w</pub-id><pub-id pub-id-type="pmcid">PMC10749292</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jmv70853-cit-0022">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Lu</surname>
+</string-name>, et al., “<article-title>Herpes Virus Entry Mediator Costimulation Signaling Enhances CAR T‐Cell Efficacy Against Solid Tumors Through Metabolic Reprogramming</article-title>,” <source>Cancer Immunology Research</source>
+<volume>11</volume>, no. <issue>4</issue> (<year>2023</year>): <fpage>515</fpage>–<lpage>529</lpage>.<pub-id pub-id-type="pmid">36689620</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2326-6066.CIR-22-0531</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jmv70853-cit-0023">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Salgado</surname>
+</string-name>, “<article-title>CAR‐T Cell Therapy for HIV Cure</article-title>,” <source>Viruses</source>
+<volume>15</volume>, no. <issue>9</issue> (<year>2023</year>): <fpage>1793</fpage>.<pub-id pub-id-type="pmid">37766199</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/v15091793</pub-id><pub-id pub-id-type="pmcid">PMC10536808</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jmv70853-cit-0024">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Mao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, et al., “<article-title>Efficacy and Safety of Novel Multifunctional M10 CAR‐T Cells in HIV‐1‐Infected Patients: A Phase I, Multicenter, Single‐Arm, Open‐Label Study</article-title>,” <source>Cell Discovery</source>
+<volume>10</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>49</fpage>.<pub-id pub-id-type="pmid">38740803</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41421-024-00658-z</pub-id><pub-id pub-id-type="pmcid">PMC11091177</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jmv70853-cit-0025">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Anthony‐Gonda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bardhi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ray</surname>
+</string-name>, et al., “<article-title>Multispecific Anti‐HIV DuoCAR‐T Cells Display Broad in Vitro Antiviral Activity and Potent In Vivo Elimination of HIV‐Infected Cells in a Humanized Mouse Model</article-title>,” <source>Science Translational Medicine</source>
+<volume>11</volume>, no. <issue>504</issue> (<year>2019</year>): <elocation-id>eaav5685</elocation-id>.<pub-id pub-id-type="pmid">31391322</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.aav5685</pub-id><pub-id pub-id-type="pmcid">PMC7136029</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jmv70853-cit-0026">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Jadlowsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Baiduc</surname>
+</string-name>, et al., “<article-title>Chimeric Antigen Receptors Enable Superior Control of HIV Replication by Rapidly Killing Infected Cells</article-title>,” <source>PLoS Pathogens</source>
+<volume>19</volume>, no. <issue>12</issue> (<year>2023</year>): <elocation-id>e1011853</elocation-id>.<pub-id pub-id-type="pmid">38100526</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.ppat.1011853</pub-id><pub-id pub-id-type="pmcid">PMC10773964</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jmv70853-cit-0027">
+<string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Maldini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Gayout</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. S.</given-names>
+<surname>Leibman</surname>
+</string-name>, et al., “<article-title>HIV‐Resistant and HIV‐Specific CAR‐Modified CD4(<sup>+</sup>) T Cells Mitigate HIV Disease Progression and Confer CD4(<sup>+</sup>) T Cell Help In Vivo</article-title>,” <source>Molecular Therapy</source>
+<volume>28</volume>, no. <issue>7</issue> (<year>2020</year>): <fpage>1585</fpage>–<lpage>1599</lpage>.<pub-id pub-id-type="pmid">32454027</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ymthe.2020.05.012</pub-id><pub-id pub-id-type="pmcid">PMC7335752</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jmv70853-cit-0028">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Ren</surname>
+</string-name>, et al., “<article-title>Phase Separation of Chimeric Antigen Receptor Promotes Immunological Synapse Maturation and Persistent Cytotoxicity</article-title>,” <source>Immunity</source>
+<volume>57</volume>, no. <issue>12</issue> (<year>2024</year>): <fpage>2755</fpage>–<lpage>2771.e8</lpage>.<pub-id pub-id-type="pmid">39609126</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2024.11.005</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jmv70853-cit-0029">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mazinani</surname>
+</string-name> and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Rahbarizadeh</surname>
+</string-name>, “<article-title>CAR‐T Cell Potency: From Structural Elements to Vector Backbone Components</article-title>,” <source>Biomarker Research</source>
+<volume>10</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>70</fpage>.<pub-id pub-id-type="pmid">36123710</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40364-022-00417-w</pub-id><pub-id pub-id-type="pmcid">PMC9487061</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jmv70853-cit-0030">
+<string-name name-style="western">
+<given-names>F. H.</given-names>
+<surname>Rothemejer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. P.</given-names>
+<surname>Lauritsen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Juhl</surname>
+</string-name>, et al., “<article-title>Development of HIV‐Resistant CAR T Cells by CRISPR/CAS‐Mediated CAR Integration into the CCR5 Locus</article-title>,” <source>Viruses</source>
+<volume>15</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>202</fpage>.<pub-id pub-id-type="pmid">36680242</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/v15010202</pub-id><pub-id pub-id-type="pmcid">PMC9862650</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jmv70853-cit-0031">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Zhen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Carrillo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Mu</surname>
+</string-name>, et al., “<article-title>Robust CAR‐T Memory Formation and Function via Hematopoietic Stem Cell Delivery</article-title>,” <source>PLoS Pathogens</source>
+<volume>17</volume>, no. <issue>4</issue> (<year>2021</year>): <elocation-id>e1009404</elocation-id>.<pub-id pub-id-type="pmid">33793675</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.ppat.1009404</pub-id><pub-id pub-id-type="pmcid">PMC8016106</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jmv70853-cit-0032">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hamieh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dobrin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Cabriolu</surname>
+</string-name>, et al., “<article-title>CAR T Cell Trogocytosis and Cooperative Killing Regulate Tumour Antigen Escape</article-title>,” <source>Nature</source>
+<volume>568</volume>, no. <issue>7750</issue> (<year>2019</year>): <fpage>112</fpage>–<lpage>116</lpage>.<pub-id pub-id-type="pmid">30918399</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-019-1054-1</pub-id><pub-id pub-id-type="pmcid">PMC6707377</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jmv70853-cit-0033">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Ramezani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Panahi Meymandi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Akbari</surname>
+</string-name>, et al., “<article-title>Outsmarting Trogocytosis to Boost CAR NK/T Cell Therapy</article-title>,” <source>Molecular Cancer</source>
+<volume>22</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>183</fpage>.<pub-id pub-id-type="pmid">37974170</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12943-023-01894-9</pub-id><pub-id pub-id-type="pmcid">PMC10652537</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jmv70853-cit-0034">
+<string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Olson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. R. V.</given-names>
+<surname>Mause</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. V.</given-names>
+<surname>Radhakrishnan</surname>
+</string-name>, et al., “<article-title>Low‐Affinity CAR T Cells Exhibit Reduced Trogocytosis, Preventing Rapid Antigen Loss, and Increasing CAR T Cell Expansion</article-title>,” <source>Leukemia</source>
+<volume>36</volume>, no. <issue>7</issue> (<year>2022</year>): <fpage>1943</fpage>–<lpage>1946</lpage>.<pub-id pub-id-type="pmid">35490197</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41375-022-01585-2</pub-id><pub-id pub-id-type="pmcid">PMC9252916</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jmv70853-cit-0035">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Mao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Kong</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>He</surname>
+</string-name>, “<article-title>The Affinity of Antigen‐Binding Domain on the Antitumor Efficacy of CAR T Cells: Moderate Is Better</article-title>,” <source>Frontiers in Immunology</source>
+<volume>13</volume> (<year>2022</year>): <elocation-id>1032403</elocation-id>.<pub-id pub-id-type="pmid">36325345</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2022.1032403</pub-id><pub-id pub-id-type="pmcid">PMC9618871</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jmv70853-cit-0036">
+<string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Selli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Landmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Terekhova</surname>
+</string-name>, et al., “<article-title>Costimulatory Domains Direct Distinct Fates of CAR‐Driven T‐Cell Dysfunction</article-title>,” <source>Blood</source>
+<volume>141</volume>, no. <issue>26</issue> (<year>2023</year>): <fpage>3153</fpage>–<lpage>3165</lpage>.<pub-id pub-id-type="pmid">37130030</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2023020100</pub-id><pub-id pub-id-type="pmcid">PMC10356580</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jmv70853-cit-0037">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xiao</surname>
+</string-name>, “<article-title>CAR‐T Cell Therapy in Multiple Myeloma: Current Limitations and Potential Strategies</article-title>,” <source>Frontiers in Immunology</source>
+<volume>14</volume> (<year>2023</year>): <elocation-id>1101495</elocation-id>.<pub-id pub-id-type="pmid">36891310</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2023.1101495</pub-id><pub-id pub-id-type="pmcid">PMC9986336</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jmv70853-cit-0038">
+<string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Sterner</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Sterner</surname>
+</string-name>, “<article-title>CAR‐T Cell Therapy: Current Limitations and Potential Strategies</article-title>,” <source>Blood Cancer Journal</source>
+<volume>11</volume>, no. <issue>4</issue> (<year>2021</year>): <fpage>69</fpage>.<pub-id pub-id-type="pmid">33824268</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41408-021-00459-7</pub-id><pub-id pub-id-type="pmcid">PMC8024391</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jmv70853-cit-0039">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Smith</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Shen</surname>
+</string-name>, “<article-title>Complexities in Comparing the Impact of Costimulatory Domains on Approved CD19 CAR Functionality</article-title>,” <source>Journal of Translational Medicine</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>515</fpage>.<pub-id pub-id-type="pmid">37518011</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12967-023-04372-4</pub-id><pub-id pub-id-type="pmcid">PMC10387212</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jmv70853-cit-0040">
+<string-name name-style="western">
+<given-names>E. K.</given-names>
+<surname>Cartwright</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Pampusch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Rendahl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Berger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Coleman‐Fuller</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Skinner</surname>
+</string-name>, “<article-title>HIV‐Specific CAR T Cells With CD28 or 4‐1BB Signaling Domains Are Phenotypically and Functionally Distinct and Effective at Suppressing HIV and Simian Immunodeficiency Virus</article-title>,” <source>Immunohorizons</source>
+<volume>6</volume>, no. <issue>10</issue> (<year>2022</year>): <fpage>693</fpage>–<lpage>704</lpage>.<pub-id pub-id-type="pmid">36220186</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/immunohorizons.2200073</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jmv70853-cit-0041">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Nunoya</surname>
+</string-name>, et al., “<article-title>Plasmacytoid Dendritic Cells Suppress HIV‐1 Replication but Contribute to HIV‐1 Induced Immunopathogenesis in Humanized Mice</article-title>,” <source>PLoS Pathogens</source>
+<volume>10</volume>, no. <issue>7</issue> (<year>2014</year>): <elocation-id>e1004291</elocation-id>.<pub-id pub-id-type="pmid">25077616</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.ppat.1004291</pub-id><pub-id pub-id-type="pmcid">PMC4117636</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jmv70853-cit-0042">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pirounaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. A.</given-names>
+<surname>Vander Heyden</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Arens</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Ratner</surname>
+</string-name>, “<article-title>Rapid Phenotypic Drug Susceptibility Assay for HIV‐1 With a CCR5 Expressing Indicator Cell Line</article-title>,” <source>Journal of Virological Methods</source>
+<volume>85</volume>, no. <issue>1–2</issue> (<year>2000</year>): <fpage>151</fpage>–<lpage>161</lpage>.<pub-id pub-id-type="pmid">10716348</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0166-0934(99)00163-9</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jmv70853-cit-0043">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kimpton</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Emerman</surname>
+</string-name>, “<article-title>Detection of Replication‐Competent and Pseudotyped Human Immunodeficiency Virus With a Sensitive Cell Line on the Basis of Activation of an Integrated Beta‐Galactosidase Gene</article-title>,” <source>Journal of Virology</source>
+<volume>66</volume>, no. <issue>4</issue> (<year>1992</year>): <fpage>2232</fpage>–<lpage>2239</lpage>.<pub-id pub-id-type="pmid">1548759</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/jvi.66.4.2232-2239.1992</pub-id><pub-id pub-id-type="pmcid">PMC289016</pub-id></mixed-citation></ref><ref id="jmv70853-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jmv70853-cit-0044">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, et al., “<article-title>Blocking Type I Interferon Signaling Enhances T Cell Recovery and Reduces HIV‐1 Reservoirs</article-title>,” <source>Journal of Clinical Investigation</source>
+<volume>127</volume>, no. <issue>1</issue> (<year>2017</year>): <fpage>269</fpage>–<lpage>279</lpage>.<pub-id pub-id-type="pmid">27941247</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI90745</pub-id><pub-id pub-id-type="pmcid">PMC5199717</pub-id></mixed-citation></ref></ref-list></back></article>

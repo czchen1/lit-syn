@@ -1,0 +1,860 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="psp413073" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">CPT Pharmacometrics Syst Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">CPT Pharmacometrics Syst Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">2038</journal-id><journal-id journal-id-type="pmc-domain">cptpsp</journal-id><journal-id journal-id-type="nlm-id">101580011</journal-id><journal-id journal-id-type="publisher-id">PSP4</journal-id><journal-title-group><journal-title>CPT: Pharmacometrics &amp; Systems Pharmacology</journal-title></journal-title-group><issn pub-type="epub">2163-8306</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10864933</article-id><article-id pub-id-type="pmcid-ver">PMC10864933.1</article-id><article-id pub-id-type="pmcaid">10864933</article-id><article-id pub-id-type="pmcaiid">10864933</article-id><article-id pub-id-type="pmid">38050329</article-id><article-id pub-id-type="doi">10.1002/psp4.13073</article-id><article-id pub-id-type="publisher-id">PSP413073</article-id><article-id pub-id-type="other">PSP-2023-0179</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Assessment of CYP3A‐mediated drug interaction via cytokine (IL‐6) elevation for mosunetuzumab using physiologically‐based pharmacokinetic modeling</article-title><alt-title alt-title-type="right-running-head">PBPK Modeling of Cytokine DDI for Mosunetuzumab</alt-title><alt-title alt-title-type="left-running-head">Chen et al.</alt-title></title-group><contrib-group><contrib id="psp413073-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Chen</surname><given-names initials="Y">Yuan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5106-0658</contrib-id><xref rid="psp413073-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>chen.yuan@gene.com</email><email>lic68@gene.com</email></address></contrib><contrib id="psp413073-cr-0002" contrib-type="author"><name name-style="western"><surname>Ma</surname><given-names initials="F">Fang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0000-8589-0206</contrib-id><xref rid="psp413073-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="psp413073-cr-0003" contrib-type="author"><name name-style="western"><surname>Jones</surname><given-names initials="N">Nicholas</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8318-0419</contrib-id><xref rid="psp413073-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="psp413073-cr-0004" contrib-type="author"><name name-style="western"><surname>Deng</surname><given-names initials="R">Rong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2005-7517</contrib-id><xref rid="psp413073-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp413073-cr-0005" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="C">Chunze</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8906-6553</contrib-id><xref rid="psp413073-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp413073-cr-0006" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="CC">Chi‐Chung</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9590-3450</contrib-id><xref rid="psp413073-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="psp413073-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Drug Metabolism and Pharmacokinetics</named-content>
+<institution>Genentech, Inc.</institution>
+<city>South San Francisco</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="psp413073-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Science</named-content>
+<institution>Genentech, Inc.</institution>
+<city>South San Francisco</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="psp413073-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Pharmacology</named-content>
+<institution>Genentech, Inc.</institution>
+<city>South San Francisco</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Yuan Chen and Chi‐Chung Li, 1 DNA Way, South San Francisco, CA 94080, USA.<break/>
+Email: <email>chen.yuan@gene.com</email> and <email>lic68@gene.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2024</year></pub-date><volume>13</volume><issue seq="60">2</issue><issue-id pub-id-type="pmc-issue-id">455826</issue-id><issue-id pub-id-type="doi">10.1002/psp4.v13.2</issue-id><fpage>234</fpage><lpage>246</lpage><history>
+<date date-type="rev-recd"><day>06</day><month>10</month><year>2023</year></date>
+<date date-type="received"><day>01</day><month>9</month><year>2023</year></date>
+<date date-type="accepted"><day>19</day><month>10</month><year>2023</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>04</day><month>12</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>15</day><month>02</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-02-15 00:25:12.480"><day>15</day><month>02</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2023 Genentech. <italic toggle="yes">CPT: Pharmacometrics &amp; Systems Pharmacology</italic> published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PSP4-13-234.pdf"><?pdf-name PSP4-13-234.pdf?><?pdf-size 2929750?><?pdf-md5 1657e99bd7f6a20fd9251077c34f4d1b?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:fc48/10864933/1657e99bd7f6/PSP4-13-234.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PSP4-13-234.pdf"/><abstract><title>Abstract</title><p>Mosunetuzumab is a CD3/CD20 bispecific antibody. As an on‐target effect, transient elevation of interleukin‐6 (IL‐6) occurs in early treatment cycles. A physiologically‐based pharmacokinetic (PBPK) model was developed to assess potential drug interaction caused by IL‐6 enzyme suppression on cytochrome P450 3A (CYP3A) during mosunetuzumab treatment. The model's performance in predicting IL‐6 CYP3A suppression and subsequent drug–drug interactions (DDIs) was verified using existing clinical data of DDIs caused by chronic and transient IL‐6 elevation. Sensitivity analyses were performed for a complete DDI risk assessment. The IL‐6 concentration‐ and time‐dependent CYP3A suppression during mosunetuzumab treatment was simulated using PBPK model with incorporation of in vitro IL‐6 inhibition data. At clinically approved doses/regimens, the DDI at maximum CYP3A suppression was predicted to be a midazolam maximum drug concentration in plasma (C<sub>max</sub>) and area under the plasma drug concentration–time curve (AUC) ratio of 1.17 and 1.37, respectively. At the 95th percentile of IL‐6 concentration level or when gut CYP3A suppression was considered, the predicted DDI risk for mosunetuzumab remained low (&lt;2‐fold). The PBPK‐based DDI predictions informed the mosunetuzumab product label to monitor, in early cycles, the concentrations and toxicities for sensitive CYP3A substrates with narrow therapeutic windows.</p></abstract><counts><fig-count count="4"/><table-count count="3"/><page-count count="13"/><word-count count="7598"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.6 mode:remove_FC converted:14.02.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="PSP413073-cit-2001">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deng</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>C‐C</given-names>
+</string-name>. <article-title>Assessment of CYP3A‐mediated drug interaction via cytokine (IL‐6) elevation for mosunetuzumab using physiologically‐based pharmacokinetic modeling</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2024</year>;<volume>13</volume>:<fpage>234</fpage>‐<lpage>246</lpage>. doi:<pub-id pub-id-type="doi">10.1002/psp4.13073</pub-id>
+<pub-id pub-id-type="pmcid">PMC10864933</pub-id><pub-id pub-id-type="pmid">38050329</pub-id></mixed-citation>
+</p></notes></front><body id="psp413073-body-0001"><p>
+<boxed-text position="anchor" content-type="box" orientation="portrait"><caption><title>Study Highlights</title></caption><p>
+<list list-type="simple" id="psp413073-list-0001"><list-item id="psp413073-li-0001"><p>
+<bold>WHAT IS THE CURRENT KNOWLEDGE ON THE TOPIC?</bold>
+</p></list-item></list>
+</p><p>Therapeutic protein drug interactions (TP‐DIs) could occur due to TP treatment‐related cytokine level changes. Even though clinically significant TP‐DI is rare, assessment of drug‐drug interaction (DDI) risk for TPs has been recommended by health authorities (HAs), and quantitative prediction is expected in support of dose justification and labeling.
+<list list-type="simple" id="psp413073-list-0002"><list-item id="psp413073-li-0002"><p>
+<bold>WHAT QUESTION DID THIS STUDY ADDRESS?</bold>
+</p></list-item></list>
+</p><p>Can a physiologically‐based pharmacokinetic (PBPK) modeling approach be used with confidence in predicting the magnitude of DDIs caused by transient elevation of cytokine (i.e., IL‐6), and, in appropriate cases, to supplement clinical study and inform dose justification and/or labeling?
+<list list-type="simple" id="psp413073-list-0003"><list-item id="psp413073-li-0003"><p>
+<bold>WHAT DOES THIS STUDY ADD TO OUR KNOWLEDGE?</bold>
+</p></list-item></list>
+</p><p>IL‐6 can markedly increase as an on‐target effect of bispecific antibody treatment (i.e., mosunetuzumab). However, significant DDIs are unlikely, especially with the step‐up dose regimen. The PBPK model, verified using existing clinical data, predicted that transient IL‐6 elevation observed during mosunetuzumab treatment has a low DDI potential.
+<list list-type="simple" id="psp413073-list-0004"><list-item id="psp413073-li-0004"><p>
+<bold>HOW MIGHT THIS CHANGE DRUG DISCOVERY, DEVELOPMENT, AND/OR THERAPEUTICS?</bold>
+</p></list-item></list>
+</p><p>This study demonstrated that mechanistic understanding of clinical TP‐DI data through PBPK modeling could provide adequate confidence in the prediction of TP‐DI for similar scenarios and can be used to replace complex clinical studies that provide limited value.</p></boxed-text>
+</p><sec id="psp413073-sec-0003"><title>INTRODUCTION</title><p>Mosunetuzumab is a full length, humanized IgG1, CD3/CD20 bispecific antibody approved for the treatment of patients with relapsed or refractory (R/R) follicular lymphoma (FL) who have received at least two prior systemic therapies (R/R FL ≥2 prior therapies).<xref rid="psp413073-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Mosunetuzumab is a conditional agonist; target B cell killing is observed only upon simultaneous binding to CD20 on B cells and CD3 on T cells.<xref rid="psp413073-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Formation of an immunologic synapse between a target B cell and a cytotoxic T cell results in T cell activation and T‐cell mediated B‐cell cytolysis in a dose‐dependent manner.</p><p>The activation of T cells leads to a cascade of immune activation and release of various pro‐inflammatory cytokines.<xref rid="psp413073-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> In clinical studies, the clinical dose of mosunetuzumab was administered intravenously in 21‐day cycles with cycle 1 step‐up dosing implemented: 1 mg on cycle 1 day 1, 2 mg on cycle 1 day 8, 60 mg on cycle 1 day 15 and cycle 2 day 1, and 30 mg on day 1 of cycle 3, and onward (i.e., C1D1/8/15/C2D1/C3D1, 1/2/60/30 mg). The step‐up dosing regimen reduced the magnitude of peak cytokine levels and resulted in restricted transient elevation of peripheral cytokine levels to predominantly a first‐cycle effect. Minimal modulations were observed in later cycles of mosunetuzumab treatment. The step‐up regimen was also associated with tolerable safety profiles and an effective safety mitigation for clinical cytokine release syndrome.<xref rid="psp413073-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="psp413073-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="psp413073-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>Although drug–drug interactions (DDIs) are not expected for a monoclonal antibody, such as mosunetuzumab,<xref rid="psp413073-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> the transiently elevated cytokine levels following mosunetuzumab treatment could indirectly cause DDIs. In vitro studies show that cytokines can downregulate cytochrome P450 (CYP) gene expression and suppress CYP enzymatic activity.<xref rid="psp413073-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="psp413073-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="psp413073-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="psp413073-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="psp413073-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Available human data has shown pharmacokinetic (PK) changes of small molecule drugs when co‐administered with cytokine or cytokine‐modulating therapeutic proteins (TPs), suggesting cytokines affect drug metabolism via CYP‐mediated DDIs.<xref rid="psp413073-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="psp413073-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="psp413073-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="psp413073-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="psp413073-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Existing data indicated that CYP3A appears to be most sensitive to cytokine‐mediated enzyme suppression, and IL‐6 is the most potent CYP3A suppressor.<xref rid="psp413073-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="psp413073-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="psp413073-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="psp413073-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="psp413073-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="psp413073-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="psp413073-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="psp413073-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> In a recent commentary, Chen et al. summarized currently available data, compared relative suppressive potential of various cytokines in reference to IL‐6, and reiterated the role of IL‐6 and CYP3A enzyme suppression in causing potential clinical DDIs.<xref rid="psp413073-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> In our study, other than IL‐6, mosunetuzumab does not meaningfully elevate the systemic level of other pro‐inflammatory cytokines, such as IFN‐, IL‐2, and TNF. Therefore, it is necessary to assess potential CYP3A DDI risks caused by pharmacologically driven IL‐6 elevation as a result of mosunetuzumab treatment in humans.</p><p>Clinical studies to assess pharmacologically driven cytokine – CYP drug interactions are not straightforward, and unnecessary in all cases based on existing clinical data as the observed DDI<sub>s</sub> are mostly within two‐fold.<xref rid="psp413073-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="psp413073-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="psp413073-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Physiologically‐based pharmacokinetic (PBPK) modeling approaches have been considered to assess DDI risk in place of clinical studies. Therapeutic protein drug interactions (TP‐DIs) can occur in two opposite directions. During anti‐inflammatory drug treatment, a decrease of cytokines from chronically elevated levels (i.e., IL‐6 ~50–100 pg/mL) in patients with rheumatoid arthritis (RA) can result in an induction effect on CYP3A enzyme (IL‐6 acts as a “CYP inducer”). PBPK modeling has been used retrospectively to describe these clinically observed TP‐DIs.<xref rid="psp413073-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="psp413073-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="psp413073-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Conversely, rapid increases of cytokine levels (i.e., IL‐6 peak level ~1000–10,000 pg/mL) caused by T‐cell activation during bispecific antibody treatment can suppress CYP3A enzyme activity (IL‐6 acts as a “CYP inhibitor”). Xu et al.<xref rid="psp413073-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> used PBPK modeling to evaluate the effect of transient IL‐6 elevation during blinatumomab treatment on CYP3A activities and concluded that transient IL‐6 elevation has a low DDI potential. In addition, Lenoir et al. reported DDI caused by transiently raised IL‐6 levels in hip surgery patients,<xref rid="psp413073-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> and Stader et al.<xref rid="psp413073-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> described the observed DDI in patients with coronavirus disease 2019 (COVID‐19) via PBPK modeling.</p><p>The current study aims to develop a PBPK modeling approach to predict the potential of non‐disease mediated, treatment‐related drug interactions for mosunetuzumab in support of regulatory filings and provide an appropriate risk mitigation strategy. The present work contains model development, verification, and sensitivity analysis, as well as additional assessments in response to comments from regulatory agencies. It includes: (1) simulation of transient IL‐6 elevation induced by mosunetuzumab administration; (2) verification of the model's ability to predict the effect of IL‐6 on CYP3A activity and its extrapolation from the existing clinical data; (3) prediction of the magnitude of DDIs between mosunetuzumab and sensitive CYP3A substrates at the clinical dose/regimen; and (4) sensitivity and scenario simulations for a complete DDI risk assessment to support concomitant medication strategy and label language.</p></sec><sec sec-type="methods" id="psp413073-sec-0004"><title>METHODS</title><p>Simcyp population‐based ADME simulator (version 17; Certara UK Limited, Simcyp Division) was used to construct the IL‐6 PBPK model and perform the PK and DDI simulations. The overall approach for PBPK model development, verification, and application to assess CYP3A mediated DDI caused by IL‐6 elevation during mosunetuzumab treatment is shown in Figure <xref rid="psp413073-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="psp413073-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Scheme of IL‐6 PBPK model development, verification, and application. CL, clearance; CYP3A, cytochrome P4503A; DDI, drug–drug interaction; IL‐6, interleukin‐6; IV, intravenous; PBPK, physiologically‐based pharmacokinetics; <italic toggle="yes">V</italic>
+<sub>ss</sub>, volume of distribution at steady‐state.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PSP4-13-234-g001.jpg"><?image-name PSP4-13-234-g001.jpg?><?image-size 62238?><?image-md5 8e88ba5707515d0e0285bb32ba546b6f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 503?><?image-original-width 1064?><?image-scaled-height 335?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/fc48/10864933/8e88ba570751/PSP4-13-234-g001.jpg?><?thumb-name PSP4-13-234-g001.gif?><?thumb-size 4919?><?thumb-md5 353a05beb39dbf61f4613ff8e468e278?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 169?><?thumb-cloudpmc-urn urn:cdn:blobs/fc48/10864933/353a05beb39d/PSP4-13-234-g001.gif?></graphic></fig><sec id="psp413073-sec-0005"><title>Mosunetuzumab clinical study</title><p>In study GO29781 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02500407">NCT02500407</ext-link>), a phase I/II, open‐label, multicenter dose‐escalation and expansion study of mosunetuzumab in patients with R/R non‐Hodgkin's lymphoma, the intended single agent registration dose of mosunetuzumab was administered at the dose of 1/2/60/30 mg (C1D1/8/15/C2D1/C3D1). Circulating plasma IL‐6 levels were determined in 212 patients from the B11 dose expansion cohorts using an enzyme linked immunosorbent assay (Appendix <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="psp413073-sec-0006"><title>
+<styled-content style="fixed-case" toggle="no">PBPK</styled-content> model development</title><sec id="psp413073-sec-0007"><title>Modeling of <styled-content style="fixed-case" toggle="no">IL</styled-content>‐6 concentration profile</title><p>A PBPK model for IL‐6 was built using a top‐down approach based on previously published work and optimized to best describe IL‐6 elevation during mosunetuzumab treatment.<xref rid="psp413073-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="psp413073-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="psp413073-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="psp413073-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> All model input parameters are presented in Table <xref rid="psp413073-tbl-0001" ref-type="table">1</xref>. The IL‐6 clearance (CL) has been reported in different patients ranging from 0.6 to 24 L/h.<xref rid="psp413073-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="psp413073-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> The value of IL‐6 CL in our model was determined to be 2.8 L/h, at which the clinically observed IL‐6 concentration profile following the i.v. infusion of mosunetuzumab can be best captured. The minimal PBPK distribution model with the estimated volume of distribution at steady state (<italic toggle="yes">V</italic>
+<sub>ss</sub>) of 0.43 L/kg and volume of an additional single adjusting compartment (V<sub>sac</sub>) of 0.05 L/kg allowed the model to best capture the IL‐6 concentration‐time profile observed in the mosunetuzumab clinical study. The IL‐6 CL and <italic toggle="yes">V</italic>
+<sub>ss</sub> used in our model is within the range of reported values. To simulate the IL‐6 concentration profile, the i.v.‐infusion (a zero‐order input rate, mg/h) of different hypothetical doses (mg) was used to model IL‐6 formation following different doses of mosunetuzumab in C1D1/8/15. Beside the dose and infusion time, as well as the percent coefficient of variation (%CV) for CL and <italic toggle="yes">V</italic>
+<sub>ss</sub>, all model parameters presented in Table <xref rid="psp413073-tbl-0001" ref-type="table">1</xref> were used without change in the model verification and application.</p><table-wrap position="float" id="psp413073-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Key input parameters in IL‐6 PBPK model.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Parameters</th><th align="left" valign="bottom" rowspan="1" colspan="1">Value</th><th align="left" valign="bottom" rowspan="1" colspan="1">Method/reference</th><th align="left" valign="bottom" rowspan="1" colspan="1">In model verification</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<italic toggle="yes">Physicochemical properties</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Molecular weight (g/mol)</td><td align="left" valign="top" rowspan="1" colspan="1">21,000</td><td align="left" valign="top" rowspan="1" colspan="1">Recombinant human IL‐6<xref rid="psp413073-note-0008" ref-type="table-fn">
+<sup>g</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Log P</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">Assumed</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Compound type</td><td align="left" valign="top" rowspan="1" colspan="1">Neutral</td><td align="left" valign="top" rowspan="1" colspan="1">Assumed</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">B/P</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">Assumed</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fu</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">Assumed</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<italic toggle="yes">Minimal PBPK distribution model</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">V</italic>
+<sub>ss</sub> (L/kg)</td><td align="left" valign="top" rowspan="1" colspan="1">0.43</td><td align="left" valign="top" rowspan="1" colspan="1">100% CV, to capture variability of observed IL‐6 data<xref rid="psp413073-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Same, 30% CV<xref rid="psp413073-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">V</italic>
+<sub>sac</sub> (L/kg)</td><td align="left" valign="top" rowspan="1" colspan="1">0.05</td><td align="left" valign="top" rowspan="1" colspan="1">Best fit to capture IL‐6 profile</td><td align="left" valign="top" rowspan="1" colspan="1">Not used</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">K</italic>
+<sub>in</sub>/<italic toggle="yes">K</italic>
+<sub>out</sub> (L/h)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">Default (not used)</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<italic toggle="yes">Elimination − Whole organ metabolic clearance</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CL<sub>int</sub> (μL/min/10<sup>6</sup>)<xref rid="psp413073-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.3</td><td align="left" valign="top" rowspan="1" colspan="1">200% CV, to capture variability of observed IL‐6 data<xref rid="psp413073-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Same, 30% CV<xref rid="psp413073-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">f</italic>
+<sub>u,inc</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">Assumed</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CL<sub>R</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">Assumed</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<italic toggle="yes">CYP3A enzyme suppression</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EC<sub>50</sub> (pg/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">43.7</td><td align="left" valign="top" rowspan="1" colspan="1">Geometric mean,<xref rid="psp413073-note-0009" ref-type="table-fn">
+<sup>h</sup>
+</xref>
+<italic toggle="yes">n</italic> = 5</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">E</italic>
+<sub>min</sub> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">21.7</td><td align="left" valign="top" rowspan="1" colspan="1">Geometric mean,<xref rid="psp413073-note-0009" ref-type="table-fn">
+<sup>h</sup>
+</xref>
+<italic toggle="yes">n</italic> = 5</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">f</italic>
+<sub>u,inc</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">Assumed</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<italic toggle="yes">I.v. infusion of IL‐6</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dose (mg)<xref rid="psp413073-note-0004" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.004, 0.0017, 0.011</td><td align="left" rowspan="2" valign="top" colspan="1">Hypothetical dose administration to mimic IL‐6 formation in C1D1, C1D8, C1D15</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>0.0484 (50 pg/mL IL‐6), 0.0968 (100 pg/mL IL‐6)<xref rid="psp413073-note-0005" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</p>
+<p>0.02 (IL‐6 in hip surgery patient)<xref rid="psp413073-note-0006" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Infusion time (h)<xref rid="psp413073-note-0004" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">6, 6, 13</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>21‐day continuous infusion<xref rid="psp413073-note-0005" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</p>
+<p>24‐h infusion<xref rid="psp413073-note-0006" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+</p>
+</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<italic toggle="yes">Enzyme abundance in Simcyp virtual population</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CYP3A4 in liver//gut in HVs (pmol/mg‐protein//nmol/small intestine)</td><td align="left" valign="top" rowspan="1" colspan="1">137//66.2</td><td align="left" valign="top" rowspan="1" colspan="1">Simcyp Library</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CYP3A4 in liver//gut in RA (pmol/mg‐protein//nmol/small intestine)</td><td align="left" valign="top" rowspan="1" colspan="1">82.2/40.0<xref rid="psp413073-note-0007" ref-type="table-fn">
+<sup>f</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Simcyp Library</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CYP3A4 Turnover rate in liver//gut in HV and RA (1/h)</td><td align="left" valign="top" rowspan="1" colspan="1">0.0193//0.03</td><td align="left" valign="top" rowspan="1" colspan="1">Simcyp Library</td><td align="left" valign="top" rowspan="1" colspan="1">Same</td></tr></tbody></table><table-wrap-foot id="psp413073-ntgp-0001"><fn id="psp413073-note-0001"><p>Abbreviations: B/P, blood/plasma partition ratio; CL<sub>int</sub>, in vitro intrinsic clearance; CL<sub>R</sub>, renal clearance; CV, coefficient of variation; CYP, cytochrome P450; EC<sub>50</sub>, half of maximal effective concentration (converted 43.7 pg/mL = 2.08 × 10<sup>−6</sup> μM, and input the value under IndC<sub>50</sub> in the induction tab of the Simcyp simulator); <italic toggle="yes">E</italic>
+<sub>min</sub>, the minimum enzyme activity expressed as a fraction of vehicle control (input the value of 0.217 under Indmax in the induction table of the Simcyp simulator); <italic toggle="yes">f</italic>
+<sub>u</sub>, fraction of unbound drug in plasma; <italic toggle="yes">f</italic>
+<sub>u,inc</sub>, unbound fraction in the in vitro incubation; HV, healthy volunteer; i.v., intravenous; <italic toggle="yes">k</italic>
+<sub>in</sub>, rate constant from the systemic compartment to the single adjusted compartment; <italic toggle="yes">k</italic>
+<sub>out</sub>, rate constant from the single adjusted compartment to the systemic compartment; LogP, octanol–water partition coefficient; PBPK, physiologically‐based pharmacokinetics; PK, pharmacokinetic; RA, rheumatoid arthritis; <italic toggle="yes">V</italic>
+<sub>sac</sub>, volume of the single adjusted compartment; <italic toggle="yes">V</italic>
+<sub>ss</sub>, volume of distribution at steady state.</p><p>The relationship between V<sub>sac</sub> and V<sub>ss</sub> is V<sub>sys</sub> = V<sub>ss</sub> – V<sub>liver</sub> – V<sub>sac</sub> (V<sub>sys</sub> –effective volume of systemic compartment, V<sub>liver</sub> – volume of liver compartment). Varying V<sub>sac</sub> can change V<sub>sys</sub>, therefore helping adjust the simulated concentration profile to match the observed data.</p></fn><fn id="psp413073-note-0002"><label>
+<sup>a</sup>
+</label><p>CL<sub>int</sub> input value of 0.3 μL/min/10<sup>6</sup> was back calculated from CL 2.8 L/h determined using top‐down approach.</p></fn><fn id="psp413073-note-0003"><label>
+<sup>b</sup>
+</label><p>The CV% of CL<sub>int</sub> and <italic toggle="yes">V</italic>
+<sub>ss</sub> were increased from default value of 30% in the model to 200% and 100%, respectively, to capture the 5th and 95th percentile IL‐6 data observed in mosunetuzumab clinical study. In model verification, without changing the default 30% CV, the model can capture the constant IL‐6 level (50 and 100 pg/mL) reported in the clinical study.</p></fn><fn id="psp413073-note-0004"><label>
+<sup>c</sup>
+</label><p>Hypothetical doses of IL‐6 (0.004, 0.0017, 0.011 mg) and infusion time (6, 6, 13 h on days 1, 9, and 15) adjusted to allow a single model simulation to capture the observed IL‐6 concentration profile in cycle 1 after 1/2/60 mg dose of mosunetuzumab. The hypothetical doses of IL‐6 administered to stimulate a higher mean IL‐6 level in the sensitivity analysis in C1D1, C1D8, and C1D15 were 0.0135, 0.007, and 0.045 mg administered as i.v. infusion for 6, 6, and 25 h, respectively.</p></fn><fn id="psp413073-note-0005"><label>
+<sup>d</sup>
+</label><p>Hypothetical doses of IL‐6 at 0.0484 and 0.0968 mg administered as constant i.v. infusion for 21 days to achieve steady state concentration of 50 and 100 pg/mL observed in patients with RA.</p></fn><fn id="psp413073-note-0006"><label>
+<sup>e</sup>
+</label><p>Hypothetical doses of IL‐6 at 0.02 mg administered as constant i.v. infusion for 24 h to achieve the observed IL‐6 concentration in patients who undergo hip surgery.</p></fn><fn id="psp413073-note-0007"><label>
+<sup>f</sup>
+</label><p>The CYP3A enzyme abundance in liver and gut in the RA population were reset to HVs in the model when verifying the model prediction of CYP3A suppression based on in vitro data.</p></fn><fn id="psp413073-note-0008"><label>
+<sup>g</sup>
+</label><p>InvivoGen. Recombinant human IL‐6. 2018 [accessed: August 3, 2023]. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.invivogen.com/human-il6" ext-link-type="uri">https://www.invivogen.com/human‐il6</ext-link>.</p></fn><fn id="psp413073-note-0009"><label>
+<sup>h</sup>
+</label><p>Dickmann LJ, Patel SK, Rock DA, Wienkers LC, Slatter JG. Effects of interleukin‐6 (IL‐6) and an anti‐IL‐6 monoclonal antibody on drug‐metabolizing enzymes in human hepatocyte culture. Drug Metab Dispos 39, 1415–1422 (2011).</p></fn></table-wrap-foot></table-wrap></sec><sec id="psp413073-sec-0008"><title>Modeling of <styled-content style="fixed-case" toggle="no">IL</styled-content>‐6‐mediated <styled-content style="fixed-case" toggle="no">CYP3A</styled-content> enzyme suppression</title><p>To model the IL‐6 suppression effect on CYP3A enzyme, the in vitro inhibition kinetic data, half‐maximal suppression effective concentration of IL‐6 (EC<sub>50</sub>) and minimum CYP3A enzyme activity (<italic toggle="yes">E</italic>
+<sub>min</sub>), were incorporated into the IL‐6 PBPK model.<xref rid="psp413073-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> The geometric mean values of EC<sub>50</sub> (43.7 pg/mL) and <italic toggle="yes">E</italic>
+<sub>min</sub> (21.7%) calculated based on the data published by Dickmann et al.<xref rid="psp413073-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> were input in the model (Appendix <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S1</xref>). In the Simcyp simulator, the IL‐6 suppression of the CYP3A enzyme in the liver is determined according to an equation described by Machavaram et al.,<xref rid="psp413073-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> and the degree of CYP3A enzyme suppression in the gut is assumed similar to that in the liver when the IL‐6 CYP3A effect in the gut is considered (Appendix <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="psp413073-sec-0009"><title>
+<styled-content style="fixed-case" toggle="no">PBPK</styled-content> model for <styled-content style="fixed-case" toggle="no">CYP3A</styled-content> substrates</title><p>The default PBPK models for midazolam and simvastatin in the Simcyp compound library (Simcyp V17) were used without modifications. Key model parameters for midazolam and simvastatin are presented in Tables <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S1</xref> and <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S2</xref>.</p></sec></sec><sec id="psp413073-sec-0010"><title>Verification of model prediction for <styled-content style="fixed-case" toggle="no">IL</styled-content>‐6 mediated <styled-content style="fixed-case" toggle="no">CYP3A DDI</styled-content>
+</title><sec id="psp413073-sec-0011"><title>Clinical data for model verification</title><p>Clinical data for model verification is limited and mostly from studies in RA patients treated with monoclonal antibodies tocilizumab, sarilumab, and sirukumab.<xref rid="psp413073-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="psp413073-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="psp413073-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Chronic elevation of IL‐6 (steady‐state level 50–100 pg/mL) caused by inflammation can suppress CYP3A enzyme activity while blocking IL‐6 with anti‐inflammatory drug treatment can reverse the downregulation and bring the enzyme activity back to baseline level. In the studies with tocilizumab and sarilumab, blockade of IL‐6 resulted in decreases of simvastatin maximum drug concentration in plasma (C<sub>max</sub>) by 1.9–2.6‐fold and area under the plasma drug concentration–time curve (AUC) by 1.8–2.4‐fold (untreated/treated patient with RA). In the sirukumab study, decreases of midazolam C<sub>max</sub> by 1.56‐fold and AUC by 1.45‐fold were reported.</p><p>Lenoir et al.<xref rid="psp413073-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> reported a study in patients with hip surgery (acute inflammation model) and suggested that transient elevation of inflammation markers, including IL‐6, could lead to persistent suppression of CYP3A activity (assessed as metabolite to parent ratios [MRs]), and up to 61% MR decreases for midazolam were observed. Given the similarities of the transient elevation profiles of IL‐6 following mosunetuzumab administration, the data from patients who undergo hip surgery can serve as further model verification in predicting CYP3A suppression caused by transient IL‐6 elevation.</p></sec><sec id="psp413073-sec-0012"><title>Approaches used for model verification</title><p>As the extent of DDI caused by mosunetuzumab treatment depends on two key factors, the IL‐6 concentration and its potency for CYP3A inhibition, our model verification focused on the performance of the IL‐6 model built for mosunetuzumab with incorporation of in vitro IL‐6 inhibition data in predicting IL‐6 mediated CYP3A enzyme suppression and subsequent DDI effect in the clinical studies mentioned above.</p><p>Previous PBPK work described clinical observations successfully by using Simcyp RA population profiles that have decreased CYP3A enzyme activity versus healthy volunteers (HVs) to reflect the disease and treatment effect on IL‐6 levels and subsequent DDI effects.<xref rid="psp413073-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="psp413073-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="psp413073-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> In the Simcyp RA population, the CYP3A enzyme abundance in liver (82.2 pmol/mg‐protein) and gut (40 nmol/small intestine) were set 40% lower than in HVs (137 pmol/mg‐protein and 66.2 nmol/small intestine). To verify that 40% CYP3A suppression in patients with RA can be predicted using our established IL‐6 PBPK model with the in vitro IL‐6 CYP3A inhibition kinetic data, the following approach was applied. First, the CYP3A enzyme abundance in the liver and gut in the RA population was reset to the level of the HV population. The suppression effect of IL‐6 on CYP3A enzyme activity was then predicted using our PBPK model simulated IL‐6 concentrations observed in RA patient (50–100 pg/mL at steady‐state) with incorporated in vitro IL‐6 CYP3A inhibition data (EC<sub>50</sub> 43.7 pg/mL and <italic toggle="yes">E</italic>
+<sub>min</sub> 21.7%). To account for IL‐6 gut effect in patients with RA, in addition to the i.v. infusion of a hypothetical IL‐6 dose to simulate steady‐state IL‐6 concentration, the oral route of administration (with 0 mg IL‐6 given) in the model was also turned on using the custom dose design function. This setting will allow the model simulation to account for the IL‐6 suppression effect on CYP3A in both liver and gut in RA patients.</p><p>The model verification using data from patients who undergo hip surgery was conducted using PBPK model simulated transient IL‐6 evaluation profiles observed in the clinic. In this study, the mean ratio of IL‐6 to baseline levels were reported, whereas baseline levels of IL‐6 were not reported. Using an assumed baseline level of 10 pg/mL (5–10 pg/mL in literature),<xref rid="psp413073-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="psp413073-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="psp413073-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> the mean concentration of IL‐6 in the patients at days 1, 2, and 3 post‐surgery and discharge (days 2–6, mean 4 days) were estimated and used to verify model performance. The CYP3A activity before and after surgery was reported as midazolam metabolite to parent concentration ratio (2 h post‐administration). The estimated percentage of MR changes were compared with the predicted DDI (i.e., AUC ratio).</p><p>The subsequent effect of CYP3A enzyme suppression on the PKs of sensitive CYP3A substrates, midazolam and simvastatin, were predicted. All parameters determined in model development were kept unchanged, except for the hypothetical doses and infusion time (Table <xref rid="psp413073-tbl-0001" ref-type="table">1</xref>), which were adjusted to capture steady‐state IL‐6 levels in patients with RA, or the elevation of IL‐6 observed in patients who undergo hip surgery. Simulations were performed using a virtual Simcyp RA population with trial sizes of 10 × 12, aged 28–72 years old, and a female proportion of 0.67, or HV population with trial sizes of 10 × 10, aged 19–75 years old, and a female patient proportion of 0.6 to mimic the clinical study design. A single oral dose of midazolam (5 mg) or simvastatin (40 mg) was administered on day 20 after i.v. infusion of IL‐6 to the steady‐state level for DDI prediction in RA patients. Single oral doses of midazolam (1 mg) were administered on days 1, 3, and discharge post‐start of i.v. infusion of IL‐6 for DDI prediction in patients with hip surgery. The predicted fold changes of C<sub>max</sub> and AUC for midazolam and simvastatin (C<sub>max</sub> or AUC with IL‐6/C<sub>max</sub> or AUC without IL‐6) caused by IL‐6 suppression were compared with the observed clinical data.</p></sec></sec><sec id="psp413073-sec-0013"><title>
+<styled-content style="fixed-case" toggle="no">PBPK</styled-content> model application</title><p>The established PBPK model was used to predict DDIs between mosunetuzumab and sensitive CYP3A substrates caused by IL‐6 elevation during the treatment of mosunetuzumab following the clinical dosing schedule.</p><sec id="psp413073-sec-0014"><title>Simulation of transient <styled-content style="fixed-case" toggle="no">IL</styled-content>‐6 elevation at the mosunetuzumab clinical dose regimen</title><p>The PBPK simulations were conducted to describe the observed transient IL‐6 elevation following cycle 1 of clinical dose regimen. IL‐6 was administered as i.v. infusion with three hypothetical doses (Table <xref rid="psp413073-tbl-0001" ref-type="table">1</xref>) to capture IL‐6 elevation following mosunetuzumab administration in C1D1/8/15. A high %CV value was set for the PK parameters of CL and <italic toggle="yes">V</italic>
+<sub>ss</sub> to allow the simulated 5<sup>th</sup> and 95<sup>th</sup> percentile IL‐6 levels to capture the variability in the observed IL‐6 data. The simulations were performed using the Simcyp virtual HV population with trial sizes of 10 × 10. The age of 19–75 years old and female patient proportion of 0.35 were set to mimic the source of IL‐6 data from the clinical study.</p></sec><sec id="psp413073-sec-0015"><title>Prediction of <styled-content style="fixed-case" toggle="no">DDI</styled-content> between mosunetuzumab and sensitive <styled-content style="fixed-case" toggle="no">CYP3A</styled-content> substrates</title><p>The effect of transient IL‐6 elevation following each dose of mosunetuzumab in C1D1/8/15 on the in vivo CYP3A enzyme activity was simulated using the verified PBPK model, and the subsequent DDI effect on the PKs of the CYP3A substrate, midazolam, were predicted. In the DDI simulation, a single dose of midazolam (5 mg) was administered at the simulated maximum suppression of CYP3A enzyme activity caused by IL‐6 elevation. The magnitude of the DDI, expressed as C<sub>max</sub> ratio and AUC ratio in the presence and absence of IL‐6 after each dose, were predicted.</p></sec><sec id="psp413073-sec-0016"><title>Sensitivity and scenario simulations</title><p>Additional simulations were conducted to assess the DDI risk in hypothetically worst‐case scenarios to address knowledge gaps or potential variability and limitations of existing data. This includes (1) assuming significant elevation of IL‐6 in gut as a result of mosunetuzumab treatment and simulation of DDI caused by suppression of gut CYP3A enzyme activity, in addition to liver; (2) DDI simulations using Simcyp cancer populations; (3) simulation of DDI between mosunetuzumab and midazolam, and between mosunetuzumab and simvastatin, at a mean IL‐6 concentration level close to the 95<sup>th</sup> percentile of the observed data (which is about 5 times higher than the observed mean IL‐6 at C1D15).</p></sec></sec></sec><sec sec-type="results" id="psp413073-sec-0017"><title>RESULTS</title><sec id="psp413073-sec-0018"><title>
+<styled-content style="fixed-case" toggle="no">IL</styled-content>‐6 data in mosunetuzumab clinical study</title><p>Administration of mosunetuzumab induced a transient elevation of IL‐6 in a time‐dependent manner in which peak IL‐6 levels were observed post‐dosing in cycle 1 and declined back to baseline afterward (Figure <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S1</xref>). Available IL‐6 concentration‐time profiles from 212 patients in cohort B11 cycle 1 with 1/2/60 mg on C1D1/8/15 dosing regimens (Figure <xref rid="psp413073-fig-0002" ref-type="fig">2</xref>) were used in the PBPK model simulation for DDI prediction. The mean observed IL‐6 peak concentrations occurred at C1D1 (6 h postdose), C1D8 (on C1D9 24 h postdose) and C1D15 (on C1D16 24 h postdose) are 152, 52.7, and 160 pg/mL, respectively. The 5<sup>th</sup> percentile level of observed IL‐6 peak concentrations are 1.57 pg/mL for all days. The 95<sup>th</sup> percentile level of observed IL‐6 peak concentrations are 384, 224, and 910 pg/mL after doses at C1D1/8/15, respectively.</p><fig position="float" fig-type="FIGURE" id="psp413073-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Observed mean and 5th–95th percentile plasma concentration–time data of IL‐6 following administration of mosunetuzumab. C1D1, cycle 1 day 1; C2D1, cycle 2 day 1; IL‐6, interleukin‐6; solid line is mean; dashed lines are 5th and 95th percentile. Post‐dose = post the end of the infusion (4‐h infusion duration for the first dose and 2‐h infusion duration beyond the first dose). Data from two hundred twelve patients from B11 with 1, 2, and 60 mg on cycle 1 days 1, 8, and 15 dosing regimen. HR, hour.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="PSP4-13-234-g004.jpg"><?image-name PSP4-13-234-g004.jpg?><?image-size 85538?><?image-md5 5628c5cb9cd9dd387011554976767cca?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 686?><?image-original-width 992?><?image-scaled-height 457?><?image-scaled-width 661?><?image-cloudpmc-urn urn:cdn:blobs/fc48/10864933/5628c5cb9cd9/PSP4-13-234-g004.jpg?><?thumb-name PSP4-13-234-g004.gif?><?thumb-size 5309?><?thumb-md5 3a8bc4fe668bbe368d2d9f954e8ce3d6?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 115?><?thumb-cloudpmc-urn urn:cdn:blobs/fc48/10864933/3a8bc4fe668b/PSP4-13-234-g004.gif?></graphic></fig></sec><sec id="psp413073-sec-0019"><title>Simulation of <styled-content style="fixed-case" toggle="no">IL</styled-content>‐6 concentration profile</title><p>The PBPK model simulated IL‐6 concentration‐time profile captured the observed mean and the 5<sup>th</sup>‐95<sup>th</sup> percentile range after each mosunetuzumab dose at C1D1/8/15 (1/2/60 mg; Figure <xref rid="psp413073-fig-0003" ref-type="fig">3</xref>). The mean IL‐6 peak concentration is generally below 200 pg/mL in cycle 1, and the highest IL‐6 peak concentration around ~1000 pg/mL observed in some subjects in C1D15 is captured by the simulated 95<sup>th</sup> percentile level. To allow the simulated 95<sup>th</sup> percentile level covering this high concentration, the simulated mean IL‐6 peak level in C1D15 is substantially higher than the observed peak levels in C1D1 and C1D8. Although there is insufficient data to verify this simulated peak at C1D15, the DDI risk assessed using this higher simulated peak IL‐6 level could represent the worst‐case scenario.</p><fig position="float" fig-type="FIGURE" id="psp413073-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>PBPK model simulated IL‐6 elevation and CYP3A enzyme activity suppression during cycle 1 mosunetuzumab treatment. (a) PBPK model simulated versus observed mean and 5th–95th percentile of IL‐6 plasma concentration profiles following administration of mosunetuzumab in cycle 1 (1/2/60 mg at C1D1/C1D8/C1D15). (b) Simulated time course of CYP3A enzyme activity suppression caused by transient IL‐6 elevation at mosunetuzumab clinical dose/regimen in cycle 1 (1/2/60 mg at C1D1/C1D8/C1D15). CYP3A, cytochrome P4503A; h, hours; IL‐6, interleukin‐6; C1D1, cycle 1 day 1; D8, day 8; D15, day 15; PBPK, physiologically‐based pharmacokinetics.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="PSP4-13-234-g002.jpg"><?image-name PSP4-13-234-g002.jpg?><?image-size 31631?><?image-md5 1181a2934dd291e4243c0704699fffc9?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 355?><?image-original-width 1064?><?image-scaled-height 237?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/fc48/10864933/1181a2934dd2/PSP4-13-234-g002.jpg?><?thumb-name PSP4-13-234-g002.gif?><?thumb-size 3709?><?thumb-md5 94ec77e742fe6d7e4c6a61a029cb2a30?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 67?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/fc48/10864933/94ec77e742fe/PSP4-13-234-g002.gif?></graphic></fig></sec><sec id="psp413073-sec-0020"><title>Verification of model prediction of <styled-content style="fixed-case" toggle="no">IL</styled-content>‐6 mediated <styled-content style="fixed-case" toggle="no">CYP3A DDI</styled-content>
+</title><p>The established IL‐6 PBPK model with incorporation of in vitro IL‐6 CYP3A inhibition kinetic data was able to predict the observed DDI caused by chronic and transient IL‐6 elevation. First, the simulations captured clinically reported data in RA patients with steady‐state IL‐6 concentrations of 50–100 pg/mL (Figure <xref rid="psp413073-fig-0004" ref-type="fig">4a</xref>) and data in hip surgery patients with transient IL‐6 elevation PK profiles (Figure <xref rid="psp413073-fig-0004" ref-type="fig">4b</xref>). At the constant level of IL‐6 elevation (50 ‐100 pg/mL) in the RA population, the model predicted 40%–52% and 41%–54% reduction of CYP3A enzyme activity in the liver and gut from the baseline (in HVs), respectively (Figure <xref rid="psp413073-fig-0004" ref-type="fig">4c</xref>). With transient elevation of IL‐6 caused by acute inflammation in hip surgery, the model predicted ~31% and ~42% reduction of CYP3A enzyme activity in the liver and gut from baseline (Figure <xref rid="psp413073-fig-0004" ref-type="fig">4d</xref>), respectively. The maximum enzyme suppression occurred on days 2–3; about 24 h post‐transient peak IL‐6 concentration. Our established PBPK model enabled translation of in vitro IL‐6 CYP3A inhibition data (EC<sub>50</sub> 43.7 pg/mL and <italic toggle="yes">E</italic>
+<sub>min</sub> 21.7% as model inputs) to in vivo CYP3A enzyme activity suppression, and the predicted CYP3A suppression using our PBPK model is consistent with current knowledge.<xref rid="psp413073-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="psp413073-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+</p><fig position="float" fig-type="FIGURE" id="psp413073-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Simulated IL‐6 concentration and time course of IL‐6 suppression on CYP3A enzyme activity in model verification (a) Steady‐state concentration of IL‐6 (50 pg/mL) in patients with RA. (b) Transient elevation of IL‐6 concentration in patients who undergo hip surgery. (c) CYP3A enzyme activity suppression at constant IL‐6 concentration of 50 pg/mL in patients with RA. (d) CYP3A enzyme activity suppression caused by IL‐6 elevation in patients who undergo hip surgery. CYP3A, cytochrome P4503A; IL‐6, interleukin‐6; h, hours; RA, rheumatoid arthritis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="PSP4-13-234-g003.jpg"><?image-name PSP4-13-234-g003.jpg?><?image-size 64046?><?image-md5 8bdce4f474674cd7afc6cd6e084ae7e1?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 800?><?image-original-width 1064?><?image-scaled-height 533?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/fc48/10864933/8bdce4f47467/PSP4-13-234-g003.jpg?><?thumb-name PSP4-13-234-g003.gif?><?thumb-size 2934?><?thumb-md5 38a42141b6d1d9cbf5148361c34cdb76?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 106?><?thumb-cloudpmc-urn urn:cdn:blobs/fc48/10864933/38a42141b6d1/PSP4-13-234-g003.gif?></graphic></fig><p>Subsequently, the model's predictability for clinically observed DDIs caused by IL‐6 elevation were assessed. The model predicted DDI caused by constant elevation of IL‐6 on midazolam and simvastatin PK are comparable to the observed data in RA patients (Table <xref rid="psp413073-tbl-0002" ref-type="table">2</xref>). With the transient elevation of IL‐6 observed in hip surgery patients, the highest model‐predicted AUC increase, 1.66‐ and 1.58‐fold at day 3 and discharge (4–6 days), respectively, is comparable to the observed clinical data, expressed as percentage decrease of MR (Table <xref rid="psp413073-tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="psp413073-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Predicted effect of IL‐6 CYP3A enzyme suppression on PKs of CYP3A substrates in comparison with the observed clinical data.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="5" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Predicted versus observed midazolam and simvastatin C<sub>max</sub> and AUC ratio in RA patients<xref rid="psp413073-note-0012" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">CYP3A4 substrate</th><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">DDI</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Model predicted</th><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">Observed</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">50 pg/mL of IL‐6</th><th align="left" valign="bottom" rowspan="1" colspan="1">100 pg/mL of IL‐6</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="2" valign="top" colspan="1">Simvastatin</td><td align="left" valign="top" rowspan="1" colspan="1">AUC ratio</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.29 (2.18–2.40)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3.18 (3.02–3.36)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.4<xref rid="psp413073-note-0014" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">C<sub>max</sub> ratio</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.02 (1.94–2.10)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.65 (2.53–2.77)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.6<xref rid="psp413073-note-0014" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Midazolam</td><td align="left" valign="top" rowspan="1" colspan="1">AUC ratio</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.83 (1.75–1.91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.32 (2.20–2.45)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.56<xref rid="psp413073-note-0015" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">C<sub>max</sub> ratio</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.43 (1.40–1.47)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.62 (1.58–1.67)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.45<xref rid="psp413073-note-0015" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="6" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Predicted midazolam C<sub>max</sub> and AUC ratio versus observed metabolic ratio in hip surgery patients<xref rid="psp413073-note-0013" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Midazolam</th><th align="left" valign="bottom" rowspan="1" colspan="1">Day 0</th><th align="left" valign="bottom" rowspan="1" colspan="1">Day 1</th><th align="left" valign="bottom" rowspan="1" colspan="1">Day 3</th><th align="left" valign="bottom" rowspan="1" colspan="1">Discharge</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="2" valign="top" colspan="1">Predicted</td><td align="left" valign="top" rowspan="1" colspan="1">AUC ratio</td><td align="left" valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1">1.49</td><td align="left" valign="top" rowspan="1" colspan="1">1.66</td><td align="left" valign="top" rowspan="1" colspan="1">1.58</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">C<sub>max</sub> ratio</td><td align="left" valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1">1.29</td><td align="left" valign="top" rowspan="1" colspan="1">1.40</td><td align="left" valign="top" rowspan="1" colspan="1">1.34</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Observed<xref rid="psp413073-note-0016" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">MR</td><td align="left" valign="top" rowspan="1" colspan="1">0.888</td><td align="left" valign="top" rowspan="1" colspan="1">0.797</td><td align="left" valign="top" rowspan="1" colspan="1">0.337</td><td align="left" valign="top" rowspan="1" colspan="1">0.336</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MR decrease (%)</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">10%</td><td align="left" valign="top" rowspan="1" colspan="1">61%</td><td align="left" valign="top" rowspan="1" colspan="1">62%</td></tr></tbody></table><table-wrap-foot id="psp413073-ntgp-0002"><fn id="psp413073-note-0010"><p>
+<italic toggle="yes">Note</italic>: Day 0 = before surgery; day 1 and day 3 = 1 day and 3 days after surgery; discharge = 3–6 days, mean value is 4 days. To compare predicted with observed, the predicted parent midazolam AUC increase (e.g.,1.66‐fold on day 3) can be converted to % increase (e.g., 66% on day 3), and then compare it with % metabolite ratio decrease (e.g., 61% on day 3).</p></fn><fn id="psp413073-note-0011"><p>Abbreviations: AUC, area under the plasma drug concentration–time curve; C<sub>max</sub>, maximum drug concentration in plasma; CYP, cytochrome P450; DDI, drug–drug interaction; IL‐6, interleukin 6; MR, metabolic ratio = OH‐midazolam concentration/midazolam concentration measured at ~2 h after drug administration; N/A, not applicable; PK, pharmacokinetic; RA, rheumatoid arthritis.</p></fn><fn id="psp413073-note-0012"><label>
+<sup>a</sup>
+</label><p>C<sub>max</sub> or AUC ratio = C<sub>max</sub> or AUC with IL‐6/C<sub>max</sub> or AUC without IL‐6, expressed as geometric mean with 90% confidence interval.</p></fn><fn id="psp413073-note-0013"><label>
+<sup>b</sup>
+</label><p>C<sub>max</sub> or AUC ratio = C<sub>max</sub> or AUC with IL‐6/C<sub>max</sub> or AUC without IL‐6, expressed as geometric mean.</p></fn><fn id="psp413073-note-0014"><label>
+<sup>c</sup>
+</label><p>Schmitt C, Kuhn B, Zhang X, Kivitz AJ, Grange S. Disease‐drug–drug interaction involving tocilizumab and simvastatin in patients with rheumatoid arthritis. Clin Pharmacol Ther 89,735–740 (2011).</p></fn><fn id="psp413073-note-0015"><label>
+<sup>d</sup>
+</label><p>Zhuang Y, et al. Evaluation of disease‐mediated therapeutic protein–drug interactions between an anti‐interleukin‐6 monoclonal antibody (sirukumab) and cytochrome P450 activities in a phase 1 study in patients with rheumatoid arthritis using a cocktail approach. J Clin Pharmacol 55, 1386–1394 (2015).</p></fn><fn id="psp413073-note-0016"><label>
+<sup>e</sup>
+</label><p>Lenoir C, et al. Impact of Acute Inflammation on Cytochromes P450 Activity Assessed by the Geneva Cocktail. Clin Pharmacol Ther 109, 1668–1676. (2021).</p></fn></table-wrap-foot></table-wrap><p>Overall, the results verified that the established IL‐6 PBPK model with incorporation of in vitro IL‐6 CYP3A inhibition data can predict CYP3A enzyme suppression and subsequent DDIs caused by chronic and transient IL‐6 elevation, which supported the use of the model to predict potential DDI for mosunetuzumab with CYP3A substrates co‐administration.</p></sec><sec id="psp413073-sec-0021"><title>Prediction of mosunetuzumab drug interaction</title><p>The verified PBPK model was used to predict DDI potential for mosunetuzumab with the sensitive CYP3A substrate midazolam. The time‐dependent CYP3A enzyme suppression was predicted, with maximum suppression generally occurring at ~24 h post peak IL‐6 level. In cycle 1, up to 30% enzyme activity reduction was predicted at a mosunetuzumab dose level of 60 mg on C1D15; therefore, to capture the maximum DDI potential, midazolam was administered at the time of maximum CYP3A suppression in the DDI simulation (Figure <xref rid="psp413073-fig-0003" ref-type="fig">3b</xref>). The C<sub>max</sub> and AUC ratios of midazolam in the presence and absence of IL‐6 elevation caused by mosunetuzumab treatment are predicted to be less than 1.25‐ and 1.5‐fold (Table <xref rid="psp413073-tbl-0003" ref-type="table">3</xref>), respectively. These data indicate a low risk of drug interaction caused by transient IL‐6 elevation at the mosunetuzumab approved clinical dose regimen in R/R FL.</p><table-wrap position="float" id="psp413073-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Predicted DDI between mosunetuzumab and midazolam caused by transient IL‐6 elevation during mosunetuzumab treatment.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Mosunetuzumab administration</th><th align="left" valign="bottom" rowspan="1" colspan="1">C1D1</th><th align="left" valign="bottom" rowspan="1" colspan="1">C1D8</th><th align="left" valign="bottom" rowspan="1" colspan="1">C1D15</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">MDZ AUC ratio</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.18 (1.15–1.22)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.19 (1.15–1.22)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.37 (1.31–1.44)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MDZ C<sub>max</sub> ratio</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.09 (1.07–1.11)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.09 (1.07–1.11)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.17 (1.14–1.19)</td></tr></tbody></table><table-wrap-foot id="psp413073-ntgp-0003"><fn id="psp413073-note-0017"><p>
+<italic toggle="yes">Note</italic>: C<sub>max</sub> ratio and AUC ratio = C<sub>max</sub> or AUC in the presence of IL‐6/C<sub>max</sub> or AUC in the absence of IL‐6; expressed as GM ratio and 90% confidence interval.</p></fn><fn id="psp413073-note-0018"><p>Abbreviations: C1D1, cycle 1 day 1; D8, day 8; D15, day 15; DDI, drug‐drug interaction; GM, geometric mean; MDZ, midazolam.</p></fn></table-wrap-foot></table-wrap></sec><sec id="psp413073-sec-0022"><title>Sensitivity and scenario simulations</title><p>Based on the mechanism of action and current knowledge, treatment of mosunetuzumab with i.v. infusion would not result in significant transient elevation of IL‐6 in the gut as observed in systemic circulation, and peripheral IL‐6 elevation is predominantly a first‐cycle effect. While the study from Sanada et al. showed the reduction of intestinal CYP3A activity in rats with adjuvant arthritis,<xref rid="psp413073-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> and Simon et al. showed in vitro downregulation of CYP3A expression in epiIntestinal cells,<xref rid="psp413073-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> there are no human data available, specifically for bispecific monoclonal antibody treatment in which the mechanism of cytokine elevation is different from inflammation. To assess this hypothetical risk, DDI simulation was conducted by assuming there is CYP3A enzyme suppression in both the liver and gut, and to the same extent. The predicted midazolam C<sub>max</sub> and AUC ratios were mildly increased (e.g., C<sub>max</sub> ratio 1.17 vs. 1.35, AUC ratio 1.37 vs. 1.59) in comparison with that predicted without gut CYP3A enzyme suppression (Table <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S3</xref>).</p><p>While a cancer population for patients with R/R FL is not available, a general cancer population file available in Simcyp was used to simulate DDI between mosunetuzumab and midazolam (Table <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S3</xref>). The predicted DDI effect using two Simcyp virtual populations is comparable. The minor increase of midazolam C<sub>max</sub> and AUC ratio predicted using the cancer population is likely due to the slightly higher IL‐6 concentration simulated in the cancer population in comparison with that in HV population.</p><p>Considering the potential inter‐subject variability of IL‐6 transient elevation during initial treatment of mosunetuzumab, further sensitivity analyses on the effect of variable IL‐6 levels on the predicted DDI was conducted by increasing the mean IL‐6 concentration level to the observed 95<sup>th</sup> percentile level (Figure <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S2</xref>), which is about five times higher than the observed mean data in C1D15. At this IL‐6 concentration level, the DDI predicted between mosunetuzumab and midazolam, and mosunetuzumab and simvastatin is still well below two‐fold (Table <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S4</xref>), indicating low DDI risk.</p></sec></sec><sec sec-type="discussion" id="psp413073-sec-0023"><title>DISCUSSION</title><p>Recent US Food and Drug Administration (FDA) guidance has recommended DDI assessment for TPs during investigational new drug applications and biologics license applications.<xref rid="psp413073-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> While many in vitro and preclinical in vivo studies have provided good mechanistic understanding on TP‐DIs, concerns remain regarding the quantitative translation of these data to the magnitude of DDI and clinical relevance. Although dedicated clinical DDI studies have been broadly used for small molecule drug development, such studies have been limited for biologic–drug interactions due to the complexity of study design, especially if DDI is caused indirectly through pharmacological mechanisms of action of the treatment agents.<xref rid="psp413073-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="psp413073-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> A recent review by Jing et al. revealed that of 150 approved TPs, 49 labels contained PK–related TP‐DI information. More than half of the clinical DDI evaluations showed no interaction,<xref rid="psp413073-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> significant DDI (&gt;2‐fold) appears rare, and no dose adjustment has been recommended. The findings highlighted the importance of using a PBPK model‐informed strategy for TP‐DI assessment before a clinical study would be considered. The PBPK modeling could provide an opportunity to determine the likelihood and magnitude of TP‐DIs, optimize clinical study design and monitoring strategy, or even avoid dedicated clinical studies in cases where minimal value would be added.</p><p>The current PBPK modeling work was used to inform mosunetuzumab label including the timing and duration of monitoring co‐medication. In order to apply PBPK quantitative assessment to guide risk mitigation strategy and inform labeling, several aspects need to be considered and discussed below. Using our developed PBPK model, at the mosunetuzumab clinical dose regimen, the maximum DDI with the sensitive CYP3A substrate midazolam was predicted to have a C<sub>max</sub> and AUC ratio of 1.17 and 1.37, respectively, corresponding to the mean IL‐6 elevation, and of 1.27 and 1.70, respectively, at the 95<sup>th</sup> percentile IL‐6 concentration level of ~1000 pg/mL. To address concerns related to extreme IL‐6 levels in some individuals, additional DDI simulations were conducted at peak IL‐6 concentrations up to 12,000 pg/mL and showed mild (&lt;2‐fold) DDI. The magnitude of DDI predicted for mosunetuzumab is in line with those reported by others in the context of transient IL‐6 elevations. For blinatumomab, the predicted AUC change for simvastatin and midazolam caused by transient IL‐6 elevation up to 1600–60,000 pg/mL is less than two‐fold.<xref rid="psp413073-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> At varying levels of IL‐6 (up to 50,000 pg/mL) in patients with COVID‐19, simulations using a validated PBPK model showed the exposure of midazolam could increase by 40%.<xref rid="psp413073-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Overall, transient elevation of IL‐6 may have impacts on the PKs of sensitive CYP substrates, but the magnitude of effect is low to moderate.</p><p>A commonly asked question in using PBPK to predict DDI caused by cytokine‐mediated enzyme suppression is model validation. The concern is most associated with understanding the effect, such as the magnitude of the DDI with extremely high levels of IL‐6 although transient, and the persistence of enzyme suppression. As summarized by Chen et al., comparing the observed and simulated effects of IL‐6 elevation, the PBPK model predictions capture PK changes of CYP substrates in the presence of chronically and transiently elevated IL‐6 reasonably well (i.e., predicted‐to‐observed ratios of mean AUC or C<sub>max</sub> &lt; 2).<xref rid="psp413073-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Our PBPK model built for mosunetuzumab with incorporation of in vitro IL‐6 inhibition data was verified to predict clinical CYP3A DDI caused by both chronic and transient IL‐6 elevation. The clinical DDI effect at transient IL‐6 level beyond the verified IL‐6 concentration range can be further confirmed once more clinical data become available. Even with limited clinical data in comparison with small molecule DDIs, these retrospective PBPK analyses and model verifications have provided good mechanistic understanding of the clinical observation, which builds confidence in using the model for the prediction of untested scenarios. The CYP3A enzyme suppression by IL‐6 is both concentration‐ and time‐dependent. The maximum enzyme suppression usually occurs 24–48 h post peak IL‐6 concentration, and the time taken for enzyme activity to return to baseline depends on the duration of IL‐6 elevation, as well as the rate of enzyme turnover. The prolonged enzyme suppression caused by chronic IL‐6 elevation can play a more important role in determining the magnitude of DDI. As observed in RA patients, at low but constant levels of IL‐6 ~ 50–100 pg/mL, 2.4‐fold and 1.56‐fold of AUC change for simvastatin and midazolam PK were observed, respectively.<xref rid="psp413073-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="psp413073-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> In COVID‐19 patients with varying mean levels of IL‐6 elevation up to 4462 pg/mL, the AUC of lopinavir boosted with ritonavir was about two‐fold higher compared with people living with HIV.<xref rid="psp413073-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> The magnitude of DDI reflects a net result of enzyme suppression caused by IL‐6 elevation and enzyme resynthesis in the body. Transient IL‐6 elevation followed by a rapid drop allows enzyme resynthesis to catch up, therefore, varying peak IL‐6 concentrations could have only a marginal effect, especially once maximum inhibition has been reached.</p><p>The persistence of CYP3A enzyme suppression depends on the steepness of the IL‐6 concentration drop after peak level, which is an important factor in DDI risk assessment. The CYP3A enzyme suppression caused by transient IL‐6 elevation could last for 1 week.<xref rid="psp413073-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="psp413073-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> To assess the duration of enzyme suppression caused by mosunetuzumab treatment‐induced transient IL‐6 elevation, DDI simulations were conducted beyond C1D15 through C2D1 and C3D1. Under all scenarios simulated, the highest midazolam AUC ratio was predicted to occur after a 60 mg dose on C1D15 and C2D1. Consistent with the minimal cytokine elevations in cycle 3 and beyond, the CYP3A enzyme activity is predicted to return to baseline, and the predicted clinical DDI risk in cycle 3 and beyond is minimal (Figure <xref rid="psp413073-supitem-0001" ref-type="supplementary-material">S3</xref>). The simulations indicated that AUC ratios of midazolam dropped well below 1.5‐fold after 7 days of the last treatment (C1D15 or C2D1) in the event of IL‐6 elevation reaching the 95<sup>th</sup> percentile level, and below 1.25‐fold in the event of IL‐6 elevation reaching the mean level.</p><p>In conclusion, mosunetuzumab at the approved clinical dose regimen in R/R FL is predicted to have a weak drug interaction potential with sensitive CYP3A substrates. The PBPK simulation provided quantitative assessment for mosunetuzumab in support of justification for the timing and duration of monitoring comedications that are sensitive CYP3A substrates with a narrow therapeutic index.<xref rid="psp413073-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> This work demonstrated that PBPK modeling can be used to assess TP‐DI risk including hypothetically worst‐case scenarios to address potential uncertainties, and in appropriate cases, PBPK model prediction can be used to supplement clinical TP‐DI studies.</p></sec><sec id="psp413073-sec-0024"><title>AUTHOR CONTRIBUTIONS</title><p>Y.C., F.M., N.J., R.D., C.L., and C.‐C.L. wrote the manuscript. Y.C., F.M., N.J., and C.‐C.L. designed the research. Y.C., F.M., and N.J. performed the research. Y.C., F.M., N.J., R.D., and C.‐C.L. analyzed the data.</p></sec><sec id="psp413073-sec-0026"><title>FUNDING INFORMATION</title><p>No funding was received for the work reported.</p></sec><sec sec-type="COI-statement" id="psp413073-sec-0027"><title>CONFLICT OF INTEREST STATEMENT</title><p>No funding was received for this work.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="psp413073-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Appendix S1
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-13-234-s001.docx" position="float" orientation="portrait"><?suppdata-name PSP4-13-234-s001.docx?><?suppdata-size 331883?><?suppdata-md5 f031fd5e19d9223c643b692c22b49c8d?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:fc48/10864933/f031fd5e19d9/PSP4-13-234-s001.docx?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="psp413073-sec-0025"><title>ACKNOWLEDGMENTS</title><p>The authors thank Christine Bowman, Jane Kenny, Jing Wang, Bei Wang, David Turner, Zao Li, Feifei Li, Elicia Penuel, and Ling‐Yuh Huw for their contribution to assisting data collection, providing data analysis, and plotting from clinical studies, quality control of model simulation, or participating in the scientific discussion.</p></ack><ref-list content-type="cited-references" id="psp413073-bibl-0001"><title>REFERENCES</title><ref id="psp413073-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="psp413073-cit-0001">
+<string-name name-style="western">
+<surname>Budde</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sehn</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matasar</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Safety and efficacy of mosunetuzumab, a bispecific antibody, in patients with relapsed or refractory follicular lymphoma: a single‐arm, multicentre, phase 2 study</article-title>. <source>Lancet Oncol</source>. <year>2022</year>;<volume>23</volume>:<fpage>1055</fpage>‐<lpage>1065</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1470-2045(22)00335-7</pub-id>
+<pub-id pub-id-type="pmid">35803286</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="psp413073-cit-0002">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ellerman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mathieu</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Anti‐CD20/CD3 T cell‐dependent bispecific antibody for the treatment of B cell malignancies</article-title>. <source>Sci Transl Med</source>. <year>2015</year>;<volume>7</volume>:<elocation-id>287ra270</elocation-id>. doi:<pub-id pub-id-type="doi">10.1126/scitranslmed.aaa4802</pub-id>
+<pub-id pub-id-type="pmid">25972002</pub-id></mixed-citation></ref><ref id="psp413073-bib-0003"><label>3</label><mixed-citation publication-type="miscellaneous" id="psp413073-cit-0003">
+<string-name name-style="western">
+<surname>Hernandez LYH</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belousov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koeppen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCord</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>
+<italic toggle="yes">Pharmacodynamic effects and immune correlates of response to the CD20/CD3 bispecific antibody mosunetuzumab in relapsed or refractory non‐Hodgkin lymphoma</italic>. ASH Annual Meeting and Exposition; Orlando, Florida, USA</article-title>. <year>2019</year>.</mixed-citation></ref><ref id="psp413073-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="psp413073-cit-0004">
+<string-name name-style="western">
+<surname>Bartlett</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sehn</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Assouline</surname>
+<given-names>SE</given-names>
+</string-name>, et al. <article-title>Managing cytokine release syndrome (CRS) and neurotoxicity with step‐fractionated dosing of mosunetuzumab in relapsed/refractory (R/R) B‐cell non‐Hodgkin lymphoma (NHL)</article-title>. <source>J Clin Oncol</source>. <year>2019</year>;<volume>37</volume>:<elocation-id>7518</elocation-id>. doi:<pub-id pub-id-type="doi">10.1200/JCO.2019.37.15_suppl.7518</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="psp413073-cit-0005">
+<string-name name-style="western">
+<surname>Budde</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sehn</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Assouline</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Mosunetuzumab, a full‐length bispecific CD20/CD3 antibody, displays clinical activity in relapsed/refractory B‐cell non‐Hodgkin lymphoma (NHL): interim safety and efficacy results from a phase 1 study</article-title>. <source>Blood</source>. <year>2018</year>;<volume>132</volume>:<fpage>399</fpage>. doi:<pub-id pub-id-type="doi">10.1182/blood-2018-99-118344</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="psp413073-cit-0006">
+<string-name name-style="western">
+<surname>Keizer</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huitema</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schellens</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beijnen</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Clinical pharmacokinetics of therapeutic monoclonal antibodies</article-title>. <source>Clin Pharmacokinet</source>. <year>2010</year>;<volume>49</volume>:<fpage>493</fpage>‐<lpage>507</lpage>. doi:<pub-id pub-id-type="doi">10.2165/11531280-000000000-00000</pub-id>
+<pub-id pub-id-type="pmid">20608753</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="psp413073-cit-0007">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chinen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kavanaugh</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Immunomodulator therapy: monoclonal antibodies, fusion proteins, cytokines, and immunoglobulins</article-title>. <source>J Allergy Clin Immunol</source>. <year>2010</year>;<volume>125</volume>:<fpage>S314</fpage>‐<lpage>S323</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jaci.2009.08.018</pub-id>
+<pub-id pub-id-type="pmid">20036416</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="psp413073-cit-0008">
+<string-name name-style="western">
+<surname>Abdel‐Razzak</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loyer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fautrel</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Cytokines down‐regulate expression of major cytochrome P‐450 enzymes in adult human hepatocytes in primary culture</article-title>. <source>Mol Pharmacol</source>. <year>1993</year>;<volume>44</volume>:<fpage>707</fpage>‐<lpage>715</lpage>.<pub-id pub-id-type="pmid">8232220</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="psp413073-cit-0009">
+<string-name name-style="western">
+<surname>Dickmann</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rock</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wienkers</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slatter</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Effects of interleukin‐6 (IL‐6) and an anti‐IL‐6 monoclonal antibody on drug‐metabolizing enzymes in human hepatocyte culture</article-title>. <source>Drug Metab Dispos</source>. <year>2011</year>;<volume>39</volume>:<fpage>1415</fpage>‐<lpage>1422</lpage>. doi:<pub-id pub-id-type="doi">10.1124/dmd.111.038679</pub-id>
+<pub-id pub-id-type="pmid">21555507</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="psp413073-cit-0010">
+<string-name name-style="western">
+<surname>Dickmann</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wienkers</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slatter</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Effects of interleukin 1beta (IL‐1beta) and IL‐1beta/interleukin 6 (IL‐6) combinations on drug metabolizing enzymes in human hepatocyte culture</article-title>. <source>Curr Drug Metab</source>. <year>2012</year>;<volume>13</volume>:<fpage>930</fpage>‐<lpage>937</lpage>. doi:<pub-id pub-id-type="doi">10.2174/138920012802138642</pub-id>
+<pub-id pub-id-type="pmid">22475267</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="psp413073-cit-0011">
+<string-name name-style="western">
+<surname>Evers</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dallas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickmann</surname>
+<given-names>LJ</given-names>
+</string-name>, et al. <article-title>Critical review of preclinical approaches to investigate cytochrome p450‐mediated therapeutic protein drug‐drug interactions and recommendations for best practices: a white paper</article-title>. <source>Drug Metab Dispos</source>. <year>2013</year>;<volume>41</volume>:<fpage>1598</fpage>‐<lpage>1609</lpage>. doi:<pub-id pub-id-type="doi">10.1124/dmd.113.052225</pub-id>
+<pub-id pub-id-type="pmid">23792813</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="psp413073-cit-0012">
+<string-name name-style="western">
+<surname>Islam</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frye</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richards</surname>
+<given-names>TJ</given-names>
+</string-name>, et al. <article-title>Differential effect of IFNalpha‐2b on the cytochrome P450 enzyme system: a potential basis of IFN toxicity and its modulation by other drugs</article-title>. <source>Clin Cancer Res</source>. <year>2002</year>;<volume>8</volume>:<fpage>2480</fpage>‐<lpage>2487</lpage>.<pub-id pub-id-type="pmid">12171873</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="psp413073-cit-0013">
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baird‐Lambert</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farrell</surname>
+<given-names>GC</given-names>
+</string-name>. <article-title>Inhibition of theophylline metabolism by interferon</article-title>. <source>Lancet</source>. <year>1987</year>;<volume>2</volume>:<fpage>939</fpage>‐<lpage>941</lpage>. doi:<pub-id pub-id-type="doi">10.1016/s0140-6736(87)91422-x</pub-id>
+<pub-id pub-id-type="pmid">2444839</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="psp413073-cit-0014">
+<string-name name-style="western">
+<surname>Frye</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frye</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feldman</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Plasma levels of TNF‐alpha and IL‐6 are inversely related to cytochrome P450‐dependent drug metabolism in patients with congestive heart failure</article-title>. <source>J Card Fail</source>. <year>2002</year>;<volume>8</volume>:<fpage>315</fpage>‐<lpage>319</lpage>. doi:<pub-id pub-id-type="doi">10.1054/jcaf.2002.127773</pub-id>
+<pub-id pub-id-type="pmid">12411982</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="psp413073-cit-0015">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Vraux</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leneveu</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Acute‐phase response, interleukin‐6, and alteration of cyclosporine pharmacokinetics</article-title>. <source>Clin Pharmacol Ther</source>. <year>1994</year>;<volume>55</volume>:<fpage>649</fpage>‐<lpage>660</lpage>. doi:<pub-id pub-id-type="doi">10.1038/clpt.1994.82</pub-id>
+<pub-id pub-id-type="pmid">8004881</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="psp413073-cit-0016">
+<string-name name-style="western">
+<surname>Morgan</surname>
+<given-names>ET</given-names>
+</string-name>. <article-title>Impact of infectious and inflammatory disease on cytochrome P450‐mediated drug metabolism and pharmacokinetics</article-title>. <source>Clin Pharmacol Ther</source>. <year>2009</year>;<volume>85</volume>:<fpage>434</fpage>‐<lpage>438</lpage>. doi:<pub-id pub-id-type="doi">10.1038/clpt.2008.302</pub-id>
+<pub-id pub-id-type="pmid">19212314</pub-id>
+<pub-id pub-id-type="pmcid">PMC3139248</pub-id></mixed-citation></ref><ref id="psp413073-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="psp413073-cit-0017">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Men</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kenna</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>CYP‐mediated therapeutic protein‐drug interactions: clinical findings, proposed mechanisms and regulatory implications</article-title>. <source>Clin Pharmacokinet</source>. <year>2010</year>;<volume>49</volume>:<fpage>295</fpage>‐<lpage>310</lpage>. doi:<pub-id pub-id-type="doi">10.2165/11319980-000000000-00000</pub-id>
+<pub-id pub-id-type="pmid">20384392</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="psp413073-cit-0018">
+<string-name name-style="western">
+<surname>Machavaram</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Endo‐Tsukude</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Terao</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Simulating the impact of elevated levels of interleukin‐6 on the pharmacokinetics of various CYP450 substrates in patients with neuromyelitis Optica or neuromyelitis Optica Spectrum disorders in different ethnic populations</article-title>. <source>AAPS J</source>. <year>2019</year>;<volume>21</volume>:<fpage>42</fpage>. doi:<pub-id pub-id-type="doi">10.1208/s12248-019-0309-y</pub-id>
+<pub-id pub-id-type="pmid">30887238</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="psp413073-cit-0019">
+<string-name name-style="western">
+<surname>Haas</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaufman</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burstein</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reiss</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Cytochrome P450 3A4 activity after surgical stress</article-title>. <source>Crit Care Med</source>. <year>2003</year>;<volume>31</volume>:<fpage>1338</fpage>‐<lpage>1346</lpage>. doi:<pub-id pub-id-type="doi">10.1097/01.CCM.0000063040.24541.49</pub-id>
+<pub-id pub-id-type="pmid">12771600</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="psp413073-cit-0020">
+<string-name name-style="western">
+<surname>Nakai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanada</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Decreased expression of cytochromes P450 1A2, 2E1, and 3A4 and drug transporters Na+−taurocholate‐cotransporting polypeptide, organic cation transporter 1, and organic anion‐transporting peptide‐C correlates with the progression of liver fibrosis in chronic hepatitis C patients</article-title>. <source>Drug Metab Dispos</source>. <year>2008</year>;<volume>36</volume>:<fpage>1786</fpage>‐<lpage>1793</lpage>. doi:<pub-id pub-id-type="doi">10.1124/dmd.107.020073</pub-id>
+<pub-id pub-id-type="pmid">18515332</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="psp413073-cit-0021">
+<string-name name-style="western">
+<surname>Dallas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sensenhauser</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Batheja</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>De‐risking bio‐therapeutics for possible drug interactions using cryopreserved human hepatocytes</article-title>. <source>Curr Drug Metab</source>. <year>2012</year>;<volume>13</volume>:<fpage>923</fpage>‐<lpage>929</lpage>. doi:<pub-id pub-id-type="doi">10.2174/138920012802138589</pub-id>
+<pub-id pub-id-type="pmid">22475265</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="psp413073-cit-0022">
+<string-name name-style="western">
+<surname>Lenoir</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daali</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollason</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Impact of acute inflammation on cytochromes P450 activity assessed by the Geneva cocktail</article-title>. <source>Clin Pharmacol Ther</source>. <year>2021</year>;<volume>109</volume>:<fpage>1668</fpage>‐<lpage>1676</lpage>. doi:<pub-id pub-id-type="doi">10.1002/cpt.2146</pub-id>
+<pub-id pub-id-type="pmid">33341941</pub-id>
+<pub-id pub-id-type="pmcid">PMC8247903</pub-id></mixed-citation></ref><ref id="psp413073-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="psp413073-cit-0023">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gill</surname>
+<given-names>KL</given-names>
+</string-name>. <article-title>Physiologically based pharmacokinetic modeling to predict drug‐biologic interactions with cytokine modulators: are these relevant and is interleukin‐6 enough?</article-title>
+<source>Drug Metab Dispos</source>. <year>2022</year>;<volume>50</volume>:<fpage>1322</fpage>‐<lpage>1331</lpage>. doi:<pub-id pub-id-type="doi">10.1124/dmd.122.000926</pub-id>
+<pub-id pub-id-type="pmid">36100353</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="psp413073-cit-0024">
+<string-name name-style="western">
+<surname>Jing</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schrieber</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fletcher</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sahajwalla</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Update on therapeutic protein‐drug interaction: information in labeling</article-title>. <source>Clin Pharmacokinet</source>. <year>2020</year>;<volume>59</volume>:<fpage>25</fpage>‐<lpage>36</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s40262-019-00810-z</pub-id>
+<pub-id pub-id-type="pmid">31583608</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="psp413073-cit-0025">
+<string-name name-style="western">
+<surname>Machavaram</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almond</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rostami‐Hodjegan</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>A physiologically based pharmacokinetic modeling approach to predict disease‐drug interactions: suppression of CYP3A by IL‐6</article-title>. <source>Clin Pharmacol Ther</source>. <year>2013</year>;<volume>94</volume>:<fpage>260</fpage>‐<lpage>268</lpage>. doi:<pub-id pub-id-type="doi">10.1038/clpt.2013.79</pub-id>
+<pub-id pub-id-type="pmid">23588308</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="psp413073-cit-0026">
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Development of a physiologically based pharmacokinetic model to predict disease‐mediated therapeutic protein‐drug interactions: modulation of multiple cytochrome P450 enzymes by interleukin‐6</article-title>. <source>AAPS J</source>. <year>2016</year>;<volume>18</volume>:<fpage>767</fpage>‐<lpage>776</lpage>. doi:<pub-id pub-id-type="doi">10.1208/s12248-016-9890-5</pub-id>
+<pub-id pub-id-type="pmid">26961818</pub-id>
+<pub-id pub-id-type="pmcid">PMC5256608</pub-id></mixed-citation></ref><ref id="psp413073-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="psp413073-cit-0027">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hijazi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolf</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>YN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Physiologically based pharmacokinetic model to assess the influence of blinatumomab‐mediated cytokine elevations on cytochrome P450 enzyme activity</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2015</year>;<volume>4</volume>:<fpage>507</fpage>‐<lpage>515</lpage>. doi:<pub-id pub-id-type="doi">10.1002/psp4.12003</pub-id>
+<pub-id pub-id-type="pmid">26451330</pub-id>
+<pub-id pub-id-type="pmcid">PMC4592530</pub-id></mixed-citation></ref><ref id="psp413073-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="psp413073-cit-0028">
+<string-name name-style="western">
+<surname>Stader</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Battegay</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sendi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marzolini</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Physiologically based pharmacokinetic modelling to investigate the impact of the cytokine storm on CYP3A drug pharmacokinetics in COVID‐19 patients</article-title>. <source>Clin Pharmacol Ther</source>. <year>2022</year>;<volume>111</volume>:<fpage>579</fpage>‐<lpage>584</lpage>. doi:<pub-id pub-id-type="doi">10.1002/cpt.2402</pub-id>
+<pub-id pub-id-type="pmid">34496043</pub-id>
+<pub-id pub-id-type="pmcid">PMC8652944</pub-id></mixed-citation></ref><ref id="psp413073-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="psp413073-cit-0029">
+<string-name name-style="western">
+<surname>Schmitt</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuhn</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kivitz</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grange</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Disease‐drug–drug interaction involving tocilizumab and simvastatin in patients with rheumatoid arthritis</article-title>. <source>Clin Pharmacol Ther</source>. <year>2011</year>;<volume>89</volume>:<fpage>735</fpage>‐<lpage>740</lpage>. doi:<pub-id pub-id-type="doi">10.1038/clpt.2011.35</pub-id>
+<pub-id pub-id-type="pmid">21430660</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="psp413073-cit-0030">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daskalakis</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Disease‐drug interaction of sarilumab and simvastatin in patients with rheumatoid arthritis</article-title>. <source>Clin Pharmacokinet</source>. <year>2017</year>;<volume>56</volume>:<fpage>607</fpage>‐<lpage>615</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s40262-016-0462-8</pub-id>
+<pub-id pub-id-type="pmid">27722854</pub-id>
+<pub-id pub-id-type="pmcid">PMC5425488</pub-id></mixed-citation></ref><ref id="psp413073-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="psp413073-cit-0031">
+<string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Vries</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Evaluation of disease‐mediated therapeutic protein‐drug interactions between an anti‐interleukin‐6 monoclonal antibody (sirukumab) and cytochrome P450 activities in a phase 1 study in patients with rheumatoid arthritis using a cocktail approach</article-title>. <source>J Clin Pharmacol</source>. <year>2015</year>;<volume>55</volume>:<fpage>1386</fpage>‐<lpage>1394</lpage>. doi:<pub-id pub-id-type="doi">10.1002/jcph.561</pub-id>
+<pub-id pub-id-type="pmid">26054042</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="psp413073-cit-0032">
+<string-name name-style="western">
+<surname>Sanada</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sekimoto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kamoshita</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Degawa</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Changes in expression of hepatic cytochrome P450 subfamily enzymes during development of adjuvant‐induced arthritis in rats</article-title>. <source>J Toxicol Sci</source>. <year>2011</year>;<volume>36</volume>:<fpage>181</fpage>‐<lpage>190</lpage>. doi:<pub-id pub-id-type="doi">10.2131/jts.36.181</pub-id>
+<pub-id pub-id-type="pmid">21467745</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="psp413073-cit-0033">
+<string-name name-style="western">
+<surname>Simon</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guyot</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Impact of interleukin‐6 on drug‐metabolizing enzymes and transporters in intestinal cells</article-title>. <source>AAPS J</source>. <year>2019</year>;<volume>22</volume>:<fpage>16</fpage>. doi:<pub-id pub-id-type="doi">10.1208/s12248-019-0395-x</pub-id>
+<pub-id pub-id-type="pmid">31863204</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0034"><label>34</label><mixed-citation publication-type="miscellaneous" id="psp413073-cit-0034">
+<collab collab-type="authors">Administration USFD</collab>
+. <article-title>Drug–drug interaction assessment for therapeutic proteins guidance for industry</article-title>. <year>2023</year> [cited Aug 3, 2023]. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/drug-drug-interaction-assessment-therapeutic-proteins-guidance-industry" ext-link-type="uri">https://www.fda.gov/regulatory‐information/search‐fda‐guidance‐documents/drug‐drug‐interaction‐assessment‐therapeutic‐proteins‐guidance‐industry</ext-link>
+</mixed-citation></ref><ref id="psp413073-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="psp413073-cit-0035">
+<string-name name-style="western">
+<surname>Coutant</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boulton</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahal</surname>
+<given-names>UP</given-names>
+</string-name>, et al. <article-title>Therapeutic protein drug interactions: a white paper from the international consortium for innovation and quality in pharmaceutical development</article-title>. <source>Clin Pharmacol Ther</source>. <year>2023</year>;<volume>113</volume>:<fpage>1185</fpage>‐<lpage>1198</lpage>. doi:<pub-id pub-id-type="doi">10.1002/cpt.2814</pub-id>
+<pub-id pub-id-type="pmid">36477720</pub-id>
+</mixed-citation></ref><ref id="psp413073-bib-0036"><label>36</label><mixed-citation publication-type="miscellaneous" id="psp413073-cit-0036">
+<collab collab-type="authors">FDA</collab>
+. <article-title>Lunsumio full prescribing information</article-title>. <year>2022</year> [cited August 27, 2023] Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761263s000lbl.pdf" ext-link-type="uri">https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761263s000lbl.pdf</ext-link>
+</mixed-citation></ref></ref-list></back></article>

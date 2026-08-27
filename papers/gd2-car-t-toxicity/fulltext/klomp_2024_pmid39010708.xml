@@ -1,0 +1,889 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cts13887" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Transl Sci</journal-id><journal-id journal-id-type="iso-abbrev">Clin Transl Sci</journal-id><journal-id journal-id-type="pmc-domain-id">2996</journal-id><journal-id journal-id-type="pmc-domain">cts</journal-id><journal-id journal-id-type="nlm-id">101474067</journal-id><journal-id journal-id-type="publisher-id">CTS</journal-id><journal-title-group><journal-title>Clinical and Translational Science</journal-title></journal-title-group><issn pub-type="ppub">1752-8054</issn><issn pub-type="epub">1752-8062</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11250525</article-id><article-id pub-id-type="pmcid-ver">PMC11250525.1</article-id><article-id pub-id-type="pmcaid">11250525</article-id><article-id pub-id-type="pmcaiid">11250525</article-id><article-id pub-id-type="pmid">39010708</article-id><article-id pub-id-type="doi">10.1111/cts.13887</article-id><article-id pub-id-type="publisher-id">CTS13887</article-id><article-id pub-id-type="other">CTS-2024-0249</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Inflammation altered correlation between <italic toggle="no">CYP2C19</italic> genotype and <styled-content style="fixed-case" toggle="no">CYP2C19</styled-content> activity in patients receiving voriconazole</article-title><alt-title alt-title-type="right-running-head">Voriconazole: CYP2C19 activity &amp; inflammation</alt-title><alt-title alt-title-type="left-running-head">Klomp et al.</alt-title></title-group><contrib-group><contrib id="cts13887-cr-0001" contrib-type="author"><name name-style="western"><surname>Klomp</surname><given-names initials="SD">Sylvia D.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8124-5293</contrib-id><xref rid="cts13887-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts13887-cr-0002" contrib-type="author"><name name-style="western"><surname>Veringa</surname><given-names initials="A">Anette</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-4451-4216</contrib-id><xref rid="cts13887-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cts13887-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cts13887-cr-0003" contrib-type="author"><name name-style="western"><surname>Alffenaar</surname><given-names initials="JWC">Jan‐Willem C.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6703-0288</contrib-id><xref rid="cts13887-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cts13887-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="cts13887-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="cts13887-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="cts13887-cr-0004" contrib-type="author"><name name-style="western"><surname>de Boer</surname><given-names initials="MGJ">Mark G. J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5009-6499</contrib-id><xref rid="cts13887-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="cts13887-cr-0005" contrib-type="author"><name name-style="western"><surname>Span</surname><given-names initials="LFR">Lambert F. R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0985-4649</contrib-id><xref rid="cts13887-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="cts13887-cr-0006" contrib-type="author"><name name-style="western"><surname>Guchelaar</surname><given-names initials="HJ">Henk‐Jan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7085-1383</contrib-id><xref rid="cts13887-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts13887-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Swen</surname><given-names initials="JJ">Jesse J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3965-5552</contrib-id><xref rid="cts13887-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>j.j.swen@lumc.nl</email></address></contrib></contrib-group><aff id="cts13887-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Pharmacy &amp; Toxicology</named-content>
+<institution>Leiden University Medical Center</institution>
+<city>Leiden</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="cts13887-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Pharmacy and Pharmacology</named-content>
+<institution>University Medical Center Groningen</institution>
+<city>Groningen</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="cts13887-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Apotheek, OLVG</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="cts13887-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Medicine and Health</named-content>
+<institution>Sydney School of Pharmacy</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cts13887-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>The University of Sydney Institute for Infectious Diseases</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cts13887-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Westmead Hospital</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="cts13887-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Infectious Diseases</named-content>
+<institution>Leiden University Medical Center</institution>
+<city>Leiden</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="cts13887-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>University Medical Center Groningen</institution>
+<city>Groningen</city>
+<country country="NL">The Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Jesse J. Swen, Albinusdreef 2, 2333 ZA Leiden, The Netherlands.<break/>
+Email: <email>j.j.swen@lumc.nl</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>7</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2024</year></pub-date><volume>17</volume><issue seq="230">7</issue><issue-id pub-id-type="pmc-issue-id">465735</issue-id><issue-id pub-id-type="doi">10.1111/cts.v17.7</issue-id><elocation-id>e13887</elocation-id><history>
+<date date-type="rev-recd"><day>24</day><month>6</month><year>2024</year></date>
+<date date-type="received"><day>08</day><month>5</month><year>2024</year></date>
+<date date-type="accepted"><day>27</day><month>6</month><year>2024</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>15</day><month>07</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>16</day><month>07</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-07-17 10:25:15.587"><day>17</day><month>07</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Clinical and Translational Science</italic> published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CTS-17-e13887.pdf"><?pdf-name CTS-17-e13887.pdf?><?pdf-size 1975772?><?pdf-md5 f651473be66c646195cc1ccad75544ff?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:c89a/11250525/f651473be66c/CTS-17-e13887.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CTS-17-e13887.pdf"/><abstract><title>Abstract</title><p>Voriconazole is the cornerstone of the treatment and prevention of fungal infections. While there is a good correlation between <italic toggle="no">CYP2C19</italic> genotype and voriconazole exposure during prophylactic treatment, no correlation was found in patients with invasive aspergillosis. Proinflammatory cytokines result in inhibition of CYP2C19 enzyme activity (and may result in phenoconversion). Here we investigated the relationship between inflammation, <italic toggle="no">CYP2C19</italic> genotype‐predicted‐phenotype, and CYP2C19 activity in patients receiving voriconazole. Data were obtained from two prospective studies investigating voriconazole treatment (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02074462">NCT02074462</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT00893555">NCT00893555</ext-link>). Dose‐corrected voriconazole plasma concentration and C‐reactive protein (CRP) were used as proxies for CYP2C19 activity and inflammation, respectively. After data extraction and synthesis, data from 39 patients with paired voriconazole and CRP measurements were available. The distribution of <italic toggle="no">CYP2C19</italic> genotype‐predicted metabolizer phenotypes was 31% intermediate (IM), 41% normal (NM), and 28% rapid metabolizer (RM). During inflammation, dose‐corrected voriconazole levels were increased by 245%, 278%, and 486% for CYP2C19 NMs IMs and RMs, respectively. Patients with moderate or high CRP levels (&gt;50 mg/L) were phenoconverted to a lower metabolizer phenotype irrespective of their <italic toggle="no">CYP2C19</italic> genotype. In a subgroup analysis of eight patients with longitudinal data available with and without inflammation, the pattern of the dose‐corrected voriconazole and CRP measurements were similar, with CYP2C19 activity following decreasing or increasing CRP levels. In conclusion, voriconazole plasma concentrations increase during inflammation due to downregulation of CYP2C19 activity. While this effect appears largest for CYP2C19 RMs, no clinically relevant differences were observed between the <italic toggle="no">CYP2C19</italic> genotypes.</p></abstract><funding-group><award-group id="funding-0001"><funding-source>Health~Holland, Stichting LSH‐TKI</funding-source><award-id>LSHM19059</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="10"/><word-count count="5600"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.5 mode:remove_FC converted:16.07.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="CTS13887-cit-2001">
+<string-name name-style="western">
+<surname>Klomp</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Veringa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alffenaar</surname>
+<given-names>J‐W</given-names>
+</string-name>, et al. <article-title>Inflammation altered correlation between <italic toggle="no">CYP2C19</italic> genotype and <styled-content style="fixed-case" toggle="no">CYP2C19</styled-content> activity in patients receiving voriconazole</article-title>. <source>Clin Transl Sci</source>. <year>2024</year>;<volume>17</volume>:<elocation-id>e13887</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/cts.13887</pub-id>
+<pub-id pub-id-type="pmid">39010708</pub-id>
+<pub-id pub-id-type="pmcid">PMC11250525</pub-id></mixed-citation>
+</p></notes></front><body id="cts13887-body-0001"><p>
+<boxed-text position="anchor" content-type="box" orientation="portrait"><caption><title>Study Highlights</title></caption><p>
+<list list-type="simple" id="cts13887-list-0001"><list-item id="cts13887-li-0001"><p>
+<bold>WHAT IS THE CURRENT KNOWLEDGE ON THE TOPIC?</bold>
+</p></list-item></list>
+</p><p>The antifungal voriconazole is widely used both in the prophylactic and therapeutic treatment of stem cell transplantation recipients. While there is a good correlation between <italic toggle="yes">CYP2C19</italic> genotype and voriconazole exposure in the prophylactic setting, no such correlation was found in patients with invasive aspergillosis.
+<list list-type="simple" id="cts13887-list-0002"><list-item id="cts13887-li-0002"><p>
+<bold>WHAT QUESTION DID THIS STUDY ADDRESS?</bold>
+</p></list-item></list>
+</p><p>Here we investigated if inflammation influences CYP2C19 activity differently with respect to the <italic toggle="yes">CYP2C19</italic> genotype‐predicted drug metabolizer phenotype using voriconazole exposure as a proxy.
+<list list-type="simple" id="cts13887-list-0003"><list-item id="cts13887-li-0003"><p>
+<bold>WHAT DOES THIS STUDY ADD TO OUR KNOWLEDGE?</bold>
+</p></list-item></list>
+</p><p>In patients with increased c‐reactive protein (CRP) levels, the <italic toggle="yes">CYP2C19</italic> genotype to phenotype relation is disrupted and patients with higher CRP levels can be phenoconverted to a lower CYP2C19 metabolizer phenotype than indicated by their genotype.
+<list list-type="simple" id="cts13887-list-0004"><list-item id="cts13887-li-0004"><p>
+<bold>HOW MIGHT THIS CHANGE CLINICAL PHARMACOLOGY OR TRANSLATIONAL SCIENCE?</bold>
+</p></list-item></list>
+</p><p>Inflammation presents an important source of phenoconversion. The level of inflammation may be considered when using genotype‐predicted drug metabolizer phenotypes to guide drug dosing.</p></boxed-text>
+</p><sec id="cts13887-sec-0003"><title>INTRODUCTION</title><p>Voriconazole treatment is both used in the prophylactic setting and as therapeutic treatment for invasive fungal infections. These infections are a significant complication after allogeneic hematopoietic cell transplantation and cause severe morbidity and mortality.<xref rid="cts13887-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cts13887-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Voriconazole is characterized by complex pharmacokinetics with substantial inter‐ and intrapatient variability and nonlinear kinetics. Therefore, therapeutic drug monitoring (TDM) is used to attain the target trough concentration of 1–6 mg/L.<xref rid="cts13887-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+</p><p>Voriconazole is mainly converted into inactive metabolites by the cytochrome P450 (CYP) enzyme 2C19.<xref rid="cts13887-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> In addition, CYP3A4, CYP2C9, and flavin‐containing monooxygenases are also involved in the metabolism of voriconazole.<xref rid="cts13887-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> The gene encoding CYP2C19 is polymorphic. Both decreased function e.g. *2, *3 and increased function, for example, *17 alleles have been described. Five drug metabolizer phenotypes are distinguished: poor (PM), intermediate (IM), normal (NM), rapid (RM), and ultra‐rapid (UM) metabolizers.<xref rid="cts13887-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cts13887-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> In people of European descent, the phenotype frequencies are 2% PM, 23% IM, 47% NM, 26% RM, and 2% UM. However, depending on ancestry phenotype frequencies can vary considerably. For example, ~60% of the Asian are PM and IM.<xref rid="cts13887-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> The Clinical Pharmacogenetics Implementation Consortium (CPIC) recommends to starting with the standard voriconazole dose for CYP2C19 NMs and IMs. For RMs, Ums, and PMs an alternative treatment is recommended.<xref rid="cts13887-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> The Dutch Pharmacogenetics Working Group guidelines recommend starting voriconazole treatment with 50% of the normal dose in CYP2C19 PMs and 150% in CYP2C19 UMs. Two prospective studies investigating <italic toggle="yes">CYP2C19</italic>‐guided dosing in patients receiving voriconazole prophylaxis confirmed a clear correlation between the RM and UM genotype and lower voriconazole levels.<xref rid="cts13887-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cts13887-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> CYP2C19 UMs and RMs achieved therapeutic drug levels with 300 mg voriconazole twice daily versus 200 mg twice daily for NM, IM, and PM.<xref rid="cts13887-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cts13887-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+</p><p>However, in contrast to the prophylactic setting, results from a recently published prospective trial in patients (<italic toggle="yes">n</italic> = 189) with invasive aspergilloses showed no correlation between <italic toggle="yes">CYP2C19</italic> genotype and voriconazole levels.<xref rid="cts13887-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Inflammation‐induced phenoconversion has been suggested as an explanation for the lack of correlation between <italic toggle="yes">CYP2C19</italic> genotype and voriconazole concentration in patients with inflammation.<xref rid="cts13887-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="cts13887-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> During inflammation, proinflammatory cytokines are released that reduce mRNA levels of CYP2C19 and CYP3A4 via different signaling pathways, for example, JAK/STAT or C/EBPα, resulting in decreased CYP2C19 and CYP3A4 expression and enzyme activity.<xref rid="cts13887-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="cts13887-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cts13887-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="cts13887-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Indeed, CYP2C19 activity can be down‐regulated by the proinflammatory cytokines tumor necrosis factor (TNF)‐α, interleukin (IL)‐1β, IL‐6, IL‐2, and interferon (IFN)‐γ.<xref rid="cts13887-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="cts13887-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cts13887-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="cts13887-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Moreover, upregulation of IL‐6 was found to decrease CYP activity in general in patients with inflammation,<xref rid="cts13887-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="cts13887-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> and voriconazole levels increased in patients that developed an invasive fungal infection.<xref rid="cts13887-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="cts13887-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="cts13887-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>Here we investigate the relationship between inflammation, CYP2C19 genotype‐predicted metabolizer phenotype, and CYP2C19 activity in patients with and without inflammation receiving voriconazole.</p></sec><sec sec-type="methods" id="cts13887-sec-0004"><title>METHODS</title><sec id="cts13887-sec-0005"><title>Study subjects</title><p>Data were obtained from two prospective studies. The first was a prospective observational study of patients receiving voriconazole at the University Medical Center Groningen (UMCG) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02074462">NCT02074462</ext-link>).<xref rid="cts13887-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> The second study was a multicenter prospective stratified cluster randomized cross‐over trial of TDM in hematology patients receiving voriconazole for the treatment of invasive aspergillosis (VORIZONMW trial <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT00893555">NCT00893555</ext-link>).<xref rid="cts13887-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> The inclusion criteria for the current study were: (1) participation with consent for follow‐up studies in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02074462">NCT02074462</ext-link> or <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT00893555">NCT00893555</ext-link>, (2) over 18 years of age, (3) treated with voriconazole &gt;24 h after two loading doses or at least 10 doses of voriconazole, (4) available <italic toggle="yes">CYP2C19</italic> genotype, (5) paired (same day) voriconazole trough (<italic toggle="yes">C</italic>
+<sub>min</sub>) and C‐reactive protein (CRP) levels.</p></sec><sec id="cts13887-sec-0006"><title>Analyses</title><p>The primary analysis investigated the relationship between inflammation and CYP2C19 activity. Secondary analysis explored whether the occurrence of inflammation‐induced phenoconversion differed per <italic toggle="yes">CYP2C19</italic> genotype‐predicted metabolizer phenotype. Phenoconversion was defined as a change in CYP2C19 activity during inflammation resulting in a CYP2C19 activity that corresponds to the CYP2C19 activity of a less active CYP2C19 drug metabolizer phenotype without inflammation. For example, during inflammation, a genotype‐predicted CYP2C19 RM shows the CYP2C19 activity of a genotype‐predicted CYP2C19 IM without inflammation.</p><p>In a subgroup analysis with low and increased inflammation, it was investigated how inflammation and voriconazole levels correlate to each other over time by analyzing trends in dose‐corrected voriconazole and CRP levels.</p></sec><sec id="cts13887-sec-0007"><title>Data collection</title><p>Data included age, sex, weight, voriconazole trough concentration, dose, and route of administration, concomitant use of interacting CYP450 medications. Dose‐corrected voriconazole <italic toggle="yes">C</italic>
+<sub>min</sub> levels were calculated via [1‐voriconazole concentration (mg/L)/voriconazole dose (mg)] and used as a proxy for CYP2C19 activity. For recipients of a stem cell transplant, DNA was isolated prior transplantation. <italic toggle="yes">CYP2C19</italic> genotyping was performed at the LUMC as part of the original study protocols. In brief genotyping was performed using a TaqMan assay with predesigned probes for <italic toggle="yes">CYP2C19</italic> *2, *3 and *17 and carried out according to the manufacturer's instructions [TaqMan® genotyping assays by Thermofisher (Waltham, MA, USA)]. The <italic toggle="yes">CYP2C19</italic> genotype results were translated into predicted drug metabolizer phenotypes based on CPIC recommendations (PM, IM, NM, RM, or UM, Table <xref rid="cts13887-supitem-0001" ref-type="supplementary-material">S1</xref>).<xref rid="cts13887-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Voriconazole concentrations were measured with a validated LC–MS/MS method as described in detail previously.<xref rid="cts13887-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> The limit of quantification was 0.1 mg/L.</p></sec><sec id="cts13887-sec-0008"><title>Inflammation</title><p>CRP is produced by the liver in response of increased IL‐6 levels. CRP levels are an accepted proxy for the level of inflammation (12–14). Inflammation was defined as a CRP level &gt;10 mg/L. Based on the clinical guidelines, different levels of inflammation were defined as follows: “low” CRP 10–51 mg/L, “moderate” CRP 52–100 mg/L, and “severe” CRP &gt;100 mg/L.<xref rid="cts13887-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="cts13887-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> CRP and voriconazole through levels were acquired on the same day.</p></sec><sec id="cts13887-sec-0009"><title>Data analysis &amp; statistics</title><p>Continuous variables were summarized as the median and range, predicted drug metabolizer phenotype and inflammation groups were summarized as mean and standard error of means, and nominal variables as the number and percentage. Longitudinal data on the voriconazole dose‐corrected concentration were analyzed using a linear regression model. All statistical analyses were performed using Rstudio (version 4.1.0).</p></sec></sec><sec sec-type="results" id="cts13887-sec-0010"><title>RESULTS</title><p>After data extraction and synthesis, the dataset for the primary analysis contained 39 patients with paired voriconazole and CRP measurements (Figure <xref rid="cts13887-fig-0001" ref-type="fig">1</xref>).<xref rid="cts13887-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="cts13887-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Of these, 26 (66%) were males. The patients had a median age of 61 years, median weight of 76 kg and median length of 178 cm (Table <xref rid="cts13887-tbl-0001" ref-type="table">1</xref>). Most patients received voriconazole as part of the stem cell transplantation protocol for leukemia (77%). Most of the patients were categorized as CYP2C19 NM (<italic toggle="yes">n</italic> = 16; 41%), 10 were IMs (26%), 10 were RMs (26%), and two were UMs (5%). No PMs were observed. The mean dose‐corrected voriconazole trough and CRP levels were 3.32 and 89.7 mg/L, respectively. Most of the times voriconazole was administered orally (81% of the measurements). Concomitant treatment with CYP2C19 substrates such as pantoprazole or moderate CYP2C19 inhibitors such as omeprazole occurred in 59% (Table <xref rid="cts13887-tbl-0002" ref-type="table">2</xref>).</p><fig position="float" fig-type="FIGURE" id="cts13887-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Data extraction and synthesis of the study data. The primary analysis was performed on a dataset of 39 patients, the secondary analysis on 33 patients, and the subgroup analysis with 8 patients. The number of voriconazole trough levels per patient ranged from 1–60 measurements for the primary, 2–60 measurements for the secondary analysis, and 4–42 measurements for the subgroup analysis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CTS-17-e13887-g001.jpg"><?image-name CTS-17-e13887-g001.jpg?><?image-size 77905?><?image-md5 4ade3cbe6828d7422d800ad49b8cb357?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 755?><?image-original-width 1064?><?image-scaled-height 503?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c89a/11250525/4ade3cbe6828/CTS-17-e13887-g001.jpg?><?thumb-name CTS-17-e13887-g001.gif?><?thumb-size 3014?><?thumb-md5 3baa9cf88d5c2e4813c3cf695f8c64af?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 112?><?thumb-cloudpmc-urn urn:cdn:blobs/c89a/11250525/3baa9cf88d5c/CTS-17-e13887-g001.gif?></graphic></fig><table-wrap position="float" id="cts13887-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Patient characteristics (<italic toggle="no">n</italic> = 39).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Male gender, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">26 (66)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, median (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">61 (19–74)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Weight (kg), median (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">76 (50–113)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Length (cm), median (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">178 (160–198)</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Disease, <italic toggle="yes">n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Churg‐Strauss syndrome</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2.6)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Cystic fibrosis</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (5.1)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Kidney transplantation</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2.6)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Leukemia</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">30 (76.9)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Lymphoma</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (5.1)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Multiple myeloma</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2.6)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Myelodysplastic syndrome</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2.6)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Pneumonia/vasculitis</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2.6)</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">CYP2C19 predicted drug metabolizer phenotype, <italic toggle="yes">n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Poor metabolizer</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Intermediate metabolizer</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (26)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Normal metabolizer</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">16 (41)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Rapid metabolizer</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (26)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Ultra‐rapid metabolizer</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (5)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Failed genotyping</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2)</td></tr></tbody></table></table-wrap><table-wrap position="float" id="cts13887-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Voriconazole pharmacokinetics, (<italic toggle="no">n</italic> = 324 voriconazole measurements obtained from 39 patients).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Daily dose (mg), median (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">400 (100–1050)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IV administration, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">62 (19)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Voriconazole <italic toggle="yes">C</italic>
+<sub>min</sub> (mg/L), mean (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.80 (0.20–12.27)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dose‐corrected voriconazole (mg/L per mg), median (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.0060 (0.00035–0.033)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CRP (mg/L), median (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">63 (1.5–401)</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">CYP2C19 interacting comedication, <italic toggle="yes">n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">None</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">134 (41)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Pantoprazole or (es)omeprazole</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">185 (57)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Fluconazole and omeprazole</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (2)</td></tr></tbody></table><table-wrap-foot id="cts13887-ntgp-0001"><fn id="cts13887-note-0001"><p>Abbreviations: CRP, C‐reactive protein; IV, intravenous.</p></fn></table-wrap-foot></table-wrap><p>The results of the primary analysis show that the dose‐corrected voriconazole level increased with increasing CRP concentration (Figure <xref rid="cts13887-fig-0002" ref-type="fig">2</xref>). There was a significant positive association between dose‐corrected voriconazole trough concentration and CRP (<italic toggle="yes">β</italic> = 3.262e‐05, <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.1634 <italic toggle="yes">p</italic> = &lt; 0.001).</p><fig position="float" fig-type="FIGURE" id="cts13887-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Relation between CRP plasma concentration and dose‐corrected voriconazole level. The line represents the regression of all samples (<italic toggle="yes">y</italic> = 4.995e‐03 + 3.262e‐05<italic toggle="yes">x</italic>, <italic toggle="yes">p</italic> = &lt; 0.001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CTS-17-e13887-g002.jpg"><?image-name CTS-17-e13887-g002.jpg?><?image-size 42204?><?image-md5 ad1a477aaf51e1bacd558cfe0a4751ee?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 704?><?image-original-width 1064?><?image-scaled-height 469?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c89a/11250525/ad1a477aaf51/CTS-17-e13887-g002.jpg?><?thumb-name CTS-17-e13887-g002.gif?><?thumb-size 2988?><?thumb-md5 a0953ddfb76658b83e3344ef648bcdac?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 120?><?thumb-cloudpmc-urn urn:cdn:blobs/c89a/11250525/a0953ddfb766/CTS-17-e13887-g002.gif?></graphic></fig><p>The number of available voriconazole trough and CRP levels varied substantially between patients and ranged from 2 to 60. To investigate the effect of the number of measurements per patient, a sensitivity analysis was performed. The results showed no significant effect of the number of measurement per patient on the relation between CRP and dose‐corrected voriconazole trough level (Figures <xref rid="cts13887-supitem-0001" ref-type="supplementary-material">S1</xref> and <xref rid="cts13887-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><p>The secondary analysis explored the effect of inflammation on phenoconversion for the different CYP2C19 genotype‐predicted metabolizer phenotypes. For this analysis only patients with multiple voriconazole measurements were included. Consequently, four patients with single measurements were excluded. The CYP2C19 activities measured during and without severe inflammation were compared and stratified for CYP2C19 genotype‐predicted drug metabolizer phenotype. Since, there was only one subject with UM phenotype with multiple measurements, this subject was excluded from the analysis. As expected, the CYP2C19 activity, transformed dose‐corrected voriconazole levels, without inflammation was higher for RMs (measured CYP2C19 enzyme activity 0.998 ± 0.000228) compared with NMs (measured CYP2C19 enzyme activity 0.995 ± 0.000141) and IMs (measured CYP2C19 enzyme activity 0.995 ± 0.000403). The activity decreased for all <italic toggle="yes">CYP2C19</italic> predicted drug metabolizer phenotypes at higher inflammatory status (CRP &gt; 100 mg/L). During severe inflammation, the CYP2C19 activity of IM, NM, and RM were similar to the CYP2C19 activity of a lower metabolizer phenotype in the absence of inflammation. The largest effect of inflammation on CYP2C19 activity was observed for the RM phenotype, and the smallest effect for the NMs. For CYP2C19 NMs the increase in dose‐corrected voriconazole level was 245%, for IMs 278% and for RMs 486% (Table <xref rid="cts13887-tbl-0003" ref-type="table">3</xref>).</p><table-wrap position="float" id="cts13887-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Effect of inflammation on dose‐corrected voriconazole measurements.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">CYP2C19 predicted drug metabolizer phenotype</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dose‐corrected voriconazole (mg/L per mg) in the absence of inflammation (CRP &lt; 10)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dose‐corrected voriconazole (mg/L per mg) in the presence of inflammation (CRP &gt; 100)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">IM</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">0.00468 ± 0.000403</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">0.0130 ± 0.000772</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NM</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">0.00453 ± 0.000141</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">0.0111 ± 0.000479</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RM</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">0.00202 ± 0.000228</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">0.00981 ± 0.000318</td></tr></tbody></table><table-wrap-foot id="cts13887-ntgp-0002"><fn id="cts13887-note-0002"><p>Abbreviations: CRP, c‐reactive protein; IM, intermediate metabolizer; NM, normal metabolizer; RM, rapid metabolizer.</p></fn></table-wrap-foot></table-wrap><p>We observed the decrease to a similarly low CYP2C19 activity range for all CYP2C19 predicted drug metabolizer phenotypes during inflammation. Since dichotomizing inflammation may be an oversimplification, we performed an exploratory analysis by splitting the CRP measurements between 10 and 100 mg/L in a low (CRP 10–51 mg/L) and moderate (52–100 mg/L) inflammation group. This analysis indicates that the RMs at low inflammation level show comparable measured CYP2C19 activity to NM and IM genotype‐predicted drug metabolizer phenotypes without inflammation (Figure <xref rid="cts13887-fig-0003" ref-type="fig">3</xref>). At moderate inflammation for all metabolizer phenotype groups (IM, NM, and RM) the measured CYP2C19 activity is already lower than the NM and IM level in the absence of inflammation. Additionally, at the moderate inflammation level, the measured CYP2C19 activity of all CYP2C19 predicted drug metabolizer phenotype groups were decreased to a level lower than IMs without inflammation.</p><fig position="float" fig-type="FIGURE" id="cts13887-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Relation between inflammation (no, low, moderate and severe) and measured CYP2C19 activity per <italic toggle="yes">CYP2C19</italic> predicted drug metabolizer phenotype. No inflammation: CRP &lt;10 mg/L, low inflammation: CRP between 10 and 51 mg/L, moderate inflammation: CRP between 52 and 100 mg/L, severe inflammation: CRP &gt; 100 mg/L. Red: Normal predicted drug metabolizer phenotype, blue: Intermediate predicted drug metabolizer phenotype, green: Rapid predicted drug metabolizer phenotype. Measured CYP2C19 enzyme activity was calculated by [1‐(voriconazole concentration (mg/L)/voriconazole dose (mg)].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CTS-17-e13887-g004.jpg"><?image-name CTS-17-e13887-g004.jpg?><?image-size 42967?><?image-md5 f0ba278c97748ba78492df06a272aaa4?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 667?><?image-original-width 1064?><?image-scaled-height 444?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c89a/11250525/f0ba278c9774/CTS-17-e13887-g004.jpg?><?thumb-name CTS-17-e13887-g004.gif?><?thumb-size 2792?><?thumb-md5 674158a91d3622efa9654f0efa08dae4?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 127?><?thumb-cloudpmc-urn urn:cdn:blobs/c89a/11250525/674158a91d36/CTS-17-e13887-g004.gif?></graphic></fig><p>For a subgroup of eight patients voriconazole levels and CRP levels were available in absence and presence of inflammation. With the data from these patients, we explored if the change in dose‐corrected voriconazole trough level and CRP was different for the several CYP2C19 phenotypes (Figure <xref rid="cts13887-fig-0004" ref-type="fig">4</xref>). Voriconazole and CRP levels followed similar patterns with higher voriconazole levels with increasing CRP and vice‐versa in all patients (Figure <xref rid="cts13887-fig-0004" ref-type="fig">4A1,A2,B2,B3,C1,C2</xref>). As expected, dose‐corrected voriconazole trough levels were highest for IMs and lowest for RMs in the absence of inflammation (Figure <xref rid="cts13887-fig-0004" ref-type="fig">4A3,B3,C1</xref>). During inflammation, no large difference in the dose‐corrected voriconazole trough levels of the different drug metabolizer phenotypes were observed, the highest levels were detected in NMs (Figure <xref rid="cts13887-fig-0004" ref-type="fig">4B2,B3</xref>).</p><fig position="float" fig-type="FIGURE" id="cts13887-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Effect of inflammation on voriconazole pharmacokinetics in the subgroup of subjects with data prior to and during inflammation. This figure shows the dose‐corrected voriconazole (red) and C‐reactive protein (CRP) levels (blue) for patients with a voriconazole trough level in without (CPR &lt; 10) and with (CRP ≥ 10) inflammation presented by predicted CYP2C19 phenotype, three CYP2C19‐predicted intermediate metabolizers (a), three CYP2C19‐predicted normal metabolizers (b), two CYP1C19‐predicted rapid metabolizers (c). Measurements are sequential, but information regarding the intervals is lacking.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CTS-17-e13887-g003.jpg"><?image-name CTS-17-e13887-g003.jpg?><?image-size 77638?><?image-md5 8bdf3f0dfa9ee06f68f3cee92a9ff9f4?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 829?><?image-original-width 1064?><?image-scaled-height 552?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c89a/11250525/8bdf3f0dfa9e/CTS-17-e13887-g003.jpg?><?thumb-name CTS-17-e13887-g003.gif?><?thumb-size 3516?><?thumb-md5 b335a9967435311e0ff1b39934cfb9e2?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 102?><?thumb-cloudpmc-urn urn:cdn:blobs/c89a/11250525/b335a9967435/CTS-17-e13887-g003.gif?></graphic></fig><p>To explore the impact of inflammation on voriconazole target attainment in the subgroup, we plotted the voriconazole trough concentration against CRP level and dosage (Figure <xref rid="cts13887-supitem-0001" ref-type="supplementary-material">S3A1,A3,B1,B2,B3,C1,C2</xref>). As expected, IMs required a lower dose compared with NMs and RMs to reach target levels in the absence of inflammation. Out of the 110 available voriconazole measurements, 18 were outside the therapeutic target range (16%), of which four were supratherapeutic (Figure <xref rid="cts13887-supitem-0001" ref-type="supplementary-material">S3</xref>). Interestingly, all supratherapeutic levels occurred during inflammation.</p></sec><sec sec-type="discussion" id="cts13887-sec-0011"><title>DISCUSSION</title><p>The current study investigated the association of CYP2C19 genotype‐predicted drug metabolizer phenotype and CYP2C19 activity in patients receiving voriconazole in the absence and presence of inflammation. Our results show a markedly decreased CYP2C19 activity during inflammation, irrespective of <italic toggle="yes">CYP2C19</italic> genotype. The study illustrates the substantial effect of inflammation on voriconazole exposure in clinical practice. Hence, it is important to consider inflammatory status during voriconazole treatment, as patients with inflammation will require dose reductions.<xref rid="cts13887-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="cts13887-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="cts13887-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> We expect that this is not applicable for CYP2C19 predicted PMs, since for those patients, the predicted CYP2C19 activity might be too low to be inhibited. Unfortunately, in our cohort, no CYP2C19 predicted PMs were present, so we could not investigate the influence of inflammation on this group. Our results are in line with previous work showing a correlation between increased CRP levels and increased voriconazole levels.<xref rid="cts13887-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="cts13887-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="cts13887-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="cts13887-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="cts13887-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Moreover, previous studies reported decreased voriconazole metabolic ratio and increased trough concentrations with increasing inflammation as quantified by CRP<xref rid="cts13887-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="cts13887-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="cts13887-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="cts13887-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="cts13887-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="cts13887-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> or cytokine levels,<xref rid="cts13887-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="cts13887-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> potentially resulting in supratherapeutic levels in patients with inflammation.<xref rid="cts13887-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>In our study, we explored the effect of inflammation on CYP2C19 activity for the different <italic toggle="yes">CYP2C19</italic> genotypes and showed a difference in percentual CYP2C19 activity decrease for the different CYP2C19 predicted drug metabolizer phenotypes. The largest increase in dose‐corrected voriconazole level was observed for RMs (486%) and the smallest for NMs (245%). No difference in the effect of the extent of inflammation on CYP2C19 activity for the different CYP2C19 predicted drug metabolizer phenotypes was observed. We anticipated the largest effect of phenoconversion in IMs, because inhibition of decreased activity will result in a loss of enzyme function. This was previously shown for CYP2C19 inhibition by concurrent medication.<xref rid="cts13887-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> In this study, all IMs were converted to the PM status independent of the type of inhibitor (moderate or strong). For the UM, RM, and NM phenotypes the strength of the inhibitor affected the degree of the phenoconversion. Our data suggest that inflammation can be seen as a strong inhibitor influencing all CYP2C19 drug metabolizer phenotypes. This has the largest influence on RMs, due to their increased starting dose. Unfortunately, our data were too sparse to allow for detailed analysis of CYP2C19 activity for the specific CYP2C19 drug metabolizer phenotypes. In previous work with pediatric patients a heterogenous effect of CRP on voriconazole plasma concentration was reported for different CYP2C19 predicted drug metabolizer phenotypes. Concentrations for IMs increased from 17% to 39% with a CRP level increased to 20 mg/L, and from 37% to 75% for NMs with an increase in CRP level to 120 mg/L.<xref rid="cts13887-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> In our study, similar effects of increasing CRP levels on the voriconazole trough concentrations were observed in the different drug metabolizer phenotypes (Table <xref rid="cts13887-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><p>In the subgroup analysis of eight patients with longitudinal data prior to and during inflammation, 16% of the voriconazole concentrations were outside of the therapeutic range (1–6 mg/L) (Figure <xref rid="cts13887-supitem-0001" ref-type="supplementary-material">S3</xref>). Interestingly, the 4% supratherapeutic measurements all occurred during increased CRP levels. Moreover, 50% of the supratherapeutic levels were found in RMs. This could be explained by the higher enzyme activity requiring a increased dose in the absence of inflammation, resulting in a higher risk of developing supratherapeutic levels when the CYP2C19 activity is inhibited during inflammation.</p><p>From a clinical perspective, our data suggest that once the adequate voriconazole dose for a particular patient has been established, frequent TDM may not be necessary. Only when CRP levels change frequent TDM is indicated (Figure <xref rid="cts13887-fig-0004" ref-type="fig">4</xref> and Figure <xref rid="cts13887-supitem-0001" ref-type="supplementary-material">S3</xref>). For example, when the right dose has been established for a patient with inflammation and the infection is cleared, CRP may drop and a higher voriconazole dosage may be required to prevent subtherapeutic levels. This is in line with results from a study investigating patients receiving voriconazole in an intensive care unit. In these patients (<italic toggle="yes">n</italic> = 153), 54% of voriconazole levels were outside the target range.<xref rid="cts13887-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+</p><p>In the current study, some assumptions were made. First, CRP levels were used as a proxy for inflammation. Ideally, IL‐6 levels are used since these are a more direct marker to assess inflammation.<xref rid="cts13887-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> A study utilizing hip surgery as a model for the effect of acute inflammation showed that during acute inflammation maximum IL‐6 levels are reached at day 1, while CRP levels peak at days 2 and 3.<xref rid="cts13887-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> CYP2C19 activity decreased on day 1 and the lowest level of CYP2C19 activity was measured at day 3.<xref rid="cts13887-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> These data show a comparable effect of acute inflammation on CYP2C19 activity and CRP levels. Secondly, we assumed steady‐state kinetics for voriconazole. In both studies used for data extraction, patients were treated for at least 24 h after two loading doses or received at least 10 doses of voriconazole.<xref rid="cts13887-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="cts13887-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> This assumption is supported by evidence from literature and guidelines for TDM.<xref rid="cts13887-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cts13887-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="cts13887-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> Thirdly, we used voriconazole dose corrected through levels as a proxy for CYP2C19 activity. While CYP2C19 is the most important enzyme in the metabolism of voriconazole, other enzymes such as CYP3A4 also play a role, such as CYP2C19, CYP3A4 which are also affected by genetic variation.<xref rid="cts13887-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="cts13887-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> The most widely recognized and studied variant is CYP3A4*22 allele.<xref rid="cts13887-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="cts13887-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Carriers of at least one <italic toggle="yes">CYP3A4*22</italic> allele have a significantly increased voriconazole <italic toggle="yes">C</italic>
+<sub>min</sub>‐to‐dose ratio.<xref rid="cts13887-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> However, the frequency of <italic toggle="yes">CYP3A4*22</italic> is low with a minor allele frequency of 0.05.<xref rid="cts13887-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="cts13887-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> Consequently, the majority of subjects is a predicted CYP3A4 NM<xref rid="cts13887-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> and it is safe to assume a similar effect of inflammation on CYP3A4 in the studied patients irrespective of their CYP3A4 genotype.</p><p>Our study was a post hoc analysis of two clinical studies which has limitations. First, the sample size was limited, and the number of available measurements varied considerably per patient. However, a sensitivity analysis indicated that the association between CRP and voriconazole level was not influenced by the number of measurements (Figures <xref rid="cts13887-supitem-0001" ref-type="supplementary-material">S1</xref> and <xref rid="cts13887-supitem-0001" ref-type="supplementary-material">S2</xref>). Both of the studies used allowed the use of concomitant medication which could potentially influence CYP2C19 and CYP3A4 activity. For all patients, the concomitant use of known CYP2C19 interacting drugs was recorded. Concomitant drug use included pantoprazole, omeprazole, esomeprazole, and fluconazole or combinations of these drugs. Pantoprazole has a low enzymatic inhibitory effect on CYP2C19; therefore, only little effect on CYP2C19 activity is expected.<xref rid="cts13887-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Omeprazole, esomeprazole, and fluconazole are moderate CYP2C19 inhibitors. Therefore, the inhibitory effect on voriconazole level is expected to be limited.<xref rid="cts13887-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> For the patients using fluconazole and omeprazole, the total inhibitory effect could influence the CYP2C19 activity. However, this group was too small to perform a subgroup analysis. In future research, it will be important to investigate the influence of concurrent medication on voriconazole trough levels more in‐depth. Particularly medication targeting IL‐6 by blocking the IL‐6 signaling pathway such as tocilizumab can have a profound effect on revering downregulation of CYP2C19 and CYP3A4 activity.<xref rid="cts13887-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> Finally, genotyping was restricted to <italic toggle="yes">CYP2C19</italic> *2, *3 and *17. While these variants together represent &gt;98% of the <italic toggle="yes">CYP2C19</italic> variants in the Dutch population, the presence of rare genetic variants cannot be excluded and could have resulted in misclassification.<xref rid="cts13887-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+</p><p>In conclusion, inflammation downregulates CYP2C19 activity. While this effect appears largest for CYP2C19 RMs, no clinically relevant differences were observed between the <italic toggle="yes">CYP2C19</italic> genotypes.</p></sec><sec id="cts13887-sec-0012"><title>AUTHOR CONTRIBUTIONS</title><p>S.D.K., A.V., J.‐W.C.A., M.G.J.B., L.F.R.S, H.‐J.G. and J.J.S. wrote the manuscript; S.D.K. and J.J.S. designed the research; S.D.K., A.V., J.‐W.C.A., M.G.J.B., L.F.R.S., H.‐J.G. and J.J.S. performed the research; S.D.K., H.J.G. and J.J.S. analyzed the data.</p></sec><sec id="cts13887-sec-0013"><title>FUNDING INFORMATION</title><p>The work of SDK is co‐funded by the PPP Allowance made available by Health~Holland, Stichting LSH‐TKI (LSHM19059).</p></sec><sec sec-type="COI-statement" id="cts13887-sec-0014"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declared no competing interests for this work.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cts13887-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Data S1
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CTS-17-e13887-s001.pdf" position="float" orientation="portrait"><?suppdata-name CTS-17-e13887-s001.pdf?><?suppdata-size 641349?><?suppdata-md5 b7479cd7dde0381fc30cc58f75b30170?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:c89a/11250525/b7479cd7dde0/CTS-17-e13887-s001.pdf?></media></supplementary-material></sec></body><back><ref-list content-type="cited-references" id="cts13887-bibl-0001"><title>REFERENCES</title><ref id="cts13887-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cts13887-cit-0001">
+<string-name name-style="western">
+<surname>Lestrade</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bentvelsen</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schauwvlieghe</surname>
+<given-names>AFAD</given-names>
+</string-name>, et al. <article-title>Voriconazole resistance and mortality in invasive aspergillosis: a multicenter retrospective cohort study</article-title>. <source>Clin Infect Dis</source>. <year>2018</year>;<volume>68</volume>(<issue>9</issue>):<fpage>1463</fpage>‐<lpage>1471</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cid/ciy859</pub-id><pub-id pub-id-type="pmid">30307492</pub-id></mixed-citation></ref><ref id="cts13887-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cts13887-cit-0002">
+<string-name name-style="western">
+<surname>Montagna</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caggiano</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lovero</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Epidemiology of invasive fungal infections in the intensive care unit: results of a multicenter Italian survey (AURORA project)</article-title>. <source>Infection</source>. <year>2013</year>;<volume>41</volume>(<issue>3</issue>):<fpage>645</fpage>‐<lpage>653</lpage>.<pub-id pub-id-type="pmid">23463186</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s15010-013-0432-0</pub-id><pub-id pub-id-type="pmcid">PMC3671106</pub-id></mixed-citation></ref><ref id="cts13887-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cts13887-cit-0003">
+<string-name name-style="western">
+<surname>Brüggemann</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donnelly</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aarnoutse</surname>
+<given-names>RE</given-names>
+</string-name>, et al. <article-title>Therapeutic drug monitoring of voriconazole</article-title>. <source>Ther Drug Monit</source>. <year>2008</year>;<volume>30</volume>(<issue>4</issue>):<fpage>403</fpage>‐<lpage>411</lpage>.<pub-id pub-id-type="pmid">18641555</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/FTD.0b013e31817b1a95</pub-id></mixed-citation></ref><ref id="cts13887-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cts13887-cit-0004">
+<string-name name-style="western">
+<surname>Weiss</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>ten Hoevel</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burhenne</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>CYP2C19 genotype is a major factor contributing to the highly variable pharmacokinetics of voriconazole</article-title>. <source>J Clin Pharmacol</source>. <year>2009</year>;<volume>49</volume>(<issue>2</issue>):<fpage>196</fpage>‐<lpage>204</lpage>.<pub-id pub-id-type="pmid">19033450</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0091270008327537</pub-id></mixed-citation></ref><ref id="cts13887-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cts13887-cit-0005">
+<string-name name-style="western">
+<surname>Yamada</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mino</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naito</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kawakami</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Impact of flavin‐containing monooxygenase 3 and CYP2C19 genotypes on plasma disposition and adverse effects of voriconazole administered orally in immunocompromised patients</article-title>. <source>J Infect Chemother</source>. <year>2019</year>;<volume>25</volume>(<issue>12</issue>):<fpage>1019</fpage>‐<lpage>1025</lpage>.<pub-id pub-id-type="pmid">31239195</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jiac.2019.05.032</pub-id></mixed-citation></ref><ref id="cts13887-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cts13887-cit-0006">
+<string-name name-style="western">
+<surname>Moriyama</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Obeng</surname>
+<given-names>AO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbarino</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for CYP2C19 and voriconazole therapy</article-title>. <source>Clin Pharmacol Ther</source>. <year>2017</year>;<volume>102</volume>(<issue>1</issue>):<fpage>45</fpage>‐<lpage>51</lpage>.<pub-id pub-id-type="pmid">27981572</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.583</pub-id><pub-id pub-id-type="pmcid">PMC5474211</pub-id></mixed-citation></ref><ref id="cts13887-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cts13887-cit-0007">
+<string-name name-style="western">
+<surname>Brouwer</surname>
+<given-names>JMJL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nijenhuis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soree</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Dutch Pharmacogenetics Working Group (DPWG) guideline for the gene‐drug interaction between CYP2C19 and CYP2D6 and SSRIs</article-title>. <source>Eur J Hum Genet</source>. <year>2022</year>;<volume>30</volume>(<issue>10</issue>):<fpage>1114</fpage>‐<lpage>1120</lpage>.<pub-id pub-id-type="pmid">34782755</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41431-021-01004-7</pub-id><pub-id pub-id-type="pmcid">PMC9553948</pub-id></mixed-citation></ref><ref id="cts13887-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cts13887-cit-0008">
+<string-name name-style="western">
+<surname>Shimizu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ochiai</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Åsell</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Bioinformatics research on inter‐racial difference in drug metabolism I. Analysis on frequencies of mutant alleles and poor metabolizers on CYP2D6 and CYP2C19</article-title>. <source>Drug Metab Pharmacokinet</source>. <year>2003</year>;<volume>18</volume>(<issue>1</issue>):<fpage>48</fpage>‐<lpage>70</lpage>.<pub-id pub-id-type="pmid">15618719</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2133/dmpk.18.48</pub-id></mixed-citation></ref><ref id="cts13887-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cts13887-cit-0009">
+<string-name name-style="western">
+<surname>Hicks</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quilitz</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Komrokji</surname>
+<given-names>RS</given-names>
+</string-name>, et al. <article-title>Prospective CYP2C19‐guided voriconazole prophylaxis in patients with neutropenic acute myeloid leukemia reduces the incidence of subtherapeutic antifungal plasma concentrations</article-title>. <source>Clin Pharmacol Ther</source>. <year>2020</year>;<volume>107</volume>(<issue>3</issue>):<fpage>563</fpage>‐<lpage>570</lpage>.<pub-id pub-id-type="pmid">31549389</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.1641</pub-id><pub-id pub-id-type="pmcid">PMC7018540</pub-id></mixed-citation></ref><ref id="cts13887-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cts13887-cit-0010">
+<string-name name-style="western">
+<surname>Patel</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamadeh</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robinson</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Evaluation of CYP2C19 genotype‐guided voriconazole prophylaxis after allogeneic hematopoietic</article-title>. <source>Cell Transplant</source>. <year>2020</year>;<volume>107</volume>(<issue>3</issue>):<fpage>571</fpage>‐<lpage>579</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.1642</pub-id><pub-id pub-id-type="pmid">31549386</pub-id></mixed-citation></ref><ref id="cts13887-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cts13887-cit-0011">
+<string-name name-style="western">
+<surname>Veringa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brüggemann</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Span</surname>
+<given-names>LFR</given-names>
+</string-name>, et al. <article-title>Therapeutic drug monitoring‐guided treatment versus standard dosing of voriconazole for invasive aspergillosis in haematological patients: a multicentre, prospective, cluster randomised, crossover clinical trial</article-title>. <source>Int J Antimicrob Agents</source>. <year>2023</year>;<volume>61</volume>(<issue>2</issue>):<elocation-id>106711</elocation-id>.<pub-id pub-id-type="pmid">36642232</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijantimicag.2023.106711</pub-id></mixed-citation></ref><ref id="cts13887-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cts13887-cit-0012">
+<string-name name-style="western">
+<surname>Klomp</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manson</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guchelaar</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swen</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Phenoconversion of cytochrome P450 metabolism: a systematic review</article-title>. <source>J Clin Med</source>. <year>2020</year>;<volume>9</volume>(<issue>9</issue>):<fpage>2890</fpage>.<pub-id pub-id-type="pmid">32906709</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm9092890</pub-id><pub-id pub-id-type="pmcid">PMC7565093</pub-id></mixed-citation></ref><ref id="cts13887-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cts13887-cit-0013">
+<string-name name-style="western">
+<surname>Shah</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>RL</given-names>
+</string-name>. <article-title>Inflammation‐induced phenoconversion of polymorphic drug metabolizing enzymes: hypothesis with implications for personalized medicine</article-title>. <source>Drug Metab Dispos</source>. <year>2015</year>;<volume>43</volume>(<issue>3</issue>):<fpage>400</fpage>‐<lpage>410</lpage>.<pub-id pub-id-type="pmid">25519488</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.114.061093</pub-id></mixed-citation></ref><ref id="cts13887-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cts13887-cit-0014">
+<string-name name-style="western">
+<surname>Dickmann</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rock</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wienkers</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slatter</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Effects of Interleukin‐6 (IL‐6) and an anti‐IL‐6 monoclonal antibody on drug‐metabolizing enzymes in human hepatocyte</article-title>. <source>Culture</source>. <year>2011</year>;<volume>39</volume>(<issue>8</issue>):<fpage>1415</fpage>‐<lpage>1422</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.111.038679</pub-id><pub-id pub-id-type="pmid">21555507</pub-id></mixed-citation></ref><ref id="cts13887-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cts13887-cit-0015">
+<string-name name-style="western">
+<surname>Klein</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blackwood</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Topical voriconazole solution for cutaneous aspergillosis in a pediatric patient after bone marrow transplant</article-title>. <source>Pediatrics</source>. <year>2006</year>;<volume>118</volume>(<issue>2</issue>):<fpage>e506</fpage>‐<lpage>e508</lpage>.<pub-id pub-id-type="pmid">16816005</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1542/peds.2005-2213</pub-id></mixed-citation></ref><ref id="cts13887-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cts13887-cit-0016">
+<string-name name-style="western">
+<surname>Jover</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bort</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gómez‐Lechón</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castell</surname>
+<given-names>JV</given-names>
+</string-name>. <article-title>Down‐regulation of human CYP3A4 by the inflammatory signal interleukin 6: molecular mechanism and transcription factors involved</article-title>. <source>FASEB J</source>. <year>2002</year>;<volume>16</volume>(<issue>13</issue>):<fpage>1799</fpage>‐<lpage>1801</lpage>.<pub-id pub-id-type="pmid">12354697</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1096/fj.02-0195fje</pub-id></mixed-citation></ref><ref id="cts13887-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cts13887-cit-0017">
+<string-name name-style="western">
+<surname>Mimura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kobayashi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Effects of cytokines on CYP3A4 expression and reversal of the effects by anti‐cytokine agents in the three‐dimensionally cultured human hepatoma cell line FLC‐4</article-title>. <source>Drug Metab Pharmacokinet</source>. <year>2015</year>;<volume>30</volume>(<issue>1</issue>):<fpage>105</fpage>‐<lpage>110</lpage>.<pub-id pub-id-type="pmid">25760537</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dmpk.2014.09.004</pub-id></mixed-citation></ref><ref id="cts13887-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cts13887-cit-0018">
+<string-name name-style="western">
+<surname>Lenoir</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daali</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollason</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Impact of acute inflammation on cytochromes P450 activity assessed by the Geneva cocktail</article-title>. <source>Clin Pharmacol Therap</source>. <year>2021</year>;<volume>109</volume>(<issue>6</issue>):<fpage>1668</fpage>‐<lpage>1676</lpage>.<pub-id pub-id-type="pmid">33341941</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.2146</pub-id><pub-id pub-id-type="pmcid">PMC8247903</pub-id></mixed-citation></ref><ref id="cts13887-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cts13887-cit-0019">
+<string-name name-style="western">
+<surname>Lanchote</surname>
+<given-names>VL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almeida</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barral</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Impact of visceral leishmaniasis and curative chemotherapy on cytochrome P450 activity in Brazilian patients</article-title>. <source>Br J Clin Pharmacol</source>. <year>2015</year>;<volume>80</volume>(<issue>5</issue>):<fpage>1160</fpage>‐<lpage>1168</lpage>.<pub-id pub-id-type="pmid">25940755</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcp.12677</pub-id><pub-id pub-id-type="pmcid">PMC4631188</pub-id></mixed-citation></ref><ref id="cts13887-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cts13887-cit-0020">
+<string-name name-style="western">
+<surname>Machavaram</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Endo‐Tsukude</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Terao</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Simulating the impact of elevated levels of Interleukin‐6 on the pharmacokinetics of various CYP450 substrates in patients with neuromyelitis optica or neuromyelitis optica spectrum disorders in different ethnic populations</article-title>. <source>AAPS J</source>. <year>2019</year>;<volume>21</volume>(<issue>3</issue>):<fpage>42</fpage>.<pub-id pub-id-type="pmid">30887238</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1208/s12248-019-0309-y</pub-id></mixed-citation></ref><ref id="cts13887-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cts13887-cit-0021">
+<string-name name-style="western">
+<surname>de Jong</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiskoot</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swen</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manson</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Distinct effects of inflammation on cytochrome P450 regulation and drug metabolism: lessons from experimental models and a potential role for pharmacogenetics</article-title>. <source>Genes</source>. <year>2020</year>;<volume>11</volume>(<issue>12</issue>):<fpage>1509</fpage>.<pub-id pub-id-type="pmid">33339226</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/genes11121509</pub-id><pub-id pub-id-type="pmcid">PMC7766585</pub-id></mixed-citation></ref><ref id="cts13887-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cts13887-cit-0022">
+<string-name name-style="western">
+<surname>Lenoir</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollason</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desmeules</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samer</surname>
+<given-names>CF</given-names>
+</string-name>. <article-title>Influence of inflammation on cytochromes P450 activity in adults: a systematic review of the literature</article-title>. <source>Front Pharmacol</source>. <year>2021</year>;<volume>12</volume>:<elocation-id>733935</elocation-id>.<pub-id pub-id-type="pmid">34867341</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2021.733935</pub-id><pub-id pub-id-type="pmcid">PMC8637893</pub-id></mixed-citation></ref><ref id="cts13887-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cts13887-cit-0023">
+<string-name name-style="western">
+<surname>Encalada Ventura</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Wanrooy</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Span</surname>
+<given-names>LF</given-names>
+</string-name>, et al. <article-title>Longitudinal analysis of the effect of inflammation on voriconazole trough concentrations</article-title>. <source>Antimicrob Agents Chemother</source>. <year>2016</year>;<volume>60</volume>(<issue>5</issue>):<fpage>2727</fpage>‐<lpage>2731</lpage>.<pub-id pub-id-type="pmid">26883707</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/AAC.02830-15</pub-id><pub-id pub-id-type="pmcid">PMC4862487</pub-id></mixed-citation></ref><ref id="cts13887-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cts13887-cit-0024">
+<string-name name-style="western">
+<surname>Gautier‐Veyret</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thiebaut‐Bertrand</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roustit</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Optimization of voriconazole therapy for treatment of invasive aspergillosis: pharmacogenomics and inflammatory status need to be evaluated</article-title>. <source>Br J Clin Pharmacol</source>. <year>2021</year>;<volume>87</volume>(<issue>6</issue>):<fpage>2534</fpage>‐<lpage>2541</lpage>.<pub-id pub-id-type="pmid">33217017</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcp.14661</pub-id></mixed-citation></ref><ref id="cts13887-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cts13887-cit-0025">
+<string-name name-style="western">
+<surname>Gautier‐Veyret</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Truffot</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bailly</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Inflammation is a potential risk factor of voriconazole overdose in hematological patients</article-title>. <source>Fundam Clin Pharmacol</source>. <year>2019</year>;<volume>33</volume>(<issue>2</issue>):<fpage>232</fpage>‐<lpage>238</lpage>.<pub-id pub-id-type="pmid">30306637</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/fcp.12422</pub-id></mixed-citation></ref><ref id="cts13887-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cts13887-cit-0026">
+<string-name name-style="western">
+<surname>Veringa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>ter Avest</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Span</surname>
+<given-names>LFR</given-names>
+</string-name>, et al. <article-title>Voriconazole metabolism is influenced by severe inflammation: a prospective study</article-title>. <source>J Antimicrob Chemother</source>. <year>2017</year>;<volume>72</volume>(<issue>1</issue>):<fpage>261</fpage>‐<lpage>267</lpage>.<pub-id pub-id-type="pmid">27601292</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jac/dkw349</pub-id></mixed-citation></ref><ref id="cts13887-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cts13887-cit-0027">
+<string-name name-style="western">
+<surname>Alffenaar</surname>
+<given-names>JWC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wessels</surname>
+<given-names>AMA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Hateren</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greijdanus</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosterink</surname>
+<given-names>JGW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uges</surname>
+<given-names>DRA</given-names>
+</string-name>. <article-title>Method for therapeutic drug monitoring of azole antifungal drugs in human serum using LC/MS/MS</article-title>. <source>J Chromatogr B</source>. <year>2010</year>;<volume>878</volume>(<issue>1</issue>):<fpage>39</fpage>‐<lpage>44</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jchromb.2009.11.017</pub-id><pub-id pub-id-type="pmid">19945360</pub-id></mixed-citation></ref><ref id="cts13887-bib-0028"><label>28</label><mixed-citation publication-type="miscellaneous" id="cts13887-cit-0028">
+<collab collab-type="authors">American Board of Internal Medicine</collab>
+. <article-title>American Board of Internal Medicine (ABIM)</article-title>. <year>2023</year>. Accessed June 24, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf" ext-link-type="uri">https://www.abim.org/Media/bfijryql/laboratory‐reference‐ranges.pdf</ext-link>
+</mixed-citation></ref><ref id="cts13887-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cts13887-cit-0029">
+<string-name name-style="western">
+<surname>van Wanrooy</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Span</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodgers</surname>
+<given-names>MG</given-names>
+</string-name>, et al. <article-title>Inflammation is associated with voriconazole trough concentrations</article-title>. <source>Antimicrob Agents Chemother</source>. <year>2014</year>;<volume>58</volume>(<issue>12</issue>):<fpage>7098</fpage>‐<lpage>7101</lpage>.<pub-id pub-id-type="pmid">25223994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/AAC.03820-14</pub-id><pub-id pub-id-type="pmcid">PMC4249508</pub-id></mixed-citation></ref><ref id="cts13887-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cts13887-cit-0030">
+<string-name name-style="western">
+<surname>Vreugdenhil</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ligthart</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Godoi Bizarro</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Moderate correlation between systemic IL‐6 responses and CRP with trough concentrations of voriconazole</article-title>. <source>Br J Clin Pharmacol</source>. <year>2018</year>;<volume>84</volume>(<issue>9</issue>):<fpage>1980</fpage>‐<lpage>1988</lpage>.<pub-id pub-id-type="pmid">29744898</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcp.13627</pub-id><pub-id pub-id-type="pmcid">PMC6089823</pub-id></mixed-citation></ref><ref id="cts13887-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cts13887-cit-0031">
+<string-name name-style="western">
+<surname>Yasu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Konuma</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kato</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kurokawa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takahashi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tojo</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Serum C‐reactive protein levels affect the plasma voriconazole trough levels in allogeneic hematopoietic cell transplant recipients</article-title>. <source>Leuk Lymphoma</source>. <year>2017</year>;<volume>58</volume>(<issue>11</issue>):<fpage>2731</fpage>‐<lpage>2733</lpage>.<pub-id pub-id-type="pmid">28306482</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/10428194.2017.1300897</pub-id></mixed-citation></ref><ref id="cts13887-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cts13887-cit-0032">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Establishment of a mathematical prediction model for voriconazole stable maintenance dose: a prospective study</article-title>. <source>Front Cell Infect Microbiol</source>. <year>2023</year>;<volume>13</volume>:<elocation-id>1157944</elocation-id>.<pub-id pub-id-type="pmid">37565064</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fcimb.2023.1157944</pub-id><pub-id pub-id-type="pmcid">PMC10410275</pub-id></mixed-citation></ref><ref id="cts13887-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cts13887-cit-0033">
+<string-name name-style="western">
+<surname>Mafuru</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>The influence of proinflammatory cytokines on voriconazole trough concentration in patients with different forms of hematologic disorders</article-title>. <source>J Clin Pharmacol</source>. <year>2019</year>;<volume>59</volume>(<issue>10</issue>):<fpage>1340</fpage>‐<lpage>1350</lpage>.<pub-id pub-id-type="pmid">30997931</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcph.1422</pub-id></mixed-citation></ref><ref id="cts13887-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cts13887-cit-0034">
+<string-name name-style="western">
+<surname>Storelli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matthey</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lenglet</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desmeules</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daali</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Impact of CYP2D6 functional allelic variations on phenoconversion and drug‐drug interactions</article-title>. <source>Clin Pharmacol Ther</source>. <year>2018</year>;<volume>104</volume>(<issue>1</issue>):<fpage>148</fpage>‐<lpage>157</lpage>.<pub-id pub-id-type="pmid">28940476</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.889</pub-id></mixed-citation></ref><ref id="cts13887-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cts13887-cit-0035">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ren</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Combined effect of CYP2C19 genetic polymorphisms and C‐reactive protein on voriconazole exposure and dosing in immunocompromised children</article-title>. <source>Front Pediatr</source>. <year>2022</year>;<volume>10</volume>:<fpage>846411</fpage>.<pub-id pub-id-type="pmid">35386257</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fped.2022.846411</pub-id><pub-id pub-id-type="pmcid">PMC8978631</pub-id></mixed-citation></ref><ref id="cts13887-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cts13887-cit-0036">
+<string-name name-style="western">
+<surname>Hinze</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuge</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grote‐Koska</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Factors influencing voriconazole plasma level in intensive care patients</article-title>. <source>JAC Antimicrob Resist</source>. <year>2024</year>;<volume>6</volume>(<issue>2</issue>):<elocation-id>dlae045</elocation-id>.<pub-id pub-id-type="pmid">38500519</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jacamr/dlae045</pub-id><pub-id pub-id-type="pmcid">PMC10946233</pub-id></mixed-citation></ref><ref id="cts13887-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cts13887-cit-0037">
+<string-name name-style="western">
+<surname>Mihara</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hashizume</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoshida</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suzuki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shiina</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>IL‐6/IL‐6 receptor system and its role in physiological and pathological conditions</article-title>. <source>Clin Sci</source>. <year>2011</year>;<volume>122</volume>(<issue>4</issue>):<fpage>143</fpage>‐<lpage>159</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/CS20110340</pub-id><pub-id pub-id-type="pmid">22029668</pub-id></mixed-citation></ref><ref id="cts13887-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cts13887-cit-0038">
+<string-name name-style="western">
+<surname>Theuretzbacher</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ihle</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Derendorf</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Pharmacokinetic/pharmacodynamic profile of voriconazole</article-title>. <source>Clin Pharmacokinet</source>. <year>2006</year>;<volume>45</volume>(<issue>7</issue>):<fpage>649</fpage>‐<lpage>663</lpage>.<pub-id pub-id-type="pmid">16802848</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2165/00003088-200645070-00002</pub-id></mixed-citation></ref><ref id="cts13887-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cts13887-cit-0039">
+<string-name name-style="western">
+<surname>Takesue</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oda</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Clinical practice guideline for the therapeutic drug monitoring of voriconazole in non‐Asian and Asian adult patients: consensus review by the Japanese Society of Chemotherapy and the Japanese Society of Therapeutic Drug Monitoring</article-title>. <source>Clin Ther</source>. <year>2022</year>;<volume>44</volume>(<issue>12</issue>):<fpage>1604</fpage>‐<lpage>1623</lpage>.<pub-id pub-id-type="pmid">36424314</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clinthera.2022.10.005</pub-id></mixed-citation></ref><ref id="cts13887-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cts13887-cit-0040">
+<string-name name-style="western">
+<surname>Elens</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Gelder</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hesselink</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haufroid</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Schaik</surname>
+<given-names>RHN</given-names>
+</string-name>. <article-title>CYP3A4*22: promising newly identified CYP3A4 variant allele for personalizing pharmacotherapy</article-title>. <source>Pharmacogenomics</source>. <year>2013</year>;<volume>14</volume>(<issue>1</issue>):<fpage>47</fpage>‐<lpage>62</lpage>.<pub-id pub-id-type="pmid">23252948</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2217/pgs.12.187</pub-id></mixed-citation></ref><ref id="cts13887-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cts13887-cit-0041">
+<string-name name-style="western">
+<surname>Saiz‐Rodríguez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almenara</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Navares‐Gómez</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Effect of the Most relevant CYP3A4 and CYP3A5 polymorphisms on the pharmacokinetic parameters of 10 CYP3A substrates</article-title>. <source>Biomedicine</source>. <year>2020</year>;<volume>8</volume>(<issue>4</issue>):<fpage>94</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/biomedicines8040094</pub-id><pub-id pub-id-type="pmcid">PMC7235792</pub-id><pub-id pub-id-type="pmid">32331352</pub-id></mixed-citation></ref><ref id="cts13887-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cts13887-cit-0042">
+<string-name name-style="western">
+<surname>Duflot</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schrapp</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bellien</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lamoureux</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Impact of CYP3A4 genotype on voriconazole exposure</article-title>. <source>Clin Pharmacol Therap</source>. <year>2018</year>;<volume>103</volume>(<issue>2</issue>):<fpage>185</fpage>‐<lpage>186</lpage>.<pub-id pub-id-type="pmid">28786228</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.809</pub-id></mixed-citation></ref><ref id="cts13887-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cts13887-cit-0043">
+<string-name name-style="western">
+<surname>Bakar</surname>
+<given-names>NS</given-names>
+</string-name>. <article-title>Pharmacogenetics of common SNP affecting drug metabolizing enzymes: comparison of allele frequencies between European and Malaysian/Singaporean</article-title>. <source>Drug Metab Pers Ther</source>. <year>2021</year>;<volume>36</volume>(<issue>3</issue>):<fpage>173</fpage>‐<lpage>181</lpage>.<pub-id pub-id-type="pmid">34412170</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1515/dmpt-2020-0153</pub-id></mixed-citation></ref><ref id="cts13887-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cts13887-cit-0044">
+<string-name name-style="western">
+<surname>Sherry</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ward</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sirotkin</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>dbSNP—database for single nucleotide polymorphisms and other classes of minor genetic variation</article-title>. <source>Genome Res</source>. <year>1999</year>;<volume>9</volume>:<fpage>9</fpage>‐<lpage>679</lpage>.<pub-id pub-id-type="pmid">10447503</pub-id></mixed-citation></ref><ref id="cts13887-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cts13887-cit-0045">
+<string-name name-style="western">
+<surname>Lamba</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thummel</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Common allelic variants of cytochrome P4503A4 and their prevalence in different populations</article-title>. <source>Pharmacogenet Genomics</source>. <year>2002</year>;<volume>12</volume>(<issue>2</issue>):<fpage>121</fpage>‐<lpage>132</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00008571-200203000-00006</pub-id><pub-id pub-id-type="pmid">11875366</pub-id></mixed-citation></ref><ref id="cts13887-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cts13887-cit-0046">
+<string-name name-style="western">
+<surname>Blanco Dorado</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maroñas Amigo</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Latorre‐Pellicer</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>A multicentre prospective study evaluating the impact of proton‐pump inhibitors omeprazole and pantoprazole on voriconazole plasma concentrations</article-title>. <source>Br J Clin Pharmacol</source>. <year>2020</year>;<volume>86</volume>(<issue>8</issue>):<fpage>1661</fpage>‐<lpage>1666</lpage>.<pub-id pub-id-type="pmid">32110830</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcp.14267</pub-id><pub-id pub-id-type="pmcid">PMC8176997</pub-id></mixed-citation></ref><ref id="cts13887-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cts13887-cit-0047">
+<string-name name-style="western">
+<surname>Flockhart</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Drug interactions and the cytochrome P450 system. The role of cytochrome P450 2C19</article-title>. <source>Clin Pharmacokinet</source>. <year>1995</year>;<volume>29</volume>(<issue>Suppl 1</issue>):<fpage>45</fpage>‐<lpage>52</lpage>.<pub-id pub-id-type="pmid">8846622</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2165/00003088-199500291-00008</pub-id></mixed-citation></ref><ref id="cts13887-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cts13887-cit-0048">
+<string-name name-style="western">
+<surname>de Jong</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klomp</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Treijtel</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rissmann</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swen</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manson</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>A systematic review on disease‐drug‐drug interactions with immunomodulating drugs: a critical appraisal of risk assessment and drug labelling</article-title>. <source>Br J Clin Pharmacol</source>. <year>2022</year>;<volume>88</volume>(<issue>10</issue>):<fpage>4387</fpage>‐<lpage>4402</lpage>.<pub-id pub-id-type="pmid">35484780</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcp.15372</pub-id><pub-id pub-id-type="pmcid">PMC9545038</pub-id></mixed-citation></ref><ref id="cts13887-bib-0049"><label>49</label><mixed-citation publication-type="miscellaneous" id="cts13887-cit-0049">
+<string-name name-style="western">
+<surname>University</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>CYP2C19 Frequency Table. PHARMGKB</article-title>. <year>2023</year>. Accessed June 24, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.pharmgkb.org/page/cyp2c19RefMaterials" ext-link-type="uri">https://www.pharmgkb.org/page/cyp2c19RefMaterials</ext-link>
+</mixed-citation></ref></ref-list></back></article>
