@@ -96,6 +96,18 @@ non-reactive microglia in unaffected cortex. Microglia are therefore best read a
 downstream of tumour-restricted CAR engagement, not as GD2 targets; the causal claim remains untested.
 Detail in `notes/08`.
 
+### 3b. Failure modes (the other axis)
+
+Efficacy is limited without GD2-negative escape being the reason: pooled neuroblastoma CR is ~40%
+(PMID 41530803), GD2-CART01 reaches 66% ORR and 42.7% 5-year OS (77% / 68% in low-burden patients), while
+DMG responses are transient. Dominant failure modes are **pre-infusion attrition** (waitlist and
+manufacturing-window progression; worse outcomes with late apheresis and ≥3 prior lines), **exhaustion
+and short functional persistence** (tonic-signalling-prone 14g2a construct; plain GD2.CART benefit ≤3
+weeks versus longer PFS with C7R; BTG1-driven hyporesponsiveness in CAR-NKT), **compartmental delivery
+failure** (a temporal-lobe lesion with high uniform GD2 did not respond while ICV-treated spinal disease
+regressed), **MDSC/G-CSF-driven microenvironmental suppression**, and **iatrogenic** loss of activity
+(steroids, dasatinib, iCasp9 ablation, DL1 as MTD, no lymphodepletion with ICV). Detail in `notes/09`.
+
 ## 4. Transient organ-function changes that could affect other therapies
 
 Magnitude, timing and reversibility are tabulated in `notes/05`. The decision-relevant summary:
