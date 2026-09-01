@@ -1,0 +1,786 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="bjh20240" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br J Haematol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">0372544</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><?publisher_abbrev blackwell?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12436212</article-id><article-id pub-id-type="pmcid-ver">PMC12436212.1</article-id><article-id pub-id-type="pmcaid">12436212</article-id><article-id pub-id-type="pmcaiid">12436212</article-id><article-id pub-id-type="pmid">40589093</article-id><article-id pub-id-type="doi">10.1111/bjh.20240</article-id><article-id pub-id-type="publisher-id">BJH20240</article-id><article-id pub-id-type="other">BJH-2025-00807.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>ORIGINAL PAPER</subject><subj-group subj-group-type="heading"><subject>Transplantation &amp; Cellular Therapy</subject></subj-group></subj-group></article-categories><title-group><article-title>Acute kidney injury after chimeric antigen receptor T‐cell therapy is associated with inferior survival in patients with relapsed/refractory large B‐cell lymphoma</article-title><alt-title alt-title-type="right-running-head">Inferior survival with AKI after CAR‐T for LBCL</alt-title><alt-title alt-title-type="left-running-head">Sharp et al.</alt-title></title-group><contrib-group><contrib id="bjh20240-cr-0001" contrib-type="author"><name name-style="western"><surname>Sharp</surname><given-names initials="J">John</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5765-8549</contrib-id><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0002" contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="Q">Qiuhong</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0003" contrib-type="author"><name name-style="western"><surname>Voorhees</surname><given-names initials="TJ">Timothy J.</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0004" contrib-type="author"><name name-style="western"><surname>Bond</surname><given-names initials="DA">David A.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0773-1829</contrib-id><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0005" contrib-type="author"><name name-style="western"><surname>Sawalha</surname><given-names initials="Y">Yazeed</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6355-3671</contrib-id><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0006" contrib-type="author"><name name-style="western"><surname>Reneau</surname><given-names initials="J">John</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6838-2410</contrib-id><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0007" contrib-type="author"><name name-style="western"><surname>Sigmund</surname><given-names initials="A">Audrey</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0008" contrib-type="author"><name name-style="western"><surname>Hanel</surname><given-names initials="W">Walter</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0009" contrib-type="author"><name name-style="western"><surname>Sehgal</surname><given-names initials="L">Lalit</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0010" contrib-type="author"><name name-style="western"><surname>Alinari</surname><given-names initials="L">Lapo</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0011" contrib-type="author"><name name-style="western"><surname>Baiocchi</surname><given-names initials="R">Robert</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0012" contrib-type="author"><name name-style="western"><surname>Brammer</surname><given-names initials="JE">Jonathan E.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6229-3609</contrib-id><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0013" contrib-type="author"><name name-style="western"><surname>Maddocks</surname><given-names initials="K">Kami</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0014" contrib-type="author"><name name-style="western"><surname>Christian</surname><given-names initials="B">Beth</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0015" contrib-type="author"><name name-style="western"><surname>Bezerra</surname><given-names initials="E">Evandro</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0016" contrib-type="author"><name name-style="western"><surname>Denlinger</surname><given-names initials="N">Nathan</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0017" contrib-type="author"><name name-style="western"><surname>Vasu</surname><given-names initials="S">Sumithira</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0018" contrib-type="author"><name name-style="western"><surname>De Lima</surname><given-names initials="M">Marcos</given-names></name><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh20240-cr-0019" contrib-type="author"><name name-style="western"><surname>Prosek</surname><given-names initials="J">Jason</given-names></name><xref rid="bjh20240-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh20240-cr-0020" contrib-type="author" corresp="yes"><name name-style="western"><surname>Epperla</surname><given-names initials="N">Narendranath</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8216-3457</contrib-id><xref rid="bjh20240-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="bjh20240-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>naren.epperla@hci.utah.edu</email></address></contrib></contrib-group><aff id="bjh20240-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Division of Hematology</named-content>
+<institution>The Ohio State University James Comprehensive Cancer Center and Solove Research Institute</institution>
+<city>Columbus</city>
+<named-content content-type="country-part">Ohio</named-content>
+<country country="US">USA</country>
+</aff><aff id="bjh20240-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Division of Nephrology</named-content>
+<institution>The Ohio State University Wexner Medical Center</institution>
+<city>Columbus</city>
+<named-content content-type="country-part">Ohio</named-content>
+<country country="US">USA</country>
+</aff><aff id="bjh20240-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Division of Hematology and Hematologic Malignancies, Huntsman Cancer Institute</named-content>
+<institution>University of Utah</institution>
+<city>Salt Lake City</city>
+<named-content content-type="country-part">Utah</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Narendranath Epperla, Division of Hematology and Hematologic Malignancies, Department of Medicine, Huntsman Cancer Institute, Salt Lake City, UT 84112, USA.<break/>
+Email: <email>naren.epperla@hci.utah.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2025</year></pub-date><volume>207</volume><issue seq="370">3</issue><issue-id pub-id-type="pmc-issue-id">496920</issue-id><issue-id pub-id-type="doi">10.1111/bjh.v207.3</issue-id><fpage>992</fpage><lpage>1001</lpage><history>
+<date date-type="received"><day>28</day><month>3</month><year>2025</year></date>
+<date date-type="accepted"><day>18</day><month>6</month><year>2025</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>16</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>17</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-17 00:25:15.577"><day>17</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">British Journal of Haematology</italic> published by British Society for Haematology and John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="BJH-207-992.pdf"><?pdf-name BJH-207-992.pdf?><?pdf-size 1151859?><?pdf-md5 7ce487bb17b4ee4d0888c63d61930acb?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:d387/12436212/7ce487bb17b4/BJH-207-992.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:BJH-207-992.pdf"/><abstract><title>Summary</title><p>Baseline risk factors for acute kidney injury (AKI) during chimeric antigen receptor T‐cell (CAR‐T) therapy are not well described. Hence, we evaluated the incidence and risk factors associated with AKI among patients undergoing CAR‐T for relapsed/refractory large B‐cell lymphoma. Among 155 patients, 28 (18%) developed AKI with a median time‐to‐peak creatinine from CAR‐T of 9.5 days (range = 3–30). Aetiologies included volume depletion (<italic toggle="no">n</italic> = 20, 71%), cytokine release syndrome (<italic toggle="no">n</italic> = 5, 18%), nephrotoxins (<italic toggle="no">n</italic> = 5, 18%), tumour lysis syndrome (<italic toggle="no">n</italic> = 1, 4%) and multifactorial (<italic toggle="no">n</italic> = 6, 21%). On univariable analysis, a history of chronic kidney disease (CKD) relative risk (RR 3.5, 95% CI: 1.9–6.6, <italic toggle="no">p</italic> &lt; 0.01), receipt of axicabtagene ciloleucel (RR 2.1, 95% CI: 1.1–4.2, <italic toggle="no">p</italic> = 0.04), elevated ferritin (RR 3.1, 95% CI: 1.1–8.4, <italic toggle="no">p</italic> = 0.03) and serum creatinine level (RR 2.9, 95% CI: 1.4–6.2, <italic toggle="no">p</italic> &lt; 0.01) were associated with AKI. On multivariable analysis, a history of CKD adjusted relative risk (aRR 3.5, 95% CI: 1.9–6.4, <italic toggle="no">p</italic> &lt; 0.01) and receipt of axicabtagene ciloleucel (aRR 2.1, 95% CI: 1.1–4.0, <italic toggle="no">p</italic> = 0.03) retained statistical significance. Four (2.6%) patients required renal replacement therapy during CAR‐T. Twenty‐five of 28 patients with AKI had renal recovery with a median time to recovery of 14 days (range = 5–85). Of those without renal recovery, two required long‐term haemodialysis and one experienced disease progression and died 34 days after CAR‐T. Patients with AKI had shorter median PFS (2.4 vs. 6.9 months, <italic toggle="no">p</italic> = 0.02) and OS (7.8 vs. 29.7 months, <italic toggle="no">p</italic> &lt; 0.01). Additional research is needed to obviate the risk of renal toxicity and improve post‐CAR‐T outcomes.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh20240-kwd-0001">acute kidney injury</kwd><kwd id="bjh20240-kwd-0002">AKI</kwd><kwd id="bjh20240-kwd-0003">CAR‐T</kwd><kwd id="bjh20240-kwd-0004">DLBCL</kwd><kwd id="bjh20240-kwd-0005">survival</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Cancer Institute</institution><institution-id institution-id-type="doi">10.13039/100000054</institution-id></institution-wrap>
+</funding-source><award-id>T32CA247815</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="3"/><page-count count="10"/><word-count count="6000"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.2 mode:remove_FC converted:15.09.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="BJH20240-cit-2001">
+<string-name name-style="western">
+<surname>Sharp</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Voorhees</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bond</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sawalha</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reneau</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Acute kidney injury after chimeric antigen receptor T‐cell therapy is associated with inferior survival in patients with relapsed/refractory large B‐cell lymphoma</article-title>. <source>Br J Haematol</source>. <year>2025</year>;<volume>207</volume>(<issue>3</issue>):<fpage>992</fpage>–<lpage>1001</lpage>. <pub-id pub-id-type="doi">10.1111/bjh.20240</pub-id>
+<pub-id pub-id-type="pmid">40589093</pub-id>
+<pub-id pub-id-type="pmcid">PMC12436212</pub-id></mixed-citation>
+</p></notes></front><body id="bjh20240-body-0001"><sec id="bjh20240-sec-0001"><title>INTRODUCTION</title><p>Chimeric antigen receptor T‐cell (CAR‐T) therapy revolutionized the treatment of relapsed/refractory large B‐cell lymphomas (LBCL)<xref rid="bjh20240-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="bjh20240-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="bjh20240-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="bjh20240-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="bjh20240-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> and was approved in this setting.<xref rid="bjh20240-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> It has unique toxicities, including cytokine release syndrome (CRS) and immune effector cell‐associated neurotoxicity (ICANS).<xref rid="bjh20240-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Acute kidney injury (AKI), an abrupt decrease in renal function causing dysregulation of extracellular volume, electrolytes and nitrogenous waste products, is an increasingly recognized toxicity associated with CAR‐T.<xref rid="bjh20240-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="bjh20240-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>Mechanisms of AKI in CAR‐T include cytokine‐driven vasodilation,<xref rid="bjh20240-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> capillary leak,<xref rid="bjh20240-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> decreased cardiac output<xref rid="bjh20240-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> and inflammatory cell infiltration of the kidney and vasculature,<xref rid="bjh20240-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> among others. A meta‐analysis of 22 CAR‐T‐treated patient cohorts revealed a significant association between AKI and severe CRS.<xref rid="bjh20240-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> AKI during CAR‐T has been associated with increased short‐term mortality of 21%–40%,<xref rid="bjh20240-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="bjh20240-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> although mechanisms for this association remain unclear. Additionally, risk factors predictive of AKI during CAR‐T therapy are unclear. Previous studies suggested prior haematopoietic stem cell transplant and higher lactate dehydrogenase (LDH) level prior to CAR‐T may be predictive, but they were limited by small sample size (<italic toggle="yes">n</italic> = 46<xref rid="bjh20240-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> and <italic toggle="yes">n</italic> = 78<xref rid="bjh20240-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>) precluding robust statistical analysis. Another study showed grade 3+ CRS and intensive care unit (ICU) admission during CAR‐T were associated with AKI<xref rid="bjh20240-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>; however, these factors are not available prior to CAR‐T administration, limiting their utility in risk assessment. More recently, low serum albumin has been associated with risk of AKI in patients undergoing CAR‐T.<xref rid="bjh20240-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Herein, we sought to evaluate the incidence of AKI, pre‐CAR‐T risk factors associated with AKI during therapy, as well as prognostic relevance of AKI in patients with relapsed/refractory LBCL.</p></sec><sec sec-type="materials-and-methods" id="bjh20240-sec-0002"><title>MATERIALS AND METHODS</title><sec id="bjh20240-sec-0003"><title>Study design</title><p>This is a single‐centre, retrospective study of patients with relapsed/refractory LBCL treated with commercial CD19‐directed CAR‐T products between 1 January 2018 and 30 September 2022. This study was approved by the institutional review board, included a waiver of informed consent given its retrospective nature and was conducted in compliance with the Declaration of Helsinki. To be eligible for analysis, adult patients (≥18 years old) must have received commercial CD19‐directed CAR‐T products for relapsed/refractory LBCL. Patients who received CAR‐T products on clinical trial were excluded.</p></sec><sec id="bjh20240-sec-0004"><title>Data collection</title><p>Baseline demographic and disease characteristics and CAR‐T administration details were obtained from the medical record. We assessed peak creatinine and the need for haemodialysis within 30 days of CAR‐T infusion and assessed renal recovery in patients experiencing AKI. For patients with AKI, daily physician progress notes were reviewed to assess for suspected causes of AKI. Medications considered potentially nephrotoxic to which the patient was exposed between CAR‐T infusion and the onset of AKI were recorded, which included non‐steroidal anti‐inflammatory drugs, angiotensin‐converting enzyme inhibitors, angiotensin receptor blockers, iodinated contrast media, intravenous vancomycin, intravenous acyclovir, aminoglycoside antibiotics, amphotericin B and foscarnet. Incidence and severity of CRS and ICANS were recorded. For patients with AKI after CAR‐T and subsequent progressive disease, the treating oncologist's notes were manually reviewed to ascertain whether the presence of post‐CAR‐T AKI impacted subsequent salvage therapy selection.</p></sec><sec id="bjh20240-sec-0005"><title>Study outcomes and definitions</title><p>The primary outcome was incidence of AKI. AKI was defined according to Kidney Disease Improving Global Outcomes (KDIGO) criteria<xref rid="bjh20240-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> as an increase in serum creatinine by ≥0.3 mg/dL in 48 h or to ≥1.5 times baseline within the prior 7 days. Urine volume &lt;0.5 mL/kg/h for 6 h was not utilized as a criterion due to high frequency of incomplete charting of urine output during routine clinical care. Secondary outcomes included determination of risk factors associated with development of AKI, progression‐free survival (PFS) and overall survival (OS) between those with and without AKI. PFS was defined from date of CAR‐T infusion to date of progression or death, censoring those alive and without progression at last follow‐up. OS was defined from date of CAR‐T infusion to death, censoring those alive at last follow‐up.</p><p>Definitions of AKI stages, CKD and renal recovery are available in Appendix <xref rid="bjh20240-supitem-0001" ref-type="supplementary-material">S1</xref>.<xref rid="bjh20240-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="bjh20240-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> CRS and ICANS were graded according to American Society for Transplantation and Cellular Therapy criteria.<xref rid="bjh20240-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Response to CAR‐T was assessed using Lugano criteria.<xref rid="bjh20240-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Full dose lymphodepletion (LD‐chemo) was defined as cyclophosphamide 500 mg/m<sup>2</sup> and fludarabine 30 mg/m<sup>2</sup> for 3 days for axicabtagene ciloleucel (axi‐cel), cyclophosphamide 250 mg/m<sup>2</sup> and fludarabine 25 mg/m<sup>2</sup> for 3 days for tisagenlecleucel (tisa‐cel) and cyclophosphamide 300 mg/m<sup>2</sup> and fludarabine 30 mg/m<sup>2</sup> for 3 days for lisocabtagene maraleucel (liso‐cel), in accordance with respective Food and Drug Administration prescribing information. All doses less than full dose were considered reduced‐dose LD‐chemo.</p></sec><sec id="bjh20240-sec-0006"><title>Statistical considerations</title><p>Baseline clinical and disease characteristics were summarized using descriptive statistics. The Poisson regression model with robust variance option was used to evaluate risk factors for the development of AKI. This analytic approach provides an unbiased estimate of the relative risk when the outcome is common (greater than 10%).<xref rid="bjh20240-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Univariable analysis was performed to assess associations between baseline clinical characteristics and development of AKI. Stepwise regression technique was used to build the multivariable analysis model including factors from the univariable analysis with <italic toggle="yes">p</italic> &lt; 0.10 and clinically relevant factors such as low albumin. Each factor with <italic toggle="yes">p</italic>‐value &lt; 0.1 in the univariable analysis was added back to the multivariable analysis model, one at a time, to check whether any of these factors were significant in the multivariable analysis model. As AKI was evaluated within the first 30 days of CAR‐T, landmark (from day 30 after CAR‐T) analysis was used to evaluate the associations between development of AKI and survival outcomes such as PFS and OS. Cox proportional hazard regression models were used to estimate the associations between individual patient characteristics and survival outcome, and each risk factor was also checked for potential confounding between AKI and survival. Confounding effect was defined as a greater than 10% relative change in the association between AKI and survival outcome with or without the covariate of interest in the model. Confounders were included in the final multivariable model. Survival curves were generated after multivariable models for PFS and OS together with adjusted hazard ratios (aHRs). Statistical analysis was performed using Stata 18 (College Station, TX).</p></sec></sec><sec sec-type="results" id="bjh20240-sec-0007"><title>RESULTS</title><sec id="bjh20240-sec-0008"><title>Baseline characteristics</title><p>A total of 155 patients were included in the study with a median follow‐up of 3.3 years (range: 1.23–5.88 years). Median age was 63 years (range: 23–85 years) and 91 (59%) were male. Eighty‐seven (56%) patients had primary refractory disease. Median lines of prior therapy were 2 (range: 1–7) and 86 (55%) patients received bridging therapy. Eighty‐eight (57%) patients received tisa‐cel while 65 (42%) received axi‐cel and 2 (1%) received liso‐cel. Twenty‐two (14%) patients received dose‐reduced LD‐chemo. In total, 28 (18%) patients developed AKI. Median time to peak serum creatinine was 9.5 days (range: 3–30 days) from CAR‐T infusion. Baseline characteristics stratified by AKI are shown in Table <xref rid="bjh20240-tbl-0001" ref-type="table">1</xref>. Notably, given the impact of baseline renal function on LD‐chemo dosing, we assessed receipt of reduced‐dose LD‐chemo by the presence of baseline CKD and found that patients with a history of CKD were more likely to receive reduced‐dose LD‐chemo than those without CKD (45% vs. 10%, <italic toggle="yes">p</italic> &lt; 0.0001).</p><table-wrap position="float" id="bjh20240-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Baseline characteristics of patients with relapsed/refractory large B‐cell lymphoma undergoing CAR T‐cell therapy.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="bottom" rowspan="1" colspan="1">AKI within 30 days of CAR‐T, <italic toggle="yes">N</italic> = 28 (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">No AKI within 30 days of CAR‐T, <italic toggle="yes">N</italic> = 127 (%)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age—median (range)</td><td align="left" valign="top" rowspan="1" colspan="1">62 (23–75)</td><td align="left" valign="top" rowspan="1" colspan="1">64 (25–85)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Gender</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Male</td><td align="left" valign="top" rowspan="1" colspan="1">17 (61%)</td><td align="left" valign="top" rowspan="1" colspan="1">74 (58%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Female</td><td align="left" valign="top" rowspan="1" colspan="1">11 (39%)</td><td align="left" valign="top" rowspan="1" colspan="1">53 (42%)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Race</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Caucasian</td><td align="left" valign="top" rowspan="1" colspan="1">26 (93%)</td><td align="left" valign="top" rowspan="1" colspan="1">117 (92%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">African American</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">4 (3%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Asian</td><td align="left" valign="top" rowspan="1" colspan="1">1 (4%)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Other</td><td align="left" valign="top" rowspan="1" colspan="1">1 (4%)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (3%)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">BMI</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&lt;25</td><td align="left" valign="top" rowspan="1" colspan="1">9 (32%)</td><td align="left" valign="top" rowspan="1" colspan="1">42 (33%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">25–29.9</td><td align="left" valign="top" rowspan="1" colspan="1">7 (25%)</td><td align="left" valign="top" rowspan="1" colspan="1">44 (35%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">30+</td><td align="left" valign="top" rowspan="1" colspan="1">12 (43%)</td><td align="left" valign="top" rowspan="1" colspan="1">41 (32%)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Comorbidities</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Hypertension</td><td align="left" valign="top" rowspan="1" colspan="1">15 (54%)</td><td align="left" valign="top" rowspan="1" colspan="1">70 (55%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Diabetes</td><td align="left" valign="top" rowspan="1" colspan="1">8 (29%)</td><td align="left" valign="top" rowspan="1" colspan="1">21 (17%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CAD or stroke</td><td align="left" valign="top" rowspan="1" colspan="1">2 (7%)</td><td align="left" valign="top" rowspan="1" colspan="1">17 (13%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CHF</td><td align="left" valign="top" rowspan="1" colspan="1">1 (4%)</td><td align="left" valign="top" rowspan="1" colspan="1">9 (7%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Chronic kidney disease</td><td align="left" valign="top" rowspan="1" colspan="1">10 (36%)</td><td align="left" valign="top" rowspan="1" colspan="1">11 (9%)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">ECOG performance status</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">0–2</td><td align="left" valign="top" rowspan="1" colspan="1">23 (82%)</td><td align="left" valign="top" rowspan="1" colspan="1">115 (91%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">3+</td><td align="left" valign="top" rowspan="1" colspan="1">5 (18%)</td><td align="left" valign="top" rowspan="1" colspan="1">12 (9%)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Histology</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">DLBCL/HGBL</td><td align="left" valign="top" rowspan="1" colspan="1">28 (100%)</td><td align="left" valign="top" rowspan="1" colspan="1">126 (99%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PMBCL</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Primary refractory disease</td><td align="left" valign="top" rowspan="1" colspan="1">20 (71%)</td><td align="left" valign="top" rowspan="1" colspan="1">67 (53%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Early relapse (&lt;12 months from end of front‐line therapy)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (7%)</td><td align="left" valign="top" rowspan="1" colspan="1">27 (21%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Median number of prior lines (range)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (2–5)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (1–7)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Bridging therapy</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">None</td><td align="left" valign="top" rowspan="1" colspan="1">11 (39%)</td><td align="left" valign="top" rowspan="1" colspan="1">58 (46%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Chemotherapy</td><td align="left" valign="top" rowspan="1" colspan="1">11 (39%)</td><td align="left" valign="top" rowspan="1" colspan="1">45 (35%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Radiation</td><td align="left" valign="top" rowspan="1" colspan="1">1 (4%)</td><td align="left" valign="top" rowspan="1" colspan="1">10 (8%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Chemo and radiation</td><td align="left" valign="top" rowspan="1" colspan="1">2 (7%)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Other</td><td align="left" valign="top" rowspan="1" colspan="1">3 (11%)</td><td align="left" valign="top" rowspan="1" colspan="1">14 (11%)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Disease status at CAR‐T<xref rid="bjh20240-note-0002" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CR</td><td align="left" valign="top" rowspan="1" colspan="1">1 (4%)</td><td align="left" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PR</td><td align="left" valign="top" rowspan="1" colspan="1">1 (4%)</td><td align="left" valign="top" rowspan="1" colspan="1">28 (22%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">SD</td><td align="left" valign="top" rowspan="1" colspan="1">4 (15%)</td><td align="left" valign="top" rowspan="1" colspan="1">17 (14%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PD</td><td align="left" valign="top" rowspan="1" colspan="1">21 (78%)</td><td align="left" valign="top" rowspan="1" colspan="1">80 (64%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Prior platinum‐based chemo</td><td align="left" valign="top" rowspan="1" colspan="1">28 (100%)</td><td align="left" valign="top" rowspan="1" colspan="1">109 (86%)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Prior transplantation</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Autologous</td><td align="left" valign="top" rowspan="1" colspan="1">5 (18%)</td><td align="left" valign="top" rowspan="1" colspan="1">31 (24%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Allogeneic</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">eGFR by MDRD—median (range)</td><td align="left" valign="top" rowspan="1" colspan="1">63 (22–278)</td><td align="left" valign="top" rowspan="1" colspan="1">84 (28–261)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pre‐LD creatinine—median (range)</td><td align="left" valign="top" rowspan="1" colspan="1">0.99 (0.37–2.22)</td><td align="left" valign="top" rowspan="1" colspan="1">0.86 (0.35–1.82)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Elevated pre‐LD LDH</td><td align="left" valign="top" rowspan="1" colspan="1">20 (71%)</td><td align="left" valign="top" rowspan="1" colspan="1">71 (56%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Elevated pre‐LD bilirubin</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Decreased pre‐LD albumin</td><td align="left" valign="top" rowspan="1" colspan="1">8 (29%)</td><td align="left" valign="top" rowspan="1" colspan="1">23 (18%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Elevated pre‐LD uric acid</td><td align="left" valign="top" rowspan="1" colspan="1">4 (14%)</td><td align="left" valign="top" rowspan="1" colspan="1">7 (6%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Elevated pre‐LD ferritin</td><td align="left" valign="top" rowspan="1" colspan="1">24 (86%)</td><td align="left" valign="top" rowspan="1" colspan="1">78 (62%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Elevated pre‐LD CRP</td><td align="left" valign="top" rowspan="1" colspan="1">20 (71%)</td><td align="left" valign="top" rowspan="1" colspan="1">65 (51%)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">LD regimen</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Fludarabine/Cytoxan</td><td align="left" valign="top" rowspan="1" colspan="1">28 (100%)</td><td align="left" valign="top" rowspan="1" colspan="1">125 (98%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Bendamustine</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2%)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Lymphodepletion dose</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Full dose</td><td align="left" valign="top" rowspan="1" colspan="1">23 (82%)</td><td align="left" valign="top" rowspan="1" colspan="1">108 (86%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Reduced dose</td><td align="left" valign="top" rowspan="1" colspan="1">5 (18%)</td><td align="left" valign="top" rowspan="1" colspan="1">17 (14%)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">CAR‐T product</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Axi‐cel</td><td align="left" valign="top" rowspan="1" colspan="1">17 (61%)</td><td align="left" valign="top" rowspan="1" colspan="1">48 (38%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Tisa‐cel</td><td align="left" valign="top" rowspan="1" colspan="1">11 (39%)</td><td align="left" valign="top" rowspan="1" colspan="1">77 (61%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Liso‐cel</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2%)</td></tr></tbody></table><table-wrap-foot id="bjh20240-ntgp-0001"><fn id="bjh20240-note-0001"><p>Abbreviations: AKI, acute kidney injury; Axi‐cel, axicabtagene ciloleucel; BMI, body mass index; CAD, coronary artery disease; CAR‐T, chimeric antigen receptor T‐cell; CHF, congestive heart failure; CKD, chronic kidney disease; CR, complete response; CRP, C‐reactive protein; DLBCL, diffuse large B‐cell lymphoma; ECOG, Eastern Cooperative Oncology Group; eGFR, estimated glomerular filtration rate; HGBL, high‐grade B‐cell lymphoma; LD, lymphodepletion; LDH, lactate dehydrogenase; liso‐cel, lisocabtagene maraleucel; MDRD, Modification of Diet in Renal Disease; PD, progressive disease; PMBCL, primary mediastinal B‐cell lymphoma; PR, partial response; SD, stable disease; tisa‐cel, tisagenlecleucel.</p></fn><fn id="bjh20240-note-0002"><label>*</label><p>Disease status at CAR‐T data missing for one patient with AKI and two patients without AKI.</p></fn></table-wrap-foot></table-wrap></sec><sec id="bjh20240-sec-0009"><title>AKI—Aetiology and course</title><p>Aetiologies (non‐mutually exclusive) for AKI included volume depletion (<italic toggle="yes">n</italic> = 20, 71%), CRS (<italic toggle="yes">n</italic> = 5, 18%), nephrotoxin exposure (<italic toggle="yes">n</italic> = 5, 18%), tumour lysis syndrome (<italic toggle="yes">n</italic> = 1, 4%), with six cases (21%) being multifactorial. Table <xref rid="bjh20240-supitem-0001" ref-type="supplementary-material">S1</xref> lists causes of AKI identified in each patient. Among patients with AKI, 21 (75%) patients had stage 1, while 1 (4%) and 6 (21%) patients had stage 2 and 3 AKI respectively.</p><p>Most patients with AKI experienced renal recovery (25 of 28, 89%). The median time to recovery was 14 days (range: 5–85 days). Of the three patients who did not experience renal recovery, two required long‐term haemodialysis and one experienced rapid progressive disease and died 34 days after CAR‐T infusion. Four (3%) patients required renal replacement therapy during their index hospitalization for CAR‐T. Two of these four required long‐term haemodialysis while the other two experienced full renal recovery. Patients with AKI experienced a longer index hospitalization for CAR‐T compared to those without AKI (median: 16 days vs. 9 days, <italic toggle="yes">p</italic> = 0.0007).</p></sec><sec id="bjh20240-sec-0010"><title>Risk factors associated with AKI</title><p>In the univariable analysis, factors significantly associated with the development of AKI in the 30 days following CAR‐T infusion included receipt of axi‐cel (compared to tisa‐cel, RR 2.09, 95% CI: 1.05–4.17, <italic toggle="yes">p</italic> = 0.0358), history of CKD (RR 3.54, 95% CI: 1.90–6.61, <italic toggle="yes">p</italic> = 0.0001), elevated pre‐lymphodepletion ferritin level (RR 3.06, 95% CI: 1.12–8.38, <italic toggle="yes">p</italic> = 0.0297), and serum creatinine (RR 2.89, 95% CI: 1.35–6.19, <italic toggle="yes">p</italic> = 0.0063) (Table <xref rid="bjh20240-tbl-0002" ref-type="table">2</xref>). On multivariable analysis, history of CKD (aRR 3.48, 95% CI: 1.91–6.35, <italic toggle="yes">p</italic> &lt; 0.0001) and receipt of axi‐cel (aRR 2.08, 95% CI: 1.08–4.03, <italic toggle="yes">p</italic> = 0.0288) retained statistical significance (Table <xref rid="bjh20240-tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="bjh20240-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Univariable and multivariable analysis for risk of acute kidney injury within 30 days of CAR‐T.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Variable</th><th align="left" colspan="3" valign="bottom" rowspan="1">Univariable analysis</th><th align="left" colspan="3" valign="bottom" rowspan="1">Multivariable analysis</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">RR</th><th align="left" valign="bottom" rowspan="1" colspan="1">95% CI</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐Value</th><th align="left" valign="bottom" rowspan="1" colspan="1">RR</th><th align="left" valign="bottom" rowspan="1" colspan="1">95% CI</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐Value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age at CAR‐T</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.96–1.01</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.2695</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">CAR‐T product</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Tisa‐cel</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Axi‐cel</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2.09</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.05–4.17</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0358</td><td align="left" valign="top" rowspan="1" colspan="1">2.08</td><td align="left" valign="top" rowspan="1" colspan="1">1.08–4.03</td><td align="left" valign="top" rowspan="1" colspan="1">0.0288</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">History of CKD</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3.54</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.90–6.61</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0001</td><td align="left" valign="top" rowspan="1" colspan="1">3.48</td><td align="left" valign="top" rowspan="1" colspan="1">1.91–6.35</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Primary refractory</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.95</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.92–4.17</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0835</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Number prior lines of treatment</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.21</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.97–1.51</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0966</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Disease status at CAR‐T</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CR/PR</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">SD</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2.86</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.57–14.27</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.2008</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PD</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3.12</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.77–12.60</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1104</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Lymphodepletion dose</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Full</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Reduced</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.30</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.55–3.03</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.5555</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Creatinine</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2.89</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.35–6.19</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0063</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Elevated CRP (pre‐LD chemo)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2.06</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.96–4.40</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0622</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Elevated ferritin (pre‐LD chemo)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3.06</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.12–8.38</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0297</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Decreased albumin (pre‐LD chemo)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.60</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.78–3.29</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.2017</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Nephrotoxin exposure</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.95</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.92–4.17</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0835</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td></tr></tbody></table><table-wrap-foot id="bjh20240-ntgp-0002"><fn id="bjh20240-note-0003"><p>Abbreviations: Axi‐cel, axicabtagene ciloleucel; CAR‐T, chimeric antigen receptor T‐cell; CKD, chronic kidney disease; CR, complete response; CRP, C‐reactive protein; LD, lymphodepletion; PD, progressive disease; PR, partial response; SD, stable disease; tisacel, tisagenlecleucel.</p></fn></table-wrap-foot></table-wrap><p>The incidence of all grade CRS was numerically higher in those with versus without AKI but did not reach statistical significance (86% vs. 70%, <italic toggle="yes">p</italic> = 0.0919). However, the grade 3+ CRS was significantly higher in patients who developed AKI compared to those who did not (25% vs. 6%, <italic toggle="yes">p</italic> = 0.0024). The incidence of all grade (54% vs. 32%, <italic toggle="yes">p</italic> = 0.0338) and grade 3+ (36% vs. 16%, <italic toggle="yes">p</italic> = 0.0155) ICANS was significantly higher among patients who developed AKI. The timing of CRS, ICANS and AKI is summarized in Figure <xref rid="bjh20240-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="bjh20240-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Swimmer plot of CRS, ICANS, peak creatinine in patients with AKI. AKI, acute kidney injury; CAR‐T, chimeric antigen receptor T‐cell; CRS, cytokine release syndrome; ICANS, immune effector cell‐associated neurotoxicity syndrome.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="BJH-207-992-g002.jpg"><?image-name BJH-207-992-g002.jpg?><?image-size 99146?><?image-md5 afcb88fc309339a29ead8b97969c4285?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 750?><?image-original-width 1064?><?image-scaled-height 500?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/d387/12436212/afcb88fc3093/BJH-207-992-g002.jpg?><?thumb-name BJH-207-992-g002.gif?><?thumb-size 10404?><?thumb-md5 88c0e3f85fc8fecc68dd7f248a2e63a6?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 113?><?thumb-cloudpmc-urn urn:cdn:blobs/d387/12436212/88c0e3f85fc8/BJH-207-992-g002.gif?></graphic></fig></sec><sec id="bjh20240-sec-0011"><title>Outcomes post‐CAR‐T based on the presence or absence of AKI</title><sec id="bjh20240-sec-0012"><title>Response rates</title><p>Among all patients, the overall response rate was 53% with a complete response rate of 32%. Compared to patients without AKI, patients with AKI had a lower overall response rate to CAR‐T (36% vs. 57%, <italic toggle="yes">p</italic> = 0.0441) though complete response rates did not significantly differ (25% vs. 34%, <italic toggle="yes">p</italic> = 0.3641, Table <xref rid="bjh20240-tbl-0003" ref-type="table">3</xref>).</p><table-wrap position="float" id="bjh20240-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Comparison of overall response rate by AKI versus no AKI within 30 days of CAR‐T infusion.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">AKI within 30 days of CAR‐T (<italic toggle="yes">n</italic> = 28)</th><th align="left" valign="bottom" rowspan="1" colspan="1">No AKI within 30 days of CAR‐T (<italic toggle="yes">n</italic> = 127)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Complete response</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">7 (25%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">43 (33.9%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Partial response</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (10.7%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">29 (22.8%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stable disease</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (7.1%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11 (8.7%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Progressive disease</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">13 (46.4%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">42 (33.1%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Death before response</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (10.7%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (1.6%)</td></tr></tbody></table><table-wrap-foot id="bjh20240-ntgp-0003"><fn id="bjh20240-note-0004"><p>Abbreviations: AKI, acute kidney injury; CAR‐T, chimeric antigen receptor T‐cell therapy.</p></fn></table-wrap-foot></table-wrap></sec><sec id="bjh20240-sec-0013"><title>Progression‐free survival</title><p>Median PFS was shorter among patients with AKI (2.4 months vs. 6.9 months, HR 1.76, 95% CI: 1.10–2.81, <italic toggle="yes">p</italic> = 0.0189). This finding remained significant on multivariable analysis with an aHR of 1.79 (95% CI: 1.08–2.97, <italic toggle="yes">p</italic> = 0.0243, Figure <xref rid="bjh20240-fig-0002" ref-type="fig">2A</xref>). Increasing stage of AKI was associated with increased risk of progression or death (aHR 2.53 [95% CI: 1.68–3.83], <italic toggle="yes">p</italic> &lt; 0.0001). Other factors that were noted to be independently associated with significantly inferior PFS included receipt of tisa‐cel (compared to axi‐cel, aHR 1.53, 95% CI: 1.00–2.34, <italic toggle="yes">p</italic> = 0.0494) and presence of primary refractory disease (aHR 1.96, 95% CI: 1.31–2.93, <italic toggle="yes">p</italic> = 0.0010, Table <xref rid="bjh20240-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><fig position="float" fig-type="FIGURE" id="bjh20240-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Outcomes by the presence of AKI within 30 days of CAR‐T infusion. (A) Progression‐free survival. (B) Overall survival. AKI, acute kidney injury; CAR‐T, chimeric antigen receptor T‐cell.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="BJH-207-992-g003.jpg"><?image-name BJH-207-992-g003.jpg?><?image-size 72832?><?image-md5 3f1a38228613455133fa5ee575257a7e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1201?><?image-original-width 1064?><?image-scaled-height 800?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/d387/12436212/3f1a38228613/BJH-207-992-g003.jpg?><?thumb-name BJH-207-992-g003.gif?><?thumb-size 9648?><?thumb-md5 e2887871e161e9083dc7610b8528d8df?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 113?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/d387/12436212/e2887871e161/BJH-207-992-g003.gif?></graphic></fig></sec><sec id="bjh20240-sec-0014"><title>Overall survival</title><p>Median OS was also shorter among patients who developed AKI (7.8 months vs. 29.7 months, HR 2.12, 95% CI: 1.28–3.52, <italic toggle="yes">p</italic> = 0.0035). This finding remained significant on multivariable analysis with an aHR of 2.21 (95% CI: 1.28–3.81, <italic toggle="yes">p</italic> = 0.0043, Figure <xref rid="bjh20240-fig-0002" ref-type="fig">2B</xref>). Increasing stage of AKI was associated with an increased risk of death (aHR 2.72 [95% CI: 1.81–4.10], <italic toggle="yes">p</italic> &lt; 0.0001). Other factors that were independently associated with significantly inferior OS included receipt of tisa‐cel (compared to axi‐cel, aHR 2.45, 95% CI: 1.50–4.02 <italic toggle="yes">p</italic> = 0.0004), presence of primary refractory disease (aHR 2.09, 95% CI: 1.32–3.30 <italic toggle="yes">p</italic> = 0.0016) and pre‐LD elevation of C‐reactive protein (CRP) (aHR 2.05, 95% CI: 1.28–3.26, <italic toggle="yes">p</italic> = 0.0026, Table <xref rid="bjh20240-supitem-0001" ref-type="supplementary-material">S3</xref>).</p></sec></sec><sec id="bjh20240-sec-0015"><title>Landmark analysis</title><p>Because AKI was assessed within the first 30 days following CAR‐T, we performed a landmark analysis to evaluate the association between AKI within 30 days of CAR‐T and risk of subsequent relapse or death. Using this approach resulted in the exclusion of 14 PFS events (7 in the AKI group, 7 in the no AKI group) which occurred prior to 30 days after CAR‐T infusion. We found that patients with AKI did not have a subsequent statistically significantly inferior PFS compared to those without AKI in the univariable (HR 1.37, 95% CI: 0.79–2.38, <italic toggle="yes">p</italic> = 0.2646) or multivariable analysis (aHR 1.33, 95% CI: 0.73–2.42, <italic toggle="yes">p</italic> = 0.3508, Figure <xref rid="bjh20240-fig-0003" ref-type="fig">3A</xref>; Table <xref rid="bjh20240-supitem-0001" ref-type="supplementary-material">S4</xref>). Increasing stage of AKI was associated with inferior PFS, with a hazard ratio of 2.16 (95% CI: 1.20–3.89, <italic toggle="yes">p</italic> = 0.0085) for each one‐unit increase in AKI stage. Three OS events were excluded from the evaluation when using the landmark analysis (all in the AKI group). We found that patients with AKI had significantly inferior OS compared to those without (aHR 1.82, 95% CI: 1.02–3.26, <italic toggle="yes">p</italic> = 0.0417, Figure <xref rid="bjh20240-fig-0003" ref-type="fig">3B</xref>; Table <xref rid="bjh20240-supitem-0001" ref-type="supplementary-material">S5</xref>). Receipt of tisa‐cel (compared to axi‐cel) also demonstrated an independent association with inferior OS on multivariable analysis (aHR 2.32, 95% CI: 1.41–3.82, <italic toggle="yes">p</italic> = 0.0010). Increasing stage of AKI was associated with inferior OS, with a hazard ratio of 2.50 (95% CI: 1.58–3.96, <italic toggle="yes">p</italic> = 0.0001) for each one‐unit increase in AKI stage.</p><fig position="float" fig-type="FIGURE" id="bjh20240-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Outcomes by presence of AKI within 30 days of CAR‐T infusion using 30‐day landmark analysis. (A) Progression‐free survival. (B) Overall survival. AKI, acute kidney injury; CAR‐T, chimeric antigen receptor T‐cell.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="BJH-207-992-g001.jpg"><?image-name BJH-207-992-g001.jpg?><?image-size 79571?><?image-md5 19b88f2d6d952f1537933414986fd4e8?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1280?><?image-original-width 1064?><?image-scaled-height 853?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/d387/12436212/19b88f2d6d95/BJH-207-992-g001.jpg?><?thumb-name BJH-207-992-g001.gif?><?thumb-size 9730?><?thumb-md5 1e1225fc0484f855988e24df60224ccc?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 120?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/d387/12436212/1e1225fc0484/BJH-207-992-g001.gif?></graphic></fig></sec><sec id="bjh20240-sec-0016"><title>Impact of <styled-content style="fixed-case" toggle="no">AKI</styled-content> on subsequent therapy post <styled-content style="fixed-case" toggle="no">CAR</styled-content>‐T relapse/progression</title><p>The charts of patients with AKI following CAR‐T therapy were reviewed to assess whether AKI post‐CAR‐T impacted subsequent treatment decisions. Of the 28 patients with AKI, 20 (71%) experienced disease progression while 8 (29%) did not. Of the 20 with disease progression, 11 (55%) received subsequent therapy, including anti‐PD(L)1 therapy in 4 (36%), polatuzumab + bendamustine + rituximab in 2 (18%), ibrutinib in 1 (9%), Obinutuzumab + lenalidomide in 1 (9%), tafasitamab + lenalidomide in 1 (9%), loncastuximab in 1 (9%) and radiation alone in 1 (9%). Of the 9 (45%) patients with progression without subsequent therapy, 4 (44%) had other conditions precluding further treatment (liver dysfunction in 1, bowel perforation in 1, myocardial infarction and cardiomyopathy in 1, infection in 1), 4 (44%) pursued hospice and 1 (11%) experienced rapid disease progression after CAR‐T and died. Post‐CAR‐T AKI was not factored into decision‐making for selection of subsequent therapies in our cohort.</p></sec></sec><sec sec-type="discussion" id="bjh20240-sec-0017"><title>DISCUSSION</title><p>In this retrospective study of patients with relapsed/refractory LBCL undergoing commercial CD19‐directed CAR‐T therapy, we found that AKI is not an uncommon complication, with 18% of patients affected in our series, although the majority of cases were stage I and resolved at a median of 14 days after onset. Baseline variables associated with risk of AKI in multivariable analysis included history of CKD and receipt of axi‐cel. Four (2.6%) patients required renal replacement therapy during their CAR‐T course, with two of these going on to require long‐term haemodialysis. The one other patient without renal recovery experienced rapid disease progression and died 34 days after CAR‐T infusion. Although most patients experienced renal recovery, AKI during CAR‐T treatment was associated with inferior long‐term survival outcomes.</p><p>The incidence of AKI noted in our study generally aligns with other series<xref rid="bjh20240-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="bjh20240-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="bjh20240-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="bjh20240-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="bjh20240-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="bjh20240-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="bjh20240-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> (Table <xref rid="bjh20240-supitem-0001" ref-type="supplementary-material">S6</xref>). Our study adds to the literature by analysing a large cohort of patients undergoing CAR‐T for LBCL and examining not only the incidence of but also the risk factors for and prognostic associations with AKI, including important factors not previously assessed, such as primary refractory disease. Prior studies have been smaller<xref rid="bjh20240-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="bjh20240-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="bjh20240-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="bjh20240-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> or have consisted of heterogenous populations,<xref rid="bjh20240-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="bjh20240-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="bjh20240-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="bjh20240-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> including patients with multiple myeloma and acute lymphoblastic leukaemia, where inherent risks and mechanisms of AKI may vary from LBCL, or they have identified variables associated with AKI that are not available prior to CAR‐T infusion, such as grade 3–4 CRS<xref rid="bjh20240-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="bjh20240-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> and requirement of ICU level of care.<xref rid="bjh20240-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> We identified a history of CKD and receipt of axi‐cel as independently associated with risk of AKI. Notably, we did not replicate prior findings of higher pre‐LD LDH level,<xref rid="bjh20240-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> low pre‐LD serum albumin level<xref rid="bjh20240-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> or prior haematopoietic stem cell transplant<xref rid="bjh20240-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> being associated with AKI. Use of transplant in this population has decreased as CAR‐T is increasingly utilised in early relapse settings; thus, we had a relatively low proportion of patients with prior transplant (autologous <italic toggle="yes">n</italic> = 36 [23%], allogeneic <italic toggle="yes">n</italic> = 1 [1%]). Additionally, the association between prior transplant and AKI has not been consistently detected.<xref rid="bjh20240-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p><p>It has been previously demonstrated that cytokines associated with systemic inflammation may contribute to the development of AKI<xref rid="bjh20240-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> and that these cytokines have also been associated with worse outcomes after CAR‐T therapy.<xref rid="bjh20240-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Whether these cytokines cause a direct nephrotoxic effect or simply represent a surrogate measure of higher disease burden is unclear. Furthermore, the lack of association of AKI with primary refractory disease or progressive disease at CAR‐T in our study indicates that the development of AKI post CAR‐T involves a complex interplay between several factors and that it is not merely a surrogate for disease aggressiveness/burden. This needs to be explored further in future studies.</p><p>We found a significant association between increasing stages of AKI and inferior PFS and OS. Our findings align with those of Wood et al., documenting inferior PFS among patients with AKI versus without (3.2 months vs. 19.6 months, <italic toggle="yes">p</italic> = 0.003)<xref rid="bjh20240-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> and of Broadman et al., documenting a hazard ratio for PFS of 2.63 (95% CI: 1.79–3.87, <italic toggle="yes">p</italic> &lt; 0.001).<xref rid="bjh20240-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> In line with prior studies, elevated pre‐LD CRP level was associated with inferior outcomes; however, in contrast, we did not see a similar trend with elevated pre‐LD ferritin level in our study.<xref rid="bjh20240-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><p>Given the association between higher intensity LD‐chemo and favourable long‐term outcomes,<xref rid="bjh20240-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> we controlled for LD‐chemo dose in multivariable models. This is especially important as patients with CKD (which was independently associated with the risk of AKI post CAR‐T in our study) would be more likely to receive reduced‐dose LD‐chemo. We found that receipt of reduced‐dose LD‐chemo was not independently associated with inferior PFS or OS, which decreases the likelihood that suboptimal LD‐chemo doses led to inferior survival outcomes, as has been previously reported.<xref rid="bjh20240-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Additionally, baseline CKD was not independently associated with inferior long‐term outcomes, arguing against the interpretation that imbalances in this comorbidity across groups were driving observed differences in survival. Furthermore, we systematically reviewed the charts of all patients with post‐CAR‐T AKI and progressive disease and determined that the prior AKI had not impacted subsequent therapy selection in any case.</p><p>We found an independent association between receipt of tisa‐cel and inferior PFS and OS. This finding aligns with previously reported results.<xref rid="bjh20240-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="bjh20240-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Differences in costimulatory domains, expansion kinetics and cellular persistence have all been hypothesized to contribute to the observed differences between these CAR‐T products,<xref rid="bjh20240-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> though the exact explanation for these findings remains unclear. In our cohort, the receipt of tisa‐cel was not associated with a risk of AKI, although both AKI and receipt of tisa‐cel were independently associated with inferior long‐term outcomes on multivariable analysis. This suggests that these two factors may contribute to decrements in PFS and OS through distinct mechanisms and further research is needed to fully elucidate this.</p><p>To address immortal time bias, we performed a 30‐day landmark analysis. Fourteen PFS events (7 in each group) occurred prior to the 30‐day landmark. While the finding that PFS among the cohort eligible for 30‐day landmark analysis was not significantly worse in those with AKI compared to those without, it is possible that this is largely due to exclusion of a high number of early PFS events in the AKI group (7 events among 28 patients). However, a detrimental effect of AKI on OS was still observed in the 30‐day landmark analysis.</p><p>Our study has limitations inherent to the retrospective design that warrant acknowledgement including variations in management of AKI and other toxicities by different providers and non‐uniform post‐discharge follow‐up data that may have the potential to influence findings. Furthermore, specialized biomarkers potentially predictive of AKI that are not routinely ascertained in clinical practice, such as metabolic tumour volume and cytokine panel testing, were not collected so could not be analysed. The relatively small number of patients who developed AKI could have limited our ability to detect statistically significant associations with baseline variables. As the focus of this study was to learn the association of pre‐CAR‐T variables with the risk of AKI post CAR‐T, we did not systematically assess for co‐occurrence of AKI with post‐CAR‐T toxicities other than CRS and ICANS, which could have had an impact on long‐term outcomes, such as persistent cytopenias or infections. Lastly, we could not assess the impact of liso‐cel on risk of AKI and survival outcomes due to the small number of patients who received this product in our cohort.</p><p>In conclusion, in our study examining the risk of AKI and its association with post CAR‐T outcomes in patients with relapsed or refractory LBCL, we found that history of CKD and receipt of axi‐cel were independently associated with the risk of AKI on multivariable analysis. The inferior survival outcomes following CAR‐T among those who developed AKI compared to those who did not underscore the need for further research to understand the complex interaction between renal impairment, CAR‐T expansion, effector cell function and persistence to hopefully improve post‐CAR‐T outcomes.</p></sec><sec id="bjh20240-sec-0018"><title>AUTHOR CONTRIBUTIONS</title><p>Conception and design: NE. Collection and assembly of data: All authors. Data analysis: JS, QZ and NE. Interpretation: All authors. Manuscript writing: First draft prepared by JS. All authors provided critical and insightful comments. Final approval of manuscript: All authors.</p></sec><sec id="bjh20240-sec-0019"><title>FUNDING INFORMATION</title><p>Research reported in this publication was supported by the National Cancer Institute of the National Institutes of Health under Award Number T32CA247815 (to JS). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.</p></sec><sec sec-type="COI-statement" id="bjh20240-sec-0020"><title>CONFLICT OF INTEREST STATEMENT</title><p>NE: Research funding: Beigene, Lilly and Incyte; Speakers Bureau for Beigene and Genentech, Ad boards for ADC Therapeutics, Lilly and Ipsen; Honorarium from Novartis. TJV: Advisory Board: Genmab/AbbVie, ADC Therapeutics. Consultancy: Novartis, Recordati, Genmab. Research Funding: Kite, Viracta, Incyte/Morphosys, Genmab/AbbVie, Recordati. DAB: Advisory Board: Novartis, Nurix Therapeutics, ADC Therapeutics. Research Funding: Novartis, Kite/Gilead, Accutar, Nurix Therapeutics, Incyte, GenMab, BeiGene. Astra Zeneca. BC: Advisory Board: Ipsen, AstraZeneca; Research support: Genentech, Acerta, Millenium, Kite, Bristol Myers Squibb. SV: Consulting for Omeros Inc., Alexion Inc. Research funding from Sanofi Inc. KM: Consulting: AbbVie, ADC Therapeutics, AstraZeneca/Acerta, Beigene, BMS, Caribou, Genentech, Genmab, Gilead/KITE, Incyte, Janssen, Lilly, Morphosys, Pharmacyclics.</p></sec><sec id="bjh20240-sec-0023"><title>ETHICS STATEMENT</title><p>This study was approved by the institutional review board, included a waiver of informed consent given its retrospective nature and was conducted in compliance with the Declaration of Helsinki.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="bjh20240-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Appendix S1.
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BJH-207-992-s001.docx" position="float" orientation="portrait"><?suppdata-name BJH-207-992-s001.docx?><?suppdata-size 54125?><?suppdata-md5 d562f667bc7434759e2e1a2ad2bf7d68?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:d387/12436212/d562f667bc74/BJH-207-992-s001.docx?></media></supplementary-material></sec></body><back><ack id="bjh20240-sec-0118"><title>ACKNOWLEDGEMENTS</title><p>None.</p></ack><sec sec-type="data-availability" id="bjh20240-sec-0022"><title>DATA AVAILABILITY STATEMENT</title><p>Data available upon request to corresponding author as permitted by the IRB.</p></sec><ref-list content-type="cited-references" id="bjh20240-bibl-0001"><title>REFERENCES</title><ref id="bjh20240-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="bjh20240-cit-0001">
+<string-name name-style="western">
+<surname>Boardman</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salles</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>CAR T‐cell therapy in large B cell lymphoma</article-title>. <source>Hematol Oncol</source>. <year>2023</year>;<volume>41</volume>(<issue>Suppl 1</issue>):<fpage>112</fpage>–<lpage>118</lpage>.<pub-id pub-id-type="pmid">37294963</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hon.3153</pub-id><pub-id pub-id-type="pmcid">PMC10348487</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="bjh20240-cit-0002">
+<string-name name-style="western">
+<surname>June</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadelain</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Chimeric antigen receptor therapy</article-title>. <source>N Engl J Med</source>. <year>2018</year>;<volume>379</volume>(<issue>1</issue>):<fpage>64</fpage>–<lpage>73</lpage>.<pub-id pub-id-type="pmid">29972754</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMra1706169</pub-id><pub-id pub-id-type="pmcid">PMC7433347</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="bjh20240-cit-0003">
+<string-name name-style="western">
+<surname>Locke</surname>
+<given-names>FL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghobadi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacobson</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miklos</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lekakis</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oluwole</surname>
+<given-names>OO</given-names>
+</string-name>, et al. <article-title>Long‐term safety and activity of axicabtagene ciloleucel in refractory large B‐cell lymphoma (ZUMA‐1): a single‐arm, multicentre, phase 1–2 trial</article-title>. <source>Lancet Oncol</source>. <year>2019</year>;<volume>20</volume>(<issue>1</issue>):<fpage>31</fpage>–<lpage>42</lpage>.<pub-id pub-id-type="pmid">30518502</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(18)30864-7</pub-id><pub-id pub-id-type="pmcid">PMC6733402</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="bjh20240-cit-0004">
+<string-name name-style="western">
+<surname>Schuster</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bishop</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tam</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waller</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borchmann</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McGuirk</surname>
+<given-names>JP</given-names>
+</string-name>, et al. <article-title>Tisagenlecleucel in adult relapsed or refractory diffuse large B‐cell lymphoma</article-title>. <source>N Engl J Med</source>. <year>2019</year>;<volume>380</volume>(<issue>1</issue>):<fpage>45</fpage>–<lpage>56</lpage>.<pub-id pub-id-type="pmid">30501490</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1804980</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="bjh20240-cit-0005">
+<string-name name-style="western">
+<surname>Abramson</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palomba</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lunning</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arnason</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Lisocabtagene maraleucel for patients with relapsed or refractory large B‐cell lymphomas (TRANSCEND NHL 001): a multicentre seamless design study</article-title>. <source>Lancet</source>. <year>2020</year>;<volume>396</volume>(<issue>10254</issue>):<fpage>839</fpage>–<lpage>852</lpage>.<pub-id pub-id-type="pmid">32888407</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(20)31366-0</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="bjh20240-cit-0006">
+<string-name name-style="western">
+<surname>Epperla</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abutalib</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Awan</surname>
+<given-names>FT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>YB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gopal</surname>
+<given-names>AK</given-names>
+</string-name>, et al. <article-title>ASTCT clinical practice recommendations for transplantation and cellular therapies in diffuse large B cell lymphoma</article-title>. <source>Transplant Cell Ther</source>. <year>2023</year>;<volume>29</volume>(<issue>9</issue>):<fpage>548</fpage>–<lpage>555</lpage>.<pub-id pub-id-type="pmid">37419325</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jtct.2023.06.012</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="bjh20240-cit-0007">
+<string-name name-style="western">
+<surname>Brudno</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kochenderfer</surname>
+<given-names>JN</given-names>
+</string-name>. <article-title>Toxicities of chimeric antigen receptor T cells: recognition and management</article-title>. <source>Blood</source>. <year>2016</year>;<volume>127</volume>(<issue>26</issue>):<fpage>3321</fpage>–<lpage>3330</lpage>.<pub-id pub-id-type="pmid">27207799</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2016-04-703751</pub-id><pub-id pub-id-type="pmcid">PMC4929924</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="bjh20240-cit-0008">
+<string-name name-style="western">
+<surname>León‐Román</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iacoboni</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bermejo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carpio</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bolufer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>García‐Carro</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Transient acute kidney injury after chimeric antigen receptor T‐cell therapy in patients with hematological malignancies</article-title>. <source>Clin Kidney J</source>. <year>2024</year>;<volume>17</volume>(<issue>3</issue>):<elocation-id>sfae027</elocation-id>.<pub-id pub-id-type="pmid">38500492</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ckj/sfae027</pub-id><pub-id pub-id-type="pmcid">PMC10946657</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="bjh20240-cit-0009">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Acute kidney injury following chimeric antigen receptor T‐cell therapy: epidemiology, mechanism and prognosis</article-title>. <source>Clin Immunol</source>. <year>2024</year>;<volume>266</volume>:<elocation-id>110311</elocation-id>.<pub-id pub-id-type="pmid">38996858</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clim.2024.110311</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="bjh20240-cit-0010">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Potential pathophysiological mechanisms underlying multiple organ dysfunction in cytokine release syndrome</article-title>. <source>Mediat Inflamm</source>. <year>2022</year>;<volume>2022</volume>:<elocation-id>7137900</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2022/7137900</pub-id><pub-id pub-id-type="pmcid">PMC9007670</pub-id><pub-id pub-id-type="pmid">35431655</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="bjh20240-cit-0011">
+<string-name name-style="western">
+<surname>Izzedine</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mathian</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amoura</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ng</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhaveri</surname>
+<given-names>KD</given-names>
+</string-name>. <article-title>Anticancer drug‐induced capillary leak syndrome</article-title>. <source>Kidney Int Rep</source>. <year>2022</year>;<volume>7</volume>(<issue>5</issue>):<fpage>945</fpage>–<lpage>953</lpage>.<pub-id pub-id-type="pmid">35570987</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ekir.2022.02.014</pub-id><pub-id pub-id-type="pmcid">PMC9091576</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="bjh20240-cit-0012">
+<string-name name-style="western">
+<surname>Jhaveri</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosner</surname>
+<given-names>MH</given-names>
+</string-name>. <article-title>Chimeric antigen receptor T cell therapy and the kidney: what the nephrologist needs to know</article-title>. <source>Clin J Am Soc Nephrol</source>. <year>2018</year>;<volume>13</volume>(<issue>5</issue>):<fpage>796</fpage>–<lpage>798</lpage>.<pub-id pub-id-type="pmid">29523675</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2215/CJN.12871117</pub-id><pub-id pub-id-type="pmcid">PMC5969488</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="bjh20240-cit-0013">
+<string-name name-style="western">
+<surname>Kanduri</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheungpasitporn</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thongprayoon</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petnak</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kovvuru</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Systematic review of risk factors and incidence of acute kidney injury among patients treated with CAR‐T cell therapies</article-title>. <source>Kidney Int Rep</source>. <year>2021</year>;<volume>6</volume>(<issue>5</issue>):<fpage>1416</fpage>–<lpage>1422</lpage>.<pub-id pub-id-type="pmid">34013119</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ekir.2021.02.013</pub-id><pub-id pub-id-type="pmcid">PMC8116758</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="bjh20240-cit-0014">
+<string-name name-style="western">
+<surname>Gutgarts</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maloy</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruiz</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pennisi</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Acute kidney injury after CAR‐T cell therapy: low incidence and rapid recovery</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2020</year>;<volume>26</volume>(<issue>6</issue>):<fpage>1071</fpage>–<lpage>1076</lpage>.<pub-id pub-id-type="pmid">32088364</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2020.02.012</pub-id><pub-id pub-id-type="pmcid">PMC8375362</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="bjh20240-cit-0015">
+<string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seethapathy</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strohbehn</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frigault</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Donnell</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacobson</surname>
+<given-names>CA</given-names>
+</string-name>, et al. <article-title>Acute kidney injury and electrolyte abnormalities after chimeric antigen receptor T‐cell (CAR‐T) therapy for diffuse large B‐cell lymphoma</article-title>. <source>Am J Kidney Dis</source>. <year>2020</year>;<volume>76</volume>(<issue>1</issue>):<fpage>63</fpage>–<lpage>71</lpage>.<pub-id pub-id-type="pmid">31973908</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.ajkd.2019.10.011</pub-id><pub-id pub-id-type="pmcid">PMC7311244</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="bjh20240-cit-0016">
+<string-name name-style="western">
+<surname>Vincendeau</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joseph</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thieblemont</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rabian</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valade</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Acute kidney injury after CAR‐T cell therapy: exploring clinical patterns, management, and outcomes</article-title>. <source>Clin Kidney J</source>. <year>2024</year>;<volume>17</volume>(<issue>6</issue>):<elocation-id>sfae123</elocation-id>.<pub-id pub-id-type="pmid">38915438</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ckj/sfae123</pub-id><pub-id pub-id-type="pmcid">PMC11195623</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="bjh20240-cit-0017">
+<string-name name-style="western">
+<surname>Boardman</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gutgarts</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flynn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devlin</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomas</surname>
+<given-names>AA</given-names>
+</string-name>, et al. <article-title>Predictors and implications of renal injury after CD19 chimeric antigen receptor T‐cell therapy</article-title>. <source>Haematologica</source>. <year>2025</year>;<volume>110</volume>(<issue>3</issue>):<fpage>651</fpage>–<lpage>664</lpage>.<pub-id pub-id-type="pmid">39568416</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3324/haematol.2024.286021</pub-id><pub-id pub-id-type="pmcid">PMC11873692</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="bjh20240-cit-0018">
+<string-name name-style="western">
+<surname>Khwaja</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>KDIGO clinical practice guidelines for acute kidney injury</article-title>. <source>Nephron Clin Pract</source>. <year>2012</year>;<volume>120</volume>(<issue>4</issue>):<fpage>c179</fpage>–<lpage>c184</lpage>.<pub-id pub-id-type="pmid">22890468</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000339789</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="bjh20240-cit-0019">
+<string-name name-style="western">
+<surname>Chawla</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bellomo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bihorac</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldstein</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siew</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bagshaw</surname>
+<given-names>SM</given-names>
+</string-name>, et al. <article-title>Acute kidney disease and renal recovery: consensus report of the Acute Disease Quality Initiative (ADQI) 16 Workgroup</article-title>. <source>Nat Rev Nephrol</source>. <year>2017</year>;<volume>13</volume>(<issue>4</issue>):<fpage>241</fpage>–<lpage>257</lpage>.<pub-id pub-id-type="pmid">28239173</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrneph.2017.2</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="bjh20240-cit-0020">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santomasso</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Locke</surname>
+<given-names>FL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghobadi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turtle</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brudno</surname>
+<given-names>JN</given-names>
+</string-name>, et al. <article-title>ASTCT consensus grading for cytokine release syndrome and neurologic toxicity associated with immune effector cells</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2019</year>;<volume>25</volume>(<issue>4</issue>):<fpage>625</fpage>–<lpage>638</lpage>.<pub-id pub-id-type="pmid">30592986</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2018.12.758</pub-id><pub-id pub-id-type="pmcid">PMC12180426</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="bjh20240-cit-0021">
+<string-name name-style="western">
+<surname>Cheson</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fisher</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barrington</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cavalli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwartz</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zucca</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Recommendations for initial evaluation, staging, and response assessment of Hodgkin and non‐Hodgkin lymphoma: the Lugano classification</article-title>. <source>J Clin Oncol</source>. <year>2014</year>;<volume>32</volume>(<issue>27</issue>):<fpage>3059</fpage>–<lpage>3068</lpage>.<pub-id pub-id-type="pmid">25113753</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2013.54.8800</pub-id><pub-id pub-id-type="pmcid">PMC4979083</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="bjh20240-cit-0022">
+<string-name name-style="western">
+<surname>McNutt</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xue</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hafner</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Estimating the relative risk in cohort studies and clinical trials of common outcomes</article-title>. <source>Am J Epidemiol</source>. <year>2003</year>;<volume>157</volume>(<issue>10</issue>):<fpage>940</fpage>–<lpage>943</lpage>.<pub-id pub-id-type="pmid">12746247</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/aje/kwg074</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="bjh20240-cit-0023">
+<string-name name-style="western">
+<surname>Myers</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fitzgerald</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elgarten</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Getz</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hogan</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Acute kidney injury after chimeric antigen receptor T‐cell therapy for pediatric acute lymphoblastic leukemia</article-title>. <source>Biol Blood Marrow Transplant</source>. <year>2019</year>;<volume>25</volume>(<issue>3, Supplement</issue>):<fpage>S168</fpage>–<lpage>S169</lpage>.</mixed-citation></ref><ref id="bjh20240-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="bjh20240-cit-0024">
+<string-name name-style="western">
+<surname>Farooqui</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sy‐Go</surname>
+<given-names>JPT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vaughan</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennani</surname>
+<given-names>NN</given-names>
+</string-name>, et al. <article-title>Incidence and risk factors for acute kidney injury after chimeric antigen receptor T‐cell therapy</article-title>. <source>Mayo Clin Proc</source>. <year>2022</year>;<volume>97</volume>(<issue>7</issue>):<fpage>1294</fpage>–<lpage>1304</lpage>.<pub-id pub-id-type="pmid">35787856</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.mayocp.2022.05.018</pub-id><pub-id pub-id-type="pmcid">PMC9703303</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="bjh20240-cit-0025">
+<string-name name-style="western">
+<surname>Wood</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perez</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arciola</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DiMaggio</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Outcomes of CD19‐targeted chimeric antigen receptor T cell therapy for patients with reduced renal function including dialysis</article-title>. <source>Transplant Cell Ther</source>. <year>2022</year>;<volume>28</volume>(<issue>12</issue>):<fpage>829</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jtct.2022.09.009</pub-id><pub-id pub-id-type="pmcid">PMC9791940</pub-id><pub-id pub-id-type="pmid">36174934</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="bjh20240-cit-0026">
+<string-name name-style="western">
+<surname>Petgrave</surname>
+<given-names>YP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Selukar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Epperly</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naik</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santos</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Triplett</surname>
+<given-names>BM</given-names>
+</string-name>, et al. <article-title>Acute kidney injury following treatment with CD19‐specific CAR T‐cell therapy in children, adolescent and young adult patients with B‐cell acute lymphoblastic leukemia</article-title>. <source>Pediatr Nephrol</source>. <year>2024</year>;<volume>39</volume>(<issue>8</issue>):<fpage>2495</fpage>–<lpage>2503</lpage>.<pub-id pub-id-type="pmid">38507119</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00467-024-06331-7</pub-id><pub-id pub-id-type="pmcid">PMC11199105</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="bjh20240-cit-0027">
+<string-name name-style="western">
+<surname>Faramand</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rejeski</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Baseline serum inflammatory proteins predict poor CAR T outcomes in diffuse large B‐cell lymphoma</article-title>. <source>Blood Cancer Discov</source>. <year>2024</year>;<volume>5</volume>(<issue>2</issue>):<fpage>106</fpage>–<lpage>113</lpage>.<pub-id pub-id-type="pmid">38194367</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2643-3230.BCD-23-0056</pub-id><pub-id pub-id-type="pmcid">PMC10905320</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="bjh20240-cit-0028">
+<string-name name-style="western">
+<surname>Hirayama</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gauthier</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hay</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Voutsinas</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gooley</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>The response to lymphodepletion impacts PFS in patients with aggressive non‐Hodgkin lymphoma treated with CD19 CAR T cells</article-title>. <source>Blood</source>. <year>2019</year>;<volume>133</volume>(<issue>17</issue>):<fpage>1876</fpage>–<lpage>1887</lpage>.<pub-id pub-id-type="pmid">30782611</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2018-11-887067</pub-id><pub-id pub-id-type="pmcid">PMC6484391</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="bjh20240-cit-0029">
+<string-name name-style="western">
+<surname>Scordo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flynn</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devlin</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parascondola</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomas</surname>
+<given-names>AA</given-names>
+</string-name>, et al. <article-title>Identifying an optimal fludarabine exposure for improved outcomes after axi‐cel therapy for aggressive B‐cell non‐Hodgkin lymphoma</article-title>. <source>Blood Adv</source>. <year>2023</year>;<volume>7</volume>(<issue>18</issue>):<fpage>5579</fpage>–<lpage>5585</lpage>.<pub-id pub-id-type="pmid">37522731</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2023010302</pub-id><pub-id pub-id-type="pmcid">PMC10514205</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="bjh20240-cit-0030">
+<string-name name-style="western">
+<surname>Bücklein</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rejeski</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iacoboni</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jurinovic</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holtick</surname>
+<given-names>U</given-names>
+</string-name>, et al. <article-title>Inferior outcomes of EU versus US patients treated with CD19 CAR‐T for relapsed/refractory large B‐cell lymphoma: association with differences in tumor burden, systemic inflammation, bridging therapy utilization, and CAR‐T product use</article-title>. <source>Hema</source>. <year>2023</year>;<volume>7</volume>(<issue>8</issue>):<elocation-id>e907</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/HS9.0000000000000907</pub-id><pub-id pub-id-type="pmcid">PMC10337711</pub-id><pub-id pub-id-type="pmid">37449196</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="bjh20240-cit-0031">
+<string-name name-style="western">
+<surname>Gagelmann</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bishop</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ayuk</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bethge</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glass</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sureda</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Axicabtagene ciloleucel versus tisagenlecleucel for relapsed or refractory large B cell lymphoma: a systematic review and meta‐analysis</article-title>. <source>Transplant Cell Ther</source>. <year>2024</year>;<volume>30</volume>(<issue>6</issue>):<fpage>584</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jtct.2024.01.074</pub-id><pub-id pub-id-type="pmcid">PMC11771143</pub-id><pub-id pub-id-type="pmid">38281590</pub-id></mixed-citation></ref><ref id="bjh20240-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="bjh20240-cit-0032">
+<string-name name-style="western">
+<surname>Westin</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kersten</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salles</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abramson</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schuster</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Locke</surname>
+<given-names>FL</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of CD19‐directed CAR‐T cell therapies in patients with relapsed/refractory aggressive B‐cell lymphomas: observations from the JULIET, ZUMA‐1, and TRANSCEND trials</article-title>. <source>Am J Hematol</source>. <year>2021</year>;<volume>96</volume>(<issue>10</issue>):<fpage>1295</fpage>–<lpage>1312</lpage>.<pub-id pub-id-type="pmid">34310745</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajh.26301</pub-id><pub-id pub-id-type="pmcid">PMC9290945</pub-id></mixed-citation></ref></ref-list></back></article>

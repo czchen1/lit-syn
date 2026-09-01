@@ -1,0 +1,982 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="psp413144" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">CPT Pharmacometrics Syst Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">CPT Pharmacometrics Syst Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">2038</journal-id><journal-id journal-id-type="pmc-domain">cptpsp</journal-id><journal-id journal-id-type="nlm-id">101580011</journal-id><journal-id journal-id-type="publisher-id">PSP4</journal-id><journal-title-group><journal-title>CPT: Pharmacometrics &amp; Systems Pharmacology</journal-title></journal-title-group><issn pub-type="epub">2163-8306</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11247108</article-id><article-id pub-id-type="pmcid-ver">PMC11247108.1</article-id><article-id pub-id-type="pmcaid">11247108</article-id><article-id pub-id-type="pmcaiid">11247108</article-id><article-id pub-id-type="pmid">38831634</article-id><article-id pub-id-type="doi">10.1002/psp4.13144</article-id><article-id pub-id-type="publisher-id">PSP413144</article-id><article-id pub-id-type="other">PSP-2023-0211-T</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Evaluating drug interaction potential from cytokine release syndrome using a physiologically based pharmacokinetic model: A case study of teclistamab</article-title><alt-title alt-title-type="right-running-head">Drug interaction potential with teclistamab</alt-title><alt-title alt-title-type="left-running-head">Willemin et al.</alt-title></title-group><contrib-group><contrib id="psp413144-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Willemin</surname><given-names initials="ME">Marie‐Emilie</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1974-1170</contrib-id><xref rid="psp413144-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>mwille15@its.jnj.com</email></address></contrib><contrib id="psp413144-cr-0002" contrib-type="author"><name name-style="western"><surname>Wang Lin</surname><given-names initials="SX">Shun Xin</given-names></name><xref rid="psp413144-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="psp413144-cr-0003" contrib-type="author"><name name-style="western"><surname>De Zwart</surname><given-names initials="L">Loeckie</given-names></name><xref rid="psp413144-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="psp413144-cr-0004" contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="LS">Liviawati S.</given-names></name><xref rid="psp413144-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp413144-cr-0005" contrib-type="author"><name name-style="western"><surname>Miao</surname><given-names initials="X">Xin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0245-7579</contrib-id><xref rid="psp413144-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="psp413144-cr-0006" contrib-type="author"><name name-style="western"><surname>Verona</surname><given-names initials="R">Raluca</given-names></name><xref rid="psp413144-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="psp413144-cr-0007" contrib-type="author"><name name-style="western"><surname>Banerjee</surname><given-names initials="A">Arnob</given-names></name><xref rid="psp413144-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="psp413144-cr-0008" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="B">Baolian</given-names></name><xref rid="psp413144-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="psp413144-cr-0009" contrib-type="author"><name name-style="western"><surname>Kobos</surname><given-names initials="R">Rachel</given-names></name><xref rid="psp413144-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="psp413144-cr-0010" contrib-type="author"><name name-style="western"><surname>Qi</surname><given-names initials="M">Ming</given-names></name><xref rid="psp413144-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="psp413144-cr-0011" contrib-type="author"><name name-style="western"><surname>Ouellet</surname><given-names initials="D">Daniele</given-names></name><xref rid="psp413144-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="psp413144-cr-0012" contrib-type="author"><name name-style="western"><surname>Goldberg</surname><given-names initials="JD">Jenna D.</given-names></name><xref rid="psp413144-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="psp413144-cr-0013" contrib-type="author"><name name-style="western"><surname>Girgis</surname><given-names initials="S">Suzette</given-names></name><xref rid="psp413144-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="psp413144-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Janssen Research &amp; Development</institution>
+<city>Beerse</city>
+<country country="BE">Belgium</country>
+</aff><aff id="psp413144-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Janssen Research &amp; Development</institution>
+<city>Spring House</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="psp413144-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Janssen Research &amp; Development</institution>
+<city>South San Francisco</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="psp413144-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Janssen Research &amp; Development</institution>
+<city>Raritan</city>
+<named-content content-type="country-part">New Jersey</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Marie‐Emilie Willemin, Turnhoutseweg 30, 2340 Beerse, Belgium.<break/>
+Email: <email>mwille15@its.jnj.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>6</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2024</year></pub-date><volume>13</volume><issue seq="50">7</issue><issue-id pub-id-type="pmc-issue-id">466755</issue-id><issue-id pub-id-type="doi">10.1002/psp4.v13.7</issue-id><fpage>1117</fpage><lpage>1129</lpage><history>
+<date date-type="rev-recd"><day>02</day><month>4</month><year>2024</year></date>
+<date date-type="received"><day>17</day><month>11</month><year>2023</year></date>
+<date date-type="accepted"><day>08</day><month>4</month><year>2024</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>03</day><month>06</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>16</day><month>07</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-07-16 00:25:16.707"><day>16</day><month>07</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Authors. <italic toggle="yes">CPT: Pharmacometrics &amp; Systems Pharmacology</italic> published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PSP4-13-1117.pdf"><?pdf-name PSP4-13-1117.pdf?><?pdf-size 305634?><?pdf-md5 398e6ac295eeeb808991a98fe1467642?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:51cf/11247108/398e6ac295ee/PSP4-13-1117.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PSP4-13-1117.pdf"/><abstract><title>Abstract</title><p>Cytokine release syndrome (CRS) was associated with teclistamab treatment in the phase I/II MajesTEC‐1 study. Cytokines, especially interleukin (IL)‐6, are known suppressors of cytochrome P450 (CYP) enzymes' activity. A physiologically based pharmacokinetic model evaluated the impact of IL‐6 serum levels on exposure of substrates of various CYP enzymes (1A2, 2C9, 2C19, 3A4, 3A5). Two IL‐6 kinetics profiles were assessed, the mean IL‐6 profile with a maximum concentration (<italic toggle="no">C</italic>
+<sub>max</sub>) of IL‐6 (21 pg/mL) and the IL‐6 profile of the patient presenting the highest IL‐6 <italic toggle="no">C</italic>
+<sub>max</sub> (288 pg/mL) among patients receiving the recommended phase II dose of teclistamab in MajesTEC‐1. For the mean IL‐6 kinetics profile, teclistamab was predicted to result in a limited change in exposure of CYP substrates (area under the curve [AUC] mean ratio 0.87–1.20). For the maximum IL‐6 kinetics profile, the impact on omeprazole, simvastatin, midazolam, and cyclosporine exposure was weak to moderate (mean AUC ratios 1.90–2.23), and minimal for caffeine and s‐warfarin (mean AUC ratios 0.82–1.25). Maximum change in exposure for these substrates occurred 3–4 days after step‐up dosing in cycle 1. These results suggest that after cycle 1, drug interaction from IL‐6 effect has no meaningful impact on CYP activities, with minimal or moderate impact on CYP substrates. The highest risk of drug interaction is expected to occur during step‐up dosing up to 7 days after the first treatment dose (1.5 mg/kg subcutaneously) and during and after CRS.</p></abstract><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Janssen Research &amp; Development, LLC
+</institution><institution-id institution-id-type="doi">10.13039/100005205</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="13"/><word-count count="7800"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.5 mode:remove_FC converted:15.07.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="PSP413144-cit-2001">
+<string-name name-style="western">
+<surname>Willemin</surname>
+<given-names>M‐E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang Lin</surname>
+<given-names>SX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Zwart</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Evaluating drug interaction potential from cytokine release syndrome using a physiologically based pharmacokinetic model: A case study of teclistamab</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2024</year>;<volume>13</volume>:<fpage>1117</fpage>‐<lpage>1129</lpage>. doi:<pub-id pub-id-type="doi">10.1002/psp4.13144</pub-id>
+<pub-id pub-id-type="pmcid">PMC11247108</pub-id><pub-id pub-id-type="pmid">38831634</pub-id></mixed-citation>
+</p></notes></front><body id="psp413144-body-0001"><p>
+<boxed-text position="anchor" content-type="box" orientation="portrait"><caption><title>Study Highlights</title></caption><p>
+<list list-type="simple" id="psp413144-list-0001"><list-item id="psp413144-li-0001"><p>
+<bold>WHAT IS THE CURRENT KNOWLEDGE ON THE TOPIC?</bold>
+</p></list-item></list>
+</p><p>CRS, which may modulate the activity of CYP450 enzymes, is associated with the BCMA×CD3 bispecific antibody, teclistamab.
+<list list-type="simple" id="psp413144-list-0002"><list-item id="psp413144-li-0002"><p>
+<bold>WHAT QUESTION DID THIS STUDY ADDRESS?</bold>
+</p></list-item></list>
+</p><p>What is the impact of IL‐6 serum levels resulting from CRS associated with teclistamab on exposure of co‐administered CYP450 substrates? What is the impact on CRS management medications?
+<list list-type="simple" id="psp413144-list-0003"><list-item id="psp413144-li-0003"><p>
+<bold>WHAT DOES THIS STUDY ADD TO OUR KNOWLEDGE?</bold>
+</p></list-item></list>
+</p><p>PBPK modeling can be used to evaluate the effects of IL‐6 on CYP450 activities. After teclistamab administration, a drug interaction from indirect IL‐6 changes, secondary to CRS, can affect CYP450 activities but had no meaningful clinical significance, with minimal or moderate impact on CYP450 substrates under these conditions.
+<list list-type="simple" id="psp413144-list-0004"><list-item id="psp413144-li-0004"><p>
+<bold>HOW MIGHT THIS CHANGE DRUG DISCOVERY, DEVELOPMENT, AND/OR THERAPEUTICS?</bold>
+</p></list-item></list>
+</p><p>This study demonstrates the viability of a PBPK model evaluating the impact of IL‐6 levels after teclistamab administration on exposure of different CYP450 substrates. This modeling approach together with the profile of CRS formed the basis of recommendations in the product label for monitoring up to 7 days after the first treatment dose or during a CRS event in patients receiving concomitant medications.</p></boxed-text>
+</p><sec id="psp413144-sec-0003"><title>INTRODUCTION</title><p>Immunologically active proteins including interferons (IFNs), interleukins (ILs), and other cytokines are produced in response to infection or inflammation, and their systemic levels are elevated in chronic and acute inflammatory conditions, such as rheumatoid arthritis (RA) or cytokine release syndrome (CRS).<xref rid="psp413144-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="psp413144-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Cytokines have been shown to alter the activity of cytochrome P450 (CYP) enzymes by affecting their stability or transcription factor activity for CYP enzyme expression, including PXR and CAR.<xref rid="psp413144-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="psp413144-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Because monoclonal antibodies (mAbs), growth factors, cytokine modulators, and other therapeutic proteins (TPs) are not directly metabolized by CYP enzymes, they are generally perceived to have little to no involvement in metabolism‐based drug interactions; consequently, TP‐drug interactions (TP‐DI) are often considered to be clinically insignificant. However, the effects on CYP enzyme activities resulting from the systemic cytokine changes driven by TPs can impact exposure of comedication metabolized by CYP enzymes.<xref rid="psp413144-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="psp413144-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="psp413144-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="psp413144-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="psp413144-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p><p>Among cytokines released during CRS and other inflammatory states, IL‐6 is the best known potent suppressor of CYP enzyme activity.<xref rid="psp413144-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="psp413144-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> For example, in vitro studies have demonstrated that IL‐6 incubated at physiological concentrations led to decreased expression or activity of CYP1A2, CYP2C9, CYP2C19, CYP3A4, and CYP3A5 in human hepatocytes.<xref rid="psp413144-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="psp413144-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Importantly, this change in CYP activity has been confirmed clinically in patients with RA, who present IL‐6 systemic concentrations ~50 pg/mL, and with higher exposure in CYP substrates compared with healthy patients.<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="psp413144-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Administration of TPs that are cytokine modulators, such as the anti‐IL‐6 receptor mAb tocilizumab or the anti‐IL‐6 mAbs sirukumab and siltuximab, leads to restoration of CYP enzyme activity in patients with RA, despite an observed elevation in systemic IL‐6 levels.<xref rid="psp413144-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="psp413144-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><p>CRS commonly occurs following administration of immunotherapies. Teclistamab is the first approved B‐cell maturation antigen (BCMA) × CD3 bispecific antibody with flexible, weight‐based dosing for the treatment of triple‐class exposed (TCE) relapsed/refractory (RR) multiple myeloma (MM).<xref rid="psp413144-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="psp413144-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> It redirects CD3+ T cells to mediate T‐cell activation and subsequent lysis of BCMA‐expressing MM cells.<xref rid="psp413144-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="psp413144-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> The accelerated approval of teclistamab was based on the pivotal portion of the phase I/II MajesTEC‐1 trial (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03145181">NCT03145181</ext-link>/<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04557098">NCT04557098</ext-link>), which assessed the efficacy and safety of teclistamab at the recommended phase II dose (RP2D; once weekly 1.5 mg/kg subcutaneous) in patients with TCE RRMM.<xref rid="psp413144-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> To minimize the risk of CRS, teclistamab is administered using two step‐up doses (0.06 and 0.3 mg/kg) prior to the first treatment dose (1.5 mg/kg). Of the 165 patients who received the RP2D across the dose escalation and expansion portions of MajesTEC‐1, 119 patients (72.1%) experienced CRS, all but 1 of which were grade 1/2.<xref rid="psp413144-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Because CRS was sometimes associated with an increase in systemic IL‐6, a risk assessment of potential DI on CYP enzymes following teclistamab treatment was explored.</p><p>In 2023, the US Food and Drug Administration (FDA) issued a guidance for sponsors to determine the need for drug–drug interaction (DDI) studies for TPs by providing a systematic, risk‐based approach, including recommendations for DDI assessment tools such as physiologically based pharmacokinetic (PBPK) modeling.<xref rid="psp413144-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> PBPK models are based on the physicochemical and kinetic properties of a compound and the physiology of a population. This modeling framework can be used to simulate drug exposure, mechanistically quantify pharmacokinetics, explore DDIs, and inform dosing strategies.<xref rid="psp413144-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="psp413144-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> PBPK modeling has been previously applied to CYP‐mediated TP‐DI or disease‐DI<xref rid="psp413144-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>; for instance, the impact of changes in systemic levels of IL‐6 on exposure of CYP substrates has been effectively predicted using PBPK modeling in patients with RA<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="psp413144-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> or other inflammatory diseases,<xref rid="psp413144-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> COVID‐19 patients presenting with cytokine storm,<xref rid="psp413144-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> and patients treated with cytokine modulators.<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="psp413144-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="psp413144-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="psp413144-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="psp413144-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</p><p>Here, we report an analysis to evaluate the impact of IL‐6 serum levels observed after teclistamab administration in MajesTEC‐1 on the predicted exposure of concomitant CYP substrates caffeine (CYP1A2), s‐warfarin (CYP2C9), omeprazole (CYP2C19), midazolam (CYP3A4), cyclosporine (CYP3A5), and simvastatin (CYP3A4) using a PBPK modeling approach. Additionally, the time to reach the maximum change in CYP activity due to IL‐6 and the return to 80% of the baseline enzymatic activity was evaluated, with the start of step‐up dosing in cycle 1 as reference; 80% of the baseline enzymatic activity was considered as a reasonable cutoff at which DDI liability would be low. This work was performed to provide additional information on the potential for teclistamab to cause DDI with CYP substrates, including a quantitative assessment of the effects of teclistamab‐induced CRS on CYP enzyme activities. This work provided guidance on the timing of the highest DDI potential.</p></sec><sec sec-type="methods" id="psp413144-sec-0004"><title>METHODS</title><sec id="psp413144-sec-0005"><title>Clinical study design</title><p>The full study design of the MajesTEC‐1 trial has been reported previously.<xref rid="psp413144-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="psp413144-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> MajesTEC‐1 enrolled adult patients who had RRMM per International Myeloma Working Group criteria<xref rid="psp413144-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="psp413144-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> with disease progression at screening after triple‐class exposure to an immunomodulatory drug, a proteasome inhibitor, and an anti‐CD38 mAb. Previous treatment with a BCMA‐targeted therapy was not allowed. The current analysis is based on data from patients who received the RP2D (approved dose) in the MajesTEC‐1 trial (data cutoff: March 16, 2022).</p><p>In this study, subjects received two step‐up doses (0.06 and 0.3 mg/kg) prior to the first treatment dose (1.5 mg/kg) of teclistamab. Each dose triggered a slight elevation of systemic IL‐6 concentrations (2‐ to 4‐fold of the baseline, based on the mean IL‐6 profile). Cycle 1, corresponding to the first treatment dose, started 168 h after the first step‐up dose, and the peak of IL‐6 concentrations in cycle 1 was observed 48 h after the start of cycle 1 (i.e., 216 h after the first step‐up dose). When a patient experienced CRS, administration of the anti‐IL‐6 receptor mAb, tocilizumab, was permitted to inhibit the IL‐6 signaling pathway and promote an anti‐inflammatory effect.</p><p>The study was conducted in accordance with the principles of the Declaration of Helsinki and the Good Clinical Practice guidelines of the International Council for Harmonization. The study protocol, amendments, and relevant documents were approved by the local independent ethics committee or institutional review board at each study site. All the patients provided written informed consent.</p></sec><sec id="psp413144-sec-0006"><title>Software</title><p>The modeling and simulations were performed using SimCYP version 21 (SimCYP Ltd, a Certara company, Sheffield, UK). The IL‐6 model was reconstructed based on literature,<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="psp413144-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> and the caffeine, S‐warfarin, omeprazole, midazolam, simvastatin and cyclosporin compound files from SimCYP v21 were used. These compounds are considered sensitive probes for their corresponding CYP enzymes, per FDA guidance.<xref rid="psp413144-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> The percentage of involvement of the major CYP‐mediated pathway in the metabolism of these substrates was verified by SimCYP<xref rid="psp413144-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>: caffeine, CYP1A2; S‐warfarin, CYP2C9; omeprazole, CYP2C19; simvastatin, CYP3A4; cyclosporine and midazolam, CYP3A4 and CYP3A5.</p></sec><sec id="psp413144-sec-0007"><title>
+<styled-content style="fixed-case" toggle="no">IL</styled-content>‐6 <styled-content style="fixed-case" toggle="no">PBPK</styled-content> model and simulation design</title><p>A PBPK model of IL‐6 was developed based on preexisting models available in the literature.<xref rid="psp413144-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> As IL‐6 is an endogenous protein, the appearance of IL‐6 in the body was modeled via IV infusion. The IL‐6 amount produced varies across individual patients, and the dosing regimen must therefore be adjusted to recover the observed IL‐6 kinetics data for each clinical study. Distribution was modeled by a minimal PBPK model, and the elimination was non‐mechanistically modeled. Interaction parameters of IL‐6 toward CYP1A2, CYP2C9, CYP2C19, CYP3A4 and CYP3A5 were derived from a previously published in vitro study.<xref rid="psp413144-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> A suppression effect was modeled for all studied CYP enzymes, except for CYP1A2 for which an induction effect is modeled based on clinical data.<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> The input parameters used in the model are described in Table <xref rid="psp413144-tbl-0001" ref-type="table">1</xref>.<xref rid="psp413144-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Although observed IL‐6 concentrations were measured in serum, plasma IL‐6 concentrations were simulated. Since serum and plasma have similar volume, simulating plasma concentrations instead of serum has a negligible impact on the predictions.</p><table-wrap position="float" id="psp413144-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>IL‐6 input parameters used for simulations.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Input parameter</th><th align="left" valign="bottom" rowspan="1" colspan="1">Value</th><th align="left" valign="bottom" rowspan="1" colspan="1">Unit</th><th align="left" valign="bottom" rowspan="1" colspan="1">Reference/notes</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">MW</td><td align="left" valign="top" rowspan="1" colspan="1">21,000</td><td align="left" valign="top" rowspan="1" colspan="1">g/mol</td><td align="left" valign="top" rowspan="1" colspan="1">Machavaram et al. (2019)<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LogP</td><td align="left" valign="top" rowspan="1" colspan="1">0.01</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Machavaram et al. (2019)<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Compound type</td><td align="left" valign="top" rowspan="1" colspan="1">Neutral</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Machavaram et al. (2019)<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">pKa</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">B/P</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Machavaram et al. (2019)<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">fu<sub>plasma</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">Fraction</td><td align="left" valign="top" rowspan="1" colspan="1">Machavaram et al. (2019)<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">Distribution</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Distribution model</td><td align="left" valign="top" rowspan="1" colspan="1">Minimal PBPK</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">V</italic>
+<sub>SS</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.43</td><td align="left" valign="top" rowspan="1" colspan="1">L/kg</td><td align="left" valign="top" rowspan="1" colspan="1">Machavaram et al. (2019).<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> CV set to 50% to account for observed variability</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">Elimination</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Elimination model</td><td align="left" valign="top" rowspan="1" colspan="1">In vivo CL</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CL<sub>iv</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">L/h</td><td align="left" valign="top" rowspan="1" colspan="1">Machavaram et al. (2019).<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> CV set to 50% to account for observed variability</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">Interaction</td></tr><tr><td align="left" style="padding-left:10%" colspan="4" valign="top" rowspan="1">CYP1A2 – Induction</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Ind<sub>max</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1.34</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Jiang et al. (2016).<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> To account for the net induction observed with caffeine. CV = 30%</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">IndC<sub>50</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">3.81 × 10<sup>−7</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">μM</td><td align="left" valign="top" rowspan="1" colspan="1">Jiang et al. (2016).<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> To account for the net induction observed with caffeine. Corresponds to 8 pg/mL. CV = 30%</td></tr><tr><td align="left" style="padding-left:10%" colspan="4" valign="top" rowspan="1">CYP2C9 – Suppression</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Ind<sub>max</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.053</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Dickmann et al. (2011).<xref rid="psp413144-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> CV = 30%</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">IndC<sub>50</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">5.76 × 10<sup>−6</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">μM</td><td align="left" valign="top" rowspan="1" colspan="1">Dickmann et al. (2011).<xref rid="psp413144-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Corresponds to 121 pg/mL. CV = 30%</td></tr><tr><td align="left" style="padding-left:10%" colspan="4" valign="top" rowspan="1">CYP2C19 – Suppression</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Ind<sub>max</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.214</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Dickmann et al. (2011).<xref rid="psp413144-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> CV set to 50% to account for observed variability (Jiang et al. 2016)<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">IndC<sub>50</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">3.40 × 10<sup>−6</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">μM</td><td align="left" valign="top" rowspan="1" colspan="1">Dickmann et al. (2011).<xref rid="psp413144-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Corresponds to 71.3 pg/mL. CV set to 50% to account for observed variability (Jiang et al. 2016)<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" colspan="4" valign="top" rowspan="1">CYP3A4 – Suppression</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Ind<sub>max</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.24</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Dickmann et al. (2011).<xref rid="psp413144-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> CV set to 50% to account for observed variability (Jiang et al. 2016)<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">IndC<sub>50</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">3.48 × 10<sup>−6</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">μM</td><td align="left" valign="top" rowspan="1" colspan="1">Dickmann et al. (2011).<xref rid="psp413144-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Corresponds to 73.2 pg/mL. CV set to 50% to account for observed variability (Jiang et al. 2016)<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" colspan="4" valign="top" rowspan="1">CYP3A5 – Suppression</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Ind<sub>max</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0.24</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Same as CYP3A4 (Machavaram et al. 2019).<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> CV set to 50% to account for observed variability (Jiang et al. 2016)<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">IndC<sub>50</sub>
+</td><td align="left" valign="top" rowspan="1" colspan="1">3.48 × 10<sup>−6</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">μM</td><td align="left" valign="top" rowspan="1" colspan="1">Same as CYP3A4 (Machavaram et al. 2019).<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Corresponds to 73.2 pg/mL. CV set to 50% to account for observed variability (Jiang et al. 2016)<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</td></tr></tbody></table><table-wrap-foot id="psp413144-ntgp-0001"><fn id="psp413144-note-0001"><p>Abbreviations: B/P, ratio of concentration of blood to plasma; CL<sub>iv</sub>, intravenous plasma clearance; CV, coefficient of variation; CYP, cytochrome P450; fu<sub>plasma</sub>, fraction of drug unbound in plasma; IndC<sub>50</sub>, concentration that supports half maximal induction/suppression; Ind<sub>max</sub>, maximal fold induction/suppression over vehicle (&gt;1 = induction, &lt;1 = suppression); LogP, log of octanol:water partition coefficient; MW, molecular weight; PBPK, physiologically based pharmacokinetics; pKa, negative log of acid ionization constant; <italic toggle="yes">V</italic>
+<sub>SS</sub>, volume of distribution at steady state.</p></fn></table-wrap-foot></table-wrap><p>The IL‐6 PBPK model was then used to evaluate the impact of IL‐6 plasma levels on the exposure of different CYP substrates. The interaction was modeled by incorporating a modulation effect on the level of CYP proteins in the liver, assuming that the IL‐6 concentration would affect the rate of enzyme synthesis in the liver.<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="psp413144-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Because IL‐6 was administered via IV infusion, its enzymatic modulation potency consequently affected only the enzymatic activity in the liver; distribution of IL‐6 from systemic circulation to the gut is not captured by the software. To account for the effect on gut enzymatic activity, the following steps, also described in the literature,<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> were applied to calculate the impact of IL‐6 on CYP substrate exposure:
+<list list-type="bullet" id="psp413144-list-0005"><list-item id="psp413144-li-0005"><p>In Run 1, simulations of IL‐6 + probe substrate were performed until steady‐state or baseline level of enzyme activity was reached, and the maximum impact on the enzymatic activity in the liver was noted.
+<list list-type="simple" id="psp413144-list-0006"><list-item id="psp413144-li-0006"><label>○</label><p>In the population section, abundance of the corresponding enzyme in the intestine and colon was reduced by the percentage of remaining activity observed in the liver (Table <xref rid="psp413144-supitem-0001" ref-type="supplementary-material">S1</xref>).</p></list-item></list>
+</p></list-item><list-item id="psp413144-li-0007"><p>Run 2 was performed by repeating Run 1 with the adjusted population. The overall impact of IL‐6 on the exposure of the probe was calculated from the ratio of mean maximum concentration (<italic toggle="yes">C</italic>
+<sub>max</sub>) or area under the curve (AUC) from time zero to infinity (AUC<sub>inf</sub>) from the inhibition arm of Run 2 over the control arm of Run 1. Because omeprazole presents mechanism‐based inhibition (MBI) toward CYP2C19, simulations with MBI turned off were first used to assess the impact of IL‐6 concentrations only toward CYP2C19 activity for transient peak IL‐6 concentrations.
+<list list-type="simple" id="psp413144-list-0007"><list-item id="psp413144-li-0008"><label>○</label><p>For Run 2, MBI of CYP2C19 was turned on again, with changes in CYP2C19 abundance due to IL‐6 applied to the intestine and colon, as described above.</p></list-item></list>
+</p></list-item></list>
+</p><p>This stepwise approach has been previously applied in similar PBPK modeling evaluations of TP‐DI for patients with RA exposed to cytokine modulators. The IL‐6 PBPK model was calibrated and validated using the assumption that serum IL‐6 concentrations were representative of hepatic IL‐6 concentrations, and therefore were driving the interaction on CYP substrates. Simulations reported here were performed in a population of healthy volunteers.<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="psp413144-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> The coefficient of variation (CV) for liver CYP3A4 abundance was modified from 41% to 33%,<xref rid="psp413144-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> and the CV for liver CYP2C9 for extensive metabolizers was changed from 64% to 18% based on published data.<xref rid="psp413144-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="psp413144-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="psp413144-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+</p></sec><sec id="psp413144-sec-0008"><title>Model verification</title><p>Model performance was verified by comparing the predicted kinetics of IL‐6 alone (transient peak or at steady‐state concentrations of 50 pg/mL) with the observed data (Figure <xref rid="psp413144-supitem-0001" ref-type="supplementary-material">S1</xref>). The IL‐6 dosing regimen was adjusted in the trial design component of the PBPK modeling framework to recover the observed IL‐6 kinetic profile, further described in Supplemental Methods. The performance of the IL‐6 model to predict CYP‐mediated TP‐DI was evaluated in previous studies.<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="psp413144-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Patients with RA who had systemic IL‐6 levels of 50 pg/mL received a single dose of caffeine, omeprazole, s‐warfarin, midazolam,<xref rid="psp413144-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> or simvastatin,<xref rid="psp413144-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> with or without the anti‐IL‐6 receptor mAb tocilizumab or the anti‐IL‐6 mAb sirukumab (Table <xref rid="psp413144-supitem-0001" ref-type="supplementary-material">S2</xref> and Figure <xref rid="psp413144-supitem-0001" ref-type="supplementary-material">S2</xref>). Exposure of the probe in the presence of IL‐6 was compared with that in the presence of tocilizumab or sirukumab. Observed clinical data available in RA patients correspond to the condition <italic toggle="yes">IL‐6 CYP inactivation on</italic>, mimicking the IL‐6 effect at 50 pg/mL; in the presence of tocilizumab or sirukumab, data correspond to the condition <italic toggle="yes">IL‐6 CYP inactivation off</italic>, mimicking the IL‐6 effect at 0 pg/mL.</p></sec><sec id="psp413144-sec-0009"><title>Prospective simulations</title><p>Prospective simulations were performed using observed IL‐6 data from patients in MajesTEC‐1 who had an IL‐6 <italic toggle="yes">C</italic>
+<sub>max</sub> occurring before tocilizumab administration, or who did not receive any tocilizumab in cycle 1 of teclistamab treatment. A maximum of 112 of the 119 patients who experienced CRS are included in the analysis, because not all patients were sampled at all time points. The impact of IL‐6 concentrations on the aforementioned CYP substrates (i.e., caffeine, s‐warfarin, omeprazole, midazolam, and simvastatin) was evaluated, with administration of the CYP substrate as single dose when peak change in enzymatic activity was reached. Cyclosporine, a CYP3A4 and CYP3A5 substrate and a drug that patients with RRMM may receive, was also included in the analysis.</p><p>Simulations were performed using two IL‐6 kinetics profiles: Scenario 1 was the mean IL‐6 concentration per time event up to cycle 1 day 15, where mean <italic toggle="yes">C</italic>
+<sub>max</sub> = 21 pg/mL, and scenario 2 was the highest individual observed concentration of IL‐6 (288 pg/mL) among all patients occurring during cycle 1, before any administration of tocilizumab following the teclistamab RP2D in MajesTEC‐1, representing the worst‐case scenario for DI liability.</p><p>Ten trials of 75 subjects (aged 20–50 years, 50% female) were simulated for both scenarios. The IL‐6 dosing regimen was adjusted to recover the observed IL‐6 kinetics profile for the two scenarios (Table <xref rid="psp413144-supitem-0001" ref-type="supplementary-material">S3</xref>). Substrate exposure (<italic toggle="yes">C</italic>
+<sub>max</sub> and AUC<sub>inf</sub>) ratios were computed for each simulated trial, corresponding to the ratio of CYP substrate <italic toggle="yes">C</italic>
+<sub>max</sub> or AUC in the presence (inhibition arm of Run 2) over the absence (control arm of Run 1) of IL‐6. The mean exposure ratios from the 10 trials were reported for scenarios 1 and 2.</p><p>In addition to assessing the impact of IL‐6 levels on the exposure of different CYP substrates, the time to reach the maximum change in CYP activity as a result of IL‐6 and the return to 80% of the baseline enzymatic activity was evaluated, with the start of cycle 1 as reference; 80% of the baseline enzymatic activity was considered as a reasonable cutoff at which the impact on exposures would be considered low.</p></sec><sec id="psp413144-sec-0010"><title>Model performance evaluation</title><p>Simulation performance was evaluated by applying the Guest et al.<xref rid="psp413144-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> success prediction criteria, enabling tighter boundaries for AUC and <italic toggle="yes">C</italic>
+<sub>max</sub> ratios close to 1. The limits of success coalesce when the observed ratio (<italic toggle="yes">R</italic>
+<sub>obs</sub>) is 1 and eventually approach the traditional twofold limits as the ratio becomes larger:<disp-formula id="psp413144-disp-0001">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mtext>upper limit</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mi>obs</mml:mi></mml:msub><mml:mo linebreak="goodbreak">×</mml:mo><mml:mtext>limit</mml:mtext></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="psp413144-disp-0002">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mtext>lower limit</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:msub><mml:mi>R</mml:mi><mml:mi>obs</mml:mi></mml:msub><mml:mtext>limit</mml:mtext></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="psp413144-disp-0003">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-3" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mtext>limit</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mi>δ</mml:mi><mml:mo>+</mml:mo><mml:mi>x</mml:mi><mml:mfenced close=")" open="("><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mi>obs</mml:mi></mml:msub><mml:mo linebreak="goodbreak">−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:mfenced></mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mi>obs</mml:mi></mml:msub></mml:mfrac></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>In this analysis, <italic toggle="yes">R</italic>
+<sub>obs</sub> represents AUC<sub>+inhibitor</sub>/AUC<sub>control</sub>, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-4" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>x</mml:mi></mml:mrow></mml:mrow></mml:math> represents the fold difference (set to 2), and <italic toggle="yes">δ</italic> accounts for variability in the observed data, where the more stringent criterion (<italic toggle="yes">δ</italic> = 1) is applied.</p></sec></sec><sec sec-type="results" id="psp413144-sec-0011"><title>RESULTS</title><sec id="psp413144-sec-0012"><title>Model verification</title><p>The transient peak and steady‐state concentrations of IL‐6 were well captured by the model (Figures <xref rid="psp413144-supitem-0001" ref-type="supplementary-material">S3</xref> and <xref rid="psp413144-supitem-0001" ref-type="supplementary-material">S4</xref>). The observed <italic toggle="yes">C</italic>
+<sub>max</sub> and AUC<sub>inf</sub> ratios for the different substrates were well predicted by the model, with a trend of a slight overprediction for the AUC ratio (a maximum of 16% for s‐warfarin). The <italic toggle="yes">C</italic>
+<sub>max</sub> ratio for simvastatin was slightly underpredicted. However, the predicted <italic toggle="yes">C</italic>
+<sub>max</sub> and AUC ratio met the predefined success criteria, giving confidence in the current IL‐6 model to prospectively predict the impact of cytokine exposure on the studied CYP substrates metabolized by these CYPs (Table <xref rid="psp413144-supitem-0001" ref-type="supplementary-material">S4</xref>).</p></sec><sec id="psp413144-sec-0013"><title>Simulation of <styled-content style="fixed-case" toggle="no">IL</styled-content>‐6 kinetics from <styled-content style="fixed-case" toggle="no">MajesTEC</styled-content>‐1</title><p>The simulated and observed IL‐6 systemic concentration profiles from patients enrolled in MajesTEC‐1 until cycle 1 day 15 with the aforementioned criteria are shown in Figure <xref rid="psp413144-fig-0001" ref-type="fig">1</xref>. Baseline IL‐6 was captured by the model, in addition to the multiple peaks of IL‐6, including after the two step‐up doses. The observed data (mean IL‐6 kinetic profile and IL‐6 kinetic profile of the patient with the highest <italic toggle="yes">C</italic>
+<sub>max</sub>) were well captured. The IL‐6 kinetics profile of the patient with the highest <italic toggle="yes">C</italic>
+<sub>max</sub> (scenario 2) was not captured by the predicted variability of the IL‐6 kinetics profile when the mean IL‐6 kinetics profile was simulated (scenario 1). This result justifies a separate simulation for scenario 2, with an adapted dosing regimen to recover the observed kinetics profile.</p><fig position="float" fig-type="FIGURE" id="psp413144-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>(<bold>a</bold>) Overlay linear plots of the simulated and observed systemic concentration<italic toggle="yes">–</italic>time profiles of mean IL‐6 profile in patients experiencing CRS in MajesTEC‐1 and (<bold>b</bold>) overlay linear plots of the simulated and observed systemic concentration–time profiles of mean IL‐6 profile in the patient with the highest IL‐6 <italic toggle="yes">C</italic>
+<sub>max</sub> in MajesTEC‐1. <italic toggle="yes">C</italic>
+<sub>max</sub>, maximum concentration; CI, confidence interval; IL‐6, interleukin‐6.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PSP4-13-1117-g002.jpg"><?image-name PSP4-13-1117-g002.jpg?><?image-size 95976?><?image-md5 ff0461e5f23f5270fd75fcba005d3ac6?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1493?><?image-original-width 1064?><?image-scaled-height 995?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/51cf/11247108/ff0461e5f23f/PSP4-13-1117-g002.jpg?><?thumb-name PSP4-13-1117-g002.gif?><?thumb-size 3153?><?thumb-md5 3ecf074d465160e5eff734b15237bccd?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 140?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/51cf/11247108/3ecf074d4651/PSP4-13-1117-g002.gif?></graphic></fig></sec><sec id="psp413144-sec-0014"><title>Predictions with <styled-content style="fixed-case" toggle="no">IL</styled-content>‐6 as a perpetrator of <styled-content style="fixed-case" toggle="no">CYP</styled-content> substrates</title><p>Using the PBPK model, the mean IL‐6 kinetics profile (scenario 1, mean <italic toggle="yes">C</italic>
+<sub>max</sub> = 21 pg/mL) following teclistamab administered at the RP2D was predicted to result in a limited change in exposure of caffeine, s‐warfarin, omeprazole, midazolam, cyclosporine, and simvastatin substrates (mean AUC ratio = 0.87–1.20) (Table <xref rid="psp413144-tbl-0002" ref-type="table">2</xref>). When the IL‐6 kinetics profile with the highest <italic toggle="yes">C</italic>
+<sub>max</sub> (scenario 2, IL‐6 <italic toggle="yes">C</italic>
+<sub>max</sub> = 288 pg/mL) was considered, the impact on the exposure was predicted to be moderate for omeprazole and simvastatin (mean AUC ratio = 2.23 and 2.09, respectively), and weak for midazolam and cyclosporine (mean AUC ratio = 1.90), and the impact on the exposure of caffeine and s‐warfarin substrates was predicted to be minimal (mean AUC ratio = 0.82 and 1.25, respectively).</p><table-wrap position="float" id="psp413144-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Simulated change in CYP substrate exposure after a single dose administration in the presence of two IL‐6 kinetics profiles observed in MajesTEC‐1.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">CYP substrate</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">With mean IL‐6 kinetics profile<xref rid="psp413144-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">With IL‐6 kinetics profile of the patient with the highest IL‐6 <italic toggle="yes">C</italic>
+<sub>max</sub>
+<xref rid="psp413144-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Mean (min–max)</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Mean (min–max)</th><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">DI liability</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Mean (min–max)</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Mean (min–max)</th><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">DI liability</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">C</italic>
+<sub>max</sub> ratio</th><th align="left" valign="bottom" rowspan="1" colspan="1">AUC ratio</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">C</italic>
+<sub>max</sub> ratio</th><th align="left" valign="bottom" rowspan="1" colspan="1">AUC ratio</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Caffeine (CYP1A2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.97 (0.96–0.97)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.87 (0.84–0.90)</td><td align="left" valign="top" rowspan="1" colspan="1">No interaction</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.95 (0.94–0.96)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.82 (0.79–0.85)</td><td align="left" valign="top" rowspan="1" colspan="1">No interaction</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">S‐warfarin (CYP2C9)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.00 (1.00–1.00)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.05 (1.05–1.06)</td><td align="left" valign="top" rowspan="1" colspan="1">No inhibition</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.01 (1.01–1.02)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.25 (1.22–1.29)</td><td align="left" valign="top" rowspan="1" colspan="1">Weak inhibition</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Omeprazole (CYP2C19)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.10 (1.09–1.12)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.20 (1.17–1.30)</td><td align="left" valign="top" rowspan="1" colspan="1">No inhibition</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.45 (1.39–1.50)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.23 (2.06–2.52)</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate inhibition</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Midazolam (CYP3A4/CYP3A5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.11 (1.10–1.11)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.17 (1.15–1.18)</td><td align="left" valign="top" rowspan="1" colspan="1">No inhibition</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.46 (1.43–1.49)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.90 (1.79–1.99)</td><td align="left" valign="top" rowspan="1" colspan="1">Weak inhibition</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Simvastatin (CYP3A4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.17 (1.16–1.19)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.20 (1.18–1.22)</td><td align="left" valign="top" rowspan="1" colspan="1">No inhibition</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.86 (1.78–1.92)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.09 (1.95–2.18)</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate inhibition</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cyclosporine (CYP3A4/CYP3A5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.09 (1.08–1.09)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.17 (1.14–1.19)</td><td align="left" valign="top" rowspan="1" colspan="1">No inhibition</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.35 (1.32–1.37)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.90 (1.73–2.02)</td><td align="left" valign="top" rowspan="1" colspan="1">Weak inhibition</td></tr></tbody></table><table-wrap-foot id="psp413144-ntgp-0002"><fn id="psp413144-note-0002"><p>Abbreviations: AUC, area under the curve; <italic toggle="yes">C</italic>
+<sub>max</sub>, maximum concentration; DI, drug interaction; IL‐6, interleukin‐6.</p></fn><fn id="psp413144-note-0003"><label>
+<sup>a</sup>
+</label><p>Mean <italic toggle="yes">C</italic>
+<sub>max</sub> on cycle 1 day 3 = 21 pg/mL.</p></fn><fn id="psp413144-note-0004"><label>
+<sup>b</sup>
+</label><p>Highest <italic toggle="yes">C</italic>
+<sub>max</sub> on cycle 1 day 3 = 288 pg/mL.</p></fn></table-wrap-foot></table-wrap><p>For the mean IL‐6 profile, the lowest minimum level of CYP activity was for omeprazole (CYP2C19) at 87%, and the highest maximum was for caffeine (CYP1A2) at 118%. This maximum difference was observed at 65–82 h (3 days) after the start of cycle 1 (Table <xref rid="psp413144-tbl-0003" ref-type="table">3</xref> and Figure <xref rid="psp413144-fig-0002" ref-type="fig">2</xref>). For the profile with the highest IL‐6 <italic toggle="yes">C</italic>
+<sub>max</sub>, the lowest minimum level of CYP activity was for omeprazole (CYP2C19) at 56%, and the highest maximum was for caffeine (CYP1A2) at 128%. This maximum difference was observed at 75 h (3 days) to 105 h (4 days) after the start of cycle 1. For the profile with the highest IL‐6 <italic toggle="yes">C</italic>
+<sub>max</sub>, a return to 80% of the baseline enzymatic activity was observed 7–8 days after the start of cycle 1 (full treatment dose, 1.5 mg/kg teclistamab). When simvastatin and omeprazole, both presenting a moderate inhibition at peak of IL‐6, were administered at the corresponding enzymatic activity of 80% of baseline, the predicted AUC mean ratios for simvastatin and omeprazole were equal to 1.45 and 1.47, respectively, which corresponds to a weak interaction.</p><table-wrap position="float" id="psp413144-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Predicted enzyme activity for two IL‐6 kinetics profiles observed in MajesTEC‐1 and the corresponding time with start of cycle 1 as reference.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">CYP substrate</th><th align="left" valign="bottom" rowspan="1" colspan="1">Minimum activity reached in liver due to IL‐6, %</th><th align="left" valign="bottom" rowspan="1" colspan="1">Corresponding time after start of cycle 1, hours (days)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Time to return to 80% of the baseline enzymatic activity, after the start of cycle 1, hours (days)</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="4" valign="top" rowspan="1">Mean <italic toggle="yes">C</italic>
+<sub>max</sub> IL‐6 kinetic profile (21 pg/mL)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CYP1A2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">118<xref rid="psp413144-note-0006" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">70 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">–</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CYP2C9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">95</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">82 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">–</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CYP2C19</td><td align="char" char="." valign="top" rowspan="1" colspan="1">87</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">65 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">–</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CYP3A4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">89</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">68 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">–</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CYP3A5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">89</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">68 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">–</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">IL‐6 kinetic profile with the highest IL‐6 <italic toggle="yes">C</italic>
+<sub>max</sub> (288 pg/mL)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CYP1A2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">128<xref rid="psp413144-note-0006" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">86 (4)</td><td align="left" valign="top" rowspan="1" colspan="1">202 (8)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CYP2C9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">77</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">105 (4)</td><td align="left" valign="top" rowspan="1" colspan="1">164 (7)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CYP2C19</td><td align="char" char="." valign="top" rowspan="1" colspan="1">56</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">75 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">187 (8)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CYP3A4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">63</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">82 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">194 (8)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CYP3A5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">63</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">82 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">194 (8)</td></tr></tbody></table><table-wrap-foot id="psp413144-ntgp-0003"><fn id="psp413144-note-0005"><p>Abbreviations: <italic toggle="yes">C</italic>
+<sub>max</sub>, maximum concentration; IL‐6, interleukin‐6.</p></fn><fn id="psp413144-note-0006"><label>
+<sup>a</sup>
+</label><p>Maximum activity.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="psp413144-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Change in activity of the CYP enzyme due to IL‐6 for (<bold>a</bold>) mean IL‐6 profile; (<bold>b</bold>) IL‐6 profile of patient presenting with the highest IL‐6 <italic toggle="yes">C</italic>
+<sub>max</sub>. <italic toggle="yes">C</italic>
+<sub>max</sub>, maximum concentration; IL‐6, interleukin‐6.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="PSP4-13-1117-g001.jpg"><?image-name PSP4-13-1117-g001.jpg?><?image-size 97747?><?image-md5 80f4e93013d2c80bc9995b9bf9c80b03?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1083?><?image-original-width 1064?><?image-scaled-height 722?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/51cf/11247108/80f4e93013d2/PSP4-13-1117-g001.jpg?><?thumb-name PSP4-13-1117-g001.gif?><?thumb-size 2923?><?thumb-md5 d6c72808cac1304c90ef4913b0f3942b?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 102?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/51cf/11247108/d6c72808cac1/PSP4-13-1117-g001.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="psp413144-sec-0015"><title>DISCUSSION</title><p>CRS is a common adverse event observed following the administration of many T‐cell immunotherapies, resulting in elevated levels of inflammatory cytokines such as IL‐6, a known suppressor of CYP enzymes.<xref rid="psp413144-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="psp413144-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="psp413144-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> PBPK modeling has previously been applied to CYP‐mediated TP‐DI evaluation (e.g., for direct IL‐6 modulators) successfully predicting observed changes in the exposure of CYP substrates in the context of changes in systemic levels of IL‐6.<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="psp413144-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="psp413144-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="psp413144-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="psp413144-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Here, we used a PBPK modeling approach to explore the potential impact of multiple transient peaks of IL‐6 on CYP activity due to CRS following treatment with teclistamab. As verification, our model accurately captured the increase in IL‐6 levels (transient peak, steady‐state concentration at 50 pg/mL) observed in other clinical studies reported in the literature<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="psp413144-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="psp413144-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="psp413144-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> and predicted the modulator effect of steady‐state IL‐6 levels on specific CYP substrates.<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="psp413144-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><p>Because no observed DI data between CYP substrates and transient peaks of IL‐6 were identified in the literature, verification of the model performance to predict a DI liability was performed at steady‐state concentration of IL‐6 rather than in the presence of a transient peak. In addition, change in exposure of CYP substrates where CYP3A4, CYP3A5, CYP2C9, CYP2C19, and CYP1A2 pathways are mainly involved were included in this evaluation, because of the availability of corresponding clinical DDI data in the literature.<xref rid="psp413144-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="psp413144-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Although changes in other CYP activities have been studied in vitro, no corresponding clinical data are available to verify the inhibitor potency of IL‐6 toward these CYP pathways. An exception is CYP2D6, which was not included in the analysis, but whose substrate has shown no change in exposure in patients with RA based on AUC.<xref rid="psp413144-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Combined, the robustness of the model and resultant predictions give confidence in the application of the model to assess the impact of transient peaks of IL‐6 as a perpetrator of CYP450 substrates, providing validity to these results.</p><p>In this analysis, the PBPK modeling and simulation results suggest that the DI effects of IL‐6 on CYP activities following the administration of a TP that mediates a cytokine storm have no meaningful clinical significance, with minimal or moderate impact on CYP substrates up to 7 days after the first treatment dose of 1.5 mg/kg teclistamab in cycle 1 or during a CRS event. The mean IL‐6 kinetics profile was predicted to result in a limited change in exposure of substrates, and the highest predicted mean AUC ratio was 1.20 for omeprazole and simvastatin. When the profile of the patient with the highest <italic toggle="yes">C</italic>
+<sub>max</sub> (288 pg/mL) was considered, with peak IL‐6 ~ 10‐fold higher than the observed mean IL‐6 profile, the impact was weak to moderate on the exposure of omeprazole, midazolam, simvastatin, and cyclosporine (1.90 ≤ mean AUC ratio ≤ 2.23) and minimal for caffeine and s‐warfarin (mean AUC ratio = 0.82 and 1.25, respectively). For both scenarios, the maximum change in exposure for the studied substrates occurred 3–4 days after the start of cycle 1 (i.e., first full treatment dose), and a return to 80% of the baseline enzymatic activity took approximately 7 days after the start of cycle 1 for the patient with the highest IL‐6 <italic toggle="yes">C</italic>
+<sub>max</sub>, associated with a weak interaction.</p><p>In a similar study following blinatumomab treatment where a single peak of IL‐6 concentrations (~1600 pg/mL) was observed, PBPK model predictions demonstrated a maximum interaction of 1.9, corresponding to the observed AUC ratio of simvastatin.<xref rid="psp413144-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> In contrast, our model predicted a 2.09 AUC ratio for simvastatin, with 5.6‐fold lower peak IL‐6 concentrations of 288 pg/mL. A potential explanation may be differences in the IL‐6 kinetics profiles following blinatumomab versus teclistamab administration. The time to reach peak IL‐6 after subcutaneous teclistamab was 48 h, while the peak was achieved only 6 h after continuous intravenous infusion of blinatumomab.<xref rid="psp413144-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Consequently, we simulated a longer time of infusion to recover IL‐6 levels after teclistamab dosing, resulting in an increased duration of CYP substrate inactivation and increased time to restore CYP baseline activity. Further, our analysis was designed to not only capture the highest peak of IL‐6 observed in cycle 1 but also the initial baseline levels of IL‐6 in patients, as well as the slight increase of IL‐6 because of the two step‐up doses. Therefore, the approach presented here accounts for accumulation over the time of inactivation, which may explain the increased extent of the interaction. In addition, model prediction with the mean IL‐6 profile led to minimal changes in CYP‐mediated clearance (AUC ratio &lt; 1.25), consistent with the observation that impacts on CYP substrate exposure because of IL‐6 are generally less than twofold, rarely leading to significant drug interactions.<xref rid="psp413144-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Recently, an analogous PBPK modeling approach was used to assess the DDI potential with CYP substrates owing to transient increase in IL‐6 levels after mosunetuzumab<xref rid="psp413144-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> and glofitamab<xref rid="psp413144-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> administration. Comparable to the teclistamab work reported here, both models predicted the DDI liability for similar CYP substrates (3A4 only for mosunetuzumab and 1A2, 2C9, and 3A5 for glofitamab), considering the mean (or median) and the 95th percentile (or the highest) of IL‐6 kinetics profile observed after mosunetuzumab and glofitamab administration. In these analyses, in the worst case, increase in CYP substrates was also ≤2‐fold. To assess the duration of enzyme suppression, DDI simulations at different points in time were reported for mosunetuzumab, with the same pattern as our predicted DDI liability when enzymatic activity was back to 80% of the baseline. Some differences between these modeling works may rely on the different IL‐6 kinetics plasma profile observed after mosunetuzumab, glofitamab, and teclistamab administration. Multiple increases of IL‐6 plasma concentrations by ~4‐ to 10‐fold compared with mean baseline were observed during the first cycle of treatment with mosunetuzumab and by ~10‐fold in the step‐up dosing regimen for glofitamab, corresponding to a slightly different IL‐6 kinetic plasma profile than the one observed after teclistamab administration. After teclistamab administration, less frequent and less intense IL‐6 elevations were observed, with two slight increases by 2‐ to 4‐fold after the respective step‐up doses, followed by a more pronounced 10‐fold increase after the first treatment dose (based on the mean profile).</p><p>The key aspects of the modeling and simulation work presented here are the predictions of the DDI liability on CYP1A2, 2C9, 3A4, 3A5, and 2C19 substrates at the minimum enzymatic activity level and at 80% of the baseline activity (with the associated time to return to 80% of the baseline activity) considering the mean and the highest IL‐6 kinetics plasma profile observed after the two step‐up doses and the first treatment dose of teclistamab. The outcomes of this work were shared with the FDA in 2022 upon their request for additional information about DDI potential with CYP substrates after teclistamab administration, including a quantitative assessment of the effects of teclistamab‐induced CRS on CYP enzyme activities.<xref rid="psp413144-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> In the NDA review of antibodies for which similar PBPK evaluation was performed (blinatumomab in 2014, mosunetuzumab and glofitamab in 2023), it is stated that “the PBPK model prediction cannot adequately address drug interaction potential of blinatumomab, as an exposure‐response relationship between IL‐6 plasma levels and change in CYP activities in humans has not been established”<xref rid="psp413144-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> and that “PBPK analyses are considered inadequate to evaluate drug interaction potential of mosunetuzumab and duration of its effect on CYP3A substrates because exposure‐response relationships between cytokines and CYP3A activity in human have not been established.”<xref rid="psp413144-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> For glofitamab, a similar conclusion on the PBPK modeling work as for mosunetuzumab was drawn; however, recommendation on the monitoring period for drug interaction liability was performed based on “reviewer's evaluation of the available clinical data in the literature, understanding of postulated mechanism of IL‐6 mediated CYP suppression and estimated time of CYP recovery”.<xref rid="psp413144-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> For teclistamab, the NDA review in 2022 (1 year before mosunetuzumab and glofitamab NDA review) concluded that “the available cytokine data, the profile of CRS and the predictions from the Applicant's PBPK model all suggest the highest risk of DDI is expected to occur early during treatment with teclistamab (up to approximately 1 week after the first treatment dose) and during and after CRS.” Limitations of the PBPK modeling exercise were also reported, such as the evaluation of only IL‐6 effects on CYP activity and lack of sensitivity analysis on interaction parameters. The acceptance of the PBPK modeling and simulation to address potential DDI liability on CYP substrates after antibody administration might be case‐specific, depending on the duration and the magnitude of interleukin increase. In the case of teclistamab, a single high peak of IL‐6 in a limited timeframe in the context of CRS after teclistamab administration, in combination with the predictions of the magnitude of the DDI when CYP activity is at 80% of the baseline activity, and the predictions of the time frame of the suppression, may have contributed to the conclusion regarding the time period for the highest risk of DDI.</p><p>Teclistamab can not only cause an increase in IL‐6 but also increases the levels of IL‐2 receptors and IL‐10.<xref rid="psp413144-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Our analysis focused on the impact of IL‐6 on CYP activity and does not take the additional cytokines into account, like recently published PBPK modeling studies.<xref rid="psp413144-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="psp413144-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> IL‐2, but not IL‐10, has demonstrated CYP suppression in vitro, albeit to a lesser extent than IL‐6.<xref rid="psp413144-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="psp413144-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="psp413144-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> No information is available for IL‐2 receptors. While there has been a clear link established both in vitro and clinically between changes in IL‐6 and CYP modulation, a direct effect of other cytokines such as IL‐2 and IL‐10 on CYP enzymes remains to be conclusively confirmed clinically.<xref rid="psp413144-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="psp413144-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="psp413144-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> Nevertheless, based on limited data, it can be concluded that synergistic effects of IL‐6 with other cytokines would likely lead to a similar effect on CYP activities as IL‐6 alone.<xref rid="psp413144-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>High interpatient variability was observed in the IL‐6 kinetics profile, with a 10‐fold difference between the mean <italic toggle="yes">C</italic>
+<sub>max</sub> and the highest <italic toggle="yes">C</italic>
+<sub>max</sub>, inherent to the variability in the rate and extent of IL‐6 produced during the cytokine storm after teclistamab administration, which could not be captured by the model. To compensate for this limitation, typical and worst‐case scenarios of IL‐6 kinetics were evaluated separately, corresponding to the typical and maximum DDI liability that can be expected, respectively, based on these selected patients.</p><p>In conclusion, PBPK modeling and simulation results suggest that the effect of IL‐6 increases induced by teclistamab on CYP activities has no meaningful clinical significance, with minimal or moderate impact on CYP substrates. Results suggest that the highest risk of altering CYP enzymes through a cytokine storm is from the initiation of teclistamab step‐up dose 1 up to 7 days after the first treatment dose or during a CRS event.</p></sec><sec id="psp413144-sec-0016"><title>AUTHOR CONTRIBUTIONS</title><p>M.‐E.W., S.X.W.L., L.D.Z., L.S.W., X.M., R.V., A.B., B.L., R.K., M.Q., D.O., J.D.G., and S.G. wrote the manuscript. M.‐E.W., S.X.W.L., L.D.Z., L.S.W., A.B., B.L., R.K., M.Q., J.D.G., and S.G. designed the research. M.‐E.W. and A.B., performed the research. M.‐E.W., S.X.W.L., L.S.W., R.V., B.L., R.K., and M.Q. analyzed the data. X.M. contributed new reagents/analytical tools.</p></sec><sec id="psp413144-sec-0018"><title>FUNDING INFORMATION</title><p>The study was funded by Janssen Research &amp; Development and medical writing support was funded by Janssen Global Services.</p></sec><sec sec-type="COI-statement" id="psp413144-sec-0019"><title>CONFLICT OF INTEREST STATEMENT</title><p>Marie‐Emilie Willemin: Employed by and has stock/other ownership interests in Janssen. Shun Xin Wang Lin: Employed by Janssen at the time of the analysis and has stock/other ownership interests in Janssen; interpretation and discussion of the results; co‐led the clinical pharmacology activities of teclistamab up to approval. Loeckie De Zwart: Employed by Janssen. Liviawati S. Wu: Employed by Janssen at the time of the analysis and has stock/other ownership interests in Janssen. Xin Miao: Employed by Janssen. Raluca Verona: Employed by Janssen. Arnob Banerjee: Employed by and has stock/other ownership interests in Janssen. Baolian Liu: Employed by Janssen. Rachel Kobos: Employed by and has stock/other ownership interests in Janssen. Ming Qi: Employed by and has stock/other ownership interests in Janssen. Daniele Ouellet: Employed by and has stock/other ownership interests in Janssen. Jenna D. Goldberg: Employed by Janssen at the time of the analysis and has stock/other ownership interests in Janssen. Suzette Girgis: Employed by Janssen at the time of the analysis and has stock/other ownership interests in Janssen.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="psp413144-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Data S1
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-13-1117-s001.docx" position="float" orientation="portrait"><?suppdata-name PSP4-13-1117-s001.docx?><?suppdata-size 531811?><?suppdata-md5 7ad7151a1d0fee6f5b7ce15efa2a5813?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:51cf/11247108/7ad7151a1d0f/PSP4-13-1117-s001.docx?></media></supplementary-material></sec></body><back><ack id="psp413144-sec-0017"><title>ACKNOWLEDGMENTS</title><p>The authors would like to thank Shannon Dallas for contributing her expertise and valuable feedback on this manuscript. MajesTEC‐1 was funded by Janssen Research &amp; Development, LLC. Editorial and medical writing support was provided by Craig Turner, MSc, and Kristin M Allan, PhD, of Eloquent Scientific Solutions, and was funded by Janssen Global Services, LLC.</p></ack><ref-list content-type="cited-references" id="psp413144-bibl-0001"><title>REFERENCES</title><ref id="psp413144-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="psp413144-cit-0001">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gardner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porter</surname>
+<given-names>DL</given-names>
+</string-name>, et al. <article-title>Current concepts in the diagnosis and management of cytokine release syndrome</article-title>. <source>Blood</source>. <year>2014</year>;<volume>124</volume>(<issue>2</issue>):<fpage>188</fpage>‐<lpage>195</lpage>.<pub-id pub-id-type="pmid">24876563</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2014-05-552729</pub-id><pub-id pub-id-type="pmcid">PMC4093680</pub-id></mixed-citation></ref><ref id="psp413144-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="psp413144-cit-0002">
+<string-name name-style="western">
+<surname>Lei</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arain</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Obaid</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabhnani</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohan</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Ultra‐sensitive and semi‐quantitative vertical flow assay for the rapid detection of interleukin‐6 in inflammatory diseases</article-title>. <source>Biosensors (Basel)</source>. <year>2022</year>;<volume>12</volume>(<issue>9</issue>):<fpage>756</fpage>.<pub-id pub-id-type="pmid">36140141</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/bios12090756</pub-id><pub-id pub-id-type="pmcid">PMC9496834</pub-id></mixed-citation></ref><ref id="psp413144-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="psp413144-cit-0003">
+<string-name name-style="western">
+<surname>Dallas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sensenhauser</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Batheja</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>De‐risking bio‐therapeutics for possible drug interactions using cryopreserved human hepatocytes</article-title>. <source>Curr Drug Metab</source>. <year>2012</year>;<volume>13</volume>(<issue>7</issue>):<fpage>923</fpage>‐<lpage>929</lpage>.<pub-id pub-id-type="pmid">22475265</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/138920012802138589</pub-id></mixed-citation></ref><ref id="psp413144-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="psp413144-cit-0004">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Men</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kenna</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>CYP‐mediated therapeutic protein‐drug interactions: clinical findings, proposed mechanisms and regulatory implications</article-title>. <source>Clin Pharmacokinet</source>. <year>2010</year>;<volume>49</volume>(<issue>5</issue>):<fpage>295</fpage>‐<lpage>310</lpage>.<pub-id pub-id-type="pmid">20384392</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2165/11319980-000000000-00000</pub-id></mixed-citation></ref><ref id="psp413144-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="psp413144-cit-0005">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gill</surname>
+<given-names>KL</given-names>
+</string-name>. <article-title>Physiologically based pharmacokinetic modeling to predict drug‐biologic interactions with cytokine modulators: are these relevant and is interleukin‐6 enough?</article-title>
+<source>Drug Metab Dispos</source>. <year>2022</year>;<volume>50</volume>(<issue>10</issue>):<fpage>1322</fpage>‐<lpage>1331</lpage>.<pub-id pub-id-type="pmid">36100353</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.122.000926</pub-id></mixed-citation></ref><ref id="psp413144-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="psp413144-cit-0006">
+<string-name name-style="western">
+<surname>Evers</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dallas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickmann</surname>
+<given-names>LJ</given-names>
+</string-name>, et al. <article-title>Critical review of preclinical approaches to investigate cytochrome p450‐mediated therapeutic protein drug‐drug interactions and recommendations for best practices: a white paper</article-title>. <source>Drug Metab Dispos</source>. <year>2013</year>;<volume>41</volume>(<issue>9</issue>):<fpage>1598</fpage>‐<lpage>1609</lpage>.<pub-id pub-id-type="pmid">23792813</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.113.052225</pub-id></mixed-citation></ref><ref id="psp413144-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="psp413144-cit-0007">
+<string-name name-style="western">
+<surname>Frye</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frye</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feldman</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Plasma levels of TNF‐alpha and IL‐6 are inversely related to cytochrome P450‐dependent drug metabolism in patients with congestive heart failure</article-title>. <source>J Card Fail</source>. <year>2002</year>;<volume>8</volume>(<issue>5</issue>):<fpage>315</fpage>‐<lpage>319</lpage>.<pub-id pub-id-type="pmid">12411982</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1054/jcaf.2002.127773</pub-id></mixed-citation></ref><ref id="psp413144-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="psp413144-cit-0008">
+<string-name name-style="western">
+<surname>Coutant</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boulton</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahal</surname>
+<given-names>UP</given-names>
+</string-name>, et al. <article-title>Therapeutic protein drug interactions: a white paper from the international consortium for innovation and quality in pharmaceutical development</article-title>. <source>Clin Pharmacol Ther</source>. <year>2023</year>;<volume>113</volume>(<issue>6</issue>):<fpage>1185</fpage>‐<lpage>1198</lpage>.<pub-id pub-id-type="pmid">36477720</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.2814</pub-id></mixed-citation></ref><ref id="psp413144-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="psp413144-cit-0009">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henrich</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Assessment of the drug‐drug interaction potential for therapeutic proteins with pro‐inflammatory activities</article-title>. <source>Clin Transl Sci</source>. <year>2023</year>;<volume>16</volume>:<fpage>922</fpage>‐<lpage>936</lpage>.<pub-id pub-id-type="pmid">36890677</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cts.13507</pub-id><pub-id pub-id-type="pmcid">PMC10264930</pub-id></mixed-citation></ref><ref id="psp413144-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="psp413144-cit-0010">
+<string-name name-style="western">
+<surname>Dickmann</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rock</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wienkers</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slatter</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Effects of interleukin‐6 (IL‐6) and an anti‐IL‐6 monoclonal antibody on drug‐metabolizing enzymes in human hepatocyte culture</article-title>. <source>Drug Metab Dispos</source>. <year>2011</year>;<volume>39</volume>(<issue>8</issue>):<fpage>1415</fpage>‐<lpage>1422</lpage>.<pub-id pub-id-type="pmid">21555507</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.111.038679</pub-id></mixed-citation></ref><ref id="psp413144-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="psp413144-cit-0011">
+<string-name name-style="western">
+<surname>Machavaram</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Endo‐Tsukude</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Terao</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Simulating the impact of elevated levels of interleukin‐6 on the pharmacokinetics of various CYP450 substrates in patients with neuromyelitis optica or neuromyelitis optica spectrum disorders in different ethnic populations</article-title>. <source>AAPS J</source>. <year>2019</year>;<volume>21</volume>(<issue>3</issue>):<fpage>42</fpage>.<pub-id pub-id-type="pmid">30887238</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1208/s12248-019-0309-y</pub-id></mixed-citation></ref><ref id="psp413144-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="psp413144-cit-0012">
+<string-name name-style="western">
+<surname>Machavaram</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almond</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rostami‐Hodjegan</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>A physiologically based pharmacokinetic modeling approach to predict disease‐drug interactions: suppression of CYP3A by IL‐6</article-title>. <source>Clin Pharmacol Ther</source>. <year>2013</year>;<volume>94</volume>(<issue>2</issue>):<fpage>260</fpage>‐<lpage>268</lpage>.<pub-id pub-id-type="pmid">23588308</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/clpt.2013.79</pub-id></mixed-citation></ref><ref id="psp413144-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="psp413144-cit-0013">
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Development of a physiologically based pharmacokinetic model to predict disease‐mediated therapeutic protein‐drug interactions: modulation of multiple cytochrome P450 enzymes by interleukin‐6</article-title>. <source>AAPS J</source>. <year>2016</year>;<volume>18</volume>(<issue>3</issue>):<fpage>767</fpage>‐<lpage>776</lpage>.<pub-id pub-id-type="pmid">26961818</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1208/s12248-016-9890-5</pub-id><pub-id pub-id-type="pmcid">PMC5256608</pub-id></mixed-citation></ref><ref id="psp413144-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="psp413144-cit-0014">
+<string-name name-style="western">
+<surname>Schmitt</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuhn</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kivitz</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grange</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Disease‐drug‐drug interaction involving tocilizumab and simvastatin in patients with rheumatoid arthritis</article-title>. <source>Clin Pharmacol Ther</source>. <year>2011</year>;<volume>89</volume>(<issue>5</issue>):<fpage>735</fpage>‐<lpage>740</lpage>.<pub-id pub-id-type="pmid">21430660</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/clpt.2011.35</pub-id></mixed-citation></ref><ref id="psp413144-bib-0015"><label>15</label><mixed-citation publication-type="book" id="psp413144-cit-0015">
+<collab collab-type="authors">TECVAYLI™ (teclistamab‐cqyv)</collab>
+. <source>Prescribing Information</source>. <publisher-name>Janssen Biotech, Inc</publisher-name>; <year>2022</year>.</mixed-citation></ref><ref id="psp413144-bib-0016"><label>16</label><mixed-citation publication-type="book" id="psp413144-cit-0016">
+<collab collab-type="authors">TECVAYLI™ (teclistamab)</collab>
+. <source>Summary of Product Characteristics</source>. <publisher-name>Janssen Biologics BV</publisher-name>; <year>2023</year>.</mixed-citation></ref><ref id="psp413144-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="psp413144-cit-0017">
+<string-name name-style="western">
+<surname>Pillarisetti</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Powers</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luistro</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Teclistamab is an active T cell‐redirecting bispecific antibody against B‐cell maturation antigen for multiple myeloma</article-title>. <source>Blood Adv</source>. <year>2020</year>;<volume>4</volume>(<issue>18</issue>):<fpage>4538</fpage>‐<lpage>4549</lpage>.<pub-id pub-id-type="pmid">32956453</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2020002393</pub-id><pub-id pub-id-type="pmcid">PMC7509877</pub-id></mixed-citation></ref><ref id="psp413144-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="psp413144-cit-0018">
+<string-name name-style="western">
+<surname>Usmani</surname>
+<given-names>SZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garfall</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van de Donk</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Teclistamab, a B‐cell maturation antigen x CD3 bispecific antibody, in patients with relapsed or refractory multiple myeloma (MajesTEC‐1): a multicentre, open‐label, single‐arm, phase 1 study</article-title>. <source>Lancet</source>. <year>2021</year>;<volume>398</volume>(<issue>10301</issue>):<fpage>665</fpage>‐<lpage>674</lpage>.<pub-id pub-id-type="pmid">34388396</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(21)01338-6</pub-id></mixed-citation></ref><ref id="psp413144-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="psp413144-cit-0019">
+<string-name name-style="western">
+<surname>Moreau</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garfall</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van de Donk</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Teclistamab in relapsed or refractory multiple myeloma</article-title>. <source>N Engl J Med</source>. <year>2022</year>;<volume>387</volume>(<issue>6</issue>):<fpage>495</fpage>‐<lpage>505</lpage>.<pub-id pub-id-type="pmid">35661166</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2203478</pub-id><pub-id pub-id-type="pmcid">PMC10587778</pub-id></mixed-citation></ref><ref id="psp413144-bib-0020"><label>20</label><mixed-citation publication-type="miscellaneous" id="psp413144-cit-0020">
+<collab collab-type="authors">U.S. Department of Health and Human Services Food and Drug Administration</collab>
+. <article-title>Drug‐drug interaction assessment for therapeutic proteins: guidance for industry</article-title>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.fda.gov/media/140909/download" ext-link-type="uri">https://www.fda.gov/media/140909/download</ext-link>. Accessed April 14, 2023.</mixed-citation></ref><ref id="psp413144-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="psp413144-cit-0021">
+<string-name name-style="western">
+<surname>Jones</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gibson</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Physiologically based pharmacokinetic modeling in drug discovery and development: a pharmaceutical industry perspective</article-title>. <source>Clin Pharmacol Ther</source>. <year>2015</year>;<volume>97</volume>(<issue>3</issue>):<fpage>247</fpage>‐<lpage>262</lpage>.<pub-id pub-id-type="pmid">25670209</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.37</pub-id></mixed-citation></ref><ref id="psp413144-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="psp413144-cit-0022">
+<string-name name-style="western">
+<surname>Haraya</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsutsui</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Komori</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tachibana</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Recent advances in translational pharmacokinetics and pharmacodynamics prediction of therapeutic antibodies using modeling and simulation</article-title>. <source>Pharmaceuticals (Basel)</source>. <year>2022</year>;<volume>15</volume>(<issue>5</issue>):<fpage>508</fpage>.<pub-id pub-id-type="pmid">35631335</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ph15050508</pub-id><pub-id pub-id-type="pmcid">PMC9145563</pub-id></mixed-citation></ref><ref id="psp413144-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="psp413144-cit-0023">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Utilization of physiologically‐based pharmacokinetic model to assess disease‐mediated therapeutic protein‐disease‐drug interaction in immune‐mediated inflammatory diseases</article-title>. <source>Clin Transl Sci</source>. <year>2022</year>;<volume>15</volume>(<issue>2</issue>):<fpage>464</fpage>‐<lpage>476</lpage>.<pub-id pub-id-type="pmid">34581012</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cts.13164</pub-id><pub-id pub-id-type="pmcid">PMC8841519</pub-id></mixed-citation></ref><ref id="psp413144-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="psp413144-cit-0024">
+<string-name name-style="western">
+<surname>Stader</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Battegay</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sendi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marzolini</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Physiologically based pharmacokinetic modelling to investigate the impact of the cytokine storm on CYP3A drug pharmacokinetics in COVID‐19 patients</article-title>. <source>Clin Pharmacol Ther</source>. <year>2022</year>;<volume>111</volume>(<issue>3</issue>):<fpage>579</fpage>‐<lpage>584</lpage>.<pub-id pub-id-type="pmid">34496043</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.2402</pub-id><pub-id pub-id-type="pmcid">PMC8652944</pub-id></mixed-citation></ref><ref id="psp413144-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="psp413144-cit-0025">
+<string-name name-style="western">
+<surname>Lenoir</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niederer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollason</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desmeules</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daali</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samer</surname>
+<given-names>CF</given-names>
+</string-name>. <article-title>Prediction of cytochromes P450 3A and 2C19 modulation by both inflammation and drug interactions using physiologically based pharmacokinetics</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2022</year>;<volume>11</volume>(<issue>1</issue>):<fpage>30</fpage>‐<lpage>43</lpage>.<pub-id pub-id-type="pmid">34791831</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/psp4.12730</pub-id><pub-id pub-id-type="pmcid">PMC8752107</pub-id></mixed-citation></ref><ref id="psp413144-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="psp413144-cit-0026">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deng</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>CC</given-names>
+</string-name>. <article-title>Assessment of CYP3A‐mediated drug interaction via cytokine (IL‐6) elevation for mosunetuzumab using physiologically‐based pharmacokinetic modeling</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2024</year>;<volume>13</volume>(<issue>2</issue>):<fpage>234</fpage>‐<lpage>246</lpage>.<pub-id pub-id-type="pmid">38050329</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/psp4.13073</pub-id><pub-id pub-id-type="pmcid">PMC10864933</pub-id></mixed-citation></ref><ref id="psp413144-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="psp413144-cit-0027">
+<string-name name-style="western">
+<surname>Djebli</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parrott</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jaminion</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Jeanson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guerini</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carlile</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Evaluation of the potential impact on pharmacokinetics of various cytochrome P450 substrates of increasing IL‐6 levels following administration of the T‐cell bispecific engager glofitamab</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2023</year>;<volume>13</volume>:<fpage>396</fpage>‐<lpage>409</lpage>.<pub-id pub-id-type="pmid">38044486</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/psp4.13091</pub-id><pub-id pub-id-type="pmcid">PMC10941566</pub-id></mixed-citation></ref><ref id="psp413144-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="psp413144-cit-0028">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hijazi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolf</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>YN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Physiologically based pharmacokinetic model to assess the influence of blinatumomab‐mediated cytokine elevations on cytochrome P450 enzyme activity</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2015</year>;<volume>4</volume>(<issue>9</issue>):<fpage>507</fpage>‐<lpage>515</lpage>.<pub-id pub-id-type="pmid">26451330</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/psp4.12003</pub-id><pub-id pub-id-type="pmcid">PMC4592530</pub-id></mixed-citation></ref><ref id="psp413144-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="psp413144-cit-0029">
+<string-name name-style="western">
+<surname>Rajkumar</surname>
+<given-names>SV</given-names>
+</string-name>. <article-title>Multiple myeloma: 2020 update on diagnosis, risk‐stratification and management</article-title>. <source>Am J Hematol</source>. <year>2020</year>;<volume>95</volume>(<issue>5</issue>):<fpage>548</fpage>‐<lpage>567</lpage>.<pub-id pub-id-type="pmid">32212178</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajh.25791</pub-id></mixed-citation></ref><ref id="psp413144-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="psp413144-cit-0030">
+<string-name name-style="western">
+<surname>Rajkumar</surname>
+<given-names>SV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harousseau</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Durie</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel 1</article-title>. <source>Blood</source>. <year>2011</year>;<volume>117</volume>(<issue>18</issue>):<fpage>4691</fpage>‐<lpage>4695</lpage>.<pub-id pub-id-type="pmid">21292775</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2010-10-299487</pub-id><pub-id pub-id-type="pmcid">PMC3710442</pub-id></mixed-citation></ref><ref id="psp413144-bib-0031"><label>31</label><mixed-citation publication-type="miscellaneous" id="psp413144-cit-0031">
+<collab collab-type="authors">U.S. Department of Health and Human Services Food and Drug Administration Center for Drug Evaluation and Research</collab>
+. <article-title>In vitro drug interaction studies – cytochrome P450 enzyme‐ and transporter‐mediated drug interactions</article-title>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.fda.gov/media/134582/download" ext-link-type="uri">https://www.fda.gov/media/134582/download</ext-link>. Accessed April 17, 2023.</mixed-citation></ref><ref id="psp413144-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="psp413144-cit-0032">
+<string-name name-style="western">
+<surname>Kilford</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crewe</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Prediction of CYP‐mediated DDIs involving inhibition: approaches to address the requirements for system qualification of the Simcyp simulator</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2022</year>;<volume>11</volume>(<issue>7</issue>):<fpage>822</fpage>‐<lpage>832</lpage>.<pub-id pub-id-type="pmid">35445542</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/psp4.12794</pub-id><pub-id pub-id-type="pmcid">PMC9286715</pub-id></mixed-citation></ref><ref id="psp413144-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="psp413144-cit-0033">
+<string-name name-style="western">
+<surname>Kato</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiba</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ito</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koue</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sugiyama</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Prediction of interindividual variability in pharmacokinetics for CYP3A4 substrates in humans</article-title>. <source>Drug Metab Pharmacokinet</source>. <year>2010</year>;<volume>25</volume>(<issue>4</issue>):<fpage>367</fpage>‐<lpage>378</lpage>.<pub-id pub-id-type="pmid">20814158</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2133/dmpk.dmpk-09-rg-038</pub-id></mixed-citation></ref><ref id="psp413144-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="psp413144-cit-0034">
+<string-name name-style="western">
+<surname>Jetter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kinzig‐Schippers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skott</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Cytochrome P450 2C9 phenotyping using low‐dose tolbutamide</article-title>. <source>Eur J Clin Pharmacol</source>. <year>2004</year>;<volume>60</volume>(<issue>3</issue>):<fpage>165</fpage>‐<lpage>171</lpage>.<pub-id pub-id-type="pmid">15045499</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00228-004-0754-z</pub-id></mixed-citation></ref><ref id="psp413144-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="psp413144-cit-0035">
+<string-name name-style="western">
+<surname>Kirchheiner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bauer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meineke</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Impact of CYP2C9 and CYP2C19 polymorphisms on tolbutamide kinetics and the insulin and glucose response in healthy volunteers</article-title>. <source>Pharmacogenetics</source>. <year>2002</year>;<volume>12</volume>(<issue>2</issue>):<fpage>101</fpage>‐<lpage>109</lpage>.<pub-id pub-id-type="pmid">11875364</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00008571-200203000-00004</pub-id></mixed-citation></ref><ref id="psp413144-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="psp413144-cit-0036">
+<string-name name-style="western">
+<surname>Vormfelde</surname>
+<given-names>SV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brockmoller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bauer</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Relative impact of genotype and enzyme induction on the metabolic capacity of CYP2C9 in healthy volunteers</article-title>. <source>Clin Pharmacol Ther</source>. <year>2009</year>;<volume>86</volume>(<issue>1</issue>):<fpage>54</fpage>‐<lpage>61</lpage>.<pub-id pub-id-type="pmid">19369937</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/clpt.2009.40</pub-id></mixed-citation></ref><ref id="psp413144-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="psp413144-cit-0037">
+<string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Vries</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Evaluation of disease‐mediated therapeutic protein‐drug interactions between an anti‐interleukin‐6 monoclonal antibody (sirukumab) and cytochrome P450 activities in a phase 1 study in patients with rheumatoid arthritis using a cocktail approach</article-title>. <source>J Clin Pharmacol</source>. <year>2015</year>;<volume>55</volume>(<issue>12</issue>):<fpage>1386</fpage>‐<lpage>1394</lpage>.<pub-id pub-id-type="pmid">26054042</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcph.561</pub-id></mixed-citation></ref><ref id="psp413144-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="psp413144-cit-0038">
+<string-name name-style="western">
+<surname>Guest</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aarons</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Houston</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rostami‐Hodjegan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galetin</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Critique of the two‐fold measure of prediction success for ratios: application for the assessment of drug‐drug interactions</article-title>. <source>Drug Metab Dispos</source>. <year>2011</year>;<volume>39</volume>(<issue>2</issue>):<fpage>170</fpage>‐<lpage>173</lpage>.<pub-id pub-id-type="pmid">21036951</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.110.036103</pub-id></mixed-citation></ref><ref id="psp413144-bib-0039"><label>39</label><mixed-citation publication-type="miscellaneous" id="psp413144-cit-0039">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf" ext-link-type="uri">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/761291Orig1s000MultidisciplineR.pdf</ext-link>. Accessed February 7, 2024.</mixed-citation></ref><ref id="psp413144-bib-0040"><label>40</label><mixed-citation publication-type="miscellaneous" id="psp413144-cit-0040">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/125557Orig1s000ClinPharmRedt.pdf" ext-link-type="uri">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/125557Orig1s000ClinPharmRedt.pdf</ext-link>. Accessed March 18, 2024.</mixed-citation></ref><ref id="psp413144-bib-0041"><label>41</label><mixed-citation publication-type="miscellaneous" id="psp413144-cit-0041">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761263Orig1s000Approv.pdf" ext-link-type="uri">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761263Orig1s000Approv.pdf</ext-link>. Accessed March 18, 2024.</mixed-citation></ref><ref id="psp413144-bib-0042"><label>42</label><mixed-citation publication-type="miscellaneous" id="psp413144-cit-0042">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761309Orig1s000MultidisciplineR.pdf" ext-link-type="uri">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761309Orig1s000MultidisciplineR.pdf</ext-link>. Accessed March 18, 2024.</mixed-citation></ref><ref id="psp413144-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="psp413144-cit-0043">
+<string-name name-style="western">
+<surname>Thal</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>el Kahwaji</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loeper</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Administration of high doses of human recombinant interleukin‐2 decreases the expression of several cytochromes P‐450 in the rat</article-title>. <source>J Pharmacol Exp Ther</source>. <year>1994</year>;<volume>268</volume>:<fpage>515</fpage>‐<lpage>521</lpage>.<pub-id pub-id-type="pmid">8301593</pub-id>
+</mixed-citation></ref><ref id="psp413144-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="psp413144-cit-0044">
+<string-name name-style="western">
+<surname>Tran</surname>
+<given-names>JQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Othman</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolstencroft</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elkins</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Therapeutic protein‐drug interaction assessment for daclizumab high‐yield process in patients with multiple sclerosis using a cocktail approach</article-title>. <source>Br J Clin Pharmacol</source>. <year>2016</year>;<volume>82</volume>:<fpage>160</fpage>‐<lpage>167</lpage>.<pub-id pub-id-type="pmid">26991517</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcp.12936</pub-id><pub-id pub-id-type="pmcid">PMC4917816</pub-id></mixed-citation></ref><ref id="psp413144-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="psp413144-cit-0045">
+<string-name name-style="western">
+<surname>Elkahwaji</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robin</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berson</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Decrease in hepatic cytochrome P450 after interleukin‐2 immunotherapy</article-title>. <source>Biochem Pharmacol</source>. <year>1999</year>;<volume>57</volume>:<fpage>951</fpage>‐<lpage>954</lpage>.<pub-id pub-id-type="pmid">10086330</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0006-2952(98)00372-4</pub-id></mixed-citation></ref></ref-list></back></article>

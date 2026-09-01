@@ -1,0 +1,521 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Immunother Cancer</journal-id><journal-id journal-id-type="iso-abbrev">J Immunother Cancer</journal-id><journal-id journal-id-type="pmc-domain-id">2348</journal-id><journal-id journal-id-type="pmc-domain">jimmthercanc</journal-id><journal-id journal-id-type="nlm-id">101620585</journal-id><journal-id journal-id-type="publisher-id">jitc</journal-id><journal-title-group><journal-title>Journal for Immunotherapy of Cancer</journal-title></journal-title-group><issn pub-type="epub">2051-1426</issn><?publisher_abbrev bmjpg?><publisher><publisher-name>BMJ Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10277551</article-id><article-id pub-id-type="pmcid-ver">PMC10277551.1</article-id><article-id pub-id-type="pmcaid">10277551</article-id><article-id pub-id-type="pmcaiid">10277551</article-id><article-id pub-id-type="pmid">37295816</article-id><article-id pub-id-type="doi">10.1136/jitc-2022-005898</article-id><article-id pub-id-type="publisher-id">jitc-2022-005898</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Immune Cell Therapies and Immune Cell Engineering</subject></subj-group><subj-group subj-group-type="hwp-journal-coll"><subject>1506</subject><subject>2436</subject></subj-group><series-title>Original research</series-title></article-categories><title-group><article-title>CD22 CAR T-cell associated hematologic toxicities, endothelial activation and relationship to neurotoxicity</article-title></title-group><contrib-group><contrib id="author-101050802" contrib-type="author" equal-contrib="yes"><name name-style="western"><surname>Jess</surname><given-names initials="J">Jennifer</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-79039991" contrib-type="author" equal-contrib="yes"><name name-style="western"><surname>Yates</surname><given-names initials="B">Bonnie</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-101050836" contrib-type="author"><name name-style="western"><surname>Dulau-Florea</surname><given-names initials="A">Alina</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-101050853" contrib-type="author"><name name-style="western"><surname>Parker</surname><given-names initials="K">Kevin</given-names></name><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib id="author-85875915" contrib-type="author"><name name-style="western"><surname>Inglefield</surname><given-names initials="J">Jon</given-names></name><xref rid="aff4" ref-type="aff">4</xref></contrib><contrib id="author-101050882" contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4883-6240</contrib-id><name name-style="western"><surname>Lichtenstein</surname><given-names initials="D">Dan</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-101050893" contrib-type="author"><name name-style="western"><surname>Schischlik</surname><given-names initials="F">Fiorella</given-names></name><xref rid="aff5" ref-type="aff">5</xref></contrib><contrib id="author-101050909" contrib-type="author"><name name-style="western"><surname>Ongkeko</surname><given-names initials="M">Martin</given-names></name><xref rid="aff6" ref-type="aff">6</xref></contrib><contrib id="author-101050930" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="Y">Yanyu</given-names></name><xref rid="aff4" ref-type="aff">4</xref></contrib><contrib id="author-81256054" contrib-type="author"><name name-style="western"><surname>Shahani</surname><given-names initials="S">Shilpa</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-101051020" contrib-type="author"><name name-style="western"><surname>Cullinane</surname><given-names initials="A">Ann</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-101051041" contrib-type="author"><name name-style="western"><surname>Smith</surname><given-names initials="H">Hannah</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-101051015" contrib-type="author"><name name-style="western"><surname>Kane</surname><given-names initials="E">Eli</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-85875912" contrib-type="author"><name name-style="western"><surname>Little</surname><given-names initials="L">Lauren</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-101051057" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="D">Dong</given-names></name><xref rid="aff7" ref-type="aff">7</xref></contrib><contrib id="author-81256153" contrib-type="author"><name name-style="western"><surname>Fry</surname><given-names initials="TJ">Terry J</given-names></name><xref rid="aff8" ref-type="aff">8</xref></contrib><contrib id="author-79039250" contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8692-8034</contrib-id><name name-style="western"><surname>Shalabi</surname><given-names initials="H">Haneen</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-81256044" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="HW">Hao-Wei</given-names></name><xref rid="aff9" ref-type="aff">9</xref></contrib><contrib id="author-84891180" contrib-type="author"><name name-style="western"><surname>Satpathy</surname><given-names initials="A">Ansuman</given-names></name><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib id="author-101050962" contrib-type="author"><name name-style="western"><surname>Lozier</surname><given-names initials="J">Jay</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-73322358" contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-8474-9080</contrib-id><name name-style="western"><surname>Shah</surname><given-names initials="NN">Nirali N</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution content-type="department">Pediatric Oncology Branch, Center for Cancer Research</institution>, <institution specific-use="Ringgold_313637">National Cancer Institute, National Institutes of Health</institution>, <addr-line content-type="city">Bethesda</addr-line>, <addr-line content-type="state">Maryland</addr-line>, <country>USA</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution content-type="department">Department of Laboratory Medicine</institution>, <institution specific-use="Ringgold_2511">National Institutes of Health</institution>, <addr-line content-type="city">Bethesda</addr-line>, <addr-line content-type="state">Maryland</addr-line>, <country>USA</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution content-type="department">Department of Pathology</institution>, <institution specific-use="Ringgold_6429">Stanford University</institution>, <addr-line content-type="city">Stanford</addr-line>, <addr-line content-type="state">California</addr-line>, <country>USA</country>
+</aff><aff id="aff4">
+<label>4</label>
+<institution content-type="department">Applied Developmental Research Directorate, Leidos Biomedical Research, Inc, Frederick National Laboratory for Cancer Research</institution>, <institution specific-use="Ringgold_3421">National Cancer Institute</institution>, <addr-line content-type="city">Bethesda</addr-line>, <addr-line content-type="state">Maryland</addr-line>, <country>USA</country>
+</aff><aff id="aff5">
+<label>5</label>
+<institution content-type="department">Cancer Data Science Laboratory</institution>, <institution specific-use="Ringgold_3421">National Cancer Institute</institution>, <addr-line content-type="city">Bethesda</addr-line>, <addr-line content-type="state">Maryland</addr-line>, <country>USA</country>
+</aff><aff id="aff6">
+<label>6</label>
+<institution content-type="department">Department of Transfusion Medicine</institution>, <institution specific-use="Ringgold_2511">National Institutes of Health</institution>, <addr-line content-type="city">Bethesda</addr-line>, <addr-line content-type="state">Maryland</addr-line>, <country>USA</country>
+</aff><aff id="aff7">
+<label>7</label>
+<institution specific-use="Ringgold_6915">Mayo Clinic</institution>, <addr-line content-type="city">Rochester</addr-line>, <addr-line content-type="state">Minnesota</addr-line>, <country>USA</country>
+</aff><aff id="aff8">
+<label>8</label>
+<institution specific-use="Ringgold_458555">University of Colorado Denver Children's Hospital Colorado Research Institute</institution>, <addr-line content-type="city">Aurora</addr-line>, <addr-line content-type="state">Colorado</addr-line>, <country>USA</country>
+</aff><aff id="aff9">
+<label>9</label>
+<institution content-type="department">Laboratory of Pathology</institution>, <institution specific-use="Ringgold_3421">National Cancer Institute</institution>, <addr-line content-type="city">Bethesda</addr-line>, <addr-line content-type="state">Maryland</addr-line>, <country>USA</country>
+</aff><author-notes><corresp>
+<label>Correspondence to</label> Dr Nirali N Shah; <email>nirali.shah@nih.gov</email>
+</corresp></author-notes><pub-date pub-type="collection"><year>2023</year></pub-date><pub-date pub-type="epub"><day>9</day><month>6</month><year>2023</year></pub-date><volume>11</volume><issue>6</issue><issue-id pub-id-type="pmc-issue-id">437840</issue-id><elocation-id>e005898</elocation-id><history><date date-type="accepted"><day>23</day><month>3</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>09</day><month>06</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>20</day><month>06</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-04-04 15:25:35.543"><day>04</day><month>04</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.</copyright-statement><copyright-year>2023</copyright-year><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2023-06-09">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="jitc-2022-005898.pdf"><?pdf-name jitc-2022-005898.pdf?><?pdf-size 2576402?><?pdf-md5 a7aa98f79a4259d083b479582cb65243?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:dae0/10277551/a7aa98f79a42/jitc-2022-005898.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="pdf" xlink:href="jitc-2022-005898.pdf"/><abstract><sec><title>Background</title><p>Hematologic toxicities, including coagulopathy, endothelial activation, and cytopenias, with CD19-targeted chimeric antigen receptor (CAR) T-cell therapies correlate with cytokine release syndrome (CRS) and neurotoxicity severity, but little is known about the extended toxicity profiles of CAR T-cells targeting alternative antigens. This report characterizes hematologic toxicities seen following CD22 CAR T-cells and their relationship to CRS and neurotoxicity.</p></sec><sec><title>Methods</title><p>We retrospectively characterized hematologic toxicities associated with CRS seen on a phase 1 study of anti-CD22 CAR T-cells for children and young adults with relapsed/refractory CD22+ hematologic malignancies. Additional analyses included correlation of hematologic toxicities with neurotoxicity and exploring effects of hemophagocytic lymphohistiocytosis-like toxicities (HLH) on bone marrow recovery and cytopenias. Coagulopathy was defined as evidence of bleeding or abnormal coagulation parameters. Hematologic toxicities were graded by Common Terminology Criteria for Adverse Events V.4.0.</p></sec><sec><title>Results</title><p>Across 53 patients receiving CD22 CAR T-cells who experienced CRS, 43 (81.1%) patients achieved complete remission. Eighteen (34.0%) patients experienced coagulopathy, of whom 16 had clinical manifestations of mild bleeding (typically mucosal bleeding) which generally subsided following CRS resolution. Three had manifestations of thrombotic microangiopathy. Patients with coagulopathy had higher peak ferritin, D-dimer, prothrombin time, international normalized ratio (INR), lactate dehydrogenase (LDH), tissue factor, prothrombin fragment F1+2 and soluble vascular cell adhesion molecule-1 (s-VCAM-1). Despite a relatively higher incidence of HLH-like toxicities and endothelial activation, overall neurotoxicity was generally less severe than reported with CD19 CAR T-cells, prompting additional analysis to explore CD22 expression in the central nervous system (CNS). Single-cell analysis revealed that in contrast to CD19 expression, CD22 is not on oligodendrocyte precursor cells or on neurovascular cells but is seen on mature oligodendrocytes. Lastly, among those attaining CR, grade 3–4 neutropenia and thrombocytopenia were seen in 65% of patients at D28.</p></sec><sec><title>Conclusion</title><p>With rising incidence of CD19 negative relapse, CD22 CAR T-cells are increasingly important for the treatment of B-cell malignancies. In characterizing hematologic toxicities on CD22 CAR T-cells, we demonstrate that despite endothelial activation, coagulopathy, and cytopenias, neurotoxicity was relatively mild and that CD22 and CD19 expression in the CNS differed, providing one potential hypothesis for divergent neurotoxicity profiles. Systematic characterization of on-target off-tumor toxicities of novel CAR T-cell constructs will be vital as new antigens are targeted.</p></sec><sec><title>Trial registration number</title><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="NCT02315612" ext-link-type="uri">NCT02315612</ext-link>.</p></sec></abstract><kwd-group><kwd>receptors, chimeric antigen</kwd><kwd>cytokines</kwd><kwd>inflammation</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="funding-1"><funding-source>
+<institution-wrap><institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100000054</institution-id><institution>National Cancer Institute</institution></institution-wrap>
+</funding-source><award-id>ZIA BC 011823</award-id></award-group><award-group id="funding-2"><funding-source>
+<institution-wrap><institution>the Doris Duke Charitable Foundation, the American Association for Dental Research, the Colgate-Palmolive Company, Genentech</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-3"><funding-source>
+<institution-wrap><institution>the Intramural Research Program of the National Institutes of Health, National Cancer Institute, Center for Cancer Research</institution></institution-wrap>
+</funding-source><award-id>ZIA BC 011823</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>special-feature</meta-name><meta-value>unlocked</meta-value></custom-meta></custom-meta-group></article-meta></front><body><boxed-text id="BX1" position="float" orientation="portrait"><sec><title>WHAT IS ALREADY KNOWN ON THIS TOPIC</title><list list-type="bullet"><list-item><p>CD22 chimeric antigen receptor (CAR) T-cells are increasingly more used and despite an association with hemophagocytic lymphohistiocytosis (HLH)-like toxicities and coagulopathy, comprehensive study of the hematologic toxicity profile is lacking.</p></list-item></list></sec><sec><title>WHAT THIS STUDY ADDS</title><list list-type="bullet"><list-item><p>Despite a relatively higher fraction of patients experiencing HLH-like toxicities and coagulopathy with CD22 CAR T-cells compared to what has been reported with CD19 CAR T-cells, clinical manifestations of bleeding were mild, self-limited and generally fully resolved with abatement of the inflammatory response without life-threatening consequences, with rare exceptions. Importantly, despite evidence for endothelial activation which has been associated with CD19 CAR T-cell associated neurotoxicity, CD22 CAR T-cell associated neurotoxicity was mild, prompting further evaluation of CD22 expression in the central nervous system (CNS).</p></list-item></list></sec><sec><title>HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR POLICY</title><list list-type="bullet"><list-item><p>This manuscript provides a first analysis of CD22 expression in the CNS. The differential expression of CD22 compared with CD19 expression suggests a potential hypothesis for why neurotoxicity with CD22 CAR T-cells may be less severe despite endothelial activation.</p></list-item></list></sec></boxed-text><sec sec-type="intro" id="s1"><title>Introduction</title><p>Hematologic toxicities, including coagulopathy, endothelial activation, and cytopenias, are a known complication of chimeric antigen receptor (CAR) T-cell therapy and can occur both in the acute and long-term setting.<xref rid="R1" ref-type="bibr">1–4</xref> Acute hematologic toxicities occurring within the first 28 days of treatment typically manifest in the context of cytokine release syndrome (CRS) and commonly include higher grade cytopenias and/or alterations in coagulation parameters such as prolongation of prothrombin time (PT) and activated partial thromboplastin time, elevation in D-dimer; and decrease in fibrinogen levels, often following a transient rise.<xref rid="R2" ref-type="bibr">2 3 5 6</xref> Coagulopathy, clinically relevant bleeding, and hemophagocytic lymphohistiocytosis (HLH)/macrophage activation syndrome-like toxicities following CAR T-cells have also been reported.<xref rid="R3" ref-type="bibr">3 6–8</xref> Furthermore, while bone marrow recovery is impacted by the effects of CAR T-cell therapy, pre-CAR T-cell bone marrow reserve and baseline inflammation may also contribute to protracted cytopenias and delayed bone marrow recovery following CAR T-cells.<xref rid="R1" ref-type="bibr">1 2 9</xref> Comprehensive study of such toxicities has been largely limited to CD19-targeted CAR T-cell constructs. However, as CAR T-cell targeting alternative B-cell antigens evolve, particularly as a salvage therapy, it will be important to characterize the range of toxicities associated with novel CAR T-cell constructs.</p><p>We recently reported on our experience with CD22 CAR T-cells in children and young adults with relapsed/refractory B-cell malignancies and noted that with a change in manufacturing, the incidence of HLH-like toxicities and coagulopathy increased, despite a relatively stable CRS incidence and severity, prompting dose de-escalation.<xref rid="R10" ref-type="bibr">10 11</xref> We also saw features of endothelial activation on this trial, which has previously been associated with CD19 CAR T-cell-related neurotoxicity.<xref rid="R12" ref-type="bibr">12</xref> Interestingly, however, neurotoxicity was generally both less severe and less frequently seen in our patients than what has been reported on with CD19 CAR T-cells.<xref rid="R12" ref-type="bibr">12–14</xref> As CD22 CAR T-cells are becoming an important treatment option, particularly for those with suboptimal response to or relapse after CD19 targeted therapies,<xref rid="R15" ref-type="bibr">15–17</xref> both as single agent and in combinatorial strategies, we sought to further examine the hematologic toxicity profile of CD22 CAR T-cells and associations with CRS and neurotoxicity.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><sec id="s2-1"><title>Patients</title><p>This phase I dose-escalation study of anti-CD22 CAR T-cells enrolled children and young adults with relapsed or refractory B-cell malignancies between the ages of 3 and 30 years. Patients who had prior CAR T-cell therapy, immunotherapy, or hematopoietic stem cell transplant (HSCT) were eligible. Updated trial results have recently been reported.<xref rid="R10" ref-type="bibr">10</xref> The primary objective of this substudy was to comprehensively characterize manifestations of coagulopathy and endothelial activation alongside other hematologic toxicities observed in patients experiencing CRS and the relationship to other aspects of the toxicity profile. Patients without any CRS were excluded from this analysis to eliminate the impact of non-response/progressive disease as a confounding factor. Importantly all patients with an objective response experienced CRS. Analysis included all patients infused prior to October 20, 2019, during which period coagulopathy studies were closely monitored. All patients or guardians provided written informed consent or assent with parental permission as age appropriate (ClinicalTrials.gov).</p></sec><sec id="s2-2"><title>CAR associated toxicities</title><p>CRS was prospectively graded using the Lee <italic toggle="yes">et al</italic> criteria,<xref rid="R18" ref-type="bibr">18</xref> but reconciled with the American Society of Transplantation and Cellular Therapy (ASTCT) grading, which is used in this manuscript.<xref rid="R18" ref-type="bibr">18</xref> Neurotoxicity symptoms were graded using Common Terminology Criteria for Adverse Events (CTCAE) V.4 guidelines as immune effector cell associated neurotoxicity syndrome (ICANS) grading was not available at study onset and cannot be retroactively applied. Specific details regarding neurotoxicity and grading have been previously reported.<xref rid="R10" ref-type="bibr">10</xref> CAR-associated HLH-like toxicity (carHLH) definitions used for this trial are in <xref rid="SP1" ref-type="supplementary-material">online supplemental table 1</xref> and recently reported on.<xref rid="R11" ref-type="bibr">11</xref>
+</p><supplementary-material id="SP1" position="float" content-type="local-data" orientation="portrait"><object-id pub-id-type="doi">10.1136/jitc-2022-005898.supp1</object-id><label>Supplementary data</label><p>
+<inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" id="SS1" xlink:href="jitc-2022-005898supp001.pdf" content-type="local-data"><?suppdata-name jitc-2022-005898supp001.pdf?><?suppdata-size 3343203?><?suppdata-md5 a77fea2c7dc32bf7e005e69fbf4c2416?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:dae0/10277551/a77fea2c7dc3/jitc-2022-005898supp001.pdf?></inline-supplementary-material>
+</p></supplementary-material></sec><sec id="s2-3"><title>Routine monitoring and coagulopathy definitions</title><p>Serial complete blood counts (CBCs) with differentials, coagulation studies, and acute phase reactants (eg, C-reactive protein (CRP) and ferritin) were collected in all patients. The upper limit of ferritin was 100,000 ng/mL which was used in our analysis. Additionally, after encountering bleeding manifestations in some of the first patients treated at the highest dose level, special coagulation studies were added to the study and prospectively collected. To assess for alterations in the clotting cascade, levels of protein C, S, factor VIII, antithrombin, von Willebrand factor (vWF) antigen, and vWF activity were collected in a small cohort of patients.</p><p>Coagulopathy was identified by the following parameters (adopted and revised from Toh <italic toggle="yes">et al</italic>)<xref rid="R19" ref-type="bibr">19</xref> across all patients with CRS: presence of bleeding (0=no, 1=yes), D-dimer (0=no increase (&lt;0.5 µcg/mL), 1=slight increase (&gt;0.5–5 µcg/mL), 2=moderate increase (&gt;5–20 µcg/mL) and 3=strong increase (&gt;20 µcg/mL)), PT (0=&lt;3 s, 1=≥3 to &lt;6 s, 2=≥6 s from the upper level of normal) and fibrinogen nadir (0=≥100 mg/dL, 1=&lt;100 mg/dL) (<xref rid="SP1" ref-type="supplementary-material">online supplemental table 2</xref>). Patients identified as coagulopathic included those with a score &gt;5, or those with evidence of any clinically relevant bleeding (even in the absence of a score &gt;5). Bleeding was graded by symptom and severity as per CTCAE V.4.0</p></sec><sec id="s2-4"><title>Special coagulation studies</title><p>Thromboelastography (TEG) was used in select patients to assess the contribution of coagulation factors, platelets, and fibrinogen to hemostasis by measuring clot formation and lysis in citrate anticoagulated whole blood, with or without kaolin (a contact activator of the intrinsic pathway of coagulation). To assess endothelial activation as a possible contributor to coagulopathy, we measured baseline and peak plasma thrombomodulin, tissue factor, F1+2, sE-selectin, sP-selectin, soluble intracellular adhesion molecule-1 (s-ICAM-1), and s-VCAM-1. To further determine whether endothelial activation and vascular permeability occurred in patients experiencing CRS we evaluated levels of angiopoietin-1 (Ang1), angiopoietin-2 (Ang2) and vascular endothelial growth factor (VEGF) at D7, D10, D14, and D21 after CAR T-cell infusion.<xref rid="R20" ref-type="bibr">20</xref>
+</p></sec><sec id="s2-5"><title>Correlative hematologic studies</title><p>Correlative studies evaluating markers of endothelial dysfunction were performed in select patients to assess for correlation with neurotoxicity. Plasma Ang1 and Ang2 were measured at Days 7, 10, 14 and 21 using R&amp;D Systems ELISA Quantikine kits (Bio-Techne, Minneapolis, Minnesota, USA) according to the manufacturer’s instructions (<xref rid="SP1" ref-type="supplementary-material">online supplemental file</xref>).</p><p>Peripheral blood smears were evaluated for platelet granularity at the following time points: pretreatment (Day −1 to −3), D0, D7, D14, D21 (<xref rid="SP1" ref-type="supplementary-material">online supplemental table 3</xref>).</p></sec><sec id="s2-6"><title>CD22 expression in the central nervous system</title><p>CD22 expression in the central nervous system (CNS) was performed using single-cell analysis following methods similar to those used to evaluate CD19 expression in the CNS.<xref rid="R21" ref-type="bibr">21</xref> Briefly, data was processed using Scanpy V.1.6 with standard workflows. Cells were filtered and counts were depth-normalized per cell to 10,000 reads, then log transformed. Data was scaled, and principle component analysis (PCA), the neighborhood graph, and uniform manifold approximation and projection (UMAP) was performed using default settings. Data was clustered using the Leiden algorithm. The indicated marker genes for each plot are shown, and the color of each cell indicates the log transformed, depth-normalized counts per cell. For expression analysis of CD22 across age, the mean expression of each postnatal time point was computed, and the Pearson correlation of mean expression and years age was calculated. Full methods can be found in the <xref rid="SP1" ref-type="supplementary-material">online supplemental appendix</xref>.</p></sec><sec id="s2-7"><title>Bone marrow and cytopenia assessments</title><p>Response to CAR-T cell therapy was assessed based on standard leukemia and/or lymphoma grading criteria and all patients had a bone marrow evaluation (including aspirate and biopsy) at baseline and at day +28 (±3 days) post-CD22 CAR-T cell infusion (<xref rid="SP1" ref-type="supplementary-material">online supplemental appendix</xref>). The bone marrow was also assessed for cellularity and CAR expansion. Analysis for count recovery was restricted to those achieving complete remission (CR), all of whom experienced CRS.</p><p>Routine CBCs, including absolute neutrophil and platelet counts, were assessed in all complete responders according to CTCAE V.4.0 guidelines. Patients were defined as platelet transfusion-dependent if they received a transfusion within 7 days of their bone marrow biopsy for a platelet count &lt;25×10<sup>9</sup>/L, or for active bleeding. Platelet recovery was defined as a sustained platelet count &gt;50×10<sup>9</sup>/L for at least three consecutive days among those whose counts dropped below this threshold during the course of therapy.</p></sec><sec id="s2-8"><title>Statistical analysis</title><p>Descriptive statistics were used to summarize patient and disease characteristics. Non-parametric tests were used for all analyses. The Mann-Whitney U test was used to evaluate differences between patients stratified by presence or absence of coagulopathy. Values were captured from initiation of lymphodepletion ±2 days to Day 28 ±3 days post CAR infusion. LDH and haptoglobin were only available from day 0 of CAR infusion ±2 days and onward. Values that were unavailable or uninterpretable (eg, hemolysis) were not included in the analysis. Fisher’s exact was used to compare categorical variables. Analysis was performed with Prism GraphPad using threshold of significance p&lt;0.05.</p></sec></sec><sec sec-type="results" id="s3"><title>Results</title><sec id="s3-1"><title>Patient characteristics and CAR response</title><p>Of 62 patients infused, a total of 53 patients had CRS, the latter which comprises the primary analysis cohort. Analysis plan and reasons for exclusion can be found in the <xref rid="SP1" ref-type="supplementary-material">online supplemental appendix</xref>. The median age of the analysis cohort was 15 years (range 4–30 years). All patients were treated for B-cell acute lymphoblastic leukemia (ALL) except one patient with diffuse large B-cell lymphoma. Thirty-six patients (68%) had undergone prior allogeneic HSCT. Thirty-three patients (62%) had received prior CD19 CAR therapy. Clinical outcomes and overall response rates for the whole cohort have been previously reported (<xref rid="T1" ref-type="table">table 1</xref>).<xref rid="R10" ref-type="bibr">10</xref>
+</p><table-wrap position="float" id="T1" orientation="portrait"><label>Table 1</label><caption><p>Patient characteristics</p></caption><table frame="hsides" rules="groups"><thead><tr><td align="left" valign="bottom" rowspan="1" colspan="1">Demographics</td><td align="left" valign="bottom" rowspan="1" colspan="1">All participants with CRS</td></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">No. of participants</td><td align="left" valign="top" rowspan="1" colspan="1">53</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Male</td><td align="left" valign="top" rowspan="1" colspan="1">34 (64)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> Female</td><td align="left" valign="top" rowspan="1" colspan="1">19 (36)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Median age, years, (range)</td><td align="left" valign="top" rowspan="1" colspan="1">15 (4–30)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diagnosis</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> ALL</td><td align="left" valign="top" rowspan="1" colspan="1">52 (98.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"> DLBCL</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Prior HSCT</td><td align="left" valign="top" rowspan="1" colspan="1">36 (68)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Prior CAR therapy</td><td align="left" valign="top" rowspan="1" colspan="1">33 (62)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Evaluable for coagulopathy*</td><td align="left" valign="top" rowspan="1" colspan="1">48</td></tr></tbody></table><table-wrap-foot><fn id="T1_FN1"><p>Data presented as No. (%) unless otherwise indicated.</p></fn><fn id="T1_FN2"><p>*Five patients were excluded for evaluation of coagulopathy due to lack of laboratory measurements collected in these patients for the coagulopathy parameters of fibrinogen, ferritin, D-dimer and partial thromboplastin time. These five were among the earliest to be treated in the trial and importantly had no manifestations of bleeding.</p></fn><fn id="T1_FN3"><p>ALL, acute lymphoblastic leukemia; CAR, chimeric antigen receptor; CRS, cytokine release syndrome; DLBCL, diffuse large B-cell lymphoma; HSCT, hematopoietic stem cell transplantation; INR, international normalized ratio; LD, lymphodepletion; LDH, lactate dehydrogenase; PCA, principle component analysis; VGEF, vascular endothelial growth factor.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3-2"><title>CAR associated toxicities</title><p>Among the 53 patients with CRS, 42 (79%) patients experienced grade 1–2 CRS, and 11 (21%) had grade 3–4 CRS, per ASTCT grading.<xref rid="R18" ref-type="bibr">18</xref> For CRS management, 6 received tocilizumab alone, 18 received tocilizumab and steroids, and 2 received only steroids. Neurotoxicity occurred in 20/53 (37.7%) patients, all of which was &lt;grade 2 with one exception (one patient with grade 4 intracranial hemorrhage (ICH) and concurrent <italic toggle="yes">Bacillus cereus</italic> sepsis) (<xref rid="SP1" ref-type="supplementary-material">online supplemental table 4</xref>).<xref rid="R22" ref-type="bibr">22</xref> Twenty-two (41.5%) patients had carHLH.</p></sec><sec id="s3-3"><title>Features of coagulopathy</title><sec id="s3-3-1"><title>Clinical manifestations</title><p>Among the 48 with full data for coagulopathy assessments, 18 patients comprised the coagulopathy cohort. This included 16 patients with bleeding manifestations, which were primarily mucosal grade 1 and 2 toxicities, and two with laboratory abnormalities without bleeding (<xref rid="SP1" ref-type="supplementary-material">online supplemental table 5</xref>). Thirteen patients had more than one manifestation of bleeding (<xref rid="F1" ref-type="fig">figure 1A</xref>). As previously reported,<xref rid="R10" ref-type="bibr">10</xref> the average time to CRS onset was day 7 (range, day 3–16 post infusion). Bleeding began a median of 6 days after onset of CRS (IQR, 3 to 7.5 days) and 1.5 days after onset of carHLH (IQR, −3 to 4.3 days) in those experiencing both bleeding and carHLH (n=14).</p><fig position="float" id="F1" orientation="portrait"><label>Figure 1</label><caption><p>Characteristics of patients with hematologic toxicities. (A) Bleeding manifestations of each patient who experienced clinically relevant bleeding after receiving CD22 CAR T-cell infusion. (*) Patients with carHLH. (B) Number of patients who experienced one clinically relevant toxicity of coagulopathy, carHLH or neurotoxicity and those that had more than one manifestation. Five of the 21 patients who did not experience coagulopathy, carHLH or neurotoxicity were unevaluable for coagulopathy, but presumed to not be coagulopathic. CAR, chimeric antigen receptor; carHLH, CAR-associated HLH-like toxicity; CRS, cytokine release syndrome; DAH, diffuse alveolar hemorrhage; HLH, hemophagocytic lymphohistiocytosis; ICH, intracranial hemorrhage; IV, intravenous line site.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jitc-2022-005898f01.jpg"><?image-name jitc-2022-005898f01.jpg?><?image-size 45933?><?image-md5 7ac869d7479b0dc4d52fb088fabf517f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1112?><?image-original-width 3152?><?image-scaled-height 278?><?image-scaled-width 788?><?image-cloudpmc-urn urn:cdn:blobs/dae0/10277551/7ac869d7479b/jitc-2022-005898f01.jpg?><?thumb-name jitc-2022-005898f01.gif?><?thumb-size 4311?><?thumb-md5 7731faa0d1e42761f1f869174f61a2ce?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 71?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/dae0/10277551/7731faa0d1e4/jitc-2022-005898f01.gif?></graphic></fig><p>Disease severity (M1 vs &gt;M2 marrow) prior to CAR infusion was not associated with coagulopathy (p=0.28). Grade 2 CRS or higher was associated with coagulopathy (p=0.016). Three patients developed thrombotic microangiopathy (TMA) requiring the use of eculizumab. One patient showed signs of diffuse alveolar hemorrhage (DAH), another showed signs of atypical hemolytic uremic syndrome and the third experienced ICH, though this patient was found to have <italic toggle="yes">B. cereus</italic> sepsis and has been previously described.<xref rid="R10" ref-type="bibr">10 23</xref> Details of their treatment course are in the <xref rid="SP1" ref-type="supplementary-material">online supplemental appendix</xref>.</p><p>Among the 20 patients with neurotoxicity, 11 (55%) were coagulopathic. Similarly, 15/22 (68%) patients with carHLH experienced coagulopathy (<xref rid="F1" ref-type="fig">figure 1B</xref>). Bleeding manifestations were self-limited, mostly grade 1 and 2 severity, and fully resolved with abatement of the inflammatory response without life-threatening consequences, with the exception of the isolated ICH as mentioned.</p></sec><sec id="s3-3-2"><title>Laboratory manifestations</title><p>Patients with coagulopathy had higher peak ferritin values (100,000 vs 41,045 ng/mL, p&lt;0.0001) than patients who did not display any indicators of endothelial dysfunction. No differences were found between the two groups with respect to CRP or haptoglobin levels.</p><p>Patients also had lower fibrinogen nadirs (102 vs 205 mg/dL, p&lt;0.0001), more prolonged PTs (17.60 vs 16.00 s, p=0.0008), and higher INR (1.42 vs 1.26, p=0.0013), D-dimer (20.10 vs 11.24 mcg/mL, p=0.0002), and LDH (2433 vs 741 U/L, p=0.0009) levels as compared with those without coagulopathy (<xref rid="F2" ref-type="fig">figure 2</xref>). There were no substantial differences in the observed baseline and peak levels of the anticoagulant proteins C and S, or factor VIII, antithrombin, vWF antigen, or vWF activity between the two groups.</p><fig position="float" id="F2" orientation="portrait"><label>Figure 2</label><caption><p>Routine coagulation parameters comparison between those without coagulopathy and those with coagulopathy. (A) Fibrinogen nadir; (B) LDH peak; (C) D-dimer peak; (D) ferritin peak; (E) INR peak; (F) prothrombin time (PT) peak; (G) activated partial thromboplastin time (aPTT) peak; (H) platelet count nadir. HLH, hemophagocytic lymphohistiocytosis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jitc-2022-005898f02.jpg"><?image-name jitc-2022-005898f02.jpg?><?image-size 66767?><?image-md5 33d468c712ac2361debf80f52e193d49?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2456?><?image-original-width 3240?><?image-scaled-height 546?><?image-scaled-width 720?><?image-cloudpmc-urn urn:cdn:blobs/dae0/10277551/33d468c712ac/jitc-2022-005898f02.jpg?><?thumb-name jitc-2022-005898f02.gif?><?thumb-size 2231?><?thumb-md5 9b6e17ac592d3224ce3ccdad4e3a91e8?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 105?><?thumb-cloudpmc-urn urn:cdn:blobs/dae0/10277551/9b6e17ac592d/jitc-2022-005898f02.gif?></graphic></fig><p>In five patients with bleeding, TEG was performed to further characterize the nature of the coagulopathy. No patients had prolonged R times, with or without the kaolin activator. In nearly all patients, the theta angle (a measure of rate of clot formation) and maximum amplitude (MA, i.e., maximum clot firmness)—both of which depend on the contribution of fibrinogen and platelets—were abnormally low (<xref rid="SP1" ref-type="supplementary-material">online supplemental table 6</xref>). Despite the features of coagulopathy and bleeding in these patients, the TEG did not show evidence of hyperfibrinolysis in the EPL or LY30 parameters.</p><p>Lastly, after observance of mucosal bleeding that was seemingly out of proportion to adequate platelet counts in several patients, and gross microscopy observation of hypogranular platelets, we sought to explore platelet granularity more comprehensively to investigate the possibility of an acquired platelet dysfunction. First, we evaluated one patient’s (#27) platelets by transmission electron microscopy to ascertain the status of platelet granules. This confirmed decreased dense granules of platelets (<xref rid="SP1" ref-type="supplementary-material">online supplemental figure 1</xref>). Subsequently, platelet granularity by standard microscopy was assessed in 25 of our patients at baseline (post-lymphodepleting (LD) chemotherapy, pre infusion), D0, 7, 14 and 21, after CD22 CAR T-cell infusion. We found the majority with CRS met criteria for hypogranularity, without a consistent relationship to presence of coagulopathy or bleeding manifestations. Specifically, 9 of 18 (50%) were hypogranular at baseline, 15 of 21 (71.4%) on Day 0; 19 of 25 (76%) on Day 7, 19 of 25 (76%) on Day 14 and 18 of 24 (75%) on Day 21.</p></sec></sec><sec id="s3-4"><title>Transfusion requirements</title><p>Patients with coagulopathy were also more likely to require transfusions during their treatment course. Those with coagulopathy received more packed red blood cells (6 vs 3 units infused, p=0.0057), platelet transfusions (16 vs 2 separate transfusions, p=0.0002), fresh frozen plasma (3 vs 0 units infused, p=0.0009) and cryoprecipitate transfusions (6 vs 0 separate transfusions, p&lt;0.0001) than those without coagulopathy (<xref rid="F3" ref-type="fig">figure 3</xref>).</p><fig position="float" id="F3" orientation="portrait"><label>Figure 3</label><caption><p>Transfusions received in CD22 chimeric antigen receptor T-cell therapy comparison between those without coagulopathy and those with coagulopathy. (A) Fresh frozen plasma (FFP) (1 unit=1 FFP); (B) cryoprecipitate (# infusions, which contain varying units infused); (C) platelets (# transfusions, which could vary from 5 to 12 units of platelets/bag); (D) packed red blood cells (pRBCs) (1 unit=1 pRBC). HLH, hemophagocytic lymphohistiocytosis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jitc-2022-005898f03.jpg"><?image-name jitc-2022-005898f03.jpg?><?image-size 60191?><?image-md5 1f23a54611e916a3a63874b31f22905a?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2152?><?image-original-width 3088?><?image-scaled-height 538?><?image-scaled-width 772?><?image-cloudpmc-urn urn:cdn:blobs/dae0/10277551/1f23a54611e9/jitc-2022-005898f03.jpg?><?thumb-name jitc-2022-005898f03.gif?><?thumb-size 2084?><?thumb-md5 39bbec9688670421d558024343b0201f?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 114?><?thumb-cloudpmc-urn urn:cdn:blobs/dae0/10277551/39bbec968867/jitc-2022-005898f03.gif?></graphic></fig><sec id="s3-4-1"><title>Special coagulation studies</title><p>Among 23 patients with special coagulation studies, those with coagulopathy (n=7, 30.4%) had higher peak levels of tissue factor (351 vs 213 pg/mL, p=0.0035), prothrombin factor F1+2 (6648 vs 1247 pmol/L, p=0.033), and s-VCAM-1 (4833 vs 2064 ng/mL, p=0.039) (<xref rid="SP1" ref-type="supplementary-material">online supplemental figures 2-4</xref>; <xref rid="SP1" ref-type="supplementary-material">online supplemental table 7</xref>). There was no difference in peak values of thrombomodulin, 2, sE-selectin, sP-selectin at peak in those with and without coagulopathy (<xref rid="SP1" ref-type="supplementary-material">online supplemental table 7</xref>).</p></sec><sec id="s3-4-2"><title>Endothelial studies</title><p>Patients with coagulopathy had higher Ang2 levels 10 days after CAR T-cell infusion (6411 vs 3944 pg/mL, p=0.015). There were no substantial differences in Ang1 levels between those who had coagulopathy and those who did not (<xref rid="SP1" ref-type="supplementary-material">online supplemental figure 3</xref>). The Ang2:Ang1 ratio was only found to be different between the coagulopathy groups on D10 (6.25 vs 3.30, p=0.014) but not different on any other days examined. Those with coagulopathy displayed lower levels of VEGF on D10 (10.90 vs 28.10 pg/mL, p=0.0019) and D14 (21.60 vs 30.15 pg/mL, p=0.011) after infusion.</p></sec></sec><sec id="s3-5"><title>Association of hematologic toxicities with neurotoxicity</title><p>Neurotoxicity in this cohort was relatively mild, particularly in comparison to that reported with CD19 CAR T-cells,<xref rid="R1" ref-type="bibr">1 12 24 25</xref> and generally manifested within 1–4 days of CRS onset. Previous data indicated that CRS severity along with hematologic toxicities and endothelial activation, particularly TMA-like manifestations associated with disruptions in the blood-brain barrier (BBB), may cause the neurotoxicity of CAR T-cells. In this regard, all three patients with TMA experienced neurotoxicity. However, despite our higher relative incidence of HLH-like toxicities and endothelial activation, our neurotoxicity profile was generally less severe.</p><p>Differences in angiopoietin levels based on the presence or absence of neurotoxicity were also evaluated. Higher levels of Ang2 were seen in those with neurotoxicity at day 14 (5335 vs 3725 pg/mL, p=0.026), but not at any other time points evaluated. Additionally, Ang2:Ang1 levels were statistically significant on D10 (6.9 vs 3.6, p=0.013), but not D7, 14, or 21 (<xref rid="SP1" ref-type="supplementary-material">online supplemental figure 5</xref>).</p><p>In the context of our hematologic toxicities profiling and based on recent data using single-cell analysis, which identified CD19 expression in human brain mural cells as a potential target for and etiology of CD19 CAR T-cell associated neurotoxicity,<xref rid="R21" ref-type="bibr">21</xref> we sought to explore the expression of CD22 in the CNS. We looked at expression in three public data sets: single-cell RNA expression data from human developmental brain from the Brain Initiative Cell Census Network (BICCN) consortia, single-nuclei RNA expression data from the adult brain from the Allen Brain Map, and bulk RNA sequencing data across multiple ages and brain regions from the Allen BrainSpan project. This revealed that CD22 is not expressed in neurovascular cells (mural cells, endothelial cells, or neurovascular progenitors) (<xref rid="F4" ref-type="fig">figure 4A</xref>). As previously reported,<xref rid="R26" ref-type="bibr">26</xref> CD22 was found to be expressed in mature oligodendrocytes but not in oligodendrocyte precursor cells (OPCs), the latter of which are also perivascular<xref rid="R27" ref-type="bibr">27–29</xref> (<xref rid="F4" ref-type="fig">figure 4B</xref>). The finding of CD22 expression in the adult brain was confirmed by the BrainSpan bulk sequencing data set (<xref rid="F4" ref-type="fig">figure 4C</xref>), where we also observed a trend of increased CD22 expression across age (r=0.65 across postnatal time points).</p><fig position="float" id="F4" orientation="portrait"><label>Figure 4</label><caption><p>Analysis of CD22 expression in human brain single-cell RNA (scRNA) sequencing data (A) UMAP plots of scRNA data from human developmental neurovascular cells showing lack of CD22 expression in neurovascular cells. Each dot is colored by the log expression level of the indicated gene. CD22 is not expressed in the CD248+ or PECAM1+ mural and endothelial clusters, nor in the AIF1+ microglia cluster. (B) UMAP plots of snRNA data from human adult brain showing strong CD22 expression in oligodendrocytes. As before, log expression of the indicated gene is shown. CD22 is highly expressed in oligodendrocytes, marked by OLIG1/2, OPALIN, PLP1, and MBP expression, but not in oligodendrocyte precursor cells, marked by OLIG1/2, CSPG4, and PDGFRA expression. Note that relatively low numbers of neurovascular (CLDN5+) cells are present. (C) CD22 expression increases with age. Bulk RNA sequencing data from different patients and brain regions are shown for each time point. Abbreviations: PDGFRA, platelet-derived growth factor receptor alpha; MBP, myelin basic protein; CSPG4, chondroitin sulfate proteoglycan 4; OPALIN, oligodendrocytic myelin paranodal and inner loop Protein; AIF1, allograft inflammatory factor 1; PTPRC4, protein tyrosine phosphatase receptor Type C; CSF1R, colony stimulating factor 1 receptor; snRNA, small nuclear RNA; OLIG1/2, oligodendrocyte transcription factor 1/2; PECAM1, platelet endothelial cell adhesion molecule 1; UMAP, uniform manifold approximation and projection</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jitc-2022-005898f04.jpg"><?image-name jitc-2022-005898f04.jpg?><?image-size 257443?><?image-md5 ef296e3cd99f26767503f1ac40e70fd7?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 3112?><?image-original-width 1776?><?image-scaled-height 1244?><?image-scaled-width 710?><?image-cloudpmc-urn urn:cdn:blobs/dae0/10277551/ef296e3cd99f/jitc-2022-005898f04.jpg?><?thumb-name jitc-2022-005898f04.gif?><?thumb-size 9574?><?thumb-md5 b749b118e6c18a1b06546ad4a280a523?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 175?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/dae0/10277551/b749b118e6c1/jitc-2022-005898f04.gif?></graphic></fig></sec><sec id="s3-6"><title>Bone marrow evaluation and cytopenias</title><p>Among the 62 infused patients, 43 (69.4%) achieved CR (all of whom had CRS) and were evaluated for cytopenias at D28. CRS grade did not associate with cytopenia severity. At the time of bone marrow evaluation, median absolute neutrophil count was 580 K/mcL (range, &lt;200–2980 K/mcL). Median platelet count was 35 K/mcL (range, 12–283 K/mcL). Median bone marrow cellularity was 26.3% (range, 5–85%), with the majority being hypocelluar for age. All evaluable patients had evidence of trilineage hematopoiesis to varying degrees. Nine patients who remained transfusion-dependent at D28 were transfusion-dependent before lymphodepletion. Median CAR expansion (% of T cells that are CAR+) was 41.5% (range, 6–84.8%). Increased CAR expansion was associated with a trend towards lower percent bone marrow cellularity (p=0.06). Time to absolute neutrophil count (ANC) and platelet recovery could not be obtained for complete analysis as some patients returned to their home institutions for continuing care or proceeded to HSCT before recovery occurred (<xref rid="F5" ref-type="fig">figure 5</xref>).</p><fig position="float" id="F5" orientation="portrait"><label>Figure 5</label><caption><p>Bone marrow recovery evaluation of bone marrow at D28 (±3 days) in patients who had a complete response and evaluable marrow. (A) Cellularity of the marrow (%); (B) absolute neutrophil count (C); platelet count; (D) relationship between CAR expansion and cellularity. CAR, chimeric antigen receptor; HLH, hemophagocytic lymphohistiocytosis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="jitc-2022-005898f05.jpg"><?image-name jitc-2022-005898f05.jpg?><?image-size 68854?><?image-md5 0d76a696422065c1627ef258f7370a1d?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1848?><?image-original-width 2984?><?image-scaled-height 462?><?image-scaled-width 746?><?image-cloudpmc-urn urn:cdn:blobs/dae0/10277551/0d76a6964220/jitc-2022-005898f05.jpg?><?thumb-name jitc-2022-005898f05.gif?><?thumb-size 3797?><?thumb-md5 d04d9c73a59cd6b0bad61033c7493bbc?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 129?><?thumb-cloudpmc-urn urn:cdn:blobs/dae0/10277551/d04d9c73a59c/jitc-2022-005898f05.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="s4"><title>Discussion</title><p>Hematologic toxicities, including coagulopathy, cytopenia, bleeding, and endothelial activation, are frequently seen in the context of CRS following CAR T-cell therapy and are commonly delayed side effects of treatment.<xref rid="R3" ref-type="bibr">3 5 6 9</xref> The majority of the experience, however, stems from CD19 CAR T-cell constructs. With the emergence of targeting alternative antigens, the goal of this study was to characterize the hematologic toxicity profile of patients receiving CD22 CAR T-cells. This particular toxicity is of specific relevance, as concern for bleeding and coagulopathy prompted dose de-escalation on the phase I trial and there is a relatively higher incidence of carHLH with this construct.<xref rid="R10" ref-type="bibr">10 11</xref>
+</p><p>In our study 16/53 (30%) patients experienced clinically relevant bleeding, which was relatively mild (grade 1 and 2). This occurred in the setting of lower CRS severity, with only four patients having a CRS grade &gt;3. In contrast, 137 patients from the ELIANA and ENSIGN trials reported bleeding manifestations in 26/57 (45.6%) patients with grade 3–4 CRS.<xref rid="R4" ref-type="bibr">4</xref> Additionally, the very low fibrinogen levels (&lt;150 mg/dL) in our patients contrasts with other studies that saw hypofibrinogenemia associated with higher CRS severity,<xref rid="R4" ref-type="bibr">4</xref> which may be reflective of our experience with carHLH. Indeed, hypofibrinogenemia is one of the defining criterion for primary and secondary HLH,<xref rid="R30" ref-type="bibr">30</xref> and coagulation abnormalities a main complication of HLH,<xref rid="R31" ref-type="bibr">31</xref> mechanisms which are not fully elucidated.</p><p>Prior studies of CD19-directed CAR T-cells have correlated markers of endothelial activation and vascular permeability with higher grades of CRS and neurotoxicity.<xref rid="R12" ref-type="bibr">12 13 32 33</xref> Based on both our experience and other CD22 CAR T-cell trials,<xref rid="R15" ref-type="bibr">15 16</xref> CD22 CAR T-cells appear to have lower severity CRS and generally less severe neurotoxicity despite the coagulopathy seen. We therefore evaluated various biomarkers known to be associated with endothelial cell function, activation and permeability.<xref rid="R34" ref-type="bibr">34</xref> While we did not see any differences in vWF or thrombomodulin, we did see higher levels of cell-surface adhesion molecule s-VCAM-1 in coagulopathic patients, indicating an increased state of endothelial activation. Although these findings suggest association of endothelial disruption with increased rates of coagulopathy and bleeding seen in our study, this did not correlate with neurotoxicity severity.</p><p>Similarly, while our results of Ang1 and Ang2 were not as strongly associated with neurotoxicity as seen with CD19 CAR T-cells,<xref rid="R12" ref-type="bibr">12</xref> comparisons are challenging based on differing time to onset of CRS and neurotoxicity across trials. Nonetheless in Gust <italic toggle="yes">et al</italic>,<xref rid="R12" ref-type="bibr">12</xref> relevant changes were seen at day 7, likely after manifestations of neurotoxicity had presented—which potentially aligns with our Day +10 and +14 post-infusion results (given the later onset of CRS). Additionally, while select serum cytokines have been associated with neurotoxicity,<xref rid="R12" ref-type="bibr">12</xref> our recent characterization of peak serum cytokines across CD19, CD22 and CD19/22 CAR T-cell trials revealed generally comparable elevations in cytokines with rare exception.<xref rid="R35" ref-type="bibr">35</xref> Exploring additional time points to align results with clinical manifestations is a next step.</p><p>Based on the single-cell analysis identification of CD19 on brain mural cells, which are known to line the BBB, potentially implicating on-target, off-tumor toxicities from CD19 CAR T-cells,<xref rid="R21" ref-type="bibr">21</xref> we sought to study the expression of CD22 in the CNS. The identical analysis revealed absence of CD22 expression on brain mural cells or OPCs. Thus we hypothesize that one potential mechanism for the relatively lower incidence of severe neurotoxicity seen with CD22 CAR T-cells is that the BBB may potentially be more well-preserved following CD22 CAR T-cells than with CD19 targeting, the latter which may create a scenario more permissive of influxes of inflammatory cytokines into the CNS—despite our recent finding that CD22 CAR T-cell expansion is higher compared with either CD19 CAR T-cell-based construct.<xref rid="R35" ref-type="bibr">35</xref> The relevance of CD22 expression on oligodendrocytes is unknown. Provocatively challenging conventional wisdom, our experience disassociates neurotoxicity as correlating directly with endothelial activation, and rather provides data suggesting that the differential antigen expression in the CNS may provide a potential explanation for the variability in clinical manifestations, highlighting the potential value of single-cell analysis in understanding CAR T-cell toxicities with novel targets. We also show that toxicities, while frequently overlapping, may also be seen as distinct entities. Indeed, among all those with neurotoxicity, 7 of 20 (35%) had no manifestations of concurrent carHLH or coagulopathy.</p><p>Lastly, given the concern for cytopenias associated with CAR T-cells in general, we evaluated neutrophil and platelet recovery at D28. In this very heavily pretreated patient population, the majority experienced high grade cytopenias, before and after CD22 CAR T-cell infusion. The trend between higher CAR T-cell expansion and lower bone marrow cellularity may potentially be secondary to the local inflammatory response from CAR T-cell expansion, in conjunction with lower bone marrow reserve due to the impact of extensive prior therapy in this patient population. The CAR-HEMATOTOX model, which examines markers of hematopoietic reserve and baseline inflammatory markers, supports the hypothesis that patients with lower bone marrow reserves prior to therapy may have higher grade and more prolonged courses of cytopenia following CAR T-cell therapy.<xref rid="R9" ref-type="bibr">9</xref>
+</p><p>Limitations of this study include absence of laboratory data related to endothelial dysfunction and coagulation in our earliest set of patients enrolled who were treated at the lowest dose level, which did not allow for consistent collection among all participants—but who also did not experience bleeding complications. Markers of endothelial activation, such as Ang1, Ang2 and Ang2:Ang1 were generally unrevealing in our study and could not be used to validate the findings reported in other recent studies on CAR T-cell associated neurotoxicity,<xref rid="R12" ref-type="bibr">12</xref> possibly due to discrepant neurotoxicity findings and differences in timing of sample collection and variability in onset of clinical manifestations. Additionally, slides for evaluation of platelet granularity by standard microscopy were only available for 25 of our patients. Accurate evaluation of thrombocytopenia was hard to assess as some patients were receiving consistent platelet transfusions to maintain a count above &gt;30,000 K/µL for procedures. Lastly, comparisons of bleeding manifestations and coagulopathy to other CAR T-cell constructs is also limited based on varying grading systems for CRS and definitions for coagulopathy.</p><p>In conclusion, we comprehensively report focusing on hematologic toxicities of CD22 CAR T-cells in children and young adults with ALL and the correlation with neurotoxicity and endothelial activation—or lack thereof. As CD22 CAR T-cells are emerging as an important treatment strategy, either as single antigen or as combinatorial constructs, this report provides much needed insight into a systems-based toxicity of this construct. As HLH-like toxicities were an important confounder with coagulopathy, we anticipate that with earlier recognition and pre-emptive intervention, that both toxicities will become less challenging and more easy to manage than with these early experiences.<xref rid="R11" ref-type="bibr">11</xref> The differential expression of CD22 versus CD19 in the CNS is of great interest and further studies are warranted to assess the potential role of single-cell analysis in determining on-target, off-tumor toxicities.</p></sec></body><back><ack><p>We gratefully acknowledge the study participants and their families, referring medical care teams, the faculty and staff of the NIH Clinical Center and the Critical Care Medicine Department, and the data managers involved with this work. We would specifically like to acknowledge Dr Venkatesh Krishnasamy for his assistance with clinical care for our patients with coagulopathy. The National Institutes of Health (NIH) Medical Research Scholars Program is a public–private partnership supported jointly by the NIH and generous contributions to the Foundation for the NIH from the Doris Duke Charitable Foundation, the American Association for Dental Research, the Colgate-Palmolive Company, Genentech, alumni of student research programs, and other individual supporters via contributions to the Foundation for the National Institutes of Health.</p></ack><fn-group><fn fn-type="other"><p>JJ and BY contributed equally.</p></fn><fn fn-type="other"><p><bold>Contributors:</bold> BY, JL, and NS developed the study design. JJ and NS performed primary data analysis. JJ, AC, DC, and JL performed analysis of special coagulation studies. AD-F and SS provided data on bone marrow cellularity and cytopenias. MO provided input on data related to transfusion parameters. JI and YW performed cytokine analysis. KP and AS performed CD22 analysis in the central nervous system. DL, FS, HSm, and EK provided input on correlative studies and neurotoxicity manifestations. BY, LL, TJF, HSh, and NS facilitated enrollment to the CD22 CAR T-cell trial and direct patient care. H-WW performed all flow cytometric analysis related to CAR T-cell detection. JJ, BY, KP, and NS developed the first draft of the manuscript. All authors had reviewed the manuscript and contributed meaningfully to the content. N.N.S is the guarantor for this article.</p></fn><fn fn-type="other"><p><bold>Funding:</bold> This work was supported in part by the Intramural Research Program, Center of Cancer Research, National Cancer Institute and NIH Clinical Center, National Institutes of Health (ZIA BC 011823, NS).</p></fn><fn fn-type="other"><p><bold>Disclaimer:</bold> The content of this publication does not necessarily reflect the views of policies of the Department of Health and Human Services, nor does mention of trade names, commercial products, or organizations imply endorsement by the US Government.</p></fn><fn fn-type="COI-statement"><p><bold>Competing interests:</bold> None declared.</p></fn><fn fn-type="other"><p><bold>Provenance and peer review:</bold> Not commissioned; externally peer reviewed.</p></fn><fn fn-type="other"><p><bold>Supplemental material:</bold> This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.</p></fn></fn-group><sec sec-type="data-availability"><title>Data availability statement</title><p>Data are available upon reasonable request. All data relevant to the study are included in the article or uploaded as supplementary information. Data are available upon reasonable request.</p></sec><sec sec-type="ethics-statement"><title>Ethics statements</title><sec><title>Patient consent for publication</title><p content-type="ethics-consent-to-publish">Not applicable.</p></sec><sec><title>Ethics approval</title><p content-type="ethics-approval">This study involves human participants and was approved by National Cancer Institute Institutional Review Board. Participants gave informed consent to participate in the study before taking part.</p></sec></sec><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Maude</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laetsch</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buechner</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Tisagenlecleucel in children and young adults with B-cell Lymphoblastic leukemia</article-title>. <source>N Engl J Med</source>
+<year>2018</year>;<volume>378</volume>:<fpage>439</fpage>–<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1709866</pub-id>
+<pub-id pub-id-type="pmid">29385370</pub-id><pub-id pub-id-type="pmcid">PMC5996391</pub-id></mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Fried</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Avigdor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bielorai</surname>
+<given-names>B</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Early and late hematologic toxicity following CD19 CAR-T cells</article-title>. <source>Bone Marrow Transplant</source>
+<year>2019</year>;<volume>54</volume>:<fpage>1643</fpage>–<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1038/s41409-019-0487-3</pub-id>
+<pub-id pub-id-type="pmid">30809033</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>H</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Coagulation disorders after Chimeric antigen receptor T cell therapy: analysis of 100 patients with relapsed and refractory hematologic malignancies</article-title>. <source>Biol Blood Marrow Transplant</source>
+<year>2020</year>;<volume>26</volume>:<fpage>865</fpage>–<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbmt.2019.11.027</pub-id>
+<pub-id pub-id-type="pmid">31786240</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Buechner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grupp</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hiramatsu</surname>
+<given-names>H</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Practical guidelines for monitoring and management of Coagulopathy following Tisagenlecleucel CAR T-cell therapy</article-title>. <source>Blood Adv</source>
+<year>2021</year>;<volume>5</volume>:<fpage>593</fpage>–<lpage>601</lpage>. <pub-id pub-id-type="doi">10.1182/bloodadvances.2020002757</pub-id>
+<pub-id pub-id-type="pmid">33496754</pub-id><pub-id pub-id-type="pmcid">PMC7839371</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Brudno</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kochenderfer</surname>
+<given-names>JN</given-names>
+</string-name>
+</person-group>. <article-title>Toxicities of Chimeric antigen receptor T cells: recognition and management</article-title>. <source>Blood</source>
+<year>2016</year>;<volume>127</volume>:<fpage>3321</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2016-04-703751</pub-id>
+<pub-id pub-id-type="pmid">27207799</pub-id><pub-id pub-id-type="pmcid">PMC4929924</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ikezoe</surname>
+<given-names>T</given-names>
+</string-name>
+</person-group>. <article-title>Advances in the diagnosis and treatment of disseminated Intravascular coagulation in haematological malignancies</article-title>. <source>Int J Hematol</source>
+<year>2021</year>;<volume>113</volume>:<fpage>34</fpage>–<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1007/s12185-020-02992-w</pub-id>
+<pub-id pub-id-type="pmid">32902759</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Teachey</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lacey</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shaw</surname>
+<given-names>PA</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Identification of predictive biomarkers for cytokine release syndrome after Chimeric antigen receptor T-cell therapy for acute Lymphoblastic leukemia</article-title>. <source>Cancer Discov</source>
+<year>2016</year>;<volume>6</volume>:<fpage>664</fpage>–<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1158/2159-8290.CD-16-0040</pub-id>
+<pub-id pub-id-type="pmid">27076371</pub-id><pub-id pub-id-type="pmcid">PMC5448406</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Neelapu</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tummala</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kebriaei</surname>
+<given-names>P</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Chimeric antigen receptor T-cell therapy - assessment and management of toxicities</article-title>. <source>Nat Rev Clin Oncol</source>
+<year>2018</year>;<volume>15</volume>:<fpage>47</fpage>–<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1038/nrclinonc.2017.148</pub-id>
+<pub-id pub-id-type="pmid">28925994</pub-id><pub-id pub-id-type="pmcid">PMC6733403</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Rejeski</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sesques</surname>
+<given-names>P</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>CAR-HEMATOTOX: a model for CAR T-cell-related hematologic toxicity in relapsed/refractory large B-cell lymphoma</article-title>. <source>Blood</source>
+<year>2021</year>;<volume>138</volume>:<fpage>2499</fpage>–<lpage>513</lpage>. <pub-id pub-id-type="doi">10.1182/blood.2020010543</pub-id>
+<pub-id pub-id-type="pmid">34166502</pub-id><pub-id pub-id-type="pmcid">PMC8893508</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Shah</surname>
+<given-names>NN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Highfill</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shalabi</surname>
+<given-names>H</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>CD4/CD8 T-cell selection affects Chimeric antigen receptor (CAR) T-cell potency and toxicity: updated results from a phase I anti-CD22 CAR T-cell trial</article-title>. <source>JCO</source>
+<year>2020</year>;<volume>38</volume>:<fpage>1938</fpage>–<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.19.03279</pub-id>
+<pub-id pub-id-type="pmcid">PMC7280047</pub-id><pub-id pub-id-type="pmid">32286905</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Lichtenstein</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schischlik</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shao</surname>
+<given-names>L</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Characterization of HLH-like manifestations as a CRS variant in patients receiving CD22 CAR T cells</article-title>. <source>Blood</source>
+<year>2021</year>;<volume>138</volume>:<fpage>2469</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1182/blood.2021011898</pub-id>
+<pub-id pub-id-type="pmid">34525183</pub-id><pub-id pub-id-type="pmcid">PMC8832442</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Gust</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hay</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanafi</surname>
+<given-names>L-A</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Endothelial activation and blood-brain barrier disruption in neurotoxicity after adoptive Immunotherapy with CD19 CAR-T cells</article-title>. <source>Cancer Discov</source>
+<year>2017</year>;<volume>7</volume>:<fpage>1404</fpage>–<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1158/2159-8290.CD-17-0698</pub-id>
+<pub-id pub-id-type="pmid">29025771</pub-id><pub-id pub-id-type="pmcid">PMC5718945</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Mackall</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miklos</surname>
+<given-names>DB</given-names>
+</string-name>
+</person-group>. <article-title>CNS endothelial cell activation emerges as a driver of CAR T cell-associated neurotoxicity</article-title>. <source>Cancer Discov</source>
+<year>2017</year>;<volume>7</volume>:<fpage>1371</fpage>–<lpage>3</lpage>. <pub-id pub-id-type="doi">10.1158/2159-8290.CD-17-1084</pub-id>
+<pub-id pub-id-type="pmid">29208775</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Santomasso</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salloum</surname>
+<given-names>D</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Clinical and biological correlates of neurotoxicity associated with CAR T-cell therapy in patients with B-cell acute Lymphoblastic leukemia</article-title>. <source>Cancer Discov</source>
+<year>2018</year>;<volume>8</volume>:<fpage>958</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1158/2159-8290.CD-17-1319</pub-id>
+<pub-id pub-id-type="pmid">29880584</pub-id><pub-id pub-id-type="pmcid">PMC6385599</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Baird</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frank</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Craig</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>CD22-directed CAR T-cell therapy induces complete remissions in CD19-directed CAR-refractory large B-cell lymphoma</article-title>. <source>Blood</source>
+<year>2021</year>;<volume>137</volume>:<fpage>2321</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1182/blood.2020009432</pub-id>
+<pub-id pub-id-type="pmid">33512414</pub-id><pub-id pub-id-type="pmcid">PMC8085484</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Pan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deng</surname>
+<given-names>B</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>CD22 CAR T-cell therapy in refractory or relapsed B acute Lymphoblastic leukemia</article-title>. <source>Leukemia</source>
+<year>2019</year>;<volume>33</volume>:<fpage>2854</fpage>–<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1038/s41375-019-0488-7</pub-id>
+<pub-id pub-id-type="pmid">31110217</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Pan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zuo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deng</surname>
+<given-names>B</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Sequential CD19-22 CAR T therapy induces sustained remission in children with R/R B-ALL</article-title>. <source>Blood</source>
+<year>2020</year>;<volume>135</volume>:<fpage>387</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1182/blood.2019003293</pub-id>
+<pub-id pub-id-type="pmid">31725148</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santomasso</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Locke</surname>
+<given-names>FL</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>ASTCT consensus grading for cytokine release syndrome and neurologic toxicity associated with immune effector cells</article-title>. <source>Biol Blood Marrow Transplant</source>
+<year>2019</year>;<volume>25</volume>:<fpage>625</fpage>–<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbmt.2018.12.758</pub-id>
+<pub-id pub-id-type="pmid">30592986</pub-id><pub-id pub-id-type="pmcid">PMC12180426</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Toh</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alhamdi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abrams</surname>
+<given-names>ST</given-names>
+</string-name>
+</person-group>. <article-title>Current pathological and laboratory considerations in the diagnosis of disseminated Intravascular coagulation</article-title>. <source>Ann Lab Med</source>
+<year>2016</year>;<volume>36</volume>:<fpage>505</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.3343/alm.2016.36.6.505</pub-id>
+<pub-id pub-id-type="pmid">27578502</pub-id><pub-id pub-id-type="pmcid">PMC5011102</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Melincovici</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boşca</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Şuşman</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Vascular endothelial growth factor (VEGF) - key factor in normal and pathological angiogenesis</article-title>. <source>Rom J Morphol Embryol</source>
+<year>2018</year>;<volume>59</volume>:<fpage>455</fpage>–<lpage>67</lpage>.<pub-id pub-id-type="pmid">30173249</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Parker</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Migliorini</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perkey</surname>
+<given-names>E</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Single-cell analyses identify brain mural cells expressing CD19 as potential off-tumor targets for CAR-T Immunotherapies</article-title>. <source>Cell</source>
+<year>2020</year>;<volume>183</volume>:<fpage>126</fpage>–<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2020.08.022</pub-id>
+<pub-id pub-id-type="pmid">32961131</pub-id><pub-id pub-id-type="pmcid">PMC7640763</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Shalabi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolters</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Systematic evaluation of neurotoxicity in children and young adults undergoing CD22 Chimeric antigen receptor T-cell therapy</article-title>. <source>J Immunother</source>
+<year>2018</year>;<volume>41</volume>:<fpage>350</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1097/CJI.0000000000000241</pub-id>
+<pub-id pub-id-type="pmid">30048343</pub-id><pub-id pub-id-type="pmcid">PMC6086728</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Masih</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ligon</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yates</surname>
+<given-names>B</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Consequences of hemophagocytic lymphohistiocytosis-like cytokine release syndrome toxicities and concurrent bacteremia</article-title>. <source>Pediatr Blood Cancer</source>
+<year>2021</year>;<volume>68</volume>:<elocation-id>e29247</elocation-id>. <pub-id pub-id-type="doi">10.1002/pbc.29247</pub-id>
+<pub-id pub-id-type="pmid">34309174</pub-id><pub-id pub-id-type="pmcid">PMC9410765</pub-id></mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Gust</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taraseviciute</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turtle</surname>
+<given-names>CJ</given-names>
+</string-name>
+</person-group>. <article-title>Neurotoxicity associated with CD19-targeted CAR-T cell therapies</article-title>. <source>CNS Drugs</source>
+<year>2018</year>;<volume>32</volume>:<fpage>1091</fpage>–<lpage>101</lpage>. <pub-id pub-id-type="doi">10.1007/s40263-018-0582-9</pub-id>
+<pub-id pub-id-type="pmid">30387077</pub-id><pub-id pub-id-type="pmcid">PMC7295115</pub-id></mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Gardner</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Finney</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Annesley</surname>
+<given-names>C</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Intent-to-treat leukemia remission by CD19 CAR T cells of defined formulation and dose in children and young adults</article-title>. <source>Blood</source>
+<year>2017</year>;<volume>129</volume>:<fpage>3322</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2017-02-769208</pub-id>
+<pub-id pub-id-type="pmid">28408462</pub-id><pub-id pub-id-type="pmcid">PMC5482103</pub-id></mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Pluvinage</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claes</surname>
+<given-names>C</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>The CD22-IGF2R interaction is a therapeutic target for Microglial Lysosome dysfunction in Niemann-pick type C</article-title>. <source>Sci Transl Med</source>
+<year>2021</year>;<volume>13</volume>:<elocation-id>eabg2919</elocation-id>. <pub-id pub-id-type="doi">10.1126/scitranslmed.abg2919</pub-id>
+<pub-id pub-id-type="pmid">34851695</pub-id><pub-id pub-id-type="pmcid">PMC9067636</pub-id></mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kirby</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardona</surname>
+<given-names>JG</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Oligodendrocyte precursor cells present antigen and are cytotoxic targets in inflammatory demyelination</article-title>. <source>Nat Commun</source>
+<year>2019</year>;<volume>10</volume>:<elocation-id>3887</elocation-id>. <pub-id pub-id-type="doi">10.1038/s41467-019-11638-3</pub-id>
+<pub-id pub-id-type="pmid">31467299</pub-id><pub-id pub-id-type="pmcid">PMC6715717</pub-id></mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Niu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>H-H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoi</surname>
+<given-names>KK</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Aberrant oligodendroglial-vascular interactions disrupt the blood-brain barrier, triggering CNS inflammation</article-title>. <source>Nat Neurosci</source>
+<year>2019</year>;<volume>22</volume>:<fpage>709</fpage>–<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1038/s41593-019-0369-4</pub-id>
+<pub-id pub-id-type="pmid">30988524</pub-id><pub-id pub-id-type="pmcid">PMC6486410</pub-id></mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kishida</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takagi</surname>
+<given-names>Y</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Role of perivascular oligodendrocyte precursor cells in angiogenesis after brain ischemia</article-title>. <source>J Am Heart Assoc</source>
+<year>2019</year>;<volume>8</volume>:<elocation-id>e011824</elocation-id>. <pub-id pub-id-type="doi">10.1161/JAHA.118.011824</pub-id>
+<pub-id pub-id-type="pmid">31020902</pub-id><pub-id pub-id-type="pmcid">PMC6512138</pub-id></mixed-citation></ref><ref id="R30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Henter</surname>
+<given-names>J-I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horne</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aricó</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>HLH-2004: diagnostic and therapeutic guidelines for hemophagocytic lymphohistiocytosis</article-title>. <source>Pediatr Blood Cancer</source>
+<year>2007</year>;<volume>48</volume>:<fpage>124</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1002/pbc.21039</pub-id>
+<pub-id pub-id-type="pmid">16937360</pub-id></mixed-citation></ref><ref id="R31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Valade</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mariotte</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azoulay</surname>
+<given-names>E</given-names>
+</string-name>
+</person-group>. <article-title>Coagulation disorders in hemophagocytic lymphohistiocytosis/macrophage activation syndrome</article-title>. <source>Crit Care Clin</source>
+<year>2020</year>;<volume>36</volume>:<fpage>415</fpage>–<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1016/j.ccc.2019.12.004</pub-id>
+<pub-id pub-id-type="pmid">32172822</pub-id></mixed-citation></ref><ref id="R32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hay</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanafi</surname>
+<given-names>L-A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Kinetics and biomarkers of severe cytokine release syndrome after CD19 Chimeric antigen receptor-modified T-cell therapy</article-title>. <source>Blood</source>
+<year>2017</year>;<volume>130</volume>:<fpage>2295</fpage>–<lpage>306</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2017-06-793141</pub-id>
+<pub-id pub-id-type="pmid">28924019</pub-id><pub-id pub-id-type="pmcid">PMC5701525</pub-id></mixed-citation></ref><ref id="R33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>T</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Improving the safety of CAR-T cell therapy by controlling CRS-related Coagulopathy</article-title>. <source>Ann Hematol</source>
+<year>2019</year>;<volume>98</volume>:<fpage>1721</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1007/s00277-019-03685-z</pub-id>
+<pub-id pub-id-type="pmid">31055613</pub-id></mixed-citation></ref><ref id="R34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Page</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liles</surname>
+<given-names>WC</given-names>
+</string-name>
+</person-group>. <article-title>Biomarkers of endothelial activation/dysfunction in infectious diseases</article-title>. <source>Virulence</source>
+<year>2013</year>;<volume>4</volume>:<fpage>507</fpage>–<lpage>16</lpage>. <pub-id pub-id-type="doi">10.4161/viru.24530</pub-id>
+<pub-id pub-id-type="pmid">23669075</pub-id><pub-id pub-id-type="pmcid">PMC5359744</pub-id></mixed-citation></ref><ref id="R35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Shalabi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>CD19/22 CAR T cells in children and young adults with B-ALL: phase 1 results and development of a novel Bicistronic CAR</article-title>. <source>Blood</source>
+<year>2022</year>;<volume>140</volume>:<fpage>451</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1182/blood.2022015795</pub-id>
+<pub-id pub-id-type="pmid">35605184</pub-id><pub-id pub-id-type="pmcid">PMC9353146</pub-id></mixed-citation></ref></ref-list></back></article>

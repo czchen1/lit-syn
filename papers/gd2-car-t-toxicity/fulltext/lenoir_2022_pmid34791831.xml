@@ -1,0 +1,947 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="psp412736" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">CPT Pharmacometrics Syst Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">CPT Pharmacometrics Syst Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">2038</journal-id><journal-id journal-id-type="pmc-domain">cptpsp</journal-id><journal-id journal-id-type="nlm-id">101580011</journal-id><journal-id journal-id-type="publisher-id">PSP4</journal-id><journal-title-group><journal-title>CPT: Pharmacometrics &amp; Systems Pharmacology</journal-title></journal-title-group><issn pub-type="epub">2163-8306</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8752107</article-id><article-id pub-id-type="pmcid-ver">PMC8752107.1</article-id><article-id pub-id-type="pmcaid">8752107</article-id><article-id pub-id-type="pmcaiid">8752107</article-id><article-id pub-id-type="pmid">34791831</article-id><article-id pub-id-type="doi">10.1002/psp4.12730</article-id><article-id pub-id-type="publisher-id">PSP412730</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Prediction of cytochromes P450 3A and 2C19 modulation by both inflammation and drug interactions using physiologically based pharmacokinetics</article-title><alt-title alt-title-type="right-running-head">Prediction of IL‐6 and esomeprazole impact on CYP</alt-title><alt-title alt-title-type="left-running-head">LENOIR et al.</alt-title></title-group><contrib-group><contrib id="psp412730-cr-0001" contrib-type="author"><name name-style="western"><surname>Lenoir</surname><given-names initials="C">Camille</given-names></name><xref rid="psp412730-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="psp412730-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="psp412730-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp412730-cr-0002" contrib-type="author"><name name-style="western"><surname>Niederer</surname><given-names initials="A">Amine</given-names></name><xref rid="psp412730-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="psp412730-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="psp412730-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp412730-cr-0003" contrib-type="author"><name name-style="western"><surname>Rollason</surname><given-names initials="V">Victoria</given-names></name><xref rid="psp412730-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="psp412730-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="psp412730-cr-0004" contrib-type="author"><name name-style="western"><surname>Desmeules</surname><given-names initials="JA">Jules Alexandre</given-names></name><xref rid="psp412730-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="psp412730-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="psp412730-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="psp412730-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="psp412730-cr-0005" contrib-type="author"><name name-style="western"><surname>Daali</surname><given-names initials="Y">Youssef</given-names></name><xref rid="psp412730-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="psp412730-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="psp412730-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="psp412730-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="psp412730-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Samer</surname><given-names initials="CF">Caroline Flora</given-names></name><xref rid="psp412730-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="psp412730-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>caroline.samer@hcuge.ch</email></address></contrib></contrib-group><aff id="psp412730-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Division of Clinical Pharmacology and Toxicology</named-content>
+<named-content content-type="organisation-division">Department of Anaesthesiology, Pharmacology, Intensive Care and Emergency Medicine</named-content>
+<institution>Geneva University Hospitals</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="psp412730-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Pharmaceutical Sciences of Western Switzerland</named-content>
+<institution>University of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="psp412730-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">School of Pharmaceutical Sciences</named-content>
+<institution>University of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="psp412730-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Medicine</named-content>
+<institution>University of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Caroline Samer, Division of Clinical Pharmacology and Toxicology, Geneva University Hospitals, Rue Gabrielle‐Perret‐Gentil 4, 1211 Geneva 14, Switzerland.<break/>
+Email: <email>caroline.samer@hcuge.ch</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>11</month><year>2021</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2022</year></pub-date><volume>11</volume><issue seq="50">1</issue><issue-id pub-id-type="pmc-issue-id">398256</issue-id><issue-id pub-id-type="doi">10.1002/psp4.v11.1</issue-id><fpage>30</fpage><lpage>43</lpage><history>
+<date date-type="rev-recd"><day>16</day><month>9</month><year>2021</year></date>
+<date date-type="received"><day>18</day><month>5</month><year>2021</year></date>
+<date date-type="accepted"><day>01</day><month>10</month><year>2021</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>01</day><month>01</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>14</day><month>01</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2022-01-15 00:16:41.073"><day>15</day><month>01</month><year>2022</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2021 The Authors. <italic toggle="yes">CPT: Pharmacometrics &amp; Systems Pharmacology</italic> published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PSP4-11-30.pdf"><?pdf-name PSP4-11-30.pdf?><?pdf-size 621573?><?pdf-md5 fe5522136e62e825586969c1fa141409?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:3dd8/8752107/fe5522136e62/PSP4-11-30.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PSP4-11-30.pdf"/><abstract id="psp412730-abs-0001"><title>Abstract</title><p>Xenobiotics can interact with cytochromes P450 (CYPs), resulting in drug–drug interactions, but CYPs can also contribute to drug–disease interactions, especially in the case of inflammation, which downregulates CYP activities through pretranscriptional and posttranscriptional mechanisms. Interleukin‐6 (IL‐6), a key proinflammatory cytokine, is mainly responsible for this effect. The aim of our study was to develop a physiologically based pharmacokinetic (PBPK) model to foresee the impact of elevated IL‐6 levels in combination with drug interactions with esomeprazole on CYP3A and CYP2C19. Data from a cohort of elective hip surgery patients whose CYP3A and CYP2C19 activities were measured before and after surgery were used to validate the accurate prediction of the developed models. Successive steps were to fit models for IL‐6, esomeprazole, and omeprazole and its metabolite from the literature and to validate them. The models for midazolam and its metabolite were obtained from the literature. When appropriate, a correction factor was applied to convert drug concentrations from whole blood to plasma. Mean ratios between simulated and observed areas under the curve for omeprazole/5‐hydroxy omeprazole, esomeprazole, and IL‐6 were 1.53, 1.06, and 0.69, respectively, indicating an accurate prediction of the developed models. The impact of IL‐6 and esomeprazole on the exposure to CYP3A and CYP2C19 probe substrates and respective metabolites were correctly predicted. Indeed, the ratio between predicted and observed mean concentrations were &lt;2 for all observations (ranging from 0.51 to 1.7). The impact of IL‐6 and esomeprazole on CYP3A and CYP2C19 activities after a hip surgery were correctly predicted with the developed PBPK models.</p></abstract><funding-group><award-group id="funding-0001"><funding-source>Division of Clinical Pharmacology and Toxicology</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="14"/><word-count count="7698"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.0 mode:remove_FC converted:11.01.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="psp412730-cit-1001">
+<string-name name-style="western">
+<surname>Lenoir</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niederer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollason</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desmeules</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daali</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samer</surname>
+<given-names>CF</given-names>
+</string-name>. <article-title>Prediction of cytochromes P450 3A and 2C19 modulation by both inflammation and drug interactions using physiologically based pharmacokinetics</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2022</year>;<volume>11</volume>:<fpage>30</fpage>–<lpage>43</lpage>. doi:<pub-id pub-id-type="doi">10.1002/psp4.12730</pub-id>
+<pub-id pub-id-type="pmcid">PMC8752107</pub-id><pub-id pub-id-type="pmid">34791831</pub-id></mixed-citation>
+</p><fn-group id="psp412736-ntgp-0001"><fn fn-type="funding" id="psp412730-note-0001"><p>
+<bold>Funding information</bold>
+</p><p>This research was conducted with private funding of the Division of Clinical Pharmacology and Toxicology, without other support from funding agencies in the public, commercial, or not‐for‐profit sectors</p></fn></fn-group></notes></front><body id="psp412730-body-0001"><p>
+<boxed-text position="anchor" content-type="box" orientation="portrait"><caption><title>Study Highlights</title></caption><p>
+<list list-type="simple" id="psp412730-list-0001"><list-item><p>
+<bold>WHAT IS THE CURRENT KNOWLEDGE ON THE TOPIC?</bold>
+</p></list-item></list>
+</p><p>There is high interindividual variability in cytochrome P450 (CYP) activities due to genetic, environmental, and physiological factors, including drug–drug and drug–disease interactions. The development and use of a physiologically based pharmacokinetic (PBPK) model allow for the prediction of the pharmacokinetic properties of a drug and have been used to predict and assess drug efficacy and safety.
+<list list-type="simple" id="psp412730-list-0002"><list-item><p>
+<bold>WHAT QUESTION DID THIS STUDY ADDRESS?</bold>
+</p></list-item></list>
+</p><p>Did the PBPK models developed accurately predict the impact of elevated interleukin‐6 (IL‐6; acute inflammation) in combination with drug interactions with esomeprazole on CYP3A and CYP2C19 activities?
+<list list-type="simple" id="psp412730-list-0003"><list-item><p>
+<bold>WHAT DOES THIS STUDY ADD TO OUR KNOWLEDGE?</bold>
+</p></list-item></list>
+</p><p>The impact of IL‐6 and esomeprazole on exposure to the CYP3A and CYP2C19 probe substrates and their respective metabolites were correctly predicted by the developed PBPK models.
+<list list-type="simple" id="psp412730-list-0004"><list-item><p>
+<bold>HOW MIGHT THIS CHANGE DRUG DISCOVERY, DEVELOPMENT, AND/OR THERAPEUTICS?</bold>
+</p></list-item></list>
+</p><p>The integration and prediction of pharmacodynamic and disease parameters in PBPK models appear to be a promising approach to personalize treatments.</p></boxed-text>
+</p><sec id="psp412730-sec-0002"><title>INTRODUCTION</title><p>The interplay of genetic, physiological, and environmental factors leads to interindividual and intraindividual variability in response to treatment.<xref rid="psp412730-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Indeed, these factors are unique to each individual and/or may change over time and cause disparity in the safety and efficacy of treatments.<xref rid="psp412730-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Precision medicine is a leading approach in the transformation of medicine, aiming to tailor treatments according to the biological and genetic characteristics of individuals.<xref rid="psp412730-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> By using the “five rights of medication administration,” personalized medicine supports optimization of therapy in terms of efficacy and safety and thus public health and healthcare costs.<xref rid="psp412730-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> In fact, one size does not fit all, and 40%–70% of patients have a lack of efficacy or safety in their pharmacological therapy.<xref rid="psp412730-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>The causes of variability in drug responses and the interaction between the body and the drug must be better considered to personalize medicine.<xref rid="psp412730-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Cytochromes P450 (CYPs) are the major enzymes involved in drug metabolism and responsible for about three‐quarters of drugs cleared by metabolism.<xref rid="psp412730-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> It is estimated that 15%–30% of the variability in their activities is caused by genetic polymorphisms, but other nongenetic factors may also greatly contribute to this observed variability.<xref rid="psp412730-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="psp412730-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Xenobiotics and endogenous substances may inhibit or induce CYP activity such as the well‐known modulation of CYP activities by certain concomitant treatments, resulting in pharmacokinetic (PK) drug–drug interactions (DDIs).<xref rid="psp412730-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> In vitro and animal model data as well as smaller human data support the theory that inflammation downregulates CYP activities, resulting in a PK drug–disease interaction.<xref rid="psp412730-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>Inflammation is a complex biological protective response to stimuli such as pathogens, damaged cells, or irritants.<xref rid="psp412730-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> It involves a large repertoire of host cells, blood vessels, proteins, and numerous mediators to eliminate the initial cause and launch the healing process.<xref rid="psp412730-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Immune cells are activated by the pattern‐recognition receptors to trigger the inflammatory response and are considered to be the main source of various proinflammatory mediators, such as cytokines.<xref rid="psp412730-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Main proinflammatory cytokines are interleukin (IL)‐1β, IL‐6, and tumor necrosis factor‐α, and they are deemed as the most important mediators of acute phase protein synthesis in hepatocytes.<xref rid="psp412730-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="psp412730-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> IL‐6 is a critical cytokine that mediates many inflammatory and immunomodulatory pathways against a multitude of environmental and infectious stimuli.<xref rid="psp412730-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> IL‐6 levels increase to a maximum between 4 and 48 h after surgery and drop rapidly after 48 to 72 h.<xref rid="psp412730-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</p><p>The mechanism of modulation of CYP activities by inflammation is complex and includes a wide variety of ligand‐activated transcription factors and mediators, but the cytokine‐mediated alteration of gene transcription is the major mechanism of modulation.<xref rid="psp412730-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> The downregulation of CYP during the inflammatory response can occur through transcriptional downregulation of transcription factors, interference with dimerization/translocation of transcription factors, alteration of liver‐enriched CCAATT/enhancer‐binding protein signaling, or direct regulation by nuclear factor‐κB or posttranscriptional mechanisms via microRNAs.<xref rid="psp412730-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> The principal mechanisms are through the transcription factors pregnane X receptor (PXR) and constitutive androstane receptor (CAR), leading to variation in the sensitivity of different CYPs to inflammation.<xref rid="psp412730-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Indeed, CYP3A, CYP2C9, and CYP2C19 are regulated by PXR and CAR and are more sensitive to inflammation, whereas the aryl hydrocarbon receptor regulated CYP1A2 isoform is less sensitive.<xref rid="psp412730-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> CYP2D6 is the least affected CYP because it is not inducible by nuclear receptors and seems therefore not affected by inflammation‐induced alterations.<xref rid="psp412730-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>Personalized medicine aims to enable the design of a virtual representation of the patient and the development of predictive models based on known interactions between molecular, environmental, and lifestyle data by a computational algorithm as a decision support to individualize treatment.<xref rid="psp412730-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+</p><p>Dynamic physiologically based PK (PBPK) models are used to predict plasma concentration curves by simulating the concentration‐time profiles of a drug and its metabolite(s) in plasma or in an organ of interest and simultaneously allow estimation of PK parameters.<xref rid="psp412730-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The PBPK approach has been included in regulatory guidance and the development of new drugs and new drug applications.<xref rid="psp412730-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The understanding of some of the causes of absorption, distribution, metabolism, and excretion (ADME) changes that occur in different disease states has improved, and consequently PBPK modeling has been used to simulate drug disposition in special populations.<xref rid="psp412730-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> In fact, PBPK models combined with in vitro–in vivo extrapolation allow the description of many phenomena involved in complex PK processes, integrating prior knowledge of the anatomical, physiological, and biochemical characteristics of the body as well as the physicochemical properties of the drug.<xref rid="psp412730-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Therefore, the lack of in vivo data in patient populations contribute to limiting the application of PBPK modeling to predict PK in disease populations.<xref rid="psp412730-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><p>The aim of our study was to develop a PBPK model that simultaneously characterizes the impact of IL‐6 and CYP2C19 inhibition by esomeprazole on the PK of midazolam and omeprazole, two probe substrates used to assess the activities of CYP3A (CYP3A4 and CYP3A5) and CYP2C19 in patients undergoing elective hip surgery.<xref rid="psp412730-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> We aimed to quantitatively predict the clinical drug‐drug‐disease interaction on CYP3A and CYP2C19 activities.</p></sec><sec sec-type="methods" id="psp412730-sec-0003"><title>METHODS</title><sec id="psp412730-sec-0004"><title>PK data</title><p>PK data were obtained from the raw data of our recently published cohort study, which assessed the activity of the six major CYP isoforms (cocktail approach) before and after elective hip surgery.<xref rid="psp412730-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> A total of 30 patients received the “Geneva cocktail” before and 1 and 3 days after surgery and at discharge (5 to 6 days after surgery).<xref rid="psp412730-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The composition of this oral cocktail and the sampling and analytical methods to assess the concentration of probe substrates and their metabolites have been described previously.<xref rid="psp412730-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The study population did not take CYP inhibitors or inducers, with the exception of esomeprazole in the postoperative setting, as this is a routine prescription after surgery in the hospital where the cohort study was conducted.<xref rid="psp412730-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p></sec><sec id="psp412730-sec-0005"><title>Systemic IL‐6 concentrations in surgical patients</title><p>Systemic levels of IL‐6 were also systematically measured before surgery, the first 3 days after surgery, and at discharge.<xref rid="psp412730-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Sample preparation and analytical methods for IL‐6 determination have been described elsewhere.<xref rid="psp412730-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The population mean and standard deviation (SD) of systemic levels of IL‐6 were calculated for each day.</p></sec><sec id="psp412730-sec-0006"><title>PBPK models</title><p>PBPK models of midazolam (CYP3A) and omeprazole (CYP2C19) in virtual surgical patients were developed using the ADME simulator Simcyp<sup>TM</sup> Version 19 (Certara®, Simcyp Limited). The virtual population with surgery‐related inflammation was characterized by incorporating the impact of systemic IL‐6 (inhibitor 1) level and esomeprazole (inhibitor 2) intake on hepatic and intestinal expressions of CYP3A and CYP2C19 of the default healthy Caucasian population. General aspects of PBPK model characteristics, enzyme dynamics, and victim drug kinetics in the ADME simulator have been described previously.<xref rid="psp412730-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="psp412730-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> As a first step, the simulator built‐in library models of midazolam and omeprazole were used in the current PBPK models to characterize the plasma concentrations of these CYP3A and CYP2C19 substrates. However, the default simulated concentration‐time profile of omeprazole did not match the concentration‐time profile of omeprazole in a population of Caucasian healthy volunteers (data not shown).<xref rid="psp412730-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Based on a previously validated model, volume of distribution at steady state (Vss) of omeprazole was changed from 0.15 to 0.23 L/kg because the default value did not fit the Caucasian population.<xref rid="psp412730-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="psp412730-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> The models used for midazolam and omeprazole are summarized in Table <xref rid="psp412730-sup-0001" ref-type="supplementary-material">S1</xref> and Table <xref rid="psp412730-tbl-0001" ref-type="table">1</xref>, respectively.</p><table-wrap position="float" id="psp412730-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Parameters for omeprazole and 5‐OH‐OMPZ</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Parameters</th><th align="left" valign="top" rowspan="1" colspan="1">Omeprazole</th><th align="left" valign="top" rowspan="1" colspan="1">5‐OH‐OMPZ<xref rid="psp412730-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Molecular weight (g/mol)</td><td align="left" rowspan="1" colspan="1">345.4</td><td align="left" rowspan="1" colspan="1">361.4</td></tr><tr><td align="left" rowspan="1" colspan="1">logP</td><td align="left" rowspan="1" colspan="1">2.33</td><td align="left" rowspan="1" colspan="1">1.1</td></tr><tr><td align="left" rowspan="1" colspan="1">Compound type</td><td align="left" rowspan="1" colspan="1">Ampholyte</td><td align="left" rowspan="1" colspan="1">Ampholyte</td></tr><tr><td align="left" rowspan="1" colspan="1">pKa</td><td align="left" rowspan="1" colspan="1">9.33; 4.31</td><td align="left" rowspan="1" colspan="1">9.29; 3.93</td></tr><tr><td align="left" rowspan="1" colspan="1">B/P</td><td align="left" rowspan="1" colspan="1">0.59</td><td align="left" rowspan="1" colspan="1">0.59 (assumed)</td></tr><tr><td align="left" rowspan="1" colspan="1">fu,p</td><td align="left" rowspan="1" colspan="1">0.053</td><td align="left" rowspan="1" colspan="1">0.17</td></tr><tr><td align="left" colspan="3" rowspan="1">Absorption</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Model</td><td align="left" rowspan="1" colspan="1">First order</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fraction absorbed</td><td align="left" rowspan="1" colspan="1">Predicted</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">fu,gut</td><td align="left" rowspan="1" colspan="1">0.053</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Extrapolated Peff, man (10<sup>−4</sup> cm/s)</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">MDCK II (10<sup>−6</sup> cm/s)</td><td align="left" rowspan="1" colspan="1">59</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" colspan="3" rowspan="1">Distribution</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Model</td><td align="left" rowspan="1" colspan="1">Minimal PBPK</td><td align="left" rowspan="1" colspan="1">Minimal PBPK</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Vss (L/kg)</td><td align="left" rowspan="1" colspan="1">0.23<xref rid="psp412730-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.1 (adjusted parameter)</td></tr><tr><td align="left" colspan="3" rowspan="1">Elimination</td></tr><tr><td align="left" style="padding-left:10%" colspan="3" rowspan="1">Enzyme kinetics</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Cl<sub>int</sub> CYP2C19 in recombinant (μl/min/pmol of isoform)</td><td align="left" rowspan="1" colspan="1">62.593</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">fumic CYP2C19</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Cl<sub>int</sub> CYP3A4 in recombinant (μl/min/pmol of isoform)</td><td align="left" rowspan="1" colspan="1">0.201</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">fumic CYP3A4</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Cl<sub>R</sub> (L/h)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Additional systemic clearance (L/h)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">45 (adjusted parameter)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Kapp<sub>CYP2C19</sub> (μM)</td><td align="left" rowspan="1" colspan="1">0.65</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">kinact<sub>CYP2C19</sub> (h<sup>−1</sup>)</td><td align="left" rowspan="1" colspan="1">2.9</td><td align="left" rowspan="1" colspan="1">NA</td></tr></tbody></table><table-wrap-foot id="psp412730-ntgp-0002"><fn id="psp412730-note-0002"><p>Abbreviations: B/P, blood‐to‐plasma partition ratio; Cl<sub>int</sub>, in vitro intrinsic clearance; Cl<sub>R</sub>, renal clearance; CYP, cytochrome P450; fu,gut, unbound fraction of drug in enterocytes; fumic, fraction of unbound drug in the in vitro microsomal incubation; fu,p, fraction unbound in plasma; Kapp, concentration of mechanism‐based inhibitor associated with half maximal inactivation rate; kinact, inactivation rate of the enzyme; MDCK II, Madin‐Darby canine kidney permeability cell line; NA, not applicable; PBPK, physiologically based pharmacokinetic; Peff,man, human jejunum effective permeability; pKa, acid dissociation constant at logarithmic scale; Vss, volume of distribution at steady state; 5‐OH‐OMPZ, 5‐hydroxy‐omeprazole.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="psp412730-sec-0007"><title>Modeling of midazolam metabolite</title><p>The metabolism of midazolam is almost exclusively performed by CYP3A to 1‐hydroxymidazolam (1‐OH‐MDZ). Indeed, 1‐OH‐MDZ, 4‐OH‐MDZ, and 1,4‐OH‐MDZ account for 75%, 3%, and &lt;1% of the metabolites, respectively.<xref rid="psp412730-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> In this PBPK model, a previously described and validated model for 1‐OH‐MDZ was used (Table <xref rid="psp412730-sup-0001" ref-type="supplementary-material">S1</xref>).<xref rid="psp412730-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p></sec><sec id="psp412730-sec-0008"><title>Modeling of omeprazole metabolite</title><p>Omeprazole is almost exclusively metabolized by CYP2C19 in 5‐hydroxyomeprazole (5‐OH‐OMPZ), as 60.5%, 25%, and 14.5% of the racemate is metabolized to 5‐OH‐OMPZ, 5‐O‐desmethyl‐OMPZ, and OMPZ‐sulfone, respectively.<xref rid="psp412730-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> We used a previously published and validated model as the basis for implementing this metabolite in our PBPK model.<xref rid="psp412730-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> However, the renal clearance (Cl<sub>R</sub>) was changed from 0.037 to 0 L/h to be consistent with that of the built‐in library model of omeprazole (Table <xref rid="psp412730-tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="psp412730-sec-0009"><title>Modeling of esomeprazole</title><p>A previously developed and validated PBPK model was used for esomeprazole, the S‐isomer of omeprazole (Table <xref rid="psp412730-tbl-0002" ref-type="table">2</xref>).<xref rid="psp412730-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> This published model considered that esomeprazole was both a reversible and irreversible inhibitor of CYP2C19 and CYP3A4, even though its effect on CYP3A4 is not usually considered relevant in clinical practice.<xref rid="psp412730-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="psp412730-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="psp412730-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Published data indeed suggest a short‐term effect of esomeprazole on midazolam concentration but no irreversible CYP3A inhibition, even with twice the dose used for the current simulation.<xref rid="psp412730-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="psp412730-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> The irreversible inhibition of CYP3A4 by esomeprazole (mechanism‐based inhibition) was thus removed from the simulation. However, both inhibitions of CYP2C19 were kept in the model because it is accepted in the literature that esomeprazole is a CYP2C19 reversible and irreversible inhibitor.<xref rid="psp412730-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="psp412730-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Moreover, the Cl<sub>R</sub> was changed from 0.037 to 0 L/h, as well as for 5‐OH‐omeprazole, to be consistent with Simcyp<sup>TM</sup> built‐in library model of omeprazole (Table <xref rid="psp412730-tbl-0002" ref-type="table">2</xref>). Indeed, the published PBPK model of esomeprazole considered that Cl<sub>R</sub> was similar for both enantiomers and omeprazole is a racemic mixture. The esomeprazole model was introduced as a drug inhibitor in the current PBPK models.</p><table-wrap position="float" id="psp412730-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Parameters for esomeprazole</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Parameters</th><th align="left" valign="top" rowspan="1" colspan="1">Esomeprazole as published <xref rid="psp412730-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</th><th align="left" valign="top" rowspan="1" colspan="1">Esomeprazole as used</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Molecular weight (g/mol)</td><td align="left" rowspan="1" colspan="1">345.4</td><td align="left" rowspan="1" colspan="1">345.4</td></tr><tr><td align="left" rowspan="1" colspan="1">logP</td><td align="left" rowspan="1" colspan="1">2.23</td><td align="left" rowspan="1" colspan="1">2.23</td></tr><tr><td align="left" rowspan="1" colspan="1">Compound type</td><td align="left" rowspan="1" colspan="1">Ampholyte</td><td align="left" rowspan="1" colspan="1">Ampholyte</td></tr><tr><td align="left" rowspan="1" colspan="1">pKa</td><td align="left" rowspan="1" colspan="1">4.4; 8.7</td><td align="left" rowspan="1" colspan="1">4.4; 8.7</td></tr><tr><td align="left" rowspan="1" colspan="1">B/P</td><td align="left" rowspan="1" colspan="1">0.59</td><td align="left" rowspan="1" colspan="1">0.59</td></tr><tr><td align="left" rowspan="1" colspan="1">fu,p</td><td align="left" rowspan="1" colspan="1">0.03</td><td align="left" rowspan="1" colspan="1">0.03</td></tr><tr><td align="left" colspan="3" rowspan="1">Absorption</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Model</td><td align="left" rowspan="1" colspan="1">First order</td><td align="left" rowspan="1" colspan="1">First order</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">fa</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">ka (/h)</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lag time (h)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">MDCK II Perm (10<sup>−6</sup> cm/s)</td><td align="left" rowspan="1" colspan="1">59</td><td align="left" rowspan="1" colspan="1">59</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Extrapolated Peff, man (10<sup>−4</sup> cm/s)</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">12</td></tr><tr><td align="left" colspan="3" rowspan="1">Distribution</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Model</td><td align="left" rowspan="1" colspan="1">Minimal PBPK</td><td align="left" rowspan="1" colspan="1">Minimal PBPK</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Vss (L/kg)</td><td align="left" rowspan="1" colspan="1">0.2</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" colspan="3" rowspan="1">Elimination</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cl<sub>R</sub> (L/h)</td><td align="left" rowspan="1" colspan="1">0.037</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" colspan="3" rowspan="1">Enzymes kinetics</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cl<sub>int</sub>
+<sub>CYP2C19</sub> (μl/min/pmol of isoform)</td><td align="left" rowspan="1" colspan="1">24.3</td><td align="left" rowspan="1" colspan="1">24.3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ki<sub>CYP2C19</sub> (μM)</td><td align="left" rowspan="1" colspan="1">8.4</td><td align="left" rowspan="1" colspan="1">8.4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kapp<sub>CYP2C19</sub> (μM)</td><td align="left" rowspan="1" colspan="1">0.2706</td><td align="left" rowspan="1" colspan="1">0.2706</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">kinact<sub>CYP2C19</sub> (/h)</td><td align="left" rowspan="1" colspan="1">1.74</td><td align="left" rowspan="1" colspan="1">1.74</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">fumic<sub>CYP2C19</sub>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<p>Cl<sub>int</sub>
+<sub>CYP3A4</sub> (μl/min/pmol of isoform)</p>
+</td><td align="left" rowspan="1" colspan="1">0.36</td><td align="left" rowspan="1" colspan="1">0.36</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Ki<sub>CYP3A4</sub> (μM)</td><td align="left" rowspan="1" colspan="1">40</td><td align="left" rowspan="1" colspan="1">40</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kapp<sub>CYP3A4</sub> (μM)</td><td align="left" rowspan="1" colspan="1">1.716</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">kinact<sub>CYP3A4</sub> (/h)</td><td align="left" rowspan="1" colspan="1">1.74</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">fumic<sub>CYP3A4</sub>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr></tbody></table><table-wrap-foot id="psp412730-ntgp-0003"><fn id="psp412730-note-0003"><p>Abbreviations: B/P, blood‐to‐plasma partition ratio; Cl<sub>int</sub>, in vitro intrinsic clearance; Cl<sub>R</sub>, renal clearance; CYP, cytochrome P450; fa, fraction absorbed; fu,gut, unbound fraction of drug in enterocytes; fumic, fraction of unbound drug in the in vitro microsomal incubation; fu,p, fraction unbound in plasma; ka, first‐order absorption rate constant; Kapp, concentration of mechanism‐based inhibitor associated with half maximal inactivation rate; Ki, concentration of inhibitor that supports half maximal inhibition; kinact, inactivation rate of the enzyme; MDCK II Perm, Madin‐Darby canine kidney permeability cell line; NA, not applicable; Peff,man, human jejunum effective permeability; pKa, acid dissociation constant at logarithmic scale; Vss, volume of distribution at steady state.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="psp412730-sec-0010"><title>Modeling of IL‐6 profiles</title><p>In the present PBPK model, the IL‐6 model used has been previously developed and validated.<xref rid="psp412730-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> A number of stimulations were performed to obtain different steady‐state plasma IL‐6 concentrations, and we found the one that matched the mean plasma IL‐6 concentrations described in the cohort study at each day. The chosen mode of administration was an intravenous infusion of 30 doses of 9 × 10<sup>−5</sup> µg/h with a 1‐h interval. As previously described, the IL‐6 compound built was linked to an effect on hepatic CYP3A and CYP2C19 levels, and new steady‐state levels of these CYPs were achieved during the simulation period, and the suppressive effect of IL‐6 on intestinal CYP was assumed to be the same as that on hepatic CYP.<xref rid="psp412730-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> The final parameters used to build the IL‐6 compound for our PBPK model are shown in Table <xref rid="psp412730-sup-0002" ref-type="supplementary-material">S2</xref>. Information on CYP3A4/5 and CYP2C19 inhibition by IL‐6 was obtained by the reassessment of data contained in an in vitro study and not by directly using the values given in the existing IL‐6 model.<xref rid="psp412730-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> The IL‐6 model was introduced as a drug inhibitor in the current PBPK models.</p></sec><sec id="psp412730-sec-0011"><title>Modeling of enzyme dynamics</title><p>The impact of IL‐6 on CYPs was modeled as a suppression of CYP3A4/5 and CYP2C19 in the liver in the ADME simulator. The equation was revised from the literature and described previously.<xref rid="psp412730-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+</p></sec><sec id="psp412730-sec-0012"><title>Plasma versus dried blood spot correlation</title><p>The ADME simulator gives concentrations of substances in plasma, whereas the concentrations obtained from the cohort study are in whole blood (dried blood spot [DBS]). Therefore, a correction factor had to be applied to covert the concentration obtained in DBS into plasmatic concentration. Raw data from a published study that assessed the correlation of the concentrations of probe drugs contained in the “Geneva cocktail” between plasma and DBS were used.<xref rid="psp412730-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> The following equations were used:<disp-formula id="psp412730-disp-0001">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block"><mml:mrow><mml:mn>1</mml:mn><mml:mo>.</mml:mo><mml:mspace width="1em"/><mml:mspace width="0.277778em"/><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msub><mml:mtext>MDZ</mml:mtext><mml:mtext>plasma</mml:mtext></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msub><mml:mtext>MDZ</mml:mtext><mml:mtext>DBS</mml:mtext></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>×</mml:mo><mml:mn>1.581</mml:mn><mml:mo>‐</mml:mo><mml:mn>0.031</mml:mn></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="psp412730-disp-0002">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="block"><mml:mtable><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mn>2</mml:mn><mml:mo>.</mml:mo><mml:mspace width="1em"/><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>1</mml:mn><mml:mo>‐</mml:mo><mml:mtext>OH</mml:mtext><mml:mo>‐</mml:mo><mml:msub><mml:mtext>MDZ</mml:mtext><mml:mtext>plasma</mml:mtext></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>1</mml:mn><mml:mo>‐</mml:mo><mml:mtext>OH</mml:mtext><mml:mo>‐</mml:mo><mml:msub><mml:mtext>MDZ</mml:mtext><mml:mtext>DBS</mml:mtext></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="13em"/><mml:mo>×</mml:mo><mml:mn>1.790</mml:mn><mml:mo>‐</mml:mo><mml:mn>0.048</mml:mn></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math>
+</disp-formula>
+<disp-formula id="psp412730-disp-0003">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-3" display="block"><mml:mrow><mml:mn>3</mml:mn><mml:mo>.</mml:mo><mml:mspace width="1em"/><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msub><mml:mtext>OMPZ</mml:mtext><mml:mtext>plasma</mml:mtext></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msub><mml:mtext>OMPZ</mml:mtext><mml:mtext>DBS</mml:mtext></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>×</mml:mo><mml:mn>1.413</mml:mn><mml:mo>+</mml:mo><mml:mn>1.126</mml:mn></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="psp412730-disp-0004">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-4" display="block"><mml:mtable><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mn>4</mml:mn><mml:mo>.</mml:mo><mml:mspace width="1em"/><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>5</mml:mn><mml:mo>‐</mml:mo><mml:mtext>OH</mml:mtext><mml:mo>‐</mml:mo><mml:msub><mml:mtext>OMPZ</mml:mtext><mml:mtext>plasma</mml:mtext></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>5</mml:mn><mml:mo>‐</mml:mo><mml:mtext>OH</mml:mtext><mml:mo>‐</mml:mo><mml:msub><mml:mtext>OMPZ</mml:mtext><mml:mtext>DBS</mml:mtext></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="13.5em"/><mml:mo>×</mml:mo><mml:mn>1.562</mml:mn><mml:mo>‐</mml:mo><mml:mn>0.315</mml:mn></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math>
+</disp-formula>
+</p></sec><sec id="psp412730-sec-0013"><title>Development and validation of PBPK model to simulate the interaction between inflammation (IL‐6) and CYP3A and CYP2C19 substrates</title><p>The current PBPK models (midazolam/1‐OH‐midazolam and omeprazole/5‐OH‐omeprazole) were developed with a stepwise strategy. First, plasma concentration–time profiles of midazolam and omeprazole and their respective main metabolites were simulated in a healthy Caucasian virtual population provided by the ADME simulator, with IL‐6 as the inhibitor 1. A visual prediction check was performed to evaluate the accuracy of the PBPK model prediction. Then, omeprazole Vss was changed to better match the Vss found in the Caucasian population, and the esomeprazole model was integrated as the inhibitor 2 to optimize the simulation.</p><p>The model validation process was performed by comparing the model prediction of omeprazole and its main metabolite and esomeprazole with published studies conducted in healthy volunteers. Comparison of observed and simulated concentration‐time profiles of omeprazole and its main metabolite, 5‐OH‐omeprazole, was performed using clinical data obtained from a study conducted in our laboratory by Bosilkovska et al. (raw data not shown).<xref rid="psp412730-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The esomeprazole model also needed to be validated as a previously validated model was modified.<xref rid="psp412730-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> We extracted the concentration‐time profile of esomeprazole from one study with the same dose used in the cohort study to obtain observational data.<xref rid="psp412730-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</p><p>PK parameters were estimated by standard noncompartmental methods using WinNonlin Version 6.2.1 (Pharsight) and by Simcyp<sup>TM</sup>.</p><p>Once these three substances were validated, the PBPK models prediction values were compared with the observed values in the cohort study between midazolam and omeprazole and their metabolites to assess its predictability and application.</p><p>All simulations were conducted using 10 trials containing 10 subjects for 8 days. Midazolam 1 mg and omeprazole 10 mg were administrated orally at 7 a.m. on Days 1, 2, 4, 6, and 7 (custom dosage) and esomeprazole 40 mg was administrated orally at 7 p.m. on Days 1, 2, and 3. A total of 30 doses of 9 × 10<sup>−5</sup> µg with τ = 1 h of IL‐6 were administrated at 9 a.m. on Day 1. Simulated plasma concentrations of midazolam and omeprazole and their metabolites at 2 h, 26 h, 74 h, 122 h, and 146 h (to account for the 2 h required after the intake of midazolam and omeprazole) were compared with concentrations obtained at baseline, 24 h, and 72 h after surgery and at discharge (5 or 6 days after surgery).</p></sec></sec><sec sec-type="results" id="psp412730-sec-0014"><title>RESULTS</title><sec id="psp412730-sec-0015"><title>Model validation of IL‐6 via prediction of clinical observation</title><p>The observed and simulated concentration‐time profiles were compared, and the accuracy of the PBPK model prediction was confirmed (Figure <xref rid="psp412730-fig-0001" ref-type="fig">1</xref>). The simulated and observed PK parameters are presented in Table <xref rid="psp412730-tbl-0003" ref-type="table">3</xref>. The mean area under the curve (AUC) ratio between observation and simulation was 1.05, meaning that observation and prediction are similar.</p><fig position="float" fig-type="FIGURE" id="psp412730-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Observed concentration‐time profile of IL‐6 (dots) and simulated concentration‐time profile of IL‐6 (line). IL‐6, interleukin‐6</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PSP4-11-30-g001.jpg"><?image-name PSP4-11-30-g001.jpg?><?image-size 41359?><?image-md5 a134d02547e8f673b7ddb7a1358cc7b3?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 607?><?image-original-width 1064?><?image-scaled-height 404?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/3dd8/8752107/a134d02547e8/PSP4-11-30-g001.jpg?><?thumb-name PSP4-11-30-g001.gif?><?thumb-size 7627?><?thumb-md5 f6ed3908e69d05e8d93e9d1331336d3e?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 140?><?thumb-cloudpmc-urn urn:cdn:blobs/3dd8/8752107/f6ed3908e69d/PSP4-11-30-g001.gif?></graphic></fig><table-wrap position="float" id="psp412730-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Observed versus predicted pharmacokinetic parameters</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Observation</th><th align="left" valign="top" rowspan="1" colspan="1">Simulation</th></tr></thead><tbody><tr><td align="left" colspan="3" rowspan="1">IL‐6</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Geometric mean AUC (mg.h/L)</td><td align="left" rowspan="1" colspan="1">0.0019 ± 0.0017</td><td align="left" rowspan="1" colspan="1">0.0018 ± 0.0007 (90% CI, 0.0017–0.0019)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean <italic toggle="yes">t</italic>
+<sub>1/2</sub> (h)</td><td align="left" rowspan="1" colspan="1">36.6 ± 14.7</td><td align="left" rowspan="1" colspan="1">32.6</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean C<sub>max</sub> (mg/L)</td><td align="left" rowspan="1" colspan="1">0.0001 ± 0.00004</td><td align="left" rowspan="1" colspan="1">0.0001 ± 0.00001</td></tr><tr><td align="left" colspan="3" rowspan="1">Omeprazole</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Geometric mean AUC (mg.h/L)</td><td align="left" rowspan="1" colspan="1">0.16 ± 0.14</td><td align="left" rowspan="1" colspan="1">0.22 ± 0.67 (90% CI, 0.186–0.267)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean <italic toggle="yes">t</italic>
+<sub>1/2</sub> (h)</td><td align="left" rowspan="1" colspan="1">1.03 ± 0.65</td><td align="left" rowspan="1" colspan="1">1.00 ± 1.15</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean C<sub>max</sub> (mg/L)</td><td align="left" rowspan="1" colspan="1">0.11 ± 0.05</td><td align="left" rowspan="1" colspan="1">0.15 ± 0.12</td></tr><tr><td align="left" colspan="3" rowspan="1">5‐OH‐omeprazole</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Geometric mean AUC (mg.h/L)</td><td align="left" rowspan="1" colspan="1">0.11 ± 0.026</td><td align="left" rowspan="1" colspan="1">0.22 ± 0.09 (90% CI, 0.211–0.239)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean <italic toggle="yes">t</italic>
+<sub>1/2</sub> (h)</td><td align="left" rowspan="1" colspan="1">1.25 ± 0.56</td><td align="left" rowspan="1" colspan="1">1.00 ± 1.14</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean C<sub>max</sub> (mg/L)</td><td align="left" rowspan="1" colspan="1">0.05 ± 0.02</td><td align="left" rowspan="1" colspan="1">0.14 ± 0.07</td></tr><tr><td align="left" colspan="3" rowspan="1">Esomeprazole</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Geometric mean AUC (mg.h/L)</td><td align="left" rowspan="1" colspan="1">3.87 (95% CI, 2.96–5.07)</td><td align="left" rowspan="1" colspan="1">4.11 (95% CI, 3.59–4.72)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Geometric mean <italic toggle="yes">t</italic>
+<sub>1/2</sub> (h)</td><td align="left" rowspan="1" colspan="1">1.25 (95% CI, 1.09–1.44)</td><td align="left" rowspan="1" colspan="1">1.35 (95% CI, 0.97–1.09)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Geometric mean C<sub>max</sub> (mg/L)</td><td align="left" rowspan="1" colspan="1">1.60 (95% CI, 1.31–1.96)</td><td align="left" rowspan="1" colspan="1">1.14 (95% CI, 1.04–1.24)</td></tr></tbody></table><table-wrap-foot id="psp412730-ntgp-0004"><fn id="psp412730-note-0004"><p>Abbreviations: AUC, area under the curve; CI, confidence interval; C<sub>max</sub>, maximum concentration; IL‐6, interleukin‐6; t<sub>1/2</sub>, 5‐OH, half‐life 5‐hydroxy‐omeprazole.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="psp412730-sec-0016"><title>Validation of the omeprazole and 5‐OH‐omeprazole models</title><p>The simulated and observed PK parameters are presented in Table <xref rid="psp412730-tbl-0003" ref-type="table">3</xref>, leading to a simulated geometric mean AUC<sub>0–8 h</sub> ratio of 5‐OH‐omeprazole/omeprazole of 1.009. The observed geometric mean AUC ratio of 5‐OH‐omeprazole/omeprazole was 0.66.<xref rid="psp412730-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Therefore, the AUC ratio between observation and simulation was 1.53, which is the accepted range of equivalence in PBPK modeling. PBPK models of omeprazole (Figure <xref rid="psp412730-fig-0002" ref-type="fig">2a</xref>) and 5‐OH‐omeprazole (Figure <xref rid="psp412730-fig-0002" ref-type="fig">2b</xref>) accurately predict the observed data. The slight but acceptable overestimation of the simulated mean 5‐OH‐omeprazole concentrations could be explained by the sampling times of the training set where the point of the maximal concentration could have been missed. This was confirmed by the difference in maximum concentration (Table <xref rid="psp412730-tbl-0003" ref-type="table">3</xref>).</p><fig position="float" fig-type="FIGURE" id="psp412730-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Observed concentration time‐profile (dots) and simulated concentration‐time profile (line) of (a) omeprazole and (b) 5‐hydroxy‐omeprazole</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="PSP4-11-30-g002.jpg"><?image-name PSP4-11-30-g002.jpg?><?image-size 85799?><?image-md5 e37c4f5658a9f2cc981343524430a350?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1357?><?image-original-width 1064?><?image-scaled-height 904?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/3dd8/8752107/e37c4f5658a9/PSP4-11-30-g002.jpg?><?thumb-name PSP4-11-30-g002.gif?><?thumb-size 9552?><?thumb-md5 b2be251231f2192c63d35c1afe0b7d59?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 128?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/3dd8/8752107/b2be251231f2/PSP4-11-30-g002.gif?></graphic></fig></sec><sec id="psp412730-sec-0017"><title>Validation of the esomeprazole model</title><p>Figure <xref rid="psp412730-fig-0003" ref-type="fig">3</xref> shows the accurate prediction of the observed concentration‐time profile of esomeprazole by the PBPK model.<xref rid="psp412730-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> The simulated and observed PK parameters are presented in Table <xref rid="psp412730-tbl-0003" ref-type="table">3</xref>. The geometric mean AUC ratio between observation and simulation was 1.06, which is in the accepted range of bioequivalence (between 0.85 and 1.25).</p><fig position="float" fig-type="FIGURE" id="psp412730-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Observed (dots) and simulated (lines) concentration time‐profiles of esomeprazole after 5 days of treatment with 40‐mg esomeprazole</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="PSP4-11-30-g004.jpg"><?image-name PSP4-11-30-g004.jpg?><?image-size 46599?><?image-md5 30391445c12aea4a784e120c02778009?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 582?><?image-original-width 1064?><?image-scaled-height 388?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/3dd8/8752107/30391445c12a/PSP4-11-30-g004.jpg?><?thumb-name PSP4-11-30-g004.gif?><?thumb-size 8718?><?thumb-md5 53e1a51c1309b4eb48e492f6ab20d7fc?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 146?><?thumb-cloudpmc-urn urn:cdn:blobs/3dd8/8752107/53e1a51c1309/PSP4-11-30-g004.gif?></graphic></fig></sec><sec id="psp412730-sec-0018"><title>Verification of the performance of the PBPK models</title><p>The established PBPK models of midazolam/1‐OH‐midazolam and omeprazole/5‐OH‐omeprazole as well as those of esomeprazole and IL‐6 were used to predict the effects of the mean IL‐6 and esomeprazole concentration‐time profiles on CYP3A and CYP2C19 activities in elective hip surgery patients. The changes in hepatic intrinsic clearance as a function of time of midazolam/1‐OH‐midazolam and omeprazole/5‐OH‐omeprazole, respectively, were thus simulated with the models. As three‐quarters of the patients in the cohort study were on esomeprazole in the postoperative setting, an esomeprazole model was implemented in our PBPK models. Almost all patients took esomeprazole in the evening, so there was no interference with measuring the concentration of omeprazole or 5‐OH‐OMPZ given in the morning to assess CYP2C19 activity. Indeed, esomeprazole is the S‐isomer of omeprazole and the liquid chromatography with tandem mass spectrometry method used is unable to differentiate enantiomers, but its half‐life is short, approximatively 1.3 h.<xref rid="psp412730-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Moreover, about 27% of esomeprazole is metabolized in 5‐OH‐OMPZ, but its half‐life is between 0.9 and 1.7 h, depending on CYP2C19 phenotype.<xref rid="psp412730-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="psp412730-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+</p><p>Plasma concentrations of midazolam/1‐OH‐midazolam and omeprazole/5‐OH‐omeprazole at 2 h were simulated as a function of time‐dependent changes in IL‐6 and of esomeprazole intake. These simulated concentrations were comparable with those observed in the cohort study of elective hip surgery patients.<xref rid="psp412730-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Indeed, as shown in Figure <xref rid="psp412730-fig-0004" ref-type="fig">4</xref>, the changes in the predicted mean concentrations as a function of time for midazolam (Figure <xref rid="psp412730-fig-0004" ref-type="fig">4a</xref>), 1‐OH‐midazolam (Figure <xref rid="psp412730-fig-0004" ref-type="fig">4b</xref>), omeprazole (Figure <xref rid="psp412730-fig-0004" ref-type="fig">4c</xref>), and 5‐OH‐omeprazole (Figure <xref rid="psp412730-fig-0004" ref-type="fig">4d</xref>) are within the accepted ratio of 2 to the mean observed concentration for 100% of simulated concentrations. Moreover, for 60%, 17%, 33%, and 33% of predicted mean concentrations for midazolam, 1‐OH‐midazolam, omeprazole, and 5‐OH‐omeprazole, respectively, the fold changes were less than 1.25, which is the limit of bioequivalence. The metabolic ratio (MR) versus time for midazolam (Figure <xref rid="psp412730-fig-0004" ref-type="fig">4e</xref>) and omeprazole (Figure <xref rid="psp412730-fig-0004" ref-type="fig">4f</xref>) were also within the accepted range. In addition, as shown in Figure <xref rid="psp412730-sup-0003" ref-type="supplementary-material">S1</xref>, the observed mean concentrations 2 h after “Geneva cocktail” intake versus time were close to the simulated mean concentration versus time profile. The comparison between observation and prediction shown in Figure <xref rid="psp412730-sup-0003" ref-type="supplementary-material">S1</xref> can only be made with one observed timepoint because it is a concentration obtained after phenotyping (MR 2 h after administration of the “Geneva cocktail”). Figure <xref rid="psp412730-sup-0004" ref-type="supplementary-material">S2</xref> shows that the time‐varying IL‐6 concentrations and esomeprazole intake decrease CYP3A and CYP2C19 activities. Moreover, CYP2C19 activity without both inhibitors was not 100% during the first days of the study because omeprazole was administrated periodically until Day 7 to assess CYP2C19 activity and it inhibits its own metabolism. CYP2C19 and CYP3A activity returned to 100% when no further CYP2C19 and CYP3A inhibitors were administered to patients. Indeed, esomeprazole and the probe drugs (midazolam and omeprazole) were no longer administered after Day 3 and Day 7, respectively, and IL‐6 levels gradually decreased (Figure <xref rid="psp412730-fig-0001" ref-type="fig">1</xref>). A return to baseline could therefore be expected after approximatively 12 days (Figure <xref rid="psp412730-sup-0004" ref-type="supplementary-material">S2</xref>).</p><fig position="float" fig-type="FIGURE" id="psp412730-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Concentration versus time profiles (a‐d) and metabolic ratio vs time profiles (e‐f) for observed and predicted values and corresponding fold changes of 2 (lines) and 1.25 (dashed lines), 2 h after “Geneva cocktail” intake in the presence of time‐varying interleukin‐6 concentrations and esomeprazole intake for (a) midazolam, (b) 1‐hydroxy‐midazolam, (c) omeprazole] (d) 5‐hydroxy‐omeprazole, (e) 1‐hydroxy‐midazolam/midazolam, and (f) 5‐hydroxy‐omeprazole/omeprazole</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="PSP4-11-30-g003.jpg"><?image-name PSP4-11-30-g003.jpg?><?image-size 108027?><?image-md5 d4cfb770bf844a6820141228fc6dd7f6?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1159?><?image-original-width 1064?><?image-scaled-height 772?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/3dd8/8752107/d4cfb770bf84/PSP4-11-30-g003.jpg?><?thumb-name PSP4-11-30-g003.gif?><?thumb-size 9908?><?thumb-md5 a59a294f0b146daad1ebf79ce89eb8f2?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 109?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/3dd8/8752107/a59a294f0b14/PSP4-11-30-g003.gif?></graphic></fig><p>Comparing simulated drugs concentrations with and without drug‐drug interactions (esomeprazole) and drug–disease interactions (IL‐6) in the investigated clinical studies obtained at every hour throughout the study, there were 2.1 ± 0.3‐fold, 1.6 ± 0.2‐fold, 3.1 ± 0.6‐fold, and 3.2 ± 0.6‐fold (mean ± SD) increases in simulated concentrations of midazolam, 1‐OH‐midazolam, omeprazole, and 5‐OH‐omeprazole, respectively.</p></sec></sec><sec sec-type="discussion" id="psp412730-sec-0019"><title>DISCUSSION</title><p>A virtual surgery population was developed and validated to assess the impact of surgery as a source of variability in drug effects and to predict the changes in the PK profiles of concomitant treatments in the postoperative setting. We used observed data from a real‐life study conducted in our center in elective hip surgery, where CYP activities were evaluated using a cocktail approach to build the model.<xref rid="psp412730-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p><p>The prediction of IL‐6‐mediated drug–disease interaction via PBPK modeling had been previously described in the literature.<xref rid="psp412730-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="psp412730-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="psp412730-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="psp412730-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="psp412730-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="psp412730-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> Indeed, PBPK models were developed to predict the impact of elevated levels of IL‐6 on CYP substrates using a cocktail approach with probe drugs or assessing simvastatin, rivaroxaban, and vancomycin PK in different special populations (rheumatoid arthritis, neuromyelitis optica, or critically ill sepsis).<xref rid="psp412730-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="psp412730-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="psp412730-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="psp412730-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="psp412730-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="psp412730-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> They used in vitro data to quantitatively predict the intensity of the clinical drug–disease interaction via IL‐6, which appears to be the key element in modulating CYP activities during inflammation.<xref rid="psp412730-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="psp412730-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="psp412730-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="psp412730-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="psp412730-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+</p><p>In our study, PBPK models were developed for omeprazole and midazolam and their main metabolites using whole‐blood (DBS) data and drug‐specific correction factors to convert DBS to plasma concentrations.<xref rid="psp412730-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Indeed, Simcyp<sup>TM</sup> uses the plasma concentration. To our knowledge, this is the first time that concentrations from whole blood have been used in Simcyp<sup>TM</sup>.</p><p>We confirmed that omeprazole by default (from the Simcyp<sup>TM</sup> built‐in library) does not match the Caucasian population.<xref rid="psp412730-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> According to the literature, the Vss of omeprazole varies with the ethnicity of the population.<xref rid="psp412730-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Our observed data population study was Caucasian, so the Vss value was changed accordingly from 0.15 L/kg to 0.23 L/kg.<xref rid="psp412730-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="psp412730-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Our new model was consistent with the values observed in the literature.<xref rid="psp412730-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</p><p>As our cohort study did not give complete PK of midazolam and omeprazole, it was important to build a model for the main metabolites of midazolam and omeprazole to increase the confidence and predictability of the developed models.</p><p>Midazolam is mainly metabolized by CYP3A to 1‐OH‐midazolam.<xref rid="psp412730-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> We used a previously published and validated model of 1‐OH‐midazolam.<xref rid="psp412730-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p><p>Omeprazole is mainly metabolized in 5‐OH‐omeprazole by CYP2C19, and we thus designed a model for 5‐OH‐omeprazole into the current PBPK model.<xref rid="psp412730-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> We adapted an existing model by changing the Cl<sub>R</sub> as it was assumed that 5‐OH‐omeprazole Cl<sub>R</sub> was the same as that of omeprazole.<xref rid="psp412730-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> This new 5‐OH‐omeprazole plasma concentration is consistent with data observed in the literature.<xref rid="psp412730-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</p><p>Esomeprazole is a well‐known CYP2C19 inhibitor that was systematically prescribed in our cohort study to prevent the occurrence of stress ulcer, although we would have liked to exclude all CYP modulators.<xref rid="psp412730-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> To simulate the impact of inflammation attributed to surgery on CYP2C19 activity, we thus considered CYP2C19 inhibition by esomeprazole.</p><p>As with omeprazole, we changed the Cl<sub>R</sub> to 0 L/kg. The published model for esomeprazole used both a mechanism‐based and a reversible CYP3A inhibition by esomeprazole.<xref rid="psp412730-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> We removed the mechanism‐based inhibition of CYP3A by esomeprazole, leaving only reversible inhibition as the literature does not report irreversible inhibition of CYP3A by esomeprazole.<xref rid="psp412730-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="psp412730-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Based on the validation results, our esomeprazole model was consistent with the data observed in the literature.</p><p>The disease–drug interaction is complex and depends on a multitude of factors that are not always known, making in vitro–in vivo extrapolation difficult. Indeed, studies have reported that the onset of inflammation impacts the levels of other proteins than cytokines and that they influence the PK parameters of drugs.<xref rid="psp412730-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="psp412730-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="psp412730-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> Also, some evidence suggest that cytokines may modulate the transporter activities that also play a role in the ADME process.<xref rid="psp412730-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="psp412730-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Moreover, DDIs have multiple sources, as multiple PK and pharmacodynamic (PD) factors can interfere.<xref rid="psp412730-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> PBPK modeling can help evaluate DDIs without clinical trials and is used in drug development.<xref rid="psp412730-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="psp412730-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+</p><p>Our model has allowed the innovative integration of a PD biomarker, IL6, as a marker of inflammatory response. The development and use of PBPK models go beyond the prediction of PK properties of a drug as they have been used to predict and assess drug efficacy and safety.<xref rid="psp412730-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Other perspectives are to combine PK models with the corresponding PD response as we have successfully done in our model.<xref rid="psp412730-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="psp412730-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Our PBPK approach successfully predicted the modulation of CYP3A and CYP2C19 activities by IL‐6 (drug–disease interaction) and esomeprazole (DDI). Improvements will, however, have to be made to bring all predicted values within this bioequivalence range to introduce it into clinical practice. These simulations showed the importance of this type of approach to support personalized medicine, as the interactions increased midazolam and omeprazole concentrations by twofold and threefold, respectively, which may lead to efficacy and safety concerns. Because of the increase in life expectancy, patients are medically more complex due to a greater number of comorbidities and, consequently, comedications.<xref rid="psp412730-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> Model‐informed precision dosing (MIPD) allows for the prediction and selection of the correct dose considering the contribution of covariates to reduce the variability of a target concentration as clinicians must deal with variability in many ways.<xref rid="psp412730-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> The development of MIPD could fulfill the need in clinical practice to facilitate interpretation and decision making toward the abundance and complexity of data in clinical care, such as complex drug‐drug‐gene‐disease interactions influencing drug efficacy and safety.<xref rid="psp412730-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>
+</p><p>Smart, easy‐to‐use, and clinically validated MIPD tools could integrate all of these factors and enable optimal drug use, leading to the improvement of health outcomes, decrease of drug‐related harm, and smaller economic burden.<xref rid="psp412730-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> To the best of our knowledge, our PBPK models are the first models to include both DDI and the drug–disease interaction, and this is a step forward in the development and use of MIPD to achieve precision medicine. In addition, these PBPK models may be useful to complement those developed in emerging therapeutic areas, such as chimeric antigen receptor T (CAR‐T) and T cell–redirecting bispecific antibody therapy, as patients have also reported temporary elevation of cytokines, including IL‐6, following treatments.<xref rid="psp412730-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="psp412730-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> This approach has the potential to be extended to provide dosing guidance for concomitant medications during such treatments.</p><p>Our study has some limitations. First, the data used to inform the PBPK model of in vitro IL‐6 suppression of CYP3A and CYP2C19 came from a single study. Moreover, our model only considered the suppressive effect of IL‐6 and not the impact of other cytokines or acute‐phase proteins such as C reactive protein. However, as mentioned previously, IL‐6 is considered to be the critical cytokine responsible for the downregulation of CYP activities. This suggests that incorporation of other inflammatory biomarkers would result in only minor changes. Another important limitation is that we used clinical data from a study that was not designed to provide complete concentration‐time profiles, but only the concentrations of probe substrates 2 h after oral administration. It would have been more accurate and meaningful to compare concentration‐time profiles between simulated and observed data. In an attempt to compensate for the lack of comparators, we also simulated the major metabolites of midazolam and omeprazole produced by CYP3A and CYP2C19, respectively. Another limitation inherent in the cohort study was that the follow‐up period was not long enough to see a return to baseline levels of CYPs. Indeed, the majority of included patients were discharged from the hospital 3 days after surgery and never more than 6 days after.<xref rid="psp412730-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Finally, it was not possible to discriminate between the inhibitory effect of IL‐6 or esomeprazole on CYP2C19 because it was a routine postoperative treatment.<xref rid="psp412730-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+</p></sec><sec sec-type="conclusions" id="psp412730-sec-0020"><title>CONCLUSION</title><p>Inflammation is a transient or chronic health condition, inducing transient or chronic physiopathological changes, which may impact on drug PK parameters. PBPK simulations allow varying system parameters and incorporating literature‐based alterations in CYP activities due to inflammation. The current model successfully predicted midazolam and omeprazole and the PK of their main metabolites in a population with surgery‐related acute reversible inflammation. Moreover, the integration of the esomeprazole model resulted in a better fit for omeprazole PK. This study could be a basis for refining dosing recommendations in the postoperative setting, especially in drugs with narrow therapeutic indexes. In fact, PBPK models may be an effective and efficient way to investigate the risk of interaction using existing knowledge about the distinctive characteristics of the disease population. The integration and prediction of PD and disease parameters in PBPK models thus appears to be a promising approach to personalize treatments.</p></sec><sec sec-type="COI-statement" id="psp412730-sec-0022"><title>CONFLICT OF INTEREST</title><p>The authors declared no competing interests for this work.</p></sec><sec id="psp412730-sec-0023"><title>AUTHOR CONTRIBUTIONS</title><p>C.L., Y.D., and C.F.S. wrote the manuscript. C.L., A.N., V.R., J.A.D., Y.D., and C.F.S. designed the research. C.L. and A.N. performed the research. C.L., A.N., Y.D., and C.F.S. analyzed the data. C.L., A.N., and Y.D. contributed new reagents/analytical tools.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="psp412730-sup-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Table S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-11-30-s008.docx" position="float" orientation="portrait"><?suppdata-name PSP4-11-30-s008.docx?><?suppdata-size 17169?><?suppdata-md5 fbf1c7f52ff45146702b33a19f5e3977?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:3dd8/8752107/fbf1c7f52ff4/PSP4-11-30-s008.docx?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="psp412730-sup-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Table S2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-11-30-s005.docx" position="float" orientation="portrait"><?suppdata-name PSP4-11-30-s005.docx?><?suppdata-size 15355?><?suppdata-md5 a4bea724cb3430965e95d80d1677b134?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:3dd8/8752107/a4bea724cb34/PSP4-11-30-s005.docx?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="psp412730-sup-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-11-30-s006.pdf" position="float" orientation="portrait"><?suppdata-name PSP4-11-30-s006.pdf?><?suppdata-size 550116?><?suppdata-md5 c1f8e6d4c0a3a517c05940bb3b54a89d?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:3dd8/8752107/c1f8e6d4c0a3/PSP4-11-30-s006.pdf?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="psp412730-sup-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>Fig S2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-11-30-s004.pdf" position="float" orientation="portrait"><?suppdata-name PSP4-11-30-s004.pdf?><?suppdata-size 445626?><?suppdata-md5 ae89119c454802f3a0adf9e9e2078451?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:3dd8/8752107/ae89119c4548/PSP4-11-30-s004.pdf?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="psp412730-sup-0005" position="float" content-type="local-data" orientation="portrait"><caption><p>ModelFile S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-11-30-s002.unk" position="float" orientation="portrait"><?suppdata-name PSP4-11-30-s002.unk?><?suppdata-size 45974?><?suppdata-md5 79689830559d27d40d94c9df3349ecae?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type gzip?><?suppdata-cloudpmc-urn urn:app:3dd8/8752107/79689830559d/PSP4-11-30-s002.unk?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="psp412730-sup-0006" position="float" content-type="local-data" orientation="portrait"><caption><p>ModelFile S2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-11-30-s001.unk" position="float" orientation="portrait"><?suppdata-name PSP4-11-30-s001.unk?><?suppdata-size 46021?><?suppdata-md5 1122cc7571c1b8ee66b19b6849b12860?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type gzip?><?suppdata-cloudpmc-urn urn:app:3dd8/8752107/1122cc7571c1/PSP4-11-30-s001.unk?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="psp412730-sup-0007" position="float" content-type="local-data" orientation="portrait"><caption><p>ModelFile S3</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-11-30-s007.unk" position="float" orientation="portrait"><?suppdata-name PSP4-11-30-s007.unk?><?suppdata-size 45926?><?suppdata-md5 1eff4d6a71d84b1dd5e2634527660a57?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type gzip?><?suppdata-cloudpmc-urn urn:app:3dd8/8752107/1eff4d6a71d8/PSP4-11-30-s007.unk?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="psp412730-sup-0008" position="float" content-type="local-data" orientation="portrait"><caption><p>ModelFile S4</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-11-30-s003.unk" position="float" orientation="portrait"><?suppdata-name PSP4-11-30-s003.unk?><?suppdata-size 46138?><?suppdata-md5 57f618d09beb7933b9ac40114a1d7e2f?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type gzip?><?suppdata-cloudpmc-urn urn:app:3dd8/8752107/57f618d09beb/PSP4-11-30-s003.unk?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="psp412730-sec-0021"><title>ACKNOWLEDGMENTS</title><p>The authors thank all those who made the collection of observed data possible: Fabienne Doffey‐Lazeyras, Dr Marija Bosilkovksa, the medical doctors of the Division of Anesthesiology of Geneva University Hospitals, the laboratory of Immunology and Clinical Allergology, the nurses of the Division of Orthopaedics and Trauma Surgery, and the presurgery hospitalization Unit for their help and support.</p></ack><ref-list content-type="cited-references" id="psp412730-bibl-0001"><title>REFERENCES</title><ref id="psp412730-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="psp412730-cit-0001">
+<string-name name-style="western">
+<surname>Manceau</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amrani</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peoc’h</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Personalized medicine, pharmacogenomic and companion biomarker</article-title>. <source>Ann Biol Clin (Paris)</source>. <year>2017</year>;<volume>75</volume>:<fpage>631</fpage>‐<lpage>636</lpage>.<pub-id pub-id-type="pmid">29192598</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1684/abc.2017.1306</pub-id></mixed-citation></ref><ref id="psp412730-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="psp412730-cit-0002">
+<string-name name-style="western">
+<surname>Iriart</surname>
+<given-names>JAB</given-names>
+</string-name>. <article-title>Precision medicine/personalized medicine: a critical analysis of movements in the transformation of biomedicine in the early 21st century</article-title>. <source>Cad Saude Publica</source>. <year>2019</year>;<volume>35</volume>:<elocation-id>e00153118</elocation-id>.<pub-id pub-id-type="pmid">30916181</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/0102-311X00153118</pub-id></mixed-citation></ref><ref id="psp412730-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="psp412730-cit-0003">
+<string-name name-style="western">
+<surname>Grissinger</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The five rights: a destination without a map</article-title>. <source>Pharmacy and Therapeutics</source>. <year>2010</year>;<volume>35</volume>:<fpage>542</fpage>.</mixed-citation></ref><ref id="psp412730-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="psp412730-cit-0004">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ingelman‐Sundberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lauschke</surname>
+<given-names>VM</given-names>
+</string-name>. <article-title>Worldwide distribution of cytochrome P450 alleles: a meta‐analysis of population‐scale sequencing projects</article-title>. <source>Clin Pharmacol Ther</source>. <year>2017</year>;<volume>102</volume>:<fpage>688</fpage>‐<lpage>700</lpage>.<pub-id pub-id-type="pmid">28378927</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.690</pub-id><pub-id pub-id-type="pmcid">PMC5600063</pub-id></mixed-citation></ref><ref id="psp412730-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="psp412730-cit-0005">
+<string-name name-style="western">
+<surname>Goetz</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schork</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Personalized medicine: motivation, challenges, and progress</article-title>. <source>Fertil Steril</source>. <year>2018</year>;<volume>109</volume>:<fpage>952</fpage>‐<lpage>963</lpage>.<pub-id pub-id-type="pmid">29935653</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.fertnstert.2018.05.006</pub-id><pub-id pub-id-type="pmcid">PMC6366451</pub-id></mixed-citation></ref><ref id="psp412730-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="psp412730-cit-0006">
+<string-name name-style="western">
+<surname>Wienkers</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heath</surname>
+<given-names>TG</given-names>
+</string-name>. <article-title>Predicting in vivo drug interactions from in vitro drug discovery data</article-title>. <source>Nat Rev Drug Discov</source>. <year>2005</year>;<volume>4</volume>:<fpage>825</fpage>‐<lpage>833</lpage>.<pub-id pub-id-type="pmid">16224454</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrd1851</pub-id></mixed-citation></ref><ref id="psp412730-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="psp412730-cit-0007">
+<string-name name-style="western">
+<surname>de Jong</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiskoot</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swen</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manson</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Distinct effects of inflammation on cytochrome P450 regulation and drug metabolism: lessons from experimental models and a potential role for pharmacogenetics</article-title>. <source>Genes (Basel)</source>. <year>2020</year>;<volume>11</volume>(<issue>12</issue>):<fpage>1509</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/genes11121509</pub-id><pub-id pub-id-type="pmcid">PMC7766585</pub-id><pub-id pub-id-type="pmid">33339226</pub-id></mixed-citation></ref><ref id="psp412730-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="psp412730-cit-0008">
+<string-name name-style="western">
+<surname>Samer</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lorenzini</surname>
+<given-names>KI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollason</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daali</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desmeules</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Applications of CYP450 testing in the clinical setting</article-title>. <source>Mol Diagn Ther</source>. <year>2013</year>;<volume>17</volume>:<fpage>165</fpage>‐<lpage>184</lpage>.<pub-id pub-id-type="pmid">23588782</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40291-013-0028-5</pub-id><pub-id pub-id-type="pmcid">PMC3663206</pub-id></mixed-citation></ref><ref id="psp412730-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="psp412730-cit-0009">
+<string-name name-style="western">
+<surname>Shah</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>RL</given-names>
+</string-name>. <article-title>Inflammation‐induced phenoconversion of polymorphic drug metabolizing enzymes: hypothesis with implications for personalized medicine</article-title>. <source>Drug Metab Dispos</source>. <year>2015</year>;<volume>43</volume>:<fpage>400</fpage>‐<lpage>410</lpage>.<pub-id pub-id-type="pmid">25519488</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.114.061093</pub-id></mixed-citation></ref><ref id="psp412730-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="psp412730-cit-0010">
+<string-name name-style="western">
+<surname>Stanke‐Labesque</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gautier‐Veyret</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chhun</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guilhaumou</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>French Society of Pharmacology and Therapeutics Inflammation is a major regulator of drug metabolizing enzymes and transporters: Consequences for the personalization of drug treatment</article-title>. <source>Pharmacol Ther</source>. <year>2020</year>;<volume>215</volume>:<fpage>107627</fpage>.<pub-id pub-id-type="pmid">32659304</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pharmthera.2020.107627</pub-id><pub-id pub-id-type="pmcid">PMC7351663</pub-id></mixed-citation></ref><ref id="psp412730-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="psp412730-cit-0011">
+<string-name name-style="western">
+<surname>Castell</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gómez‐Lechón</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>David</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Interleukin‐6 is the major regulator of acute phase protein synthesis in adult human hepatocytes</article-title>. <source>FEBS Lett</source>. <year>1989</year>;<volume>242</volume>:<fpage>237</fpage>‐<lpage>239</lpage>.<pub-id pub-id-type="pmid">2464504</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0014-5793(89)80476-4</pub-id></mixed-citation></ref><ref id="psp412730-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="psp412730-cit-0012">
+<string-name name-style="western">
+<surname>Jordan</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Interleukin‐6, A cytokine critical to mediation of inflammation, autoimmunity and allograft rejection: therapeutic implications of IL‐6 receptor blockade</article-title>. <source>Transplantation</source>. <year>2017</year>;<volume>101</volume>:<fpage>32</fpage>‐<lpage>44</lpage>.<pub-id pub-id-type="pmid">27547870</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/TP.0000000000001452</pub-id></mixed-citation></ref><ref id="psp412730-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="psp412730-cit-0013">
+<string-name name-style="western">
+<surname>Baigrie</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lamont</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kwiatkowski</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dallman</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morris</surname>
+<given-names>PJ</given-names>
+</string-name>. <article-title>Systemic cytokine response after major surgery</article-title>. <source>Br J Surg</source>. <year>1992</year>;<volume>79</volume>:<fpage>757</fpage>‐<lpage>760</lpage>.<pub-id pub-id-type="pmid">1393463</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bjs.1800790813</pub-id></mixed-citation></ref><ref id="psp412730-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="psp412730-cit-0014">
+<string-name name-style="western">
+<surname>Sager</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ragueneau‐Majlessi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Isoherranen</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Physiologically based pharmacokinetic (PBPK) modeling and simulation approaches: a systematic review of published models, applications, and model verification</article-title>. <source>Drug Metab Dispos</source>. <year>2015</year>;<volume>43</volume>:<fpage>1823</fpage>‐<lpage>1837</lpage>.<pub-id pub-id-type="pmid">26296709</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.115.065920</pub-id><pub-id pub-id-type="pmcid">PMC4613950</pub-id></mixed-citation></ref><ref id="psp412730-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="psp412730-cit-0015">
+<string-name name-style="western">
+<surname>Abduljalil</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pansari</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jamei</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>TN</given-names>
+</string-name>. <article-title>A preterm physiologically based pharmacokinetic model. Part I: Physiological parameters and model building</article-title>. <source>Clin Pharmacokinet</source>. <year>2020</year>;<volume>59</volume>(<issue>4</issue>):<fpage>485</fpage>‐<lpage>500</lpage>.<pub-id pub-id-type="pmid">31583613</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40262-019-00825-6</pub-id></mixed-citation></ref><ref id="psp412730-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="psp412730-cit-0016">
+<string-name name-style="western">
+<surname>Lenoir</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daali</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollason</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Impact of acute inflammation on cytochromes P450 activity assessed by the Geneva Cocktail</article-title>. <source>Clin Pharmacol Ther</source>. <year>2021</year>;<volume>109</volume>(<issue>6</issue>):<fpage>1668</fpage>‐<lpage>1676</lpage>.<pub-id pub-id-type="pmid">33341941</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.2146</pub-id><pub-id pub-id-type="pmcid">PMC8247903</pub-id></mixed-citation></ref><ref id="psp412730-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="psp412730-cit-0017">
+<string-name name-style="western">
+<surname>Jamei</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marciniak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barnett</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tucker</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rostami‐Hodjegan</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The simcyp population‐based ADME simulator</article-title>. <source>Expert Opin Drug Metab Toxicol</source>. <year>2009</year>;<volume>5</volume>:<fpage>211</fpage>‐<lpage>223</lpage>.<pub-id pub-id-type="pmid">19199378</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1517/17425250802691074</pub-id></mixed-citation></ref><ref id="psp412730-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="psp412730-cit-0018">
+<string-name name-style="western">
+<surname>Rowland Yeo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jamei</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tucker</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rostami‐Hodjegan</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Physiologically based mechanistic modelling to predict complex drug‐drug interactions involving simultaneous competitive and time‐dependent enzyme inhibition by parent compound and its metabolite in both liver and gut ‐ the effect of diltiazem on the time‐course of exposure to triazolam</article-title>. <source>Eur J Pharm Sci</source>. <year>2010</year>;<volume>39</volume>:<fpage>298</fpage>‐<lpage>309</lpage>.<pub-id pub-id-type="pmid">20025966</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejps.2009.12.002</pub-id></mixed-citation></ref><ref id="psp412730-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="psp412730-cit-0019">
+<string-name name-style="western">
+<surname>Bosilkovska</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Déglon</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Evaluation of mutual drug‐drug interaction within Geneva cocktail for cytochrome p450 phenotyping using innovative dried blood sampling method</article-title>. <source>Basic Clin Pharmacol Toxicol</source>. <year>2016</year>;<volume>119</volume>:<fpage>284</fpage>‐<lpage>290</lpage>.<pub-id pub-id-type="pmid">27009433</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcpt.12586</pub-id></mixed-citation></ref><ref id="psp412730-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="psp412730-cit-0020">
+<string-name name-style="western">
+<surname>Feng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleary</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parrott</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Evaluating a physiologically based pharmacokinetic model for prediction of omeprazole clearance and assessing ethnic sensitivity in CYP2C19 metabolic pathway</article-title>. <source>Eur J Clin Pharmacol</source>. <year>2015</year>;<volume>71</volume>:<fpage>617</fpage>‐<lpage>624</lpage>.<pub-id pub-id-type="pmid">25801493</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00228-015-1834-y</pub-id></mixed-citation></ref><ref id="psp412730-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="psp412730-cit-0021">
+<string-name name-style="western">
+<surname>Regårdh</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lagerström</surname>
+<given-names>PO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lundborg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skånberg</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>The pharmacokinetics of omeprazole in humans–a study of single intravenous and oral doses</article-title>. <source>Ther Drug Monit</source>. <year>1990</year>;<volume>12</volume>:<fpage>163</fpage>‐<lpage>172</lpage>.<pub-id pub-id-type="pmid">2315973</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00007691-199003000-00010</pub-id></mixed-citation></ref><ref id="psp412730-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="psp412730-cit-0022">
+<string-name name-style="western">
+<surname>Zaporowska‐Stachowiak</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szymański</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oduah</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stachowiak‐Szymczak</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Łuczak</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sopata</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Midazolam: Safety of use in palliative care: A systematic critical review</article-title>. <source>Biomed Pharmacother</source>. <year>2019</year>;<volume>114</volume>:<fpage>108838</fpage>.<pub-id pub-id-type="pmid">30981104</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2019.108838</pub-id></mixed-citation></ref><ref id="psp412730-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="psp412730-cit-0023">
+<string-name name-style="western">
+<surname>Nguyen</surname>
+<given-names>HQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kimoto</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Callegari</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Obach</surname>
+<given-names>RS</given-names>
+</string-name>. <article-title>Mechanistic modeling to predict midazolam metabolite exposure from in vitro data</article-title>. <source>Drug Metab Dispos</source>. <year>2016</year>;<volume>44</volume>:<fpage>781</fpage>‐<lpage>791</lpage>.<pub-id pub-id-type="pmid">26956641</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.115.068601</pub-id></mixed-citation></ref><ref id="psp412730-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="psp412730-cit-0024">
+<string-name name-style="western">
+<surname>Ogilvie</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yerino</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kazmi</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>The proton pump inhibitor, omeprazole, but not lansoprazole or pantoprazole, is a metabolism‐dependent inhibitor of CYP2C19: implications for coadministration with clopidogrel</article-title>. <source>Drug Metab Dispos</source>. <year>2011</year>;<volume>39</volume>:<fpage>2020</fpage>‐<lpage>2033</lpage>.<pub-id pub-id-type="pmid">21795468</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.111.041293</pub-id></mixed-citation></ref><ref id="psp412730-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="psp412730-cit-0025">
+<string-name name-style="western">
+<surname>Le Merdy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Physiologically based pharmacokinetic modeling approach to identify the drug‐drug interaction mechanism of nifedipine and a proton pump inhibitor. Omeprazole</article-title>. <source>Eur J Drug Metab Pharmacokinet</source>. <year>2021</year>;<volume>46</volume>:<fpage>41</fpage>‐<lpage>51</lpage>.<pub-id pub-id-type="pmid">33064292</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13318-020-00649-x</pub-id></mixed-citation></ref><ref id="psp412730-bib-0026"><label>26</label><mixed-citation publication-type="miscellaneous" id="psp412730-cit-0026">
+<article-title>European Medicines Agency. Europa EU Summary of Product Characteristics of Nexium (INN‐esomeprazole)</article-title>. Accessed May 17, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ema.europa.eu/en/documents/product-information/nexium-control-epar-product-information_en.pdf" ext-link-type="uri">https://www.ema.europa.eu/en/documents/product‐information/nexium‐control‐epar‐product‐information_en.pdf</ext-link>.</mixed-citation></ref><ref id="psp412730-bib-0027"><label>27</label><mixed-citation publication-type="miscellaneous" id="psp412730-cit-0027">
+<article-title>Wolters Kluwer. Health UpToDate, the evidence‐based clinical decision support resource</article-title>. Accessed May 17, 2021.<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.uptodate.com/home/linking-policy" ext-link-type="uri">https://www.uptodate.com/home/linking‐policy</ext-link>
+</mixed-citation></ref><ref id="psp412730-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="psp412730-cit-0028">
+<string-name name-style="western">
+<surname>Kaartinen</surname>
+<given-names>TJK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tornio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tapaninen</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Effect of high‐dose esomeprazole on CYP1A2, CYP2C19, and CYP3A4 activities in humans: evidence for substantial and long‐lasting inhibition of CYP2C19</article-title>. <source>Clin Pharmacol Ther</source>. <year>2020</year>;<volume>108</volume>:<fpage>1254</fpage>‐<lpage>1264</lpage>.<pub-id pub-id-type="pmid">32558923</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.1949</pub-id></mixed-citation></ref><ref id="psp412730-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="psp412730-cit-0029">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>X‐Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersson</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahlström</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weidolf</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Comparison of inhibitory effects of the proton pump‐inhibiting drugs omeprazole, esomeprazole, lansoprazole, pantoprazole, and rabeprazole on human cytochrome P450 activities</article-title>. <source>Drug Metab Dispos</source>. <year>2004</year>;<volume>32</volume>:<fpage>821</fpage>‐<lpage>827</lpage>.<pub-id pub-id-type="pmid">15258107</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.32.8.821</pub-id></mixed-citation></ref><ref id="psp412730-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="psp412730-cit-0030">
+<string-name name-style="western">
+<surname>Machavaram</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almond</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rostami‐Hodjegan</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>A physiologically based pharmacokinetic modeling approach to predict disease‐drug interactions: suppression of CYP3A by IL‐6</article-title>. <source>Clin Pharmacol Ther</source>. <year>2013</year>;<volume>94</volume>:<fpage>260</fpage>‐<lpage>268</lpage>.<pub-id pub-id-type="pmid">23588308</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/clpt.2013.79</pub-id></mixed-citation></ref><ref id="psp412730-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="psp412730-cit-0031">
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Development of a physiologically based pharmacokinetic model to predict disease‐mediated therapeutic protein‐drug interactions: modulation of multiple cytochrome P450 enzymes by interleukin‐6</article-title>. <source>AAPS J</source>. <year>2016</year>;<volume>18</volume>:<fpage>767</fpage>‐<lpage>776</lpage>.<pub-id pub-id-type="pmid">26961818</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1208/s12248-016-9890-5</pub-id><pub-id pub-id-type="pmcid">PMC5256608</pub-id></mixed-citation></ref><ref id="psp412730-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="psp412730-cit-0032">
+<string-name name-style="western">
+<surname>Dickmann</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rock</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wienkers</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slatter</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Effects of interleukin‐6 (IL‐6) and an anti‐IL‐6 monoclonal antibody on drug‐metabolizing enzymes in human hepatocyte culture</article-title>. <source>Drug Metab Dispos</source>. <year>2011</year>;<volume>39</volume>:<fpage>1415</fpage>‐<lpage>1422</lpage>.<pub-id pub-id-type="pmid">21555507</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.111.038679</pub-id></mixed-citation></ref><ref id="psp412730-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="psp412730-cit-0033">
+<string-name name-style="western">
+<surname>Bosilkovska</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Déglon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samer</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Simultaneous LC‐MS/MS quantification of P‐glycoprotein and cytochrome P450 probe substrates and their metabolites in DBS and plasma</article-title>. <source>Bioanalysis</source>. <year>2014</year>;<volume>6</volume>:<fpage>151</fpage>‐<lpage>164</lpage>.<pub-id pub-id-type="pmid">24423593</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4155/bio.13.289</pub-id></mixed-citation></ref><ref id="psp412730-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="psp412730-cit-0034">
+<string-name name-style="western">
+<surname>Hassan‐Alin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bredberg</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Röhss</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Pharmacokinetics of esomeprazole after oral and intravenous administration of single and repeated doses to healthy subjects</article-title>. <source>Eur J Clin Pharmacol</source>. <year>2000</year>;<volume>56</volume>:<fpage>665</fpage>‐<lpage>670</lpage>.<pub-id pub-id-type="pmid">11214773</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s002280000206</pub-id></mixed-citation></ref><ref id="psp412730-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="psp412730-cit-0035">
+<string-name name-style="western">
+<surname>Tassaneeyakul</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tassaneeyakul</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vannaprasaht</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamazoe</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Formation of omeprazole sulphone but not 5‐hydroxyomeprazole is inhibited by grapefruit juice</article-title>. <source>Br J Clin Pharmacol</source>. <year>2000</year>;<volume>49</volume>:<fpage>139</fpage>.<pub-id pub-id-type="pmid">10671908</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1365-2125.2000.00122.x</pub-id><pub-id pub-id-type="pmcid">PMC2014902</pub-id></mixed-citation></ref><ref id="psp412730-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="psp412730-cit-0036">
+<string-name name-style="western">
+<surname>Machavaram</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Endo‐Tsukude</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Terao</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Simulating the impact of elevated levels of interleukin‐6 on the pharmacokinetics of various CYP450 substrates in patients with neuromyelitis optica or neuromyelitis optica spectrum disorders in different ethnic populations</article-title>. <source>AAPS J</source>. <year>2019</year>;<volume>21</volume>:<fpage>42</fpage>.<pub-id pub-id-type="pmid">30887238</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1208/s12248-019-0309-y</pub-id></mixed-citation></ref><ref id="psp412730-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="psp412730-cit-0037">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hijazi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolf</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Physiologically based pharmacokinetic model to assess the influence of blinatumomab‐mediated cytokine elevations on cytochrome P450 enzyme activity</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2015</year>;<volume>4</volume>:<fpage>507</fpage>‐<lpage>515</lpage>.<pub-id pub-id-type="pmid">26451330</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/psp4.12003</pub-id><pub-id pub-id-type="pmcid">PMC4592530</pub-id></mixed-citation></ref><ref id="psp412730-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="psp412730-cit-0038">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ge</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Application of physiologically based pharmacokinetic modeling to the prediction of drug‐drug and drug‐disease interactions for rivaroxaban</article-title>. <source>Eur J Clin Pharmacol</source>. <year>2018</year>;<volume>74</volume>:<fpage>755</fpage>‐<lpage>765</lpage>.<pub-id pub-id-type="pmid">29453492</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00228-018-2430-8</pub-id></mixed-citation></ref><ref id="psp412730-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="psp412730-cit-0039">
+<string-name name-style="western">
+<surname>Radke</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horn</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lanckohr</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Development of a physiologically based pharmacokinetic modelling approach to predict the pharmacokinetics of vancomycin in critically Ill septic patients</article-title>. <source>Clin Pharmacokinet</source>. <year>2017</year>;<volume>56</volume>:<fpage>759</fpage>‐<lpage>779</lpage>.<pub-id pub-id-type="pmid">28039606</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40262-016-0475-3</pub-id></mixed-citation></ref><ref id="psp412730-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="psp412730-cit-0040">
+<string-name name-style="western">
+<surname>Dickmann</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wienkers</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slatter</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Effects of interleukin 1β (IL‐1β) and IL‐1β/interleukin 6 (IL‐6) combinations on drug metabolizing enzymes in human hepatocyte culture</article-title>. <source>Curr Drug Metab</source>. <year>2012</year>;<volume>13</volume>:<fpage>930</fpage>‐<lpage>937</lpage>.<pub-id pub-id-type="pmid">22475267</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/138920012802138642</pub-id></mixed-citation></ref><ref id="psp412730-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="psp412730-cit-0041">
+<string-name name-style="western">
+<surname>Mallick</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taneja</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moorthy</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghose</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Regulation of drug‐metabolizing enzymes in infectious and inflammatory disease: implications for biologics‐small molecule drug interactions</article-title>. <source>Expert Opin Drug Metab Toxicol</source>. <year>2017</year>;<volume>13</volume>:<fpage>605</fpage>‐<lpage>616</lpage>.<pub-id pub-id-type="pmid">28537216</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/17425255.2017.1292251</pub-id><pub-id pub-id-type="pmcid">PMC5714652</pub-id></mixed-citation></ref><ref id="psp412730-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="psp412730-cit-0042">
+<string-name name-style="western">
+<surname>Morgan</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goralski</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piquette‐Miller</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Regulation of drug‐metabolizing enzymes and transporters in infection, inflammation, and cancer</article-title>. <source>Drug Metab Dispos</source>. <year>2008</year>;<volume>36</volume>:<fpage>205</fpage>‐<lpage>216</lpage>.<pub-id pub-id-type="pmid">18218849</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.107.018747</pub-id></mixed-citation></ref><ref id="psp412730-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="psp412730-cit-0043">
+<string-name name-style="western">
+<surname>Aitken</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>C‐M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morgan</surname>
+<given-names>ET</given-names>
+</string-name>. <article-title>Roles of nitric oxide in inflammatory downregulation of human cytochromes P450</article-title>. <source>Free Radic Biol Med</source>. <year>2008</year>;<volume>44</volume>:<fpage>1161</fpage>‐<lpage>1168</lpage>.<pub-id pub-id-type="pmid">18206661</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.freeradbiomed.2007.12.010</pub-id><pub-id pub-id-type="pmcid">PMC2346593</pub-id></mixed-citation></ref><ref id="psp412730-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="psp412730-cit-0044">
+<string-name name-style="western">
+<surname>Hsueh</surname>
+<given-names>C‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsu</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Predictive performance of physiologically‐based pharmacokinetic models in predicting drug‐drug interactions involving enzyme modulation</article-title>. <source>Clin Pharmacokinet</source>. <year>2018</year>;<volume>57</volume>:<fpage>1337</fpage>‐<lpage>1346</lpage>.<pub-id pub-id-type="pmid">29455429</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40262-018-0635-8</pub-id></mixed-citation></ref><ref id="psp412730-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="psp412730-cit-0045">
+<string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>PBPK modeling and simulation in drug research and development</article-title>. <source>Acta Pharm Sin B</source>. <year>2016</year>;<volume>6</volume>:<fpage>430</fpage>‐<lpage>440</lpage>.<pub-id pub-id-type="pmid">27909650</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.apsb.2016.04.004</pub-id><pub-id pub-id-type="pmcid">PMC5125732</pub-id></mixed-citation></ref><ref id="psp412730-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="psp412730-cit-0046">
+<string-name name-style="western">
+<surname>Jamei</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Recent advances in development and application of physiologically‐based pharmacokinetic (PBPK) models: a transition from academic curiosity to regulatory acceptance</article-title>. <source>Curr Pharmacol Rep</source>. <year>2016</year>;<volume>2</volume>:<fpage>161</fpage>‐<lpage>169</lpage>.<pub-id pub-id-type="pmid">27226953</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40495-016-0059-9</pub-id><pub-id pub-id-type="pmcid">PMC4856711</pub-id></mixed-citation></ref><ref id="psp412730-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="psp412730-cit-0047">
+<string-name name-style="western">
+<surname>Marsousi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daali</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rudaz</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Prediction of metabolic interactions with oxycodone via CYP2D6 and CYP3A inhibition using a physiologically based pharmacokinetic model</article-title>. <source>CPT: Pharmacometrics Sys Pharmacol</source>. <year>2014</year>;<volume>3</volume>:<fpage>e152</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/psp.2014.49</pub-id><pub-id pub-id-type="pmcid">PMC4288002</pub-id><pub-id pub-id-type="pmid">25518025</pub-id></mixed-citation></ref><ref id="psp412730-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="psp412730-cit-0048">
+<string-name name-style="western">
+<surname>Darwich</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Polasek</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aronson</surname>
+<given-names>JK</given-names>
+</string-name>, et al. <article-title>Model‐informed precision dosing: background, requirements, validation, implementation, and forward trajectory of individualizing drug therapy</article-title>. <source>Annu Rev Pharmacol Toxicol</source>. <year>2021</year>;<volume>61</volume>:<fpage>225</fpage>‐<lpage>245</lpage>.<pub-id pub-id-type="pmid">33035445</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-pharmtox-033020-113257</pub-id></mixed-citation></ref><ref id="psp412730-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="psp412730-cit-0049">
+<string-name name-style="western">
+<surname>Singh</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin‐Schmidt</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Development of a quantitative relationship between CAR‐affinity, antigen abundance, tumor cell depletion and CAR‐T cell expansion using a multiscale systems PK‐PD model</article-title>. <source>mAbs</source>. <year>2020</year>;<volume>12</volume>:<fpage>1688616</fpage>.<pub-id pub-id-type="pmid">31852337</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/19420862.2019.1688616</pub-id><pub-id pub-id-type="pmcid">PMC6927769</pub-id></mixed-citation></ref></ref-list></back></article>

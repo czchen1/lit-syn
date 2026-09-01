@@ -1,0 +1,1134 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cts13160" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Transl Sci</journal-id><journal-id journal-id-type="iso-abbrev">Clin Transl Sci</journal-id><journal-id journal-id-type="pmc-domain-id">2996</journal-id><journal-id journal-id-type="pmc-domain">cts</journal-id><journal-id journal-id-type="nlm-id">101474067</journal-id><journal-id journal-id-type="publisher-id">CTS</journal-id><journal-title-group><journal-title>Clinical and Translational Science</journal-title></journal-title-group><issn pub-type="ppub">1752-8054</issn><issn pub-type="epub">1752-8062</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8841519</article-id><article-id pub-id-type="pmcid-ver">PMC8841519.1</article-id><article-id pub-id-type="pmcaid">8841519</article-id><article-id pub-id-type="pmcaiid">8841519</article-id><article-id pub-id-type="pmid">34581012</article-id><article-id pub-id-type="doi">10.1111/cts.13164</article-id><article-id pub-id-type="publisher-id">CTS13164</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Utilization of physiologically‐based pharmacokinetic model to assess disease‐mediated therapeutic protein‐disease‐drug interaction in immune‐mediated inflammatory diseases</article-title><alt-title alt-title-type="right-running-head">PBPK Modeling to Assess TP‐DI in IMIDs</alt-title><alt-title alt-title-type="left-running-head">WANG <sc>et al</sc>.</alt-title></title-group><contrib-group><contrib id="cts13164-cr-0001" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="L">Lujing</given-names></name><xref rid="cts13164-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cts13164-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cts13164-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Chen</surname><given-names initials="Y">Yang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6027-7955</contrib-id><xref rid="cts13164-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>ychen268@ITS.JNJ.com</email></address></contrib><contrib id="cts13164-cr-0003" contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="W">Wangda</given-names></name><xref rid="cts13164-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts13164-cr-0004" contrib-type="author"><name name-style="western"><surname>Miao</surname><given-names initials="X">Xin</given-names></name><xref rid="cts13164-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts13164-cr-0005" contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="H">Honghui</given-names></name><xref rid="cts13164-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="cts13164-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Pharmacology and Pharmacometrics</named-content>
+<institution>Janssen Research &amp; Development, LLC</institution>
+<city>Spring House</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts13164-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmaceutics</named-content>
+<named-content content-type="organisation-division">Ernest Mario School of Pharmacy, Rutgers</named-content>
+<institution>The State University of New Jersey</institution>
+<city>Piscataway</city>
+<named-content content-type="country-part">New Jersey</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Yang Chen, Janssen Research &amp; Development, LLC, Spring House, PA 19477, USA.<break/>
+Email: <email>ychen268@ITS.JNJ.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>10</month><year>2021</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2022</year></pub-date><volume>15</volume><issue seq="200">2</issue><issue-id pub-id-type="pmc-issue-id">400919</issue-id><issue-id pub-id-type="doi">10.1111/cts.v15.2</issue-id><fpage>464</fpage><lpage>476</lpage><history>
+<date date-type="rev-recd"><day>30</day><month>8</month><year>2021</year></date>
+<date date-type="received"><day>22</day><month>6</month><year>2021</year></date>
+<date date-type="accepted"><day>06</day><month>9</month><year>2021</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>01</day><month>02</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>22</day><month>02</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2022-02-23 00:16:45.620"><day>23</day><month>02</month><year>2022</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2021 Janssen Research &amp; Development. <italic toggle="yes">Clinical and Translational Science</italic> published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CTS-15-464.pdf"><?pdf-name CTS-15-464.pdf?><?pdf-size 774413?><?pdf-md5 cd24fe079d4f45014bda9ab9fcfef658?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:512f/8841519/cd24fe079d4f/CTS-15-464.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CTS-15-464.pdf"/><abstract id="cts13164-abs-0001"><title>Abstract</title><p>It is known that interleukin‐6 (IL‐6) can significantly modulate some key drug‐metabolizing enzymes, such as phase I cytochrome P450s (CYPs). In this study, a physiologically‐based pharmacokinetic (PBPK) model was developed to assess CYPs mediated therapeutic protein drug interactions (TP‐DIs) in patients with immune‐mediated inflammatory diseases (IMIDs) with elevated systemic IL‐6 levels when treated by anti‐IL‐6 therapies. Literature data of IL‐6 levels in various diseases were incorporated in SimCYP to construct respective virtual patient populations. The modulation effects of systemic IL‐6 level and local IL‐6 level in the gastrointestinal tract (GI) on CYPs activities were assessed. Upon blockade of the IL‐6 signaling pathway by an anti‐IL‐6 treatment, the area under plasma concentration versus time curves (AUCs) of S‐warfarin, omeprazole, and midazolam were predicted to decrease by up to 40%, 42%, and 46%, respectively. In patients with Crohn’s disease and ulcerative colitis treated with an anti‐IL‐6 therapy, the lowering of the elevated IL‐6 levels in the local GI tissue were predicted to result in further decreases in AUCs of those CYP substrates. The propensity of TP‐DIs under comorbidity conditions, such as in patients with cancer with IMID, were also explored. With further validation with relevant clinical data, this PBPK model may provide an in silico way to quantify the magnitude of potential TP‐DI in patients with elevated IL‐6 levels when an anti‐IL‐6 therapeutic is used with concomitant small‐molecule drugs. This model may be further adapted to evaluate the CYP modulation effect by other therapeutic modalities, which would significantly alter levels of proinflammatory cytokines during the treatment period.</p></abstract><counts><fig-count count="3"/><table-count count="4"/><page-count count="14"/><word-count count="8803"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.1 mode:remove_FC converted:13.02.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cts13164-cit-1001">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Utilization of physiologically‐based pharmacokinetic model to assess disease‐mediated therapeutic protein‐disease‐drug interaction in immune‐mediated inflammatory diseases</article-title>. <source>Clin Transl Sci</source>. <year>2022</year>;<volume>15</volume>:<fpage>464</fpage>–<lpage>476</lpage>. <pub-id pub-id-type="doi">10.1111/cts.13164</pub-id>
+<pub-id pub-id-type="pmcid">PMC8841519</pub-id><pub-id pub-id-type="pmid">34581012</pub-id></mixed-citation>
+</p><fn-group id="cts13160-ntgp-0001"><fn fn-type="equal" id="cts13164-note-0001"><p>Lujing Wang and Yang Chen contributed equally to the manuscript.</p></fn></fn-group></notes></front><body id="cts13164-body-0001"><p>
+<boxed-text position="anchor" content-type="box" orientation="portrait"><caption><title>Study Highlights</title></caption><p>
+<list list-type="simple" id="cts13164-list-0001"><list-item><p>
+<bold>WHAT IS THE CURRENT KNOWLEDGE ON THE TOPIC?</bold>
+</p></list-item></list>
+</p><p>Interleukin‐6 (IL‐6) may significantly modulate some key drug‐metabolizing enzymes, including phase I cytochrome P450s (CYPs). A physiologically‐based pharmacokinetic (PBPK) model was developed to predict the impact of elevated IL‐6 level and anti‐IL‐6 mAb treatment on multiple CYP enzymes in patients with rheumatoid arthritis.
+<list list-type="simple" id="cts13164-list-0002"><list-item><p>
+<bold>WHAT QUESTION DID THIS STUDY ADDRESS?</bold>
+</p></list-item></list>
+</p><p>The aforementioned PBPK model was expanded to assess potential therapeutic protein drug interactions (TP‐DIs) between anti‐IL‐6 treatment and CYP substrate drugs in different immune‐mediated inflammatory disease (IMID) populations with elevated IL‐6 levels. For the inflammatory bowel disease (IBD) populations, modulation effects from elevated IL‐6 levels in the local gastrointestinal tract were taken into consideration. The potential additive modulation effect on CYPs from concomitant cancer‐IMID situation was also assessed. Furthermore, simulations at different hypothetical IL‐6 levels were performed to identify the IL‐6 levels, which would result in weak, moderate, and strong CYP modulation effects based on the definitions in the US Food and Drug Administration (FDA) drug‐drug interaction guidance.
+<list list-type="simple" id="cts13164-list-0003"><list-item><p>
+<bold>WHAT DOES THIS STUDY ADD TO OUR KNOWLEDGE?</bold>
+</p></list-item></list>
+</p><p>The PBPK platform model was expanded to assess the potential TP‐DIs during anti‐IL‐6 treatment in several IMIDs including systemic lupus erythematosus, ulcerative colitis, Crohn’s disease, type 1 diabetes, and cancer‐IMID comorbidity. The high local IL‐6 levels in patients with IBD were predicted to result in extra inhibition effect on the abundances of intestinal CYPs. Patients with cancer‐IMID manifested further decrease in systemic exposures of CYP substrate drugs compared with patients with IMID only. Cutoff values of IL‐6 level which would result in different levels of CYP modulation effect were identified.
+<list list-type="simple" id="cts13164-list-0004"><list-item><p>
+<bold>HOW MIGHT THIS CHANGE CLINICAL PHARMACOLOGY OR TRANSLATIONAL SCIENCE?</bold>
+</p></list-item></list>
+</p><p>This PBPK model approach may serve as conceptual framework and workflow process to evaluate the modulation effect on CYPs in patients by therapeutic modalities which can significantly result in altered levels of proinflammatory cytokines during the treatment period.</p></boxed-text>
+</p><sec id="cts13164-sec-0002"><title>INTRODUCTION</title><p>Drug‐drug interaction (DDI) characterization is an important element in optimizing the therapeutic benefits in polypharmacy conditions. Owing to divergent mechanisms of elimination, direct DDIs between therapeutic proteins (TPs) and small molecules are generally thought to be less likely. However, some disease conditions, such as inflammation, infections, and cancers, are known to modulate the expression of cytochrome P450 enzymes (CYPs) or some transporters<xref rid="cts13164-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> and then suppress/upregulate their enzymatic activity in the liver<xref rid="cts13164-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> and/or intestines.<xref rid="cts13164-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> The increased approvals and extensive use of TPs for treating such diseases has aroused unprecedented clinical needs and research interests in studying the CYP‐mediated TP‐drug interactions (TP‐DIs). In a recent review of approved TPs, 49 out of 150 TP labels contained pharmacokinetic (PK)‐related TP‐DI information from nonclinical and/or clinical DDI evaluations, more than half of the clinical PK TP‐DI evaluations showed no interactions, and no dose adjustment has been recommended for any of the remaining TPs.<xref rid="cts13164-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Due to the innate deficiency of preclinical TP‐DI evaluation tools and high cost as well as long patient recruitment of clinical TP‐DI studies, a risk‐based strategy has been recommended to assess the TP‐DI propensity before a clinical TP‐DI study would be considered.<xref rid="cts13164-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="cts13164-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> With that, a model‐informed approach would provide a useful tool to assess potential TP‐DIs, optimize clinical TP‐DI study design, or even avoid little value‐added clinical TP‐DI studies.</p><p>CYPs, a primary class of drug‐metabolizing enzymes distributed predominantly in the liver and intestines, have been reported to be regulated by certain proinflammatory cytokines released during inflammatory reactions. Cellular expressions of major CYPs, including CYP3A4/5, CYP2C9, CYP2C19, and CYP1A2, were downregulated upon exposure to high concentrations of IL‐6.<xref rid="cts13164-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Exposure of the hepaRG hepatic cells to 10 ng/ml IL‐6 for 72 h decreased enzyme activity of CYP3A4 by greater than 80%, CYP1A2 by 60%, and CYP2B6 and 2C19 by 80%.<xref rid="cts13164-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> A 20% −70% downregulation in hepatic CYP3A4 enzyme activity modulated by several proinflammatory cytokines, such as IL‐6, interferon alpha (IFN‐α) and tumor necrosis factor alpha‐α (TNF‐α), was reported.<xref rid="cts13164-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Dickmann et al. quantified the IL‐6 mediated regulation of multiple CYPs in hepatocytes, considering physiologically relevant levels, markers of acute phase response, and regulation of the IL‐6 receptor during in vitro treatment.<xref rid="cts13164-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>Patients with certain immune‐mediated inflammatory diseases (IMIDs), including Crohn’s disease (CD), ulcerative colitis (UC), rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), and type 1 diabetes (T1D), have elevated serum levels of IL‐6.<xref rid="cts13164-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cts13164-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="cts13164-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="cts13164-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="cts13164-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The disease‐mediated IL‐6 increase interferes with the CYPs’ activities, consequently, may alter the PKs of certain victim drugs. Anti‐IL‐6/IL‐6R TPs used for inflammatory alleviation may restore drug metabolism by disrupting IL‐6’s modulation of CYPs. In addition, certain tumor‐associated inflammation was found to inhibit CYPs’ expression by 20–33% in liver and intestines in patients with cancer.<xref rid="cts13164-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Of note, 10%–30% of patients with cancer also have comorbidity of IMIDs (i.e., cancer‐IMID).<xref rid="cts13164-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Such comorbidities may further worsen CYP alternations.</p><p>Physiologically‐based pharmacokinetic (PBPK) model comprising compartments mimicking the anatomy and physiology of the human body has been a common tool to assess DDIs of small molecules.<xref rid="cts13164-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="cts13164-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cts13164-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Its utilization in supporting therapeutic protein drug development has been increasingly gaining more attention in recent years. In the recent draft guideline for TP‐DIs by the US Food and Drug Administration (FDA), sponsors are encouraged to discuss with the health authority on using the PBPK modeling approach to evaluate the DDI potential of a TP.<xref rid="cts13164-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Machavaram et al. reported the first PBPK model to assess disease‐mediated TP‐DIs.<xref rid="cts13164-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> In their study, the developed PBPK model demonstrated the impact of IL‐6 and an anti‐IL‐6 receptor mAb, tocilizumab, on CYP3A4 activity measured by changes in systemic exposure of simvastatin in patients with RA. Jiang et al. developed a PBPK model to predict the impact of elevated IL‐6 level and an anti‐IL‐6 mAb, sirukumab, on multiple CYP enzymes in patients with RA.<xref rid="cts13164-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> In their study, the modulation effects of IL‐6 level on hepatic and intestinal CYPs’ activities were characterized using the data from in vitro studies and incorporated in a virtual RA patient population. The PBPK model was then applied to predict PKs of substrates of multiple CYPs, including CYP3A4, CYP2C9, CYP2C19, and CYP1A2, before and after sirukumab treatment in patients with RA. The model predictions were well aligned with the observed data from a clinical cocktails TP‐DI study.<xref rid="cts13164-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> The PBPK model’s predictive performance was further validated with the clinical data of tocilizumab on the PK profiles of simvastatin and omeprazole (an CYP2C19 substrate) in patients with RA.</p><p>In the current study, we expanded the aforementioned PBPK model developed by Jiang et al.<xref rid="cts13164-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> to assess potential TP‐DIs between anti‐IL‐6 treatment and CYP substrate drugs in different IMID populations with elevated IL‐6 levels, including SLE, UC, CD, and T1D. For CD and UC populations, additional modulation effects from elevated IL‐6 levels in the local gastrointestinal (GI) tract were taken into consideration. Similarly, we also examined the potential additive modulation effect on CYPs from concomitant cancer‐IMID situation. Furthermore, simulations at different hypothetical IL‐6 levels were performed to identify the IL‐6 levels which would result in weak, moderate, and strong CYP modulation effects based on the definitions in the FDA DDI guidance.<xref rid="cts13164-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p></sec><sec sec-type="materials-and-methods" id="cts13164-sec-0003"><title>MATERIALS AND METHODS</title><sec id="cts13164-sec-0004"><title>Analysis of IL‐6 level in disease populations</title><p>Literature data of systemic baseline IL‐6 levels in healthy subjects<xref rid="cts13164-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> and in patients with UC, CD, SLE and T1D,<xref rid="cts13164-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="cts13164-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="cts13164-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="cts13164-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="cts13164-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="cts13164-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="cts13164-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="cts13164-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="cts13164-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="cts13164-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="cts13164-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="cts13164-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="cts13164-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="cts13164-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="cts13164-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="cts13164-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="cts13164-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="cts13164-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="cts13164-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="cts13164-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="cts13164-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="cts13164-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="cts13164-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="cts13164-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="cts13164-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="cts13164-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="cts13164-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> and baseline IL‐6 levels in the local GI tract of patients with UC and CD were collected and examined.<xref rid="cts13164-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="cts13164-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="cts13164-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="cts13164-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="cts13164-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="cts13164-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> The systemic or local IL‐6 concentrations obtained from different studies were pooled and the average IL‐6 levels with associated variability was calculated with GraphPad (GraphPad Software, Inc.).</p></sec><sec id="cts13164-sec-0005"><title>PBPK models</title><p>The SimCYP (version 17; SimCYP Limited, Sheffield, UK) population‐based absorption, distribution, metabolism, and excretion (ADME) simulator platform was used to develop the PBPK models for each individual victim drug (CYP index substrates: midazolam, omeprazole, S‐warfarin, and caffeine) in the virtual IMIDs’ patient, cancer‐IMIDs’ patient, and healthy populations. Virtual patient populations were characterized by incorporating the impact of different systemic IL‐6 levels on hepatic and intestinal expression of multiple CYPs in the healthy White population. CYP dynamics model incorporating mechanism‐based inhibition or induction was used to simulate the modulation effects of IL‐6 on the hepatic and intestinal metabolism of each victim drug. Enzyme regulation in a disease comorbidity situation was described in “Modeling of IL‐6 Profiles and CYP Enzyme Dynamics” section. Further details of the general aspects of the PBPK model properties, victim drug’s kinetics, and CYP dynamics in SimCYP simulator have been described previously.<xref rid="cts13164-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> In addition, the simulator built‐in library models of midazolam, omeprazole, S‐warfarin, and caffeine were used in the current PBPK model to predict concentration profiles of these CYPs’ substrates with modification through model optimization as described before.<xref rid="cts13164-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p></sec><sec id="cts13164-sec-0006"><title>Modeling of IL‐6 profiles and CYP enzyme dynamics</title><p>The systemic IL‐6 levels of SLE, UC, CD, and T1D used in the PBPK models were simulated with the same parameters as used in the previous PBPK model for the RA patient population with molecule weight (MW) = 21,000 g/mol, systemic clearance (CL i.v.) = 1.0 L/h, and volume of distribution at steady state (Vss) = 0.43 L/kg.<xref rid="cts13164-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> IL‐6 as driving force for the CYP regulation was introduced to the system via constant i.v. infusion at the rate of 0.012, 0.02, and 0.06 μg/h for 40 days, and the resultant steady‐state (SS) systemic IL‐6 levels were 12, 20, and 60 pg/ml, which represent the elevated IL‐6 levels in SLE, UC/CD, and T1D populations, respectively. The simulated IL‐6 concentrations were then linked to the modulation effects on the hepatic CYP enzyme abundances. The hepatic CYP activities were predicted to reach SS over the simulation period: 90% of the SS enzyme activities were predicted to achieve between 7 and 19 days after continuous exposure to elevated IL‐6 depending on the setting of turnover rate of each individual CYP isozyme within SimCYP. The CYP activities used in the current PBPK model were represented by CYP abundances in default SimCYP populations. A technical limitation of SimCYP in current PBPK model is that when i.v. infusion of IL‐6 was used to mimic the elevated IL‐6 level in a virtual disease population, intestines are not exposed to IL‐6 which prevents the use of the dynamic models for DDIs in intestines within SimCYP. To incorporate the effect on the CYPs in intestines, a pragmatic approach was used where the intestinal CYP abundance was manually calculated and adjusted in the population library to match the level of suppression of individual CYP simulated in the liver. For patients with UC and CD, the modulation effect of local IL‐6 levels on intestinal CYPs was also manually calculated and embedded with the modulation effect of systemic IL‐6 on hepatic CYPs for the simulation.</p><p>The modulation effects of IL‐6 on CYP2C9, CYP2C19, CYP3A4, CYP3A5, and CYP1A2 were modeled using Equation <xref rid="cts13164-disp-0001" ref-type="disp-formula">1</xref>:<disp-formula id="cts13164-disp-0001">
+<label>(1)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block"><mml:mrow><mml:mfrac><mml:msub><mml:mtext>dEnz</mml:mtext><mml:mrow><mml:mtext>Liver</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>GI</mml:mtext></mml:mrow></mml:msub><mml:mrow><mml:mi mathvariant="normal">d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mtext>deg</mml:mtext><mml:mo>,</mml:mo><mml:mtext>Liver/GI</mml:mtext></mml:mrow></mml:msub><mml:mo>·</mml:mo><mml:msub><mml:mtext>Enz</mml:mtext><mml:mrow><mml:mtext>Liver</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>GI‐basal‐HV</mml:mtext></mml:mrow></mml:msub><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:msub><mml:mi mathvariant="normal">E</mml:mi><mml:mrow><mml:mtext>min</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>‐</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:mfenced><mml:mo>·</mml:mo><mml:msub><mml:mfenced close="]" open="[" separators=""><mml:mrow><mml:mtext>IL‐</mml:mtext><mml:mn>6</mml:mn></mml:mrow></mml:mfenced><mml:mi>t</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mtext>EC</mml:mtext><mml:mn>50</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mfenced close="]" open="[" separators=""><mml:mrow><mml:mtext>IL‐</mml:mtext><mml:mn>6</mml:mn></mml:mrow></mml:mfenced><mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:mfenced><mml:mo>‐</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mtext>deg</mml:mtext><mml:mo>,</mml:mo><mml:mtext>Liver</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>GI</mml:mtext></mml:mrow></mml:msub><mml:mo>·</mml:mo><mml:msub><mml:mtext>Enz</mml:mtext><mml:mrow><mml:mtext>Liver</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>GI</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math>
+</disp-formula>where, Enz<sub>,Liver/GI</sub> (<italic toggle="yes">t</italic>) is the level of the active hepatic or intestinal CYPs at any given time; Enz <sub>Liver/GI‐basal‐HV</sub> is the basal levels of hepatic or intestinal CYPs (Enz<sub>Liver/GI</sub> (<italic toggle="yes">t</italic>) = <italic toggle="yes">E</italic>
+<sub>0</sub> at <italic toggle="yes">t</italic> = 0) in healthy subjects; E<sub>min/max</sub> is the minimum/maximal CYPs activity (i.e., maximum suppression/induction) expressed as a fraction of vehicle control; EC<sub>50</sub> is the IL‐6 concentration that causes 50% of enzyme suppression/induction effect; and [IL‐6]<sub>t</sub> is the concentration of perpetrator IL‐6 at time <italic toggle="yes">t</italic>. The mean degradation rate constant (<italic toggle="yes">k</italic>
+<sub>deg, Liver/GI</sub>) of each CYP used for the simulations were the default values of SimCYP ADME simulator.<xref rid="cts13164-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+</p><p>The values of E<sub>min</sub> (CYP2C9: 0.053; CYP2C19: 0.214; and CYP3A5: 0.034) and EC<sub>50</sub> (CYP2C9: 121.0 pg/ml; CYP2C19: 71.3 pg/ml; and CYP3A5: 51 pg/ml) were assigned based on in vitro study results.<xref rid="cts13164-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> The E<sub>min</sub> for CYP3A4 (0.25), E<sub>max</sub> for CYP1A2 (1.34), and EC<sub>50</sub> values (CYP3A4: 75.2 pg/ml and CYP1A2: 8 pg/ml) were obtained by re‐analyzing the reported in vitro data as described previously.<xref rid="cts13164-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> It was reported that within the concentration range of 0–1000 pg/ml, concentration‐response profile of IL‐6 induction effect on CYP1A2 was bell‐shaped with peak effect reached at IL‐6 level of 100 pg/ml. Therefore, the data of the IL‐6 less than 100 pg/ml portion were used to calculate the regulation parameters.<xref rid="cts13164-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p><p>In patients with cancer‐IMID, cancer induced CYPs reductions (20% for CYP1A2, 30% for CYP3A4, and 33% for CYP2C19 in the liver and 30% for CYP3A4 and 33% for CYP2C19 in the intestines) were incorporated as the baseline condition and additional modulation effect from IMIDs were assumed to assess the potential total TP‐DI in such comorbidity populations.<xref rid="cts13164-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Hepatic (CYP1A2, 3A4, and 2C19) and intestinal (CYP3A4 and 2C19) basal CYP activities in patients with cancer only were calculated as below (Equation <xref rid="cts13164-disp-0002" ref-type="disp-formula">2</xref>):<disp-formula id="cts13164-disp-0002">
+<label>(2)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="block"><mml:mrow><mml:msub><mml:mtext>Enz</mml:mtext><mml:mrow><mml:mtext>Liver/GI‐basal‐Cancer</mml:mtext><mml:mo>,</mml:mo><mml:mi>X</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>‐</mml:mo><mml:mi>x</mml:mi><mml:mo>%</mml:mo><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>·</mml:mo><mml:msub><mml:mtext>Enz</mml:mtext><mml:mrow><mml:mtext>Liver</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>GI‐basal‐HV</mml:mtext><mml:mo>,</mml:mo><mml:mi>X</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>
+</disp-formula>where, Enz<sub>liver/GI‐basal‐Cancer, X</sub> is the hepatic or intestinal basal activity in patients with cancer only for enzyme X (X = CYP1A2, CYP3A4, or CYP2C19); x% is the cancer‐induced reduction for enzyme X (20% for CYP1A2, 30% for CYP1A4, and 33% for CYP2C19). Finally, the modulation effects of further elevated IL‐6 resulted from IMIDs on hepatic and intestinal CYPs in patients with cancer‐IMID were modeled, as described in Equation <xref rid="cts13164-disp-0001" ref-type="disp-formula">1</xref> with the adjusted hepatic or intestinal basal CYP levels.</p><p>Of note, one assumption in this study is that in the absence of in vitro data describing the <italic toggle="yes">E<sub>min</sub>
+</italic> and EC<sub>50</sub> in enterocytes, it was assumed that the same modulation effects of systemic IL‐6 on the liver and intestines.<xref rid="cts13164-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> It was further assumed that systemic and local level of IL‐6 have a direct modulation effect on CYPs in the liver and intestines, as described in Equation <xref rid="cts13164-disp-0001" ref-type="disp-formula">1</xref>. Moreover, the impact of IL‐6 on other enzymes or transporters was not considered in the current study.</p></sec><sec id="cts13164-sec-0007"><title>Validation and application of PBPK model to assess TP‐DIs propensity between TPs and ‐CYP substrates</title><p>The previously developed PBPK model in patients with RA had been validated using the observed data from clinical TP‐DI studies, and the PBPK model predictions were aligned with the observed TP‐DI between tocilizumab and simvastatin, omeprazole, respectively.<xref rid="cts13164-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cts13164-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> Since that publication, additional clinical TP‐DI data related to IL‐6 modulation on CYPs in patients with RA have become available. Thus, we further validated the PBPK model by comparing the predicted changes of simvastatin exposure metrics after the treatment of an anti‐IL‐6R mAb sarilumab with the observed data from the clinical TP‐DI study in patients with RA.<xref rid="cts13164-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>
+</p><p>To assess the IL‐6‐mediated TP‐DI effect in other IMIDs and patients with cancer‐IMIDs, PK profiles of CYP substrates before and after anti‐IL‐6 treatment in the developed virtual patient populations were simulated. Each scenario was simulated with 10 trials containing 10 subjects each with CYP substrates oral administration at the SS of regulatory effect of IL‐6 on the hepatic CYPs. The dose levels of CYP substrates used in the simulations were 0.03 mg/kg midazolam, 10 mg warfarin (plus 10 mg vitamin K), 20 mg omeprazole, and 100 mg caffeine.<xref rid="cts13164-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Interindividual variabilities of model parameters were incorporated in this PBPK model using the SimCYP simulator default values. C<sub>max</sub> and AUC of simulated drugs’ PK profiles and 90% confidence intervals (CIs) of simulated values were calculated and summarized.</p></sec><sec id="cts13164-sec-0008"><title>Classification of IL‐6 impact on TP‐DIs</title><p>According to the FDA DDI guidance,<xref rid="cts13164-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> a CYP modulator can be classified based on its magnitude of effect on an index CYP substrate: a weak, moderate, and strong inducer decreases the AUC of a CYP substrate by 20% to 50%, 50% to 80% and above 80%, respectively; whereas a weak, moderate, and strong inhibitor increases the AUC by 1.25‐ to 2‐, 2‐ to 5‐, and above fivefolds, respectively. Anti‐IL‐6 treatment alleviates the inhibitory effects of IL‐6 on CYP3A4, CYP2C9, and CYP2C19 so it acts as a “CYP inducer” in the virtual disease populations. IL‐6 has an inductive effect on CYP1A2 at concentration below 1000 pg/ml, thus anti‐IL‐6 acts as a CYP1A2 inhibitor in the virtual disease population. In order to have a more systemic assessment of modulation effect of IL‐6 level on CYPs activities and potential TP‐DIs by anti‐IL‐6 treatments, simulations at a wide range of baseline systemic IL‐6 concentration (from 10 to 1000 pg/ml) were performed and the IL‐6 level thresholds corresponding to weak, moderate, and strong impact were identified.</p></sec></sec><sec sec-type="results" id="cts13164-sec-0009"><title>RESULTS</title><sec id="cts13164-sec-0010"><title>Additional validation of the PBPK model in RA</title><p>The previously developed PBPK model was able to adequately capture the impact of sirukumab treatment on systemic exposure of several CYP isozyme substrates in patients with RA and the model was successfully validated by comparing the model predictions to the reported PK data of simvastatin and omeprazole, before and after treatment of IL‐6R mAb tocilizumab in patients with RA.<xref rid="cts13164-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> In the current study, further model validation was conducted using data from a recent clinical study on the effect of sarilumab treatment on CYP substrates in patients with RA.<xref rid="cts13164-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> The observed AUC (mean ± SD) of simvastatin before sarilumab treatment was 82.7 ± 52.8 ng⋅h/ml and the value after sarilumab treatment was 47.9 ± 33.4 ng⋅h/ml, so the sarilumab treatment resulted in 42% decrease in simvastatin AUC (90% CI: 37%–53%). The model predicted simvastatin AUC was 95.7 ± 85.9 at IL‐6 level of 50 pg/ml (representing patients with RA before sarilumab treatment) and 48.9 ± 42.7 ng⋅h/ml at IL‐6 level of 0 pg/ml (representing patients with RA after sarilumab treatment). The predicted AUC of simvastatin was decreased by 49% (90% CI 42%–58%) after sarilumab treatment. Overall, the PBPK model predicted TP‐DI magnitude of effect following sarilumab treatment was consistent with the observed one. This additional validation, together with the previously reported model validation using the data from the sirukumab and tocilizumab studies, have demonstrated the utility of PBPK model in predicting disease‐mediated TP‐DIs in patients with IMID with elevated IL‐6 level.</p></sec><sec id="cts13164-sec-0011"><title>Analysis of IL‐6 concentration in disease populations</title><p>The systemic IL‐6 levels collected from previous studies of various IMID populations were highly varied, as show in Figure <xref rid="cts13164-fig-0001" ref-type="fig">1</xref>, ranging from 3.6 to 30.2 pg/ml in SLE, 1.3 to 85 pg/ml in UC, 4.25 to 47 pg/ml in CD, and 2.1 to 187 pg/ml in T1D.<xref rid="cts13164-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="cts13164-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="cts13164-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="cts13164-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="cts13164-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="cts13164-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="cts13164-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="cts13164-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="cts13164-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="cts13164-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="cts13164-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="cts13164-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="cts13164-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="cts13164-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="cts13164-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="cts13164-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="cts13164-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="cts13164-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="cts13164-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="cts13164-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="cts13164-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="cts13164-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="cts13164-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="cts13164-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="cts13164-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="cts13164-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="cts13164-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> The calculated mean ± SD of systemic IL‐6 levels were 12.7 ± 8.5, 23.9 ± 27.6, 20.6 ± 19.8, 56.7 ± 75.6 pg/ml in SLE, UC, CD, and T1D patient populations, respectively. The reported local GI tissue IL‐6 concentration in patients with UC and CD were also highly variable: 917–5885 pg/ml for UC and 704–7649 pg/ml for CD based on patient‐derived cell culture.<xref rid="cts13164-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="cts13164-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="cts13164-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="cts13164-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="cts13164-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="cts13164-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> The average local IL‐6 levels (3171 pg/ml for UC and 2674 pg/ml for CD) were used for assessing the additional regulation effect from high local GI IL‐6 level in the IBD patient populations.</p><fig position="float" fig-type="FIGURE" id="cts13164-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Pooled analysis of systemic interleukin (IL)‐6 levels. Systemic interleukin (IL)‐6 levels in patients with systemic lupus erythematosus (SLE) (a); patients with ulcerative colitis (UC) (b); patients with Crohn’s disease (CD) (c); patients with type 1 diabetes (T1D) (d); and also tissue IL‐6 levels in patients with UC (e) and patients with CD (f) based on published literature. Dotted lines represent the average systemic IL‐6 levels in SLE (12.7 ± 8.5 pg/ml), UC (23.9 ± 27.6 pg/ml), CD (20.6 ± 19.8 pg/ml), T1D (56.7 ± 75.6 pg/ml), and average tissue IL‐6 level in UC (3171 ± 1471 pg/ml), CD (2674 ± 1279 pg/ml) and the sample size of local IL‐6 studies were smaller than 25 patients. Symbols with SD bars represent observed population mean ± SD data from literatures</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CTS-15-464-g002.jpg"><?image-name CTS-15-464-g002.jpg?><?image-size 79815?><?image-md5 f7d5cd72a33b0deac4328a8fd1ef0ad3?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 738?><?image-original-width 1064?><?image-scaled-height 492?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/512f/8841519/f7d5cd72a33b/CTS-15-464-g002.jpg?><?thumb-name CTS-15-464-g002.gif?><?thumb-size 12930?><?thumb-md5 72a2981ef5397169b117cc359896a22c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 115?><?thumb-cloudpmc-urn urn:cdn:blobs/512f/8841519/72a2981ef539/CTS-15-464-g002.gif?></graphic></fig></sec><sec id="cts13164-sec-0012"><title>CYP enzymatic activity in patients with IMID, cancer/cancer‐IMID</title><p>The active hepatic CYP enzymatic activities in various IMIDs were simulated using SimCYP and were reflected by CYP abundances. The systemic (SLE and T1D) or local (UC and CD) IL‐6 levels were used to calculate the intestinal CYP abundances, which were then incorporated with specific systemic IL‐6 regulated hepatic CYP activity to assess the overall TP‐DIs in different IMID patient populations. The calculated intestinal CYP abundance in the healthy subject virtual population and in SLE, T1D, UC, and CD patient virtual populations are summarized in Table <xref rid="cts13164-sup-0002" ref-type="supplementary-material">S1</xref>. As shown in Table <xref rid="cts13164-sup-0002" ref-type="supplementary-material">S1</xref>, the high local IL‐6 levels in patients with UC and CD were predicted to result in extra inhibition effect on the abundances of CYP2C9, 2C19, and 3A4/5 in intestines in patients with UC and CD. The intestinal CYP3A4 abundance was predicted to decrease to 1.9 and 3.1 pmol/mg (pmols CYP isoform per mg of microsomal protein) in patients with UC and CD, respectively, compared to 66.2 pmol/mg in healthy subjects and 49.3 pmol/mg in patients with UC/CD when only inhibitory effect from systemic IL‐6 is considered.</p><p>In cancer‐IMID virtual patient populations, the adjusted basal hepatic and intestinal CYP abundances in the cancer‐only patient population and calculated intestinal CYP abundances in different cancer‐IMID patient populations are listed in Table <xref rid="cts13164-sup-0002" ref-type="supplementary-material">S2</xref>. As shown in Table <xref rid="cts13164-sup-0002" ref-type="supplementary-material">S2</xref>, the comorbidity may result in further inhibition in CYP3A4 and CYP2C19 abundances.</p></sec><sec id="cts13164-sec-0013"><title>CYP substrates PK assessment in IMIDs and cancer‐IMIDs before versus after anti‐IL‐6 treatment</title><p>The PBPK model assessed the CYPs activities before‐ and after‐ anti‐IL‐6 treatment in the IMID patient populations by comparing the predicted PK profiles of CYP substrates in the presence of elevated systemic and/or local GI IL‐6 levels and in the absence of IL‐6 (represented by the profiles of healthy subjects). The model predicted plasma profiles for midazolam, omeprazole, S‐warfarin, and caffeine before and after anti‐IL‐6 treatment in SLE, UC/CD, and T1D patient populations are shown in Figure <xref rid="cts13164-fig-0002" ref-type="fig">2</xref>. The model predicted changes in drug exposures of the CYP substrates in different disease populations are listed in Table <xref rid="cts13164-tbl-0001" ref-type="table">1</xref>. As IL‐6 acts as an inhibitor for CYP3A4, CYP2C9, and CYP2C19 expression and activities, the simulation results suggested that the anti‐IL‐6 treatment may result in up to 28% and 46% decreases in midazolam C<sub>max</sub> and AUC, respectively. The model also predicted increases in S‐warfarin and omeprazole exposures, but to less extents, after anti‐IL‐6 treatment. For CYP1A2, IL‐6 acts as a mild inducer at IL‐6 level up to 1000 pg/ml, which is much higher than the systemic IL‐6 levels in these IMIDs. As expected, the model predicted up to 10% and 35% increases in caffeine C<sub>max</sub> and AUC, respectively, after anti‐IL‐6 treatment. The model predicted plasma profiles of the substrates in patients with CD with and without considering high local GI IL‐6 concentrations are displayed in Figure <xref rid="cts13164-fig-0003" ref-type="fig">3a</xref> and the corresponding exposure changes are listed in Table <xref rid="cts13164-tbl-0002" ref-type="table">2</xref>. The elevated IL‐6 levels at local GI tissues were predicted to contribute additional 11~16% decrease in AUC and C<sub>max</sub> of the CYP substrates compared to the situation where only systemic IL‐6 impact is considered.</p><fig position="float" fig-type="FIGURE" id="cts13164-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Predicted median plasma concentration profiles for CYP enzyme substrates in patients with IMID before and after anti‐IL‐6 treatment. Predicted median plasma concentration‐time profiles for midazolam, omeprazole, S‐warfarin, and caffeine in patients with SLE, UC/CD, and T1D before anti‐IL‐6 treatment, and in healthy subjects (after anti‐IL‐6 treatment condition). CD, Crohn’s disease; IMID, immune‐mediated inflammatory disease; SLE, systemic lupus erythematosus; T1D, type 1 diabetes; UC, ulcerative colitis</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CTS-15-464-g003.jpg"><?image-name CTS-15-464-g003.jpg?><?image-size 78138?><?image-md5 3f453291749c015ae1384ddb694b4722?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1000?><?image-original-width 1064?><?image-scaled-height 666?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/512f/8841519/3f453291749c/CTS-15-464-g003.jpg?><?thumb-name CTS-15-464-g003.gif?><?thumb-size 12567?><?thumb-md5 9ab0e733ae32cbbcf9051b8d1d23b7e7?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 94?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/512f/8841519/9ab0e733ae32/CTS-15-464-g003.gif?></graphic></fig><table-wrap position="float" id="cts13164-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>The C<sub>max</sub> and AUC changes of midazolam, omeprazole, S‐warfarin, and caffeine in patients with SLE, UC/CD, and T1D after anti‐IL‐6 treatment</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Substrates</th><th align="left" rowspan="1" colspan="1">
+<p>∆C<sub>max</sub> %</p>
+<p>12 pg/ml</p>
+<p>SLE patients</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆C<sub>max</sub> %</p>
+<p>20 pg/ml</p>
+<p>UC/CD patients</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆C<sub>max</sub> %</p>
+<p>60 pg/ml</p>
+<p>T1D patients</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆AUC %</p>
+<p>12 pg/ml</p>
+<p>SLE patients</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆AUC %</p>
+<p>20 pg/ml</p>
+<p>UC/CD patients</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆AUC %</p>
+<p>60 pg/ml</p>
+<p>T1D patients</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Caffeine (CYP1A2)</td><td align="left" rowspan="1" colspan="1">8% ↑</td><td align="left" rowspan="1" colspan="1">9% ↑</td><td align="left" rowspan="1" colspan="1">10% ↑</td><td align="left" rowspan="1" colspan="1">27% ↑</td><td align="left" rowspan="1" colspan="1">31% ↑</td><td align="left" rowspan="1" colspan="1">35% ↑</td></tr><tr><td align="left" rowspan="1" colspan="1">S‐Warfarin (CYP2C9)</td><td align="left" rowspan="1" colspan="1">3% ↓</td><td align="left" rowspan="1" colspan="1">3% ↓</td><td align="left" rowspan="1" colspan="1">3% ↓</td><td align="left" rowspan="1" colspan="1">16% ↓</td><td align="left" rowspan="1" colspan="1">20% ↓</td><td align="left" rowspan="1" colspan="1">40% ↓</td></tr><tr><td align="left" rowspan="1" colspan="1">Omeprazole (CYP2C19)</td><td align="left" rowspan="1" colspan="1">13% ↓</td><td align="left" rowspan="1" colspan="1">16% ↓</td><td align="left" rowspan="1" colspan="1">24% ↓</td><td align="left" rowspan="1" colspan="1">18% ↓</td><td align="left" rowspan="1" colspan="1">22% ↓</td><td align="left" rowspan="1" colspan="1">42% ↓</td></tr><tr><td align="left" rowspan="1" colspan="1">Midazolam (CYP3A)</td><td align="left" rowspan="1" colspan="1">14% ↓</td><td align="left" rowspan="1" colspan="1">18% ↓</td><td align="left" rowspan="1" colspan="1">28% ↓</td><td align="left" rowspan="1" colspan="1">20% ↓</td><td align="left" rowspan="1" colspan="1">28% ↓</td><td align="left" rowspan="1" colspan="1">46% ↓</td></tr></tbody></table><table-wrap-foot id="cts13164-ntgp-0002"><title>Note</title><fn id="cts13164-note-0002"><p>∆C<sub>max</sub> or ∆AUC = C<sub>max</sub> or AUC post‐anti‐IL‐6 treatment/C<sub>max</sub> or AUC pre‐anti‐IL‐6 treatment when C<sub>max</sub> or AUC increases after anti‐IL‐6 treatment.</p></fn><fn id="cts13164-note-0003"><p>∆C<sub>max</sub> or ∆AUC = 1 – (C<sub>max</sub> or AUC post‐anti‐IL‐6 treatment/C<sub>max</sub> or AUC pre‐anti‐IL‐6 treatment) when C<sub>max</sub> or AUC decreases after anti‐IL‐6 treatment.</p></fn><fn id="cts13164-note-0004"><p>Abbreviations: AUC, area under plasma concentration versus time curves; CD, Crohn’s disease; C<sub>max</sub>, maximum plasma concentration; SLE, systemic lupus erythematosus; T1D, type 1 diabetes (T1D); UC, ulcerative colitis.</p></fn><fn id="cts13164-note-0005"><p>↑: Increase in exposure metrics after anti‐IL‐6 treatment; ↓: Decrease in exposure metrics after anti‐IL‐6 treatment.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="cts13164-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Predicted median plasma concentration profiles for CYP substrate compounds. Predicted median plasma concentration‐time profiles for midazolam, omeprazole, and S‐warfarin in patients with CD before versus after anti‐IL‐6 treatment (a). The solid lines represent patients with CD involving systemic IL‐6 only before anti‐IL‐6 treatment; the dotted lines represent patients with CD involving systemic and local IL‐6 before anti‐IL‐6 treatment; and the dashed lines represent healthy subjects (after anti‐IL‐6 treatment condition). Predicted median plasma concentration‐time profiles for midazolam, omeprazole, and caffeine in T1D/cancer‐T1D before versus after anti‐IL‐6 treatment (b). The solid lines represent T1D disease only before anti‐IL‐6 treatment; the dotted lines represent patients with cancer‐T1D before anti‐IL‐6 treatment; the dashed lines represent healthy subjects (after anti‐IL‐6 treatment condition). CD, Crohn’s disease; T1D, type 1 diabetes</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CTS-15-464-g001.jpg"><?image-name CTS-15-464-g001.jpg?><?image-size 67263?><?image-md5 ca26e8d9797715e7aa59f341f12cd0af?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 734?><?image-original-width 1064?><?image-scaled-height 489?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/512f/8841519/ca26e8d97977/CTS-15-464-g001.jpg?><?thumb-name CTS-15-464-g001.gif?><?thumb-size 11753?><?thumb-md5 181911c4dd0069214422682403d6f297?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 115?><?thumb-cloudpmc-urn urn:cdn:blobs/512f/8841519/181911c4dd00/CTS-15-464-g001.gif?></graphic></fig><table-wrap position="float" id="cts13164-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>The C<sub>max</sub> and AUC changes for midazolam, omeprazole, S‐warfarin, and caffeine in patients with UC and CD with or without local IL‐6 incorporation after anti‐IL‐6 treatment</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Substrates</th><th align="left" rowspan="1" colspan="1">
+<p>∆C<sub>max</sub> %</p>
+<p>UC/CD systemic IL‐6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆C<sub>max</sub> %</p>
+<p>CD: systemic + local GI IL‐6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆C<sub>max</sub> %</p>
+<p>UC: systemic + local GI IL‐6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆AUC %</p>
+<p>UC/CD systemic IL‐6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆AUC %</p>
+<p>CD: systemic + local GI IL‐6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆AUC %</p>
+<p>UC: systemic + local GI IL‐6</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Caffeine (CYP1A2)</td><td align="left" rowspan="1" colspan="1">9% ↑</td><td align="left" rowspan="1" colspan="1">9% ↑</td><td align="left" rowspan="1" colspan="1">9% ↑</td><td align="left" rowspan="1" colspan="1">31% ↑</td><td align="left" rowspan="1" colspan="1">31% ↑</td><td align="left" rowspan="1" colspan="1">31% ↑</td></tr><tr><td align="left" rowspan="1" colspan="1">S‐Warfarin (CYP2C9)</td><td align="left" rowspan="1" colspan="1">3% ↓</td><td align="left" rowspan="1" colspan="1">10% ↓</td><td align="left" rowspan="1" colspan="1">11% ↓</td><td align="left" rowspan="1" colspan="1">25% ↓</td><td align="left" rowspan="1" colspan="1">28% ↓</td><td align="left" rowspan="1" colspan="1">28% ↓</td></tr><tr><td align="left" rowspan="1" colspan="1">Omeprazole (CYP2C19)</td><td align="left" rowspan="1" colspan="1">16% ↓</td><td align="left" rowspan="1" colspan="1">23% ↓</td><td align="left" rowspan="1" colspan="1">23% ↓</td><td align="left" rowspan="1" colspan="1">28% ↓</td><td align="left" rowspan="1" colspan="1">32% ↓</td><td align="left" rowspan="1" colspan="1">33% ↓</td></tr><tr><td align="left" rowspan="1" colspan="1">Midazolam (CYP3A)</td><td align="left" rowspan="1" colspan="1">18% ↓</td><td align="left" rowspan="1" colspan="1">33% ↓</td><td align="left" rowspan="1" colspan="1">34% ↓</td><td align="left" rowspan="1" colspan="1">28% ↓</td><td align="left" rowspan="1" colspan="1">39% ↓</td><td align="left" rowspan="1" colspan="1">39% ↓</td></tr></tbody></table><table-wrap-foot id="cts13164-ntgp-0003"><title>Note</title><fn id="cts13164-note-0006"><p>∆C<sub>max</sub> or ∆AUC = C<sub>max</sub> or AUC post‐anti‐IL‐6 treatment/C<sub>max</sub> or AUC pre‐anti‐IL‐6 treatment when C<sub>max</sub> or AUC increases after anti‐IL‐6 treatment.</p></fn><fn id="cts13164-note-0007"><p>∆C<sub>max</sub> or ∆AUC = 1 – (C<sub>max</sub> or AUC post‐anti‐IL‐6 treatment/C<sub>max</sub> or AUC pre‐anti‐IL‐6 treatment) when C<sub>max</sub> or AUC decreases after anti‐IL‐6 treatment.</p></fn><fn id="cts13164-note-0008"><p>Abbreviations: AUC, area under plasma concentration versus time curves; CD, Crohn’s disease; C<sub>max</sub>, peak plasma concentration; GI, gastrointestinal; UC, ulcerative colitis.</p></fn><fn id="cts13164-note-0009"><p>↑: Increase in exposure metrics after anti‐IL‐6 treatment; ↓: Decrease in exposure metrics after anti‐IL‐6 treatment.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The model predicted plasma profiles of the CYP substrates in healthy subjects, patients with T1D only, and patients with T1D‐cancer comorbidity before and after anti‐IL‐6 treatment are displayed in Figure <xref rid="cts13164-fig-0003" ref-type="fig">3b</xref>. The predicted exposure changes of the CYP substrates in different IMID‐cancer comorbidity patient populations are listed in Table <xref rid="cts13164-tbl-0003" ref-type="table">3</xref>. Compared with patients with IMIDs‐only, patients with cancer‐IMID manifested further decrease in systemic exposures of midazolam and omeprazole. For instance, anti‐IL‐6 treatment was predicted to result in 43% and 65% decreases in midazolam C<sub>max</sub> and AUC, respectively, in T1D‐cancer comorbidity population compared to 28% and 46% decreases in C<sub>max</sub> and AUC, respectively, in the T1D only patient population. Of note, in patients with cancer‐IMID, the inductive effect of elevated IL‐6 level on CYP1A2 was predicted to be offset by the cancer‐mediated downregulation effect on CYP1A2, as shown in Table <xref rid="cts13164-tbl-0003" ref-type="table">3</xref>.</p><table-wrap position="float" id="cts13164-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>The C<sub>max</sub> and AUC changes for midazolam, omeprazole, and caffeine in patients with cancer + SLE, cancer + UC/CD, and cancer + T1D patients after treatment</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Substrates</th><th align="left" rowspan="1" colspan="1">
+<p>∆C<sub>max</sub> %</p>
+<p>Cancer + SLE patients</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆C<sub>max</sub> %</p>
+<p>Cancer + UC/CD patients</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆C<sub>max</sub> %</p>
+<p>Cancer + T1D patients</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆AUC %</p>
+<p>Cancer + SLE patients</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆AUC %</p>
+<p>Cancer + UC/CD patients</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>∆AUC %</p>
+<p>Cancer + T1D patients</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Caffeine (CYP1A2)</td><td align="left" rowspan="1" colspan="1">5% ↓</td><td align="left" rowspan="1" colspan="1">6% ↓</td><td align="left" rowspan="1" colspan="1">7% ↓</td><td align="left" rowspan="1" colspan="1">2% ↓</td><td align="left" rowspan="1" colspan="1">5% ↓</td><td align="left" rowspan="1" colspan="1">9% ↓</td></tr><tr><td align="left" rowspan="1" colspan="1">Omeprazole (CYP2C19)</td><td align="left" rowspan="1" colspan="1">27% ↓</td><td align="left" rowspan="1" colspan="1">29% ↓</td><td align="left" rowspan="1" colspan="1">35% ↓</td><td align="left" rowspan="1" colspan="1">47% ↓</td><td align="left" rowspan="1" colspan="1">51% ↓</td><td align="left" rowspan="1" colspan="1">60% ↓</td></tr><tr><td align="left" rowspan="1" colspan="1">Midazolam (CYP3A)</td><td align="left" rowspan="1" colspan="1">32% ↓</td><td align="left" rowspan="1" colspan="1">35% ↓</td><td align="left" rowspan="1" colspan="1">43% ↓</td><td align="left" rowspan="1" colspan="1">50% ↓</td><td align="left" rowspan="1" colspan="1">54% ↓</td><td align="left" rowspan="1" colspan="1">65% ↓</td></tr></tbody></table><table-wrap-foot id="cts13164-ntgp-0004"><title>Note</title><fn id="cts13164-note-0010"><p>∆C<sub>max</sub> or ∆AUC = C<sub>max</sub> or AUC post‐anti‐IL‐6 treatment/C<sub>max</sub> or AUC pre‐anti‐IL‐6 treatment when C<sub>max</sub> or AUC increases after anti‐IL‐6 treatment.</p></fn><fn id="cts13164-note-0011"><p>∆C<sub>max</sub> or ∆AUC =1‐(C<sub>max</sub> or AUC post‐anti‐IL‐6 treatment/C<sub>max</sub> or AUC pre‐anti‐IL‐6 treatment) when C<sub>max</sub> or AUC decreases after anti‐IL‐6 treatment.</p></fn><fn id="cts13164-note-0012"><p>Abbreviations: AUC, area under plasma concentration versus time curves; CD, Crohn’s disease; C<sub>max</sub>, maximum plasma concentration; SLE, systemic lupus erythematosus; T1D, type 1 diabetes; UC, ulcerative colitis.</p></fn><fn id="cts13164-note-0013"><p>↑: Increase in exposure metrics after anti‐IL‐6 treatment; ↓: Decrease in exposure metrics after anti‐IL‐6 treatment.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cts13164-sec-0014"><title>Classification of IL‐6 impact on TP‐DIs</title><p>We have explored how disease‐elevated IL‐6 and anti‐IL‐6 TPs would modulate CYP activities in certain IMIDs and cancer‐IMIDs. To provide more systemic assessment of regulation effect of IL‐6 level on CYPs activities and potential TP‐DIs by anti‐IL‐6/6R treatments, simulations at a wide range of IL‐6 concentration were performed. The identified IL‐6 level cutoff values that were predicted to result in potential differential DDI effects during anti‐IL‐6/6R treatment are listed in Table <xref rid="cts13164-tbl-0004" ref-type="table">4</xref>. At baseline, IL‐6 level around 20 pg/ml or below, such as in patients with SLE, anti‐IL‐6/6R treatment was predicted to have minimum regulation effect on CYP3A4, CYP2C9, and CYP2C19. At higher baseline IL‐6 level but lower than 89, 81, or 69 pg/ml, anti‐IL‐6/6R treatment was predicted to act as a weak inducer for CYP3A4, CYP2C9, and CYP2C19, respectively. At IL‐6 level in the range of 89–279, 81–264, and 69–197 pg/ml, anti‐IL‐6/6R treatment was predicted to have moderate inductive effect on the three CYPs. At even higher IL‐6 levels, anti‐IL‐6 treatment may result in strong inductive effect on the CYPs. For CYP1A2, at IL‐6 levels below 1000 pg/ml, no or weak inhibitory effect was predicted during anti‐IL‐6 treatment. For this exercise, only systemic IL‐6 resulted CYP regulation effect was considered. Therefore, based on our current simulations, for certain IMIDs with much higher local IL‐6 level compared to systemic IL‐6 level, both systemic and local IL‐6 concentrations need to be taken into consideration for potential TP‐DIs.</p><table-wrap position="float" id="cts13164-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>IL‐6 threshold levels prediction for anti‐IL‐6 therapeutic proteins to cause significant CYP‐mediated TP‐DI based on FDA DDI classification</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Substrate</th><th align="left" rowspan="1" colspan="1">
+<p>IL‐6 level (pg/ml)</p>
+<p>Bioequivalence</p>
+<p>AUC ↓&lt;20%</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>IL‐6 level (pg/ml)</p>
+<p>Weak inducer</p>
+<p>20%≤AUC ↓&lt;50%</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>IL‐6 level (pg/ml)</p>
+<p>Moderate inducer</p>
+<p>50%≤UC ↓&lt;80%</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>IL‐6 level (pg/ml)</p>
+<p>Strong inducer</p>
+<p>AUC ↓≥80%</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Omeprazole (CYP2C19)</td><td align="left" rowspan="1" colspan="1">&lt;19</td><td align="left" rowspan="1" colspan="1">19–89</td><td align="left" rowspan="1" colspan="1">89–279</td><td align="left" rowspan="1" colspan="1">&gt;279</td></tr><tr><td align="left" rowspan="1" colspan="1">S‐warfarin (CYP2C9)</td><td align="left" rowspan="1" colspan="1">&lt;21</td><td align="left" rowspan="1" colspan="1">21–81</td><td align="left" rowspan="1" colspan="1">81–264</td><td align="left" rowspan="1" colspan="1">&gt;264</td></tr><tr><td align="left" rowspan="1" colspan="1">Midazolam (CYP3A)</td><td align="left" rowspan="1" colspan="1">&lt;12</td><td align="left" rowspan="1" colspan="1">12–69</td><td align="left" rowspan="1" colspan="1">69–197</td><td align="left" rowspan="1" colspan="1">&gt;197</td></tr><tr><td align="left" rowspan="1" colspan="1">Substrate</td><td align="left" rowspan="1" colspan="1">
+<p>IL−6 level (pg/ml)</p>
+<p>Bioequivalence</p>
+<p>AUC↑&lt;1.25‐fold</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>IL−6 level (pg/ml)</p>
+<p>Weak inhibitor</p>
+<p>1.25&lt;AUC↑&lt;2‐fold</p>
+</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Caffeine (CYP1A2)</td><td align="left" rowspan="1" colspan="1">&lt;10</td><td align="left" rowspan="1" colspan="1">10–1000</td><td align="left" rowspan="1" colspan="1">—</td><td align="left" rowspan="1" colspan="1">—</td></tr></tbody></table><table-wrap-foot id="cts13164-ntgp-0005"><fn id="cts13164-note-0014"><p>Abbreviations: AUC, area under plasma concentration versus time curves; DDI, drug‐drug interaction; FDA, US Food and Drug Administration; TP‐DI, therapeutic protein drug interaction; UC, ulcerative colitis.</p></fn><fn id="cts13164-note-0015"><p>↑: Increase in exposure metrics after anti‐IL‐6 treatment; ↓: Decrease in exposure metrics after anti‐IL‐6 treatment.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec sec-type="discussion" id="cts13164-sec-0015"><title>DISCUSSION</title><p>A previously developed PBPK platform for predicting TP‐DIs in patients with RA was further validated using additional clinical data and expanded to assess the potential TP‐DIs during anti‐IL‐6 treatment in several IMIDs, including SLE, UC, CD, T1D, and cancer‐IMID comorbidity.</p><p>As it has been discussed previously by Jiang et al., the accuracy of IL‐6 level in disease populations is critical for predicting the TP‐DIs using this PBPK modeling approach, because IL‐6 is assumed to be the driving force of multiple hepatic and intestinal CYPs modulations in vivo and it in turn influences the disease‐mediated TP‐DIs between the cytokine‐suppressing TPs and CYP substrates. One thing should be noted that IL‐6 binds to soluble and transmembrane IL‐6R and it is the IL‐6/IL‐6R complex that induces homodimerization of glycoprotein 130 (gp130), resulting in the activation of the signaling pathway which leads to certain CYP modulation.<xref rid="cts13164-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> Level of IL‐6 is a measurable marker indicating the activation of this pathway instead of the actual entity that regulates the CYPs by itself. Therefore, in this study, treatments neutralizing either IL‐6 or IL‐6R are assumed to have the same modulation effect on CYPs as both treatments block the IL‐6 signaling pathway (Figure <xref rid="cts13164-sup-0001" ref-type="supplementary-material">S1</xref>). Indeed, the PBPK model originally developed using clinical TP‐DI data of sirukumab (against IL‐6) in patients with RA was able to predict the TP‐DI effects of tocilizumab and sarilumab (against IL‐6R), in the same disease population.<xref rid="cts13164-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="cts13164-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>, <xref rid="cts13164-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>
+</p><p>As shown in Figure <xref rid="cts13164-fig-0001" ref-type="fig">1</xref>, the reported systemic and local tissue IL‐6 levels are highly variable in a certain disease and more so across different IMIDs. Among SLE, UC, CD, and T1D, SLE has overall the lowest IL‐6 level with the averaged mean value of 12 pg/ml and the highest reported mean value less than 30 pg/ml. Based on the simulation results and identified IL‐6 cutoffs for different magnitude of potential TP‐DIs, anti‐IL‐6 treatment is unlikely to result in clinically meaningful TP‐DIs in patients with SLE. Reported IL‐6 level in T1D ranges from less than 10 pg/ml to around 200 pg/ml, results in the highest averaged mean value among all the IMIDs in this study. The PBPK model predicts more than 30% changes in AUCs of the substrates of all four CYPs including CYP3A4, CYP2C9, CYP2C19, and CYP1A2. For UC and CD, the averaged mean values of systemic IL‐6 levels are around 20 pg/ml and were predicted to have weak CYP regulation effect if not considering high IL‐6 levels in local tissue. The reported local GI tissue IL‐6 concentrations in patients with UC and CD are much higher than the systemic IL‐6 levels. Elevated IL‐6 mRNA in intestine mucosa and increased secretion of IL‐6 in colon specimens from patients with IBD patients were reported.<xref rid="cts13164-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> Mahavaram et al. predicted that the AUC of simvastatin decreased to a greater degree when suppression of CYP3A4 was considered both in the liver and intestines compared to the liver alone.<xref rid="cts13164-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> In their study, the simulation results suggest that to achieve the literature reported suppression magnitude of simvastatin AUC, IL‐6 level of 100 pg/ml in the liver and intestine model would be needed, whereas 1000 pg/ml IL‐6 would be needed in the liver only mode. Even at an IL‐6 level of 1000 pg/ml, the effect on maximum plasma concentration (C<sub>max</sub>) was still underestimated when suppression in the intestines was not taken into account.<xref rid="cts13164-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> In our study, modulation effect on both hepatic and intestinal CYPs were incorporated in the model: same inhibitory effect on hepatic and intestinal CYPs by systemic IL‐6 was assumed for SLE and T1D; and modulation effects on intestinal CYPs by local GI IL‐6 were incorporated for CD and UC. At the average local GI IL‐6 concentrations used for simulations in this study, the modulation effect on the intestinal CYPs were predicted to approach plateau. The high local GI IL‐6 levels were predicted to contribute additionally to the potential CYP modulation effect. The predicted drops in C<sub>max</sub> and AUCs of midazolam after anti‐IL‐6 treatment changed from 18% and 28% to 28% and 39%, respectively, after considering the additional induction effect from neutralizing IL‐6 in the GI tract. In patients with cancer‐IMID multimorbidity, the actual TP‐DIs from cancer and IL‐6 elevation might likely be much more complicated than the simple additive effect assumed in this study. The predictions in this study serve as a very initial attempt to assess potential effect from multimorbidity and more data and further exploration are needed to improve our understanding on TP‐DIs in these patients with cancer‐IMID.</p><p>In this study and the previously study by Jiang et al., complete blockade of the IL‐6 signaling pathway, including the part mediated by local GI IL‐6, were assumed after anti‐IL‐6/6R treatments (i.e., sirukumab, tocilizumab, and sarilumab). The reported plasma concentration of sirukumab on day 42 after a 300 mg subcutaneous dose is 27.3 nM.<xref rid="cts13164-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Assuming GI tract biodistribution coefficient of 5–10%,<xref rid="cts13164-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> the tissue concentration of sirukumab would reach around 1365–2730 pM, which is still higher than the local IL‐6 concentration and would result in maximum regulation effect (local tissue IL‐6: 3000 pg/ml = 142 pM). Together with high binding affinity between sirukumab and IL‐6 (0.175 pM), a hypothesis of near‐complete neutralization of both systemic and local tissue IL‐6 until day 42 after sirukumab treatment is not unreasonable. There are several therapeutic mAbs targeting other inflammatory cytokines (e.g., IL‐17 and IL‐23) instead of directly targeting IL‐6 pathway have been approved or under development for treating various autoimmune inflammatory disorders. The regulations of these inflammatory cytokines and IL‐6 are related and their pathways interweave through the inflammation pathogenesis.<xref rid="cts13164-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> However, the IL‐6 neutralizing effects by these antibodies not directly targeting IL‐6 or IL‐6R are unlikely to be full blockade and consequently the less TP‐DIs would be expected. Data from two recent TP‐DI clinical trials showed that treatment of guselkumab (an anti‐IL‐23 mAb) or secukinumab (an anti‐IL‐17 mAb) did not influence the systemic exposure of the CYP substrates in patients with psoriasis.<xref rid="cts13164-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>, <xref rid="cts13164-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> The present PBPK model can be easily adapted to assess such TP‐DI potentials by incorporating the disease‐specific baseline IL‐6 level and assuming partial blockade of the IL‐6 signaling pathway.</p><p>This PBPK model approach may serve as conceptual framework and workflow process to evaluate the modulation effect on CYPs in patients by therapeutic modalities, which can significantly result in altered levels of proinflammatory cytokines during the treatment period. In this study, we have demonstrated the potential application of the PBPK modeling approach as an initial screening and assessment tool for TP‐DIs. Same as PBPK for small molecule, this approach is expected to help to design a proper TP‐DI study with the right dosing and sampling time to capture the maximum potential TP‐DI effects in the right patient populations. Further refinement and validation of the model may be possible once additional clinical TP‐DI data from IMID disease populations other than RA become available. Of note, we assessed the potential TP‐DIs in IMIDs which are chronic inflammatory diseases with elevated IL‐6 level at SS. For certain cancer indications, immunotherapies, such as T‐cell redirecting bispecific antibodies (bsAbs), may result in transient high level of IL‐6 along with the cytokine release syndrome (CRS) upon T cell’s activation,<xref rid="cts13164-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> and potentially lead to undesired TP‐DIs. Future work will include prospective evaluation of the CYP‐mediated TP‐DIs caused by such acute IL‐6 elevation.</p></sec><sec sec-type="COI-statement" id="cts13164-sec-0017"><title>CONFLICT OF INTEREST</title><p>Y.C., W.Z., X.M., and H.Z. are current employees and shareholders of Janssen. L.W. was an employee of Janssen at the time this work was done. All other authors declared no competing interests for this work.</p></sec><sec id="cts13164-sec-0018"><title>AUTHOR CONTRIBUTIONS</title><p>L.W., Y.C., W.Z., X.M., and H.Z. wrote the manuscript. L.W., Y.C., and H.Z. designed the research. L.W., Y.C., W.Z., X.M., and H.Z. performed the research. L.W. and Y.C. analyzed the data. L.W., Y.C., and W.Z. contributed new reagents/analytical tools.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cts13164-sup-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Figure S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CTS-15-464-s001.pdf" position="float" orientation="portrait"><?suppdata-name CTS-15-464-s001.pdf?><?suppdata-size 7172554?><?suppdata-md5 fd4672aad6c87897d020673de40c45bc?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:512f/8841519/fd4672aad6c8/CTS-15-464-s001.pdf?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="cts13164-sup-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Table S1‐S2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CTS-15-464-s002.docx" position="float" orientation="portrait"><?suppdata-name CTS-15-464-s002.docx?><?suppdata-size 20359?><?suppdata-md5 151b76f3a188a7c8af8eb6726255c2c2?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:512f/8841519/151b76f3a188/CTS-15-464-s002.docx?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cts13164-sec-0016"><title>ACKNOWLEDGEMENTS</title><p>The authors thank Dr. Xiling Jiang for her initial work on this PBPK model.</p></ack><ref-list content-type="cited-references" id="cts13164-bibl-0001"><title>REFERENCES</title><ref id="cts13164-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cts13164-cit-0001">
+<string-name name-style="western">
+<surname>Bodeman</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dzierlenga</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tally</surname>
+<given-names>CM</given-names>
+</string-name>, et al. <article-title>Differential regulation of hepatic organic cation transporter 1, organic anion‐transporting polypeptide 1a4, bile‐salt export pump, and multidrug resistance‐associated protein 2 transporter expression in lymphocyte‐deficient mice associates with interleukin‐6 production</article-title>. <source>J Pharmacol Exp Ther</source>. <year>2013</year>;<volume>347</volume>:<fpage>136</fpage>‐<lpage>144</lpage>.<pub-id pub-id-type="pmid">23929842</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/jpet.113.205369</pub-id><pub-id pub-id-type="pmcid">PMC3781416</pub-id></mixed-citation></ref><ref id="cts13164-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cts13164-cit-0002">
+<string-name name-style="western">
+<surname>Morgan</surname>
+<given-names>ET</given-names>
+</string-name>. <article-title>Impact of infectious and inflammatory disease on cytochrome P450‐mediated drug metabolism and pharmacokinetics</article-title>. <source>Clin Pharmacol Ther</source>. <year>2009</year>;<volume>85</volume>:<fpage>434</fpage>‐<lpage>438</lpage>.<pub-id pub-id-type="pmid">19212314</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/clpt.2008.302</pub-id><pub-id pub-id-type="pmcid">PMC3139248</pub-id></mixed-citation></ref><ref id="cts13164-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cts13164-cit-0003">
+<string-name name-style="western">
+<surname>Bertilsson</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olsson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Magnusson</surname>
+<given-names>KE</given-names>
+</string-name>. <article-title>Cytokines influence mRNA expression of cytochrome P450 3A4 and MDRI in intestinal cells</article-title>. <source>J Pharm Sci</source>. <year>2001</year>;<volume>90</volume>:<fpage>638</fpage>‐<lpage>646</lpage>.<pub-id pub-id-type="pmid">11288108</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/1520-6017(200105)90:5&lt;638::aid-jps1020&gt;3.0.co;2-l</pub-id></mixed-citation></ref><ref id="cts13164-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cts13164-cit-0004">
+<string-name name-style="western">
+<surname>Jing</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schrieber</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fletcher</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sahajwalla</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Update on therapeutic protein‐drug interaction: information in labeling</article-title>. <source>Clin Pharmacokinet</source>. <year>2020</year>;<volume>59</volume>:<fpage>25</fpage>‐<lpage>36</lpage>.<pub-id pub-id-type="pmid">31583608</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40262-019-00810-z</pub-id></mixed-citation></ref><ref id="cts13164-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cts13164-cit-0005">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>HM</given-names>
+</string-name>. <article-title>Risk‐based strategy for the assessment of pharmacokinetic drug‐drug interactions for therapeutic monoclonal antibodies</article-title>. <source>Drug Discov Today</source>. <year>2009</year>;<volume>14</volume>:<fpage>891</fpage>‐<lpage>898</lpage>.<pub-id pub-id-type="pmid">19520183</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drudis.2009.05.014</pub-id></mixed-citation></ref><ref id="cts13164-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cts13164-cit-0006">
+<string-name name-style="western">
+<surname>Evers</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dallas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickmann</surname>
+<given-names>LJ</given-names>
+</string-name>, et al. <article-title>Critical review of preclinical approaches to investigate cytochrome p450‐mediated therapeutic protein drug‐drug interactions and recommendations for best practices: a white paper</article-title>. <source>Drug Metab Dispos</source>. <year>2013</year>;<volume>41</volume>:<fpage>1598</fpage>‐<lpage>1609</lpage>.<pub-id pub-id-type="pmid">23792813</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.113.052225</pub-id></mixed-citation></ref><ref id="cts13164-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cts13164-cit-0007">
+<string-name name-style="western">
+<surname>Dickmann</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rock</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wienkers</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slatter</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Effects of interleukin‐6 (IL‐6) and an anti‐IL‐6 monoclonal antibody on drug‐metabolizing enzymes in human hepatocyte culture</article-title>. <source>Drug Metab Dispos</source>. <year>2011</year>;<volume>39</volume>:<fpage>1415</fpage>‐<lpage>1422</lpage>.<pub-id pub-id-type="pmid">21555507</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.111.038679</pub-id></mixed-citation></ref><ref id="cts13164-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cts13164-cit-0008">
+<string-name name-style="western">
+<surname>Rubin</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janefeldt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersson</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>HepaRG cells as human‐relevant in vitro model to study the effects of inflammatory stimuli on cytochrome P450 isoenzymes</article-title>. <source>Drug Metab Dispos</source>. <year>2015</year>;<volume>43</volume>:<fpage>119</fpage>‐<lpage>125</lpage>.<pub-id pub-id-type="pmid">25371393</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/dmd.114.059246</pub-id></mixed-citation></ref><ref id="cts13164-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cts13164-cit-0009">
+<string-name name-style="western">
+<surname>Abdel‐Razzak</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loyer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fautrel</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Cytokines down‐regulate expression of major cytochrome P‐450 enzymes in adult human hepatocytes in primary culture</article-title>. <source>Mol Pharmacol</source>. <year>1993</year>;<volume>44</volume>:<fpage>707</fpage>‐<lpage>715</lpage>.<pub-id pub-id-type="pmid">8232220</pub-id></mixed-citation></ref><ref id="cts13164-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cts13164-cit-0010">
+<string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Vries</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Evaluation of disease‐mediated therapeutic protein‐drug interactions between an anti‐interleukin‐6 monoclonal antibody (sirukumab) and cytochrome P450 activities in a phase 1 study in patients with rheumatoid arthritis using a cocktail approach</article-title>. <source>J Clin Pharmacol</source>. <year>2015</year>;<volume>55</volume>:<fpage>1386</fpage>‐<lpage>1394</lpage>.<pub-id pub-id-type="pmid">26054042</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcph.561</pub-id></mixed-citation></ref><ref id="cts13164-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cts13164-cit-0011">
+<string-name name-style="western">
+<surname>Jolly</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Francis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aggarwal</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Serum free light chains, interferon‐alpha, and interleukins in systemic lupus erythematosus</article-title>. <source>Lupus</source>. <year>2014</year>;<volume>23</volume>:<fpage>881</fpage>‐<lpage>888</lpage>.<pub-id pub-id-type="pmid">24786785</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0961203314530793</pub-id></mixed-citation></ref><ref id="cts13164-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cts13164-cit-0012">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mark</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leslie</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Mutations in the EGFR kinase domain mediate STAT3 activation via IL‐6 production in human lung adenocarcinomas</article-title>. <source>J Clin Invest</source>. <year>2007</year>;<volume>117</volume>:<fpage>3846</fpage>‐<lpage>3856</lpage>.<pub-id pub-id-type="pmid">18060032</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI31871</pub-id><pub-id pub-id-type="pmcid">PMC2096430</pub-id></mixed-citation></ref><ref id="cts13164-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cts13164-cit-0013">
+<string-name name-style="western">
+<surname>Snell‐Bergeon</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>West</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mayer‐Davis</surname>
+<given-names>EJ</given-names>
+</string-name>, et al. <article-title>Inflammatory markers are increased in youth with type 1 diabetes: the SEARCH Case‐Control study</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2010</year>;<volume>95</volume>:<fpage>2868</fpage>‐<lpage>2876</lpage>.<pub-id pub-id-type="pmid">20371668</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/jc.2009-1993</pub-id><pub-id pub-id-type="pmcid">PMC2902077</pub-id></mixed-citation></ref><ref id="cts13164-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cts13164-cit-0014">
+<string-name name-style="western">
+<surname>Atreya</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neurath</surname>
+<given-names>MF</given-names>
+</string-name>. <article-title>Involvement of IL‐6 in the pathogenesis of inflammatory bowel disease and colon cancer</article-title>. <source>Clin Rev Allergy Immunol</source>. <year>2005</year>;<volume>28</volume>:<fpage>187</fpage>‐<lpage>196</lpage>.<pub-id pub-id-type="pmid">16129903</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1385/CRIAI:28:3:187</pub-id></mixed-citation></ref><ref id="cts13164-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cts13164-cit-0015">
+<string-name name-style="western">
+<surname>Coutant</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kulanthaivel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turner</surname>
+<given-names>PK</given-names>
+</string-name>, et al. <article-title>Understanding disease‐drug interactions in cancer patients: implications for dosing within the therapeutic window</article-title>. <source>Clin Pharmacol Ther</source>. <year>2015</year>;<volume>98</volume>:<fpage>76</fpage>‐<lpage>86</lpage>.<pub-id pub-id-type="pmid">25808023</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.128</pub-id></mixed-citation></ref><ref id="cts13164-bib-0016"><label>16</label><mixed-citation publication-type="book" id="cts13164-cit-0016">
+<string-name name-style="western">
+<surname>Arenschield</surname>
+<given-names>L</given-names>
+</string-name>. <source>The trick of treating cancer in autoimmune diseases</source>. <publisher-name>Medscape Medical News</publisher-name>. <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.medscape.com/viewarticle/921742" ext-link-type="uri">https://www.medscape.com/viewarticle/921742</ext-link>.</mixed-citation></ref><ref id="cts13164-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cts13164-cit-0017">
+<string-name name-style="western">
+<surname>Bois</surname>
+<given-names>FY</given-names>
+</string-name>. <article-title>Physiologically based modelling and prediction of drug interactions</article-title>. <source>Basic Clin Pharmacol Toxicol</source>. <year>2010</year>;<volume>106</volume>:<fpage>154</fpage>‐<lpage>161</lpage>.<pub-id pub-id-type="pmid">19912164</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1742-7843.2009.00488.x</pub-id></mixed-citation></ref><ref id="cts13164-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cts13164-cit-0018">
+<string-name name-style="western">
+<surname>Nestorov</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Whole‐body physiologically based pharmacokinetic models</article-title>. <source>Expert Opin Drug Metab Toxicol</source>. <year>2007</year>;<volume>3</volume>:<fpage>235</fpage>‐<lpage>249</lpage>.<pub-id pub-id-type="pmid">17428153</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1517/17425255.3.2.235</pub-id></mixed-citation></ref><ref id="cts13164-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cts13164-cit-0019">
+<string-name name-style="western">
+<surname>Gerlowski</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>RK</given-names>
+</string-name>. <article-title>Physiologically based pharmacokinetic modeling: principles and applications</article-title>. <source>J Pharm Sci</source>. <year>1983</year>;<volume>72</volume>:<fpage>1103</fpage>‐<lpage>1127</lpage>.<pub-id pub-id-type="pmid">6358460</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jps.2600721003</pub-id></mixed-citation></ref><ref id="cts13164-bib-0020"><label>20</label><mixed-citation publication-type="miscellaneous" id="cts13164-cit-0020">
+<collab collab-type="authors">U.S. Food &amp; Drug Administration.</collab>
+Drug‐Drug Interaction Assessment for Therapeutic Proteins Guidance for Industry; Aug. 2020</mixed-citation></ref><ref id="cts13164-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cts13164-cit-0021">
+<string-name name-style="western">
+<surname>Machavaram</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almond</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rostami‐Hodjegan</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>A physiologically based pharmacokinetic modeling approach to predict disease‐drug interactions: suppression of CYP3A by IL‐6</article-title>. <source>Clin Pharmacol Ther</source>. <year>2013</year>;<volume>94</volume>:<fpage>260</fpage>‐<lpage>268</lpage>.<pub-id pub-id-type="pmid">23588308</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/clpt.2013.79</pub-id></mixed-citation></ref><ref id="cts13164-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cts13164-cit-0022">
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Development of a physiologically based pharmacokinetic model to predict disease‐mediated therapeutic protein‐drug interactions: modulation of multiple cytochrome p450 enzymes by interleukin‐6</article-title>. <source>AAPS J</source>. <year>2016</year>;<volume>18</volume>:<fpage>767</fpage>‐<lpage>776</lpage>.<pub-id pub-id-type="pmid">26961818</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1208/s12248-016-9890-5</pub-id><pub-id pub-id-type="pmcid">PMC5256608</pub-id></mixed-citation></ref><ref id="cts13164-bib-0023"><label>23</label><mixed-citation publication-type="miscellaneous" id="cts13164-cit-0023">
+<collab collab-type="authors">U.S. Food &amp; Drug Administration.</collab>
+Clinical Drug Interaction Studies—Cytochrome P450 Enzyme‐ and Transporter‐Mediated Drug Interactions Guidance for Industry. Jan. 2020.</mixed-citation></ref><ref id="cts13164-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cts13164-cit-0024">
+<string-name name-style="western">
+<surname>Carey</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jurickova</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ballard</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Activation of an IL‐6:STAT3‐dependent transcriptome in pediatric‐onset inflammatory bowel disease</article-title>. <source>Inflamm Bowel Dis</source>. <year>2008</year>;<volume>14</volume>:<fpage>446</fpage>‐<lpage>457</lpage>.<pub-id pub-id-type="pmid">18069684</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ibd.20342</pub-id><pub-id pub-id-type="pmcid">PMC2581837</pub-id></mixed-citation></ref><ref id="cts13164-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cts13164-cit-0025">
+<string-name name-style="western">
+<surname>Rosa</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliver</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flores</surname>
+<given-names>RL</given-names>
+</string-name>, et al. <article-title>Altered inflammatory, oxidative, and metabolic responses to exercise in pediatric obesity and type 1 diabetes</article-title>. <source>Pediatr Diabetes</source>. <year>2011</year>;<volume>12</volume>:<fpage>464</fpage>‐<lpage>472</lpage>.<pub-id pub-id-type="pmid">21443585</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1399-5448.2010.00724.x</pub-id><pub-id pub-id-type="pmcid">PMC2945245</pub-id></mixed-citation></ref><ref id="cts13164-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cts13164-cit-0026">
+<string-name name-style="western">
+<surname>Kitani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hara</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hirose</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Autostimulatory effects of IL‐6 on excessive B cell differentiation in patients with systemic lupus erythematosus: analysis of IL‐6 production and IL‐6R expression</article-title>. <source>Clin Exp Immunol</source>. <year>1992</year>;<volume>88</volume>:<fpage>75</fpage>‐<lpage>83</lpage>.<pub-id pub-id-type="pmid">1563109</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2249.1992.tb03042.x</pub-id><pub-id pub-id-type="pmcid">PMC1554365</pub-id></mixed-citation></ref><ref id="cts13164-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cts13164-cit-0027">
+<string-name name-style="western">
+<surname>Reinisch</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gasché</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tillinger</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Clinical relevance of serum interleukin‐6 in Crohn’s disease: single point measurements, therapy monitoring, and prediction of clinical relapse</article-title>. <source>Am J Gastroenterol</source>. <year>1999</year>;<volume>94</volume>:<fpage>2156</fpage>‐<lpage>2164</lpage>.<pub-id pub-id-type="pmid">10445543</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1572-0241.1999.01288.x</pub-id></mixed-citation></ref><ref id="cts13164-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cts13164-cit-0028">
+<string-name name-style="western">
+<surname>Dima</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jurcut</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balanescu</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Clinical significance of serum and urinary interleukin‐6 in systemic lupus erythematosus patients</article-title>. <source>Egypt Rheumatol</source>. <year>2017</year>;<volume>39</volume>:<fpage>1</fpage>‐<lpage>6</lpage>.</mixed-citation></ref><ref id="cts13164-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cts13164-cit-0029">
+<string-name name-style="western">
+<surname>Grondal</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gunnarsson</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ronnelid</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Cytokine production, serum levels and disease activity in systemic lupus erythematosus</article-title>. <source>Clin Exp Rheumatol</source>. <year>2000</year>;<volume>18</volume>:<fpage>565</fpage>‐<lpage>570</lpage>.<pub-id pub-id-type="pmid">11072595</pub-id></mixed-citation></ref><ref id="cts13164-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cts13164-cit-0030">
+<string-name name-style="western">
+<surname>Linker‐Israeli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deans</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wallace</surname>
+<given-names>DJ</given-names>
+</string-name>, et al. <article-title>Elevated levels of endogenous IL‐6 in systemic lupus erythematosus. A putative role in pathogenesis</article-title>. <source>J Immunol</source>. <year>1991</year>;<volume>147</volume>:<fpage>117</fpage>‐<lpage>123</lpage>.<pub-id pub-id-type="pmid">2051017</pub-id></mixed-citation></ref><ref id="cts13164-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cts13164-cit-0031">
+<string-name name-style="western">
+<surname>Targher</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zenari</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertolini</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muggeo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zoppini</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Elevated levels of interleukin‐6 in young adults with type 1 diabetes without clinical evidence of microvascular and macrovascular complications</article-title>. <source>Diabetes Care</source>. <year>2001</year>;<volume>24</volume>:<fpage>956</fpage>‐<lpage>957</lpage>.<pub-id pub-id-type="pmid">11347765</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/diacare.24.5.956</pub-id></mixed-citation></ref><ref id="cts13164-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cts13164-cit-0032">
+<string-name name-style="western">
+<surname>Gross</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andus</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caesar</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roth</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scholmerich</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Evidence for continuous stimulation of interleukin‐6 production in Crohn’s disease</article-title>. <source>Gastroenterology</source>. <year>1992</year>;<volume>102</volume>:<fpage>514</fpage>‐<lpage>519</lpage>.<pub-id pub-id-type="pmid">1370661</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0016-5085(92)90098-j</pub-id></mixed-citation></ref><ref id="cts13164-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cts13164-cit-0033">
+<string-name name-style="western">
+<surname>Mahida</surname>
+<given-names>YR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kurlac</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallagher</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hawkey</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>High circulating concentrations of interleukin‐6 in active Crohn’s disease but not ulcerative colitis</article-title>. <source>Gut</source>. <year>1991</year>;<volume>32</volume>:<fpage>1531</fpage>‐<lpage>1534</lpage>.<pub-id pub-id-type="pmid">1773961</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gut.32.12.1531</pub-id><pub-id pub-id-type="pmcid">PMC1379256</pub-id></mixed-citation></ref><ref id="cts13164-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cts13164-cit-0034">
+<string-name name-style="western">
+<surname>Ramalho</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filgueiras</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silva‐Jr</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pessoa</surname>
+<given-names>AFM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jancar</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Impaired wound healing in type 1 diabetes is dependent on 5‐lipoxygenase products</article-title>. <source>Sci Rep</source>. <year>2018</year>;<volume>8</volume>:<fpage>14164</fpage>.<pub-id pub-id-type="pmid">30242286</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-018-32589-7</pub-id><pub-id pub-id-type="pmcid">PMC6155046</pub-id></mixed-citation></ref><ref id="cts13164-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cts13164-cit-0035">
+<string-name name-style="western">
+<surname>Takac</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mihaljević</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stefanić</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glavas‐Obrovac</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kibel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samardzija</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Importance of interleukin 6 in pathogenesis of inflammatory bowel disease</article-title>. <source>Coll Antropol</source>. <year>2014</year>;<volume>38</volume>(<issue>2</issue>):<fpage>659</fpage>–<lpage>664</lpage>.<pub-id pub-id-type="pmid">25145003</pub-id></mixed-citation></ref><ref id="cts13164-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cts13164-cit-0036">
+<string-name name-style="western">
+<surname>AboElAsrar</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elbarbary</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elshennawy</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Omar</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Insulin‐like growth factor‐1 cytokines cross‐talk in type 1 diabetes mellitus: relationship to microvascular complications and bone mineral density</article-title>. <source>Cytokine</source>. <year>2012</year>;<volume>59</volume>:<fpage>86</fpage>‐<lpage>93</lpage>.<pub-id pub-id-type="pmid">22513191</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cyto.2012.03.019</pub-id></mixed-citation></ref><ref id="cts13164-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cts13164-cit-0037">
+<string-name name-style="western">
+<surname>Eilertsen</surname>
+<given-names>GO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nikolaisen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Becker‐Merok</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nossent</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Interleukin‐6 promotes arthritis and joint deformation in patients with systemic lupus erythematosus</article-title>. <source>Lupus</source>. <year>2011</year>;<volume>20</volume>:<fpage>607</fpage>‐<lpage>613</lpage>.<pub-id pub-id-type="pmid">21422077</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0961203310392432</pub-id></mixed-citation></ref><ref id="cts13164-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cts13164-cit-0038">
+<string-name name-style="western">
+<surname>Farhan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Shobaili</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zafar</surname>
+<given-names>U</given-names>
+</string-name>, et al. <article-title>Interleukin‐6: a possible inflammatory link between vitiligo and Type 1</article-title>. <source>Diabetes</source>. <year>2014</year>;<volume>71</volume>:<fpage>151</fpage>‐<lpage>157</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/09674845.2014.11669980</pub-id><pub-id pub-id-type="pmid">25562992</pub-id></mixed-citation></ref><ref id="cts13164-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cts13164-cit-0039">
+<string-name name-style="western">
+<surname>Koss</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Satsangi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Welsh</surname>
+<given-names>KI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jewell</surname>
+<given-names>DP</given-names>
+</string-name>. <article-title>Is interleukin‐6 important in inflammatory bowel disease?</article-title>
+<source>Genes Immun</source>. <year>2000</year>;<volume>1</volume>:<fpage>207</fpage>‐<lpage>212</lpage>.<pub-id pub-id-type="pmid">11196713</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.gene.6363658</pub-id></mixed-citation></ref><ref id="cts13164-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cts13164-cit-0040">
+<string-name name-style="western">
+<surname>Chatzigeorgiou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harokopos</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mylona‐Karagianni</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>The pattern of inflammatory/anti‐inflammatory cytokines and chemokines in type 1 diabetic patients over time</article-title>. <source>Ann Med</source>. <year>2010</year>;<volume>42</volume>:<fpage>426</fpage>‐<lpage>438</lpage>.<pub-id pub-id-type="pmid">20568978</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/07853890.2010.495951</pub-id></mixed-citation></ref><ref id="cts13164-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cts13164-cit-0041">
+<string-name name-style="western">
+<surname>Álvarez‐Rodriguez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riancho‐Zarrabeitia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calvo‐Alen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopez‐Hoyos</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez‐Taboada</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Peripheral B‐cell subset distribution in primary antiphospholipid syndrome</article-title>. <source>Int J Mol Sci</source>. <year>2018</year>;<volume>19</volume>:<fpage>589</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms19020589</pub-id><pub-id pub-id-type="pmcid">PMC5855811</pub-id><pub-id pub-id-type="pmid">29462939</pub-id></mixed-citation></ref><ref id="cts13164-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cts13164-cit-0042">
+<string-name name-style="western">
+<surname>Spronk</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>ter Borg</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Limburg</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kallenberg</surname>
+<given-names>CG</given-names>
+</string-name>. <article-title>Plasma concentration of IL‐6 in systemic lupus erythematosus; an indicator of disease activity?</article-title>
+<source>Clin Exp Immunol</source>. <year>1992</year>;<volume>90</volume>:<fpage>106</fpage>‐<lpage>110</lpage>.<pub-id pub-id-type="pmid">1395090</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2249.1992.tb05840.x</pub-id><pub-id pub-id-type="pmcid">PMC1554549</pub-id></mixed-citation></ref><ref id="cts13164-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cts13164-cit-0043">
+<string-name name-style="western">
+<surname>Gustot</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lemmers</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Louis</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Profile of soluble cytokine receptors in Crohn’s disease</article-title>. <source>Gut</source>. <year>2005</year>;<volume>54</volume>:<fpage>488</fpage>.<pub-id pub-id-type="pmid">15753533</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gut.2004.043554</pub-id><pub-id pub-id-type="pmcid">PMC1774443</pub-id></mixed-citation></ref><ref id="cts13164-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cts13164-cit-0044">
+<string-name name-style="western">
+<surname>Hyams</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fitzgerald</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Treem</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wyzga</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kreutzer</surname>
+<given-names>DL</given-names>
+</string-name>. <article-title>Relationship of functional and antigenic interleukin 6 to disease activity in inflammatory bowel disease</article-title>. <source>Gastroenterology</source>. <year>1993</year>;<volume>104</volume>:<fpage>1285</fpage>‐<lpage>1292</lpage>.<pub-id pub-id-type="pmid">7683293</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0016-5085(93)90336-b</pub-id></mixed-citation></ref><ref id="cts13164-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cts13164-cit-0045">
+<string-name name-style="western">
+<surname>Peterson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Emlen</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Serum and urinary interleukin‐6 in systemic lupus erythematosus</article-title>. <source>Lupus</source>
+<year>1996</year>;<volume>5</volume>:<fpage>571</fpage>‐<lpage>575</lpage>.<pub-id pub-id-type="pmid">9116699</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/096120339600500603</pub-id></mixed-citation></ref><ref id="cts13164-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cts13164-cit-0046">
+<string-name name-style="western">
+<surname>Hammed</surname>
+<given-names>IK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rashid</surname>
+<given-names>NF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abed</surname>
+<given-names>BA</given-names>
+</string-name>. <article-title>Serum Interleukin‐6 level in children with type 1 diabetes mellitus</article-title>. <source>J Faculty Med Baghdad</source>. <year>2012</year>;<volume>54</volume>:<fpage>228</fpage>‐<lpage>230</lpage>.</mixed-citation></ref><ref id="cts13164-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cts13164-cit-0047">
+<string-name name-style="western">
+<surname>Schurmann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betzler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Post</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herfarth</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meuer</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Soluble interleukin‐2 receptor, interleukin‐6 and interleukin‐1 beta in patients with Crohn’s disease and ulcerative colitis: preoperative levels and postoperative changes of serum concentrations</article-title>. <source>Digestion</source>. <year>1992</year>;<volume>51</volume>:<fpage>51</fpage>‐<lpage>59</lpage>.<pub-id pub-id-type="pmid">1639222</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000200875</pub-id></mixed-citation></ref><ref id="cts13164-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cts13164-cit-0048">
+<string-name name-style="western">
+<surname>Mitsuyama</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toyonaga</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sasaki</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Soluble interleukin‐6 receptors in inflammatory bowel disease: relation to circulating interleukin‐6</article-title>. <source>Gut</source>. <year>1995</year>;<volume>36</volume>:<fpage>45</fpage>‐<lpage>49</lpage>.<pub-id pub-id-type="pmid">7890234</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gut.36.1.45</pub-id><pub-id pub-id-type="pmcid">PMC1382351</pub-id></mixed-citation></ref><ref id="cts13164-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cts13164-cit-0049">
+<string-name name-style="western">
+<surname>Kusugami</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fukatsu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanimoto</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Elevation of interleukin‐6 in inflammatory bowel disease is macrophage‐ and epithelial cell‐dependent</article-title>. <source>Dig Dis Sci</source>. <year>1995</year>;<volume>40</volume>:<fpage>949</fpage>‐<lpage>959</lpage>.<pub-id pub-id-type="pmid">7729284</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF02064182</pub-id></mixed-citation></ref><ref id="cts13164-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cts13164-cit-0050">
+<string-name name-style="western">
+<surname>Reinecker</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steffen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Witthoeft</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Enhanced secretion of tumour necrosis factor‐alpha, IL‐6, and IL‐1 beta by isolated lamina propria mononuclear cells from patients with ulcerative colitis and Crohn’s disease</article-title>. <source>Clin Exp Immunol</source>. <year>1993</year>;<volume>94</volume>:<fpage>174</fpage>‐<lpage>181</lpage>.<pub-id pub-id-type="pmid">8403503</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2249.1993.tb05997.x</pub-id><pub-id pub-id-type="pmcid">PMC1534387</pub-id></mixed-citation></ref><ref id="cts13164-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cts13164-cit-0051">
+<string-name name-style="western">
+<surname>Reimund</surname>
+<given-names>J‐M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wittersheim</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dumont</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Increased production of tumour necrosis factor‐alpha, interleukin‐1 beta, and interleukin‐6 by morphologically normal intestinal biopsies from patients with Crohn’s disease</article-title>. <source>Gut</source>. <year>1996</year>;<volume>39</volume>:<fpage>684</fpage>‐<lpage>689</lpage>.<pub-id pub-id-type="pmid">9026483</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gut.39.5.684</pub-id><pub-id pub-id-type="pmcid">PMC1383392</pub-id></mixed-citation></ref><ref id="cts13164-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="cts13164-cit-0052">
+<string-name name-style="western">
+<surname>Powell</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lo</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Biancheri</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Interleukin 6 increases production of cytokines by colonic innate lymphoid cells in mice and patients with chronic intestinal inflammation</article-title>. <source>Gastroenterology</source>. <year>2015</year>;<volume>149</volume>:<fpage>456</fpage>‐<lpage>467</lpage>.e415.<pub-id pub-id-type="pmid">25917784</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.gastro.2015.04.017</pub-id><pub-id pub-id-type="pmcid">PMC4539618</pub-id></mixed-citation></ref><ref id="cts13164-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cts13164-cit-0053">
+<string-name name-style="western">
+<surname>Bernardo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vallejo‐Díez</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mann</surname>
+<given-names>ER</given-names>
+</string-name>, et al. <article-title>IL‐6 promotes immune responses in human ulcerative colitis and induces a skin‐homing phenotype in the dendritic cells and Tcells they stimulate</article-title>. <source>Eur J Immunol</source>. <year>2012</year>;<volume>42</volume>:<fpage>1337</fpage>‐<lpage>1353</lpage>.<pub-id pub-id-type="pmid">22539302</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/eji.201142327</pub-id></mixed-citation></ref><ref id="cts13164-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="cts13164-cit-0054">
+<string-name name-style="western">
+<surname>Rowland Yeo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jamei</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tucker</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rostami‐Hodjegan</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Physiologically based mechanistic modelling to predict complex drug‐drug interactions involving simultaneous competitive and time‐dependent enzyme inhibition by parent compound and its metabolite in both liver and gut ‐ the effect of diltiazem on the time‐course of exposure to triazolam</article-title>. <source>Eur J Pharmaceut Sci</source>. <year>2010</year>;<volume>39</volume>:<fpage>298</fpage>‐<lpage>309</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejps.2009.12.002</pub-id><pub-id pub-id-type="pmid">20025966</pub-id></mixed-citation></ref><ref id="cts13164-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="cts13164-cit-0055">
+<string-name name-style="western">
+<surname>Jamei</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marciniak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>The Simcyp population‐based ADME simulator</article-title>. <source>Expert Opin Drug Metab Toxicol</source>. <year>2009</year>;<volume>5</volume>:<fpage>211</fpage>‐<lpage>223</lpage>.<pub-id pub-id-type="pmid">19199378</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1517/17425250802691074</pub-id></mixed-citation></ref><ref id="cts13164-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="cts13164-cit-0056">
+<string-name name-style="western">
+<surname>Schwenger</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reddy</surname>
+<given-names>VP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moorthy</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Harnessing meta‐analysis to refine an oncology patient population for physiology‐based pharmacokinetic modeling of drugs</article-title>. <source>Clin Pharmacol Ther</source>. <year>2018</year>;<volume>103</volume>:<fpage>271</fpage>‐<lpage>280</lpage>.<pub-id pub-id-type="pmid">29063606</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.917</pub-id></mixed-citation></ref><ref id="cts13164-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="cts13164-cit-0057">
+<string-name name-style="western">
+<surname>Sanada</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sekimoto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kamoshita</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Degawa</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Changes in expression of hepatic cytochrome P450 subfamily enzymes during development of adjuvant‐induced arthritis in rats</article-title>. <source>J Toxicol Sci</source>. <year>2011</year>;<volume>36</volume>:<fpage>181</fpage>‐<lpage>190</lpage>.<pub-id pub-id-type="pmid">21467745</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2131/jts.36.181</pub-id></mixed-citation></ref><ref id="cts13164-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="cts13164-cit-0058">
+<string-name name-style="western">
+<surname>Schmitt</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuhn</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kivitz</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grange</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Disease‐drug‐drug interaction involving tocilizumab and simvastatin in patients with rheumatoid arthritis</article-title>. <source>Clin Pharmacol Ther</source>. <year>2011</year>;<volume>89</volume>:<fpage>735</fpage>‐<lpage>740</lpage>.<pub-id pub-id-type="pmid">21430660</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/clpt.2011.35</pub-id></mixed-citation></ref><ref id="cts13164-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="cts13164-cit-0059">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daskalakis</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Disease‐drug interaction of sarilumab and simvastatin in patients with rheumatoid arthritis</article-title>. <source>Clin Pharmacokinet</source>. <year>2017</year>;<volume>56</volume>:<fpage>607</fpage>‐<lpage>615</lpage>.<pub-id pub-id-type="pmid">27722854</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40262-016-0462-8</pub-id><pub-id pub-id-type="pmcid">PMC5425488</pub-id></mixed-citation></ref><ref id="cts13164-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="cts13164-cit-0060">
+<string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Narazaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kishimoto</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>IL‐6 in inflammation, immunity, and disease</article-title>. <source>Cold Spring Harb Perspect Biol</source>. <year>2014</year>;<volume>6</volume>:<fpage>a016295</fpage>.<pub-id pub-id-type="pmid">25190079</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/cshperspect.a016295</pub-id><pub-id pub-id-type="pmcid">PMC4176007</pub-id></mixed-citation></ref><ref id="cts13164-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="cts13164-cit-0061">
+<string-name name-style="western">
+<surname>Jones</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trejdosiewicz</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banks</surname>
+<given-names>RE</given-names>
+</string-name>, et al. <article-title>Expression of interleukin‐6 by intestinal enterocytes</article-title>. <source>J Clin Pathol</source>. <year>1993</year>;<volume>46</volume>:<fpage>1097</fpage>‐<lpage>1100</lpage>.<pub-id pub-id-type="pmid">8282831</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jcp.46.12.1097</pub-id><pub-id pub-id-type="pmcid">PMC501718</pub-id></mixed-citation></ref><ref id="cts13164-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="cts13164-cit-0062">
+<string-name name-style="western">
+<surname>Shah</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betts</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Antibody biodistribution coefficients: inferring tissue concentrations of monoclonal antibodies based on the plasma concentrations in several preclinical species and human</article-title>. <source>MAbs</source>. <year>2013</year>;<volume>5</volume>:<fpage>297</fpage>‐<lpage>305</lpage>.<pub-id pub-id-type="pmid">23406896</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/mabs.23684</pub-id><pub-id pub-id-type="pmcid">PMC3893240</pub-id></mixed-citation></ref><ref id="cts13164-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="cts13164-cit-0063">
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qian</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Interleukin‐23: as a drug target for autoimmune inflammatory diseases</article-title>. <source>Immunology</source>. <year>2012</year>;<volume>135</volume>:<fpage>112</fpage>‐<lpage>124</lpage>.<pub-id pub-id-type="pmid">22044352</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2567.2011.03522.x</pub-id><pub-id pub-id-type="pmcid">PMC3277713</pub-id></mixed-citation></ref><ref id="cts13164-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="cts13164-cit-0064">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhuang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Evaluating potential disease‐mediated protein‐drug interactions in patients with moderate‐to‐severe plaque psoriasis receiving subcutaneous guselkumab</article-title>. <source>Clin Transl Sci</source>. <year>2020</year>;<volume>13</volume>:<fpage>1217</fpage>‐<lpage>1226</lpage>.<pub-id pub-id-type="pmid">32407591</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cts.12807</pub-id><pub-id pub-id-type="pmcid">PMC7719363</pub-id></mixed-citation></ref><ref id="cts13164-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="cts13164-cit-0065">
+<string-name name-style="western">
+<surname>Bruin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hasselberg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koroleva</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Secukinumab treatment does not alter the pharmacokinetics of the cytochrome P450 3A4 substrate midazolam in patients with moderate to severe psoriasis</article-title>. <source>Clin Pharmacol Ther</source>. <year>2019</year>;<volume>106</volume>:<fpage>1380</fpage>‐<lpage>1388</lpage>.<pub-id pub-id-type="pmid">31228872</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.1558</pub-id><pub-id pub-id-type="pmcid">PMC6896234</pub-id></mixed-citation></ref><ref id="cts13164-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="cts13164-cit-0066">
+<string-name name-style="western">
+<surname>Yuraszeck</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kasichayanula</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benjamin</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Translation and clinical development of bispecific T‐cell engaging antibodies for cancer treatment</article-title>. <source>Clin Pharmacol Ther</source>. <year>2017</year>;<volume>101</volume>:<fpage>634</fpage>‐<lpage>645</lpage>.<pub-id pub-id-type="pmid">28182247</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.651</pub-id><pub-id pub-id-type="pmcid">PMC5763312</pub-id></mixed-citation></ref></ref-list></back></article>

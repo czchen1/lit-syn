@@ -1,0 +1,1166 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Immunol</journal-id><journal-id journal-id-type="iso-abbrev">Front Immunol</journal-id><journal-id journal-id-type="pmc-domain-id">1754</journal-id><journal-id journal-id-type="pmc-domain">frontimmu</journal-id><journal-id journal-id-type="nlm-id">101560960</journal-id><journal-id journal-id-type="publisher-id">Front. Immunol.</journal-id><journal-title-group><journal-title>Frontiers in Immunology</journal-title></journal-title-group><issn pub-type="epub">1664-3224</issn><?publisher_abbrev frontiers?><publisher><publisher-name>Frontiers Media SA</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10579557</article-id><article-id pub-id-type="pmcid-ver">PMC10579557.1</article-id><article-id pub-id-type="pmcaid">10579557</article-id><article-id pub-id-type="pmcaiid">10579557</article-id><article-id pub-id-type="pmid">37854590</article-id><article-id pub-id-type="doi">10.3389/fimmu.2023.1273507</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Immunology</subject><subj-group><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Prediction of severe CRS and determination of biomarkers in B cell-acute lymphoblastic leukemia treated with CAR-T cells</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Wei</surname><given-names initials="Z">Zhenyu</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="fn001" ref-type="author-notes">
+<sup>*</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2401001"/><role content-type="https://credit.niso.org/contributor-roles/data-curation/"/><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/project-administration/"/><role content-type="https://credit.niso.org/contributor-roles/supervision/"/><role content-type="https://credit.niso.org/contributor-roles/validation/"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="J">Jiayu</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="C">Chengkui</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="M">Min</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2234069"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="N">Nan</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kang</surname><given-names initials="L">Liqing</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/1820977"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lou</surname><given-names initials="X">Xiaoyan</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/1277770"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Yu</surname><given-names initials="L">Lei</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="fn001" ref-type="author-notes">
+<sup>*</sup>
+</xref><uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://loop.frontiersin.org/people/2144980"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Feng</surname><given-names initials="W">Weixing</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="fn001" ref-type="author-notes">
+<sup>*</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib></contrib-group><aff id="aff1">
+<sup>1</sup>
+<institution>Intelligent Systems Science and Engineering College, Harbin Engineering University</institution>, <addr-line>Harbin</addr-line>, <country>China</country>
+</aff><aff id="aff2">
+<sup>2</sup>
+<institution>Shanghai Unicar-Therapy BioMedicine Technology Co., Ltd</institution>, <addr-line>Shanghai</addr-line>, <country>China</country>
+</aff><aff id="aff3">
+<sup>3</sup>
+<institution>School of Chemical and Molecular Engineering, East China Normal University</institution>, <addr-line>Shanghai</addr-line>, <country>China</country>
+</aff><author-notes><fn fn-type="edited-by"><p>Edited by: Masaki Yasukawa, Ehime Prefectural University of Health Sciences, Japan</p></fn><fn fn-type="edited-by"><p>Reviewed by: Rajni Kant Shukla, The Ohio State University, United States</p><p>Tatsuya Konishi, Ehime University, Japan</p></fn><corresp id="fn001">*Correspondence: Zhenyu Wei, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:952376687@hrbeu.edu.cn">952376687@hrbeu.edu.cn</email>; Weixing Feng, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:Fengweixing@hrbeu.edu.cn">Fengweixing@hrbeu.edu.cn</email>; Lei Yu, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:ylyh188@163.com">ylyh188@163.com</email>
+</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>10</month><year>2023</year></pub-date><pub-date pub-type="collection"><year>2023</year></pub-date><volume>14</volume><issue-id pub-id-type="pmc-issue-id">427662</issue-id><elocation-id>1273507</elocation-id><history><date date-type="received"><day>06</day><month>8</month><year>2023</year></date><date date-type="accepted"><day>18</day><month>9</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>01</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>18</day><month>10</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-03-09 16:25:10.317"><day>09</day><month>03</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2023 Wei, Xu, Zhao, Zhang, Xu, Kang, Lou, Yu and Feng</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>Wei, Xu, Zhao, Zhang, Xu, Kang, Lou, Yu and Feng</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="fimmu-14-1273507.pdf"><?pdf-name fimmu-14-1273507.pdf?><?pdf-size 14265458?><?pdf-md5 ba68faeeb7d51a95e768539ecf249291?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:ba2f/10579557/ba68faeeb7d5/fimmu-14-1273507.pdf?></self-uri><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="correction-forward" xml:lang="en" xlink:title="correction" vol="15" journal-id="Front Immunol" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC10852047"><article-title>Corrigendum: Prediction of severe CRS and determination of biomarkers in B cell-acute lymphoblastic leukemia treated with CAR-T cells</article-title><volume>15</volume><date><day>8</day><month>2</month><year>2024</year></date><elocation-id>1379325</elocation-id><source>Frontiers in Immunology</source><pub-id pub-id-type="doi">10.3389/fimmu.2024.1379325</pub-id><pub-id pub-id-type="pmcid">PMC10852047</pub-id><pub-id pub-id-type="pmid">38333207</pub-id></related-article><abstract><sec><title>Introduction</title><p>CAR-T cell therapy is a novel approach in the treatment of hematological tumors. However, it is associated with life-threatening side effects, such as the severe cytokine release syndrome (sCRS). Therefore, predicting the occurrence and development of sCRS is of great significance for clinical CAR-T therapy. The study of existing clinical data by artificial intelligence may bring useful information.</p></sec><sec><title>Methods</title><p>By analyzing the heat map of clinical factors and comparing them between severe and non-severe CRS, we can identify significant differences among these factors and understand their interrelationships. Ultimately, a decision tree approach was employed to predict the timing of severe CRS in both children and adults, considering variables such as the same day, the day before, and initial values.</p></sec><sec><title>Results</title><p>We measured cytokines and clinical biomarkers in 202 patients who received CAR-T therapy. Peak levels of 25 clinical factors, including IFN-γ, IL6, IL10, ferritin, and D-dimer, were highly associated with severe CRS after CAR T cell infusion. Using the decision tree model, we were able to accurately predict which patients would develop severe CRS consisting of three clinical factors, classified as same-day, day-ahead, and initial value prediction. Changes in serum biomarkers, including C-reactive protein and ferritin, were associated with CRS, but did not alone predict the development of severe CRS.</p></sec><sec><title>Conclusion</title><p>Our research will provide significant information for the timely prevention and treatment of sCRS, during CAR-T immunotherapy for tumors, which is essential to reduce the mortality rate of patients.</p></sec></abstract><kwd-group><kwd>CAR-T cell therapy</kwd><kwd>cytokine release syndrome (CRS)</kwd><kwd>biomarker</kwd><kwd>prediction</kwd><kwd>decision tree</kwd></kwd-group><funding-group><funding-statement>The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This work was supported by China National Natural Science Foundation (62172121, 82073800), Natural Science Foundation of Heilongjiang Province of China (LH2022F012).</funding-statement></funding-group><counts><fig-count count="5"/><table-count count="2"/><equation-count count="0"/><ref-count count="42"/><page-count count="13"/><word-count count="6512"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>section-in-acceptance</meta-name><meta-value>Cancer Immunity and Immunotherapy</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>Introduction</title><p>In recent years, with the continuous progress and application of cellular immunotherapy, chimeric antigen receptor (CD19)-modified T cells have shown great potential to treat hematological malignancies (<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B2" ref-type="bibr">2</xref>). Children and adults with recurrent or refractory B-ALL treated by CD19 CAR-T cell therapy have achieved significant results, with a complete remission rate of 70% to 90% (<xref rid="B3" ref-type="bibr">3</xref>–<xref rid="B5" ref-type="bibr">5</xref>). However, patients often have serious side effects, involving the cytokine release syndrome (CRS). According to literature, 54% to 91% of patients may have different grades of CRS during treatment (<xref rid="B6" ref-type="bibr">6</xref>), according to CTCAE v5.0. If CRS is grade 3 or higher, it is considered a serious problem (<xref rid="B4" ref-type="bibr">4</xref>).</p><p>CRS is a high-risk factor associated with non-recurrent mortality (<xref rid="B7" ref-type="bibr">7</xref>). It is the main complication of CAR-T cell therapy, characterized by systemic inflammation, whose symptoms vary according to its severity, ranging from mild fever, fatigue, anorexia, nausea, vomiting, and headache to severe early high fever, hypotension, shock, and disseminated intravascular coagulation, leading to multiple organ dysfunction (<xref rid="B8" ref-type="bibr">8</xref>, <xref rid="B9" ref-type="bibr">9</xref>). However, diagnosis and treatment of CRS may be delayed based on the available diagnostic criteria and severity grading system. Therefore, it is of clinical significance to understand CRS characteristics and related risk factors for effective management, which is mainly graded according to its severity and determined based on general symptoms, vital signs, and organ dysfunction. However, prognosis of CAR-T cell therapy is differentiated among individuals, thus specific biomarkers are needed to monitor and treat CRS (<xref rid="B10" ref-type="bibr">10</xref>). Biomarkers are defined as “characteristics that are objectively measured and evaluated as indicators of normal biological processes, pathogenic processes, or pharmacological responses to therapeutic interventions” (The Biomarker Definition Working Group of the National Institutes of Health, 1998).</p><p>CRS is a dynamic process of occurrence and development. CRS median time is two to three days after CAR-T cell infusion (range: 1 to 22 days) (<xref rid="B11" ref-type="bibr">11</xref>). Previous studies have identified several biomarkers that predict the development of adverse events after CAR-T cell therapy, which closely monitor patients at risk to receive timely preventive treatment (<xref rid="B12" ref-type="bibr">12</xref>, <xref rid="B13" ref-type="bibr">13</xref>). However, limited classification standards accurately predict the occurrence of severe CRS.</p><p>To better predict CRS occurrence, we analyzed clinical data of 202 patients with B cell-acute lymphoblastic leukemia targeting CD19. We recorded cytokines, coagulation and biochemical indexes, blood routine, and a series of other biomarkers during continuous treatment of patients, which allowed us to develop novel studies and deepen people’s biological understanding of CRS that will further guide clinical practice.</p><p>In this manuscript, we will focus on the following aspects: 1) A comprehensive comparison of biomarkers between patients with and without sCRS to show critical details of its potential biology, 2) a significance analysis of the early contents of various biomarkers related to sCRS and a correlation analysis of their changes, 3) the sCRS prediction, classification model, and classification indexes with high sensitivity and specificity for adults and children, 4) the possible CRS grade of the next day from the clinical factor data of the patient the day before, providing high sensitivity and specificity classification indexes of adults and children, and 5) only from the initial value, we can determine the highest CRS level that the patient may reach, when returning for CAR-T treatment, and two decision tree models will be provided.</p></sec><sec id="s2"><title>Clinical description of patients</title><p>In this study, we included 202 patients with B-ALL, who consisted of 62 children from 0 to 25 years of age and 140 adults from 25 to 75 years of age. They were treated in the Affiliated Hospital of Suzhou Medical University in China. We evaluated the patient’s disease state before treatment and several lines of treatment. The first-line treatment refers to the first-round treatment after diagnosis. In this case, the selected treatment scheme was the one with the best clinical effect and the lowest side effects, whereas the second-line treatment is the one after the patient’s tumor progresses again. Compared to first-line treatment, second-line treatment demonstrated lower efficacy with 1 patient (0.5%) receiving no treatment, 25 patients (12.4%) receiving first-line treatment, 51 patients (25.2%) receiving second-line treatment, and 125 patients (61.9%) receiving third-line or higher treatments. For the disease state of patients, only 163 patients were recorded, among them the CR rate was 38% (62 individuals), and we also evaluated the curative effect. CR rate of 170 individuals recorded was 40% (68 patients). Of these patients, 95 (47%) did not relapse from B-ALL, 59 (28.7%) relapsed once, and 17 (8.4%) relapsed twice or more.</p></sec><sec id="s3"><title>CRS clinical description</title><p>Among 202 patients with B-ALL, 154 patients (76.2%) progressed to CRS, whereas most patients developed mild to moderate (grades 1 and 2; 109/202; 54%) or severe (grades 3 and 4; 45/202; 22.3%) CRS. For patients with fever, CRS onset was defined as the first onset of fever at 38.0°C after the infusion of CAR-T cells, and CRS termination was defined as no fever or use of vasoactive drugs within 24 hours. Among treated patients, 131 individuals developed fever symptoms and 23 patients progressed to CRS, without fever symptoms. Some patients showed serious organ toxicity, such as acute kidney injury, heart failure, moist rales at the bottom of the lung, among others, and many individuals developed CRS. <xref rid="T1" ref-type="table">
+<bold>Table 1</bold>
+</xref> contains some details of the study subjects. Some patients’ information is not recorded, so some information will contain fewer patients.</p><table-wrap position="float" id="T1" orientation="portrait"><label>Table 1</label><caption><p>Baseline Characteristics of the Patients.</p></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Characteristics</th><th valign="top" align="center" rowspan="1" colspan="1">Children (N=62)</th><th valign="top" align="center" rowspan="1" colspan="1">Adult (N=140)</th><th valign="top" align="center" rowspan="1" colspan="1">Total (N=202)</th></tr></thead><tbody><tr><th valign="top" colspan="4" align="left" rowspan="1">Sex</th></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>Female</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>22</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>76</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>98</bold>
+</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>Male</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>40</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>64</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>104</bold>
+</td></tr><tr><th valign="top" colspan="4" align="left" rowspan="1">Multiline treatment</th></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>median</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>3</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>3</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>3</bold>
+</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>range</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>1-9</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>0-13</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>0-13</bold>
+</td></tr><tr><th valign="top" colspan="4" align="left" rowspan="1">Number of recurrences</th></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>median</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>1</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>0</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>0</bold>
+</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>range</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>0-3</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>0-3</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>0-3</bold>
+</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>Transplant or not</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>13</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>30</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>43</bold>
+</td></tr><tr><th valign="top" colspan="4" align="left" rowspan="1">Extramedullary infiltration</th></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>yes</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>2</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>11</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>13</bold>
+</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>no</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>50</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>112</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>162</bold>
+</td></tr><tr><th valign="top" colspan="4" align="left" rowspan="1">Protoplast</th></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>median</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>3.25%</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>7.00%</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>5%</bold>
+</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>range</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>0-86%</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>0-94.5%</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>0-94.5%</bold>
+</td></tr><tr><th valign="top" colspan="4" align="left" rowspan="1">Dead or not</th></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>yes</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>9</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>22</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>31</bold>
+</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>no</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>53</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>94</bold>
+</td><td valign="top" align="center" rowspan="1" colspan="1">
+<bold>147</bold>
+</td></tr></tbody></table></table-wrap></sec><sec id="s4"><title>CRS laboratory results</title><p>As shown in <xref rid="T2" ref-type="table">
+<bold>Table 2</bold>
+</xref>, baseline ferritin of most patients (N=136) increased (median 1102.5 mg/dL; range 32 to 11411 mg/dL). Regardless of the grade, the peak of ferritin in all patients was high but the median was significantly (P &lt; 0.001) higher in patients with grades 3 and 4 CRS [grades 0 to 2 CRS (median 913 mg/dL; range 5.17 to 45,832) and 3 and 4 CRS (median 2100 mg/dL; range 38 to 281,253)]. Similar trends were observed in adults and children (<xref rid="T2" ref-type="table">
+<bold>Table 2</bold>
+</xref>). The ferritin peak in all patients with grades 3 and 4 CRS was higher than 10,000 mg/dL, which is considered to be sensitive and specific for macrophage activation/HLH syndrome in children (<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B15" ref-type="bibr">15</xref>). In addition, baseline C-reactive protein (CRP) of most patients increased (median 7.4 mg/dL; range 1 to 425). Several patients were not evaluated for CRP at baseline. Similar to ferritin, most grades 3 and 4 CRS (median 59.4; range 1.2 to 960) and 0 to 2 CRS (median 8.535; the peak CRP of patients ranged from 0.818 to 288) were very high, and the CRS in grades 3 and was significantly (P &lt; 0.001) different from that in grades 0 to 2. Similar trends were also observed in adults and children (<xref rid="T2" ref-type="table">
+<bold>Table 2</bold>
+</xref>). Although the peak levels of CRP and ferritin in patients with grades 3 and 4 CRS were higher than those in grades 0 to 2 CRS, CRP and ferritin did not improve CRS prediction in the first three days after CAR-T cell infusion (<xref rid="B12" ref-type="bibr">12</xref>).</p><table-wrap position="float" id="T2" orientation="portrait"><label>Table 2</label><caption><p>Clinical biomarkers associated with CRS (N =202).</p></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" colspan="3" align="left" rowspan="1"/><th valign="top" colspan="2" align="left" rowspan="1">Total (N=202)</th><th valign="top" colspan="2" align="left" rowspan="1">Children (N=62)</th><th valign="top" colspan="2" align="left" rowspan="1">Adults (N=140)</th></tr><tr><th valign="top" colspan="2" align="left" rowspan="1">Biomarker</th><th valign="top" align="left" rowspan="1" colspan="1">Total (N=202)</th><th valign="top" align="left" rowspan="1" colspan="1">0-2 (N=157)</th><th valign="top" align="left" rowspan="1" colspan="1">3-4 (N=45)</th><th valign="top" align="left" rowspan="1" colspan="1">0-2 (N=47)</th><th valign="top" align="left" rowspan="1" colspan="1">3-4 (N=15)</th><th valign="top" align="left" rowspan="1" colspan="1">0-2 (N=110)</th><th valign="top" align="left" rowspan="1" colspan="1">3-4 (N=30)</th></tr></thead><tbody><tr><td valign="middle" rowspan="4" align="left" colspan="1">Blood coagulation items</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Plasma prothrombin time (PT)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>12.6 (0.87-32.4)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>12.4 (0.9-32.4)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>13.15 (0.87-28.8)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>12.8 (0.9-17.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>13.2 (0.87-22.9)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>12.3 (0.96-32.4)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>13.0 (1.1-28.8)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Activated partial thromboplastin time (APTT)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>35.4 (4.07-378.2)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>34.45 (4.07-378.2)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>39.4 (20.9-86.1)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>35.3 (17.2-78.8)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>40.3 (26.0-79.8)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>34.0 (4.07-378.2)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>38.9 (20.9-86.1)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Fibrinogen</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.35 (0.62-15.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.31 (0.836-14.8)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.52 (0.62-15.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.163 (1.02-14.8)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.61 (1.111-15.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.4 (0.836-11.7)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.51 (0.62-6.56)</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>D-dimer</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.59 (0.012-99.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.47 (0.07-66.1)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.78 (0.012-99.3)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.395 (0.12-66.1)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.7 (0.27-50.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.51 (0.07-20.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.79 (0.012-99.3)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="middle" rowspan="10" align="left" colspan="1">Blood routine examination</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Red blood cell</bold>
+<break/>
+<bold>(RBC)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.62 (0.14-336)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.7 (0.88-336.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.36 (0.14-204.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.985 (1.37-102.3)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.25 (1.29-4.49)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.64 (0.88-336.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.43 (0.14-204.0)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Hemoglobin</bold>
+<break/>
+<bold>(HGB)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>82 (0.65-158)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>85.0 (0.65-158.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>72.0 (36.0-131.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>90.0 (45.0-137.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>71.0 (38.0-128.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>83.0 (0.65-158.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>73.0 (36.0-131.0)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>White blood cell (WBC)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.71 (0.01-397)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.85 (0.01-397.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.61 (0.01-69.79)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.78 (0.02-21.75)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.3 (0.01-6.47)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.21 (0.01-397.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.895 (0.01-69.79)</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Neutrophilic granulocyte percentage</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.731 (0.005-0.986)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.739 (0.013-0.983)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.667 (0.005-0.986)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.774 (0.035-0.983)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.537 (0.05-0.986)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.7215 (0.013-0.98)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.753 (0.005-0.984)</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Neutrophil count</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.22 (0.008-88.8)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.53 (0.01-88.8)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.415 (0.008-8.73)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.21 (0.01-19.99)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.28 (0.01-6.37)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.61 (0.01-88.8)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.515 (0.008-8.73)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Percentage of</bold>
+<break/>
+<bold>lymphocytes</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.129 (0.002-0.991)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.121 (0.02-0.99)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.176 (0.004-0.991)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.1025 (0.005-0.892)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.423 (0.007-0.95)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.135 (0.002-0.99)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.1245 (0.004-0.991)</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>lymphocyte count</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.17 (0.01-33.86)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.19 (0.01-33.86)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.11 (0.01-12.76)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.15 (0.01-2.05)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.15 (0.01-1.4)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.21 (0.01-33.86)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.1 (0.01-12.76)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Platelet</bold>
+<break/>
+<bold>(PLT)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>87 (0.006-527)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>100.0 (0.006-445.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>35.0 (2.0-527.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>107.0 (5.0-399.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>31.5 (4.0-175.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>97.0 (0.006-445.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>40.0 (2.0-527.0)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Monocyte Percentage</bold>
+<break/>
+<bold>(MONO)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.07 (0.002-0.952)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.072 (0.02-0.9)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.0575 (0.002-0.952)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.067 (0.002-0.8)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.066 (0.002-0.833)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.073 (0.003-0.9)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.05 (0.002-0.952)<sup>*</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Monocyte count</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.11 (0.01-10)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.14 (0.01-6.79)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.04 (0.01-10.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.11 (0.01-3.53)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.03 (0.01-0.39)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.16 (0.01-6.79)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.04 (0.01-10.0)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="middle" rowspan="20" align="left" colspan="1">Biochemistry</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Sodium</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>139.7 (1.43-154.1)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>139.9 (2.33-151.6)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>139.2 (1.43-154.1)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>140.0 (132.5-146.8)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>139.4 (131.1-154.1)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>139.8 (2.33-151.6)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>139.0 (1.43-150.1)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Potassium</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.81 (2.42-6.12)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.82 (2.42-6.12)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.74 (2.8-5.84)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.89 (2.66-6.12)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.635 (2.8-4.53)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.79 (2.42-4.98)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.76 (2.82-5.84)</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Chlorine</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>104.5 (1.94-119)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>104.7 (1.94-119.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>103.9 (85.0-117.1)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>104.9 (92.5-112.2)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>104.5 (94.7-115.4)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>104.6 (1.94-119.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>103.6 (85.0-117.1)</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Calcium</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.26 (0.93-147.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.28 (1.76-147.3)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.21 (0.93-2.54)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.3 (1.79-2.59)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.2 (1.57-2.54)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.26 (1.76-147.3)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2.21 (0.93-2.52)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Uric acid</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>210 (2.8-787.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>214.2 (4.6-608.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>196.45 (2.8-787.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>208.0 (50.4-537.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>208.9 (86.7-584.1)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>215.0 (4.6-608.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>195.0 (2.8-787.3)</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>GLU</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.82 (1.78-323)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.71 (1.78-323.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.23 (1.98-15.96)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.555 (2.04-46.5)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.23 (3.91-8.14)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.8 (1.78-323.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.23 (1.98-15.96)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Triglycerides</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.59 (0.39-96)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.555 (0.39-96.0)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.66 (0.45-15.15)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.36 (0.39-46.1)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.285 (0.45-9.09)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.65 (0.5-96.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1.94 (0.72-15.15)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Albumin</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>40 (1.4-426)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>40.7 (1.6-426.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>37.1 (1.4-51.9)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>42.5 (1.6-55.5)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>39.2 (25.2-51.9)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>40.0 (3.74-426.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>36.7 (1.4-47.8)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>ALT</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>19.6 (1.8-655.5)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>19.5 (1.8-655.5)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>20.0 (3.3-266.4)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>19.9 (2.9-276.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>17.6 (3.5-201.2)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>19.4 (1.8-655.5)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>21.2 (3.3-266.4)</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>AST</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>19.5 (0.9-1599.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>19.0 (1.06-670.3)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>23.1 (0.9-1599.3)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>18.4 (7.4-174.7)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>16.9 (2.6-186.2)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>19.6 (1.06-670.3)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>26.0 (0.9-1599.3)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>ALP</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>80.45 (11.8-1420.4)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>79.6 (11.8-340.5)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>84.7 (26.2-1420.4)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>88.25 (26.0-242.4)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>71.5 (26.2-256.0)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>75.3 (11.8-340.5)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>102.6 (35.9-1420.4)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>γ-GT</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>53 (0-1131.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>43.95 (5.5-1051.9)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>108.0 (12.0-1131.3)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>27.95 (5.7-428.7)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>73.8 (12.3-725.7)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>53.05 (5.5-1051.9)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>133.0 (12.0-1131.3)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>LDH</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>193.7 (31-15930)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>186.6 (80.0-4531.9)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>219.5 (31.0-15930.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>176.0 (97.8-2332.5)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>181.0 (31.0-1075.2)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>192.75 (80.0-4531.9)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>243.0 (89.4-15930.0)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Cr</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>51.1 (19-385)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>49.9 (19.0-137.23)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>59.25 (22.9-385.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>44.9 (19.0-126.4)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>64.0 (22.9-385.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>51.0 (26.0-137.23)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>58.0 (30.7-153.0)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>CRP</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>12 (0.818-960)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>8.536 (0.818-288.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>59.35 (1.184-960.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>6.635 (1.0-284.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>24.5 (1.78-409.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>9.86 (0.818-288.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>74.05 (1.184-960.0)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Ferritin</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1075.62</bold>
+<break/>
+<bold>(5.17-281253)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>913.03</bold>
+<break/>
+<bold>(5.17-45831.5)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2100.0</bold>
+<break/>
+<bold>(37.58-281253.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>646.875</bold>
+<break/>
+<bold>(54.16-45831.5)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2383.29</bold>
+<break/>
+<bold>(223.16-10574.04)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>1051.33</bold>
+<break/>
+<bold>(5.17-45000.0)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>2001.0</bold>
+<break/>
+<bold>(37.58-281253.0)<sup>*</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Calcitonin original</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.1855 (0.02-100)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.157 (0.02-100)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.484 (0.026-23.52)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.1965 (0.021-3.68)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.396 (0.049-16.52)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.145 (0.02-100.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>0.527 (0.026-23.52)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>αHBDH</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>156.3 (66.9-14500)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>151.0 (67.0-2647.6)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>176.65 (66.9-14500.0) <sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>150.15 (78.7-1552.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>143.0 (79.0-899.4)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>151.0 (67.0-2647.6)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>189.0 (66.9-14500.0)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Prealbumin</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>221.5 (32.4-612.8)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>231.4 (32.4-499.3)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>176.25 (36.4-612.8)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>250.0 (77.7-499.3)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>185.9 (43.3-499.5)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>222.6 (32.4-488.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>174.8 (36.4-612.8)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>B type urine natriuretic peptide (BNP)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>91.88 (5-35000)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>65.53 (5.0-7401.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>532.35 (5.1-35000.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>42.1 (5.0-2415.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>525.5 (5.1-35000.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>88.5 (5.0-7401.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>543.8 (5.7-25900.0)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="middle" rowspan="7" align="left" colspan="1">Cytokines</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>IL-2</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.3 (0.3-273)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.6 (0.3-191.2)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>9.7 (0.8-273.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.0 (0.3-41.1)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>8.3 (1.1-185.6)<sup>*</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.4 (0.5-191.2)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>11.0 (0.8-273.0)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>IL-4</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.8 (0.3-156.9)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.7 (0.3-31.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.3 (0.5-156.9)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.9 (0.5-24.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.6 (0.7-156.9)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.6 (0.3-31.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.0 (0.5-53.2)</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>IL-6</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>11.5 (0.8-14521.4)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>8.45 (0.8-4389.5)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>72.5 (1.2-14521.4)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>7.55 (0.8-1912.2)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>109.1 (2.0-7620.1)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>8.7 (1.0-4389.5)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>66.1 (1.2-14521.4)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>IL-10</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.9 (0.2-2439.1)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.9 (0.2-1664.3)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>13.2 (1.2-2439.1)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.0 (0.9-310.2)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>9.8 (1.2-181.0)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.8 (0.2-1664.3)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>17.6 (1.2-2439.1)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>TNF-α</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4 (0.1-922)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4 (0.1-41.8)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.25 (0.2-922.0)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.8 (1.2-41.8)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>3.85 (1.6-15.5)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.1 (0.1-18.4)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.45 (0.2-922.0)</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>IFN-γ</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>8.7 (0.5-5338.2)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>6.9 (0.5-1443.7)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>21.8 (1.0-5338.2)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>6.2 (1.0-1443.7)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>31.8 (1.5-3774.2)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>7.1 (0.5-543.8)<sup>**</sup>
+</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>20.85 (1.0-5338.2)<sup>**</sup>
+</bold>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>IL-17A</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.3 (0.8-84.7)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.45 (0.8-84.7)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.05 (1.0-78.2)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>10.45 (0.8-32.3)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.1 (2.2-78.2)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>4.7 (1.0-84.7)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5.0 (1.0-54.8)</bold>
+</td></tr><tr><td valign="top" colspan="2" align="center" rowspan="1">
+<bold>Dosage</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5000000 (300000</bold>
+<break/>
+<bold>- 20000000)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5000000 (300000</bold>
+<break/>
+<bold>- 20000000)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5000000 (1000000-18000000)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5000000 (300000</bold>
+<break/>
+<bold>- 20000000)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5000000 (1000000 -10000000)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5000000 (300000 -20000000)</bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<bold>5000000 (5000000- 18000000)</bold>
+</td></tr></tbody></table><table-wrap-foot><fn><p>Unless otherwise noted, shows the median of peak observed values for the time period from the start of treatment to the onset of the highest grade of CRS (scope).</p></fn><fn><p>*P&lt;0.01, **P&lt;0.001, Kruskal-Wallis test.</p></fn></table-wrap-foot></table-wrap><p>Consistent with common inflammation and hypotension, some factors related to tissue injury include the significant increase of alanine aminotransferase (ALT), aspartate aminotransferase (AST), lactate dehydrogenase (LDH), and creatinine (Cr), and the levels of these factors are useful means to predict severe toxicity (<xref rid="B16" ref-type="bibr">16</xref>). For most patients with CRS, clinical factors of patients with grades 3 and 4 CRS are significantly higher than those with grades 0 to 2 CRS (<xref rid="T2" ref-type="table">
+<bold>Table 2</bold>
+</xref>). Although their peak values are related to the severity of CRS, none of them predict it during the first three days (<xref rid="B17" ref-type="bibr">17</xref>–<xref rid="B19" ref-type="bibr">19</xref>). For example, the increase of serum LDH concentration reflects the high tumor load of B-cell malignant tumor and may be related to the aggressive disease dynamics (<xref rid="B20" ref-type="bibr">20</xref>). In addition, there is evidence increasing LDH levels may be related to the microenvironment of immunosuppressive tumors, which inhibits CAR-T cells function, leading to tumor immune escape (<xref rid="B21" ref-type="bibr">21</xref>, <xref rid="B22" ref-type="bibr">22</xref>). LDH is a clinical biomarker of the tumor lysis syndrome (TLS) (<xref rid="B23" ref-type="bibr">23</xref>), which is directly related to tumor load (<xref rid="B24" ref-type="bibr">24</xref>). This shows that LDH peak level is related to high-level CRS (<xref rid="B12" ref-type="bibr">12</xref>). In addition, the median LDH level in patients with grades 3 and 4 CRS correlated with ferritin levels (<xref rid="B25" ref-type="bibr">25</xref>). Other studies have shown that the levels of CRP, serum ferritin, and D-dimer are related to severe CRS (<xref rid="B26" ref-type="bibr">26</xref>). Common indexes of coagulation abnormalities, including prolongation of prothrombin time (PT), activation of partial thromboplastin time (APTT), increase of D-dimer and hypoproteinemia, have been reported in CRS with grade ≥ 3 (<xref rid="B27" ref-type="bibr">27</xref>, <xref rid="B28" ref-type="bibr">28</xref>). For the dose of CAR-T cells transfused back, according to the statistical results, although there was no relatively strong significance. However, according to the minimum value, the minimum dose of severe CRS was higher than that of patients without severe CRS.</p></sec><sec id="s5"><title>Correlation analysis of clinical factors</title><p>We collected the data of clinical factors of each patient in the first day or two, sorted them from small to large, took the data of the first and last third, found the highest CRS grade of the patient, corresponding to these data in all time periods, and made significance analysis. The color related to significance in <xref rid="f1" ref-type="fig">
+<bold>Figure 1A</bold>
+</xref> changed from blue to red, and it was found that the highest significance (P &lt; 0.001) corresponded to tumor load and platelets count. Neutrophil, lymphocyte, leukocyte, and monocyte counts, CRP, dosage, and IL-2 were highly significant (P &lt; 0.01), whereas D dimer, triglyceride (TAG), erythrocyte, hemoglobin, and procalcitonin were significant (P &lt; 0.05). We also showed that the initial values of these 14 factors had a significant impact on whether patients have high-level CRS. Among them, platelets and hemoglobin decrease with the gradual increase of CRS grade, indicating that the lower the value of these factors, the more likely the patient will have high-grade CRS, whereas the higher the value of the other 12 factors one or two days ago, the more likely it will have high-grade CRS.</p><fig position="float" id="f1" orientation="portrait"><label>Figure 1</label><caption><p>Clinical factor correlation map. <bold>(A)</bold> The clinical factors were significant. <bold>(B)</bold> Heat map of correlation coefficients between clinical factors.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-14-1273507-g001.jpg"><?image-name fimmu-14-1273507-g001.jpg?><?image-size 263679?><?image-md5 c4742e5cb941ac5052f78b660d7fc044?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2142?><?image-original-width 1181?><?image-scaled-height 1427?><?image-scaled-width 787?><?image-cloudpmc-urn urn:cdn:blobs/ba2f/10579557/c4742e5cb941/fimmu-14-1273507-g001.jpg?><?thumb-name fimmu-14-1273507-g001.gif?><?thumb-size 19347?><?thumb-md5 f5d1badd7012cc2cf15a69dc5e0624f8?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 181?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ba2f/10579557/f5d1badd7012/fimmu-14-1273507-g001.gif?></graphic></fig><p>
+<xref rid="f1" ref-type="fig">
+<bold>Figure 1B</bold>
+</xref> shows a thermogram of correlation coefficient between clinical factors of patients, where 1 indicates complete correlation, -1 indicates complete irrelevance, and the color from 1 to -1 gradually changes from warm to cool. We daily compared clinical factors of 202 patients and found the strong and weak correlation of some factors, among which the correlation between α -hydroxybutyrate dehydrogenase and lactate dehydrogenase was the strongest (0.99), indicating that the internal relationship between them was very close, and the changing trend was similar with the progress of CRS. Some studies evidenced that increased IL-6, CRP, and ferritin levels were related to the increase of prothrombin time and activated partial thromboplastin time to some extent (<xref rid="B29" ref-type="bibr">29</xref>). This is consistent with our analysis results. Moreover, in <xref rid="f1" ref-type="fig">
+<bold>Figure 1A</bold>
+</xref>, the correlation coefficient between the factors with higher significance was also higher than that between the factors with lower significance, indicating that the biomarkers with greater influence on patients’ severe CRS grade are more closely related than those with other factors, which is beyond our expectation. Some of our conclusions agreed with those in most published articles, revealing the implicit relationship among patients’ clinical factors.</p></sec><sec id="s6"><title>Clinical factors spectrum</title><p>Factors related to severe CRS are shown in <xref rid="f2" ref-type="fig">
+<bold>Figure 2</bold>
+</xref>. We evaluated 41 related factors in 202 patients with B cell-acute lymphoblastic leukemia, including biochemistry, blood routine, cytokines, and coagulation factors. Biomarkers platelet, albumin, prealbumin, neutrophil count, neutrophil percentage, hemoglobin, potassium, red blood cells and white blood cells decreased with the increase of CRS grade, and we used the lowest value to represent the peak value. We can observe in <xref rid="f2" ref-type="fig">
+<bold>Figure 2</bold>
+</xref> the peak difference of related factors during the period from the start of treatment to the occurrence of the highest-level CRS, including IL-2, IL-6, IL-10, and IFN-γ, and some clinical factors, such as D-dimer, CRP, procalcitonin, LDH, ferritin, among others. The peak levels of these factors were significantly (P &lt; 0.05 by the Kruskal-Wallis test) different between 0-2 CRS and 3-4 CRS, and the P value obtained is significant. Moreover, we did not observe a significant difference in the severity of CRS among 16 related factors.</p><fig position="float" id="f2" orientation="portrait"><label>Figure 2</label><caption><p>Severe CRS-related factors. <bold>(A)</bold> 25 factors with significant differences. <bold>(B)</bold> 16 factors with no significant difference.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-14-1273507-g002.jpg"><?image-name fimmu-14-1273507-g002.jpg?><?image-size 195718?><?image-md5 2617f07edb52c15aa40904dd8a961d74?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1738?><?image-original-width 1299?><?image-scaled-height 868?><?image-scaled-width 649?><?image-cloudpmc-urn urn:cdn:blobs/ba2f/10579557/2617f07edb52/fimmu-14-1273507-g002.jpg?><?thumb-name fimmu-14-1273507-g002.gif?><?thumb-size 22072?><?thumb-md5 64b46f12f611e874e21316668c706363?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 134?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ba2f/10579557/64b46f12f611/fimmu-14-1273507-g002.gif?></graphic></fig><p>In addition, we found that the peak time of some cytokines and biomarkers in patients with severe CRS was earlier than that in patients without sCRS. Knowing the rising and falling time may not only improve the understanding of basic biology, but also have potential therapeutic significance. However, although IL-6 is the cytokine with the strongest correlation with sCRS, the early level of IL-6 (days 0 to 3) does not predict the occurrence of sCRS.</p></sec><sec id="s7"><title>Predictive modeling</title><p>Based on the clinical data of 202 patients, we analyzed and provided classified prediction models, including five for adults and five for children. According to the data of current clinical factors, <xref rid="f3" ref-type="fig">
+<bold>Figure 3</bold>
+</xref> lists the best decision tree models for children and adults, <xref rid="f4" ref-type="fig">
+<bold>Figure 4</bold>
+</xref> provides the decision tree model for predicting one day in advance, and <xref rid="f5" ref-type="fig">
+<bold>Figure 5</bold>
+</xref> is a model for predicting only the data of the previous day or two, when patients are transfused with CAR-T cells. We established the model by using the three-factor rule, and the model is accurate. According to the current data volume, the two-factor decision tree is not as good as the three-factor decision tree in terms of specificity and sensitivity, but the four-factor decision tree is easier to overfit, so the three-factor decision tree is more appropriate. These models are used to predict whether patients have sCRS and provide medical guidance in therapy.</p><fig position="float" id="f3" orientation="portrait"><label>Figure 3</label><caption><p>Decision tree prediction model for the day. <bold>(A, B)</bold> Decision tree prediction model for adults. <bold>(C, D)</bold> Decision tree prediction model for children.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-14-1273507-g003.jpg"><?image-name fimmu-14-1273507-g003.jpg?><?image-size 142823?><?image-md5 d2fb011ce2f7faac639286976477ed46?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1875?><?image-original-width 1417?><?image-scaled-height 937?><?image-scaled-width 708?><?image-cloudpmc-urn urn:cdn:blobs/ba2f/10579557/d2fb011ce2f7/fimmu-14-1273507-g003.jpg?><?thumb-name fimmu-14-1273507-g003.gif?><?thumb-size 14410?><?thumb-md5 d94ed807d0bb8554a0fecf1814b1998c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 132?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ba2f/10579557/d94ed807d0bb/fimmu-14-1273507-g003.gif?></graphic></fig><fig position="float" id="f4" orientation="portrait"><label>Figure 4</label><caption><p>Decision tree prediction model one day in advance. <bold>(A, B)</bold> Decision tree prediction model for adults. <bold>(C, D)</bold> Decision tree prediction model for children.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-14-1273507-g004.jpg"><?image-name fimmu-14-1273507-g004.jpg?><?image-size 144062?><?image-md5 710acf825b33969cc53ce5019a09bb89?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1902?><?image-original-width 1417?><?image-scaled-height 950?><?image-scaled-width 708?><?image-cloudpmc-urn urn:cdn:blobs/ba2f/10579557/710acf825b33/fimmu-14-1273507-g004.jpg?><?thumb-name fimmu-14-1273507-g004.gif?><?thumb-size 14312?><?thumb-md5 e134215d335cf6633f75908a151c2cad?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 134?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ba2f/10579557/e134215d335c/fimmu-14-1273507-g004.gif?></graphic></fig><fig position="float" id="f5" orientation="portrait"><label>Figure 5</label><caption><p>Decision tree prediction model of initial value. <bold>(A)</bold> Decision tree prediction model for adults. <bold>(B)</bold> Decision tree prediction model for children.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fimmu-14-1273507-g005.jpg"><?image-name fimmu-14-1273507-g005.jpg?><?image-size 111046?><?image-md5 9292e111016cdec95085eedf33c49f8d?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1197?><?image-original-width 1299?><?image-scaled-height 598?><?image-scaled-width 649?><?image-cloudpmc-urn urn:cdn:blobs/ba2f/10579557/9292e111016c/fimmu-14-1273507-g005.jpg?><?thumb-name fimmu-14-1273507-g005.gif?><?thumb-size 18563?><?thumb-md5 18ee4cbee15479399ff3ba6ad5fc69a5?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 92?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/ba2f/10579557/18ee4cbee154/fimmu-14-1273507-g005.gif?></graphic></fig><p>For adults, TNFα, Triglyceride (TAG), and PT models were accurately predicted, with a sensitivity of 85% (95% CI, 0.94 to 0.96) (<xref rid="f3" ref-type="fig">
+<bold>Figure 3A</bold>
+</xref>), whereas TNFα, IL-6, and IFN-γ models were accurately predicted, with a sensitivity of 96% (95% CI, 0.85 to 0.99) and specificity of 96% (95% CI, 0.94 to 0.97) (<xref rid="f3" ref-type="fig">
+<bold>Figure 3B</bold>
+</xref>). Modeling for children was more accurate. The model using IFN-γ, APTT, and ALP has a sensitivity of 96% (95% CI, 0.77 to 1.0) and a specificity of 95% (95% CI, 0.92 to 0.96) (<xref rid="f3" ref-type="fig">
+<bold>Figure 3C</bold>
+</xref>). We also observed a sensitivity of 96% (95% CI, 0.77 to 1.0) and a specificity of 96% (95% CI, 0.93 to 0.97), when using PCT, IL-6, and TAG (<xref rid="f3" ref-type="fig">
+<bold>Figure 3D</bold>
+</xref>). According to the research, severity of CRS was related to IL-6 (<xref rid="B30" ref-type="bibr">30</xref>). In the cohort of children and adults, we provided two decision tree combinations related to IL-6.</p><p>We have explored the model of predicting one day in advance and provided two models for children and adults, which have the best sensitivity and specificity, and predict whether a patient will have sCRS the next day one day in advance, which facilitates a physician diagnosis one day earlier for timely intervention. For adults, we used a combination of PCT, B-type natriuretic peptide (BNP), and IL-10, whose sensitivity and specificity were 96% (95% CI, 0.85 to 0.99) and 91% (95% CI, 0.88 to 0.92), respectively. Furthermore, sensitivity and specificity were 98% (95% CI, 0.88 to 1.0) by using CRP, IL-10, and IL-6 models. For children, the model using CRP, IL-10, and IL-6 had a sensitivity of 92% (95% CI, 0.72 to 0.99) and a specificity of 88% (95% CI, 0.84 to 0.91), whereas the model using PCT, IFN-γ, and IL-6 had a sensitivity of 96%.</p><p>To determine the highest CRS grade that a patient may reach only from the initial value of the patient’s biomarker, we used the data of 202 patients, who were transfused with CAR-T cells for 0~1 day at the beginning. For children (N = 62), we found two models with good sensitivity and specificity. <xref rid="f5" ref-type="fig">
+<bold>Figure 5A</bold>
+</xref> shows that in adults, the model for the combination of neutrophil percentage (NEU), MRD (which is considered as tumor load), and HGB, had a sensitivity of 86% (95% CI, 0.67 to 0.95), a specificity of 77% (95% CI, 0.68 to 0.85), and was high in CAR-T cells (<xref rid="B31" ref-type="bibr">31</xref>). According to previously published studies by Teachey and others, tumor load before infusion predicts sCRS (<xref rid="B30" ref-type="bibr">30</xref>, <xref rid="B32" ref-type="bibr">32</xref>). However, tumor load may not be used to predict the model alone. In children’s cohort, we collected bone marrow from patients before transfusion to determine tumor load and used the decision tree model to evaluate if it has an important predictive variable in children’s cohort, but many experiments did not measure tumor load. For the combination of CRP, potassium (K), and tumor load, the sensitivity was 83% (95% CI, 0.51 to 0.97) and the specificity was 74% (95% CI, 0.55 to 0.86) (<xref rid="f5" ref-type="fig">
+<bold>Figure 5B</bold>
+</xref>).</p><p>Using the patient’s initial value as predictor may be a tool for a physician to prevent the patient from having sCRS, which is life threatening.</p></sec><sec id="s8"><title>Biomarker analysis</title><p>The 10 models described above used TNFα, PCT, TAG, PT, IFN-γ, BNP, IL-6, IL-10, CRP, NEU, HGB, potassium, APTT, and ALP. We evaluated four cytokines, eight clinical factors, and a tumor load. Cytokines are often involved in inducing sCRS. If they are not under control, they may cause a cytokine storm in the later stage, which will damage organs and promote inflammatory responses. Organs damage will also produce a variety of biomarkers, thus the level of clinical factors is often a reaction to the severity of inflammation.</p><p>The cytokines IL-6, IL-10, IFN-γ, and TNF-α play a significant role in the genesis of CRS. A significant increase in endothelial activated cytokines (IL-6 and IFN-γ) and biomarkers (VWF and Ang-2) has been observed in patients with sCRS, which demonstrates that sCRS is characterized by endothelial cell activation (<xref rid="B27" ref-type="bibr">27</xref>). IL-10 is an anti-inflammatory cytokine, and IL-10 family cytokines play a key role in maintaining tissue homeostasis during infection and inflammation by limiting excessive inflammatory responses, up-regulating innate immunity, and promoting tissue repair (<xref rid="B33" ref-type="bibr">33</xref>).</p><p>Studies have shown that prealbumin, fibrinogen, and PCT are reactants in the acute phase of inflammation. The increase of blood fibrinogen content is considered an indicator of a pro-inflammatory state and a high-risk marker of vascular inflammatory diseases, whereas ICAM-1 signal affects the integrity of the endothelial cell layer and vascular permeability in a fibrinogen-dependent way (<xref rid="B34" ref-type="bibr">34</xref>). PCT level reflects the whole body inflammatory reaction and represents a prognostic biomarker for risk assessment of patients with severe infection and septicemia (<xref rid="B35" ref-type="bibr">35</xref>). However, prealbumin showed a significant change in serum concentration during inflammation, which negatively correlated with inflammation (<xref rid="B36" ref-type="bibr">36</xref>).</p><p>Serum and plasma BNP level in normal individuals is extremely low but its increase has a significant diagnostic value. It indicates whether a heart failure caused by inflammation has been corrected or is worsening. If treatment is effective, the level of BNP is significantly reduced. However, its increase usually indicates that patients´ heart failure is worsening (<xref rid="B37" ref-type="bibr">37</xref>). Some epidemiological studies have shown a correlation between the increased GGT activity level and sudden coronary heart disease (CHD) or CHD-related mortality (<xref rid="B38" ref-type="bibr">38</xref>). Furthermore, AST is common in liver function tests. It exists in many tissues of human body, particularly in myocardium, followed by liver, skeletal muscle, and kidney. In normal state, AST serum level is low. However, when cells of some organs are damaged, their membrane permeability and AST serum concentration increase (<xref rid="B39" ref-type="bibr">39</xref>). The content of D-dimer in patients’ plasma positively correlated with the severity of liver disease. The concentration of D-dimer is used as a marker to determine the degree of liver damage. Moreover, in sepsis, the level of D-dimer is used to evaluate the severity and prognosis of patients’ illness, and it has a certain effect on the evaluation of treatment effect (<xref rid="B40" ref-type="bibr">40</xref>).</p></sec><sec sec-type="discussion" id="s9"><title>Discussion</title><p>In this study, we made new observations. Firstly, we comprehensively compared biomarkers between patients with and without sCRS, revealing important details of its potential biology. Secondly, we analyzed the early level increase of various biomarkers in patients with sCRS and the correlation between their changes. Thirdly, we developed a model to predict the development of sCRS, which enabled us for an early intervention to reduce the probability or mortality of CRS. Finally, we attempted to predict the CRS grade of patients one day in advance and only according to the initial value and provided an effective classification model. This is the first time that a model is used to predict at least one day in advance, which adds a new line of defense for the prevention and control of sCRS.</p><p>Our group’s data showed that, for example, the peak levels of LDH and ferritin have a strong correlation with sCRS. However, we did not find a strong relationship between the severity of CRS and its prognosis (<xref rid="B30" ref-type="bibr">30</xref>). It has been reported that the severity of CRS may be related to the tumor load during treatment (<xref rid="B30" ref-type="bibr">30</xref>, <xref rid="B32" ref-type="bibr">32</xref>). Although this is in agreement with our study, our research evidenced that tumor load alone is not enough to predict which patients will develop sCRS, and tumor load should be classified and predicted together with other factors to have higher sensitivity and specificity. Despite some clinical factors are highly significant for patients with high-level CRS, it seems that this significance is not accurate enough to predict whether sCRS occurs.</p><p>We analyzed the influence of different patients’ early clinical factors on the later CRS grade. We observed that patients with sCRS had significant differences in the initial tumor load, platelets, neutrophil count, lymphocyte percentage, white blood cells, monocyte count, CRP, dosage, IL-2, D-dimer, TAG, red blood cells, hemoglobin, and procalcitonin, as compared with patients without sCRS. In terms of patient-specific factors, high tumor load, baseline thrombocytopenia, and elevated endothelial activation markers are related to the development of sCRS (<xref rid="B41" ref-type="bibr">41</xref>, <xref rid="B42" ref-type="bibr">42</xref>). In patients with B-cell malignant tumor, receiving anti-CD19 CAR-T cells, a high tumor load in bone marrow has been identified as a risk factor for CRS (<xref rid="B27" ref-type="bibr">27</xref>), which is in agreement with our analysis. Regarding the cell dose of CAR-T reinfusion, providing patients with a lower cell dose may reduce the toxicity (<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B31" ref-type="bibr">31</xref>), which is also consistent with our analysis.</p><p>Severe CRS is life-threatening. In our study, some patients died of CRS. Therefore, it is of great significance to predict and prevent the occurrence of sCRS. We showed three forms of prediction. Firstly, we predicted the patient´s CRS level, by analyzing his daily clinical data. Secondly, we predicted the CRS registration of the patient, one day in advance. Thirdly, we predicted whether the patient is prone to high-level CRS, according to his body´s biomarkers, 0 to 1 days after the patient is transfused with CAR-T cells. We also provided five classification models for children and five prediction models for adults. The prediction of the day provided physicians of an opportunity for an early diagnosis to determine a patient´s CRS grade of patients, allowing to stop the development of high-level CRS. For the prediction one day in advance, we found an overly sensitive and specific classification model for adults and children. The prediction one day in advance can enable doctors to prevent patients from reaching sCRS more accurately, ensure the life safety of patients, and minimize the effect of limiting treatment. For very early prediction, previous studies did not find any standard clinical biomarkers to help predict the severity of CRS, because many patients’ clinical biomarkers (such as IL-6, LDH, CRP, ferritin, among others) reached their peak after illness. When analyzing our own database, we found that the classification model with high sensitivity and specificity has the potential to determine whether the patient is prone to high-grade CRS, according to the initial cytokine levels in the early stage of treatment. However, early intervention and prevention of CRS will limit its efficacy to a certain extent, and the trial of early intervention will need to be carefully developed.</p><p>Cytokines are the most powerful laboratory biomarkers to predict CRS. However, in many clinical laboratories, it is impossible to rapidly evaluate cytokines. Therefore, our classification model allows other clinical factors to analyze and track the progress of CRS. After CAR-T cell therapy, CRS is not fully or accurately defined by different CTCAE scoring scales. Lee et al. and Davila et al. also published a CRS rating scale for patients treated with CAR-T cells (<xref rid="B17" ref-type="bibr">17</xref>, <xref rid="B32" ref-type="bibr">32</xref>). Our CRS rating scale was compared with other published rating scales, and the grading system was remarkably similar. Therefore, the prediction model we developed was related to other grading systems. Regardless of the “score level”, our model identified patients who nearly presented life-threatening CRS complications.</p><p>Taken together, our study represents a comprehensive analysis of the clinical and biological manifestations of CRS, following CAR-T cell therapy. We have analyzed and identified clinical factors related to severe CRS and biomarkers that timely predict the development of severe CRS. The emergence of these models will enable patients with sCRS to be closely monitored and have the opportunity to start an active support treatment. At the same time, predicting the potential development of sCRS will prevent unnecessary cytokine intervention. Therefore, the model we produced, which was based on the use of biomarkers to predict sCRS, has direct clinical and therapeutic significance.</p></sec><sec sec-type="data-availability" id="s10"><title>Data availability statement</title><p>The original contributions presented in the study are included in the article/<xref rid="SM1" ref-type="supplementary-material">Supplementary Material</xref>. Further inquiries can be directed to the corresponding authors.</p></sec><sec sec-type="ethics-statement" id="s11"><title>Ethics statement</title><p>The studies involving humans were approved by The First Affiliated Hospital of Soochow University, Suzhou, China. The studies were conducted in accordance with the local legislation and institutional requirements. Written informed consent for participation in this study was provided by the participants’ legal guardians/next of kin. Written informed consent was obtained from the individual(s), and minor(s)’ legal guardian/next of kin, for the publication of any potentially identifiable images or data included in this article.</p></sec><sec sec-type="author-contributions" id="s12"><title>Author contributions</title><p>ZW: Data curation, Formal Analysis, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review &amp; editing. JX: Writing – review &amp; editing. MZ: writing – review &amp; editing. NX: writing – review &amp; editing. LK: writing – review &amp; editing. XL: writing – review &amp; editing. LY: writing – review &amp; editing. WF: Writing – review &amp; editing. CZ: Writing – review &amp; editing.</p></sec></body><back><ack><title>Acknowledgments</title><p>The authors would like to express their gratitude to EditSprings (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.editsprings.cn" ext-link-type="uri">https://www.editsprings.cn</ext-link>) for the expert linguistic services provided.</p></ack><sec sec-type="COI-statement" id="s14"><title>Conflict of interest</title><p>CZ, NX, LK, XL, LY were employed by Shanghai Unicar-Therapy BioMedicine Technology Co., Ltd.</p><p>The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec><sec sec-type="disclaimer" id="s15"><title>Publisher’s note</title><p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></sec><sec sec-type="supplementary-material" id="s16"><title>Supplementary material</title><p>The Supplementary Material for this article can be found online at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.frontiersin.org/articles/10.3389/fimmu.2023.1273507/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fimmu.2023.1273507/full#supplementary-material</ext-link>
+</p><supplementary-material id="SM1" position="float" content-type="local-data" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Table_1.xlsx" position="float" orientation="portrait"><?suppdata-name Table_1.xlsx?><?suppdata-size 422279?><?suppdata-md5 3f60fde8c009df45eb101864ad355fed?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.spreadsheetml.sheet?><?suppdata-cloudpmc-urn urn:app:ba2f/10579557/3f60fde8c009/Table_1.xlsx?></media></supplementary-material></sec><ref-list><title>References</title><ref id="B1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Majzner</surname><given-names>RG</given-names></name><name name-style="western"><surname>Mackall</surname><given-names>CL</given-names></name></person-group>. <article-title>Clinical lessons learned from the first leg of the CAR T cell journey</article-title>. <source>Nat Med</source> (<year>2019</year>) <volume>25</volume>(<issue>9</issue>):<page-range>1341–55</page-range>. doi: <pub-id pub-id-type="doi">10.1038/s41591-019-0564-6</pub-id>
+<pub-id pub-id-type="pmid">31501612</pub-id></mixed-citation></ref><ref id="B2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>June</surname><given-names>CH</given-names></name><name name-style="western"><surname>Sadelain</surname><given-names>M</given-names></name></person-group>. <article-title>Chimeric antigen receptor therapy</article-title>. <source>N Engl J Med</source> (<year>2018</year>) <volume>379</volume>(<issue>1</issue>):<fpage>64</fpage>–<lpage>73</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMra1706169</pub-id>
+<pub-id pub-id-type="pmid">29972754</pub-id>
+<pub-id pub-id-type="pmcid">PMC7433347</pub-id></mixed-citation></ref><ref id="B3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Maude</surname><given-names>SL</given-names></name><name name-style="western"><surname>Laetsch</surname><given-names>TW</given-names></name><name name-style="western"><surname>Buechner</surname><given-names>J</given-names></name><name name-style="western"><surname>Rives</surname><given-names>S</given-names></name><name name-style="western"><surname>Boyer</surname><given-names>M</given-names></name><name name-style="western"><surname>Bittencourt</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Tisagenlecleucel in Children and Young Adults with B-Cell Lymphoblastic Leukemia</article-title>. <source>N Engl J Med</source> (<year>2018</year>) <volume>378</volume>(<issue>5</issue>):<page-range>439–48</page-range>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa1709866</pub-id>
+<pub-id pub-id-type="pmcid">PMC5996391</pub-id><pub-id pub-id-type="pmid">29385370</pub-id></mixed-citation></ref><ref id="B4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Park</surname><given-names>JH</given-names></name><name name-style="western"><surname>Riviere</surname><given-names>I</given-names></name><name name-style="western"><surname>Gonen</surname><given-names>M</given-names></name><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><name name-style="western"><surname>Senechal</surname><given-names>B</given-names></name><name name-style="western"><surname>Curran</surname><given-names>KJ</given-names></name><etal/></person-group>. <article-title>Long-Term Follow-up of CD19 CAR Therapy in Acute Lymphoblastic Leukemia</article-title>. <source>N Engl J Med</source> (<year>2018</year>) <volume>378</volume>(<issue>5</issue>):<page-range>449–59</page-range>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa1709919</pub-id>
+<pub-id pub-id-type="pmcid">PMC6637939</pub-id><pub-id pub-id-type="pmid">29385376</pub-id></mixed-citation></ref><ref id="B5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>DW</given-names></name><name name-style="western"><surname>Kochenderfer</surname><given-names>JN</given-names></name><name name-style="western"><surname>Stetler-Stevenson</surname><given-names>M</given-names></name><name name-style="western"><surname>Cui</surname><given-names>YK</given-names></name><name name-style="western"><surname>Delbrook</surname><given-names>C</given-names></name><name name-style="western"><surname>Feldman</surname><given-names>SA</given-names></name><etal/></person-group>. <article-title>T cells expressing CD19 chimeric antigen receptors for acute lymphoblastic leukaemia in children and young adults: a phase 1 dose-escalation trial</article-title>. <source>Lancet</source> (<year>2015</year>) <volume>385</volume>(<issue>9967</issue>):<page-range>517–28</page-range>. doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(14)61403-3</pub-id>
+<pub-id pub-id-type="pmcid">PMC7065359</pub-id><pub-id pub-id-type="pmid">25319501</pub-id></mixed-citation></ref><ref id="B6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yan</surname><given-names>Z</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name><name name-style="western"><surname>Cao</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>C</given-names></name><name name-style="western"><surname>Liu</surname><given-names>H</given-names></name><name name-style="western"><surname>Huang</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Characteristics and Risk Factors of Cytokine Release Syndrome in Chimeric Antigen Receptor T Cell Treatment</article-title>. <source>Front Immunol</source> (<year>2021</year>) <volume>12</volume>:<elocation-id>611366</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2021.611366</pub-id>
+<pub-id pub-id-type="pmid">33708205</pub-id>
+<pub-id pub-id-type="pmcid">PMC7940756</pub-id></mixed-citation></ref><ref id="B7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cordeiro</surname><given-names>A</given-names></name><name name-style="western"><surname>Bezerra</surname><given-names>ED</given-names></name><name name-style="western"><surname>Hirayama</surname><given-names>AV</given-names></name><name name-style="western"><surname>Hill</surname><given-names>JA</given-names></name><name name-style="western"><surname>Wu</surname><given-names>QV</given-names></name><name name-style="western"><surname>Voutsinas</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Late events after treatment with CD19-targeted chimeric antigen receptor modified T cells</article-title>. <source>Biol Blood Marrow Transplant</source> (<year>2020</year>) <volume>26</volume>(<issue>1</issue>):<fpage>26</fpage>–<lpage>33</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bbmt.2019.08.003</pub-id>
+<pub-id pub-id-type="pmid">31419568</pub-id>
+<pub-id pub-id-type="pmcid">PMC6953906</pub-id></mixed-citation></ref><ref id="B8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Yanez</surname><given-names>L</given-names></name><name name-style="western"><surname>Sanchez-Escamilla</surname><given-names>M</given-names></name><name name-style="western"><surname>Perales</surname><given-names>MA</given-names></name></person-group>. <article-title>CAR T cell toxicity: current management and future directions</article-title>. <source>Hemasphere</source> (<year>2019</year>) <volume>3</volume>(<issue>2</issue>):<elocation-id>e186</elocation-id>. doi: <pub-id pub-id-type="doi">10.1097/HS9.0000000000000186</pub-id>
+<pub-id pub-id-type="pmid">31723825</pub-id>
+<pub-id pub-id-type="pmcid">PMC6746032</pub-id></mixed-citation></ref><ref id="B9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Maude SL</surname><given-names>BD</given-names></name><name name-style="western"><surname>Teachey</surname><given-names>DT</given-names></name><name name-style="western"><surname>Grupp</surname><given-names>SA</given-names></name></person-group>. <article-title>Managing cytokine release syndrome associated with novel T cell-engaging therapies</article-title>. <source>Cancer J</source> (<year>2014</year>) <volume>20</volume>:<page-range>119–22</page-range>. doi: <pub-id pub-id-type="doi">10.1097/PPO.0000000000000035</pub-id>
+<pub-id pub-id-type="pmcid">PMC4119809</pub-id><pub-id pub-id-type="pmid">24667956</pub-id></mixed-citation></ref><ref id="B10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hong</surname><given-names>R</given-names></name><name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Huang</surname><given-names>H</given-names></name></person-group>. <article-title>Biomarkers for chimeric antigen receptor T cell therapy in acute lymphoblastic leukemia: prospects for personalized management and prognostic prediction</article-title>. <source>Front Immunol</source> (<year>2021</year>) <volume>12</volume>:<elocation-id>627764</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2021.627764</pub-id>
+<pub-id pub-id-type="pmid">33717147</pub-id>
+<pub-id pub-id-type="pmcid">PMC7947199</pub-id></mixed-citation></ref><ref id="B11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>Z</given-names></name><name name-style="western"><surname>Han</surname><given-names>W</given-names></name></person-group>. <article-title>Biomarkers of cytokine release syndrome and neurotoxicity related to CAR-T cell therapy</article-title>. <source>biomark Res</source> (<year>2018</year>) <volume>6</volume>:<fpage>4</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s40364-018-0116-0</pub-id>
+<pub-id pub-id-type="pmid">29387417</pub-id>
+<pub-id pub-id-type="pmcid">PMC5778792</pub-id></mixed-citation></ref><ref id="B12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Teachey</surname><given-names>DT</given-names></name><name name-style="western"><surname>Lacey</surname><given-names>SF</given-names></name><name name-style="western"><surname>Shaw</surname><given-names>PA</given-names></name><name name-style="western"><surname>Melenhorst</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Maude</surname><given-names>SL</given-names></name><name name-style="western"><surname>Frey</surname><given-names>N</given-names></name><etal/></person-group>. <article-title>Identification of Predictive Biomarkers for Cytokine Release Syndrome after Chimeric Antigen Receptor T-cell Therapy for Acute Lymphoblastic Leukemia</article-title>. <source>Cancer Discov</source> (<year>2016</year>) <volume>6</volume>(<issue>6</issue>):<page-range>664–79</page-range>. doi: <pub-id pub-id-type="doi">10.1158/2159-8290.CD-16-0040</pub-id>
+<pub-id pub-id-type="pmcid">PMC5448406</pub-id><pub-id pub-id-type="pmid">27076371</pub-id></mixed-citation></ref><ref id="B13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gust</surname><given-names>J</given-names></name><name name-style="western"><surname>Hay</surname><given-names>KA</given-names></name><name name-style="western"><surname>Hanafi</surname><given-names>LA</given-names></name><name name-style="western"><surname>Li</surname><given-names>D</given-names></name><name name-style="western"><surname>Myerson</surname><given-names>D</given-names></name><name name-style="western"><surname>Gonzalez-Cuyar</surname><given-names>LF</given-names></name><etal/></person-group>. <article-title>Endothelial activation and blood-Brain barrier disruption in neurotoxicity after adoptive immunotherapy with CD19 CAR-T cells</article-title>. <source>Cancer Discov</source> (<year>2017</year>) <volume>7</volume>(<issue>12</issue>):<page-range>1404–19</page-range>. doi: <pub-id pub-id-type="doi">10.1158/2159-8290.CD-17-0698</pub-id>
+<pub-id pub-id-type="pmcid">PMC5718945</pub-id><pub-id pub-id-type="pmid">29025771</pub-id></mixed-citation></ref><ref id="B14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Allen</surname><given-names>CE</given-names></name><name name-style="western"><surname>Yu</surname><given-names>X</given-names></name><name name-style="western"><surname>Kozinetz</surname><given-names>CA</given-names></name><name name-style="western"><surname>McClain</surname><given-names>KL</given-names></name></person-group>. <article-title>Highly elevated ferritin levels and the diagnosis of hemophagocytic lymphohistiocytosis</article-title>. <source>Pediatr Blood Cancer</source> (<year>2008</year>) <volume>50</volume>(<issue>6</issue>):<page-range>1227–35</page-range>. doi: <pub-id pub-id-type="doi">10.1002/pbc.21423</pub-id>
+<pub-id pub-id-type="pmid">18085676</pub-id></mixed-citation></ref><ref id="B15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Switala JR</surname><given-names>HM</given-names></name><name name-style="western"><surname>Davidson</surname><given-names>A</given-names></name></person-group>. <article-title>Serum ferritin is a cost-effective laboratory marker for hemophagocytic lymphohistiocytosis in the developing world</article-title>. <source>J Pediatr Hematol Oncol</source> (<year>2012</year>) <volume>2012</volume>:<page-range>34:e89–92</page-range>. doi: <pub-id pub-id-type="doi">10.1097/MPH.0b013e31824227b9</pub-id>
+<pub-id pub-id-type="pmid">22322940</pub-id></mixed-citation></ref><ref id="B16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Du</surname><given-names>M</given-names></name><name name-style="western"><surname>Hari</surname><given-names>P</given-names></name><name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Mei</surname><given-names>H</given-names></name></person-group>. <article-title>Biomarkers in individualized management of chimeric antigen receptor T cell therapy</article-title>. <source>biomark Res</source> (<year>2020</year>) <volume>8</volume>:<fpage>13</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s40364-020-00190-8</pub-id>
+<pub-id pub-id-type="pmid">32426136</pub-id>
+<pub-id pub-id-type="pmcid">PMC7216329</pub-id></mixed-citation></ref><ref id="B17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>DW</given-names></name><name name-style="western"><surname>Gardner</surname><given-names>R</given-names></name><name name-style="western"><surname>Porter</surname><given-names>DL</given-names></name><name name-style="western"><surname>Louis</surname><given-names>CU</given-names></name><name name-style="western"><surname>Ahmed</surname><given-names>N</given-names></name><name name-style="western"><surname>Jensen</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Current concepts in the diagnosis and management of cytokine release syndrome</article-title>. <source>Blood</source> (<year>2014</year>) <volume>124</volume>(<issue>2</issue>):<page-range>188–95</page-range>. doi: <pub-id pub-id-type="doi">10.1182/blood-2014-05-552729</pub-id>
+<pub-id pub-id-type="pmcid">PMC4093680</pub-id><pub-id pub-id-type="pmid">24876563</pub-id></mixed-citation></ref><ref id="B18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Porter</surname><given-names>DL</given-names></name><name name-style="western"><surname>Hwang</surname><given-names>W-T</given-names></name><name name-style="western"><surname>Frey</surname><given-names>NV</given-names></name><name name-style="western"><surname>Lacey</surname><given-names>SF</given-names></name><name name-style="western"><surname>Shaw</surname><given-names>PA</given-names></name><name name-style="western"><surname>Loren</surname><given-names>AW</given-names></name><etal/></person-group>. <article-title>Chimeric antigen receptor T cells persist and induce sustained remissions in relapsed refractory chronic lymphocytic leukemia</article-title>. <source>Sci Transl Med</source> (<year>2015</year>) <volume>7</volume>:<page-range>303–39</page-range>. doi: <pub-id pub-id-type="doi">10.1126/scitranslmed.aac5415</pub-id>
+<pub-id pub-id-type="pmcid">PMC5909068</pub-id><pub-id pub-id-type="pmid">26333935</pub-id></mixed-citation></ref><ref id="B19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Mei</surname><given-names>H</given-names></name><name name-style="western"><surname>Jiang</surname><given-names>H</given-names></name><name name-style="western"><surname>Wu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Guo</surname><given-names>T</given-names></name><name name-style="western"><surname>Xia</surname><given-names>L</given-names></name><name name-style="western"><surname>Jin</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Neurological toxicities and coagulation disorders in the cytokine release syndrome during CAR-T therapy</article-title>. <source>Br J Haematol</source> (<year>2018</year>) <volume>181</volume>(<issue>5</issue>):<page-range>689–92</page-range>. doi: <pub-id pub-id-type="doi">10.1111/bjh.14680</pub-id>
+<pub-id pub-id-type="pmid">28369673</pub-id></mixed-citation></ref><ref id="B20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hay</surname><given-names>KA</given-names></name><name name-style="western"><surname>Gauthier</surname><given-names>J</given-names></name><name name-style="western"><surname>Hirayama</surname><given-names>AV</given-names></name><name name-style="western"><surname>Voutsinas</surname><given-names>JM</given-names></name><name name-style="western"><surname>Wu</surname><given-names>Q</given-names></name><name name-style="western"><surname>Li</surname><given-names>D</given-names></name><etal/></person-group>. <article-title>Factors associated with durable EFS in adult B-cell ALL patients achieving MRD-negative CR after CD19 CAR T-cell therapy</article-title>. <source>Blood</source> (<year>2019</year>) <volume>133</volume>(<issue>15</issue>):<page-range>1652–63</page-range>. doi: <pub-id pub-id-type="doi">10.1182/blood-2018-11-883710</pub-id>
+<pub-id pub-id-type="pmcid">PMC6460418</pub-id><pub-id pub-id-type="pmid">30728140</pub-id></mixed-citation></ref><ref id="B21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cao</surname><given-names>J</given-names></name><name name-style="western"><surname>Wang</surname><given-names>G</given-names></name><name name-style="western"><surname>Cheng</surname><given-names>H</given-names></name><name name-style="western"><surname>Wei</surname><given-names>C</given-names></name><name name-style="western"><surname>Qi</surname><given-names>K</given-names></name><name name-style="western"><surname>Sang</surname><given-names>W</given-names></name><etal/></person-group>. <article-title>Potent anti-leukemia activities of humanized CD19-targeted Chimeric antigen receptor T (CAR-T) cells in patients with relapsed/refractory acute lymphoblastic leukemia</article-title>. <source>Am J Hematol</source> (<year>2018</year>) <volume>93</volume>(<issue>7</issue>):<page-range>851–8</page-range>. doi: <pub-id pub-id-type="doi">10.1002/ajh.25108</pub-id>
+<pub-id pub-id-type="pmid">29633386</pub-id></mixed-citation></ref><ref id="B22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>GM</given-names></name><name name-style="western"><surname>Azzam</surname><given-names>A</given-names></name><name name-style="western"><surname>Ding</surname><given-names>YY</given-names></name><name name-style="western"><surname>Barrett</surname><given-names>DM</given-names></name><name name-style="western"><surname>Grupp</surname><given-names>SA</given-names></name><name name-style="western"><surname>Tan</surname><given-names>K</given-names></name></person-group>. <article-title>Dissecting the tumor-immune landscape in chimeric antigen receptor T-cell therapy: key challenges and opportunities for a systems immunology approach</article-title>. <source>Clin Cancer Res</source> (<year>2020</year>) <volume>26</volume>(<issue>14</issue>):<page-range>3505–13</page-range>. doi: <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-19-3888</pub-id>
+<pub-id pub-id-type="pmcid">PMC7367708</pub-id><pub-id pub-id-type="pmid">32127393</pub-id></mixed-citation></ref><ref id="B23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Montesinos</surname><given-names>P</given-names></name><name name-style="western"><surname>Lorenzo</surname><given-names>I</given-names></name><name name-style="western"><surname>Martin</surname><given-names>G</given-names></name><name name-style="western"><surname>Sanz</surname><given-names>J</given-names></name><name name-style="western"><surname>Perez-Sirvent</surname><given-names>ML</given-names></name><name name-style="western"><surname>Martinez</surname><given-names>D</given-names></name><etal/></person-group>. <article-title>Tumor lysis syndrome in patients with acute myeloid leukemia: identification of risk factors and development of a predictive model</article-title>. <source>Haematologica</source> (<year>2008</year>) <volume>93</volume>(<issue>(1</issue>):<fpage>67</fpage>–<lpage>74</lpage>. doi: <pub-id pub-id-type="doi">10.3324/haematol.11575</pub-id>
+<pub-id pub-id-type="pmid">18166787</pub-id>
+</mixed-citation></ref><ref id="B24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Cairo</surname><given-names>MS</given-names></name><name name-style="western"><surname>Bishop</surname><given-names>M</given-names></name></person-group>. <article-title>Tumour lysis syndrome: new therapeutic strategies and classification</article-title>. <source>Br J Haematol</source> (<year>2004</year>) <volume>127</volume>(<issue>1</issue>):<fpage>3</fpage>–<lpage>11</lpage>. doi: <pub-id pub-id-type="doi">10.1111/j.1365-2141.2004.05094.x</pub-id>
+<pub-id pub-id-type="pmid">15384972</pub-id>
+</mixed-citation></ref><ref id="B25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Fitzgerald</surname><given-names>JC</given-names></name><name name-style="western"><surname>Weiss</surname><given-names>SL</given-names></name><name name-style="western"><surname>Maude</surname><given-names>SL</given-names></name><name name-style="western"><surname>Barrett</surname><given-names>DM</given-names></name><name name-style="western"><surname>Lacey</surname><given-names>SF</given-names></name><name name-style="western"><surname>Melenhorst</surname><given-names>JJ</given-names></name><etal/></person-group>. <article-title>Cytokine release syndrome after chimeric antigen receptor T cell therapy for acute lymphoblastic leukemia</article-title>. <source>Crit Care Med</source> (<year>2017</year>) <volume>45</volume>(<issue>2</issue>):<page-range>e124–31</page-range>. doi: <pub-id pub-id-type="doi">10.1097/CCM.0000000000002053</pub-id>
+<pub-id pub-id-type="pmcid">PMC5452983</pub-id><pub-id pub-id-type="pmid">27632680</pub-id></mixed-citation></ref><ref id="B26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Wu</surname><given-names>Z</given-names></name><name name-style="western"><surname>Luo</surname><given-names>Y</given-names></name><name name-style="western"><surname>Shi</surname><given-names>J</given-names></name><name name-style="western"><surname>Yu</surname><given-names>J</given-names></name><name name-style="western"><surname>Pu</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Potent anti-leukemia activities of chimeric antigen receptor-Modified T cells against CD19 in chinese patients with relapsed/Refractory acute lymphocytic leukemia</article-title>. <source>Clin Cancer Res</source> (<year>2017</year>) <volume>23</volume>:<page-range>3297–306</page-range>. doi: <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-16-1799</pub-id>
+<pub-id pub-id-type="pmid">28039267</pub-id></mixed-citation></ref><ref id="B27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Hay</surname><given-names>KA</given-names></name><name name-style="western"><surname>Hanafi</surname><given-names>LA</given-names></name><name name-style="western"><surname>Li</surname><given-names>D</given-names></name><name name-style="western"><surname>Gust</surname><given-names>J</given-names></name><name name-style="western"><surname>Liles</surname><given-names>WC</given-names></name><name name-style="western"><surname>Wurfel</surname><given-names>MM</given-names></name><etal/></person-group>. <article-title>Kinetics and biomarkers of severe cytokine release syndrome after CD19 chimeric antigen receptor-modified T-cell therapy</article-title>. <source>Blood</source> (<year>2017</year>) <volume>130</volume>(<issue>21</issue>):<page-range>2295–306</page-range>. doi: <pub-id pub-id-type="doi">10.1182/blood-2017-06-793141</pub-id>
+<pub-id pub-id-type="pmcid">PMC5701525</pub-id><pub-id pub-id-type="pmid">28924019</pub-id></mixed-citation></ref><ref id="B28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Jiang</surname><given-names>H</given-names></name><name name-style="western"><surname>Liu</surname><given-names>L</given-names></name><name name-style="western"><surname>Guo</surname><given-names>T</given-names></name><name name-style="western"><surname>Wu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Ai</surname><given-names>L</given-names></name><name name-style="western"><surname>Deng</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Improving the safety of CAR-T cell therapy by controlling CRS-related coagulopathy</article-title>. <source>Ann Hematol</source> (<year>2019</year>) <volume>98</volume>(<issue>7</issue>):<page-range>1721–32</page-range>. doi: <pub-id pub-id-type="doi">10.1007/s00277-019-03685-z</pub-id>
+<pub-id pub-id-type="pmid">31055613</pub-id></mixed-citation></ref><ref id="B29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Qi</surname><given-names>K</given-names></name><name name-style="western"><surname>Cheng</surname><given-names>H</given-names></name><name name-style="western"><surname>Cao</surname><given-names>J</given-names></name><name name-style="western"><surname>Shi</surname><given-names>M</given-names></name><name name-style="western"><surname>Qiao</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Coagulation disorders after chimeric antigen receptor T cell therapy: analysis of 100 patients with relapsed and refractory hematologic Malignancies</article-title>. <source>Biol Blood Marrow Transplant</source> (<year>2020</year>) <volume>26</volume>(<issue>5</issue>):<page-range>865–75</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.bbmt.2019.11.027</pub-id>
+<pub-id pub-id-type="pmid">31786240</pub-id></mixed-citation></ref><ref id="B30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Maude</surname><given-names>SL</given-names></name><name name-style="western"><surname>Frey</surname><given-names>N</given-names></name><name name-style="western"><surname>Shaw</surname><given-names>PA</given-names></name><name name-style="western"><surname>Aplenc</surname><given-names>R</given-names></name><name name-style="western"><surname>Barrett</surname><given-names>DM</given-names></name><name name-style="western"><surname>Bunin</surname><given-names>NJ</given-names></name><etal/></person-group>. <article-title>Chimeric antigen receptor T cells for sustained remissions in leukemia</article-title>. <source>N Engl J Med</source> (<year>2014</year>) <volume>371</volume>(<issue>16</issue>):<page-range>1507–17</page-range>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa1407222</pub-id>
+<pub-id pub-id-type="pmcid">PMC4267531</pub-id><pub-id pub-id-type="pmid">25317870</pub-id></mixed-citation></ref><ref id="B31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Turtle</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Hanafi</surname><given-names>LA</given-names></name><name name-style="western"><surname>Berger</surname><given-names>C</given-names></name><name name-style="western"><surname>Gooley</surname><given-names>TA</given-names></name><name name-style="western"><surname>Cherian</surname><given-names>S</given-names></name><name name-style="western"><surname>Hudecek</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>CD19 CAR-T cells of defined CD4+:CD8+ composition in adult B cell ALL patients</article-title>. <source>J Clin Invest</source> (<year>2016</year>) <volume>126</volume>(<issue>6</issue>):<page-range>2123–38</page-range>. doi: <pub-id pub-id-type="doi">10.1172/JCI85309</pub-id>
+<pub-id pub-id-type="pmcid">PMC4887159</pub-id><pub-id pub-id-type="pmid">27111235</pub-id></mixed-citation></ref><ref id="B32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Davila</surname><given-names>ML</given-names></name><name name-style="western"><surname>Riviere</surname><given-names>I</given-names></name><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><name name-style="western"><surname>Bartido</surname><given-names>S</given-names></name><name name-style="western"><surname>Park</surname><given-names>J</given-names></name><name name-style="western"><surname>Curran</surname><given-names>K</given-names></name><etal/></person-group>. <article-title>Efficacy and toxicity management of 19-28z CAR T cell therapy in B cell acute lymphoblastic leukemia</article-title>. <source>Sci Transl Med</source> (<year>2014</year>) <volume>6</volume>:<fpage>224ra225</fpage>. doi: <pub-id pub-id-type="doi">10.1126/scitranslmed.3008226</pub-id>
+<pub-id pub-id-type="pmcid">PMC4684949</pub-id><pub-id pub-id-type="pmid">24553386</pub-id></mixed-citation></ref><ref id="B33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ouyang</surname><given-names>W</given-names></name><name name-style="western"><surname>Rutz</surname><given-names>S</given-names></name><name name-style="western"><surname>Crellin</surname><given-names>NK</given-names></name><name name-style="western"><surname>Valdez</surname><given-names>PA</given-names></name><name name-style="western"><surname>Hymowitz</surname><given-names>SG</given-names></name></person-group>. <article-title>Regulation and functions of the IL-10 family of cytokines in inflammation and disease</article-title>. <source>Annu Rev Immunol</source> (<year>2011</year>) <volume>29</volume>:<fpage>71</fpage>–<lpage>109</lpage>. doi: <pub-id pub-id-type="doi">10.1146/annurev-immunol-031210-101312</pub-id>
+<pub-id pub-id-type="pmid">21166540</pub-id>
+</mixed-citation></ref><ref id="B34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Davalos</surname><given-names>D</given-names></name><name name-style="western"><surname>Akassoglou</surname><given-names>K</given-names></name></person-group>. <article-title>Fibrinogen as a key regulator of inflammation in disease</article-title>. <source>Semin Immunopathol</source> (<year>2012</year>) <volume>34</volume>(<issue>1</issue>):<fpage>43</fpage>–<lpage>62</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s00281-011-0290-8</pub-id>
+<pub-id pub-id-type="pmid">22037947</pub-id>
+</mixed-citation></ref><ref id="B35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Gregoriano</surname><given-names>C</given-names></name><name name-style="western"><surname>Heilmann</surname><given-names>E</given-names></name><name name-style="western"><surname>Molitor</surname><given-names>A</given-names></name><name name-style="western"><surname>Schuetz</surname><given-names>P</given-names></name></person-group>. <article-title>Role of procalcitonin use in the management of sepsis</article-title>. <source>J Thorac Dis</source> (<year>2020</year>) <volume>12</volume>(<issue>Suppl 1</issue>):<fpage>S5</fpage>–<lpage>S15</lpage>. doi: <pub-id pub-id-type="doi">10.21037/jtd.2019.11.63</pub-id>
+<pub-id pub-id-type="pmid">32148921</pub-id>
+<pub-id pub-id-type="pmcid">PMC7024752</pub-id></mixed-citation></ref><ref id="B36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Evans</surname><given-names>DC</given-names></name><name name-style="western"><surname>Corkins</surname><given-names>MR</given-names></name><name name-style="western"><surname>Malone</surname><given-names>A</given-names></name><name name-style="western"><surname>Miller</surname><given-names>S</given-names></name><name name-style="western"><surname>Mogensen</surname><given-names>KM</given-names></name><name name-style="western"><surname>Guenter</surname><given-names>P</given-names></name><etal/></person-group>. <article-title>The use of visceral proteins as nutrition markers: an ASPEN position paper</article-title>. <source>Nutr Clin Pract</source> (<year>2021</year>) <volume>36</volume>(<issue>1</issue>):<page-range>22–8</page-range>. doi: <pub-id pub-id-type="doi">10.1002/ncp.10588</pub-id>
+<pub-id pub-id-type="pmid">33125793</pub-id></mixed-citation></ref><ref id="B37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Savoj</surname><given-names>J</given-names></name><name name-style="western"><surname>Becerra</surname><given-names>B</given-names></name><name name-style="western"><surname>Kim</surname><given-names>JK</given-names></name><name name-style="western"><surname>Fusaro</surname><given-names>M</given-names></name><name name-style="western"><surname>Gallieni</surname><given-names>M</given-names></name><name name-style="western"><surname>Lombardo</surname><given-names>D</given-names></name><etal/></person-group>. <article-title>Utility of cardiac biomarkers in the setting of kidney disease</article-title>. <source>Nephron</source> (<year>2019</year>) <volume>141</volume>(<issue>4</issue>):<page-range>227–35</page-range>. doi: <pub-id pub-id-type="doi">10.1159/000495946</pub-id>
+<pub-id pub-id-type="pmid">30726855</pub-id></mixed-citation></ref><ref id="B38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Ndrepepa</surname><given-names>G</given-names></name><name name-style="western"><surname>Colleran</surname><given-names>R</given-names></name><name name-style="western"><surname>Kastrati</surname><given-names>A</given-names></name></person-group>. <article-title>Gamma-glutamyl transferase and the risk of atherosclerosis and coronary heart disease</article-title>. <source>Clin Chim Acta</source> (<year>2018</year>) <volume>476</volume>:<page-range>130–8</page-range>. doi: <pub-id pub-id-type="doi">10.1016/j.cca.2017.11.026</pub-id>
+<pub-id pub-id-type="pmid">29175647</pub-id></mixed-citation></ref><ref id="B39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>JL</given-names></name><name name-style="western"><surname>Li</surname><given-names>G</given-names></name><name name-style="western"><surname>Jing</surname><given-names>XZ</given-names></name><name name-style="western"><surname>Li</surname><given-names>YF</given-names></name><name name-style="western"><surname>Ye</surname><given-names>QY</given-names></name><name name-style="western"><surname>Jia</surname><given-names>HH</given-names></name><etal/></person-group>. <article-title>Assessment of clinical sepsis-associated biomarkers in a septic mouse model</article-title>. <source>J Int Med Res</source> (<year>2018</year>) <volume>46</volume>(<issue>6</issue>):<page-range>2410–22</page-range>. doi: <pub-id pub-id-type="doi">10.1177/0300060518764717</pub-id>
+<pub-id pub-id-type="pmcid">PMC6023044</pub-id><pub-id pub-id-type="pmid">29644918</pub-id></mixed-citation></ref><ref id="B40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Iba</surname><given-names>T</given-names></name><name name-style="western"><surname>Levy</surname><given-names>JH</given-names></name><name name-style="western"><surname>Levi</surname><given-names>M</given-names></name><name name-style="western"><surname>Thachil</surname><given-names>J</given-names></name></person-group>. <article-title>Coagulopathy in COVID-19</article-title>. <source>J Thromb Haemost</source> (<year>2020</year>) <volume>18</volume>(<issue>9</issue>):<page-range>2103–9</page-range>. doi: <pub-id pub-id-type="doi">10.1111/jth.14975</pub-id>
+<pub-id pub-id-type="pmcid">PMC7323352</pub-id><pub-id pub-id-type="pmid">32558075</pub-id></mixed-citation></ref><ref id="B41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Brudno</surname><given-names>J</given-names></name><name name-style="western"><surname>Kochenderfer</surname><given-names>J</given-names></name></person-group>. <article-title>Recent advances in CAR T-cell toxicity: Mechanisms</article-title>. <source>Manifestations Manage</source> (<year>2019</year>) <volume>34</volume>:<fpage>45</fpage>–<lpage>55</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.blre.2018.11.002</pub-id>
+<pub-id pub-id-type="pmcid">PMC6628697</pub-id><pub-id pub-id-type="pmid">30528964</pub-id></mixed-citation></ref><ref id="B42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name name-style="western"><surname>Teachey</surname><given-names>DT</given-names></name><name name-style="western"><surname>Bishop</surname><given-names>MR</given-names></name><name name-style="western"><surname>Maloney</surname><given-names>DG</given-names></name><name name-style="western"><surname>Grupp</surname><given-names>SA</given-names></name></person-group>. <article-title>Toxicity management after chimeric antigen receptor T cell therapy: one size does not fit 'ALL'</article-title>. <source>Nat Rev Clin Oncol</source> (<year>2018</year>) <volume>15</volume>(<issue>4</issue>):<fpage>218</fpage>. doi: <pub-id pub-id-type="doi">10.1038/nrclinonc.2018.19</pub-id>
+<pub-id pub-id-type="pmid">29434335</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,868 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="feb413464" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">FEBS Open Bio</journal-id><journal-id journal-id-type="iso-abbrev">FEBS Open Bio</journal-id><journal-id journal-id-type="pmc-domain-id">2013</journal-id><journal-id journal-id-type="pmc-domain">febsopenbio</journal-id><journal-id journal-id-type="nlm-id">101580716</journal-id><journal-id journal-id-type="publisher-id">FEB4</journal-id><journal-title-group><journal-title>FEBS Open Bio</journal-title></journal-title-group><issn pub-type="epub">2211-5463</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9433816</article-id><article-id pub-id-type="pmcid-ver">PMC9433816.1</article-id><article-id pub-id-type="pmcaid">9433816</article-id><article-id pub-id-type="pmcaiid">9433816</article-id><article-id pub-id-type="pmid">35792784</article-id><article-id pub-id-type="doi">10.1002/2211-5463.13464</article-id><article-id pub-id-type="publisher-id">FEB413464</article-id><article-id pub-id-type="other">FEBSOPEN-22-0078.R2</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Development of a variant of dinutuximab with enhanced antitumor efficacy and reduced induction of neuropathic pain</article-title><alt-title alt-title-type="right-running-head">A variant of dinutuximab with improved properties</alt-title><alt-title alt-title-type="left-running-head">X.‐Y. Liu et al.</alt-title></title-group><contrib-group><contrib id="feb413464-cr-0001" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="XY">Xin‐Yuan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9420-5888</contrib-id><xref rid="feb413464-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="feb413464-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="feb413464-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Chen</surname><given-names initials="YL">Yi‐Li</given-names></name><xref rid="feb413464-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="feb413464-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>cheny@dartsbio.com</email></address></contrib><contrib id="feb413464-cr-0003" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="GJ">Guo‐Jian</given-names></name><xref rid="feb413464-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="feb413464-cr-0004" contrib-type="author"><name name-style="western"><surname>Deng</surname><given-names initials="XN">Xiang‐Nan</given-names></name><xref rid="feb413464-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="feb413464-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="feb413464-cr-0005" contrib-type="author"><name name-style="western"><surname>Cui</surname><given-names initials="Y">Yue</given-names></name><xref rid="feb413464-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="feb413464-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="feb413464-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="feb413464-cr-0006" contrib-type="author"><name name-style="western"><surname>Tan</surname><given-names initials="J">Jie</given-names></name><xref rid="feb413464-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="feb413464-cr-0007" contrib-type="author"><name name-style="western"><surname>Dong</surname><given-names initials="XC">Xing‐Chen</given-names></name><xref rid="feb413464-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="feb413464-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="feb413464-cr-0008" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="HY">Hua‐Ying</given-names></name><xref rid="feb413464-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="feb413464-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="feb413464-cr-0009" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="GJ">Gan‐Jun</given-names></name><xref rid="feb413464-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="feb413464-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>Ou</surname><given-names initials="ZM">Zhi‐Min</given-names></name><xref rid="feb413464-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>oozzmm@163.com</email></address></contrib><contrib id="feb413464-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wang</surname><given-names initials="CH">Chun‐He</given-names></name><xref rid="feb413464-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="feb413464-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="feb413464-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="feb413464-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>wangc@simm.ac.cn</email></address></contrib></contrib-group><aff id="feb413464-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">College of Pharmaceutical Science</named-content>
+<institution>Zhejiang University of Technology</institution>
+<city>Hangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="feb413464-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Antibody Discovery</named-content>
+<institution>Shanghai Mabstone Biotechonology, Ltd.</institution>
+<country country="CN">China</country>
+</aff><aff id="feb413464-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Reasearch and Development Center</named-content>
+<institution>Dartsbio Pharmaceuticals Ltd.</institution>
+<city>Zhongshan</city>
+<country country="CN">China</country>
+</aff><aff id="feb413464-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">School of Chinese Materia Medica</named-content>
+<institution>Nanjing University of Chinese Medicine</institution>
+<country country="CN">China</country>
+</aff><aff id="feb413464-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Biotherapeutics Discovery Research Center, Shanghai Institute of Materia Medica</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><aff id="feb413464-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>University of Chinese Academy of Sciences</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="feb413464-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Life Science and Biopharmaceutics</named-content>
+<institution>Shenyang Pharmaceutical University</institution>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Y.‐L. Chen, Department of Antibody Discovery, Shanghai Mabstone Biotechonology, Ltd., Shanghai 201203, China<break/>
+Tel: +(86) 13916068544<break/>
+E‐mail: <email>cheny@dartsbio.com</email>
+<break/>
+Z.‐M. Ou, College of Pharmaceutical Science, Zhejiang University of Technology, Hangzhou 310014, Zhejiang, China<break/>
+Tel: +(86) 0571 88320320<break/>
+E‐mail: <email>oozzmm@163.com</email>
+<break/>
+C.‐H. Wang, Biotherapeutics Discovery Research Center, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China<break/>
+Tel: +(86) 13391144656<break/>
+E‐mail: <email>wangc@simm.ac.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>8</month><year>2022</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2022</year></pub-date><volume>12</volume><issue seq="90">9</issue><issue-id pub-id-type="pmc-issue-id">415918</issue-id><issue-id pub-id-type="doi">10.1002/feb4.v12.9</issue-id><issue-title>In the Limelight: SARS‐CoV‐2 protein structure</issue-title><fpage>1644</fpage><lpage>1656</lpage><history>
+<date date-type="rev-recd"><day>24</day><month>6</month><year>2022</year></date>
+<date date-type="received"><day>23</day><month>1</month><year>2022</year></date>
+<date date-type="accepted"><day>05</day><month>7</month><year>2022</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>18</day><month>08</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>08</day><month>09</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2022-09-09 00:17:35.953"><day>09</day><month>09</month><year>2022</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">FEBS Open Bio</italic> published by John Wiley &amp; Sons Ltd on behalf of Federation of European Biochemical Societies.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="FEB4-12-1644.pdf"><?pdf-name FEB4-12-1644.pdf?><?pdf-size 1605245?><?pdf-md5 2e545bf56ecbe23e42b9255a34745cad?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:c835/9433816/2e545bf56ecb/FEB4-12-1644.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:FEB4-12-1644.pdf"/><abstract><p>Dinutuximab (ch14.18) was the first approved monoclonal antibody against the tumor‐associated antigen disialoganglioside GD2. Despite its success in treating neuroblastoma (NB), it triggers a significant amount of neuropathic pain in patients, possibly through complement‐dependent cytotoxicity (CDC). We hypothesized that modifying ch14.18 using antibody engineering techniques, such as humanization, affinity maturation, and Fc engineering, may enable the development of next‐generation GD2‐specific antibodies with reduced neuropathic pain and enhanced antitumor activity. In this study we developed the H3‐16 IgG1m4 antibody from ch14.18 IgG1. H3‐16 IgG1m4 exhibited enhanced binding activity to GD2 molecules and GD2‐positive cell lines as revealed by ELISA, and its cross‐binding activity to other gangliosides was not altered. The CDC activity of H3‐16 IgG1m4 was decreased, and the antibody‐dependent cellular cytotoxicity (ADCC) activity was enhanced. The pain response after H3‐16 IgG1m4 antibody administration was also reduced, as demonstrated using the von Frey test in Sprague–Dawley (SD) rats. In summary, H3‐16 IgG1m4 may have potential as a monoclonal antibody with reduced side effects.</p></abstract><abstract abstract-type="graphical"><p>The anti‐disialoganglioside GD2 monoclonal antibody dinutuximab is an important option for the treatment of high‐risk neuroblastoma. We engineered dinutuximab through humanization, affinity maturation, and Fc mutation to obtain a promising preclinical agent. The engineered anti‐GD2 mAb H3‐16 IgG1m4 showed enhanced antitumor activity <italic toggle="no">in vitro</italic> and reduced neuropathic pain side effects <italic toggle="no">in vivo</italic>.<boxed-text position="anchor" content-type="graphic" id="feb413464-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="FEB4-12-1644-g005.jpg"><?image-name FEB4-12-1644-g005.jpg?><?image-size 16410?><?image-md5 aaa5a6230e5ea4f21b9ad436d61b1c9a?><?image-image-server-status NEVER_LOAD?><?image-original-height 85?><?image-original-width 120?><?image-scaled-height 85?><?image-scaled-width 120?><?image-cloudpmc-urn urn:cdn:blobs/c835/9433816/aaa5a6230e5e/FEB4-12-1644-g005.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="feb413464-kwd-0001">ADCC</kwd><kwd id="feb413464-kwd-0002">affinity maturation</kwd><kwd id="feb413464-kwd-0003">antibody engineering</kwd><kwd id="feb413464-kwd-0004">anti‐GD2 antibodies</kwd><kwd id="feb413464-kwd-0005">engineered Fc domain</kwd><kwd id="feb413464-kwd-0006">humanized</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Major Scientific and Technological Special Projects of Zhongshan City</funding-source><award-id>210205143867019</award-id><award-id>191022172638719</award-id></award-group><award-group id="funding-0002"><funding-source>National Key R&amp;D Program</funding-source><award-id>2020YFA0509303</award-id></award-group><award-group id="funding-0003"><funding-source>Institutes for Drug Discovery and Development, Chinese Academy of Sciences</funding-source><award-id>CASIMM0120202008</award-id><award-id>CASIMM0120202007</award-id></award-group><award-group id="funding-0004"><funding-source>Shanghai Municipal Commission of Science and Technology of China</funding-source><award-id>21S11904500</award-id><award-id>19YF1457400</award-id><award-id>17431904400</award-id><award-id>19431903000</award-id></award-group><award-group id="funding-0005"><funding-source>Strategic Priority Research Program of the Chinese Academy of Sciences (CAS)</funding-source><award-id>XDA12020360</award-id><award-id>XDA12020330</award-id><award-id>XDA12020223</award-id></award-group><award-group id="funding-0006"><funding-source>China National Major Scientific and Technological Special Project for “Significant New Drugs Innovation and Development”</funding-source><award-id>2019ZX09732002‐006</award-id></award-group><award-group id="funding-0007"><funding-source><institution-wrap><institution>National Nature Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>81673347</award-id><award-id>81872785</award-id><award-id>21978267</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="1"/><page-count count="1656"/><word-count count="9781"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.7 mode:remove_FC converted:01.09.2022</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="feb413464-body-0001"><def-list list-content="abbreviations" id="feb413464-lp-0001"><title>Abbreviations</title><def-item><term id="feb413464-li-0001">ADA</term><def id="feb413464-li-0002"><p>anti‐drug antibody</p></def></def-item><def-item><term id="feb413464-li-0003">ADCC</term><def id="feb413464-li-0004"><p>antibody‐dependent cellular cytotoxicity</p></def></def-item><def-item><term id="feb413464-li-0005">BLI</term><def id="feb413464-li-0006"><p>bio‐layer interferometry</p></def></def-item><def-item><term id="feb413464-li-0007">CDC</term><def id="feb413464-li-0008"><p>complement‐dependent cytotoxicity</p></def></def-item><def-item><term id="feb413464-li-0009">CDR3</term><def id="feb413464-li-0010"><p>complementarity determining region 3</p></def></def-item><def-item><term id="feb413464-li-0011">
+<italic toggle="yes">EC</italic>
+<sub>
+<italic toggle="yes">50</italic>
+</sub>
+</term><def id="feb413464-li-0012"><p>half‐maximal effective concentration</p></def></def-item><def-item><term id="feb413464-li-0013">EFS</term><def id="feb413464-li-0014"><p>event‐free survival</p></def></def-item><def-item><term id="feb413464-li-0015">ELISA</term><def id="feb413464-li-0016"><p>enzyme‐linked immunosorbent assay</p></def></def-item><def-item><term id="feb413464-li-0017">FcγR</term><def id="feb413464-li-0018"><p>Fc gamma receptors</p></def></def-item><def-item><term id="feb413464-li-0019">FR</term><def id="feb413464-li-0020"><p>framework region</p></def></def-item><def-item><term id="feb413464-li-0021">GM‐CSF</term><def id="feb413464-li-0022"><p>granulocyte‐macrophage colony‐stimulating factor</p></def></def-item><def-item><term id="feb413464-li-0023">HEK</term><def id="feb413464-li-0024"><p>human embryonic kidney</p></def></def-item><def-item><term id="feb413464-li-0025">HER2</term><def id="feb413464-li-0026"><p>human epidermal growth factor receptor type 2</p></def></def-item><def-item><term id="feb413464-li-0027">HPLC‐SEC</term><def id="feb413464-li-0028"><p>high‐performance size‐exclusion chromatography</p></def></def-item><def-item><term id="feb413464-li-0029">IgG1</term><def id="feb413464-li-0030"><p>immunoglobulin G1</p></def></def-item><def-item><term id="feb413464-li-0031">IL‐2</term><def id="feb413464-li-0032"><p>interleukin‐2</p></def></def-item><def-item><term id="feb413464-li-0033">NB</term><def id="feb413464-li-0034"><p>neuroblastoma</p></def></def-item><def-item><term id="feb413464-li-0035">OS</term><def id="feb413464-li-0036"><p>overall survival</p></def></def-item><def-item><term id="feb413464-li-0037">SDS/PAGE</term><def id="feb413464-li-0038"><p>sodium dodecyl sulfate polyacrylamide gel electrophoresis</p></def></def-item><def-item><term id="feb413464-li-0039">VH</term><def id="feb413464-li-0040"><p>heavy‐chain variable domain</p></def></def-item><def-item><term id="feb413464-li-0041">VL</term><def id="feb413464-li-0042"><p>light‐chain variable domain</p></def></def-item></def-list><p>Neuroblastoma (NB) is one of the most common solid tumors in children, comprising 8–10% of pediatric malignancies. Eighteen months is the median age of diagnosis of NB in patients, and 40% of patients are diagnosed in infancy and 90% are younger than 10 years old [<xref rid="feb413464-bib-0001" ref-type="bibr">1</xref>]. Primary tumors can occur anywhere in the sympathetic nervous system, but is most common in the adrenal medulla and paraspinal ganglia. In all NB patients, greater than 50% are diagnosed with metastatic disease typically located in the regional lymph nodes, bone marrow, bones, liver, and skin tissues [<xref rid="feb413464-bib-0002" ref-type="bibr">2</xref>]. According to the International Neuroblastoma Risk Group (INRG) risk classification criteria, NB patients are divided into four stages: very‐low‐risk, low‐risk, intermediate‐risk, and high‐risk groups [<xref rid="feb413464-bib-0003" ref-type="bibr">3</xref>]. Among the patients in the high‐risk group, even after intensive chemotherapy, surgical resection, radiotherapy, or myeloablative hematopoietic stem cell transplantation, the 5‐year event‐free survival (EFS) rate is still between 30% and 50%. In addition, some patients can be classified as ultra‐high‐risk groups, and their 5‐year EFS and overall survival (OS) rates are both 0% [<xref rid="feb413464-bib-0004" ref-type="bibr">4</xref>]. Therefore, discovering novel NB treatments and improving existing NB treatments are of great clinical significance.</p><p>There are cases of spontaneous tumor regression in NB patients [<xref rid="feb413464-bib-0005" ref-type="bibr">5</xref>], and it is believed that NB has a unique immune mechanism. Thus, tumor‐specific antigens have been explored, and disialoganglioside GD2 was discovered on most NB cells [<xref rid="feb413464-bib-0006" ref-type="bibr">6</xref>]. In normal tissues, only low levels of GD2 were identified in nerve fibers, melanocytes, and neurons [<xref rid="feb413464-bib-0007" ref-type="bibr">7</xref>]. In clinical trials, both murine anti‐GD2 monoclonal antibodies (mAbs), 3F8 and 14.G2a, showed antitumor activity [<xref rid="feb413464-bib-0008" ref-type="bibr">8</xref>, <xref rid="feb413464-bib-0009" ref-type="bibr">9</xref>] but also triggered intense neuropathic pain and other side effects in patients [<xref rid="feb413464-bib-0010" ref-type="bibr">10</xref>], limiting their therapeutic windows [<xref rid="feb413464-bib-0011" ref-type="bibr">11</xref>].</p><p>Several immunotherapies are being developed to increase the efficacy of GD2‐specific antibodies and reduce their side effects [<xref rid="feb413464-bib-0012" ref-type="bibr">12</xref>]. The antitumor mechanisms of antibodies targeting GD2 are that the antibodies directly induce cell death, antibody‐dependent cell‐mediated cytotoxicity (ADCC), and complement‐dependent cytotoxicity (CDC). It has been demonstrated that the ADCC effects play a key role against tumor cells [<xref rid="feb413464-bib-0013" ref-type="bibr">13</xref>], and toxicity may be partly due to the CDC effect against normal peripheral nerve fibers [<xref rid="feb413464-bib-0014" ref-type="bibr">14</xref>] and immunogenicity induced by nonhumanized antibodies. The application of humanized and CDC‐modified antibodies (hu3F8, hu14.18K322A) has improved outcomes, produced favorable pharmacokinetic characteristics, and reduced toxicity [<xref rid="feb413464-bib-0015" ref-type="bibr">15</xref>, <xref rid="feb413464-bib-0016" ref-type="bibr">16</xref>, <xref rid="feb413464-bib-0017" ref-type="bibr">17</xref>].</p><p>Dinutuximab (ch14.18) was the first chimeric GD2 mAb approved by the United States Federal Drug Administration (FDA) in 2015 to treat high‐risk NB patients. The efficacy of dinutuximab in combination with granulocyte‐macrophage colony‐stimulating factor (GM‐CSF), interleukin‐2 (IL‐2), and isotretinoin acid (RA) is significantly superior to that of RA alone [<xref rid="feb413464-bib-0018" ref-type="bibr">18</xref>]. Ch14.18 is a human and mouse chimeric antibody that originated from the murine antibody 14.G2a, but it still has the side effects of pain, hypotension, capillary leak syndrome, and hypersensitivity reactions. Humanized antibody hu14.18K322A shares the same IgG1‐κ as ch14.18, but the K322A mutation significantly reduces CDC activity [<xref rid="feb413464-bib-0016" ref-type="bibr">16</xref>], and clinical trials have shown that hu14.18K322A has less painful side effects [<xref rid="feb413464-bib-0017" ref-type="bibr">17</xref>]. In order to enhance the antitumor activity of the engineered antibody, hu14.18K322A was expressed in rat myeloma YB2/0 cells, and this expression system produced an antibody with low fucose content that enhanced the ADCC effect of the antibody. In the example of the anti‐HER2 antibody engineering [<xref rid="feb413464-bib-0019" ref-type="bibr">19</xref>], its modification of the Fc domain acquired an increased binding affinity to Fcγ receptors IIIA and enhanced the function of ADCC. In this study, we engineered ch14.18 with humanization, affinity maturation, and the Fc mutation [<xref rid="feb413464-bib-0016" ref-type="bibr">16</xref>, <xref rid="feb413464-bib-0019" ref-type="bibr">19</xref>, <xref rid="feb413464-bib-0020" ref-type="bibr">20</xref>, <xref rid="feb413464-bib-0021" ref-type="bibr">21</xref>] to obtain anti‐GD2 mAb H3‐16 IgG1m4 with enhanced antitumor activity and reduced immunogenicity and neuropathic pain side effects.</p><sec sec-type="materials-and-methods" id="feb413464-sec-0002"><title>Materials and methods</title><sec id="feb413464-sec-0003"><title>Cell lines</title><p>The human NB cell line, IMR‐32, and human glioblastoma cell line, U‐87 MG, were purchased from the BeNa Culture Collection (BNCC, China). Cells were cultured in a Roswell Park Memorial Institute (RPMI) 1640 medium supplemented with 10% fetal bovine serum (Gibco, Waltham, MA, USA) at 37 °C in a 5% CO<sub>2</sub> incubator.</p></sec><sec id="feb413464-sec-0004"><title>Antibody expression and purification</title><p>The gene sequences encoding antibodies were respectively subcloned into mammalian expression plasmids (pEE12.4 or pEE6.4) that were a gift from Dr. Chun‐He Wang (Shanghai Institute of Materia Medica). We inserted the human antibody light chain constant region (CL) sequence into the pEE12.4 plasmid. After inserting the variable region sequences of the light chain (VL) into the pEE12.4, a complete antibody light chain expression plasmid was obtained. In the pEE6.4 plasmid, we embedded the sequence of heavy chain constant regions (CH) that contained human wildtype (WT) immunoglobulin G1 (IgG1). When we inserted the heavy chain variable region sequence (VH) into the pEE6.4, it was reconstituted into a complete antibody heavy chain expression plasmid. A recombinant mAb protein was produced by the transient transfection of suspension cells, HEK 293F, and the cells were cultured in OPM‐293 CD05 medium (OPM Biosciences, Shanghai, China) and incubated in a shaker incubator at 37 °C, 120 r.p.m., and 5% CO<sub>2</sub>. The two plasmids and polyethyleneimine (PEI) were premixed and added dropwise to the cell culture. After transfection, the cells were cultured in a shaker incubator for ~ 5 days, and the mature supernatant was collected. The antibodies were purified from cell culture supernatants using Protein‐A affinity column chromatography (BestChrom, Shanghai, China) and detected by size‐exclusion chromatography (SEC).</p></sec><sec id="feb413464-sec-0005"><title>Antibody engineering</title><p>Ch14.18 IgG1 is a human–mouse chimeric IgG1 antibody with kappa light chain. We successively constructed two mutant phage display libraries about ch14.18 IgG1 and screened them to obtain a humanized and affinity‐matured anti‐GD2 antibody H3‐16 IgG1. Ch14.18 IgG1 was humanized by framework shuffling [<xref rid="feb413464-bib-0022" ref-type="bibr">22</xref>]. This was followed by the random mutagenesis of heavy chain complementarity determining region 3 (CDR3) to increase its affinity for GD2 [<xref rid="feb413464-bib-0023" ref-type="bibr">23</xref>].</p><p>First, we downloaded the variable region sequences of VL and VH of the ch14.18 IgG1 antibody from the international immunogenetics information system (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.imgt.org" ext-link-type="uri">www.imgt.org</ext-link>) and used them as templates to synthesize the VH and VL genes. The human antibody framework genes were obtained from the open‐access gene bank of the human germline antibody. The murine framework regions (FRs) were randomly replaced by human FRs using PCR. The humanized VH and VL genes were cloned into the M13‐based phage expression vector and then electroporated into <italic toggle="yes">Escherichia coli</italic> XL1‐Blue to establish a humanized phage library. After two rounds of panning to enrich the phage clones binding to GD2, the eluted phages were screened using a filter lift. We obtained several humanized genetic combinations of the VH and VL regions from ch14.18 IgG1 by cloning and sequencing the single phage clones that can bind to GD2, and we constructed these regions into mammalian expression vectors. The vectors were transformed into the host cell, HEK 293F, and the antibodies were purified as described above. We selected a humanized antibody, 2T10 IgG1, that has similar antigen‐binding activity as ch14.18 IgG1 for subsequent modification.</p><p>Second, according to the VH sequence of the 2T10 IgG1 antibody, CDR3 random mutation primers were designed. Using PCR technology, the VH genes after the random mutation of amino acids in the CDR3 region were cloned into a phage vector carrying the VL gene of 2T10 IgG1. We electroporated the recombinant plasmid into competent XL1‐Blue and obtained an affinity‐matured phage library. After three rounds of panning to enrich the phage clones binding to GD2, the eluted phages were screened by the filter lift. We obtained several affinity‐matured antibodies. After screening for the antigen‐binding activity, we selected H3‐16 IgG1 to perform the following research.</p><p>Finally, the genes of VH and VL of H3‐16 IgG1 were grafted into a mutant human IgG1 (IgG1m4) that had amino acid mutations designed to prevent the activation of the complement cascade [<xref rid="feb413464-bib-0016" ref-type="bibr">16</xref>, <xref rid="feb413464-bib-0020" ref-type="bibr">20</xref>] and to enhance the effect of ADCC [<xref rid="feb413464-bib-0019" ref-type="bibr">19</xref>, <xref rid="feb413464-bib-0021" ref-type="bibr">21</xref>]. This antibody was numbered H3‐16 IgG1m4, and is studied in detail below.</p></sec><sec id="feb413464-sec-0006"><title>SDS/PAGE</title><p>Antibodies were expressed in the HEK 293F cells, and the purified products were analyzed using 10% SDS/PAGE to check their purity. We prepared the resolver solution and stacker solution according to the manufacturer's instructions (TGX FastCast Acrylamide Kit; Bio‐Rad, Hercules, CA, USA), assembled the electrophoresis device after gel polymerization, and filled the electrophoresis tank with a running buffer (24.77 m<sc>m</sc> of HTAM, 250.43 m<sc>m</sc> of glycine, and 3.47 m<sc>m</sc> of SDS). A reducing or nonreducing loading buffer (Beyotime, Shanghai, China) was added to 3 μg protein, and the mixture was heated at 100 °C for 10 min in order to obtain the heat‐denatured protein. The sample volume was 10 μL, and the Prestained Protein ladder (Thermo, Waltham, MA, USA) was utilized as the protein molar mass marker. First, we used a constant voltage of 80 V to run for 30 min and then increased the voltage to 120 V to run for ~ 40 min. After degumming, the gel was stained with Coomassie brilliant blue R‐250 for 60 min at room temperature (RT), followed by removal of the staining solution and then destaining overnight with a destaining solution. A gel imager (Bio‐Red ChemiDoc MP; Bio‐Rad) was used to photograph the gel, and the software used was <sc>image lab</sc> 5.2.1 (Bio‐Rad).</p></sec><sec id="feb413464-sec-0007"><title>HPLC‐SEC</title><p>When performing the HPLC‐SEC analysis, the solution of antibodies was centrifuged at 16 000 × <bold>
+<italic toggle="yes">g</italic>
+</bold> for 10 min, and only the first third of the solution was aspirated to prepare the test samples to avoid large protein aggregates. The antibody purity was detected using an Agilent 1260 HPLC system, and the absorbance at 280 nm was monitored. The system was formulated with a MabPac SEC‐1 (Thermo) size exclusion column, 4 × 300 mm, 5 μm, and 300 Å. The mobile phase contained 25.30 m<sc>m</sc> of NaH<sub>2</sub>PO<sub>4</sub>, 30.50 m<sc>m</sc> of Na<sub>2</sub>HPO<sub>4</sub>, and 300 m<sc>m</sc> of NaCl at a pH of 6.8. Samples with a concentration of 1 mg·mL<sup>−1</sup> and a volume of 10 μL were run in the mobile phase for ~ 20 min. The flow rate was 0.2 mL·min<sup>−1</sup>, the maximum column pressure was 55 bar, and the column temperature was 25 °C. The percentage of monomers was calculated using the area normalization method, and the system software was <sc>lc</sc>1260 (Agilent Technologies, Palo Alto, CA, USA).</p></sec><sec id="feb413464-sec-0008"><title>ELISA of targeting GD2</title><p>The 96‐well ELISA plates (Greiner Bio‐One, Monroe, NC, USA) were coated by incubating 0.5 μg·mL<sup>−1</sup> of GD2‐KLH (Elicityl‐oligotech, Clos, France) in PBS overnight at 4 °C. The next day, the plates were washed three times with wash buffer and blocked with 1% casein in the PBS for 1 h at 37 °C. The primary antibodies of ch14.18 IgG1, H3‐16 IgG1m4, or isotype IgG1 were prepared to 15 μg·mL<sup>−1</sup> in 0.1% casein in the PBS, and subsequently, the samples were made into 11 serial three‐fold dilutions. After the blocking solution was discarded and the plates were washed, serial dilutions of the primary antibodies were added to the plates in duplicate and incubated at 37 °C for 1 h. The plates were washed six times with 0.1% PBS‐T (added Tween‐20 to PBS, v/v) and incubated with goat anti‐hIgG‐horseradish peroxidase (HRP; Abclonal, Wuhan, China) at 37 °C for 1 h. After being washed with 0.1% PBS‐T, the plates were developed and the absorbance was read at 450 nm using a SpectraMax M5e (Molecular Devices, San Jose, CA, USA) microplate spectrophotometer.</p></sec><sec id="feb413464-sec-0009"><title>ELISA for cross‐reactivities</title><p>GD2‐KLH, GD1a‐KLH, GD1b‐KLH, GD3‐KLH, GM1a‐KLH, GM1b‐KLH (Elicityl‐oligotech), and GM2‐KLH were coated on 96‐well ELISA plates (Greiner Bio‐One) at 30 μg·mL<sup>−1</sup> in PBS. They were incubated at 4 °C overnight, and the wells were blocked with 1% casein in PBS at 120 μL per well for 1 h at 37 °C. Primary antibodies of anti‐GD2 were added at 10 μg·mL<sup>−1</sup> in 0.01% casein. After incubation at 37 °C for 1 h and washing with 0.1% PBS‐T, goat anti‐hIgG‐HRP (Abclonal) was added, and the plates were incubated at 37 °C for 1 h. After washing, the chromogenic substrate was added, and the OD was read using a SpectraMax M5e microplate spectrophotometer (Molecular Devices) at 450 nm. The absorbance of the wells containing only the primary antibodies but no antigen was used as the background value. After excluding the background values, the cross‐reactivity of the anti‐GD2 mAbs was expressed as a percentage of binding to other gangliosides and GD2.</p></sec><sec id="feb413464-sec-0010"><title>Flow cytometry analysis</title><p>Flow cytometry was used to analyze the binding of H3‐16 IgG1m4 to GD2‐positive tumor cells <italic toggle="yes">in vitro</italic>. The NB cell line, IMR‐32 (3 × 10<sup>5</sup> cells per well), was added to the 96‐well U‐bottom plates. Serial three‐fold dilutions of anti‐GD2 antibodies or an isotype control were prepared in the PBS and added to each well. The plates were incubated for 1 h at 4 °C. The cells were washed three times with PBS, followed by subsequent staining with P‐phycoerythrin (PE)‐conjugated mouse anti‐human IgG Fc (Biolegend, San Diego, CA, USA) in the dark at 4 °C for 0.5 h. After washing the plates, the cells were resuspended in 200 μL of PBS per well, and an aliquot of 1 × 10<sup>4</sup> was analyzed on a CytoFLEX flow cytometer (Beckman Coulter, Indianapolis, IN, USA). The background control cells were prepared using the second antibody alone.</p></sec><sec id="feb413464-sec-0011"><title>Bio‐layer interferometry (<styled-content style="fixed-case" toggle="no">BLI</styled-content>)</title><p>The affinities of the different Fc mutants for FcγRIIIa and FcγRIIa were determined using Fortebio Octet Red 96 (Fortebio, Fremont, CA, USA). Recombinant human CD16a‐F176, CD16a‐V176 (Acro Biosystems, Beijing, China), CD32a‐R167, and CD32a‐H167 (Novoprotein, Suzhou, China) all with the His‐tag were loaded on the Ni‐NTA biosensors (Fortebio) at 5 or 10 μg·mL<sup>−1</sup> of the appropriate homemade buffers. H3‐16 IgG1 or H3‐16 IgG1m4 (mAbs) with the same Fab domains but different human Fc sequences was prepared to 750 or 15 μg·mL<sup>−1</sup> in the same buffer as above, and subsequently the sample was made into seven serial two‐fold dilutions. After loading the ligand onto the biosensors, the association and dissociation were measured by transferring sensors to the antibody solution or the running buffer. Data were analyzed using the data analysis software <sc>fortebio</sc>.</p></sec><sec id="feb413464-sec-0012"><title>ADCC</title><p>The target cells of IMR‐32 and U‐87 MG were detached with pipettes, washed, and placed in 96‐well plates (Corning, Lowell, MA, USA) in R2 (RPMI 1640 medium supplemented with 2% fetal bovine serum) at approximately 3 × 10<sup>4</sup> cells per well. Antibodies of H3‐16 IgG1m4 and ch14.18 IgG1 that were separately diluted in R2 were added, and the mixture was incubated at 37 °C for 1 h. The effector cells of human peripheral blood mononuclear cells (PBMCs) were isolated from the peripheral blood of healthy donors using Ficoll‐Paque PREMIUM (GE Healthcare, Chicago, IL, USA) and added into the plates (effect: target ratio of 20 : 1). The co‐culture was incubated in a 37 °C and 5% CO<sub>2</sub> incubator for 18 h. The 50‐μL/well supernatant was then removed to determine the lactate dehydrogenase (LDH) activity using a Cytotoxicity Detection Kit (Roche, Basel, Switzerland) [<xref rid="feb413464-bib-0024" ref-type="bibr">24</xref>]. The absorbance was determined at 490 nm in a SpectraMax M5 (Molecular Devices). The percentage cytotoxicity was determined using the following equation:<disp-formula id="feb413464-disp-0001">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block" overflow="scroll"><mml:mtext>Cytotoxicity</mml:mtext><mml:mspace width="0.25em"/><mml:mfenced open="(" close=")"><mml:mo>%</mml:mo></mml:mfenced><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mtext>experiment</mml:mtext><mml:mo>−</mml:mo><mml:mtext>effector</mml:mtext><mml:mo>&amp;</mml:mo><mml:mtext>target cell</mml:mtext><mml:mspace width="0.25em"/><mml:mi>mix</mml:mi></mml:mrow><mml:mrow><mml:mtext>high control</mml:mtext><mml:mo>−</mml:mo><mml:mi>low</mml:mi><mml:mspace width="0.25em"/><mml:mtext>control</mml:mtext></mml:mrow></mml:mfrac><mml:mo linebreak="goodbreak">×</mml:mo><mml:mn>100</mml:mn><mml:mo>%</mml:mo><mml:mo>.</mml:mo></mml:math>
+</disp-formula>
+</p></sec><sec id="feb413464-sec-0013"><title>CD107a degranulation assay</title><p>For analysis of anti‐GD2 antibody‐activated NK cell activity, anti‐GD2 antibody and target cells (4 × 10<sup>4</sup> cells per well) were added to 96‐well U‐bottom cell culture plates and then incubated for 1 h at 37 °C in a 5% CO<sub>2</sub> cell culture incubator, followed by co‐culture with PBMCs (20 × 10<sup>4</sup> cells per well, effect: target ratio of 5 : 1). The NK cell activation marker CD107a was assayed according to the method described by Alter et al. [<xref rid="feb413464-bib-0025" ref-type="bibr">25</xref>] and Gong et al. [<xref rid="feb413464-bib-0026" ref-type="bibr">26</xref>]. Target cells, antibodies, and PBMCs were co‐cultured for 2 h, followed by the addition of monensin (6 μg·mL<sup>−1</sup>, Yuanye, Shanghai, China) for a further 3.5 h. APC/Fire anti‐human CD107a antibody (1 : 133, Biolegend) was added and incubated for 0.5 h at 37 °C in a 5% CO<sub>2</sub> cell culture incubator protected from light. Cell precipitate was collected by centrifugation at 300 × <bold>
+<italic toggle="yes">g</italic>
+</bold> for 5 min, then resuspended in PBS and incubated with PE anti‐human CD3 and FITC anti‐human CD56 antibodies (1 : 133, Biolegend) for 0.5 h at 4 °C in the dark. After washing by centrifugation and resuspension of the cell precipitate, the proportion of CD3<sup>−</sup>/CD56<sup>+</sup>/CD107a<sup>+</sup> cells in the CD3<sup>−</sup>/CD56<sup>+</sup> cell population was measured by flow cytometry (Beckman Coulter).</p></sec><sec id="feb413464-sec-0014"><title>CDC</title><p>For the CDC analysis, the target cells were incubated with ch14.18 IgG1 or H3‐16 IgG1m4 (1.5–15 000 ng·mL<sup>−1</sup>) in the presence of 2% normal human serum complement (Quidle, San Diego, CA, USA). After 18 h of incubation, the supernatant was collected to react with lactate dehydrogenase substrate (Roche), and the absorbance was measured using SpectraMax M5 (Molecular Devices). To calculate the percentage cytotoxicity, the following equation was used:<disp-formula id="feb413464-disp-0002">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="block" overflow="scroll"><mml:mtext>Cytotoxicity</mml:mtext><mml:mspace width="0.25em"/><mml:mfenced open="(" close=")"><mml:mo>%</mml:mo></mml:mfenced><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mtext>experiment</mml:mtext><mml:mo>−</mml:mo><mml:mi>no</mml:mi><mml:mspace width="0.25em"/><mml:mtext>antibody control</mml:mtext></mml:mrow><mml:mrow><mml:mtext>high control</mml:mtext><mml:mo>−</mml:mo><mml:mi>low</mml:mi><mml:mspace width="0.25em"/><mml:mtext>control</mml:mtext></mml:mrow></mml:mfrac><mml:mo linebreak="goodbreak">×</mml:mo><mml:mn>100</mml:mn><mml:mo>%</mml:mo><mml:mo>.</mml:mo></mml:math>
+</disp-formula>
+</p></sec><sec id="feb413464-sec-0015"><title>von Frey</title><p>The experiments used 6–7‐week‐old (160–180 g) male Sprague–Dawley (SD) rats (specific‐pathogen‐free [SPF] animals) that were purchased from Beijing Vital River Laboratory Animal Technology. This study was conducted in strict accordance with the recommendations in the Guide for the Care and Use of Laboratory Animals of the National Institutes of Health (Bethesda, MD, USA). Tests were approved by the Institutional Animal Care and Use Committee (IACUC) of the Shanghai Institute of Materia Medica, Chinese Academy of Sciences (IACUC number: 2020‐03‐WCH‐04). All rats were kept in an SPF environment under a 12‐h day/night cycle with water and food available <italic toggle="yes">ad libitum</italic> and were allowed to recover from transport for 7 days prior to the experiments. The animals were placed in an individual test facility for 30–60 min until they stopped obvious exploratory behaviors and were in a quiet state. They were then acclimatized for 3 consecutive days. Furthermore, the animals were acclimated to the facility for at least 30 min before testing. Referring to the previous literature [<xref rid="feb413464-bib-0027" ref-type="bibr">27</xref>], the basal 50% probability mechanical withdrawal threshold for each rat was determined using the manual von Frey test. The animals were injected with an equal volume of antibody (1 mg·kg<sup>−1</sup>) solution or vehicle through the tail vein. The animals were tested 0.5, 1, 2, 3, 4, 5, 24, and 48 h after injection.</p></sec><sec id="feb413464-sec-0016"><title>Statistical analysis</title><p>An unpaired Student's <italic toggle="yes">t</italic>‐test or one‐way ANOVA was used for comparison between the two groups, and a two‐way ANOVA was used for comparisons between multiple groups. Data were represented as mean ± SEM and <italic toggle="yes">P</italic>‐values less than 0.05 were considered significant.</p></sec></sec><sec sec-type="results" id="feb413464-sec-0017"><title>Results</title><sec id="feb413464-sec-0018"><title>
+<styled-content style="fixed-case" toggle="no">H3</styled-content>‐16 <styled-content style="fixed-case" toggle="no">IgG1m4</styled-content> bound <styled-content style="fixed-case" toggle="no">GD2</styled-content> with increased affinity</title><p>Ch14.18 IgG1 is a human–mouse chimeric anti‐GD2 mAb that contains the constant region of human WT IgG1 and the variable region of the murine 14.18 antibody. Ch14.18 IgG1 was first humanized with framework shuffling, then affinity maturation was conducted with a random mutation phage display library. The humanized and affinity‐matured antibody was grafted into a mutated human IgG1 fragment (IgG1m4) to obtain H3‐16 IgG1m4.</p><p>The antibody proteins purified from the HEK 293F expression system were all of high purity (Fig. <xref rid="feb413464-fig-0001" ref-type="fig">1A</xref>). The results of HPLC‐SEC showed that, similar to ch14.18 IgG1, H3‐16 IgG1m4 also had excellent purity, and the purity was greater than 95% (Fig. <xref rid="feb413464-fig-0001" ref-type="fig">1B</xref>). The affinity of H3‐16 IgG1m4 binding to the GD2‐KLH molecule (<italic toggle="yes">EC</italic>
+<sub>
+<italic toggle="yes">50</italic>
+</sub> = 0.018 n<sc>m</sc>) was greater than that of ch14.18 IgG1 (<italic toggle="yes">EC</italic>
+<sub>
+<italic toggle="yes">50</italic>
+</sub> = 3.43 n<sc>m</sc>; Fig. <xref rid="feb413464-fig-0001" ref-type="fig">1C</xref>). For the NB cell line, IMR‐32, and the human glioblastoma cell line, U‐87 MG, the former also showed a higher binding affinity than the latter (Fig. <xref rid="feb413464-fig-0001" ref-type="fig">1D,E</xref>). Both antibodies showed low levels of cross‐reactivity with another ganglioside (Fig. <xref rid="feb413464-fig-0001" ref-type="fig">1F</xref>). Therefore, H3‐16 IgG1m4 had a higher affinity to ganglioside GD2 than ch14.18 IgG1.</p><fig position="float" fig-type="Fig." id="feb413464-fig-0001" orientation="portrait"><label>Fig. 1</label><caption><p>Binding analysis of H3‐16 IgG1m4 to GD2. (A) H3‐16 IgG1m4 was analyzed by reduced and nonreduced SDS/PAGE. M, molecular weight markers; 1, nonreduced ch14.18 IgG1; 2, nonreduced H3‐16 IgG1m4; 3, reduced ch14.18 IgG1; 4, reduced H3‐16 IgG1m4; 5, nonreduced isotype IgG1; 6, reduced isotype IgG1. (B) Purities of H3‐16 IgG1m4 were analyzed using size‐exclusion chromatography (SEC). The absorbance unit (AU) normalized to 0–100 and plotted with retention time. (C) Binding of H3‐16 IgG1m4 to plate‐bound GD2‐KLH. Serial dilutions of ch14.18 IgG1 (as a positive control), H3‐16 IgG1m4, or isotype IgG1 (as a negative control) were incubated with plate‐bound GD2‐KLH, and binding was assessed via anti‐human IgG ELISA. (D) Binding potency of H3‐16 IgG1m4 to the IMR‐32 cell line using flow cytometric. IMR‐32 was stained with ch14.18 IgG1, H3‐16 IgG1m4, or isotype IgG1 and PE mouse anti‐human IgG Fc, and the data of the median fluorescence intensity (MFI) were analyzed. (E) Binding potency of H3‐16 IgG1m4 to the U‐87 MG cell line using flow cytometric. (F) Absorption rates of the anti‐GD2 IgG1 antibodies by other gangliosides. In this study, H3‐16 and ch14.18 monoclonal antibodies with identical Fc sequences (IgG1) were incubated with plated‐bound GD2, GD1a, GD1b, GD3, GM1a, GM1b, or GM2, all coupled with KLH, and the binding was assessed via anti‐human IgG ELISA. Data are presented as mean ± SEM (<italic toggle="yes">n</italic> = 2) and evaluated using an unpaired Student's <italic toggle="yes">t</italic>‐test. [Colour figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="FEB4-12-1644-g004.jpg"><?image-name FEB4-12-1644-g004.jpg?><?image-size 118162?><?image-md5 90dd32def11cfa73f9b71ad00c9ed113?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1230?><?image-original-width 1064?><?image-scaled-height 820?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c835/9433816/90dd32def11c/FEB4-12-1644-g004.jpg?><?thumb-name FEB4-12-1644-g004.gif?><?thumb-size 13616?><?thumb-md5 41c5a8fa5d79b6cd938a37f060db1e39?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 116?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/c835/9433816/41c5a8fa5d79/FEB4-12-1644-g004.gif?></graphic></fig></sec><sec id="feb413464-sec-0019"><title>
+<styled-content style="fixed-case" toggle="no">H3</styled-content>‐16 <styled-content style="fixed-case" toggle="no">IgG1m4</styled-content> reduced <styled-content style="fixed-case" toggle="no">CDC</styled-content> and maintained the <styled-content style="fixed-case" toggle="no">ADCC</styled-content> effects</title><p>The flow cytometry results showed that H3‐16 IgG1m4 bound to the IMR‐32 and U‐87 MG cells more efficiently than ch14.18 IgG1 (Fig. <xref rid="feb413464-fig-0002" ref-type="fig">2A,B</xref>). Under our testing conditions, the complement‐related cell lysis of IMR‐32 by H3‐16 IgG1m4 was lower than that by ch14.18 IgG1 (Fig. <xref rid="feb413464-fig-0002" ref-type="fig">2C</xref>). However, neither ch14.18 IgG1 nor H3‐16 IgG1m4 mediated the lysis of U‐87 MG (Fig. <xref rid="feb413464-fig-0002" ref-type="fig">2D</xref>), which may have been due to the expression of complement inhibitory proteins (CD55 and CD59) on the cell surface.</p><fig position="float" fig-type="Fig." id="feb413464-fig-0002" orientation="portrait"><label>Fig. 2</label><caption><p>Anti‐GD2 monoclonal antibody potency was relative to H3‐16 IgG1m4 in antibody‐dependent cell‐mediated cytotoxicity (ADCC) and complement‐dependent cytotoxicity (CDC). (A) Flow cytometric analysis of the neuroblastoma cell line, IMR‐32, after staining of cells with ch14.18 IgG1, H3‐16 IgG1m4, and isotype IgG1. (B) Flow cytometric analysis of the glioblastoma cell line, U‐87 MG, after staining cells with antibodies. (C) Anti‐GD2 antibodies' potency in CDC against IMR‐32. An 18‐h LDH release assay after treating with ch14.18 IgG1 or H3‐16 IgG1m4 at a series of diluted concentrations from 15 to 0.0015 μg·mL<sup>−1</sup>. The isotype IgG1 antibody at a concentration of 15 μg·mL<sup>−1</sup> served as a negative control. (D) Anti‐GD2 antibodies' potency in CDC against the U‐87 MG cells. (E) ADCC mediated by human PBMCs against the IMR‐32 cell line in the presence of ch14.18 IgG1 or H3‐16 IgG1m4 at a series of diluted concentrations from 15 to 0.0015 μg·mL<sup>−1</sup>. An 18‐h LDH release assay detected the percentage of cytotoxicity. The isotype IgG1 antibody at a concentration of 15 μg·mL<sup>−1</sup> served as a negative control. (F) Anti‐GD2 antibodies' potency in ADCC against U‐87 MG. Data are presented as mean ± SEM (<italic toggle="yes">n</italic> = 3) and evaluated using an unpaired Student's <italic toggle="yes">t</italic>‐test (*<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01, ***<italic toggle="yes">P</italic> &lt; 0.001, and ****<italic toggle="yes">P</italic> &lt; 0.0001). [Colour figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="FEB4-12-1644-g001.jpg"><?image-name FEB4-12-1644-g001.jpg?><?image-size 122480?><?image-md5 69a6b07c2d8b204d1be7a475ad424dde?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1196?><?image-original-width 1064?><?image-scaled-height 797?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c835/9433816/69a6b07c2d8b/FEB4-12-1644-g001.jpg?><?thumb-name FEB4-12-1644-g001.gif?><?thumb-size 14482?><?thumb-md5 a59162556952e308408147dc6665cfbb?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 112?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/c835/9433816/a59162556952/FEB4-12-1644-g001.gif?></graphic></fig><p>We also compared the potency of the anti‐GD2 antibodies in mediating the lysis of IMR‐32 cells using PBMCs from healthy donors. Ch14.18 IgG1 was more stable in mediating the lysis of the IMR‐32 cell line by PBMCs in the presence of a high concentration of antibodies (10–100 n<sc>m</sc>). Since the antibody concentration was reduced (equal to or lower than 1 n<sc>m</sc>), H3‐16 IgG1m4 was superior to ch14.18 IgG1 in the lysis ability (Fig. <xref rid="feb413464-fig-0002" ref-type="fig">2E</xref>). Similar results were obtained when the NB cell line, LAN‐5, was used as the target cells (data not shown). However, H3‐16 IgG1m4 showed stronger ADCC effects than ch14.18 IgG1 at all tested concentrations (Fig. <xref rid="feb413464-fig-0002" ref-type="fig">2F</xref>) when the U87‐MG cells with low GD2 expression were used as the target cells. The proportion of CD107a‐positive cells in the CD3<sup>−</sup>/CD56<sup>+</sup> cell population was proportional to the extent of target cell lysis in ADCC (Fig. <xref rid="feb413464-fig-0003" ref-type="fig">3A–C</xref>), suggesting that the enhanced antitumor activity of the H3‐16 IgG1m4 antibody was associated with its enhanced ability to activate NK cells.</p><fig position="float" fig-type="Fig." id="feb413464-fig-0003" orientation="portrait"><label>Fig. 3</label><caption><p>Extent of NK cell activation in ADCC mediated by H3‐16 IgG1m4. (A) A single representative subject of flow cytometry images showed the proportion of CD107a<sup>+</sup> cells in the CD3<sup>−</sup>/CD56<sup>+</sup> cell population in ADCC experiments with IMR‐32 as target cells. CD3<sup>−</sup>/CD56<sup>+</sup>/CD107a<sup>+</sup> cells are the activated NK cell population. Ch14.18 IgG1, H3‐16 IgG1m4, and isotype IgG1 were all 0.15 μg·mL<sup>−1</sup>, and the group without antibody was used as a negative control. Using IMR‐32 (B) or U‐87 MG (C) as the target cells of ADCC, and the proportion of CD3<sup>−</sup>/CD56<sup>+</sup>/CD107a<sup>+</sup> cells in the CD3<sup>−</sup>/CD56<sup>+</sup> cell population, was detected by flow cytometry in the presence of different concentrations (0.0015–15 μg·mL<sup>−1</sup>) of anti‐GD2 antibody. The isotype IgG1 antibody served as a IgG1 isotype control. Data are presented as mean ± SEM (<italic toggle="yes">n</italic> = 3) and evaluated using an unpaired Student's <italic toggle="yes">t</italic>‐test (*<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01, ***<italic toggle="yes">P</italic> &lt; 0.001, and ****<italic toggle="yes">P</italic> &lt; 0.0001). [Colour figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="FEB4-12-1644-g002.jpg"><?image-name FEB4-12-1644-g002.jpg?><?image-size 85244?><?image-md5 aecda9644cc735b34bc2ee0d017a7b74?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 668?><?image-original-width 1064?><?image-scaled-height 445?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c835/9433816/aecda9644cc7/FEB4-12-1644-g002.jpg?><?thumb-name FEB4-12-1644-g002.gif?><?thumb-size 13098?><?thumb-md5 0341553d351648d122cad4d9ad320dd8?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 127?><?thumb-cloudpmc-urn urn:cdn:blobs/c835/9433816/0341553d3516/FEB4-12-1644-g002.gif?></graphic></fig><p>The binding affinities of the WT IgG1 and mutants to human recombinant FcγRs were compared using BLI, and the data are shown in Table <xref rid="feb413464-tbl-0001" ref-type="table">1</xref>. H3‐16 IgG1 and H3‐16 IgG1m4 both had higher binding affinities for CD16A‐158V than CD16A‐158F and higher KD for CD32A‐131H than CD32A‐131R. H3‐16 IgG1m4 had affinity toward the high‐ or low‐affinity allotypes CD16A and CD32A, similar to that of the parent H3‐16 IgG1. The above results concluded that compared with ch14.18 IgG1, H3‐16 IgG1m4 reduced the CDC effect and enhanced ADCC activity at low concentrations.</p><table-wrap position="float" id="feb413464-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Affinities of the H3‐16 Fc mutant antibodies binding to human FcγR allotypes.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">FcγR</th><th align="left" valign="bottom" rowspan="1" colspan="1">Antibody</th><th align="left" valign="bottom" rowspan="1" colspan="1">kon (1/Ms)</th><th align="left" valign="bottom" rowspan="1" colspan="1">kdis (1/s)</th><th align="left" valign="bottom" rowspan="1" colspan="1">KD (M)</th></tr></thead><tbody valign="top"><tr><td rowspan="2" align="left" valign="top" colspan="1">CD16A‐158V</td><td align="left" valign="top" rowspan="1" colspan="1">H3‐16 IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">1.08E+5</td><td align="left" valign="top" rowspan="1" colspan="1">7.99E‐2</td><td align="left" valign="top" rowspan="1" colspan="1">7.38E‐7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">H3‐16 IgG1m4</td><td align="left" valign="top" rowspan="1" colspan="1">8.64E+4</td><td align="left" valign="top" rowspan="1" colspan="1">4.19E‐2</td><td align="left" valign="top" rowspan="1" colspan="1">4.85E‐7</td></tr><tr><td rowspan="2" align="left" valign="top" colspan="1">CD16A‐158F</td><td align="left" valign="top" rowspan="1" colspan="1">H3‐16 IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">8.04E+4</td><td align="left" valign="top" rowspan="1" colspan="1">2.98E‐1</td><td align="left" valign="top" rowspan="1" colspan="1">3.70E‐6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">H3‐16 IgG1m4</td><td align="left" valign="top" rowspan="1" colspan="1">5.92E+4</td><td align="left" valign="top" rowspan="1" colspan="1">3.15E‐1</td><td align="left" valign="top" rowspan="1" colspan="1">5.33E‐6</td></tr><tr><td rowspan="2" align="left" valign="top" colspan="1">CD32A‐131R</td><td align="left" valign="top" rowspan="1" colspan="1">H3‐16 IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">7.54E+5</td><td align="left" valign="top" rowspan="1" colspan="1">1.31E‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.74E‐8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">H3‐16 IgG1m4</td><td align="left" valign="top" rowspan="1" colspan="1">1.59E+6</td><td align="left" valign="top" rowspan="1" colspan="1">3.01E‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.89E‐8</td></tr><tr><td rowspan="2" align="left" valign="top" colspan="1">CD32A‐131H</td><td align="left" valign="top" rowspan="1" colspan="1">H3‐16 IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">1.14E+6</td><td align="left" valign="top" rowspan="1" colspan="1">1.33E‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.16E‐8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">H3‐16 IgG1m4</td><td align="left" valign="top" rowspan="1" colspan="1">1.35E+6</td><td align="left" valign="top" rowspan="1" colspan="1">1.43E‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.06E‐8</td></tr></tbody></table></table-wrap></sec><sec id="feb413464-sec-0020"><title>
+<styled-content style="fixed-case" toggle="no">H3</styled-content>‐16 <styled-content style="fixed-case" toggle="no">IgG1m4</styled-content> reduced allodynia in the <styled-content style="fixed-case" toggle="no">SD</styled-content> rats</title><p>Rats were divided into three groups using the random block method according to their body weight and mean mechanical withdrawal thresholds. There was no significant change in the body weight of the three groups during the experiment (Fig. <xref rid="feb413464-fig-0004" ref-type="fig">4A</xref>). After intravenous injection of the PBS buffer (vehicle group), the thresholds had little change in the next 48 h (Fig. <xref rid="feb413464-fig-0004" ref-type="fig">4B</xref>). After treatments with the anti‐GD2 antibodies (1 mg·kg<sup>−1</sup>, i.v., one dose), the thresholds of the rats were decreased (Fig. <xref rid="feb413464-fig-0004" ref-type="fig">4C,D</xref>). Two hours postinjection of ch14.18 IgG1, the threshold was 8.14 ± 1.21 g, significantly lower than that of the vehicle group (<italic toggle="yes">P</italic> &lt; 0.05). The mean mechanical withdrawal thresholds were also lowered by the H3‐16 IgG1m4 treatment, but there was no statistical significance when compared to the vehicle group (<italic toggle="yes">P</italic> &gt; 0.05). Thus, H3‐16 IgG1m4 attenuated allodynia in the SD rats when compared to ch14.18 IgG1.</p><fig position="float" fig-type="Fig." id="feb413464-fig-0004" orientation="portrait"><label>Fig. 4</label><caption><p>H3‐16 IgG1m4 injection‐induced changes in the mechanical paw withdrawal threshold in the Sprague–Dawley (SD) rats. (A) Animals' body weights were assessed prior to injection and at 24 and 48 h after injection. (B) SD rats were randomly divided into three groups, and the same volume of H3‐16 IgG1m4, ch14.18 IgG1, or PBS was injected into the tail vein. At the same time interval after injection, von Frey was used to detect the rats' paw contraction reaction, and the mean mechanical withdrawal threshold was calculated. The lower the mean mechanical withdrawal threshold of the rats, the stronger the pain side effects caused by the anti‐GD2 antibody injection. The curve of thresholds of animals injected with PBS is shown for a negative baseline. (C, D) Areas over the curve of the first 2 h after injection and 2–5 h after injection; the increasing numbers indicate that the rats had strong allodynia. Data are presented as mean ± SEM (<italic toggle="yes">n</italic> = 6) and evaluated using an unpaired Student's <italic toggle="yes">t</italic>‐test (*<italic toggle="yes">P</italic> &lt; 0.05, **<italic toggle="yes">P</italic> &lt; 0.01, and ***<italic toggle="yes">P</italic> &lt; 0.001). [Colour figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="FEB4-12-1644-g003.jpg"><?image-name FEB4-12-1644-g003.jpg?><?image-size 95586?><?image-md5 b8ac6ea626d88bcdf8298c6b441389d0?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1055?><?image-original-width 1064?><?image-scaled-height 703?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/c835/9433816/b8ac6ea626d8/FEB4-12-1644-g003.jpg?><?thumb-name FEB4-12-1644-g003.gif?><?thumb-size 13382?><?thumb-md5 87cb04474c606b1319cb139ab98079b7?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 99?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/c835/9433816/87cb04474c60/FEB4-12-1644-g003.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="feb413464-sec-0021"><title>Discussion</title><p>GD2‐specific antibodies can prolong the EFS rate and overall survival rate of NB patients [<xref rid="feb413464-bib-0016" ref-type="bibr">16</xref>, <xref rid="feb413464-bib-0018" ref-type="bibr">18</xref>, <xref rid="feb413464-bib-0028" ref-type="bibr">28</xref>, <xref rid="feb413464-bib-0029" ref-type="bibr">29</xref>], but have common side effects of neuropathic pain and antidrug antibody (ADA) reactions. Several anti‐GD2 antibodies, such as HM3F8 [<xref rid="feb413464-bib-0030" ref-type="bibr">30</xref>], 8B6 [<xref rid="feb413464-bib-0031" ref-type="bibr">31</xref>, <xref rid="feb413464-bib-0032" ref-type="bibr">32</xref>], hu14.18K322A, and hu3F8, are being developed to reduce the side effects. Among them, hu14.18K322A and hu3F8 are generated by antibody engineering, and clinical trials have shown that they reduced pain and the ADA reaction [<xref rid="feb413464-bib-0016" ref-type="bibr">16</xref>, <xref rid="feb413464-bib-0017" ref-type="bibr">17</xref>, <xref rid="feb413464-bib-0029" ref-type="bibr">29</xref>]. In order to obtain a novel GD2‐specific antibody with even lower pain and a stronger antitumor capability, we made a series of modifications to ch14.18 IgG1 and obtained H3‐16 IgG1m4. The efficacy and side effects of the modified antibody H3‐16 IgG1m4 were evaluated <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic>.</p><p>CDC is considered to be the primary cause of neuropathic pain in humans following anti‐GD2 antibody administration [<xref rid="feb413464-bib-0020" ref-type="bibr">20</xref>]. The humanized antibody, hu14.18K322A, has significantly reduced CDC activity <italic toggle="yes">in vitro</italic> [<xref rid="feb413464-bib-0016" ref-type="bibr">16</xref>, <xref rid="feb413464-bib-0017" ref-type="bibr">17</xref>, <xref rid="feb413464-bib-0020" ref-type="bibr">20</xref>] and was shown to have less neuropathic pain in a clinical trial [<xref rid="feb413464-bib-0033" ref-type="bibr">33</xref>] when compared to ch14.18 [<xref rid="feb413464-bib-0018" ref-type="bibr">18</xref>]. The K322A mutation is part of the Fc modification of H3‐16 IgG1m4. Similar to hu14.18K322A, H3‐16 IgG1m4 had reduced CDC effects <italic toggle="yes">in vitro</italic> and ameliorated neuropathic pain responses in rats, although there is no clinical evidence as yet.</p><p>Another aim of Fc modification is to improve the ADCC effects, which are considered the most important antitumor mechanisms of GD2‐specific antibodies. It was reported previously that the efficacy of anti‐GD2 antibodies in an EL4 syngeneic mouse model of metastatic lymphoma was only slightly reduced in mice deficient in C3 or the complement receptor 3 (CR3), but was nearly absent in mice deficient in FcγR I/III [<xref rid="feb413464-bib-0013" ref-type="bibr">13</xref>]. After the CDC activities of the anti‐GD2 antibodies were weakened, their ADCC activity should have been enhanced to compensate for their curative effects. Hu14.18K322A had reduced CDC activity but maintained ADCC activity because the fucose level of the antibody produced by the YB2/0 cell production system was lower than that in the SP2/0 cells. However, hu14.18K322A antibodies produced in different laboratories showed different ADCC effects. Federico et al. [<xref rid="feb413464-bib-0034" ref-type="bibr">34</xref>] tested six batches of hu14.18K322A produced according to the Current Good Manufacture Practices (cGMP) standards (produced by YB2/0 cells) and two clinical batches of dinutuximab (ch14.18). They found that the <italic toggle="yes">EC</italic>
+<sub>
+<italic toggle="yes">50</italic>
+</sub> value of hu14.18K322A for the cleavage of GD2‐expressing cells was consistently 3.5–4 times lower than that of ch14.18. Sorkin et al. [<xref rid="feb413464-bib-0020" ref-type="bibr">20</xref>] reported that their laboratory transfected YB2/0 cells to express hu14.18K322A, whose ADCC results were only slightly lower than that of ch14.18 IgG1. We tried a different strategy to enhance the ADCC activity of the GD2 antibodies by introducing K322A, L235V, F243L, R292P, Y300L, and P396L mutations together into the Fc protein. The combination of mutations had been applied to the anti‐HER2 antibody, margetuximab, and was validated in clinical trials before [<xref rid="feb413464-bib-0035" ref-type="bibr">35</xref>]. We used BLI to measure the interaction between the Fc fragment and the IgG Fc receptors. The binding affinities of the mutant IgG1m4 to FcγII R and FcγIII R were similar to that of the nonmutant IgG1. The results indicated that, compared to WT IgG1, IgG1m4 might have similar activity for mediating granulocytes or NK cells to lyse tumor cells.</p><p>The antibody–antigen binding affinity is one of the factors that affects the ADCC activity [<xref rid="feb413464-bib-0036" ref-type="bibr">36</xref>], in addition to the Fc effector functions. Our results showed that, compared with ch14.18 IgG1, H3‐16 IgG1m4 had significantly increased binding activity to purified GD2 molecules and GD2‐positive cells. Furthermore, the cross‐binding activity of H3‐16 IgG1m4 with other gangliosides was similar to that of ch14.18 IgG1. After affinity maturation, the ADCC activity of H3‐16 IgG1m4 was enhanced. In order to lyse IMR‐32 and U‐87 MG cells <italic toggle="yes">in vitro</italic>, H3‐16 IgG1m4 required only a low concentration of antibody to achieve ADCC effects similar to those of a high concentration of ch14.18 IgG1.</p><p>Mouse xenograft tumor models are often used to evaluate the antitumor activity of antibodies <italic toggle="yes">in vivo</italic>. However, the primary antitumor mechanism of anti‐GD2 antibodies is its ADCC effect, and this requires the participation of activated receptors on the immune effector cells, such as human CD16A on the surface of NK cells. The distribution of murine FcγRs on mouse effector cells differs from their human counterparts, and the binding affinity of human IgG1 to murine FcγRs differs from that of human FcγRs [<xref rid="feb413464-bib-0021" ref-type="bibr">21</xref>]. Particular caution should be taken when evaluating the <italic toggle="yes">in vivo</italic> antitumor activity of antibodies improved for human FcγRs interaction. MGAH22 is an antibody that targets HER2 of the IgG1 subtype, and its Fc has been modified to enhance the activity of binding human CD16A. Nordstrom et al. [<xref rid="feb413464-bib-0019" ref-type="bibr">19</xref>] observed the superior antitumor activity of MGAH22 over WT Fc antibodies only in mCD16<sup>−/−</sup> hCD16A<sup>+</sup> mouse xenograft models, but not in FcγR‐WT mice or mCD16<sup>−/−</sup> mice models. Constructing a scientific mouse xenograft model and evaluating the antitumor activity of Fc‐modified H3‐16 IgG1m4 <italic toggle="yes">in vivo</italic> will be the focus of our future research.</p><p>Ch14.18 IgG1 or H3‐16 IgG1m4 failed to trigger the CDC effect against U‐87 MG cells, which may have been due to the expression of CD55 and CD59 on their surfaces (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.proteinatlas.org" ext-link-type="uri">www.proteinatlas.org</ext-link>). CD59 renders tumor cells resistant to CDC but does not affect ADCC [<xref rid="feb413464-bib-0013" ref-type="bibr">13</xref>]. The deficiency of CD55 or CD59 on the surface of the NB cells makes them more susceptible to CDC lysis. Nearly all human tumor cells, except NB cells, express CD59 [<xref rid="feb413464-bib-0013" ref-type="bibr">13</xref>]; thus, enhanced ADCC activity of H3‐16 IgG1m4 might be more important in GD2‐positive cancers other than NB [<xref rid="feb413464-bib-0012" ref-type="bibr">12</xref>]. Reduced CDC activity and painful side effects would facilitate expanding its scope of clinical application.</p><p>The clinical trials in NB patients have demonstrated that 43% or more of patients had ADA reactions against 14.G2a [<xref rid="feb413464-bib-0009" ref-type="bibr">9</xref>, <xref rid="feb413464-bib-0037" ref-type="bibr">37</xref>], 19–21% against ch14.18 [<xref rid="feb413464-bib-0038" ref-type="bibr">38</xref>], and 40% against humanized antibody hu14.18K322A [<xref rid="feb413464-bib-0016" ref-type="bibr">16</xref>]. ADA would lead to low serum antibody levels and diminished therapeutic effects during subsequent treatment cycles [<xref rid="feb413464-bib-0038" ref-type="bibr">38</xref>]. The murine GD2 antibody 3F8 induced ADA in 70–80% of patients [<xref rid="feb413464-bib-0039" ref-type="bibr">39</xref>, <xref rid="feb413464-bib-0040" ref-type="bibr">40</xref>, <xref rid="feb413464-bib-0041" ref-type="bibr">41</xref>], but the humanized antibody, hu3F8, only induced ADA in 21% of patients [<xref rid="feb413464-bib-0016" ref-type="bibr">16</xref>, <xref rid="feb413464-bib-0042" ref-type="bibr">42</xref>]. We humanized ch14.18 IgG1 with the framework shuffling technique based on the combination of the phage display library and high‐throughput screening. Online tools for antibody humanization, such as H‐score, G‐score, and T20, have been used for antibody screening and design [<xref rid="feb413464-bib-0043" ref-type="bibr">43</xref>, <xref rid="feb413464-bib-0044" ref-type="bibr">44</xref>, <xref rid="feb413464-bib-0045" ref-type="bibr">45</xref>], but <italic toggle="yes">in vivo</italic> evaluation is critical [<xref rid="feb413464-bib-0036" ref-type="bibr">36</xref>] and ongoing.</p></sec><sec sec-type="conclusions" id="feb413464-sec-0022"><title>Conclusion</title><p>Monoclonal antibody targeting disialoganglioside GD2 is an important therapeutical option for high‐risk neuroblastoma. However, anti‐GD2 antibodies can cause severe neuropathic pain, and this has limited their clinical application. By utilizing antibody engineering, we generated a humanized anti‐GD2 mAb H3‐16 IgG1m4 with a high affinity for GD2. Compared to its parental mAb ch14.18 IgG1, H3‐16 IgG1m4 showed enhanced ADCC and decreased CDC <italic toggle="yes">in vitro</italic>. The neuropathic pain effects of H3‐16 IgG1m4 were also significantly reduced <italic toggle="yes">in vivo</italic>. Taken together, our data demonstrated that H3‐16 IgG1m4 is a promising preclinical candidate for NB and other GD2‐positive tumors.</p></sec><sec sec-type="COI-statement" id="feb413464-sec-0024"><title>Conflict of interest</title><p>Y‐LC, X‐YL, X‐ND, YC, X‐CD, H‐YL, and JT received stipends from Shanghai Mabstone Biotechnology, Ltd. G‐JL, G‐JC, and C‐HW are employees of Dartsbio Pharmaceuticals, Ltd.</p></sec><sec id="feb413464-sec-0026"><title>Author contributions</title><p>Conceptualization, Y‐LC and C‐HW; methodology, Y‐LC; validation, X‐YL, G‐JL, X‐ND, YC, X‐CD, H‐YL, JT, and G‐JC; formal analysis, Y‐LC, X‐YL, and C‐HW; investigation, Y‐LC and C‐HW; resources, Y‐LC, C‐HW, and Z‐MO; data curation, Y‐LC and X‐YL; writing, original draft preparation, X‐YL; writing, review, and editing, Y‐LC, Z‐MO, and C‐HW; visualization, X‐YL, X‐ND, and YC; project administration, Y‐LC; funding acquisition, C‐HW. All authors have read and agreed to the published version of the article.</p></sec></body><back><ack id="feb413464-sec-0023"><title>Acknowledgements</title><p>The authors thank all project team workers from Shanghai Mabstone Biotechonology, Dartsbio Pharmaceuticals, Shanghai Institute of Materia Medica, and Zhejiang University of Technology of Pharmaceutical Science for their support of this project. This work was supported by the National Nature Science Foundation of China (21978267, 81872785 and 81673347), China National Major Scientific and Technological Special Project for “Significant New Drugs Innovation and Development” (2019ZX09732002‐006), the Strategic Priority Research Program of the Chinese Academy of Sciences (CAS) (XDA12020223, XDA12020330 and XDA12020360), Shanghai Municipal Commission of Science and Technology of China (19431903000, 17431904400, 19YF1457400 and 21S11904500), Institutes for Drug Discovery and Development, Chinese Academy of Sciences (CASIMM0120202007 and CASIMM0120202008), the National Key R&amp;D Program (2020YFA0509303), and Major Scientific and Technological Special Projects of Zhongshan City (191022172638719 and 210205143867019). We thank LetPub (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.letpub.com" ext-link-type="uri">www.letpub.com</ext-link>) for its linguistic assistance during the preparation of this article.</p></ack><sec sec-type="data-availability" id="feb413464-sec-0025"><title>Data accessibility</title><p>The data presented in this study are available from the corresponding author on reasonable request.</p></sec><ref-list id="feb413464-bibl-0001" content-type="cited-references"><title>References</title><ref id="feb413464-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="feb413464-cit-0001">
+<string-name name-style="western">
+<surname>Matthay</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maris</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schleiermacher</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakagawara</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mackall</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diller</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Neuroblastoma</article-title>. <source>Nat Rev Dis Primers</source>. <year>2016</year>;<volume>2</volume>:<elocation-id>16078</elocation-id>.<pub-id pub-id-type="pmid">27830764</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrdp.2016.78</pub-id></mixed-citation></ref><ref id="feb413464-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="feb413464-cit-0002">
+<string-name name-style="western">
+<surname>Nakagawara</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Izumi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muramori</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inada</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nishi</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Neuroblastoma</article-title>. <source>Jpn J Clin Oncol</source>. <year>2018</year>;<volume>48</volume>:<fpage>214</fpage>–<lpage>41</lpage>.<pub-id pub-id-type="pmid">29378002</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jjco/hyx176</pub-id></mixed-citation></ref><ref id="feb413464-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="feb413464-cit-0003">
+<string-name name-style="western">
+<surname>Cohn</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pearson</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>London</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monclair</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ambros</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brodeur</surname>
+<given-names>GM</given-names>
+</string-name>, et al. <article-title>The International Neuroblastoma Risk Group (INRG) classification system: an INRG Task Force report</article-title>. <source>J Clin Oncol</source>. <year>2009</year>;<volume>27</volume>:<fpage>289</fpage>–<lpage>97</lpage>.<pub-id pub-id-type="pmid">19047291</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2008.16.6785</pub-id><pub-id pub-id-type="pmcid">PMC2650388</pub-id></mixed-citation></ref><ref id="feb413464-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="feb413464-cit-0004">
+<string-name name-style="western">
+<surname>Viprey</surname>
+<given-names>VF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gregory</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corrias</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tchirkov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swerts</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vicha</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Neuroblastoma mRNAs predict outcome in children with stage 4 neuroblastoma: a European HR‐NBL1/SIOPEN study</article-title>. <source>J Clin Oncol</source>. <year>2014</year>;<volume>32</volume>:<fpage>1074</fpage>–<lpage>83</lpage>.<pub-id pub-id-type="pmid">24590653</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2013.53.3604</pub-id></mixed-citation></ref><ref id="feb413464-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="feb413464-cit-0005">
+<string-name name-style="western">
+<surname>Hellström</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hellström</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pierce</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bill</surname>
+<given-names>AH</given-names>
+</string-name>. <article-title>Demonstration of cell‐bound and humoral immunity against neuroblastoma cells</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>1968</year>;<volume>60</volume>:<fpage>1231</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">4299942</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.60.4.1231</pub-id><pub-id pub-id-type="pmcid">PMC224908</pub-id></mixed-citation></ref><ref id="feb413464-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="feb413464-cit-0006">
+<string-name name-style="western">
+<surname>Mujoo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheresh</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reisfeld</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Disialoganglioside GD2 on human neuroblastoma cells: target antigen for monoclonal antibody‐mediated cytolysis and suppression of tumor growth</article-title>. <source>Cancer Res</source>. <year>1987</year>;<volume>47</volume>:<fpage>1098</fpage>–<lpage>104</lpage>.<pub-id pub-id-type="pmid">3100030</pub-id></mixed-citation></ref><ref id="feb413464-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="feb413464-cit-0007">
+<string-name name-style="western">
+<surname>Svennerholm</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boström</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fredman</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jungbjer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lekman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Månsson</surname>
+<given-names>JE</given-names>
+</string-name>, et al. <article-title>Gangliosides and allied glycosphingolipids in human peripheral nerve and spinal cord</article-title>. <source>Biochim Biophys Acta</source>. <year>1994</year>;<volume>1214</volume>:<fpage>115</fpage>–<lpage>23</lpage>.<pub-id pub-id-type="pmid">7918590</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0005-2760(94)90034-5</pub-id></mixed-citation></ref><ref id="feb413464-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="feb413464-cit-0008">
+<string-name name-style="western">
+<surname>Kushner</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kramer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>NK</given-names>
+</string-name>. <article-title>Phase II trial of the anti‐G(D2) monoclonal antibody 3F8 and granulocyte‐macrophage colony‐stimulating factor for neuroblastoma</article-title>. <source>J Clin Oncol</source>. <year>2001</year>;<volume>19</volume>:<fpage>4189</fpage>–<lpage>94</lpage>.<pub-id pub-id-type="pmid">11709561</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2001.19.22.4189</pub-id></mixed-citation></ref><ref id="feb413464-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="feb413464-cit-0009">
+<string-name name-style="western">
+<surname>Frost</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hank</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reaman</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frierdich</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seeger</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gan</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>A phase I/IB trial of murine monoclonal anti‐GD2 antibody 14.G2a plus interleukin‐2 in children with refractory neuroblastoma: a report of the Children's Cancer Group</article-title>. <source>Cancer</source>. <year>1997</year>;<volume>80</volume>:<fpage>317</fpage>–<lpage>33</lpage>.<pub-id pub-id-type="pmid">9217046</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/(sici)1097-0142(19970715)80:2&lt;317::aid-cncr21&gt;3.0.co;2-w</pub-id></mixed-citation></ref><ref id="feb413464-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="feb413464-cit-0010">
+<string-name name-style="western">
+<surname>Mora</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Dinutuximab for the treatment of pediatric patients with high‐risk neuroblastoma</article-title>. <source>Expert Rev Clin Pharmacol</source>. <year>2016</year>;<volume>9</volume>:<fpage>647</fpage>–<lpage>53</lpage>.<pub-id pub-id-type="pmid">26934530</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1586/17512433.2016.1160775</pub-id></mixed-citation></ref><ref id="feb413464-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="feb413464-cit-0011">
+<string-name name-style="western">
+<surname>Kholodenko</surname>
+<given-names>IV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalinovsky</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doronin</surname>
+<given-names>II</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deyev</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kholodenko</surname>
+<given-names>RV</given-names>
+</string-name>. <article-title>Neuroblastoma origin and therapeutic targets for immunotherapy</article-title>. <source>J Immunol Res</source>. <year>2018</year>;<volume>2018</volume>:<elocation-id>7394268</elocation-id>.<pub-id pub-id-type="pmid">30116755</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2018/7394268</pub-id><pub-id pub-id-type="pmcid">PMC6079467</pub-id></mixed-citation></ref><ref id="feb413464-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="feb413464-cit-0012">
+<string-name name-style="western">
+<surname>Sait</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Modak</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Anti‐GD2 immunotherapy for neuroblastoma</article-title>. <source>Expert Rev Anticancer Ther</source>. <year>2017</year>;<volume>17</volume>:<fpage>889</fpage>–<lpage>904</lpage>.<pub-id pub-id-type="pmid">28780888</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14737140.2017.1364995</pub-id><pub-id pub-id-type="pmcid">PMC6082365</pub-id></mixed-citation></ref><ref id="feb413464-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="feb413464-cit-0013">
+<string-name name-style="western">
+<surname>Imai</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Landen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ohta</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomlinson</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Complement‐mediated mechanisms in anti‐GD2 monoclonal antibody therapy of murine metastatic cancer</article-title>. <source>Cancer Res</source>. <year>2005</year>;<volume>65</volume>:<fpage>10562</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">16288049</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-05-1894</pub-id></mixed-citation></ref><ref id="feb413464-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="feb413464-cit-0014">
+<string-name name-style="western">
+<surname>Isaacs</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greenwood</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waldmann</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Therapy with monoclonal antibodies. II. The contribution of Fc gamma receptor binding and the influence of C(H)1 and C(H)3 domains on in vivo effector function</article-title>. <source>J Immunol</source>. <year>1998</year>;<volume>161</volume>:<fpage>3862</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">9780151</pub-id></mixed-citation></ref><ref id="feb413464-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="feb413464-cit-0015">
+<string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tassev</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>IY</given-names>
+</string-name>. <article-title>Humanizing murine IgG3 anti‐GD2 antibody m3F8 substantially improves antibody‐dependent cell‐mediated cytotoxicity while retaining targeting in vivo</article-title>. <source>Onco Targets Ther</source>. <year>2012</year>;<volume>1</volume>:<fpage>477</fpage>–<lpage>86</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/onci.19864</pub-id><pub-id pub-id-type="pmcid">PMC3382886</pub-id><pub-id pub-id-type="pmid">22754766</pub-id></mixed-citation></ref><ref id="feb413464-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="feb413464-cit-0016">
+<string-name name-style="western">
+<surname>Navid</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sondel</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barfield</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shulkin</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaufman</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allay</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>Phase I trial of a novel anti‐GD2 monoclonal antibody, Hu14.18K322A, designed to decrease toxicity in children with refractory or recurrent neuroblastoma</article-title>. <source>J Clin Oncol</source>. <year>2014</year>;<volume>32</volume>:<fpage>1445</fpage>–<lpage>52</lpage>.<pub-id pub-id-type="pmid">24711551</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2013.50.4423</pub-id><pub-id pub-id-type="pmcid">PMC4017710</pub-id></mixed-citation></ref><ref id="feb413464-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="feb413464-cit-0017">
+<string-name name-style="western">
+<surname>Anghelescu</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldberg</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faughnan</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Furman</surname>
+<given-names>WL</given-names>
+</string-name>, et al. <article-title>Comparison of pain outcomes between two anti‐GD2 antibodies in patients with neuroblastoma</article-title>. <source>Pediatr Blood Cancer</source>. <year>2015</year>;<volume>62</volume>:<fpage>224</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">25382742</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pbc.25280</pub-id><pub-id pub-id-type="pmcid">PMC4425626</pub-id></mixed-citation></ref><ref id="feb413464-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="feb413464-cit-0018">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilman</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ozkaynak</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>London</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kreissman</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>HX</given-names>
+</string-name>, et al. <article-title>Anti‐GD2 antibody with GM‐CSF, interleukin‐2, and isotretinoin for neuroblastoma</article-title>. <source>N Engl J Med</source>. <year>2010</year>;<volume>363</volume>:<fpage>1324</fpage>–<lpage>34</lpage>.<pub-id pub-id-type="pmid">20879881</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa0911123</pub-id><pub-id pub-id-type="pmcid">PMC3086629</pub-id></mixed-citation></ref><ref id="feb413464-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="feb413464-cit-0019">
+<string-name name-style="western">
+<surname>Nordstrom</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gorlatov</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burke</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Anti‐tumor activity and toxicokinetics analysis of MGAH22, an anti‐HER2 monoclonal antibody with enhanced Fcγ receptor binding properties</article-title>. <source>Breast Cancer Res</source>. <year>2011</year>;<volume>13</volume>:<fpage>R123</fpage>.<pub-id pub-id-type="pmid">22129105</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/bcr3069</pub-id><pub-id pub-id-type="pmcid">PMC3326565</pub-id></mixed-citation></ref><ref id="feb413464-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="feb413464-cit-0020">
+<string-name name-style="western">
+<surname>Sorkin</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baldwin</surname>
+<given-names>WM</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Vail</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gillies</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Handgretinger</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Anti‐GD(2) with an FC point mutation reduces complement fixation and decreases antibody‐induced allodynia</article-title>. <source>Pain</source>. <year>2010</year>;<volume>149</volume>:<fpage>135</fpage>–<lpage>42</lpage>.<pub-id pub-id-type="pmid">20171010</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2010.01.024</pub-id><pub-id pub-id-type="pmcid">PMC3755890</pub-id></mixed-citation></ref><ref id="feb413464-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="feb413464-cit-0021">
+<string-name name-style="western">
+<surname>Stavenhagen</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gorlatov</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tuaillon</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rankin</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burke</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Fc optimization of therapeutic antibodies enhances their ability to kill tumor cells in vitro and controls tumor expansion in vivo via low‐affinity activating Fcgamma receptors</article-title>. <source>Cancer Res</source>. <year>2007</year>;<volume>67</volume>:<fpage>8882</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="pmid">17875730</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-07-0696</pub-id></mixed-citation></ref><ref id="feb413464-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="feb413464-cit-0022">
+<string-name name-style="western">
+<surname>Beers</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chowdhury</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bigner</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pastan</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Immunotoxins with increased activity against epidermal growth factor receptor vIII‐expressing cells produced by antibody phage display</article-title>. <source>Clin Cancer Res</source>. <year>2000</year>;<volume>6</volume>:<fpage>2835</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="pmid">10914732</pub-id></mixed-citation></ref><ref id="feb413464-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="feb413464-cit-0023">
+<string-name name-style="western">
+<surname>Ko</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cui</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>KT</given-names>
+</string-name>, et al. <article-title>Affinity maturation of monoclonal antibody 1E11 by targeted randomization in CDR3 regions optimizes therapeutic antibody targeting of HER2‐positive gastric cancer</article-title>. <source>PLoS ONE</source>. <year>2015</year>;<volume>10</volume>:<elocation-id>e0134600</elocation-id>.<pub-id pub-id-type="pmid">26225765</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0134600</pub-id><pub-id pub-id-type="pmcid">PMC4520604</pub-id></mixed-citation></ref><ref id="feb413464-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="feb413464-cit-0024">
+<string-name name-style="western">
+<surname>Broussas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Broyer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goetsch</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Evaluation of antibody‐dependent cell cytotoxicity using lactate dehydrogenase (LDH) measurement</article-title>. <source>Methods Mol Biol</source>. <year>2013</year>;<volume>988</volume>:<fpage>305</fpage>–<lpage>17</lpage>.<pub-id pub-id-type="pmid">23475728</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-62703-327-5_19</pub-id></mixed-citation></ref><ref id="feb413464-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="feb413464-cit-0025">
+<string-name name-style="western">
+<surname>Alter</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malenfant</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altfeld</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>CD107a as a functional marker for the identification of natural killer cell activity</article-title>. <source>J Immunol Methods</source>. <year>2004</year>;<volume>294</volume>:<fpage>15</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">15604012</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jim.2004.08.008</pub-id></mixed-citation></ref><ref id="feb413464-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="feb413464-cit-0026">
+<string-name name-style="western">
+<surname>Gong Chun‐xiang</surname>
+<given-names>WC‐R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Juan</surname>
+<given-names>GW‐I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mao‐Zhi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ming‐Chun</surname>
+<given-names>JI</given-names>
+</string-name>. <article-title>Detection of NK cell cytotoxicity with CD107a antibody labeling by Flow Cytometry</article-title>. <source>J Clin Med Pract</source>. <year>2010</year>;<volume>14</volume>:<fpage>23</fpage>–<lpage>6</lpage>.</mixed-citation></ref><ref id="feb413464-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="feb413464-cit-0027">
+<string-name name-style="western">
+<surname>Bonin</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bories</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Koninck</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>A simplified up‐down method (SUDO) for measuring mechanical nociception in rodents using von Frey filaments</article-title>. <source>Mol Pain</source>. <year>2014</year>;<volume>10</volume>:<elocation-id>26</elocation-id>.<pub-id pub-id-type="pmid">24739328</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1744-8069-10-26</pub-id><pub-id pub-id-type="pmcid">PMC4020614</pub-id></mixed-citation></ref><ref id="feb413464-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="feb413464-cit-0028">
+<string-name name-style="western">
+<surname>Ladenstein</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pötschger</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valteau‐Couanet</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luksch</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castel</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yaniv</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Interleukin 2 with anti‐GD2 antibody ch14.18/CHO (dinutuximab beta) in patients with high‐risk neuroblastoma (HR‐NBL1/SIOPEN): a multicentre, randomised, phase 3 trial</article-title>. <source>Lancet Oncol</source>. <year>2018</year>;<volume>19</volume>:<fpage>1617</fpage>–<lpage>29</lpage>.<pub-id pub-id-type="pmid">30442501</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(18)30578-3</pub-id></mixed-citation></ref><ref id="feb413464-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="feb413464-cit-0029">
+<string-name name-style="western">
+<surname>Mora</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castañeda</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gorostegui</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santa‐María</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garraus</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muñoz</surname>
+<given-names>JP</given-names>
+</string-name>, et al. <article-title>Naxitamab combined with granulocyte‐macrophage colony‐stimulating factor as consolidation for high‐risk neuroblastoma patients in complete remission</article-title>. <source>Pediatr Blood Cancer</source>. <year>2021</year>;<volume>68</volume>:<elocation-id>e29121</elocation-id>.<pub-id pub-id-type="pmid">34022112</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pbc.29121</pub-id></mixed-citation></ref><ref id="feb413464-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="feb413464-cit-0030">
+<string-name name-style="western">
+<surname>Kushner</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kramer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Modak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>NK</given-names>
+</string-name>. <article-title>Successful multifold dose escalation of anti‐GD2 monoclonal antibody 3F8 in patients with neuroblastoma: a phase I study</article-title>. <source>J Clin Oncol</source>. <year>2011</year>;<volume>29</volume>:<fpage>1168</fpage>–<lpage>74</lpage>.<pub-id pub-id-type="pmid">21343563</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2010.28.3317</pub-id><pub-id pub-id-type="pmcid">PMC3083872</pub-id></mixed-citation></ref><ref id="feb413464-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="feb413464-cit-0031">
+<string-name name-style="western">
+<surname>Alvarez‐Rueda</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desselle</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cochonneau</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaumette</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clemenceau</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leprieur</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>A monoclonal antibody to O‐acetyl‐GD2 ganglioside and not to GD2 shows potent antitumor activity without peripheral nervous system cross‐reactivity</article-title>. <source>PLoS ONE</source>. <year>2011</year>;<volume>6</volume>:<elocation-id>e25220</elocation-id>.<pub-id pub-id-type="pmid">21966461</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0025220</pub-id><pub-id pub-id-type="pmcid">PMC3178631</pub-id></mixed-citation></ref><ref id="feb413464-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="feb413464-cit-0032">
+<string-name name-style="western">
+<surname>Terme</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dorvillius</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cochonneau</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaumette</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diccianni</surname>
+<given-names>MB</given-names>
+</string-name>, et al. <article-title>Chimeric antibody c.8B6 to O‐acetyl‐GD2 mediates the same efficient anti‐neuroblastoma effects as therapeutic ch14.18 antibody to GD2 without antibody induced allodynia</article-title>. <source>PLoS ONE</source>. <year>2014</year>;<volume>9</volume>:<elocation-id>e87210</elocation-id>.<pub-id pub-id-type="pmid">24520328</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0087210</pub-id><pub-id pub-id-type="pmcid">PMC3919714</pub-id></mixed-citation></ref><ref id="feb413464-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="feb413464-cit-0033">
+<string-name name-style="western">
+<surname>Furman</surname>
+<given-names>WL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Federico</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCarville</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shulkin</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davidoff</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krasin</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>A phase II trial of Hu14.18K322A in combination with induction chemotherapy in children with newly diagnosed high‐risk neuroblastoma</article-title>. <source>Clin Cancer Res</source>. <year>2019</year>;<volume>25</volume>:<fpage>6320</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">31601569</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-19-1452</pub-id><pub-id pub-id-type="pmcid">PMC6825564</pub-id></mixed-citation></ref><ref id="feb413464-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="feb413464-cit-0034">
+<string-name name-style="western">
+<surname>Federico</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCarville</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shulkin</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sondel</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hank</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hutson</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>A pilot trial of humanized anti‐GD2 monoclonal antibody (hu14.18K322A) with chemotherapy and natural killer cells in children with recurrent/refractory neuroblastoma</article-title>. <source>Clin Cancer Res</source>. <year>2017</year>;<volume>23</volume>:<fpage>6441</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">28939747</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-17-0379</pub-id><pub-id pub-id-type="pmcid">PMC8725652</pub-id></mixed-citation></ref><ref id="feb413464-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="feb413464-cit-0035">
+<string-name name-style="western">
+<surname>Bang</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giaccone</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Im</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oh</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bauer</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nordstrom</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>First‐in‐human phase 1 study of margetuximab (MGAH22), an Fc‐modified chimeric monoclonal antibody, in patients with HER2‐positive advanced solid tumors</article-title>. <source>Ann Oncol</source>. <year>2017</year>;<volume>28</volume>:<fpage>855</fpage>–<lpage>61</lpage>.<pub-id pub-id-type="pmid">28119295</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/annonc/mdx002</pub-id><pub-id pub-id-type="pmcid">PMC6246722</pub-id></mixed-citation></ref><ref id="feb413464-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="feb413464-cit-0036">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>HZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>HJ</given-names>
+</string-name>, et al. <article-title>Development of therapeutic antibodies for the treatment of diseases</article-title>. <source>J Biomed Sci</source>. <year>2020</year>;<volume>27</volume>:<fpage>1</fpage>.<pub-id pub-id-type="pmid">31894001</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12929-019-0592-z</pub-id><pub-id pub-id-type="pmcid">PMC6939334</pub-id></mixed-citation></ref><ref id="feb413464-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="feb413464-cit-0037">
+<string-name name-style="western">
+<surname>Handgretinger</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baader</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dopfer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klingebiel</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reuland</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Treuner</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>A phase I study of neuroblastoma with the anti‐ganglioside GD2 antibody 14.G2a</article-title>. <source>Cancer Immunol Immunother</source>. <year>1992</year>;<volume>35</volume>:<fpage>199</fpage>–<lpage>204</lpage>.<pub-id pub-id-type="pmid">1638557</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF01756188</pub-id><pub-id pub-id-type="pmcid">PMC11038881</pub-id></mixed-citation></ref><ref id="feb413464-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="feb413464-cit-0038">
+<string-name name-style="western">
+<surname>Siebert</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seidel</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jüttner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zumpe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wegner</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Pharmacokinetics and pharmacodynamics of ch14.18/CHO in relapsed/refractory high‐risk neuroblastoma patients treated by long‐term infusion in combination with IL‐2</article-title>. <source>MAbs</source>. <year>2016</year>;<volume>8</volume>:<fpage>604</fpage>–<lpage>16</lpage>.<pub-id pub-id-type="pmid">26785755</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/19420862.2015.1130196</pub-id><pub-id pub-id-type="pmcid">PMC4966854</pub-id></mixed-citation></ref><ref id="feb413464-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="feb413464-cit-0039">
+<string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>IY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kushner</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ostrovnaya</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chamberlain</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kramer</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Murine anti‐GD2 monoclonal antibody 3F8 combined with granulocyte‐macrophage colony‐stimulating factor and 13‐cis‐retinoic acid in high‐risk patients with stage 4 neuroblastoma in first remission</article-title>. <source>J Clin Oncol</source>. <year>2012</year>;<volume>30</volume>:<fpage>3264</fpage>–<lpage>70</lpage>.<pub-id pub-id-type="pmid">22869886</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2011.41.3807</pub-id><pub-id pub-id-type="pmcid">PMC3434986</pub-id></mixed-citation></ref><ref id="feb413464-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="feb413464-cit-0040">
+<string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>IY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kramer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Modak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuk</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pandit‐Taskar</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Key role for myeloid cells: phase II results of anti‐G(D2) antibody 3F8 plus granulocyte‐macrophage colony‐stimulating factor for chemoresistant osteomedullary neuroblastoma</article-title>. <source>Int J Cancer</source>. <year>2014</year>;<volume>135</volume>:<fpage>2199</fpage>–<lpage>205</lpage>.<pub-id pub-id-type="pmid">24644014</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.28851</pub-id><pub-id pub-id-type="pmcid">PMC4292931</pub-id></mixed-citation></ref><ref id="feb413464-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="feb413464-cit-0041">
+<string-name name-style="western">
+<surname>Kushner</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ostrovnaya</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>IY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuk</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kramer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Modak</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Prolonged progression‐free survival after consolidating second or later remissions of neuroblastoma with Anti‐G(D2) immunotherapy and isotretinoin: a prospective Phase II study</article-title>. <source>Onco Targets Ther</source>. <year>2015</year>;<volume>4</volume>:<elocation-id>e1016704</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/2162402X.2015.1016704</pub-id><pub-id pub-id-type="pmcid">PMC4485744</pub-id><pub-id pub-id-type="pmid">26140243</pub-id></mixed-citation></ref><ref id="feb413464-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="feb413464-cit-0042">
+<string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>IY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kushner</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Modak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basu</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roberts</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>NV</given-names>
+</string-name>. <article-title>Phase I trial of anti‐GD2 monoclonal antibody hu3F8 plus GM‐CSF: Impact of body weight, immunogenicity and anti‐GD2 response on pharmacokinetics and survival</article-title>. <source>Onco Targets Ther</source>. <year>2017</year>;<volume>6</volume>:<elocation-id>e1358331</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/2162402X.2017.1358331</pub-id><pub-id pub-id-type="pmcid">PMC5674972</pub-id><pub-id pub-id-type="pmid">29147617</pub-id></mixed-citation></ref><ref id="feb413464-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="feb413464-cit-0043">
+<string-name name-style="western">
+<surname>Abhinandan</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>Analyzing the "degree of humanness" of antibody sequences</article-title>. <source>J Mol Biol</source>. <year>2007</year>;<volume>369</volume>:<fpage>852</fpage>–<lpage>62</lpage>.<pub-id pub-id-type="pmid">17442342</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jmb.2007.02.100</pub-id></mixed-citation></ref><ref id="feb413464-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="feb413464-cit-0044">
+<string-name name-style="western">
+<surname>Thullier</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huish</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pelat</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>The humanness of macaque antibody sequences</article-title>. <source>J Mol Biol</source>. <year>2010</year>;<volume>396</volume>:<fpage>1439</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">20043919</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jmb.2009.12.041</pub-id></mixed-citation></ref><ref id="feb413464-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="feb413464-cit-0045">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adler</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Monoclonal antibody humanness score and its applications</article-title>. <source>BMC Biotechnol</source>. <year>2013</year>;<volume>13</volume>:<fpage>55</fpage>.<pub-id pub-id-type="pmid">23826749</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1472-6750-13-55</pub-id><pub-id pub-id-type="pmcid">PMC3729710</pub-id></mixed-citation></ref></ref-list></back></article>
