@@ -108,6 +108,20 @@ failure** (a temporal-lobe lesion with high uniform GD2 did not respond while IC
 regressed), **MDSC/G-CSF-driven microenvironmental suppression**, and **iatrogenic** loss of activity
 (steroids, dasatinib, iCasp9 ablation, DL1 as MTD, no lymphodepletion with ICV). Detail in `notes/09`.
 
+### 3c. ICV without lymphodepletion
+
+No CNS-locoregional protocol uses conditioning before intracranial dosing: Stanford gives ICV doses with
+no lymphodepletion (gated on benefit, circulating CAR <5%, toxicity <grade 2, ≥21–28 days), and
+BrainChild-03 never lymphodepletes at all — 253 doses q14 days, enrolling patients on dexamethasone
+≤2.5 mg m⁻² d⁻¹. ICV substitutes placement for amplification: CSF CAR-T proportions and CSF cytokines
+exceed those after IV, but local expansion is intermittent (CAR detected in 38% of CSF specimens, 72% of
+BrainChild patients at ≥1 timepoint). This removes Cy/Flu cytopenias, ICAHT, infection stacking and the
+fludarabine/cyclophosphamide drug-interaction exposure entirely, and it is the reason ICV toxicity is
+TIAN- and hardware-dominated. The costs are dose density instead of persistence, mandatory hardware,
+TIAN with each infusion, possibly capped depth of response with Tregs/MDSC left intact, and retained
+host immunity against a murine-scFv/iCasp9/EGFRt transgene with **no anti-CAR immunity reported in
+either trial — unmeasured rather than excluded**. Detail in `notes/10`.
+
 ## 4. Transient organ-function changes that could affect other therapies
 
 Magnitude, timing and reversibility are tabulated in `notes/05`. The decision-relevant summary:

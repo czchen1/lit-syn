@@ -61,6 +61,7 @@ drugs, generic hepatotoxin/nephrotoxin pharmacology, and CAR-T efficacy work wit
 - `notes/06_drug_interactions_and_pk.md` — inflammation- and cytokine-blockade-mediated changes in drug metabolism and clearance; concrete concomitant-drug implications.
 - `notes/07_monitoring_and_mitigation.md` — monitoring schedule, thresholds, engineering/dosing mitigations, iCasp9, and what remains unproven.
 - `notes/08_microglia_myeloid_axis.md` — CSF myeloid/microglial states by route, CCL2/TNF/IL-10 correlates of TIAN, amplifier-vs-target framing.
+- `notes/10_icv_without_lymphodepletion.md` — what omitting conditioning changes: compartment dosing vs expansion, measured CSF CAR detection, dose density, hardware dependence, unmeasured anti-CAR immunity.
 - `notes/09_resistance_and_failure_modes.md` — efficacy ceiling, pre-infusion attrition, exhaustion/persistence, compartmental (delivery) failure, antigen density, MDSC/TME suppression, and toxicity management that defeats efficacy.
 
 ## Identification strategy
