@@ -60,6 +60,7 @@ drugs, generic hepatotoxin/nephrotoxin pharmacology, and CAR-T efficacy work wit
 - `notes/05_organ_function_hepatic_renal_heme.md` — transient hepatic, renal/electrolyte, haematologic and coagulation changes: magnitude, timing, reversibility.
 - `notes/06_drug_interactions_and_pk.md` — inflammation- and cytokine-blockade-mediated changes in drug metabolism and clearance; concrete concomitant-drug implications.
 - `notes/07_monitoring_and_mitigation.md` — monitoring schedule, thresholds, engineering/dosing mitigations, iCasp9, and what remains unproven.
+- `notes/08_microglia_myeloid_axis.md` — CSF myeloid/microglial states by route, CCL2/TNF/IL-10 correlates of TIAN, amplifier-vs-target framing.
 
 ## Identification strategy
 

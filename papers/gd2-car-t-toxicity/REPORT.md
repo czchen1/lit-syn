@@ -83,6 +83,18 @@ the CSF does not reproduce it. It also explains why systemic organ-function chan
 | Infection | Fungal and bacterial cases; urosepsis confounded 2 CRS events | **Direct** | Stacked immunosuppression |
 | Drug interactions | **None measured** | **Mechanistic only** | See §5 |
 | Device/hardware | Reservoir required; 1 grade 3 hydrocephalus in ICV B7-H3; haemorrhage DLT | **Direct, ICV-specific** | Under-reported as a category |
+| Myeloid/microglial amplification | CSF scRNA-seq myeloid states differ by route; grade ≥2 TIAN correlates with CSF MCP-1/CCL2, TNF-α, IL-10 | **Direct but correlative** | Mechanism untested; see `notes/08` |
+
+### 3a. The myeloid axis behind TIAN
+
+TIAN correlates with myeloid, not T-cell, readouts: grade ≥2 TIAN tracks CSF **MCP-1/CCL2**, TNF-α and
+IL-10, and grade ≥2 CRS tracks plasma MCP-1/CCL2. CSF single-cell RNA-seq shows route-dependent myeloid
+states — an interferon-responsive population at peak inflammation after ICV, versus phagocytic,
+lipid-metabolic, immune-suppressive DAM/MDSC-like states after IV and at late timepoints. Autopsy in
+the first DMG patient showed dense Iba1⁺/CD163⁺ myeloid infiltration **within tumour** and resting,
+non-reactive microglia in unaffected cortex. Microglia are therefore best read as **amplifiers**
+downstream of tumour-restricted CAR engagement, not as GD2 targets; the causal claim remains untested.
+Detail in `notes/08`.
 
 ## 4. Transient organ-function changes that could affect other therapies
 
