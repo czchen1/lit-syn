@@ -24,17 +24,26 @@ haemophilia inhibitors, autoimmunity — and is labelled indirect. See `REPORT.m
 
 ## Files
 
+- `rituximab_anticar_cart_report.md` / `.pdf` — standalone report (synthesis + all four notes + full
+  reference list grouped by category). `build_pdf.py` writes the markdown and renders the PDF from it
+  (needs `markdown` and `weasyprint`).
 - `REPORT.md` — the synthesis: direct evidence table, dosing-schedule table with evidence class, timing/depth
   principles, CAR-T-specific hazards, alternatives, and an explicitly-labelled extrapolated schedule.
-- `index.tsv` — 193 curated records (185 PubMed papers + 4 trial-registry records, a funder presentation, and later additions) with category, PMID/PMCID/DOI, local full-text path, and a per-paper note
-  on why it is included.
+- `notes/administration_protocol.md` — how the drug is actually given: dose/timing of the two trial
+  schedules, infusion rates and dilution, premedication (including whether to add a corticosteroid around
+  CAR-T), infusion-reaction management, HBV/PJP/TLS/IgG screening and prophylaxis, late-onset neutropenia,
+  CNS/ICV considerations, fasting vs sedation, and a per-round checklist. Every block labelled
+  LABEL / REGISTRY / LIT / INFERENCE.
+- `index.tsv` — 252 curated records (evidence categories `A`–`I`, plus 59 administration-level records in
+  `J`–`N`, 4 trial-registry records and a funder presentation) with category, PMID/PMCID/DOI, local
+  full-text path, and a per-paper note on why it is included.
 - `notes/dosing_schedules_extracted.md` — dose, route, number of doses, and timing relative to antigen
   exposure, quoted from the primary sources.
 - `notes/registry_and_unpublished_evidence.md` — ClinicalTrials.gov records, the anti-CAR-immunity preprint,
   and the CIRM board presentation: the two rituximab-containing solid-tumour CAR-T regimens, quoted verbatim,
   plus what is *not* there (no B7-H3 CAR-T trial at Penn; no B7-H3 trial anywhere uses rituximab).
 - `notes/search_strategy.md` — queries, record counts, screening, and the inclusion/exclusion rules.
-- `fulltext/` — 101 open-access full texts (JATS XML from Europe PMC/PMC, or publisher OA PDFs). Rows marked
+- `fulltext/` — 128 open-access full texts (JATS XML from Europe PMC/PMC, or publisher OA PDFs). Rows marked
   `not_open_access` are paywalled; abstract-level evidence only.
 
 ## Categories in `index.tsv`
@@ -50,6 +59,11 @@ haemophilia inhibitors, autoimmunity — and is labelled indirect. See `REPORT.m
 | `G_solid_tumour_HAMA_precedent` | Solid-tumour precedent for suppressing anti-murine-protein humoral responses (high-dose cyclophosphamide, cyclosporin A, deoxyspergualin). |
 | `H_lymphodepletion_context` | Lymphodepletion and concomitant immunosuppression already used with CAR-T, and the cost of B-cell ablation. |
 | `I_confusables_do_not_confuse` | **Not evidence.** Rituximab as a CD20/RQR8 CAR kill switch, rituximab as anti-tumour/target-sensitising therapy, dual CD19/CD20 targeting. |
+| `J_admin_premedication_infusion_reactions` | Premedication trials and cohorts (H1 generation, H2, corticosteroid), rapid-infusion schedules, IRR recognition/grading/management, desensitisation, serum sickness. **Administration, not efficacy.** |
+| `K_admin_screening_prophylaxis` | HBV screening and antiviral prophylaxis, PJP/herpes prophylaxis, hypogammaglobulinaemia and IgG replacement, late-onset neutropenia, PML, TLS, vaccination. |
+| `L_admin_dose_route_pk` | Dose–exposure–duration, anti-rituximab antibodies and clearance, subcutaneous/biosimilar formulations, intra-CSF delivery routes and the CNS B-cell sanctuary. |
+| `M_admin_cart_context` | The CAR-T side of the same round: lymphodepletion dosing, CRS/ICANS and TIAN grading and management, locoregional/ICV delivery. |
+| `N_admin_fasting_procedure` | Preoperative/procedural fasting guidelines — cited only to separate anaesthesia fasting from the (non-existent) fasting requirement for the infusion itself. |
 
 ## Scope rules
 
@@ -58,3 +72,8 @@ leukaemia, myeloma or other B-cell malignancies; rituximab as direct anti-tumour
 CAR safety switch; autoimmune CD19 CAR-T. Where such a paper carries transferable mechanism (e.g. the first
 human demonstration of anti-transgene rejection, or plasma-cell survival during B-cell aplasia) it is
 retained with an explicit MECHANISM ONLY flag in its note.
+
+The administration categories (`J`–`N`) are deliberately exempt from that rule: infusion rate,
+premedication, HBV screening, IgG monitoring and fasting are properties of the **drug and the procedure**,
+not of the indication, so the best evidence for them is lymphoma-, autoimmune- and anaesthesia-derived.
+They say nothing about whether rituximab prevents anti-CAR antibodies.

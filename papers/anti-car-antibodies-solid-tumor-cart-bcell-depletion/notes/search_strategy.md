@@ -269,3 +269,32 @@ full text where available (`dosing_schedules_extracted.md`).
   ("humanized"[tw] OR "fully human"[tw]) AND "chimeric antigen receptor"[tw] AND (retreatment[tw] OR "second infusion"[tw] OR "anti-CAR"[tw] OR "anti-murine"[tw] OR immunogenic*[tw]) AND ("solid"[tw] OR glioma[tw] OR sarcoma[tw] OR neuroblastoma[tw] OR myeloma[tw])
   ```
 
+
+---
+
+## Administration-level supplementary search (categories J–N)
+
+Second pass, run to answer the follow-up question "how is the drug actually given" rather than "does it
+work". Source: Europe PMC REST (`/search`, `resultType=core`), no API key; script
+`harvest_administration.py`, 1,365 unique records across seven query groups, then hand-screened down to the
+59 records now in `index.tsv` categories `J`–`N`. Metadata and abstracts refetched by PMID with
+`curate_administration.py`; rows appended and PMC open-access XML fetched by `index_administration.py`.
+
+Query groups (full strings in `harvest_administration.py`):
+
+| Group | Intent |
+|---|---|
+| `premedication_infusion_reactions` | premedication components, rapid/shortened infusion schedules, IRR incidence and management, desensitisation, anti-rituximab antibodies |
+| `pediatric_administration` | paediatric infusion rates, PK/BSA dosing, hypogammaglobulinaemia in children |
+| `screening_and_prophylaxis` | HBV, PJP, IgG replacement, vaccination, late-onset neutropenia, TLS, PML |
+| `cns_and_route` | CSF penetration, intrathecal/intraventricular routes, subcutaneous and biosimilar formulations |
+| `dose_depth_duration` | dose–depletion–duration, high-dose (500–750 mg/m²) exposure and safety |
+| `cart_context` | steroids and CAR-T function, Cy/Flu lymphodepletion dosing, ICV procedure, infection prophylaxis guidelines |
+| `fasting_npo_sedation` | preoperative/procedural fasting guidelines, whether any infusion requires fasting |
+
+Non-literature sources used for the same note: openFDA `drug/label` (Rituxan IV, label effective
+2025-01-06) for all label-derived statements, and the two ClinicalTrials.gov records already quoted in
+`notes/registry_and_unpublished_evidence.md`. The searches returned **no** publication specifying
+premedication, infusion rate, or fasting requirements for rituximab given for anti-CAR prophylaxis in
+solid-tumour CAR-T; every administration statement in `notes/administration_protocol.md` is therefore
+label-derived, indication-transferred, or explicitly labelled INFERENCE.
