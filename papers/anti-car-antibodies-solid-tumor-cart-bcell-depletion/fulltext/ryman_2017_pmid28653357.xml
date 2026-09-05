@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">2038</journal-id><journal-id journal-id-type="pmc-domain">cptpsp</journal-id><journal-title-group><journal-title>CPT: Pharmacometrics &amp; Systems Pharmacology</journal-title><abbrev-journal-title>CPT Pharmacometrics Syst Pharmacol</abbrev-journal-title></journal-title-group><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5613179</article-id><article-id pub-id-type="pmcaid">5613179</article-id><article-id pub-id-type="pmcaiid">5613179</article-id><article-id pub-id-type="pmid">28653357</article-id><article-id pub-id-type="doi">10.1002/psp4.12224</article-id><title-group><article-title>Pharmacokinetics of Monoclonal Antibodies</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Ryman</surname><given-names initials="JT">Josiah T</given-names></name><xref ref-type="aff" rid="psp412224-aff-0001">1</xref></contrib><contrib><name name-style="western"><surname>Meibohm</surname><given-names initials="B">Bernd</given-names></name><xref ref-type="aff" rid="psp412224-aff-0001">1</xref><xref ref-type="author-notes" rid="_fncrsp93pmc__">✉</xref></contrib></contrib-group><aff id="psp412224-aff-0001"><label><sup>1</sup></label>Department of Pharmaceutical Sciences, College of Pharmacy, University of Tennessee Health Science Center, Memphis, Tennessee, USA</aff><author-notes><fn id="correspondenceTo"><label>*</label><p>Correspondence: B Meibohm (<email>bmeibohm@uthsc.edu</email>)</p></fn><fn id="_fncrsp93pmc__"><label>✉</label><p>Corresponding author.</p></fn></author-notes><pub-date><day>29</day><month>7</month><year>2017</year></pub-date><volume>6</volume><issue>9</issue><fpage>576</fpage><page-range>576–588</page-range><pub-history><event event-type="pmc-release"><date><day>2</day><month>10</month><year>2017</year></date></event></pub-history><permissions><copyright-statement>© 2017 The Authors</copyright-statement><license><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">Creative Commons Attribution‐NonCommercial‐NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-6-576.pdf" content-type="pmc-pdf"><?cloudpmc-path cfbb/5613179/ec6ef137438d/PSP4-6-576.pdf?><?cloudpmc-bucket app?><?size 855540?></self-uri><abstract id="abstract1"><title>Abstract</title><p>Monoclonal antibodies (mAbs) have developed in the last two decades into the backbone of pharmacotherapeutic interventions in a variety of indications, with currently more than 40 mAbs approved by the US Food and Drug Administration, and several dozens more in clinical development. This tutorial will review major drug disposition processes relevant for mAbs, and will highlight product‐specific and patient‐specific factors that modulate their pharmacokinetic (PK) behavior and need to be considered for successful clinical therapy.</p></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Received 2017 Mar 31; Revised 2017 Jun 19; Accepted 2017 Jun 20; Issue date 2017 Sep.</p></sec></notes></front><body><sec id="psp412224-sec-0002" disp-level="2"><title>Structure and origin</title><p>All currently clinically used therapeutic antibodies are immunoglobulin G (IgG) monoclonal antibodies (mAbs)<xref rid="psp412224-bib-0001" ref-type="bibr">1</xref> and possess the same basic structure (<bold>Figure</bold>
+<xref rid="psp412224-fig-0001" ref-type="fig">1</xref>): they are large heterodimeric protein molecules with a molecular weight of ∼150 kDa and are composed of four polypeptide chains, two identical heavy chains (50 kDa), and two light chains (25 kDa). The heavy and light chains are held together by disulfide bonds to form a Y‐shape consisting of constant domains (C<sub>H</sub> and C<sub>L</sub>) and variable domains (V<sub>H</sub> and V<sub>L</sub>). The two variable regions and the C<sub>H1</sub> domains of the heavy chains comprise the antigen binding fragment (Fab) with each variable domain containing the complementarity‐determining region, which is highly specific for the target antigen. The C<sub>H2</sub> and C<sub>H3</sub> domains of the heavy chain make up the fragment crystallizable (Fc) region of the antibody and can bind to a variety of cell surface receptors, including the Fcγ receptors and the neonatal Fc receptor (FcRn) on cells, as well as components of the complement system (i.e., complement C1q). The IgG class is divided into four subclasses: IgG1, IgG2, IgG3, and IgG4.<xref rid="psp412224-bib-0002" ref-type="bibr">2</xref> Typically, IgG1 and IgG3 are potent triggers of effector mechanisms, whereas IgG2 and IgG4 will induce more subtle responses, and only in certain cases. However, each of these antibodies remain capable of neutralizing target antigens.<xref rid="psp412224-bib-0003" ref-type="bibr">3</xref> Currently marketed mAbs are predominantly IgG1, with a lesser degree of IgG2 and IgG4 (Table <xref rid="psp412224-tbl-0001" ref-type="table">1</xref>). The preference for one IgG class over the other is partially determined whether effector functions, such as antibody‐dependent cellular cytotoxicity (ADCC) or complement‐dependent cytotoxicity (CDC), are desired for the mAb activity as well as other structural factors, but also by prior experience and availability of a particular IgG subclass in a company's development portfolio.<xref rid="psp412224-bib-0004" ref-type="bibr">4</xref>
+</p><fig id="psp412224-fig-0001" position="float" xml:lang="en"><?disp-level 2?><label>Figure 1</label><caption><p>Monoclonal antibody structure.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="nlm-graphic-1" xlink:href="PSP4-6-576-g001.jpg"><?cloudpmc-path blobs/cfbb/5613179/0323d49e498e/PSP4-6-576-g001.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?><?original-height 256?><?original-width 300?><?scaled-height 256?><?scaled-width 300?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="PSP4-6-576-g001.gif"><?cloudpmc-path blobs/cfbb/5613179/16452c23a99b/PSP4-6-576-g001.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><table-wrap id="psp412224-tbl-0001" position="float" xml:lang="en"><?disp-level 2?><label>Table 1</label><caption><p>List of US Food and Drug Administration approved therapeutic monoclonal antibodies or antibody derivatives</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Antibody INN name</th><th align="center" valign="bottom" rowspan="1" colspan="1">Brand name</th><th align="center" valign="bottom" rowspan="1" colspan="1">Company</th><th align="center" valign="bottom" rowspan="1" colspan="1">Approval year</th><th align="center" valign="bottom" rowspan="1" colspan="1">Antibody isotype</th><th align="center" valign="bottom" rowspan="1" colspan="1">Indication/targeted disease</th><th align="center" valign="bottom" rowspan="1" colspan="1">Route(s) of administration</th><th align="center" valign="bottom" rowspan="1" colspan="1">PK behavior/model</th><th align="center" valign="bottom" rowspan="1" colspan="1">Target</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Adalimumab</td><td align="left" valign="top" rowspan="1" colspan="1">Humira</td><td align="left" valign="top" rowspan="1" colspan="1">Abbvie</td><td align="center" valign="top" rowspan="1" colspan="1">2002</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Several auto‐immune disorders</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">TNFα</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Alemtuzumab</td><td align="left" valign="top" rowspan="1" colspan="1">Campath, Lemtrada</td><td align="left" valign="top" rowspan="1" colspan="1">Genzyme</td><td align="center" valign="top" rowspan="1" colspan="1">2001</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Chronic lymphocytic leukemia, multiple sclerosis</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Nonlinear – Michaelis Menten</td><td align="left" valign="top" rowspan="1" colspan="1">CD52</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Alirocumab</td><td align="left" valign="top" rowspan="1" colspan="1">Praluent</td><td align="left" valign="top" rowspan="1" colspan="1">Sanofi/Regeneron</td><td align="center" valign="top" rowspan="1" colspan="1">2015</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Heterozygous familial hypercholesterolemia</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Nonlinear – TMDD</td><td align="left" valign="top" rowspan="1" colspan="1">PCSK9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Basiliximab</td><td align="left" valign="top" rowspan="1" colspan="1">Simulect</td><td align="left" valign="top" rowspan="1" colspan="1">Novartis</td><td align="center" valign="top" rowspan="1" colspan="1">1998</td><td align="left" valign="top" rowspan="1" colspan="1">Chimeric IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Transplant rejection</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">NCA – “Linear”</td><td align="left" valign="top" rowspan="1" colspan="1">CD25</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Belimumab</td><td align="left" valign="top" rowspan="1" colspan="1">Benlysta</td><td align="left" valign="top" rowspan="1" colspan="1">GlaxoSmithKline</td><td align="center" valign="top" rowspan="1" colspan="1">2011</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Systemic lupus erythematosus</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">BLyS</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bevacizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Avastin</td><td align="left" valign="top" rowspan="1" colspan="1">Genentech</td><td align="center" valign="top" rowspan="1" colspan="1">2004</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Colorectal cancer</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">VEGF</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Canakinumab</td><td align="left" valign="top" rowspan="1" colspan="1">Ilaris</td><td align="left" valign="top" rowspan="1" colspan="1">Novartis</td><td align="center" valign="top" rowspan="1" colspan="1">2009</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Cryopyrin‐associated periodic syndrome (CAPS)</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">IL‐1β</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cetuximab</td><td align="left" valign="top" rowspan="1" colspan="1">Erbitux</td><td align="left" valign="top" rowspan="1" colspan="1">Bristol Myers Squibb/Eli Lilly/Merck KGaA</td><td align="center" valign="top" rowspan="1" colspan="1">2004</td><td align="left" valign="top" rowspan="1" colspan="1">Chimeric IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Colorectal cancer, head and neck cancer</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Nonlinear – Michaelis Menten</td><td align="left" valign="top" rowspan="1" colspan="1">EGFR</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Daclizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Zinbryta</td><td align="left" valign="top" rowspan="1" colspan="1">Abbvie/Biogen</td><td align="center" valign="top" rowspan="1" colspan="1">2016</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Multiple sclerosis</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">IL‐2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Daratumumab</td><td align="left" valign="top" rowspan="1" colspan="1">Darzalex</td><td align="left" valign="top" rowspan="1" colspan="1">Janssen</td><td align="center" valign="top" rowspan="1" colspan="1">2015</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Multiple myeloma</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">CD38</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Denosumab</td><td align="left" valign="top" rowspan="1" colspan="1">Prolia, Xgeva</td><td align="left" valign="top" rowspan="1" colspan="1">Amgen</td><td align="center" valign="top" rowspan="1" colspan="1">2010</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG2</td><td align="left" valign="top" rowspan="1" colspan="1">Postmenopausal osteoporosis, solid tumor bony metastases</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">RANKL</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dinutuximab</td><td align="left" valign="top" rowspan="1" colspan="1">Unituxin</td><td align="left" valign="top" rowspan="1" colspan="1">United Therapeutics</td><td align="center" valign="top" rowspan="1" colspan="1">2015</td><td align="left" valign="top" rowspan="1" colspan="1">Chimeric IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Neuroblastoma</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">NCA – “Nonlinear”</td><td align="left" valign="top" rowspan="1" colspan="1">GD2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Eculizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Soliris</td><td align="left" valign="top" rowspan="1" colspan="1">Alexion</td><td align="center" valign="top" rowspan="1" colspan="1">2007</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG2</td><td align="left" valign="top" rowspan="1" colspan="1">Paroxysmal nocturnal hemoglobinuria</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">Compliment Protein C5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Elotuzumab</td><td align="left" valign="top" rowspan="1" colspan="1">Empliciti</td><td align="left" valign="top" rowspan="1" colspan="1">Bristol Myers Squibb</td><td align="center" valign="top" rowspan="1" colspan="1">2015</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Multiple myeloma</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Nonlinear – TMDD</td><td align="left" valign="top" rowspan="1" colspan="1">SLAMF7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Evolocumab</td><td align="left" valign="top" rowspan="1" colspan="1">Repatha</td><td align="left" valign="top" rowspan="1" colspan="1">Amgen</td><td align="center" valign="top" rowspan="1" colspan="1">2015</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG2</td><td align="left" valign="top" rowspan="1" colspan="1">Homozygous familial hypercholesterolemia</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Nonlinear – TMDD</td><td align="left" valign="top" rowspan="1" colspan="1">PCSK9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Golimumab</td><td align="left" valign="top" rowspan="1" colspan="1">Simponi</td><td align="left" valign="top" rowspan="1" colspan="1">Janssen</td><td align="center" valign="top" rowspan="1" colspan="1">2009</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">TNFα</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ibritumomab tiuxetan</td><td align="left" valign="top" rowspan="1" colspan="1">Zevalin</td><td align="left" valign="top" rowspan="1" colspan="1">Spectrum</td><td align="center" valign="top" rowspan="1" colspan="1">2002</td><td align="left" valign="top" rowspan="1" colspan="1">Murine IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Non‐Hodgkin lymphoma (with yttrium‐90 or indium‐111)</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">NCA – “Linear”</td><td align="left" valign="top" rowspan="1" colspan="1">CD20</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Infliximab</td><td align="left" valign="top" rowspan="1" colspan="1">Remicade</td><td align="left" valign="top" rowspan="1" colspan="1">Janssen</td><td align="center" valign="top" rowspan="1" colspan="1">1998</td><td align="left" valign="top" rowspan="1" colspan="1">Chimeric IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Several autoimmune disorders</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">TNFα</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ipilimumab</td><td align="left" valign="top" rowspan="1" colspan="1">Yervoy</td><td align="left" valign="top" rowspan="1" colspan="1">Bristol Myers Squibb</td><td align="center" valign="top" rowspan="1" colspan="1">2011</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Melanoma</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">CTLA‐4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ixekizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Taltz</td><td align="left" valign="top" rowspan="1" colspan="1">Eli Lilly</td><td align="center" valign="top" rowspan="1" colspan="1">2016</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG4</td><td align="left" valign="top" rowspan="1" colspan="1">Plaque psoriasis</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">IL‐17A</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mepolizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Nucala</td><td align="left" valign="top" rowspan="1" colspan="1">GlaxoSmithkline</td><td align="center" valign="top" rowspan="1" colspan="1">2015</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Severe asthma</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">IL‐5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Natalizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Tysabri</td><td align="left" valign="top" rowspan="1" colspan="1">Biogen/Elan</td><td align="center" valign="top" rowspan="1" colspan="1">2006</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG4</td><td align="left" valign="top" rowspan="1" colspan="1">Multiple sclerosis and Crohn disease</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">NCA – “Nonlinear”</td><td align="left" valign="top" rowspan="1" colspan="1">α4‐subunit of α4β1 and α4β7 integrins</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Necitumumab</td><td align="left" valign="top" rowspan="1" colspan="1">Portrazza</td><td align="left" valign="top" rowspan="1" colspan="1">Eli Lilly</td><td align="center" valign="top" rowspan="1" colspan="1">2015</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Metastatic squamous nonsmall cell lung cancer</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">EGFR</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nivolumab</td><td align="left" valign="top" rowspan="1" colspan="1">Opdivo</td><td align="left" valign="top" rowspan="1" colspan="1">Bristol Myers Squibb</td><td align="center" valign="top" rowspan="1" colspan="1">2016</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG4</td><td align="left" valign="top" rowspan="1" colspan="1">Classical Hodgkin lymphoma</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">PD‐1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Obiltoxaximab</td><td align="left" valign="top" rowspan="1" colspan="1">Anthim</td><td align="left" valign="top" rowspan="1" colspan="1">Elusys</td><td align="center" valign="top" rowspan="1" colspan="1">2016</td><td align="left" valign="top" rowspan="1" colspan="1">Chimeric IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Inhaled Anthrax</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">Toxin of B. anthracis</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Obinutuzumab</td><td align="left" valign="top" rowspan="1" colspan="1">Gazyva</td><td align="left" valign="top" rowspan="1" colspan="1">Genentech</td><td align="center" valign="top" rowspan="1" colspan="1">2013</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Chronic lymphocytic leukemia</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">CD20</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ofatumumab</td><td align="left" valign="top" rowspan="1" colspan="1">Arzerra</td><td align="left" valign="top" rowspan="1" colspan="1">Novartis</td><td align="center" valign="top" rowspan="1" colspan="1">2009</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Chronic lymphocytic leukemia</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Nonlinear – TMDD</td><td align="left" valign="top" rowspan="1" colspan="1">CD20</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Olaratumab</td><td align="left" valign="top" rowspan="1" colspan="1">Lartruvo</td><td align="left" valign="top" rowspan="1" colspan="1">Eli Lilly</td><td align="center" valign="top" rowspan="1" colspan="1">2016</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Soft tissue sarcoma</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">NCA – “Nonlinear”</td><td align="left" valign="top" rowspan="1" colspan="1">PDGFR‐α</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Xolair</td><td align="left" valign="top" rowspan="1" colspan="1">Genentech/Novartis</td><td align="center" valign="top" rowspan="1" colspan="1">2004</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Mainly allergy‐related asthma</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">IgE</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Palivizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Synagis</td><td align="left" valign="top" rowspan="1" colspan="1">MedImmune</td><td align="center" valign="top" rowspan="1" colspan="1">1998</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Respiratory syncytial virus</td><td align="left" valign="top" rowspan="1" colspan="1">i.m.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">RSV</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Panitumumab</td><td align="left" valign="top" rowspan="1" colspan="1">Vectibix</td><td align="left" valign="top" rowspan="1" colspan="1">Amgen</td><td align="center" valign="top" rowspan="1" colspan="1">2006</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG2</td><td align="left" valign="top" rowspan="1" colspan="1">Colorectal cancer</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Nonlinear – TMDD</td><td align="left" valign="top" rowspan="1" colspan="1">EGFR</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pembrolizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Keytruda</td><td align="left" valign="top" rowspan="1" colspan="1">Merck &amp; Co</td><td align="center" valign="top" rowspan="1" colspan="1">2014</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG4</td><td align="left" valign="top" rowspan="1" colspan="1">Metastatic melanoma</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">PD‐1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pertuzumab</td><td align="left" valign="top" rowspan="1" colspan="1">Perjeta</td><td align="left" valign="top" rowspan="1" colspan="1">Genentech</td><td align="center" valign="top" rowspan="1" colspan="1">2012</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">HER2‐positive breast cancer</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">HER‐2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ramucirumab</td><td align="left" valign="top" rowspan="1" colspan="1">Cyramza</td><td align="left" valign="top" rowspan="1" colspan="1">Eli Lilly</td><td align="center" valign="top" rowspan="1" colspan="1">2014</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Solid tumor</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">NCA – “linear”</td><td align="left" valign="top" rowspan="1" colspan="1">VEGFR‐2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ranibizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Lucentis</td><td align="left" valign="top" rowspan="1" colspan="1">Genentech/Novartis</td><td align="center" valign="top" rowspan="1" colspan="1">2006</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1 (fragment)</td><td align="left" valign="top" rowspan="1" colspan="1">Macular degeneration</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">VEGF</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Raxibacumab</td><td align="left" valign="top" rowspan="1" colspan="1">Abthrax</td><td align="left" valign="top" rowspan="1" colspan="1">Human Genome Sciences</td><td align="center" valign="top" rowspan="1" colspan="1">2012</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Anthrax</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">Toxin of B. anthracis</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Reslizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Cinqair</td><td align="left" valign="top" rowspan="1" colspan="1">Teva</td><td align="center" valign="top" rowspan="1" colspan="1">2016</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG4</td><td align="left" valign="top" rowspan="1" colspan="1">Severe asthma</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">NCA – “linear”</td><td align="left" valign="top" rowspan="1" colspan="1">IL‐5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Rituximab</td><td align="left" valign="top" rowspan="1" colspan="1">Rituxan, Mabthera</td><td align="left" valign="top" rowspan="1" colspan="1">Biogen/Genentech</td><td align="center" valign="top" rowspan="1" colspan="1">1997</td><td align="left" valign="top" rowspan="1" colspan="1">Chimeric IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Non‐Hodgkin lymphoma</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">CD20</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Secukinumab</td><td align="left" valign="top" rowspan="1" colspan="1">Cosentyx</td><td align="left" valign="top" rowspan="1" colspan="1">Novartis</td><td align="center" valign="top" rowspan="1" colspan="1">2015</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Plaque psoriasis, Psoriatic arthritis, Ankylosing spondylitis</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">IL‐17A</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Siltuximab</td><td align="left" valign="top" rowspan="1" colspan="1">Sylvant</td><td align="left" valign="top" rowspan="1" colspan="1">Janssen</td><td align="center" valign="top" rowspan="1" colspan="1">2014</td><td align="left" valign="top" rowspan="1" colspan="1">Chimeric IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Multicentric Castleman's disease</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">IL‐6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tocilizumab (or Atlizumab)</td><td align="left" valign="top" rowspan="1" colspan="1">Actemra and RoActemra</td><td align="left" valign="top" rowspan="1" colspan="1">Genentech</td><td align="center" valign="top" rowspan="1" colspan="1">2010</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Rheumatoid arthritis</td><td align="left" valign="top" rowspan="1" colspan="1">i.v., s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Nonlinear – TMDD</td><td align="left" valign="top" rowspan="1" colspan="1">IL‐6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tositumomab</td><td align="left" valign="top" rowspan="1" colspan="1">Bexxar</td><td align="left" valign="top" rowspan="1" colspan="1">GlaxoSmithKline</td><td align="center" valign="top" rowspan="1" colspan="1">2003</td><td align="left" valign="top" rowspan="1" colspan="1">Murine IgG2</td><td align="left" valign="top" rowspan="1" colspan="1">Non‐Hodgkin lymphoma</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">NCA – “nonlinear”</td><td align="left" valign="top" rowspan="1" colspan="1">CD20</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Trastuzumab</td><td align="left" valign="top" rowspan="1" colspan="1">Herceptin</td><td align="left" valign="top" rowspan="1" colspan="1">Genentech</td><td align="center" valign="top" rowspan="1" colspan="1">1998</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Breast cancer</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Nonlinear – TMDD</td><td align="left" valign="top" rowspan="1" colspan="1">HER2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ustekinumab</td><td align="left" valign="top" rowspan="1" colspan="1">Stelara</td><td align="left" valign="top" rowspan="1" colspan="1">Janssen</td><td align="center" valign="top" rowspan="1" colspan="1">2009</td><td align="left" valign="top" rowspan="1" colspan="1">Human IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate to severe psoriasis</td><td align="left" valign="top" rowspan="1" colspan="1">s.c.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear</td><td align="left" valign="top" rowspan="1" colspan="1">IL‐12, IL‐23</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vedolizumab</td><td align="left" valign="top" rowspan="1" colspan="1">Entyvio</td><td align="left" valign="top" rowspan="1" colspan="1">Takeda</td><td align="center" valign="top" rowspan="1" colspan="1">2014</td><td align="left" valign="top" rowspan="1" colspan="1">Humanized IgG1</td><td align="left" valign="top" rowspan="1" colspan="1">Crohn disease, ulcerative colitis</td><td align="left" valign="top" rowspan="1" colspan="1">i.v.</td><td align="left" valign="top" rowspan="1" colspan="1">Linear and nonlinear ‐ Michaelis Menten</td><td align="left" valign="top" rowspan="1" colspan="1">α4β7 integrin</td></tr></tbody></table><table-wrap-foot><fn id="psp412224-note-0001"><p>EGFR, epidermal growth factor receptor; HER, human epidermal growth factor receptor; IgE, immunoglobulin E; IgG, immunoglobulin G; IL, interleukin; INN, international nonproprietary name; NCA, non‐compartmental analysis; PD‐1, programmed cell death 1 receptor; PDGFR‐α, platelet‐derived growth factor receptor‐α; PK, pharmacokinetic; RANKL, receptor activator of nuclear factor‐kappa‐B ligand; RSV, respiratory syncytial virus; TMDD, target‐mediated drug disposition; TNFα, tumor necrosis factor α; VEGF, vascular endothelial growth factor; VEGFR, vascular endothelial growth factor receptor.</p></fn></table-wrap-foot></table-wrap><p>Similar to other biologics, mAbs are produced batch‐wise in living cells. As such, they are defined by the production process rather than their chemical structure, and batch‐to‐batch variability in the resulting product is well recognized and needs to be tightly controlled through carefully established and controlled conditions during the cell culturing, product processing, and purification steps.<xref rid="psp412224-bib-0005" ref-type="bibr">5</xref>
+</p><p>The production and engineering of therapeutic mAbs was made possible by the groundbreaking hybridoma technology developed by Köhler and Milstein in 1975.<xref rid="psp412224-bib-0006" ref-type="bibr">6</xref> The hybridoma technique consists of first injecting a specific antigen into a mouse, and procuring the antigen‐specific plasma cells from the mouse's spleen. The isolated plasma cell is then fused with a cancerous immune cell for immortality.<xref rid="psp412224-bib-0007" ref-type="bibr">7</xref> This hybrid cell is then cloned to produce many identical daughter clones, which continuously produce the monoclonal antibody of interest. Initially, only murine (derived from only mouse) monoclonal antibodies were produced with this technology, for example, tositumomab and ibritumomab tiuxetan. As these murine antibodies triggered strong immune reactions in humans, especially on repeated administration, other mAb types were created through additional engineering and recombinant technology. Cetuximab and rituximab are examples of chimeric mAbs. Chimeric mAbs are constructed with V<sub>L</sub> and V<sub>H</sub> from murine sources and C<sub>H1</sub>, C<sub>H2</sub>, and C<sub>H3</sub> from humans.<xref rid="psp412224-bib-0008" ref-type="bibr">8</xref> Further reduction of the murine content led to humanized mAbs, such as trastuzumab and alemtuzumab. Humanized mAbs are predominately derived from the human structure, with only the complementarity determining regions made up of murine origin. Ultimately, the production of fully human mAbs was made possible through two technologies: phage display and transgenic mice. The expectation, however, that the reduction and ultimately complete removal of murine components from mAbs would result in better tolerability and less or no immunogenic reactivity did only partially hold true, as immunogenicity of mAb products does seem affected by factors beyond the content of murine structures in the mAb molecule. The impact of immunogenicity on mAb pharmacokinetics will be discussed in the later part of this article.</p></sec><sec id="psp412224-sec-0003" disp-level="1"><title>BASIC PHARMACOKINETIC BEHAVIOR</title><sec id="psp412224-sec-0004" disp-level="2"><title>Distribution of mAbs</title><p>The extent of mAb distribution relies upon the rates of extravasation in tissue and distribution in the interstitial space, antibody binding to the tissue components such as cell surfaces, and clearance from the tissue, including intracellular uptake and degradation. The mAb extravasation can occur via three basic processes: passive diffusion, convective transport, and transcytosis through vascular epithelial cells. Due to the physiochemical properties and large size of mAbs, passive diffusion does not play a significant role in the extravasation process. The main mechanism by which mAbs distribute from the blood into the tissue is through convective transport.<xref rid="psp412224-bib-0009" ref-type="bibr">9</xref> Convection is determined by the flux of fluid from the vascular space to the tissue, which is driven by the blood‐tissue hydrostatic gradient, as well as by the sieving effect of the paracellular pores in the vascular epithelium.<xref rid="psp412224-bib-0009" ref-type="bibr">9</xref>, <xref rid="psp412224-bib-0010" ref-type="bibr">10</xref>, <xref rid="psp412224-bib-0011" ref-type="bibr">11</xref> The sieving effect is determined by the size, tortuosity and number of the pores, as well as the size, shape and charge of the mAb.<xref rid="psp412224-bib-0009" ref-type="bibr">9</xref>, <xref rid="psp412224-bib-0011" ref-type="bibr">11</xref> The principle behind convection is that the differential between hydrostatic and oncotic (colloid osmotic) pressures, coupled with the sieving effect, contributes to the net driving force for the extravasation of the mAb (<bold>Figure</bold>
+<xref rid="psp412224-fig-0002" ref-type="fig">2</xref>).<xref rid="psp412224-bib-0012" ref-type="bibr">12</xref> Transcytosis through vascular epithelial cells, mediated via the neonatal Fc receptor, may be another important route of extravasation for mAbs, especially in tissues in which extravasation via convection is limited.<xref rid="psp412224-bib-0013" ref-type="bibr">13</xref> Several studies have shown a bidirectional transport of IgG in both basolateral to apical and apical to basolateral directions.<xref rid="psp412224-bib-0014" ref-type="bibr">14</xref>, <xref rid="psp412224-bib-0015" ref-type="bibr">15</xref>, <xref rid="psp412224-bib-0016" ref-type="bibr">16</xref>, <xref rid="psp412224-bib-0017" ref-type="bibr">17</xref> This suggests that FcRn‐mediated transcytosis may also play a role in the distribution of mAbs from the vascular space out into tissue compartments.</p><fig id="psp412224-fig-0002" position="float" xml:lang="en"><?disp-level 3?><label>Figure 2</label><caption><p>Convective extravasation as major distribution process for monoclonal antibodies (modified from ref. 12).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="nlm-graphic-3" xlink:href="PSP4-6-576-g002.jpg"><?cloudpmc-path blobs/cfbb/5613179/7f2c425d1eeb/PSP4-6-576-g002.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?><?original-height 191?><?original-width 332?><?scaled-height 191?><?scaled-width 332?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="PSP4-6-576-g002.gif"><?cloudpmc-path blobs/cfbb/5613179/99f8b0b6e1fc/PSP4-6-576-g002.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>After extravasation, antibody distribution through the interstitial space relies upon diffusion, convection, and affinity to target antigens within the interstitial space or on cell surfaces in the tissues. In cases in which there is no target antigen for the mAb to bind (such as in preclinical mouse studies with a human mAb that is not cross‐reactive to the murine analogue of its target antigen) or the target is in the plasma, the distribution of the mAb is expected to be limited. The mAbs that have a target in the tissue compartment are expected to potentially have a greater volume of distribution. For endogenous and exogenous antibodies, the tissue:blood concentration ratio is in the range of 0.1–0.5 (i.e., mAb concentrations are substantially lower in the tissue interstitial fluid than in plasma).<xref rid="psp412224-bib-0009" ref-type="bibr">9</xref>, <xref rid="psp412224-bib-0018" ref-type="bibr">18</xref> For brain tissue, the ratio is even in the range of 0.01 or lower, but may be higher in cases of compromised blood‐brain barrier.<xref rid="psp412224-bib-0019" ref-type="bibr">19</xref> In cases where the mAb binds with high affinity to extravascular sites with high binding capacity tissue:blood concentration ratios may be much higher.<xref rid="psp412224-bib-0009" ref-type="bibr">9</xref>, <xref rid="psp412224-bib-0018" ref-type="bibr">18</xref>, <xref rid="psp412224-bib-0020" ref-type="bibr">20</xref>, <xref rid="psp412224-bib-0021" ref-type="bibr">21</xref> It is worth noting that, in cases in which the binding capacity of the target is limited, a nonlinear distribution could occur where the volume at steady‐state decreases with increasing plasma mAb concentrations.<xref rid="psp412224-bib-0022" ref-type="bibr">22</xref>
+</p><p>Tissue distribution by large proteins, such as IgG molecules, is further hindered by the extracellular matrix. The interstitial space is filled with extracellular matrix, which has a gel‐like consistency with a net negative charge and is predominantly comprised of glycosaminoglycans (e.g., hyaluronic acid) and structural proteins, such as collagen. There is a mutual exclusion between IgG molecules and the structural proteins of the extracellular matrix. The fraction of the extracellular matrix that is not available for distribution is expressed as the excluded volume.<xref rid="psp412224-bib-0012" ref-type="bibr">12</xref> It is dependent on the molecular weight and charge of the macromolecule and further limits the extravascular distribution for mAbs.<xref rid="psp412224-bib-0023" ref-type="bibr">23</xref> The excluded volume for IgG molecules has been reported as ∼50% in muscle and skin tissue.<xref rid="psp412224-bib-0024" ref-type="bibr">24</xref>, <xref rid="psp412224-bib-0025" ref-type="bibr">25</xref>
+</p><p>Distributive antibody removal from the interstitial space is dependent on the rate of antibody convection into the lymph. The process is the same as convection from the blood vessels into the interstitial tissue space, relying on pressure gradients, fluid flow rate (lymph flow rate), and sieving. The movement of the mAbs from the interstitial tissue space into the lymph is met with less resistance compared to extravasation due to the relatively large diameter of the lymph duct pores compared to the paracellular pores in vascular epithelium. Due to the vast differences in efficiency between convection into the interstitial space and out of it, unbound antibody concentrations are much lower in the interstitial space of tissues than in the vascular space. This concentration difference is more pronounced in tissues associated with tight junctions between endothelial cells, as compared to tissues with leaky capillaries. As a result, the volume of the central compartment (Vc) for most mAbs is in the range of 2–3 L, similar to the plasma water, and the overall volume of distribution at steady‐state is in the range of 8–20 L.<xref rid="psp412224-bib-0004" ref-type="bibr">4</xref>
+</p><p>Physiologically based pharmacokinetic (PBPK) models have been used to describe the process of distribution of an antibody through convection as a product of the lymph flow rate, which represents the hydrostatic gradient, and an efficiency term (1‐σ). The σ is a reflection coefficient and represents the fraction of antibody sieved during the movement of blood through the pore and can have a value between 0 and 1. Reflection coefficients for large molecules, like mAbs, are assumed to be around 0.95 in tissues with continuous capillaries (tissues with tight junctions), such as connective tissue, skin, and muscle.<xref rid="psp412224-bib-0026" ref-type="bibr">26</xref> The reflection coefficient in fenestrated capillaries and sinusoids (liver, spleen, and bone marrow), which have leaky junctions, is in the range of 0.31 and 0.42.<xref rid="psp412224-bib-0026" ref-type="bibr">26</xref>
+</p></sec><sec id="psp412224-sec-0005" disp-level="2"><title>Elimination of mAbs</title><p>Antibodies are eliminated by either excretion or catabolism. Unlike small molecules, mAbs are too large to be filtered by the kidneys and are not eliminated in the urine, except in pathologic conditions.<xref rid="psp412224-bib-0027" ref-type="bibr">27</xref> If low molecular weight antibody fragments are filtered, they are usually reabsorbed and metabolized in the proximal tubule of the nephron.<xref rid="psp412224-bib-0028" ref-type="bibr">28</xref> Biliary excretion accounts for a very small amount of the elimination of IgG antibodies. Thus, IgG elimination occurs mostly through intracellular catabolism by lysosomal degradation to amino acids after uptake by either pinocytosis, an unspecific fluid phase endocytosis, or by a receptor‐mediated endocytosis process.<xref rid="psp412224-bib-0029" ref-type="bibr">29</xref>
+</p><p>Receptor‐mediated endocytosis of IgG results from interaction of cell surface receptors with either the Fc domain or one of the Fab binding domains of the antibody. This binding event serves as trigger for the endocytotic internalization of the IgG molecule into a vesicle and subsequent lysosomal degradation. If the binding event is facilitated though interaction of the complementarity‐determining region of the Fab fragments with the specific target epitope for the mAb, the endocytosis and elimination is called target‐mediated drug disposition (TMDD).<xref rid="psp412224-bib-0030" ref-type="bibr">30</xref> The rate of elimination of a drug through TMDD is dependent on the expression of the target receptor (which is usually limited), the affinity of the mAb for the receptor, the dose of the mAb, the rate of receptor‐therapeutic protein internalization, and the rate of catabolism within the target cell. It is important to note that the antibodies cleared primarily by TMDD will have dose‐dependent nonlinear elimination. Due to the high binding specificity and affinity of the mAb for its target, TMDD is, for many mAbs with a membrane‐standing target, a major route of elimination, especially at low doses and concentrations. At higher doses and concentrations, especially therapeutic doses for mAbs intended to block a cell surface receptor, the TMDD elimination pathway is often saturated due to the limited availability of the target receptors, thereby resulting in a limited or no relevant contribution to overall clearance of the mAb.</p><p>Receptor‐mediated endocytosis of mAbs can also be facilitated through binding of the Fc domain to Fc‐gamma‐receptors (FcγRs) expressed on many immune cells, including monocytes, macrophages, myeloid progenitor cells, and dendritic cells.<xref rid="psp412224-bib-0031" ref-type="bibr">31</xref> Similar to the TMDD process, binding of IgG to FcγR triggers the endocytosis of the complex and subsequent intracellular catabolism. Binding of immune complexes to FcγR is an important pathway for immune signal processing.<xref rid="psp412224-bib-0032" ref-type="bibr">32</xref> Studies with FcγR knockout animals suggest that FcγR‐mediated elimination likely plays only a minor role (if any) for most mAbs.<xref rid="psp412224-bib-0033" ref-type="bibr">33</xref> For those mAbs, however, that form soluble immune complexes, mediate their pharmacology activity through effector functions, such as ADCC, and/or have increased binding affinity to FcγR, receptor‐mediated endocytosis via FcγR may constitute an additional elimination pathway that contributes to the over elimination of the mAb. This has, for example, recently been demonstrated for elotuzumab.<xref rid="psp412224-bib-0034" ref-type="bibr">34</xref>
+</p><p>Pinocytosis is a relatively unspecific fluid‐phase endocytosis by endothelial cells lining the blood vessels. Due to the large surface area of endothelial cells in the body (&gt;1,000 m<sup>2</sup>), the process efficiently eliminates IgG molecules from the body. Catabolic degradation of IgG following pinocytotic uptake is not limited to a specific organ but occurs throughout the body, particularly in those organs and tissues rich in capillary beds with endothelial cells. Thus, the skin, muscles, and gastrointestinal tract are the major elimination organs for IgG molecules that do not undergo receptor‐mediated elimination pathways.<xref rid="psp412224-bib-0035" ref-type="bibr">35</xref>
+</p><p>Because the intracellular uptake via pinocytosis does not differentiate which proteins in the surrounding of a cell are taken up for degradation, a protective mechanism for IgG molecules is necessary to maintain their concentrations in the plasma in order to support their physiologic function to provide long‐term immunity. This salvage pathway is provided by FcRn, which is also named the Brambell receptor.<xref rid="psp412224-bib-0036" ref-type="bibr">36</xref>
+<bold>Figure</bold>
+<xref rid="psp412224-fig-0003" ref-type="fig">3</xref> illustrates the mechanism<xref rid="psp412224-bib-0037" ref-type="bibr">37</xref>: IgG is taken up into catabolic cells by fluid‐phase endocytosis forming an endosome, which includes FcRn. At physiologic pH, FcRn has low affinity for IgG, but as the endosome is acidified, the affinity of FcRn increases and allows the IgG to attach via a specific binding site in the Fc domain. Once bound, the FcRn‐IgG complex will be returned to the cell surface and release the IgG molecule from the binding once physiologic pH has been reached. Proteins in the endosomes that are not bound to FcRn and recycled undergo proteolytic degradation in the lysosome. The FcRn‐mediated recycling of IgG molecules, including therapeutic mAbs, protects approximately two thirds of the IgG molecules taken into endosomes from catabolic degradation.<xref rid="psp412224-bib-0038" ref-type="bibr">38</xref> As a consequence, the elimination half‐life for IgG1, IgG2, and IgG4 is ∼18–21 days, which is substantially longer than the half‐life of other proteins with similar molecular weight.<xref rid="psp412224-bib-0039" ref-type="bibr">39</xref> IgG3 molecules that have a substantially lower binding affinity to FcRn exhibit a half‐life of 7 days. Besides serving as a salvage pathway, FcRn also facilitates transcytosis of mAbs in a variety of organs and tissues.</p><fig id="psp412224-fig-0003" position="float" xml:lang="en"><?disp-level 3?><label>Figure 3</label><caption><p>Protection of immunoglobulin G (IgG) molecules from lysosomal degradation by the neonatal fragment crystallizable‐receptor (FcRn) salvage pathway.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="nlm-graphic-5" xlink:href="PSP4-6-576-g003.jpg"><?cloudpmc-path blobs/cfbb/5613179/5eb533e79075/PSP4-6-576-g003.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?><?original-height 417?><?original-width 583?><?scaled-height 417?><?scaled-width 583?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="PSP4-6-576-g003.gif"><?cloudpmc-path blobs/cfbb/5613179/504d937f8f36/PSP4-6-576-g003.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>The efficiency of the FcRn‐mediated recycling was illustrated in FcRn knockout mice, for which IgG clearance increased by 10‐fold.<xref rid="psp412224-bib-0040" ref-type="bibr">40</xref> Similarly, increasing the pH‐dependent binding affinity to FcRn through protein engineering could further reduce IgG clearance.<xref rid="psp412224-bib-0041" ref-type="bibr">41</xref> Although efficient, there is a limit to the FcRn recycling capacity. At physiologic IgG concentrations of 12 mg/mL, IgG has a half‐life of ∼21 days. Introducing high concentrations of IgG, either exogenously as in the case of high‐dose intravenous immunoglobulin therapy, or endogenously in conditions, such as multiple myeloma, there will be an increase in IgG clearance and reduced half‐life by saturating the FcRn recycling process.<xref rid="psp412224-bib-0042" ref-type="bibr">42</xref> Conversely, hypogammaglobulinemia would be expected to decrease the clearance and increase the half‐life of therapeutic mAbs. Significant changes in FcRn recycling, however, are not achieved with therapeutic doses of mAbs, because most mAbs are given at doses &lt;10 mg/kg, which would increase the overall amount of IgG in the body by only 1–2%.<xref rid="psp412224-bib-0043" ref-type="bibr">43</xref>
+</p></sec><sec id="psp412224-sec-0006" disp-level="2"><title>Routes of administration</title><p>The mAbs do not have an appreciable oral bioavailability due to their large size, limited membrane permeability, and limited stability toward gastrointestinal protease activity. Therefore, intravenous (i.v.) infusion is the most common route of administration, followed by subcutaneous (s.c.) and intramuscular (i.m.) injection. The s.c. injection is used for a majority of mAbs that are not given through the i.v. route. The s.c. delivery of mAbs involves an absorption process from the site of injection that relies significantly on the convective transport of the mAb through the interstitial space into the lymphatic system, draining into the systemic circulation.</p><p>Similar to the distribution processes for mAbs, uptake of IgG molecules after injection into the interstitial space of s.c. tissues is largely driven by convective transport with only minor contribution from distribution processes. Transcytosis of IgG via FcRn contributes also, although only minimally to s.c. absorption.<xref rid="psp412224-bib-0044" ref-type="bibr">44</xref> In line with other therapeutic proteins for which the percentage of recovery in lymphatic vs. blood vessels is increasing with increasing molecular weight,<xref rid="psp412224-bib-0045" ref-type="bibr">45</xref> mAb absorption after s.c. administration is nearly exclusively facilitated by the lymphatic system rather than the vascular system. Because the flow of lymph fluid in lymphatic vessels is very slow compared to the blood flow in capillary vessels, the resulting absorption process of mAbs into the systemic circulation after s.c. administration is also slow, with a corresponding slow increase in plasma concentration and delayed time of the maximum concentration (T<sub>max</sub>), ranging for mAbs from 1.7–13.5 days,<xref rid="psp412224-bib-0044" ref-type="bibr">44</xref> with frequent values of T<sub>max</sub> around 6–8 days. A model‐based analysis suggests that lymphatic flow rate is the most influential factor to T<sub>max</sub>.<xref rid="psp412224-bib-0044" ref-type="bibr">44</xref>
+</p><p>Subcutaneously administered mAbs may undergo presystemic elimination. This is thought to be a combination effect of soluble peptidase activity in the interstitial space, endocytosis, and subsequent lysosomal degradation in endothelial cells lining the lymphatic vessels with involvement of the FcRn recycling pathway, as well as interaction with phagocytic immune cells in the lymph nodes, whereby the latter two processes are assumed to be most prominent. The resulting reported bioavailability for s.c. administered mAbs ranges from 52–80%.<xref rid="psp412224-bib-0004" ref-type="bibr">4</xref>, <xref rid="psp412224-bib-0044" ref-type="bibr">44</xref> The underlying degree of presystemic degradation has been suggested to be a function of lymphatic residence time and elimination rate during lymphatic transport.<xref rid="psp412224-bib-0044" ref-type="bibr">44</xref>
+</p><p>A variety of factors have been shown to influence s.c. absorption and bioavailability of mAbs. The site of injection may play a factor in the rate and extent of absorption for mAbs.<xref rid="psp412224-bib-0046" ref-type="bibr">46</xref> This is due to the changes in pressure gradient in the interstitial space at different sites of injection, as well as the amount of lymph movement near the sites of injection, which can also be modulated by activity/motion near the site of injection.<xref rid="psp412224-bib-0047" ref-type="bibr">47</xref>
+</p><p>Product‐specific factors that affect absorption are charge, size, formulation, and total dose given of the mAb.<xref rid="psp412224-bib-0048" ref-type="bibr">48</xref> The net charge of the IgG molecule changes the lymphatic uptake characteristics. Due to the slightly negative charge present in the interstitial space, the highest uptake is seen with negatively charged proteins, with positively charged molecules absorbed slower.<xref rid="psp412224-bib-0049" ref-type="bibr">49</xref> The s.c. bioavailability for rituximab was found to be inversely related to the dose level, which might be attributed to saturation of the FcRn‐mediated salvage pathway at the absorption site and the corresponding lymphatic vessels draining that area.<xref rid="psp412224-bib-0048" ref-type="bibr">48</xref>
+</p><p>Species‐specific characteristics, which are important for absorption, are skin morphology, catabolic capacity at the injection site, blood flow at the site of injection, and FcRn affinity.<xref rid="psp412224-bib-0050" ref-type="bibr">50</xref> All of these characteristics play a role in the absorption profile in each species, and make it difficult to scale a PK profile from one species to another.<xref rid="psp412224-bib-0046" ref-type="bibr">46</xref> For example, the FcRn affinity to human IgG varies across species, which needs to be considered in choosing an animal model for PK studies for mAbs. Human IgG1 has a ∼2.5‐fold higher binding affinity to mouse FcRn compared to human FcRn, resulting in a potential overemphasis of FcRn‐mediated absorption and disposition processes when human IgG1 mAbs are tested in mice compared with humans.<xref rid="psp412224-bib-0051" ref-type="bibr">51</xref>
+</p><p>Subject‐specific characteristics that can have an effect on absorption are body weight, gender, age, activity level, disease state, respiratory rate, and blood pressure.<xref rid="psp412224-bib-0052" ref-type="bibr">52</xref> In humans, hypodermis thickness increases with body weight, decreases with age, and depends on gender, which has the potential of leading to different absorption behavior and variability.<xref rid="psp412224-bib-0053" ref-type="bibr">53</xref> For example, the flow of lymph increases by 83% during 2 hours of exercise, which may have a substantial impact on the uptake of therapeutic proteins into the systemic circulation.<xref rid="psp412224-bib-0054" ref-type="bibr">54</xref> As a consequence of all these factors, there is substantial variability in the rate and extent of absorption between different mAbs and between different individuals for the same mAb.<xref rid="psp412224-bib-0004" ref-type="bibr">4</xref>, <xref rid="psp412224-bib-0055" ref-type="bibr">55</xref>
+</p><p>The outlined concepts have successfully been implemented in recent PBPK modeling attempts for mAb disposition after s.c. administration.<xref rid="psp412224-bib-0056" ref-type="bibr">56</xref>
+</p></sec></sec><sec id="psp412224-sec-0007" disp-level="1"><title>PRODUCT‐SPECIFIC FACTORS AFFECTING THE PHARMACOKINETICS OF MABS</title><sec id="psp412224-sec-0008" disp-level="2"><title>Charge</title><p>Charge is one of the major determinants of how an mAb interacts with the negatively charged components of the cell surface. Changes in charge have been shown to change the PK behavior of mAbs in serum, interstitial space, and tissue.<xref rid="psp412224-bib-0057" ref-type="bibr">57</xref> An increase in isoelectric point (pI) by greater than one unit through cationic modifications, for example, increased plasma clearance and resulted in a higher distribution into tissue.<xref rid="psp412224-bib-0058" ref-type="bibr">58</xref> The mAbs with higher pI values had not only faster systemic clearance, but also lower s.c. bioavailability compared with antibodies with lower pI.<xref rid="psp412224-bib-0059" ref-type="bibr">59</xref> On the other hand, anionic modifications, causing a decrease in pI by 1–2 units, were shown to decrease plasma clearance and tissue accumulation.<xref rid="psp412224-bib-0060" ref-type="bibr">60</xref> Although not any small change in pI will have an effect on pharmacokinetics, pI changes above one unit in either direction are considered to result in appreciable differences in mAb pharmacokinetics.<xref rid="psp412224-bib-0061" ref-type="bibr">61</xref>
+</p></sec><sec id="psp412224-sec-0009" disp-level="2"><title>Glycosylation pattern</title><p>Some of the pharmacodynamic effects of mAbs rely on immune‐mediated effector functions, including ADCC and CDC. In CDC‐mediated effector activity, the binding of compliment C1q to a specific finding site on the Fc domain is critical in the initiation of the compliment cascade, which ultimately leads to lysis of the target cell.<xref rid="psp412224-bib-0062" ref-type="bibr">62</xref> In ADCC‐mediated effector activity, the Fc portion of the mAb binds to an FcγR on an effector cell, such as a monocyte, macrophage, or natural killer cell, whereas the Fab domains bind to cell surface receptors on the target cell. This leads to the destruction of the target cell by either engulfing the cell through phagocytic activity by the immune cell or release of cytokines leading to cell death.<xref rid="psp412224-bib-0062" ref-type="bibr">62</xref> A critical component in an mAb's ability to elicit ADCC or CDC is its affinity to FcγR and C1q, respectively, which is modulated by carbohydrate (glycan) chains at the Asn297 amino acid in the C<sub>H2</sub> domain of the Fc region (<bold>Figure</bold>
+<xref rid="psp412224-fig-0004" ref-type="fig">4</xref>, <xref rid="psp412224-bib-0063" ref-type="bibr">63</xref>, <xref rid="psp412224-bib-0064" ref-type="bibr">64</xref>).<xref rid="psp412224-bib-0065" ref-type="bibr">65</xref>
+</p><fig id="psp412224-fig-0004" position="float" xml:lang="en"><?disp-level 3?><label>Figure 4</label><caption><p>Commonly encountered N‐glycan structures in the fragment crystallizable portion of monoclonal antibodies (based on refs. 63 and 64).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="nlm-graphic-7" xlink:href="PSP4-6-576-g004.jpg"><?cloudpmc-path blobs/cfbb/5613179/99556f69e43f/PSP4-6-576-g004.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?><?original-height 314?><?original-width 583?><?scaled-height 314?><?scaled-width 583?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="PSP4-6-576-g004.gif"><?cloudpmc-path blobs/cfbb/5613179/b3fd04303699/PSP4-6-576-g004.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><p>The glycan chains attached at the Asn297 amino acid show substantial heterogeneity between and within mAb products. Several defined molecular species of an mAb with different glycan chains may coexist in the same mAb product. The originally marketed form of trastuzumab (Herceptin), for example, has eight different isoforms with different glycan chains contained at specific relative ratios in the marketed product.<xref rid="psp412224-bib-0066" ref-type="bibr">66</xref>
+</p><p>Different glycan chains have been associated with differences in the pharmacodynamics and pharmacokinetics of mAb species. Afucosylation (i.e., the absence of the sugar fucose linked to N‐acetylglucosamine glycan attached at the Asn297 of the Fc domain), for example, results in dramatically enhanced ADCC due to enhanced FcγR IIIa binding affinity without any detectable change in CDC or antigen‐binding affinity.<xref rid="psp412224-bib-0067" ref-type="bibr">67</xref> A combination of only the afucosylated forms of trastuzumab compared to the marketed trastuzumab product that contains fucosylated and nonfucosylated forms not only increased efficacy in an <italic>in vivo</italic> tumor model, but also reduced the half‐life from 13.1 to 10.1 days, likely due to the accelerated removal of trastuzumab molecules through the ADCC mechanism as enhanced clearance pathway.<xref rid="psp412224-bib-0066" ref-type="bibr">66</xref>
+</p><p>Other glycosylation patterns have also been shown to affect mAb pharmacokinetics: IgG that lacks galactose (G0 glycoforms) of IgG2 and potentially IgG1 remains 20–40% longer in circulation in mice compared to other glycoforms. A potential explanation is a higher binding affinity of galactosylated forms to FcγRI.<xref rid="psp412224-bib-0068" ref-type="bibr">68</xref> PK studies in Cynomolgus monkeys suggest that species of Fc fusion proteins with terminal N‐acetylglucosamine are selectively cleared faster than species with other glycan structures.<xref rid="psp412224-bib-0069" ref-type="bibr">69</xref> The effect of terminal N‐acetylglucosamine could be confirmed in humans.<xref rid="psp412224-bib-0070" ref-type="bibr">70</xref> Similarly, a three times faster clearance was noted for the high mannose glycans (Man5, Man8, and Man9) compared with regular complex‐fucosylated forms, probably facilitated by the mannose receptor.<xref rid="psp412224-bib-0070" ref-type="bibr">70</xref> Overall, the alterations of clearance caused by varying glycosylation patterns are still being explored and have not been fully elucidated.<xref rid="psp412224-bib-0072" ref-type="bibr">72</xref>
+</p></sec><sec id="psp412224-sec-0010" disp-level="2"><title>Polyreactivity</title><p>With increased structural modifications to native IgG structures due to protein engineering in an attempt to optimize biological properties, an increasing risk in unspecific off‐target binding of mAbs has been observed. This unspecific off‐target binding seems to be related to the complementarity‐determining regions of the mAb and has been associated with substantially increased mAb clearance, resulting in reduced half‐lives as compared to the typical 18–21 days.<xref rid="psp412224-bib-0073" ref-type="bibr">73</xref>
+</p></sec></sec><sec id="psp412224-sec-0011" disp-level="1"><title>PATIENT‐SPECIFIC FACTORS AFFECTING THE PHARMACOKINETICS OF MABS</title><sec id="psp412224-sec-0012" disp-level="2"><title>Genetic variants</title><p>The pharmacokinetics of mAbs may be affected by functionally relevant genetic polymorphisms in genes encoding for proteins relevant for their distribution and elimination. The expression of one of the protein components of the heterodimeric FcRn, for example, is affected by a genetic variant in the <italic>FCGRT</italic> gene encoding for it. The promoter region for <italic>FCGRT</italic> exhibits a 37‐base pair variable number of tandem repeats (VNTRs) polymorphism that affects the level of expression of FcRn. The most common VNTR3/VNTR3 genotype expresses 1.66‐fold more FcRn transcript compared to the VNTR3/VNTR2 genotype.<xref rid="psp412224-bib-0074" ref-type="bibr">74</xref> As a consequence, patients with inflammatory bowel disease that were heterozygous exhibited 14% lower exposure for infliximab compared with patients homozygous for VNTR3, likely due to reduced salvage of IgG secondary to decreased FcRn expression, resulting in increased clearance and decreased systemic exposure of the mAb. A similar, but substantially more pronounced, effect of 24% was observed for adalimumab, which may be explained by the fact that adalimumab is given by the s.c. route and infliximab by the i.v. route.<xref rid="psp412224-bib-0075" ref-type="bibr">75</xref> Reduced FcRn expression may have affected not only the clearance, but also the bioavailability of adalimumab by its modulation of presystemic degradation. These observations are supported by studies in patients receiving intravenous immunoglobulin,<xref rid="psp412224-bib-0076" ref-type="bibr">76</xref> in which the efficacy of treatment is higher in VNTR3 homozygotes.</p><p>Similar to FcRn, genetic variants relevant for the pharmacodynamics and potentially also pharmacokinetics of mAbs have also been described for FcγRs, particularly FcγR IIIa. Clinical response for trastuzumab in human epidermal growth factor receptor (HER)2‐overexpressing in patients with breast cancer was found to be significantly correlated with a genetic polymorphism in the gene encoding for FcγR IIIa resulting in an exchange of valine (V) against phenylalanine (F) at position 158. The amino acid exchange influences the affinity of IgG1 to the FcγR, resulting in an increased binding affinity and improved mediation of ADCC for the V allele compared to the F allele. Consequently, patients with V/V genotype exhibited higher objective response rates and longer progression‐free survival.<xref rid="psp412224-bib-0077" ref-type="bibr">77</xref> Similar results were reported for cetuximab in colorectal cancer<xref rid="psp412224-bib-0078" ref-type="bibr">78</xref> and rituximab in B‐cell lymphoma.<xref rid="psp412224-bib-0079" ref-type="bibr">79</xref> For infliximab, the effect of the FcγR IIIa genotype was suggested to not only be limited to pharmacodynamic efficacy, but also to affect pharmacokinetics, with a reduced clearance for the F/F genotype.<xref rid="psp412224-bib-0080" ref-type="bibr">80</xref> These data suggest that Fcγ polymorphisms may affect mAb disposition if ADCC is a major elimination pathway for a specific antibody drug, but may have little or no impact on exposure for those mAbs in which ADCC is only a minor or not a relevant clearance pathway.</p></sec><sec id="psp412224-sec-0013" disp-level="2"><title>Ectodomain shedding</title><p>Ectodomain shedding is a frequently encountered phenomenon of membrane‐standing receptors, in which the extracellular domain of the receptor is cleaved and released into the circulation. For mAbs targeting these receptors, the shed antigen constitutes a binding reservoir that by being in the vascular space is often more easily accessible than the intact membrane‐standing receptor on target cells in the extravascular space. Thus, shed antigen can limit mAb disposition and inactivate a fraction of the administered mAb by preventing it from accessing its intended target. Different patients may have vastly different shed antigen concentrations and, thus, different effects, as shown for CD52, the target for alemtuzumab.<xref rid="psp412224-bib-0081" ref-type="bibr">81</xref>
+</p></sec><sec id="psp412224-sec-0014" disp-level="2"><title>Inflammatory status</title><p>Proteolytic degradation, as the prime elimination pathway for mAbs, can be affected by a variety of disease states, including cancer, injury, and chronic inflammatory conditions. Cancer‐associated symptoms, in particular the progressive loss of weight and lean tissue, are manifestations of an ongoing chronic inflammatory response.<xref rid="psp412224-bib-0082" ref-type="bibr">82</xref> This elevated inflammatory status results in a 50–70% higher whole body protein turnover rate in patients with cancer compared with normal individuals.<xref rid="psp412224-bib-0083" ref-type="bibr">83</xref> This affects not only the catabolism of many endogenous proteins, including IgG molecules, but also exogenous proteins, such as therapeutically used mAbs. As a consequence, nonspecific proteolytic clearance of mAbs is not constant among patients, but may differ substantially among patient groups with a different indication or disease severity based on the degree of differences in protein turnover secondary to differences in inflammatory status. This has, for example, been described for the pharmacokinetics of trastuzumab, in which systemic exposure in patients with HER2‐positive advanced gastric or gastro‐esophageal junction cancer was 30–40% lower compared with patients with HER2‐positive metastatic breast cancer.<xref rid="psp412224-bib-0084" ref-type="bibr">84</xref> Similarly, clearance for infliximab has been reported as, on average, 0.37–0.41 L/day in Crohn's disease and ulcerative colitis, but only 0.26–0.27 L/day in rheumatoid arthritis and ankylosing spondylitis.<xref rid="psp412224-bib-0085" ref-type="bibr">85</xref>
+</p><p>In line with these observations, serum albumin concentrations have frequently been reported as an inversely correlated covariate for mAb clearance, in which increased albumin levels are indicative of decreased IgG clearance.<xref rid="psp412224-bib-0004" ref-type="bibr">4</xref> Hypoalbuminemia is a well‐recognized marker of cachexia and elevated protein turnover secondary to chronic systemic inflammatory conditions, as observed in many cancer indications. The endogenous catabolic rate for albumin is highly correlated with the catabolic turnover of IgG.<xref rid="psp412224-bib-0086" ref-type="bibr">86</xref> Thus, increased protein turnover, as indicated by hypoalbuminemia, results in increased catabolic degradation of IgG molecules and increased clearance and reduced systemic exposure of therapeutically administered mAbs.</p><p>Similar to albumin, C‐reactive protein (CRP) has also been identified as a predictor for mAb clearance. CRP levels correlate positively with mAb clearance, although CRP is a relatively unspecific indicator of systemic inflammation.<xref rid="psp412224-bib-0087" ref-type="bibr">87</xref> This correlation, however, is usually not as strong as for albumin, as CRP is much more variable than serum albumin concentrations and is controlled by a larger variety of factors.</p></sec></sec><sec id="psp412224-sec-0015" disp-level="1"><title>TIME‐DEPENDENT CHANGES IN PHARMACOKINETICS</title><p>Being a function of the systemic inflammatory status, catabolic degradation of mAbs may not necessarily be constant within a specific patient but may change with time. This may become relevant for patients undergoing long‐term therapy with mAbs, for example, in many cancer indications or chronic inflammatory conditions. The time‐dependent change of endogenous protein turnover, and, thus, mAb clearance may be produced by either the natural progression of the disease or by the pharmacodynamic and therapeutic effects of the mAb.</p><p>If this process is taking place in an mAb therapy in cancer indications, then patients with the most pronounced therapeutic response to therapy should experience the largest reduction in mAb clearance over time. This is likely due to the reduction of the systemic inflammatory condition, which is in contrast to nonresponders in whom little or no time‐dependent change in mAb clearance should occur. Recent observations for nivolumab and pembrolizumab seem to support this notion: patients experiencing partial or complete response under anticancer therapy with either of the mAbs exhibited the largest decrease in clearance over time, whereas patients with progressive disease showed the smallest time‐dependent change in clearance.<xref rid="psp412224-bib-0088" ref-type="bibr">88</xref>
+</p><p>The time‐dependent change in mAb clearance, as a function of response to therapy, poses substantial challenges in a reliable assessment of exposure‐response relationships for mAbs, as exposure in these cases is not any more an independent variable for predicting response. This is especially problematic for posthoc analyses of exposure‐response data from studies with only one dose level, and may lead to potentially biased and misleading study results.<xref rid="psp412224-bib-0089" ref-type="bibr">89</xref>
+</p></sec><sec id="psp412224-sec-0016" disp-level="1"><title>Immunogenicity</title><p>Administration of therapeutic mAbs to patients may trigger an immune response, leading to the formation of antidrug antibodies (ADAs). Immunogenicity is the ability of a particular substance, such as an mAb, to cause an immune response. The immunogenic potential of mAbs is related to a variety of factors, including the fraction of nonhuman sequence in the protein molecule, the route of administration, as well as dose and duration of therapy. Immunogenicity increases as the fraction of nonhuman sequence increases, with fully rodent mAbs being more immunogenic than chimeric mAbs, which are more immunogenic than humanized mAbs, which are generally more immunogenic than “fully” human mAbs.<xref rid="psp412224-bib-0090" ref-type="bibr">90</xref> Nevertheless, even mAbs with a structure that is completely analogous to a human IgG molecule may exhibit immunogenicity. The degree of the formation of aggregates and the occurrence of T‐cell epitopes have been discussed as potential determinants.<xref rid="psp412224-bib-0090" ref-type="bibr">90</xref> Route of administration also affects the probability of an immune response: s.c. administration oftentimes elicits a higher likelihood compared to i.m. or i.v. administration, potentially secondary to aggregate formation at the injection site.<xref rid="psp412224-bib-0092" ref-type="bibr">92</xref> The dose of an mAb interestingly may have an inverse relationship to immunogenicity. It has been observed that low doses of an mAb oftentimes elicit a greater immune response compared to a high dose of the same mAb.<xref rid="psp412224-bib-0093" ref-type="bibr">93</xref> The mechanistic basis for this observation remains elusive, although it may be speculated that ADAs formed by a weak immunogenic response may be consumed by high mAb concentrations in high‐dose groups, thereby masking the immunogenic effect without major influence on mAb exposure. The duration of therapy also has an effect on immune response. As duration of treatment lengthens, the chances to elicit an immune response also increases.<xref rid="psp412224-bib-0094" ref-type="bibr">94</xref> The binding affinity of ADAs will also mature/increase over time as more mAb is introduced.<xref rid="psp412224-bib-0095" ref-type="bibr">95</xref> As binding affinity increases, so will the potential of a decrease in the therapeutic mAb concentration and clinical effect. Predisposition to form an immune response has more recently also been linked to patient genotype, for example, certain human leukocyte antigen (HLA) haplotypes.<xref rid="psp412224-bib-0090" ref-type="bibr">90</xref>
+</p><p>Immunogenicity resulting in ADA formation is usually a polyclonal response, with multiple ADA species concurrently available and interindividual differences from patient to patient. The formed ADA can either be neutralizing antibodies or non‐neutralizing antibodies. Neutralizing ADAs obliterate the effect of the mAb by binding to complementarity determining regions (i.e., their active sites). The level of neutralization is dependent on the titer of ADA. Neutralizing antibodies that are at low titers may not show a clinical effect, but at high titers there is a greater potential to see a decrease in clinical efficacy.<xref rid="psp412224-bib-0092" ref-type="bibr">92</xref> Non‐neutralizing ADAs do not interfere with the mAb's antigen‐binding capacity. Independent of whether ADAs are neutralizing or non‐neutralizing, ADA formation frequently has an effect on the pharmacokinetics and systemic exposure of the affected mAb, although not all ADAs result in a change in the mAb's PK behavior, as, for example, observed for panitumumab.<xref rid="psp412224-bib-0096" ref-type="bibr">96</xref> If there is an effect on pharmacokinetics, it is usually a dramatic increase in the elimination of the affected mAb, resulting in a substantially reduced or no appreciable systemic exposure of the mAb,<xref rid="psp412224-bib-0097" ref-type="bibr">97</xref> as shown, for example, in patients with ADA‐positive rheumatoid arthritis under infliximab therapy.<xref rid="psp412224-bib-0098" ref-type="bibr">98</xref> The mechanistic basis for this increased clearance is the formation of circulating ADA‐mAb immune complexes that are large enough to trigger uptake and lysosomal degradation by the reticuloendothelial system, mediated, for example, via binding of the Fc domain for FcγR, primarily FcγRIIA on platelets, and subsequent internalization by circulating phagocytes.<xref rid="psp412224-bib-0099" ref-type="bibr">99</xref> Thus, ADA‐mAb complex formation constitutes an additional clearance pathway for the affected mAb that may substantially contribute to its disposition and removal from the systemic circulation (<bold>Figure</bold>
+<xref rid="psp412224-fig-0005" ref-type="fig">5</xref>).<xref rid="psp412224-bib-0097" ref-type="bibr">97</xref>
+</p><fig id="psp412224-fig-0005" position="float" xml:lang="en"><?disp-level 2?><label>Figure 5</label><caption><p>Multiple clearance pathways affecting the pharmacokinetics of a monoclonal antibody (mAb). Depicted is a typical two‐compartment PK model for a mAb with administration of a dose (D) that may undergo presystemic degradation (degradation rate constant [k<sub>deg</sub>]), concentrations of the mAb in the central (Ab<sub>1</sub>) and peripheral (Ab<sub>2</sub>) compartment, and interdepartmental clearance (Q). The PK model includes two linear clearance pathways representative of unspecific proteolytic degradation, one from the central compartment (CL<sub>1</sub>) and one from the peripheral compartment (CL<sub>2</sub>), as well as recycling through the neonatal neonatal fragment crystallizable receptor (FcRn)‐mediated salvage pathway (recycling rate constant (K<sub>rmr</sub>)). Added to these clearance pathways is, on the right‐hand side, a target‐mediated disposition pathway that constitutes interaction of the mAb with its pharmacologic target receptor, which is in a homeostatic equilibrium of synthesis and degradation (rate constants k<sub>syn</sub> and k<sub>deg</sub>). The dynamic equilibrium for the formation of the resulting mAb‐receptor complex (Ab‐R) is determined through the association rate constant k<sub>on</sub> and the dissociation rate constant k<sub>off</sub>. The formation of Ab‐R not only elicits the pharmacologic effect but also triggers degradation of the complex. Thus, target binding and subsequent Ab‐R degradation constitute an additional clearance pathway for the mAb (CL<sub>3</sub>). The left‐hand side of the graphic depicts the effect of an immune response to the mAb resulting in anti‐drug antibody (ADA) formation. Again, the circulating concentration of the ADA is determined by a homeostatic equilibrium between its formation rate (k<sub>formation</sub>) and a catabolic turnover process (rate constant (k<sub>cat</sub>)). The ADA response results in the formation of immune complexes with the drug (ADA‐Ab), dependent on the dissociation constant K<sub>d</sub>. Dependent on the size and structure of the immune complexes, endogenous elimination pathways through the reticuloendothelial system may be triggered, most likely via fragment crystallizable‐gamma (Fcγ)‐mediated endocytosis. Thus, immune complex formation and subsequent degradation may constitute an additional clearance pathway (CL<sub>4</sub>) for mAbs (modified from ref. 97; reproduced with permission of Springer).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="nlm-graphic-9" xlink:href="PSP4-6-576-g005.jpg"><?cloudpmc-path blobs/cfbb/5613179/3f166ea5cff3/PSP4-6-576-g005.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?><?original-height 352?><?original-width 492?><?scaled-height 352?><?scaled-width 492?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="PSP4-6-576-g005.gif"><?cloudpmc-path blobs/cfbb/5613179/2864a0a5faa0/PSP4-6-576-g005.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="psp412224-sec-0017" disp-level="1"><title>Modeling of mAb disposition</title><p>The pharmacokinetics of most therapeutically used mAbs have been described by compartmental modeling approaches, using the classic two‐compartment model with reversible drug transfer between a central and a peripheral compartment. Drug elimination is usually described by a linear, first‐order elimination pathway from the central compartment, that may be complemented by a parallel, nonlinear elimination pathway that exhibits Michealis‐Menten‐style kinetics, with a defined maximum elimination rate (V<sub>max</sub>) and a Michealis‐Menten constant (k<sub>m</sub>) defining the concentration at which the elimination pathway is half saturated.<xref rid="psp412224-bib-0004" ref-type="bibr">4</xref>, <xref rid="psp412224-bib-0055" ref-type="bibr">55</xref> The pharmacokinetics of mAbs that undergo TMDD have also been described by permutations of the target‐mediated drug disposition model. This model includes binding parameters for the mAb‐target interaction as well as an internalization rate for the mAb‐target complex. Although the full TMDD model has only been applied in a few situations, largely due to the limited availability of concentration data beyond free or total mAb concentration (e.g., target concentration and mAb‐target complex concentrations) as well as the largely different time scales of the kinetic processes involved in the TMDD model (fraction of seconds for complex association rates vs. days for elimination rates), simplifications, and approximations of the full TMDD model have been widely applied. A comprehensive review on TMDD model variations has recently been reported in this journal.<xref rid="psp412224-bib-0100" ref-type="bibr">100</xref>
+</p><p>In order to expand mAb modeling from not only describing plasma pharmacokinetics, but also tissue concentration‐time profiles, as well as to facilitate a more mechanistic understanding of the impact of drug disposition processes of mAbs, such as TMDD, convective extravasation, FcRn recycling, and proteolytic degradation, PBPK models have more recently been increasingly applied to characterize the complex disposition kinetics of therapeutically used mAbs.<xref rid="psp412224-bib-0101" ref-type="bibr">101</xref> A recent example for a full PBPK model includes 16 tissue compartments, each further divided into vascular, endosomal, interstitial, and cellular subcompartments, as well as physiological parameters for four species (mouse, rat, monkey, and human), different vascular reflection coefficients for different tissues, use of an association and dissociation constants between mAb and FcRn, degradation rates for FcRn unbound mAb, and use of pinocytosis clearance.<xref rid="psp412224-bib-0102" ref-type="bibr">102</xref>
+</p><p>Minimal PBPK modeling can be seen as a middle ground between classical compartmental modeling and full PBPK modeling that allows for the incorporation of mechanistic key elements in drug disposition without the need for extensive collections of estimated physiologic and theoretical parameters. In a recent minimal PBPK model, the compartmental complexity was reduced to two groups of tissues, the leaky and tight distribution volumes according to their vascular endothelium structure.<xref rid="psp412224-bib-0026" ref-type="bibr">26</xref> These kind of reductionist modeling approaches still allow consideration of many mechanistic and conceptual features of mAb drug disposition, but at the same time are not dependent on the assumptions of model parameters that cannot reliably be measured, accessed, or estimated.</p></sec><sec id="psp412224-sec-0018" disp-level="1"><title>Population variability</title><p>Although there is substantial heterogeneity in drug disposition and pharmacokinetics of mAbs, particularly if saturable distribution and elimination processes are involved, many of the therapeutically used mAbs exhibit similar PK behavior that is analogous to endogenous IgG molecules. Population estimates of the volumes of distribution in the central (Vc) and peripheral (Vp) compartments are typically small, with median values of 3.1 (range, 2.4–5.5) L and 2.8 (range, 1.3–6.8) L, respectively, reflecting the limited ability of mAbs as large protein molecules to leave the vascular space.<xref rid="psp412224-bib-0004" ref-type="bibr">4</xref> The estimated between‐subject variability in the Vc was usually moderate, with a median coefficient of variation of 26%.<xref rid="psp412224-bib-0004" ref-type="bibr">4</xref> Much more limited information is available on the between‐subject variability in other distribution‐related parameters, such as the Vp and intercompartmental clearance. The clearance of mAbs with linear elimination characteristics or at concentrations when target‐mediated drug disposition processes are saturated typically ranged from 0.2–0.5 L/day, which is relatively close to the estimated clearance of endogenous IgG of 0.21 L/day. The between‐subject variability in clearance was moderate with a median coefficient of variation of 33%, ranging from 20–59%.<xref rid="psp412224-bib-0004" ref-type="bibr">4</xref> Similar results have been obtained with a population pharmacokinetics‐based meta‐analysis of four mAbs.<xref rid="psp412224-bib-0103" ref-type="bibr">103</xref> These values, however, may further be modulated by the various product‐specific and patient‐specific factors, as outlined earlier in this article.</p></sec><sec id="psp412224-sec-0019" disp-level="1"><title>CONCLUSION</title><p>MAbs are a unique class of therapeutics that exhibit PK behavior determined and controlled by the specific mechanisms and processes involved in their disposition. Although there are substantial differences in the pharmacokinetics of individual mAbs, their general behavior can still be considered a class property as it is driven by and similar to their endogenous counterpart IgG. The mAb PK properties, however, can be further modulated by the various factors outlined in this article, and further deviation from class behavior may be expected with the increasing utilization of protein engineering to modify the IgG scaffold.</p></sec><sec id="psp412224-sec-0020" sec-type="ack" disp-level="1"><title>Conflict of Interest</title><p>The authors declared no conflict of interest.</p></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="psp412224-bib-0001"><label>1.</label><mixed-citation id="psp412224-cit-0001"><named-content content-type="citation-string">
+
+Mould, D.R.
+ &amp; 
+Meibohm, B.
+
+Drug development of therapeutic monoclonal antibodies. BioDrugs
+30, 275–293 (2016).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s40259-016-0181-6"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27342605"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BioDrugs&amp;title=Drug development of therapeutic monoclonal antibodies&amp;author=D.R. Mould&amp;author=B. Meibohm&amp;volume=30&amp;publication_year=2016&amp;pages=275-293&amp;pmid=27342605&amp;doi=10.1007/s40259-016-0181-6&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0002"><label>2.</label><mixed-citation id="psp412224-cit-0002"><named-content content-type="citation-string">
+
+Davis, J.D.
+
+<italic>et al</italic>
+Monoclonal antibodies: from structure to therapeutic application
+Pharmaceutical Biotechnology: Fundamentals and Applications, 4th Edition. (eds. Crommelin D.J.A., Sindelar R.D. &amp; Meibohm B.) 143–178 (Springer, New York, NY, 2013).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Pharmaceutical Biotechnology: Fundamentals and Applications, 4th Edition&amp;author=J.D. Davis&amp;publication_year=2013&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0003"><label>3.</label><mixed-citation id="psp412224-cit-0003"><named-content content-type="citation-string">
+
+Vidarsson, G.
+, 
+Dekkers, G.
+ &amp; 
+Rispens, T.
+
+IgG subclasses and allotypes: from structure to effector functions. Front. Immunol.
+5, 520 (2014).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3389/fimmu.2014.00520"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4202688"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25368619"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Front. Immunol.&amp;title=IgG subclasses and allotypes: from structure to effector functions&amp;author=G. Vidarsson&amp;author=G. Dekkers&amp;author=T. Rispens&amp;volume=5&amp;publication_year=2014&amp;pages=520&amp;pmid=25368619&amp;doi=10.3389/fimmu.2014.00520&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0004"><label>4.</label><mixed-citation id="psp412224-cit-0004"><named-content content-type="citation-string">
+
+Dirks, N.L.
+ &amp; 
+Meibohm, B.
+
+Population pharmacokinetics of therapeutic monoclonal antibodies. Clin. Pharmacokinet.
+49, 633–659 (2010).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2165/11535960-000000000-00000"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20818831"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Pharmacokinet.&amp;title=Population pharmacokinetics of therapeutic monoclonal antibodies&amp;author=N.L. Dirks&amp;author=B. Meibohm&amp;volume=49&amp;publication_year=2010&amp;pages=633-659&amp;pmid=20818831&amp;doi=10.2165/11535960-000000000-00000&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0005"><label>5.</label><mixed-citation id="psp412224-cit-0005"><named-content content-type="citation-string">
+
+Kadir, F.
+, 
+Ives, P.
+, 
+Luitjens, A.
+ &amp; 
+van Corven, E.
+
+Production and purification of recombinant proteins
+Pharmaceutical Biotechnology: Fundamentals and Applications, 4th Edition (eds. Crommelin D.J.A., Sindelar R.D. &amp; Meibohm B.) 47–67 (Springer, New York, NY, 2013).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Pharmaceutical Biotechnology: Fundamentals and Applications&amp;author=F. Kadir&amp;author=P. Ives&amp;author=A. Luitjens&amp;author=E. van Corven&amp;publication_year=2013&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0006"><label>6.</label><mixed-citation id="psp412224-cit-0006"><named-content content-type="citation-string">
+
+Köhler, G.
+ &amp; 
+Milstein, C.
+
+Continuous cultures of fused cells secreting antibody of predefined specificity. Nature
+256, 495–497 (1975).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/256495a0"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="1172191"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nature&amp;title=Continuous cultures of fused cells secreting antibody of predefined specificity&amp;author=G. Köhler&amp;author=C. Milstein&amp;volume=256&amp;publication_year=1975&amp;pages=495-497&amp;pmid=1172191&amp;doi=10.1038/256495a0&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0007"><label>7.</label><mixed-citation id="psp412224-cit-0007"><named-content content-type="citation-string">
+
+Lerner, E.A.
+
+How to make a hybridoma. Yale J. Biol. Med.
+54, 387–402 (1981).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2596021"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="7039149"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Yale J. Biol. Med.&amp;title=How to make a hybridoma&amp;author=E.A. Lerner&amp;volume=54&amp;publication_year=1981&amp;pages=387-402&amp;pmid=7039149&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0008"><label>8.</label><mixed-citation id="psp412224-cit-0008"><named-content content-type="citation-string">
+
+Imai, K.
+ &amp; 
+Takaoka, A.
+
+Comparing antibody and small‐molecule therapies for cancer. Nat. Rev. Cancer
+6, 714–727 (2006).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/nrc1913"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16929325"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Cancer&amp;title=Comparing antibody and small‐molecule therapies for cancer&amp;author=K. Imai&amp;author=A. Takaoka&amp;volume=6&amp;publication_year=2006&amp;pages=714-727&amp;pmid=16929325&amp;doi=10.1038/nrc1913&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0009"><label>9.</label><mixed-citation id="psp412224-cit-0009"><named-content content-type="citation-string">
+
+Baxter, L.T.
+, 
+Zhu, H.
+, 
+Mackensen, D.G.
+ &amp; 
+Jain, R.K.
+
+Physiologically based pharmacokinetic model for specific and nonspecific monoclonal antibodies and fragments in normal tissues and human tumor xenografts in nude mice. Cancer Res.
+54, 1517–1528 (1994).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8137258"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Res.&amp;title=Physiologically based pharmacokinetic model for specific and nonspecific monoclonal antibodies and fragments in normal tissues and human tumor xenografts in nude mice&amp;author=L.T. Baxter&amp;author=H. Zhu&amp;author=D.G. Mackensen&amp;author=R.K. Jain&amp;volume=54&amp;publication_year=1994&amp;pages=1517-1528&amp;pmid=8137258&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0010"><label>10.</label><mixed-citation id="psp412224-cit-0010"><named-content content-type="citation-string">
+
+Flessner, M.F.
+, 
+Lofthouse, J.
+ &amp; 
+Zakaria, el‐R.
+
+In vivo diffusion of immunoglobulin G in muscle: effects of binding, solute exclusion, and lymphatic removal. Am. J. Physiol.
+273(6 Pt 2), H2783–H2793 (1997).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1152/ajpheart.1997.273.6.H2783"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9435615"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am. J. Physiol.&amp;title=In vivo diffusion of immunoglobulin G in muscle: effects of binding, solute exclusion, and lymphatic removal&amp;author=M.F. Flessner&amp;author=J. Lofthouse&amp;author=el‐R. Zakaria&amp;volume=273&amp;publication_year=1997&amp;pages=H2783-H2793&amp;pmid=9435615&amp;doi=10.1152/ajpheart.1997.273.6.H2783&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0011"><label>11.</label><mixed-citation id="psp412224-cit-0011"><named-content content-type="citation-string">
+
+Covell, D.G.
+, 
+Barbet, J.
+, 
+Holton, O.D.
+, 
+Black, C.D.
+, 
+Parker, R.J.
+ &amp; 
+Weinstein, J.N.
+
+Pharmacokinetics of monoclonal immunoglobulin G1, F(ab')2, and Fab' in mice. Cancer Res.
+46, 3969–3978 (1986).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="3731067"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Res.&amp;title=Pharmacokinetics of monoclonal immunoglobulin G1, F(ab')2, and Fab' in mice&amp;author=D.G. Covell&amp;author=J. Barbet&amp;author=O.D. Holton&amp;author=C.D. Black&amp;author=R.J. Parker&amp;volume=46&amp;publication_year=1986&amp;pages=3969-3978&amp;pmid=3731067&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0012"><label>12.</label><mixed-citation id="psp412224-cit-0012"><named-content content-type="citation-string">
+
+Meibohm, B.
+
+Pharmacokinetics and pharmacodynamics of peptide and protein therapeutics
+Pharmaceutical Biotechnology: Fundamentals and Applications, <italic>4th Edition</italic> (eds. Crommelin D.J.A., Sindelar R.D. &amp; Meibohm B.) 101–132 (Springer, New York, NY, 2013).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Pharmaceutical Biotechnology: Fundamentals and Applications&amp;author=B. Meibohm&amp;publication_year=2013&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0013"><label>13.</label><mixed-citation id="psp412224-cit-0013"><named-content content-type="citation-string">
+
+Cooper, P.R.
+
+<italic>et al</italic>
+Efflux of monoclonal antibodies from rat brain by neonatal Fc receptor, FcRn. Brain Res.
+1534, 13–21 (2013).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.brainres.2013.08.035"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23978455"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Brain Res.&amp;title=Efflux of monoclonal antibodies from rat brain by neonatal Fc receptor, FcRn&amp;author=P.R. Cooper&amp;volume=1534&amp;publication_year=2013&amp;pages=13-21&amp;pmid=23978455&amp;doi=10.1016/j.brainres.2013.08.035&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0014"><label>14.</label><mixed-citation id="psp412224-cit-0014"><named-content content-type="citation-string">
+
+Dickinson, B.L.
+
+<italic>et al</italic>
+Bidirectional FcRn‐dependent IgG transport in a polarized human intestinal epithelial cell line. J. Clin. Invest.
+104, 903–911 (1999).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1172/JCI6968"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC408555"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10510331"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Clin. Invest.&amp;title=Bidirectional FcRn‐dependent IgG transport in a polarized human intestinal epithelial cell line&amp;author=B.L. Dickinson&amp;volume=104&amp;publication_year=1999&amp;pages=903-911&amp;pmid=10510331&amp;doi=10.1172/JCI6968&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0015"><label>15.</label><mixed-citation id="psp412224-cit-0015"><named-content content-type="citation-string">
+
+McCarthy, K.M.
+, 
+Yoong, Y.
+ &amp; 
+Simister, N.E.
+
+Bidirectional transcytosis of IgG by the rat neonatal Fc receptor expressed in a rat kidney cell line: a system to study protein transport across epithelia. J. Cell Sci.
+113(Pt 7), 1277–1285 (2000).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1242/jcs.113.7.1277"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10704378"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Cell Sci.&amp;title=Bidirectional transcytosis of IgG by the rat neonatal Fc receptor expressed in a rat kidney cell line: a system to study protein transport across epithelia&amp;author=K.M. McCarthy&amp;author=Y. Yoong&amp;author=N.E. Simister&amp;volume=113&amp;publication_year=2000&amp;pages=1277-1285&amp;pmid=10704378&amp;doi=10.1242/jcs.113.7.1277&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0016"><label>16.</label><mixed-citation id="psp412224-cit-0016"><named-content content-type="citation-string">
+
+Antohe, F.
+, 
+Rădulescu, L.
+, 
+Gafencu, A.
+, 
+Gheţie, V.
+ &amp; 
+Simionescu, M.
+
+Expression of functionally active FcRn and the differentiated bidirectional transport of IgG in human placental endothelial cells. Hum. Immunol.
+62, 93–105 (2001).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/s0198-8859(00)00244-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11182218"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Hum. Immunol.&amp;title=Expression of functionally active FcRn and the differentiated bidirectional transport of IgG in human placental endothelial cells&amp;author=F. Antohe&amp;author=L. Rădulescu&amp;author=A. Gafencu&amp;author=V. Gheţie&amp;author=M. Simionescu&amp;volume=62&amp;publication_year=2001&amp;pages=93-105&amp;pmid=11182218&amp;doi=10.1016/s0198-8859(00)00244-5&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0017"><label>17.</label><mixed-citation id="psp412224-cit-0017"><named-content content-type="citation-string">
+
+Claypool, S.M.
+
+<italic>et al</italic>
+Bidirectional transepithelial IgG transport by a strongly polarized basolateral membrane Fcgamma‐receptor. Mol. Biol. Cell
+15, 1746–1759 (2004).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1091/mbc.E03-11-0832"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC379272"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="14767057"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Biol. Cell&amp;title=Bidirectional transepithelial IgG transport by a strongly polarized basolateral membrane Fcgamma‐receptor&amp;author=S.M. Claypool&amp;volume=15&amp;publication_year=2004&amp;pages=1746-1759&amp;pmid=14767057&amp;doi=10.1091/mbc.E03-11-0832&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0018"><label>18.</label><mixed-citation id="psp412224-cit-0018"><named-content content-type="citation-string">
+
+Molthoff, C.F.
+, 
+Pinedo, H.M.
+, 
+Schlüper, H.M.
+, 
+Nijman, H.W.
+ &amp; 
+Boven, E.
+
+Comparison of the pharmacokinetics, biodistribution and dosimetry of monoclonal antibodies OC125, OV‐TL 3, and 139H2 as IgG and F(ab')2 fragments in experimental ovarian cancer. Br.J. Cancer
+65, 677–683 (1992).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/bjc.1992.144"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1977382"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="1586596"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br.J. Cancer&amp;title=Comparison of the pharmacokinetics, biodistribution and dosimetry of monoclonal antibodies OC125, OV‐TL 3, and 139H2 as IgG and F(ab')2 fragments in experimental ovarian cancer&amp;author=C.F. Molthoff&amp;author=H.M. Pinedo&amp;author=H.M. Schlüper&amp;author=H.W. Nijman&amp;author=E. Boven&amp;volume=65&amp;publication_year=1992&amp;pages=677-683&amp;pmid=1586596&amp;doi=10.1038/bjc.1992.144&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0019"><label>19.</label><mixed-citation id="psp412224-cit-0019"><named-content content-type="citation-string">
+
+Kingwell, K.
+
+Drug delivery: new targets for drug delivery across the BBB. Nat. Rev. Drug Discov.
+15, 84–85 (2016).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/nrd.2016.14"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26822834"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Drug Discov.&amp;title=Drug delivery: new targets for drug delivery across the BBB&amp;author=K. Kingwell&amp;volume=15&amp;publication_year=2016&amp;pages=84-85&amp;pmid=26822834&amp;doi=10.1038/nrd.2016.14&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0020"><label>20.</label><mixed-citation id="psp412224-cit-0020"><named-content content-type="citation-string">
+
+Kairemo, K.J.
+
+<italic>et al</italic>
+In vivo detection of intervertebral disk injury using a radiolabeled monoclonal antibody against keratan sulfate. J. Nucl. Med.
+42, 476–482 (2001).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11337526"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Nucl. Med.&amp;title=In vivo detection of intervertebral disk injury using a radiolabeled monoclonal antibody against keratan sulfate&amp;author=K.J. Kairemo&amp;volume=42&amp;publication_year=2001&amp;pages=476-482&amp;pmid=11337526&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0021"><label>21.</label><mixed-citation id="psp412224-cit-0021"><named-content content-type="citation-string">
+
+Danilov, S.M.
+
+<italic>et al</italic>
+Lung uptake of antibodies to endothelial antigens: key determinants of vascular immunotargeting. Am. J. Physiol. Lung Cell. Mol. Physiol.
+280, L1335–L1347 (2001).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1152/ajplung.2001.280.6.L1335"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11350815"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am. J. Physiol. Lung Cell. Mol. Physiol.&amp;title=Lung uptake of antibodies to endothelial antigens: key determinants of vascular immunotargeting&amp;author=S.M. Danilov&amp;volume=280&amp;publication_year=2001&amp;pages=L1335-L1347&amp;pmid=11350815&amp;doi=10.1152/ajplung.2001.280.6.L1335&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0022"><label>22.</label><mixed-citation id="psp412224-cit-0022"><named-content content-type="citation-string">
+
+Glassman, P.M.
+, 
+Abuqayyas, L.
+ &amp; 
+Balthasar, J.P.
+
+Assessments of antibody biodistribution. J. Clin. Pharmacol.
+55Suppl3, S29–S38 (2015).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/jcph.365"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25707961"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Clin. Pharmacol.&amp;title=Assessments of antibody biodistribution&amp;author=P.M. Glassman&amp;author=L. Abuqayyas&amp;author=J.P. Balthasar&amp;volume=55Suppl3&amp;publication_year=2015&amp;pages=S29-S38&amp;pmid=25707961&amp;doi=10.1002/jcph.365&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0023"><label>23.</label><mixed-citation id="psp412224-cit-0023"><named-content content-type="citation-string">
+
+Wiig, H.
+, 
+Kolmannskog, O.
+, 
+Tenstad, O.
+ &amp; 
+Bert, J.L.
+
+Effect of charge on interstitial distribution of albumin in rat dermis in vitro. J. Physiol.
+550(Pt 2), 505–514 (2003).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1113/jphysiol.2003.042713"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2343033"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="12766239"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Physiol.&amp;title=Effect of charge on interstitial distribution of albumin in rat dermis in vitro&amp;author=H. Wiig&amp;author=O. Kolmannskog&amp;author=O. Tenstad&amp;author=J.L. Bert&amp;volume=550&amp;issue=Pt 2&amp;publication_year=2003&amp;pages=505-514&amp;pmid=12766239&amp;doi=10.1113/jphysiol.2003.042713&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0024"><label>24.</label><mixed-citation id="psp412224-cit-0024"><named-content content-type="citation-string">
+
+Bell, D.R.
+, 
+Watson, P.D.
+ &amp; 
+Renkin, E.M.
+
+Exclusion of plasma proteins in interstitium of tissues from the dog hind paw. Am. J. Physiol.
+239, H532–H538 (1980).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1152/ajpheart.1980.239.4.H532"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="7425145"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am. J. Physiol.&amp;title=Exclusion of plasma proteins in interstitium of tissues from the dog hind paw&amp;author=D.R. Bell&amp;author=P.D. Watson&amp;author=E.M. Renkin&amp;volume=239&amp;publication_year=1980&amp;pages=H532-H538&amp;pmid=7425145&amp;doi=10.1152/ajpheart.1980.239.4.H532&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0025"><label>25.</label><mixed-citation id="psp412224-cit-0025"><named-content content-type="citation-string">
+
+Mullins, R.J.
+ &amp; 
+Bell, D.R.
+
+Changes in interstitial volume and masses of albumin and IgG in rabbit skin and skeletal muscle after saline volume loading. Circ. Res.
+51, 305–313 (1982).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1161/01.res.51.3.305"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="7116580"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Circ. Res.&amp;title=Changes in interstitial volume and masses of albumin and IgG in rabbit skin and skeletal muscle after saline volume loading&amp;author=R.J. Mullins&amp;author=D.R. Bell&amp;volume=51&amp;publication_year=1982&amp;pages=305-313&amp;pmid=7116580&amp;doi=10.1161/01.res.51.3.305&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0026"><label>26.</label><mixed-citation id="psp412224-cit-0026"><named-content content-type="citation-string">
+
+Cao, Y.
+, 
+Balthasar, J.P.
+ &amp; 
+Jusko, W.J.
+
+Second‐generation minimal physiologically‐based pharmacokinetic model for monoclonal antibodies. J. Pharmacokinet. Pharmacodyn.
+40, 597–607 (2013).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s10928-013-9332-2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3836053"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23996115"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Pharmacokinet. Pharmacodyn.&amp;title=Second‐generation minimal physiologically‐based pharmacokinetic model for monoclonal antibodies&amp;author=Y. Cao&amp;author=J.P. Balthasar&amp;author=W.J. Jusko&amp;volume=40&amp;publication_year=2013&amp;pages=597-607&amp;pmid=23996115&amp;doi=10.1007/s10928-013-9332-2&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0027"><label>27.</label><mixed-citation id="psp412224-cit-0027"><named-content content-type="citation-string">
+
+Berdeja, J.
+
+<italic>et al</italic>
+Pharmacokinetics and safety of elotuzumab combined with lenalidomide and dexamethasone in patients with multiple myeloma and various levels of renal impairment: results of a phase ib study. Clin. Lymphoma Myeloma Leuk.
+16, 129–138 (2016).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.clml.2015.12.007"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6857171"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26795075"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Lymphoma Myeloma Leuk.&amp;title=Pharmacokinetics and safety of elotuzumab combined with lenalidomide and dexamethasone in patients with multiple myeloma and various levels of renal impairment: results of a phase ib study&amp;author=J. Berdeja&amp;volume=16&amp;publication_year=2016&amp;pages=129-138&amp;pmid=26795075&amp;doi=10.1016/j.clml.2015.12.007&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0028"><label>28.</label><mixed-citation id="psp412224-cit-0028"><named-content content-type="citation-string">
+
+Waldmann, T.A.
+, 
+Strober, W.
+ &amp; 
+Mogielnicki, R.P.
+
+The renal handling of low molecular weight proteins. II. Disorders of serum protein catabolism in patients with tubular proteinuria, the nephrotic syndrome, or uremia. J. Clin. Invest.
+51, 2162–2174 (1972).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1172/JCI107023"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC292373"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="5054468"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Clin. Invest.&amp;title=The renal handling of low molecular weight proteins. II. Disorders of serum protein catabolism in patients with tubular proteinuria, the nephrotic syndrome, or uremia&amp;author=T.A. Waldmann&amp;author=W. Strober&amp;author=R.P. Mogielnicki&amp;volume=51&amp;publication_year=1972&amp;pages=2162-2174&amp;pmid=5054468&amp;doi=10.1172/JCI107023&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0029"><label>29.</label><mixed-citation id="psp412224-cit-0029"><named-content content-type="citation-string">
+
+Waldmann, T.A.
+ &amp; 
+Strober, W.
+
+Metabolism of immunoglobulins. Prog. Allergy
+13, 1–110 (1969).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1159/000385919"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="4186070"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Prog. Allergy&amp;title=Metabolism of immunoglobulins&amp;author=T.A. Waldmann&amp;author=W. Strober&amp;volume=13&amp;publication_year=1969&amp;pages=1-110&amp;pmid=4186070&amp;doi=10.1159/000385919&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0030"><label>30.</label><mixed-citation id="psp412224-cit-0030"><named-content content-type="citation-string">
+
+Mager, D.E.
+ &amp; 
+Jusko, W.J.
+
+General pharmacokinetic model for drugs exhibiting target‐mediated drug disposition. J. Pharmacokinet. Pharmacodyn.
+28, 507–532 (2001).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1023/a:1014414520282"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11999290"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Pharmacokinet. Pharmacodyn.&amp;title=General pharmacokinetic model for drugs exhibiting target‐mediated drug disposition&amp;author=D.E. Mager&amp;author=W.J. Jusko&amp;volume=28&amp;publication_year=2001&amp;pages=507-532&amp;pmid=11999290&amp;doi=10.1023/a:1014414520282&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0031"><label>31.</label><mixed-citation id="psp412224-cit-0031"><named-content content-type="citation-string">
+
+Gessner, J.E.
+, 
+Heiken, H.
+, 
+Tamm, A.
+ &amp; 
+Schmidt, R.E.
+
+The IgG Fc receptor family. Ann. Hematol.
+76, 231–248 (1998).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s002770050396"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9692811"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Ann. Hematol.&amp;title=The IgG Fc receptor family&amp;author=J.E. Gessner&amp;author=H. Heiken&amp;author=A. Tamm&amp;author=R.E. Schmidt&amp;volume=76&amp;publication_year=1998&amp;pages=231-248&amp;pmid=9692811&amp;doi=10.1007/s002770050396&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0032"><label>32.</label><mixed-citation id="psp412224-cit-0032"><named-content content-type="citation-string">
+
+Nimmerjahn, F.
+ &amp; 
+Ravetch, J.V.
+
+Fcgamma receptors as regulators of immune responses. Nat. Rev. Immunol.
+8, 34–47 (2008).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/nri2206"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18064051"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Immunol.&amp;title=Fcgamma receptors as regulators of immune responses&amp;author=F. Nimmerjahn&amp;author=J.V. Ravetch&amp;volume=8&amp;publication_year=2008&amp;pages=34-47&amp;pmid=18064051&amp;doi=10.1038/nri2206&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0033"><label>33.</label><mixed-citation id="psp412224-cit-0033"><named-content content-type="citation-string">
+
+Abuqayyas, L.
+ &amp; 
+Balthasar, J.P.
+
+Application of knockout mouse models to investigate the influence of FcγR on the tissue distribution and elimination of 8C2, a murine IgG1 monoclonal antibody. Int. J. Pharm.
+439, 8–16 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ijpharm.2012.09.042"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23018115"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. J. Pharm.&amp;title=Application of knockout mouse models to investigate the influence of FcγR on the tissue distribution and elimination of 8C2, a murine IgG1 monoclonal antibody&amp;author=L. Abuqayyas&amp;author=J.P. Balthasar&amp;volume=439&amp;publication_year=2012&amp;pages=8-16&amp;pmid=23018115&amp;doi=10.1016/j.ijpharm.2012.09.042&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0034"><label>34.</label><mixed-citation id="psp412224-cit-0034"><named-content content-type="citation-string">
+
+Gibiansky, L.
+, 
+Passey, C.
+, 
+Roy, A.
+, 
+Bello, A.
+ &amp; 
+Gupta, M.
+
+Model‐based pharmacokinetic analysis of elotuzumab in patients with relapsed/refractory multiple myeloma. J. Pharmacokinet. Pharmacodyn.
+43, 243–257 (2016).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s10928-016-9469-x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26993283"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Pharmacokinet. Pharmacodyn.&amp;title=Model‐based pharmacokinetic analysis of elotuzumab in patients with relapsed/refractory multiple myeloma&amp;author=L. Gibiansky&amp;author=C. Passey&amp;author=A. Roy&amp;author=A. Bello&amp;author=M. Gupta&amp;volume=43&amp;publication_year=2016&amp;pages=243-257&amp;pmid=26993283&amp;doi=10.1007/s10928-016-9469-x&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0035"><label>35.</label><mixed-citation id="psp412224-cit-0035"><named-content content-type="citation-string">
+
+Wright, A.
+, 
+Sato, Y.
+, 
+Okada, T.
+, 
+Chang, K.
+, 
+Endo, T.
+ &amp; 
+Morrison, S.
+
+In vivo trafficking and catabolism of IgG1 antibodies with Fc associated carbohydrates of differing structure. Glycobiology
+10, 1347–1355 (2000).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/glycob/10.12.1347"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11159927"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Glycobiology&amp;title=In vivo trafficking and catabolism of IgG1 antibodies with Fc associated carbohydrates of differing structure&amp;author=A. Wright&amp;author=Y. Sato&amp;author=T. Okada&amp;author=K. Chang&amp;author=T. Endo&amp;volume=10&amp;publication_year=2000&amp;pages=1347-1355&amp;pmid=11159927&amp;doi=10.1093/glycob/10.12.1347&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0036"><label>36.</label><mixed-citation id="psp412224-cit-0036"><named-content content-type="citation-string">
+
+Brambell, F.W.
+, 
+Hemmings, W.A.
+ &amp; 
+Morris, I.G. A
+
+theoretical model of gamma‐globulin catabolism. Nature
+203, 1352–1354 (1964).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/2031352a0"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="14207307"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nature&amp;title=theoretical model of gamma‐globulin catabolism&amp;author=F.W. Brambell&amp;author=W.A. Hemmings&amp;author=I.G. A Morris&amp;volume=203&amp;publication_year=1964&amp;pages=1352-1354&amp;pmid=14207307&amp;doi=10.1038/2031352a0&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0037"><label>37.</label><mixed-citation id="psp412224-cit-0037"><named-content content-type="citation-string">
+
+Roopenian, D.C.
+ &amp; 
+Akilesh, S.
+
+FcRn: the neonatal Fc receptor comes of age. Nat. Rev. Immunol.
+7, 715–725 (2007).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/nri2155"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17703228"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Immunol.&amp;title=FcRn: the neonatal Fc receptor comes of age&amp;author=D.C. Roopenian&amp;author=S. Akilesh&amp;volume=7&amp;publication_year=2007&amp;pages=715-725&amp;pmid=17703228&amp;doi=10.1038/nri2155&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0038"><label>38.</label><mixed-citation id="psp412224-cit-0038"><named-content content-type="citation-string">
+
+Kim, J.
+, 
+Hayton, W.L.
+, 
+Robinson, J.M.
+ &amp; 
+Anderson, C.L.
+
+Kinetics of FcRn‐mediated recycling of IgG and albumin in human: pathophysiology and therapeutic implications using a simplified mechanism‐based model. Clin. Immunol.
+122, 146–155 (2007).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.clim.2006.09.001"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2791364"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17046328"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Immunol.&amp;title=Kinetics of FcRn‐mediated recycling of IgG and albumin in human: pathophysiology and therapeutic implications using a simplified mechanism‐based model&amp;author=J. Kim&amp;author=W.L. Hayton&amp;author=J.M. Robinson&amp;author=C.L. Anderson&amp;volume=122&amp;publication_year=2007&amp;pages=146-155&amp;pmid=17046328&amp;doi=10.1016/j.clim.2006.09.001&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0039"><label>39.</label><mixed-citation id="psp412224-cit-0039"><named-content content-type="citation-string">
+
+Kontermann, R.E.
+
+Strategies for extended serum half‐life of protein therapeutics. Curr. Opin. Biotechnol.
+22, 868–876 (2011).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.copbio.2011.06.012"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21862310"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Curr. Opin. Biotechnol.&amp;title=Strategies for extended serum half‐life of protein therapeutics&amp;author=R.E. Kontermann&amp;volume=22&amp;publication_year=2011&amp;pages=868-876&amp;pmid=21862310&amp;doi=10.1016/j.copbio.2011.06.012&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0040"><label>40.</label><mixed-citation id="psp412224-cit-0040"><named-content content-type="citation-string">
+
+Junghans, R.P.
+ &amp; 
+Anderson, C.L.
+
+The protection receptor for IgG catabolism is the beta2‐microglobulin‐containing neonatal intestinal transport receptor. Proc. Natl. Acad. Sci. USA
+93, 5512–5516 (1996).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1073/pnas.93.11.5512"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC39277"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8643606"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Proc. Natl. Acad. Sci. USA&amp;title=The protection receptor for IgG catabolism is the beta2‐microglobulin‐containing neonatal intestinal transport receptor&amp;author=R.P. Junghans&amp;author=C.L. Anderson&amp;volume=93&amp;publication_year=1996&amp;pages=5512-5516&amp;pmid=8643606&amp;doi=10.1073/pnas.93.11.5512&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0041"><label>41.</label><mixed-citation id="psp412224-cit-0041"><named-content content-type="citation-string">
+
+Deng, R.
+
+<italic>et al</italic>
+Pharmacokinetics of humanized monoclonal anti‐tumor necrosis factor‐{alpha} antibody and its neonatal Fc receptor variants in mice and cynomolgus monkeys. Drug Metab. Dispos.
+38, 600–605 (2010).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1124/dmd.109.031310"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20071453"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Drug Metab. Dispos.&amp;title=Pharmacokinetics of humanized monoclonal anti‐tumor necrosis factor‐{alpha} antibody and its neonatal Fc receptor variants in mice and cynomolgus monkeys&amp;author=R. Deng&amp;volume=38&amp;publication_year=2010&amp;pages=600-605&amp;pmid=20071453&amp;doi=10.1124/dmd.109.031310&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0042"><label>42.</label><mixed-citation id="psp412224-cit-0042"><named-content content-type="citation-string">
+
+Jin, F.
+ &amp; 
+Balthasar, J.P.
+
+Mechanisms of intravenous immunoglobulin action in immune thrombocytopenic purpura. Hum. Immunol.
+66, 403–410 (2005).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.humimm.2005.01.029"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15866704"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Hum. Immunol.&amp;title=Mechanisms of intravenous immunoglobulin action in immune thrombocytopenic purpura&amp;author=F. Jin&amp;author=J.P. Balthasar&amp;volume=66&amp;publication_year=2005&amp;pages=403-410&amp;pmid=15866704&amp;doi=10.1016/j.humimm.2005.01.029&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0043"><label>43.</label><mixed-citation id="psp412224-cit-0043"><named-content content-type="citation-string">
+
+Morell, A.
+, 
+Terry, W.D.
+ &amp; 
+Waldmann, T.A.
+
+Metabolic properties of IgG subclasses in man. J. Clin. Invest.
+49, 673–680 (1970).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1172/JCI106279"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC322522"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="5443170"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Clin. Invest.&amp;title=Metabolic properties of IgG subclasses in man&amp;author=A. Morell&amp;author=W.D. Terry&amp;author=T.A. Waldmann&amp;volume=49&amp;publication_year=1970&amp;pages=673-680&amp;pmid=5443170&amp;doi=10.1172/JCI106279&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0044"><label>44.</label><mixed-citation id="psp412224-cit-0044"><named-content content-type="citation-string">
+
+Zhao, L.
+, 
+Ji, P.
+, 
+Li, Z.
+, 
+Roy, P.
+ &amp; 
+Sahajwalla, C.G.
+
+The antibody drug absorption following subcutaneous or intramuscular administration and its mathematical description by coupling physiologically based absorption process with the conventional compartment pharmacokinetic model. J. Clin. Pharmacol.
+53, 314–325 (2013).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/jcph.4"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23426855"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Clin. Pharmacol.&amp;title=The antibody drug absorption following subcutaneous or intramuscular administration and its mathematical description by coupling physiologically based absorption process with the conventional compartment pharmacokinetic model&amp;author=L. Zhao&amp;author=P. Ji&amp;author=Z. Li&amp;author=P. Roy&amp;author=C.G. Sahajwalla&amp;volume=53&amp;publication_year=2013&amp;pages=314-325&amp;pmid=23426855&amp;doi=10.1002/jcph.4&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0045"><label>45.</label><mixed-citation id="psp412224-cit-0045"><named-content content-type="citation-string">
+
+Supersaxo, A.
+, 
+Hein, W.
+, 
+Gallati, H.
+ &amp; 
+Steffen, H.
+ Recombinant human interferon alpha‐ 2a: delivery to lymphoid tissue by selected modes of application. Pharm. Res.
+5, 472–476 (1988).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1023/a:1015957022073"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="3244653"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Pharm. Res.&amp;author=A. Supersaxo&amp;author=W. Hein&amp;author=H. Gallati&amp;author=H. Steffen&amp;volume=5&amp;publication_year=1988&amp;pages=472-476&amp;pmid=3244653&amp;doi=10.1023/a:1015957022073&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0046"><label>46.</label><mixed-citation id="psp412224-cit-0046"><named-content content-type="citation-string">
+
+McDonald, T.A.
+, 
+Zepeda, M.L.
+, 
+Tomlinson, M.J.
+, 
+Bee, W.H.
+ &amp; 
+Ivens, I.A.
+
+Subcutaneous administration of biotherapeutics: current experience in animal models. Curr. Opin. Mol. Ther.
+12, 461–470 (2010).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20677097"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Curr. Opin. Mol. Ther.&amp;title=Subcutaneous administration of biotherapeutics: current experience in animal models&amp;author=T.A. McDonald&amp;author=M.L. Zepeda&amp;author=M.J. Tomlinson&amp;author=W.H. Bee&amp;author=I.A. Ivens&amp;volume=12&amp;publication_year=2010&amp;pages=461-470&amp;pmid=20677097&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0047"><label>47.</label><mixed-citation id="psp412224-cit-0047"><named-content content-type="citation-string">
+
+Kota, J.
+, 
+Machavaram, K.K.
+, 
+McLennan, D.N.
+, 
+Edwards, G.A.
+, 
+Porter, C.J.
+ &amp; 
+Charman, S.A.
+
+Lymphatic absorption of subcutaneously administered proteins: influence of different injection sites on the absorption of darbepoetin alfa using a sheep model. Drug Metab. Dispos.
+35, 2211–2217 (2007).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1124/dmd.107.015669"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17875672"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Drug Metab. Dispos.&amp;title=Lymphatic absorption of subcutaneously administered proteins: influence of different injection sites on the absorption of darbepoetin alfa using a sheep model&amp;author=J. Kota&amp;author=K.K. Machavaram&amp;author=D.N. McLennan&amp;author=G.A. Edwards&amp;author=C.J. Porter&amp;volume=35&amp;publication_year=2007&amp;pages=2211-2217&amp;pmid=17875672&amp;doi=10.1124/dmd.107.015669&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0048"><label>48.</label><mixed-citation id="psp412224-cit-0048"><named-content content-type="citation-string">
+
+Kagan, L.
+, 
+Turner, M.R.
+, 
+Balu‐Iyer, S.V.
+ &amp; 
+Mager, D.E.
+
+Subcutaneous absorption of monoclonal antibodies: role of dose, site of injection, and injection volume on rituximab pharmacokinetics in rats. <italic>Pharm</italic>
+. Res.
+29, 490–499 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s11095-011-0578-3"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21887597"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Res.&amp;title=Subcutaneous absorption of monoclonal antibodies: role of dose, site of injection, and injection volume on rituximab pharmacokinetics in rats. Pharm&amp;author=L. Kagan&amp;author=M.R. Turner&amp;author=S.V. Balu‐Iyer&amp;author=D.E. Mager&amp;volume=29&amp;publication_year=2012&amp;pages=490-499&amp;pmid=21887597&amp;doi=10.1007/s11095-011-0578-3&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0049"><label>49.</label><mixed-citation id="psp412224-cit-0049"><named-content content-type="citation-string">
+
+Reddy, S.T.
+, 
+Berk, D.A.
+, 
+Jain, R.K.
+ &amp; 
+Swartz, M.
+
+A. A sensitive in vivo model for quantifying interstitial convective transport of injected macromolecules and nanoparticles. J. Appl. Physiol. (1985)
+101, 1162–1169 (2006).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1152/japplphysiol.00389.2006"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16763103"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Appl. Physiol. (1985)&amp;title=A. A sensitive in vivo model for quantifying interstitial convective transport of injected macromolecules and nanoparticles&amp;author=S.T. Reddy&amp;author=D.A. Berk&amp;author=R.K. Jain&amp;author=M. Swartz&amp;volume=101&amp;publication_year=2006&amp;pages=1162-1169&amp;pmid=16763103&amp;doi=10.1152/japplphysiol.00389.2006&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0050"><label>50.</label><mixed-citation id="psp412224-cit-0050"><named-content content-type="citation-string">
+
+Richter, W.F.
+, 
+Bhansali, S.G.
+ &amp; 
+Morris, M.E.
+
+Mechanistic determinants of biotherapeutics absorption following SC administration. AAPS J.
+14, 559–570 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1208/s12248-012-9367-0"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3385825"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22619041"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=AAPS J.&amp;title=Mechanistic determinants of biotherapeutics absorption following SC administration&amp;author=W.F. Richter&amp;author=S.G. Bhansali&amp;author=M.E. Morris&amp;volume=14&amp;publication_year=2012&amp;pages=559-570&amp;pmid=22619041&amp;doi=10.1208/s12248-012-9367-0&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0051"><label>51.</label><mixed-citation id="psp412224-cit-0051"><named-content content-type="citation-string">
+
+Ober, R.J.
+, 
+Radu, C.G.
+, 
+Ghetie, V.
+ &amp; 
+Ward, E.
+S. Differences in promiscuity for antibody‐FcRn interactions across species: implications for therapeutic antibodies. Int. Immunol.
+13, 1551–1559 (2001).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/intimm/13.12.1551"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11717196"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int. Immunol.&amp;title=Differences in promiscuity for antibody‐FcRn interactions across species: implications for therapeutic antibodies&amp;author=R.J. Ober&amp;author=C.G. Radu&amp;author=V. Ghetie&amp;author=E. Ward&amp;volume=13&amp;publication_year=2001&amp;pages=1551-1559&amp;pmid=11717196&amp;doi=10.1093/intimm/13.12.1551&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0052"><label>52.</label><mixed-citation id="psp412224-cit-0052"><named-content content-type="citation-string">
+
+Swartz, M.A.
+
+The physiology of the lymphatic system. Adv. Drug Deliv. Rev.
+50, 3–20 (2001).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/s0169-409x(01)00150-8"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11489331"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adv. Drug Deliv. Rev.&amp;title=The physiology of the lymphatic system&amp;author=M.A. Swartz&amp;volume=50&amp;publication_year=2001&amp;pages=3-20&amp;pmid=11489331&amp;doi=10.1016/s0169-409x(01)00150-8&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0053"><label>53.</label><mixed-citation id="psp412224-cit-0053"><named-content content-type="citation-string">
+
+Gibney, M.A.
+, 
+Arce, C.H.
+, 
+Byron, K.J.
+ &amp; 
+Hirsch, L.J.
+
+Skin and subcutaneous adipose layer thickness in adults with diabetes at sites used for insulin injections: implications for needle length recommendations. Curr. Med. Res. Opin.
+26, 1519–1530 (2010).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1185/03007995.2010.481203"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20429833"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Curr. Med. Res. Opin.&amp;title=Skin and subcutaneous adipose layer thickness in adults with diabetes at sites used for insulin injections: implications for needle length recommendations&amp;author=M.A. Gibney&amp;author=C.H. Arce&amp;author=K.J. Byron&amp;author=L.J. Hirsch&amp;volume=26&amp;publication_year=2010&amp;pages=1519-1530&amp;pmid=20429833&amp;doi=10.1185/03007995.2010.481203&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0054"><label>54.</label><mixed-citation id="psp412224-cit-0054"><named-content content-type="citation-string">
+
+Olszewski, W.
+, 
+Engeset, A.
+, 
+Jaeger, P.M.
+, 
+Sokolowski, J.
+ &amp; 
+Theodorsen, L.
+
+Flow and composition of leg lymph in normal men during venous stasis, muscular activity and local hyperthermia. Acta Physiol. Scand.
+99, 149–155 (1977).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/j.1748-1716.1977.tb10365.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="842371"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Acta Physiol. Scand.&amp;title=Flow and composition of leg lymph in normal men during venous stasis, muscular activity and local hyperthermia&amp;author=W. Olszewski&amp;author=A. Engeset&amp;author=P.M. Jaeger&amp;author=J. Sokolowski&amp;author=L. Theodorsen&amp;volume=99&amp;publication_year=1977&amp;pages=149-155&amp;pmid=842371&amp;doi=10.1111/j.1748-1716.1977.tb10365.x&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0055"><label>55.</label><mixed-citation id="psp412224-cit-0055"><named-content content-type="citation-string">
+
+Keizer, R.J.
+, 
+Huitema, A.D.
+, 
+Schellens, J.H.
+ &amp; 
+Beijnen, J.H.
+
+Clinical pharmacokinetics of therapeutic monoclonal antibodies. Clin. Pharmacokinet. 49, 493–507 (2010).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2165/11531280-000000000-00000"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20608753"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Pharmacokinet&amp;title=Clinical pharmacokinetics of therapeutic monoclonal antibodies&amp;author=R.J. Keizer&amp;author=A.D. Huitema&amp;author=J.H. Schellens&amp;author=J.H. Beijnen&amp;volume=49&amp;publication_year=2010&amp;pages=493-507&amp;pmid=20608753&amp;doi=10.2165/11531280-000000000-00000&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0056"><label>56.</label><mixed-citation id="psp412224-cit-0056"><named-content content-type="citation-string">
+
+Gill, K.L.
+, 
+Gardner, I.
+, 
+Li, L.
+ &amp; 
+Jamei, M.
+
+A bottom‐up whole‐body physiologically based pharmacokinetic model to mechanistically predict tissue distribution and the rate of subcutaneous absorption of therapeutic proteins. AAPS J.
+18, 156–170 (2016).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1208/s12248-015-9819-4"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6890583"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26408308"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=AAPS J.&amp;title=A bottom‐up whole‐body physiologically based pharmacokinetic model to mechanistically predict tissue distribution and the rate of subcutaneous absorption of therapeutic proteins&amp;author=K.L. Gill&amp;author=I. Gardner&amp;author=L. Li&amp;author=M. Jamei&amp;volume=18&amp;publication_year=2016&amp;pages=156-170&amp;pmid=26408308&amp;doi=10.1208/s12248-015-9819-4&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0057"><label>57.</label><mixed-citation id="psp412224-cit-0057"><named-content content-type="citation-string">
+
+Boswell, C.A.
+, 
+Tesar, D.B.
+, 
+Mukhyala, K.
+, 
+Theil, F.P.
+, 
+Fielder, P.J.
+ &amp; 
+Khawli, L.A.
+
+Effects of charge on antibody tissue distribution and pharmacokinetics. Bioconjug. Chem.
+21, 2153–2163 (2010).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/bc100261d"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21053952"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Bioconjug. Chem.&amp;title=Effects of charge on antibody tissue distribution and pharmacokinetics&amp;author=C.A. Boswell&amp;author=D.B. Tesar&amp;author=K. Mukhyala&amp;author=F.P. Theil&amp;author=P.J. Fielder&amp;volume=21&amp;publication_year=2010&amp;pages=2153-2163&amp;pmid=21053952&amp;doi=10.1021/bc100261d&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0058"><label>58.</label><mixed-citation id="psp412224-cit-0058"><named-content content-type="citation-string">
+
+Hervé, F.
+, 
+Ghinea, N.
+ &amp; 
+Scherrmann, J.M.
+
+CNS delivery via adsorptive transcytosis. AAPS J.
+10, 455–472 (2008).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1208/s12248-008-9055-2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2761699"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18726697"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=AAPS J.&amp;title=CNS delivery via adsorptive transcytosis&amp;author=F. Hervé&amp;author=N. Ghinea&amp;author=J.M. Scherrmann&amp;volume=10&amp;publication_year=2008&amp;pages=455-472&amp;pmid=18726697&amp;doi=10.1208/s12248-008-9055-2&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0059"><label>59.</label><mixed-citation id="psp412224-cit-0059"><named-content content-type="citation-string">
+
+Zheng, Y.
+
+<italic>et al</italic>
+Minipig as a potential translatable model for monoclonal antibody pharmacokinetics after intravenous and subcutaneous administration. MAbs
+4, 243–255 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.4161/mabs.4.2.19387"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3361660"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22453096"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=MAbs&amp;title=Minipig as a potential translatable model for monoclonal antibody pharmacokinetics after intravenous and subcutaneous administration&amp;author=Y. Zheng&amp;volume=4&amp;publication_year=2012&amp;pages=243-255&amp;pmid=22453096&amp;doi=10.4161/mabs.4.2.19387&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0060"><label>60.</label><mixed-citation id="psp412224-cit-0060"><named-content content-type="citation-string">
+
+Kobayashi, H.
+
+<italic>et al</italic>
+The pharmacokinetic characteristics of glycolated humanized anti‐Tac Fabs are determined by their isoelectric points. Cancer Res.
+59, 422–430 (1999).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9927057"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Res.&amp;title=The pharmacokinetic characteristics of glycolated humanized anti‐Tac Fabs are determined by their isoelectric points&amp;author=H. Kobayashi&amp;volume=59&amp;publication_year=1999&amp;pages=422-430&amp;pmid=9927057&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0061"><label>61.</label><mixed-citation id="psp412224-cit-0061"><named-content content-type="citation-string">
+
+Khawli, L.A.
+
+<italic>et al</italic>
+Charge variants in IgG1: isolation, characterization, in vitro binding properties and pharmacokinetics in rats. MAbs
+2, 613–624 (2010).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.4161/mabs.2.6.13333"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3011216"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20818176"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=MAbs&amp;title=Charge variants in IgG1: isolation, characterization, in vitro binding properties and pharmacokinetics in rats&amp;author=L.A. Khawli&amp;volume=2&amp;publication_year=2010&amp;pages=613-624&amp;pmid=20818176&amp;doi=10.4161/mabs.2.6.13333&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0062"><label>62.</label><mixed-citation id="psp412224-cit-0062"><named-content content-type="citation-string">
+
+Jiang, X.R.
+
+<italic>et al</italic>
+Advances in the assessment and control of the effector functions of therapeutic antibodies. Nat. Rev. Drug Discov.
+10, 101–111 (2011).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/nrd3365"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21283105"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nat. Rev. Drug Discov.&amp;title=Advances in the assessment and control of the effector functions of therapeutic antibodies&amp;author=X.R. Jiang&amp;volume=10&amp;publication_year=2011&amp;pages=101-111&amp;pmid=21283105&amp;doi=10.1038/nrd3365&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0063"><label>63.</label><mixed-citation id="psp412224-cit-0063"><named-content content-type="citation-string">
+
+Higel, F.
+, 
+Seidl, A.
+, 
+Sorgel, F.
+ &amp; 
+Friess, W.
+
+N‐glycosylation heterogeneity and the influence on structure, function and pharmacokinetics of monoclonal antibodies and Fc fusion proteins. Eur. J. Pharm. Biopharm.
+100, 94–100 (2016).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ejpb.2016.01.005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26775146"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur. J. Pharm. Biopharm.&amp;title=N‐glycosylation heterogeneity and the influence on structure, function and pharmacokinetics of monoclonal antibodies and Fc fusion proteins&amp;author=F. Higel&amp;author=A. Seidl&amp;author=F. Sorgel&amp;author=W. Friess&amp;volume=100&amp;publication_year=2016&amp;pages=94-100&amp;pmid=26775146&amp;doi=10.1016/j.ejpb.2016.01.005&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0064"><label>64.</label><mixed-citation id="psp412224-cit-0064"><named-content content-type="citation-string">
+
+Reusch, D.
+ &amp; 
+Tejada, M.L.
+
+Fc glycans of therapeutic antibodies as critical quality attributes. Glycobiology
+25, 1325–1334 (2015).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/glycob/cwv065"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4634315"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26263923"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Glycobiology&amp;title=Fc glycans of therapeutic antibodies as critical quality attributes&amp;author=D. Reusch&amp;author=M.L. Tejada&amp;volume=25&amp;publication_year=2015&amp;pages=1325-1334&amp;pmid=26263923&amp;doi=10.1093/glycob/cwv065&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0065"><label>65.</label><mixed-citation id="psp412224-cit-0065"><named-content content-type="citation-string">
+
+Kaneko, Y.
+, 
+Nimmerjahn, F.
+ &amp; 
+Ravetch, J.V.
+
+Anti‐inflammatory activity of immunoglobulin G resulting from Fc sialylation. Science
+313, 670–673 (2006).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1126/science.1129594"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16888140"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Science&amp;title=Anti‐inflammatory activity of immunoglobulin G resulting from Fc sialylation&amp;author=Y. Kaneko&amp;author=F. Nimmerjahn&amp;author=J.V. Ravetch&amp;volume=313&amp;publication_year=2006&amp;pages=670-673&amp;pmid=16888140&amp;doi=10.1126/science.1129594&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0066"><label>66.</label><mixed-citation id="psp412224-cit-0066"><named-content content-type="citation-string">
+
+Junttila, T.T.
+
+<italic>et al</italic>
+Superior in vivo efficacy of afucosylated trastuzumab in the treatment of HER2‐amplified breast cancer. Cancer Res.
+70, 4481–4489 (2010).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/0008-5472.CAN-09-3704"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20484044"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Res.&amp;title=Superior in vivo efficacy of afucosylated trastuzumab in the treatment of HER2‐amplified breast cancer&amp;author=T.T. Junttila&amp;volume=70&amp;publication_year=2010&amp;pages=4481-4489&amp;pmid=20484044&amp;doi=10.1158/0008-5472.CAN-09-3704&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0067"><label>67.</label><mixed-citation id="psp412224-cit-0067"><named-content content-type="citation-string">
+
+Yamane‐Ohnuki, N.
+ &amp; 
+Satoh, M.
+
+Production of therapeutic antibodies with controlled fucosylation. MAbs
+1, 230–236 (2009).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.4161/mabs.1.3.8328"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2726589"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20065644"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=MAbs&amp;title=Production of therapeutic antibodies with controlled fucosylation&amp;author=N. Yamane‐Ohnuki&amp;author=M. Satoh&amp;volume=1&amp;publication_year=2009&amp;pages=230-236&amp;pmid=20065644&amp;doi=10.4161/mabs.1.3.8328&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0068"><label>68.</label><mixed-citation id="psp412224-cit-0068"><named-content content-type="citation-string">
+
+Newkirk, M.M.
+, 
+Novick, J.
+, 
+Stevenson, M.M.
+, 
+Fournier, M.J.
+ &amp; 
+Apostolakos, P.
+
+Differential clearance of glycoforms of IgG in normal and autoimmune‐prone mice. Clin. Exp. Immunol.
+106, 259–264 (1996).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1046/j.1365-2249.1996.d01-847.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2200602"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8918571"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Exp. Immunol.&amp;title=Differential clearance of glycoforms of IgG in normal and autoimmune‐prone mice&amp;author=M.M. Newkirk&amp;author=J. Novick&amp;author=M.M. Stevenson&amp;author=M.J. Fournier&amp;author=P. Apostolakos&amp;volume=106&amp;publication_year=1996&amp;pages=259-264&amp;pmid=8918571&amp;doi=10.1046/j.1365-2249.1996.d01-847.x&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0069"><label>69.</label><mixed-citation id="psp412224-cit-0069"><named-content content-type="citation-string">
+
+Jones, A.J.
+
+<italic>et al</italic>
+Selective clearance of glycoforms of a complex glycoprotein pharmaceutical caused by terminal N‐acetylglucosamine is similar in humans and cynomolgus monkeys. Glycobiology
+17, 529–540 (2007).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/glycob/cwm017"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17331977"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Glycobiology&amp;title=Selective clearance of glycoforms of a complex glycoprotein pharmaceutical caused by terminal N‐acetylglucosamine is similar in humans and cynomolgus monkeys&amp;author=A.J. Jones&amp;volume=17&amp;publication_year=2007&amp;pages=529-540&amp;pmid=17331977&amp;doi=10.1093/glycob/cwm017&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0070"><label>70.</label><mixed-citation id="psp412224-cit-0070"><named-content content-type="citation-string">
+
+Keck, R.
+
+<italic>et al</italic>
+Characterization of a complex glycoprotein whose variable metabolic clearance in humans is dependent on terminal N‐acetylglucosamine content. Biologicals
+36, 49–60 (2008).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.biologicals.2007.05.004"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17728143"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biologicals&amp;title=Characterization of a complex glycoprotein whose variable metabolic clearance in humans is dependent on terminal N‐acetylglucosamine content&amp;author=R. Keck&amp;volume=36&amp;publication_year=2008&amp;pages=49-60&amp;pmid=17728143&amp;doi=10.1016/j.biologicals.2007.05.004&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0071"><label>71.</label><mixed-citation id="psp412224-cit-0071"><named-content content-type="citation-string">
+
+Yu, M.
+
+<italic>et al</italic>
+Production, characterization, and pharmacokinetic properties of antibodies with N‐linked mannose‐5 glycans. MAbs
+4, 475–487 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.4161/mabs.20737"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3499342"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22699308"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=MAbs&amp;title=Production, characterization, and pharmacokinetic properties of antibodies with N‐linked mannose‐5 glycans&amp;author=M. Yu&amp;volume=4&amp;publication_year=2012&amp;pages=475-487&amp;pmid=22699308&amp;doi=10.4161/mabs.20737&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0072"><label>72.</label><mixed-citation id="psp412224-cit-0072"><named-content content-type="citation-string">
+
+Deng, R.
+, 
+Jin, F.
+, 
+Prabhu, S.
+ &amp; 
+Iyer, S.
+
+Monoclonal antibodies: what are the pharmacokinetic and pharmacodynamic considerations for drug development?
+Expert Opin. Drug Metab. Toxicol.
+8, 141–160 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1517/17425255.2012.643868"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22248267"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Expert Opin. Drug Metab. Toxicol.&amp;title=Monoclonal antibodies: what are the pharmacokinetic and pharmacodynamic considerations for drug development?&amp;author=R. Deng&amp;author=F. Jin&amp;author=S. Prabhu&amp;author=S. Iyer&amp;volume=8&amp;publication_year=2012&amp;pages=141-160&amp;pmid=22248267&amp;doi=10.1517/17425255.2012.643868&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0073"><label>73.</label><mixed-citation id="psp412224-cit-0073"><named-content content-type="citation-string">
+
+Hotzel, I.
+
+<italic>et al</italic>
+A strategy for risk mitigation of antibodies with fast clearance. MAbs
+4, 753–760 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.4161/mabs.22189"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3502242"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23778268"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=MAbs&amp;title=A strategy for risk mitigation of antibodies with fast clearance&amp;author=I. Hotzel&amp;volume=4&amp;publication_year=2012&amp;pages=753-760&amp;pmid=23778268&amp;doi=10.4161/mabs.22189&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0074"><label>74.</label><mixed-citation id="psp412224-cit-0074"><named-content content-type="citation-string">
+
+Sachs, U.J.
+, 
+Socher, I.
+, 
+Braeunlich, C.G.
+, 
+Kroll, H.
+, 
+Bein, G.
+ &amp; 
+Santoso, S.
+
+A variable number of tandem repeats polymorphism influences the transcriptional activity of the neonatal Fc receptor alpha‐chain promoter. Immunology
+119, 83–89 (2006).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/j.1365-2567.2006.02408.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1782336"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16805790"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Immunology&amp;title=A variable number of tandem repeats polymorphism influences the transcriptional activity of the neonatal Fc receptor alpha‐chain promoter&amp;author=U.J. Sachs&amp;author=I. Socher&amp;author=C.G. Braeunlich&amp;author=H. Kroll&amp;author=G. Bein&amp;volume=119&amp;publication_year=2006&amp;pages=83-89&amp;pmid=16805790&amp;doi=10.1111/j.1365-2567.2006.02408.x&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0075"><label>75.</label><mixed-citation id="psp412224-cit-0075"><named-content content-type="citation-string">
+
+Billiet, T.
+
+<italic>et al</italic>
+A genetic variation in the neonatal Fc‐receptor affects anti‐TNF drug concentrations in inflammatory bowel disease. Am. J. Gastroenterol.
+111, 1438–1445 (2016).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/ajg.2016.306"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27481307"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am. J. Gastroenterol.&amp;title=A genetic variation in the neonatal Fc‐receptor affects anti‐TNF drug concentrations in inflammatory bowel disease&amp;author=T. Billiet&amp;volume=111&amp;publication_year=2016&amp;pages=1438-1445&amp;pmid=27481307&amp;doi=10.1038/ajg.2016.306&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0076"><label>76.</label><mixed-citation id="psp412224-cit-0076"><named-content content-type="citation-string">
+
+Gouilleux‐Gruart, V.
+
+<italic>et al</italic>
+Efficiency of immunoglobulin G replacement therapy in common variable immunodeficiency: correlations with clinical phenotype and polymorphism of the neonatal Fc receptor. Clin. Exp. Immunol.
+171, 186–194 (2013).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/cei.12002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3573289"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23286945"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Exp. Immunol.&amp;title=Efficiency of immunoglobulin G replacement therapy in common variable immunodeficiency: correlations with clinical phenotype and polymorphism of the neonatal Fc receptor&amp;author=V. Gouilleux‐Gruart&amp;volume=171&amp;publication_year=2013&amp;pages=186-194&amp;pmid=23286945&amp;doi=10.1111/cei.12002&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0077"><label>77.</label><mixed-citation id="psp412224-cit-0077"><named-content content-type="citation-string">
+
+Musolino, A.
+
+<italic>et al</italic>
+Immunoglobulin G fragment C receptor polymorphisms and clinical efficacy of trastuzumab‐based therapy in patients with HER‐2/neu‐positive metastatic breast cancer. J. Clin. Oncol.
+26, 1789–1796 (2008).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1200/JCO.2007.14.8957"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18347005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Clin. Oncol.&amp;title=Immunoglobulin G fragment C receptor polymorphisms and clinical efficacy of trastuzumab‐based therapy in patients with HER‐2/neu‐positive metastatic breast cancer&amp;author=A. Musolino&amp;volume=26&amp;publication_year=2008&amp;pages=1789-1796&amp;pmid=18347005&amp;doi=10.1200/JCO.2007.14.8957&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0078"><label>78.</label><mixed-citation id="psp412224-cit-0078"><named-content content-type="citation-string">
+
+Trotta, A.M.
+
+<italic>et al</italic>
+Prospective evaluation of cetuximab‐mediated antibody‐dependent cell cytotoxicity in metastatic colorectal cancer patients predicts treatment efficacy. <italic>Cancer</italic>
+
+Immunol. Res.
+4, 366–374 (2016).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/2326-6066.CIR-15-0184"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26817995"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Immunol. Res.&amp;title=Prospective evaluation of cetuximab‐mediated antibody‐dependent cell cytotoxicity in metastatic colorectal cancer patients predicts treatment efficacy. Cancer&amp;author=A.M. Trotta&amp;volume=4&amp;publication_year=2016&amp;pages=366-374&amp;pmid=26817995&amp;doi=10.1158/2326-6066.CIR-15-0184&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0079"><label>79.</label><mixed-citation id="psp412224-cit-0079"><named-content content-type="citation-string">
+
+Zhang, W.
+, 
+Wang, X.
+, 
+Li, J.
+, 
+Duan, M.H.
+ &amp; 
+Zhou, D.B.
+
+Fcgamma receptor IIIA polymorphisms and efficacy of rituximab therapy on Chinese diffuse large B‐cell lymphoma. Chin. Med. J. (Engl.)
+123, 198–202 (2010).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20137370"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chin. Med. J. (Engl.)&amp;title=Fcgamma receptor IIIA polymorphisms and efficacy of rituximab therapy on Chinese diffuse large B‐cell lymphoma&amp;author=W. Zhang&amp;author=X. Wang&amp;author=J. Li&amp;author=M.H. Duan&amp;author=D.B. Zhou&amp;volume=123&amp;publication_year=2010&amp;pages=198-202&amp;pmid=20137370&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0080"><label>80.</label><mixed-citation id="psp412224-cit-0080"><named-content content-type="citation-string">
+
+Nishio, S.
+
+<italic>et al</italic>
+Pharmacokinetic study and Fcgamma receptor gene analysis in two patients with rheumatoid arthritis controlled by low‐dose infliximab. Mod. Rheumatol.
+19, 329–333 (2009).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s10165-009-0158-0"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19255827"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mod. Rheumatol.&amp;title=Pharmacokinetic study and Fcgamma receptor gene analysis in two patients with rheumatoid arthritis controlled by low‐dose infliximab&amp;author=S. Nishio&amp;volume=19&amp;publication_year=2009&amp;pages=329-333&amp;pmid=19255827&amp;doi=10.1007/s10165-009-0158-0&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0081"><label>81.</label><mixed-citation id="psp412224-cit-0081"><named-content content-type="citation-string">
+
+Albitar, M.
+
+<italic>et al</italic>
+Free circulating soluble CD52 as a tumor marker in chronic lymphocytic leukemia and its implication in therapy with anti‐CD52 antibodies. Cancer
+101, 999–1008 (2004).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/cncr.20477"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15329909"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer&amp;title=Free circulating soluble CD52 as a tumor marker in chronic lymphocytic leukemia and its implication in therapy with anti‐CD52 antibodies&amp;author=M. Albitar&amp;volume=101&amp;publication_year=2004&amp;pages=999-1008&amp;pmid=15329909&amp;doi=10.1002/cncr.20477&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0082"><label>82.</label><mixed-citation id="psp412224-cit-0082"><named-content content-type="citation-string">
+
+Roxburgh, C.S.
+ &amp; 
+McMillan, D.C.
+
+Cancer and systemic inflammation: treat the tumour and treat the host. Br. J. Cancer
+110, 1409–1412 (2014).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/bjc.2014.90"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3960633"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24548867"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br. J. Cancer&amp;title=Cancer and systemic inflammation: treat the tumour and treat the host&amp;author=C.S. Roxburgh&amp;author=D.C. McMillan&amp;volume=110&amp;publication_year=2014&amp;pages=1409-1412&amp;pmid=24548867&amp;doi=10.1038/bjc.2014.90&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0083"><label>83.</label><mixed-citation id="psp412224-cit-0083"><named-content content-type="citation-string">
+
+Fearon, K.C.
+
+<italic>et al</italic>
+Influence of whole body protein turnover rate on resting energy expenditure in patients with cancer. Cancer Res.
+48, 2590–2595 (1988).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="3356019"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Res.&amp;title=Influence of whole body protein turnover rate on resting energy expenditure in patients with cancer&amp;author=K.C. Fearon&amp;volume=48&amp;publication_year=1988&amp;pages=2590-2595&amp;pmid=3356019&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0084"><label>84.</label><mixed-citation id="psp412224-cit-0084"><named-content content-type="citation-string">
+
+Cosson, V.F.
+, 
+Ng, V.W.
+, 
+Lehle, M.
+ &amp; 
+Lum, B.L.
+
+Population pharmacokinetics and exposure‐response analyses of trastuzumab in patients with advanced gastric or gastroesophageal junction cancer. Cancer Chemother. Pharmacol.
+73, 737–747 (2014).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00280-014-2400-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24519752"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cancer Chemother. Pharmacol.&amp;title=Population pharmacokinetics and exposure‐response analyses of trastuzumab in patients with advanced gastric or gastroesophageal junction cancer&amp;author=V.F. Cosson&amp;author=V.W. Ng&amp;author=M. Lehle&amp;author=B.L. Lum&amp;volume=73&amp;publication_year=2014&amp;pages=737-747&amp;pmid=24519752&amp;doi=10.1007/s00280-014-2400-5&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0085"><label>85.</label><mixed-citation id="psp412224-cit-0085"><named-content content-type="citation-string">
+
+Feagan, B.G.
+
+<italic>et al</italic>
+The challenge of indication extrapolation for infliximab biosimilars. Biologicals
+42, 177–183 (2014).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.biologicals.2014.05.005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24962198"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biologicals&amp;title=The challenge of indication extrapolation for infliximab biosimilars&amp;author=B.G. Feagan&amp;volume=42&amp;publication_year=2014&amp;pages=177-183&amp;pmid=24962198&amp;doi=10.1016/j.biologicals.2014.05.005&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0086"><label>86.</label><mixed-citation id="psp412224-cit-0086"><named-content content-type="citation-string">
+
+Jarnum, S.
+
+Turnover of plasma proteins. J. Clin. Pathol. Suppl. (Assoc. Clin. Pathol.)
+6, 13–21 (1975).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/jcp.s1-6.1.13"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1436084"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="802869"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Clin. Pathol. Suppl. (Assoc. Clin. Pathol.)&amp;title=Turnover of plasma proteins&amp;author=S. Jarnum&amp;volume=6&amp;publication_year=1975&amp;pages=13-21&amp;pmid=802869&amp;doi=10.1136/jcp.s1-6.1.13&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0087"><label>87.</label><mixed-citation id="psp412224-cit-0087"><named-content content-type="citation-string">
+
+Ordas, I.
+, 
+Mould, D.R.
+, 
+Feagan, B.G.
+ &amp; 
+Sandborn, W.J.
+
+Anti‐TNF monoclonal antibodies in inflammatory bowel disease: pharmacokinetics‐based dosing paradigms. Clin. Pharmacol. Ther.
+91, 635–646 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/clpt.2011.328"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22357456"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Pharmacol. Ther.&amp;title=Anti‐TNF monoclonal antibodies in inflammatory bowel disease: pharmacokinetics‐based dosing paradigms&amp;author=I. Ordas&amp;author=D.R. Mould&amp;author=B.G. Feagan&amp;author=W.J. Sandborn&amp;volume=91&amp;publication_year=2012&amp;pages=635-646&amp;pmid=22357456&amp;doi=10.1038/clpt.2011.328&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0088"><label>88.</label><mixed-citation id="psp412224-cit-0088"><named-content content-type="citation-string">
+
+Wang, Y.
+, 
+Booth, B.
+, 
+Rahman, A.
+, 
+Kim, G.
+, 
+Huang, S.M.
+ &amp; 
+Zineh, I.
+
+Towards greater insights on pharmacokinetics and exposure‐response relationships for therapeutic biologics in oncology drug development. Clin. Pharmacol. Ther.
+106, 582–584 (2017).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/cpt.628"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28090657"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Pharmacol. Ther.&amp;title=Towards greater insights on pharmacokinetics and exposure‐response relationships for therapeutic biologics in oncology drug development&amp;author=Y. Wang&amp;author=B. Booth&amp;author=A. Rahman&amp;author=G. Kim&amp;author=S.M. Huang&amp;volume=106&amp;publication_year=2017&amp;pages=582-584&amp;pmid=28090657&amp;doi=10.1002/cpt.628&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0089"><label>89.</label><mixed-citation id="psp412224-cit-0089"><named-content content-type="citation-string">
+
+Azzopardi, N.
+
+<italic>et al</italic>
+Cetuximab pharmacokinetics influences progression‐free survival of metastatic colorectal cancer patients. Clin. Cancer Res.
+17, 6329–6337 (2011).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1158/1078-0432.CCR-11-1081"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21953502"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Cancer Res.&amp;title=Cetuximab pharmacokinetics influences progression‐free survival of metastatic colorectal cancer patients&amp;author=N. Azzopardi&amp;volume=17&amp;publication_year=2011&amp;pages=6329-6337&amp;pmid=21953502&amp;doi=10.1158/1078-0432.CCR-11-1081&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0090"><label>90.</label><mixed-citation id="psp412224-cit-0090"><named-content content-type="citation-string">
+
+Sethu, S.
+, 
+Govindappa, K.
+, 
+Alhaidari, M.
+, 
+Pirmohamed, M.
+, 
+Park, K.
+ &amp; 
+Sathish, J.
+
+Immunogenicity to biologics: mechanisms, prediction and reduction. Arch. Immunol. Ther. Exp. (Warsz.)
+60, 331–344 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00005-012-0189-7"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22930363"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Arch. Immunol. Ther. Exp. (Warsz.)&amp;title=Immunogenicity to biologics: mechanisms, prediction and reduction&amp;author=S. Sethu&amp;author=K. Govindappa&amp;author=M. Alhaidari&amp;author=M. Pirmohamed&amp;author=K. Park&amp;volume=60&amp;publication_year=2012&amp;pages=331-344&amp;pmid=22930363&amp;doi=10.1007/s00005-012-0189-7&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0091"><label>91.</label><mixed-citation id="psp412224-cit-0091"><named-content content-type="citation-string">
+
+Weber, C.A.
+, 
+Mehta, P.J.
+, 
+Ardito, M.
+, 
+Moise, L.
+, 
+Martin, B.
+ &amp; 
+De Groot, A.S.
+
+T cell epitope: friend or foe? Immunogenicity of biologics in context. Adv. Drug Deliv. Rev.
+61, 965–976 (2009).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.addr.2009.07.001"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7103283"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19619593"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Adv. Drug Deliv. Rev.&amp;title=T cell epitope: friend or foe? Immunogenicity of biologics in context&amp;author=C.A. Weber&amp;author=P.J. Mehta&amp;author=M. Ardito&amp;author=L. Moise&amp;author=B. Martin&amp;volume=61&amp;publication_year=2009&amp;pages=965-976&amp;pmid=19619593&amp;doi=10.1016/j.addr.2009.07.001&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0092"><label>92.</label><mixed-citation id="psp412224-cit-0092"><named-content content-type="citation-string">
+
+Schellekens, H.
+
+Immunogenicity of therapeutic proteins: clinical implications and future prospects. Clin. Ther.
+24, 1720–1740; discussion 1719 (2002).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/s0149-2918(02)80075-3"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="12501870"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin. Ther.&amp;title=Immunogenicity of therapeutic proteins: clinical implications and future prospects&amp;author=H. Schellekens&amp;volume=24&amp;issue=1740&amp;publication_year=2002&amp;pages=1720-1719&amp;pmid=12501870&amp;doi=10.1016/s0149-2918(02)80075-3&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0093"><label>93.</label><mixed-citation id="psp412224-cit-0093"><named-content content-type="citation-string">
+
+Herskovitz, J.
+
+<italic>et al</italic>
+Immune suppression during preclinical drug development mitigates immunogenicity‐mediated impact on therapeutic exposure. AAPS J.
+19, 447–455 (2017).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1208/s12248-016-0026-8"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28070711"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=AAPS J.&amp;title=Immune suppression during preclinical drug development mitigates immunogenicity‐mediated impact on therapeutic exposure&amp;author=J. Herskovitz&amp;volume=19&amp;publication_year=2017&amp;pages=447-455&amp;pmid=28070711&amp;doi=10.1208/s12248-016-0026-8&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0094"><label>94.</label><mixed-citation id="psp412224-cit-0094"><named-content content-type="citation-string">
+
+Ryff, J.C.
+
+Clinical investigation of the immunogenicity of interferon‐alpha 2a. J. Interferon Cytokine Res.
+17 (suppl. 1), S29–S33 (1997).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9241613"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Interferon Cytokine Res.&amp;title=Clinical investigation of the immunogenicity of interferon‐alpha 2a&amp;author=J.C. Ryff&amp;volume=17 (suppl. 1)&amp;publication_year=1997&amp;pages=S29-S33&amp;pmid=9241613&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0095"><label>95.</label><mixed-citation id="psp412224-cit-0095"><named-content content-type="citation-string">
+
+Neuberger, M.S.
+
+<italic>et al</italic>
+Memory in the B‐cell compartment: antibody affinity maturation. Philos. Trans. R. Soc. Lond. B Biol. Sci.
+355, 357–360 (2000).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1098/rstb.2000.0573"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1692737"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10794054"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Philos. Trans. R. Soc. Lond. B Biol. Sci.&amp;title=Memory in the B‐cell compartment: antibody affinity maturation&amp;author=M.S. Neuberger&amp;volume=355&amp;publication_year=2000&amp;pages=357-360&amp;pmid=10794054&amp;doi=10.1098/rstb.2000.0573&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0096"><label>96.</label><mixed-citation id="psp412224-cit-0096"><named-content content-type="citation-string">
+
+Ma, P.
+
+<italic>et al</italic>
+Population pharmacokinetic analysis of panitumumab in patients with advanced solid tumors. J. Clin. Pharmacol.
+49, 1142–1156 (2009).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1177/0091270009344989"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19723673"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Clin. Pharmacol.&amp;title=Population pharmacokinetic analysis of panitumumab in patients with advanced solid tumors&amp;author=P. Ma&amp;volume=49&amp;publication_year=2009&amp;pages=1142-1156&amp;pmid=19723673&amp;doi=10.1177/0091270009344989&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0097"><label>97.</label><mixed-citation id="psp412224-cit-0097"><named-content content-type="citation-string">
+
+Chirmule, N.
+, 
+Jawa, V.
+ &amp; 
+Meibohm, B.
+
+Immunogenicity to therapeutic proteins: impact on PK/PD and efficacy. AAPS J.
+14, 296–302 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1208/s12248-012-9340-y"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3326159"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22407289"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=AAPS J.&amp;title=Immunogenicity to therapeutic proteins: impact on PK/PD and efficacy&amp;author=N. Chirmule&amp;author=V. Jawa&amp;author=B. Meibohm&amp;volume=14&amp;publication_year=2012&amp;pages=296-302&amp;pmid=22407289&amp;doi=10.1208/s12248-012-9340-y&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0098"><label>98.</label><mixed-citation id="psp412224-cit-0098"><named-content content-type="citation-string">
+
+van den Bemt, B.J.
+
+<italic>et al</italic>
+Anti‐infliximab antibodies are already detectable in most patients with rheumatoid arthritis halfway through an infusion cycle: an open‐label pharmacokinetic cohort study. BMC Musculoskelet. Disord.
+12,12 (2011).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1186/1471-2474-12-12"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3034722"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21232150"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMC Musculoskelet. Disord.&amp;title=Anti‐infliximab antibodies are already detectable in most patients with rheumatoid arthritis halfway through an infusion cycle: an open‐label pharmacokinetic cohort study&amp;author=B.J. van den Bemt&amp;volume=12,12&amp;publication_year=2011&amp;pmid=21232150&amp;doi=10.1186/1471-2474-12-12&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0099"><label>99.</label><mixed-citation id="psp412224-cit-0099"><named-content content-type="citation-string">
+
+Huang, Z.Y.
+, 
+Chien, P.
+, 
+Indik, Z.K.
+ &amp; 
+Schreiber, A.D.
+
+Human platelet FcγRIIA and phagocytes in immune‐complex clearance. Mol. Immunol.
+48, 691–696 (2011).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.molimm.2010.11.017"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3086791"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21168221"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Mol. Immunol.&amp;title=Human platelet FcγRIIA and phagocytes in immune‐complex clearance&amp;author=Z.Y. Huang&amp;author=P. Chien&amp;author=Z.K. Indik&amp;author=A.D. Schreiber&amp;volume=48&amp;publication_year=2011&amp;pages=691-696&amp;pmid=21168221&amp;doi=10.1016/j.molimm.2010.11.017&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0100"><label>100.</label><mixed-citation id="psp412224-cit-0100"><named-content content-type="citation-string">
+
+Dua, P.
+, 
+Hawkins, E.
+ &amp; 
+van der Graaf, P.H.
+
+A tutorial on target‐mediated drug disposition (TMDD) models. CPT Pharmacometrics Syst. Pharmacol.
+4, 324–337 (2015).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/psp4.41"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4505827"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26225261"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=CPT Pharmacometrics Syst. Pharmacol.&amp;title=A tutorial on target‐mediated drug disposition (TMDD) models&amp;author=P. Dua&amp;author=E. Hawkins&amp;author=P.H. van der Graaf&amp;volume=4&amp;publication_year=2015&amp;pages=324-337&amp;pmid=26225261&amp;doi=10.1002/psp4.41&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0101"><label>101.</label><mixed-citation id="psp412224-cit-0101"><named-content content-type="citation-string">
+
+Wong, H.
+ &amp; 
+Chow, T.W.
+
+Physiologically based pharmacokinetic modeling of therapeutic proteins. J. Pharm. Sci. (2017). [Epub ahead of print]
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.xphs.2017.03.038"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28392453"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Pharm. Sci.&amp;title=Physiologically based pharmacokinetic modeling of therapeutic proteins&amp;author=H. Wong&amp;author=T.W. Chow&amp;publication_year=2017&amp;pmid=28392453&amp;doi=10.1016/j.xphs.2017.03.038&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0102"><label>102.</label><mixed-citation id="psp412224-cit-0102"><named-content content-type="citation-string">
+
+Shah, D.K.
+ &amp; 
+Betts, A.M.
+
+Towards a platform PBPK model to characterize the plasma and tissue disposition of monoclonal antibodies in preclinical species and human. J. Pharmacokinet. Pharmacodyn.
+39, 67–86 (2012).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s10928-011-9232-2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22143261"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J. Pharmacokinet. Pharmacodyn.&amp;title=Towards a platform PBPK model to characterize the plasma and tissue disposition of monoclonal antibodies in preclinical species and human&amp;author=D.K. Shah&amp;author=A.M. Betts&amp;volume=39&amp;publication_year=2012&amp;pages=67-86&amp;pmid=22143261&amp;doi=10.1007/s10928-011-9232-2&amp;"/></mixed-citation></ref><ref id="psp412224-bib-0103"><label>103.</label><mixed-citation id="psp412224-cit-0103"><named-content content-type="citation-string">
+
+Davda, J.P.
+, 
+Dodds, M.G.
+, 
+Gibbs, M.A.
+, 
+Wisdom, W.
+ &amp; 
+Gibbs, J.
+
+A model‐based meta‐analysis of monoclonal antibody pharmacokinetics to guide optimal first‐in‐human study design. MAbs
+6, 1094–1102 (2014).
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.4161/mabs.29095"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4171012"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24837591"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=MAbs&amp;title=A model‐based meta‐analysis of monoclonal antibody pharmacokinetics to guide optimal first‐in‐human study design&amp;author=J.P. Davda&amp;author=M.G. Dodds&amp;author=M.A. Gibbs&amp;author=W. Wisdom&amp;author=J. Gibbs&amp;volume=6&amp;publication_year=2014&amp;pages=1094-1102&amp;pmid=24837591&amp;doi=10.4161/mabs.29095&amp;"/></mixed-citation></ref></ref-list></sec></sec></body></article>

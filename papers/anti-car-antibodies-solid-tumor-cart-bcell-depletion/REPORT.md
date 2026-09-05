@@ -202,6 +202,38 @@ failed (36825014):
 
 ---
 
+## 7b. How the drug is given, once a protocol calls for it
+
+Full detail in `notes/administration_protocol.md` (every block labelled LABEL / REGISTRY / LIT /
+INFERENCE). The points that change what gets written on an order sheet:
+
+- **Timing within the round**: both trial schedules put rituximab **immediately before lymphodepletion**
+  (day −6/−5 or day −5) and repeat it **every** CAR-T round. Neither registry record specifies premedication,
+  infusion rate, or monitoring.
+- **Infusion**: IV only, never push/bolus; dilute to 1–4 mg/mL in NaCl 0.9% or D5W. First infusion 50 mg/h
+  (paediatric 0.5 mg/kg/h, max 50 mg/h), +50 mg/h every 30 min to max 400 mg/h; subsequent infusions start
+  at 100 mg/h. The 90-minute rapid schedule is label-sanctioned only from cycle 2, with a steroid-containing
+  regimen, and not if lymphocytes ≥5,000/mm³ (17244675, 16856919).
+- **Premedication**: acetaminophen + H1 antihistamine before every infusion (paediatric label: 30–60 min
+  before). Adding an H2 antagonist does not help (42530421). A second-generation H1 avoids sedation
+  (41989666). **The steroid question is the CAR-T-specific one**: steroids reduce IRR (37205922) but inhibit
+  ADCC (38270799) and blunt CAR-T; give one only if the CAR-T protocol says so.
+- **Screening**: HBsAg + anti-HBc mandatory — anti-CD20 is high-risk for HBV reactivation (25% with R-CHOP
+  in HBsAg−/anti-HBc+ patients, 19075267), so past *or* chronic HBV needs antivirals during and ≥12 months
+  after (32716741, 23775967). Baseline CBC and **baseline quantitative IgG** (omitted in 85% of a
+  4,479-patient cohort, 30646343).
+- **Reactions**: stop or slow, treat by severity, resume at ≥50% rate reduction, discontinue for grade 3–4
+  (label). Anaphylaxis is rechallengeable by desensitisation, serum sickness is not (42073020) — which
+  matters when the drug is needed again next round.
+- **Late effects that overlap the CAR-T window**: late-onset neutropenia at median 77–102 days
+  (20827108, 21560117), hypogammaglobulinaemia (23276889), PML at median 5.5 months (19264918). Fold
+  prophylaxis and IgG replacement into the CAR-T programme's plan (42274870, 34923107).
+- **Fasting**: **not required for the rituximab infusion** — the label imposes no NPO status, and high-TLS-risk
+  patients are supposed to be aggressively hydrated. Fasting rules belong to any sedation/anaesthesia for
+  reservoir placement or ICV access, per the local anaesthesia policy (28045707, 36629465, 34857683).
+
+---
+
 ## 8. What is not known
 
 - No solid-tumour CAR-T trial has reported an ADA-prophylaxis intervention arm; there is no dose-response,
