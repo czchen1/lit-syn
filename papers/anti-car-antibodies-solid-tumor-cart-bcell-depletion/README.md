@@ -24,8 +24,9 @@ haemophilia inhibitors, autoimmunity — and is labelled indirect. See `REPORT.m
 
 ## Files
 
-- `rituximab_anticar_cart_report.pdf` — standalone report (synthesis + all four notes + full reference
-  list grouped by category), built by `build_pdf.py` (needs `markdown` and `weasyprint`).
+- `rituximab_anticar_cart_report.md` / `.pdf` — standalone report (synthesis + all four notes + full
+  reference list grouped by category). `build_pdf.py` writes the markdown and renders the PDF from it
+  (needs `markdown` and `weasyprint`).
 - `REPORT.md` — the synthesis: direct evidence table, dosing-schedule table with evidence class, timing/depth
   principles, CAR-T-specific hazards, alternatives, and an explicitly-labelled extrapolated schedule.
 - `notes/administration_protocol.md` — how the drug is actually given: dose/timing of the two trial
