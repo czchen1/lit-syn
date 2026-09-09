@@ -1,0 +1,956 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="hem370385" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Hemasphere</journal-id><journal-id journal-id-type="iso-abbrev">Hemasphere</journal-id><journal-id journal-id-type="pmc-domain-id">3722</journal-id><journal-id journal-id-type="pmc-domain">hemasphere</journal-id><journal-id journal-id-type="nlm-id">101740619</journal-id><journal-id journal-id-type="publisher-id">HEM3</journal-id><journal-title-group><journal-title>HemaSphere</journal-title></journal-title-group><issn pub-type="epub">2572-9241</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13266578</article-id><article-id pub-id-type="pmcid-ver">PMC13266578.1</article-id><article-id pub-id-type="pmcaid">13266578</article-id><article-id pub-id-type="pmcaiid">13266578</article-id><article-id pub-id-type="pmid">42306064</article-id><article-id pub-id-type="doi">10.1002/hem3.70385</article-id><article-id pub-id-type="publisher-id">HEM370385</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>IGLV3‐21<sup>R110</sup> and ibrutinib treatment: Results from the double‐blind, randomized, placebo‐controlled GCLLSG CLL12 trial in early‐stage CLL</article-title></title-group><contrib-group><contrib id="hem370385-cr-0001" contrib-type="author"><name name-style="western"><surname>Yosifov</surname><given-names initials="DY">Deyan Y.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5473-4398</contrib-id><xref rid="hem370385-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hem370385-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hem370385-cr-0002" contrib-type="author"><name name-style="western"><surname>Robrecht</surname><given-names initials="S">Sandra</given-names></name><xref rid="hem370385-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hem370385-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hem370385-cr-0003" contrib-type="author"><name name-style="western"><surname>Giza</surname><given-names initials="A">Adam</given-names></name><xref rid="hem370385-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hem370385-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hem370385-cr-0004" contrib-type="author"><name name-style="western"><surname>Maity</surname><given-names initials="PC">Palash C.</given-names></name><xref rid="hem370385-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hem370385-cr-0005" contrib-type="author"><name name-style="western"><surname>Riecke</surname><given-names initials="A">Armin</given-names></name><xref rid="hem370385-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hem370385-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="hem370385-cr-0006" contrib-type="author"><name name-style="western"><surname>Schneider</surname><given-names initials="C">Christof</given-names></name><xref rid="hem370385-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hem370385-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="hem370385-cr-0007" contrib-type="author"><name name-style="western"><surname>Jebaraj</surname><given-names initials="BMC">Billy M. C.</given-names></name><xref rid="hem370385-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hem370385-cr-0008" contrib-type="author"><name name-style="western"><surname>Dheenadayalan</surname><given-names initials="RP">Rashmi P.</given-names></name><xref rid="hem370385-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hem370385-cr-0009" contrib-type="author"><name name-style="western"><surname>Jumaa</surname><given-names initials="H">Hassan</given-names></name><xref rid="hem370385-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="hem370385-cr-0010" contrib-type="author"><name name-style="western"><surname>Young</surname><given-names initials="M">Marc</given-names></name><xref rid="hem370385-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="hem370385-cr-0011" contrib-type="author"><name name-style="western"><surname>Kumar</surname><given-names initials="M">Manish</given-names></name><xref rid="hem370385-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hem370385-cr-0012" contrib-type="author"><name name-style="western"><surname>Müller</surname><given-names initials="L">Lothar</given-names></name><xref rid="hem370385-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="hem370385-cr-0013" contrib-type="author"><name name-style="western"><surname>Vehling‐Kaiser</surname><given-names initials="U">Ursula</given-names></name><xref rid="hem370385-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="hem370385-cr-0014" contrib-type="author"><name name-style="western"><surname>Eckart</surname><given-names initials="M">Michael</given-names></name><xref rid="hem370385-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="hem370385-cr-0015" contrib-type="author"><name name-style="western"><surname>Freier</surname><given-names initials="W">Werner</given-names></name><xref rid="hem370385-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="hem370385-cr-0016" contrib-type="author"><name name-style="western"><surname>Schöttker</surname><given-names initials="B">Björn</given-names></name><xref rid="hem370385-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="hem370385-cr-0017" contrib-type="author"><name name-style="western"><surname>Gaska</surname><given-names initials="T">Tobias</given-names></name><xref rid="hem370385-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="hem370385-cr-0018" contrib-type="author"><name name-style="western"><surname>Reiser</surname><given-names initials="M">Marcel</given-names></name><xref rid="hem370385-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="hem370385-cr-0019" contrib-type="author"><name name-style="western"><surname>Fink</surname><given-names initials="AM">Anna‐Maria</given-names></name><xref rid="hem370385-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hem370385-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hem370385-cr-0020" contrib-type="author"><name name-style="western"><surname>Fischer</surname><given-names initials="K">Kirsten</given-names></name><xref rid="hem370385-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hem370385-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hem370385-cr-0021" contrib-type="author"><name name-style="western"><surname>Eichhorst</surname><given-names initials="B">Barbara</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9990-6918</contrib-id><xref rid="hem370385-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hem370385-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hem370385-cr-0022" contrib-type="author"><name name-style="western"><surname>Hallek</surname><given-names initials="M">Michael</given-names></name><xref rid="hem370385-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hem370385-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hem370385-cr-0023" contrib-type="author"><name name-style="western"><surname>Langerbeins</surname><given-names initials="P">Petra</given-names></name><xref rid="hem370385-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="hem370385-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hem370385-cr-0024" contrib-type="author"><name name-style="western"><surname>Tausch</surname><given-names initials="E">Eugen</given-names></name><xref rid="hem370385-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hem370385-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="hem370385-cr-0025" contrib-type="author" corresp="yes"><name name-style="western"><surname>Stilgenbauer</surname><given-names initials="S">Stephan</given-names></name><xref rid="hem370385-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hem370385-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><address><email>stephan.stilgenbauer@uniklinik-ulm.de</email></address></contrib></contrib-group><aff id="hem370385-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Division of CLL, Department of Internal Medicine III</named-content>
+<institution>Ulm University Hospital</institution>
+<city>Ulm</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>German Cancer Research Center (DKFZ)</institution>
+<city>Heidelberg</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn Cologne Duesseldorf</named-content>
+<institution>Faculty of Medicine and University Hospital Cologne</institution>
+<city>Cologne</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">German CLL Study Group</named-content>
+<institution>University of Cologne</institution>
+<city>Cologne</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Experimental Cancer Research</named-content>
+<institution>Ulm University Medical Center</institution>
+<city>Ulm</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Internal Medicine, Division of Hematology</named-content>
+<institution>German Military Hospital Ulm</institution>
+<city>Ulm</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Comprehensive Cancer Center Ulm (CCCU)</named-content>
+<institution>Ulm University Hospital</institution>
+<city>Ulm</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Immunology</named-content>
+<institution>Ulm University Hospital</institution>
+<city>Ulm</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Study Centrum Unter Ems</named-content>
+<institution>Practice for Oncology and Hematology</institution>
+<city>Leer</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<institution>Outpatient Clinic</institution>
+<city>Landshut</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<institution>Onkologische Schwerpunktpraxis Erlangen</institution>
+<city>Erlangen</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<institution>Medicinum</institution>
+<city>Hildesheim</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>Hämatologisch‐onkologische Schwerpunktpraxis Würzburg</institution>
+<city>Würzburg</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<institution>Brüderkrankenhaus St. Josef</institution>
+<city>Paderborn</city>
+<country country="DE">Germany</country>
+</aff><aff id="hem370385-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<institution>Praxis Internistischer Onkologie und Hämatologie</institution>
+<city>Frechen</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Stephan Stilgenbauer (<email>stephan.stilgenbauer@uniklinik-ulm.de</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>6</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2026</year></pub-date><volume>10</volume><issue seq="20">6</issue><issue-id pub-id-type="pmc-issue-id">515047</issue-id><issue-id pub-id-type="doi">10.1002/hem3.v10.6</issue-id><elocation-id>e70385</elocation-id><history>
+<date date-type="rev-recd"><day>17</day><month>3</month><year>2026</year></date>
+<date date-type="received"><day>05</day><month>12</month><year>2025</year></date>
+<date date-type="accepted"><day>15</day><month>4</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>15</day><month>06</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>16</day><month>06</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-06-21 07:25:21.730"><day>21</day><month>06</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">HemaSphere</italic> published by John Wiley &amp; Sons Ltd on behalf of European Hematology Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEM3-10-e70385.pdf"><?pdf-name HEM3-10-e70385.pdf?><?pdf-size 3124352?><?pdf-md5 242080848448043eae9f0a095410773f?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:6b69/13266578/242080848448/HEM3-10-e70385.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEM3-10-e70385.pdf"/><abstract><title>Abstract</title><p>IGLV3‐21<sup>R110</sup> is a point mutation enabling autonomous B‐cell receptor (BCR) signaling in chronic lymphocytic leukemia (CLL). It has been associated with shorter time to first treatment and overall survival, but its effects have not been evaluated in phase 3 clinical trials or in patients treated with Bruton tyrosine kinase inhibitors. Here, we analyzed samples from the phase 3 CLL12 study that compared ibrutinib vs. placebo in untreated early‐stage CLL patients with intermediate to very high risk of disease progression, while patients with low risk of disease progression were allocated to watch‐and‐wait (w&amp;w). Four detection methods (targeted next‐generation sequencing, Sanger sequencing, multiplex IGLV3‐21<sup>R110</sup>‐specific PCR, and flow cytometry) were compared, yielding highly consistent results. Overall, 34/515 (6.6%) patients had productive <italic toggle="yes">IGLV3‐21</italic> rearrangements: 5/152 (3.3%) in w&amp;w, 15/181 (8.3%) in placebo, and 14/182 (7.7%) in the ibrutinib group. Of these, 25 were IGLV3‐21<sup>R110</sup>‐positive (3/5, 12/15, and 10/14). IGLV3‐21<sup>R110</sup> was associated with shorter event‐free survival (EFS) across all arms: w&amp;w (hazard ratio [HR] 17.03, 95% confidence interval [CI 95%]: 4.99–58.13, <italic toggle="yes">P</italic> &lt; 0.001), placebo (HR 2.31, CI 95%: 1.16–4.6, P = 0.017), and ibrutinib (HR 2.99, CI 95%: 1.17–7.65, P = 0.023). Multivariable analysis identified IGLV3‐21<sup>R110</sup> as an independent prognostic factor for shorter EFS (HR 3.18, CI 95%: 1.73–5.83, P &lt; 0.001). Notably, IGLV3‐21<sup>R110</sup> was associated with reduced clinical effectiveness of ibrutinib. Ca<sup>2+</sup>‐flux and cell viability assays using patient‐derived BCRs expressed in murine B‐cells confirmed reduced ibrutinib efficacy in IGLV3‐21<sup>R110</sup> cases, especially regarding inhibition of antigen‐stimulated signaling. In summary, IGLV3‐21<sup>R110</sup> is an independent prognostic factor for shorter EFS in early‐stage CLL and reduces ibrutinib effectiveness clinically and in vitro.</p></abstract><abstract abstract-type="graphical"><p>
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HEM3-10-e70385-g006.jpg"><?image-name HEM3-10-e70385-g006.jpg?><?image-size 79041?><?image-md5 1361e1731c7509a37256bba06f7f6495?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 593?><?image-original-width 1054?><?image-scaled-height 395?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/6b69/13266578/1361e1731c75/HEM3-10-e70385-g006.jpg?></graphic></boxed-text>
+</p></abstract><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Johnson and Johnson</institution><institution-id institution-id-type="doi">10.13039/100004331</institution-id></institution-wrap>
+</funding-source></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Fritz Thyssen Stiftung</institution><institution-id institution-id-type="doi">10.13039/501100003390</institution-id></institution-wrap>
+</funding-source><award-id>10.23.1.012MN</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Deutsche Forschungsgemeinschaft</institution><institution-id institution-id-type="doi">10.13039/501100001659</institution-id></institution-wrap>
+</funding-source><award-id>CRC1279</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="14"/><word-count count="8094"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.0 mode:remove_FC converted:15.06.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="hem370385-sec-0010"><title>INTRODUCTION</title><p>Chronic lymphocytic leukemia (CLL) is a B‐cell malignancy with a highly heterogeneous course, ranging from indolent disease that can be observed over years or even decades without requiring therapy to aggressive disease that necessitates immediate treatment after diagnosis.<xref rid="hem370385-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Signaling through the B‐cell receptor (BCR) is of key pathogenetic importance in CLL, contributing to CLL cell survival and proliferation.<xref rid="hem370385-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> This is emphasized both by the high clinical effectiveness of drugs interfering with the BCR‐signaling pathway, such as inhibitors of the Bruton tyrosine kinase (BTK) or of phosphoinositol‐3‐kinases (PI3Ks), and the fact that variations in the immunologic characteristics of the BCR (hypermutation status of the immunoglobulin heavy‐chain genes [IGHV] and specific subsets of stereotyped BCRs) are among the most important pathogenic and prognostic biomarkers.<xref rid="hem370385-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="hem370385-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="hem370385-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+</p><p>Previous studies have established the existence of CLL BCRs capable of autonomous ligand‐independent signaling that arise as a result of mutations affecting specific amino acid (AA) residues in the variable regions of immunoglobulin light chains (LCs), thus creating conditions for homotypic interaction between neighboring BCRs.<xref rid="hem370385-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="hem370385-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Such receptors confer a survival advantage to the leukemic clone and might be an initial driver of CLL pathogenesis.<xref rid="hem370385-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> The most prominent example involves the IGLV3‐21 LC, where a single point mutation of the last base of the joining (J) segment, leading to the substitution of a glycine with an arginine (G110R), can create an autonomously signaling BCR.<xref rid="hem370385-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="hem370385-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> However, this is only possible if the mutation occurs in the allele <italic toggle="yes">IGLV3‐21∗01</italic> or <italic toggle="yes">IGLV3‐21∗04,</italic> as the other two known alleles (<italic toggle="yes">*02</italic> and <italic toggle="yes">*03</italic>) do not fulfill the prerequisites for such a homotypic interaction (lysine at position 16 and tyrosine at position 49). IGLV3‐21 chains carrying the G110R substitution are denoted as IGLV3‐21<sup>R110</sup> and are always present in subset #2 CLL cases, where they pair with IGHV3‐21, but they can form autonomous BCRs with other heavy chains (HCs) too.<xref rid="hem370385-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="hem370385-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="hem370385-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="hem370385-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="hem370385-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> IGLV3‐21<sup>R110</sup> has been detected in 3%–25% of CLL patients in different clinical cohorts.<xref rid="hem370385-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="hem370385-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="hem370385-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="hem370385-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="hem370385-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="hem370385-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> CLL patients with IGLV3‐21<sup>R110</sup> have shorter time to first treatment (TTFT) and shorter overall survival (OS), independently of their IGHV mutational status.<xref rid="hem370385-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="hem370385-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="hem370385-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> A pooled analysis of clinical trials demonstrated that CLL patients with mutated IGHV (M‐CLL) belonging to subset #2 had shorter time to next treatment after chemo(immune)therapy‐based treatment compared to non‐subset #2 M‐CLL cases.<xref rid="hem370385-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> However, analyses of clinical trial cohorts treated with venetoclax‐based therapy have not found evidence for differences in response rate, achievement of minimal residual disease, or progression‐free survival between patients with or without the IGLV3‐21<sup>R110</sup> immunotype,<xref rid="hem370385-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> and no data are available from clinical trials with BTK inhibitor‐based therapy. Here, we studied the potential role of IGLV3‐21<sup>R110</sup> in the context of ibrutinib treatment in the German CLL Study Group (GCLLSG) CLL12 trial including early‐stage CLL patients, as well as in experimental model systems.</p></sec><sec sec-type="materials-and-methods" id="hem370385-sec-0020"><title>MATERIALS AND METHODS</title><sec id="hem370385-sec-0030"><title>Patient samples</title><p>The phase 3 CLL12 trial (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.clinicaltrials.gov/study/NCT02863718" ext-link-type="uri">https://www.clinicaltrials.gov/study/NCT02863718</ext-link>) enrolled previously untreated early‐stage CLL patients, who were either randomized to receive ibrutinib or placebo in case of intermediate to very high risk of disease progression or observed as a watch‐and‐wait group in case of low risk of disease progression. Inclusion criteria, as well as patient stratification and randomization procedures have been published previously.<xref rid="hem370385-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="hem370385-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Blood samples were obtained at enrollment of the patients at the participating clinical centers and shipped to the diagnostic laboratory at the University Hospital in Ulm. The patient consent included permission to use the samples for the current study. Peripheral blood mononuclear cells (PBMCs) were isolated from the blood samples by density gradient centrifugation in Leucosep® tubes (Greiner Bio One, Frickenhausen, Germany). A portion of each PBMC sample was viably frozen and stored at −196°C, and the rest was used for isolation of B‐cells by positive immunomagnetic selection with CD19 MicroBeads (cat. No. 130‐050‐301; Miltenyi Biotec), adhering to the manufacturer's protocol. The purity of the CD19<sup>+</sup> fraction was ascertained by flow cytometry (median 95.7%, interquartile range 92.4%–97.3%). Cell pellets (CD19<sup>+</sup>) were stored at −80°C until the time of analysis.</p></sec><sec id="hem370385-sec-0040"><title>Isolation of nucleic acids</title><p>DNA and total RNA were isolated from CD19‐positive cells using the AllPrep kit (Qiagen) according to the manufacturer's protocol. DNA and RNA concentrations were measured using a Qubit® fluorometer (Thermo Fisher Scientific).</p></sec><sec id="hem370385-sec-0050"><title>Targeted next‐generation sequencing (tNGS)</title><p>All DNA samples were sequenced by tNGS using a custom panel covering genes relevant for CLL pathogenesis including <italic toggle="yes">TP53, NOTCH1, SF3B1,</italic> and <italic toggle="yes">IGLV3‐21</italic>, as well as the <italic toggle="yes">IGLJ1‐IGLC1</italic>, <italic toggle="yes">IGLJ2‐IGLC2,</italic> and <italic toggle="yes">IGLJ3‐IGLC3</italic> gene segments.<xref rid="hem370385-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Libraries were prepared according to the Illumina AmpliSeq protocol. Sequencing was performed on an Illumina MiSeq™ with the 600‐cycle MiSeq Reagent Kit v3 (Illumina Inc.). Alignment, variant calling, and annotation were performed with a custom bioinformatic pipeline relying on BWA‐MEM for alignment,<xref rid="hem370385-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> VarScan2 for calling single‐nucleotide variants (SNVs) and short indels,<xref rid="hem370385-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> ScanIndel<xref rid="hem370385-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> for detection of medium‐sized indels and long deletions like the ones occurring during immunoglobulin gene rearrangement, IgCaller<xref rid="hem370385-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> for additional analysis of immunoglobulin genes, and ANNOVAR<xref rid="hem370385-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> for annotation of variants. Databases used for filtering of variants and estimation of pathogenicity included dbSNP (build 150), gnomAD genome and exome collections (v.2.1.1), COSMIC (v.98), and ClinVar (v.31.12.2022). The <italic toggle="yes">IGLV3‐21</italic> locus, eventual rearrangements affecting it, and mutations within the V and J regions were visually inspected using the Integrative Genomics Viewer (IGV) browser.<xref rid="hem370385-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Nucleotide sequences identified by IgCaller were additionally analyzed with IMGT/V‐QUEST<xref rid="hem370385-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> to verify the identity of the <italic toggle="yes">IGLV3‐21</italic> allele and the <italic toggle="yes">IGLJ</italic> segment participating in the rearrangement.</p></sec><sec id="hem370385-sec-0060"><title>Sanger sequencing of immunoglobulin genes</title><p>The procedure for Sanger sequencing is described in the Supporting Information Materials and Methods (Supporting Information <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="hem370385-sec-0070"><title>Multiplex IGLV3‐21<sup>R110</sup>‐specific PCR (msPCR)</title><p>This method was performed analogous to the original publication, using the same primers − 2 forward primers binding to distinct regions of the <italic toggle="yes">IGLV3‐21</italic> gene, 2 R110‐specific reverse primers matching <italic toggle="yes">IGLJ1</italic> or <italic toggle="yes">IGLJ2/3</italic>, respectively, and a third pair of primers targeting <italic toggle="yes">FBXW7</italic> as an internal control.<xref rid="hem370385-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p></sec><sec id="hem370385-sec-0080"><title>Flow cytometric detection of IGLV3‐21<sup>G110</sup> and IGLV3‐21<sup>R110</sup>
+</title><p>Immunophenotyping was performed using thawed PBMC samples as described previously.<xref rid="hem370385-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Please refer to the Supporting Information for further details.</p></sec><sec id="hem370385-sec-0090"><title>Expression of CLL‐derived BCRs and functional experiments</title><p>To analyze the BCR signaling capacity, patient‐derived immunoglobulin HC and LC variable regions were cloned and expressed in a murine pro‐B‐cell line derived from RAG2, λ5, and SLP65 triple‐knockout (TKO) mice, and expressing inducible ERT2‐SLP65 (EST) fusion protein.<xref rid="hem370385-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="hem370385-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> As described previously, BCR expression in TKO‐EST cells enables analyses of both cell‐autonomous signaling upon activation of the EST fusion protein with 4‐hydroxytamoxifen and antigen‐ or cross‐linking‐induced signaling when anti‐κ/λ antibodies are also added (Southern Biotech). Briefly, TKO‐EST cells were cultured in IMDM medium (PAN‐Biotech) supplemented with 10% FBS Premium (PAN‐Biotech), 10 U/mL penicillin and 100 µg/mL streptomycin, 2 mM <sc>l</sc>‐alanyl‐L‐glutamine, 5 µM β‐mercaptoethanol (all from Invitrogen), 10 mM HEPES (Sigma‐Aldrich), and recombinant murine IL‐7 (5‐10 µg/mL; ImmunoTools) at 37°C in a humidified incubator with 7.5% CO<sub>2</sub>. Variable LC and HC domains from 8 CLL cases were cloned into a customized retroviral vector of pMIG‐w (Addgene ID 12282) origin, as a single open reading frame of p2a‐cleavable human λ‐LC and µ‐HC, followed by an internal ribosomal entry sequence linked to a green fluorescent protein reporter.<xref rid="hem370385-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="hem370385-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="hem370385-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Among the 8 receptors, 3 were from IGLV3‐21<sup>G110</sup> cases and 5 were from IGLV3‐21<sup>R110</sup> cases, including two previously characterized cases belonging to stereotypic subsets #2<xref rid="hem370385-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> and #169,<xref rid="hem370385-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> respectively. Additionally, we used a strongly reactive BCR from a CLL subset #201 case<xref rid="hem370385-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> and a BCR derived from a healthy donor,<xref rid="hem370385-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> respectively, as an experimental positive and negative control for cell‐autonomous signaling (Supporting Information S2: Table <xref rid="hem370385-suppl-0002" ref-type="supplementary-material">S1</xref>). Retroviral transduction was performed as described previously.<xref rid="hem370385-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="hem370385-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> The Supporting Information contains a summary of this procedure, as well as of the protocols for Ca<sup>2+</sup>‐flux measurement, BH3 profiling, and the cell viability assay.</p></sec><sec id="hem370385-sec-0100"><title>Statistical analysis and data visualization</title><p>Genetic markers at baseline were compared using Fisher's exact test. TTFT (defined as the time from diagnosis to initiation of first treatment), event‐free survival (EFS; defined as the time from randomization/registration to active disease progression requiring treatment, initiation of subsequent treatment, or death), and OS (defined as the time from randomization/registration to death) were analyzed using Kaplan–Meier estimates and Cox proportional hazards regression modeling. Multivariable analyses were conducted using forward and backward selection procedures and considering baseline variables as candidates that were associated with EFS in univariable analyses. Statistical analyses were performed using SPSS v27 (IBM Corp.). All statistical tests were two‐sided, and P values were considered descriptive without adjustments for multiple testing.</p><p>GraphPad Prism® version 10.4.0 (GraphPad Software) and R were used for statistical analysis across different in vitro experiments. The used statistical tests are mentioned in the figure legends. Circos<xref rid="hem370385-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> and the R package ComplexHeatmaps<xref rid="hem370385-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> were used for additional visualizations.</p><p>P &lt; 0.05 were considered statistically significant.</p></sec></sec><sec sec-type="results" id="hem370385-sec-0110"><title>RESULTS</title><sec id="hem370385-sec-0120"><title>Comparison of methods for identification of IGLV3‐21<sup>R110</sup>
+</title><p>Samples were obtained from all 515 patients enrolled in the CLL12 study: 152 patients with low risk of disease progression in the watch‐and‐wait arm and 363 patients with intermediate to very high risk of disease progression who were randomized to placebo (<italic toggle="yes">n</italic> = 181) or ibrutinib (<italic toggle="yes">n</italic> = 182). Demographic and disease characteristics were balanced between the 2 treatment groups,<xref rid="hem370385-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> whereas the observational group was characterized by a higher prevalence of cases with mutated IGHV and/or del(13q) as well as by a lower occurrence of del(17p), del(11q), trisomy 12, and mutations in known recurrently mutated genes (Supporting Information S1: Table <xref rid="hem370385-suppl-0002" ref-type="supplementary-material">S2</xref>).</p><p>All samples were sequenced by tNGS, and analysis of the results using IgCaller and ScanIndel revealed 33 samples with productive <italic toggle="yes">IGLV3‐21</italic> rearrangements and three samples with unproductive <italic toggle="yes">IGLV3‐21</italic> rearrangements due to out‐of‐frame junctions with resulting stop codons. Nine of the samples in the former group had the reference IGLV3‐21<sup>G110</sup> sequence, 19 had IGLV3‐21<sup>R110</sup>, and the status of five samples, all of which used the <italic toggle="yes">IGLJ1</italic> segment, could not be determined because of suboptimal sequencing coverage (Supporting Information S2: Table <xref rid="hem370385-suppl-0002" ref-type="supplementary-material">S3</xref>). All 5 of these samples were identified as IGLV3‐21<sup>R110</sup> using additional methods (see below).</p><p>All 36 samples with an <italic toggle="yes">IGLV3‐21</italic> rearrangement were additionally evaluated by Sanger sequencing of cDNA and by msPCR<xref rid="hem370385-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> to evaluate the potential of tNGS for producing false‐positive results. Viably frozen cells were available from 20 of these patients and they were analyzed by flow cytometry (FC) too (Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S1</xref>). As several publications have shown that mutations in <italic toggle="yes">SF3B1</italic> and the usage of IGHV3‐21 HCs are significantly more common in IGLV3‐21<sup>R110</sup> patients,<xref rid="hem370385-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="hem370385-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="hem370385-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="hem370385-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> we reasoned that samples with <italic toggle="yes">SF3B1</italic> mutations or IGHV3‐21 usage and no rearrangement of IGLV3‐21 according to tNGS would be the most informative controls to analyze by the additional methods to assess whether tNGS produces false‐negative results. In total, 42 samples without the IGLV3‐21 rearrangement were analyzed by Sanger sequencing and msPCR, including 29 samples with <italic toggle="yes">SF3B1</italic> mutations and 9 with IGHV3‐21 usage. Twelve of these samples were additionally analyzed by FC (Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S1</xref>). Concordant results were obtained in 75 of all 78 patients tested by at least three methods (Supporting Information S2: Table <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S3</xref>). Among the three exceptions, one patient (#40627) had IGLV3‐21<sup>R110</sup> according to both tNGS and msPCR, but was negative according to Sanger sequencing. Inspection of the tNGS results revealed a point mutation in <italic toggle="yes">IGLV3‐21</italic> in the binding site of the Sanger forward sequencing primer, which could explain the negative result by Sanger, and the sample was classified as IGLV3‐21<sup>R110</sup>. Another patient (#56057) had the <italic toggle="yes">IGLV3‐21*02/IGLV3‐21*03</italic> genotype with usage of the <italic toggle="yes">IGLV3‐21*03</italic> allele and no G110R mutation according to both tNGS and Sanger sequencing, but the normalized intensity of the 140 bp band in msPCR was above the threshold, thus formally fulfilling the criteria for IGLV3‐21<sup>R110</sup> detection as specified by the authors of the method. However, in this method, only the forward primer for the longer 240 bp amplicon binds exclusively to the relevant <italic toggle="yes">IGLV3‐21*01</italic> and <italic toggle="yes">IGLV3‐21*04</italic> alleles, whereas the forward primer for the shorter 140 bp amplicon can bind to any <italic toggle="yes">IGLV3‐21</italic> allele. Thus, it was clear that the sample should be classified as IGLV3‐21<sup>G110</sup>. Regarding the third exception (patient #15100), tNGS could not provide conclusive evidence for an <italic toggle="yes">IGLV3‐21</italic> rearrangement and G110R mutation (detected in only 5 of 1424 reads) but Sanger sequencing, msPCR, and FC all classified the sample as IGLV3‐21<sup>R110</sup>, thus bringing the total number of IGLV3‐21<sup>R110</sup>‐positive patients to 25 and the total number of patients with productive <italic toggle="yes">IGLV3‐21</italic> rearrangements to 34.</p></sec><sec id="hem370385-sec-0130"><title>Prevalence of IGLV3‐21<sup>R110</sup> and correlation with other genetic markers</title><p>A productive <italic toggle="yes">IGLV3‐21</italic> rearrangement was present in 34/515 (6.6%) patients, including 5/152 (3.3%) low‐risk patients of the observational group, 15/181 (8.3%) patients of the placebo group, and 14/182 (7.7%) patients of the ibrutinib group (Figure <xref rid="hem370385-fig-0001" ref-type="fig">1A</xref>). The prevalence of the G110R mutation in patients with the <italic toggle="yes">IGLV3‐21</italic> rearrangement was 73.5% (25/34) in the total study population, and 60% (3/5), 80% (12/15), and 71.4% (10/14) per each group, respectively (Figure <xref rid="hem370385-fig-0001" ref-type="fig">1B</xref>). In line with published data,<xref rid="hem370385-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="hem370385-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="hem370385-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="hem370385-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> IGLV3‐21<sup>R110</sup>‐positive patients had an intermediate IGHV mutational load, although 18 (72%) of them would be classified as M‐CLL based on the 98% sequence identity threshold (Figure <xref rid="hem370385-fig-0001" ref-type="fig">1C</xref>; Supporting Information S2: Table <xref rid="hem370385-suppl-0002" ref-type="supplementary-material">S4</xref>). The similarity of IGHV to the respective germline sequences ranged from 92.75% to 99.03%. The <italic toggle="yes">IGLV3‐21*04</italic> allele was used by all 25 cases carrying the G110R mutation, as well as by 3 cases without the mutation (Supporting Information S1: Figure <xref rid="hem370385-suppl-0002" ref-type="supplementary-material">S2</xref>). Among the remaining 6 patients expressing IGLV3‐21 LCs, 4 used the <italic toggle="yes">IGLV3‐21*02</italic> allele, and 2 used the <italic toggle="yes">IGLV3‐21*03</italic> allele. All 5 cases that used the <italic toggle="yes">IGLJ1</italic> segment had the G110R mutation, whereas none of the 6 cases that used the <italic toggle="yes">IGLJ2</italic> segment had the mutation (Figure <xref rid="hem370385-fig-0001" ref-type="fig">1D</xref>). Nine of the 25 IGLV3‐21<sup>R110</sup>‐positive cases carried stereotyped IGH genes (36%), all of them belonging to subset #2 (19 major stereotyped subsets analyzed). Apart from IGHV3‐21, the other most commonly used HCs were IGHV3‐23 (7 cases) and IGHV3‐48 (4 cases; Figure <xref rid="hem370385-fig-0001" ref-type="fig">1E</xref>), which aligned with findings in other CLL cohorts.<xref rid="hem370385-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="hem370385-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> None of the cases with IGHV3‐48 usage belonged to subset #169.</p><fig position="float" fig-type="Figure" id="hem370385-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>
+<bold>Prevalence of IGLV3‐21</bold>
+<sup>
+<bold>R110</bold>
+</sup>
+<bold>in the CLL12 cohort and correlation with other genetic markers</bold>. <bold>(A)</bold> Prevalence of the <italic toggle="yes">IGLV3‐21</italic> rearrangement in the three arms of the CLL12 trial. <bold>(B)</bold> Prevalence of the G110R mutation in the subgroup of patients with the <italic toggle="yes">IGLV3‐21</italic> rearrangement. <bold>(C)</bold> Combined box/scatter plots showing IGHV mutational load as the percentage of identity to the respective germline IGHV sequence. The dashed line depicts the threshold of 98% used for classifying CLL as M‐CLL or U‐CLL. Data from 534 IGHV‐defined CLL clones are shown, as some patients had more than one clone. ****P &lt; 0.0001, Welch's ANOVA with Dunnett's T3 all‐pairs comparison post‐hoc test. <bold>(D)</bold> Used IGLJ segment and presence or absence of the G110R mutation among the cases expressing IGLV3‐21. <bold>(E)</bold> Circos plot showing IGHV genes used by CLL clones classified as either M‐CLL, U‐CLL, or IGLV3‐21<sup>R110</sup> (<italic toggle="yes">n</italic> = 534, as in <bold>(C)</bold>). <bold>(F)</bold> Presence of specific chromosome aberrations and gene mutations in cases with and without IGLV3‐21<sup>R110</sup>. **P &lt; 0.01, Fisher's exact test with Benjamini–Hochberg correction. <bold>(G)</bold> Oncoprint plot of the most common driver alterations in CLL cases with a productive <italic toggle="yes">IGLV3‐21</italic> rearrangement. Grouping is according to the absence or presence of the G110R mutation, and additional displayed parameters include belonging to subset #2 and IGHV mutational status. Patients with two CLL clones of diverging IGHV mutational status are classified as having undetermined overall status. Percentages represent the proportion of patients carrying each specific driver alteration among IGLV3‐21<sup>G110</sup> cases (left) and IGLV3‐21<sup>R110</sup> cases (right).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="HEM3-10-e70385-g001.jpg"><?image-name HEM3-10-e70385-g001.jpg?><?image-size 182856?><?image-md5 41f64b9d982622659d42fa23f7d25e4e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1275?><?image-original-width 1054?><?image-scaled-height 849?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/6b69/13266578/41f64b9d9826/HEM3-10-e70385-g001.jpg?><?thumb-name HEM3-10-e70385-g001.gif?><?thumb-size 16560?><?thumb-md5 e9feb2d1cb8a65129b391df56cb6954c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 121?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/6b69/13266578/e9feb2d1cb8a/HEM3-10-e70385-g001.gif?></graphic></fig><p>We used FISH and tNGS to characterize the genomic landscape of IGLV3‐21<sup>R110</sup>‐positive CLL in comparison to IGLV3‐21<sup>R110</sup>‐negative CLL. None of the IGLV3‐21<sup>R110</sup>‐positive cases had del(17p13), whereas mutations in <italic toggle="yes">SF3B1</italic> were significantly more common in IGLV3‐21<sup>R110</sup>‐positive cases than in IGLV3‐21<sup>R110</sup>‐negative cases (32% vs. 6.1%, P &lt; 0.001, Figure <xref rid="hem370385-fig-0001" ref-type="fig">1F</xref>). None of the 9 IGLV3‐21<sup>G110</sup> cases had mutations in SF3B1. Although three of the earlier studies reported mutual exclusivity of IGLV3‐21<sup>R110</sup> and trisomy 12,<xref rid="hem370385-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="hem370385-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="hem370385-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> we detected one case that had both (Figure <xref rid="hem370385-fig-0001" ref-type="fig">1F,G</xref>). The frequencies of del(13q14) and del(11q22) were not significantly different between IGLV3‐21<sup>R110</sup>‐positive cases and IGLV3‐21<sup>R110</sup>‐negative cases.</p></sec><sec id="hem370385-sec-0140"><title>Clinical implications of IGLV3‐21<sup>R110</sup>
+</title><p>First, we analyzed whether expression of IGLV3‐21<sup>R110</sup> was associated with shorter TTFT. IGLV3‐21<sup>R110</sup> positivity was associated with shorter TTFT both in the watch‐and‐wait arm (hazard ratio [HR] 36.67, 95% confidence interval [CI] 7.21–186.49, P &lt; 0.001, albeit limited by very small sample sizes) and in the placebo arm (HR 2.57, 95% CI 1.28–5.16, P = 0.008; Figure <xref rid="hem370385-fig-0002" ref-type="fig">2</xref>). The ibrutinib arm was excluded from this analysis, as due to trial design, these patients received treatment early, before the criteria of the International Workshop on Chronic Lymphocytic Leukemia (iwCLL) were fulfilled.</p><fig position="float" fig-type="Figure" id="hem370385-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>
+<bold>Kaplan–Meier plot and risk table estimating time to first treatment in the watch &amp; wait and placebo cohorts of the CLL12 trial.</bold> The watch &amp; wait group is depicted in black and the placebo cohort is shown in green. Within each of the two groups, patients expressing IGLV3‐21<sup>R110</sup> (dashed lines) are compared against patients who do not express IGLV3‐21<sup>R110</sup> (solid lines). Hazard ratios (HR) with 95% confidence intervals and P values were calculated using the Cox proportional hazards regression model with the Wald test.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="HEM3-10-e70385-g005.jpg"><?image-name HEM3-10-e70385-g005.jpg?><?image-size 70453?><?image-md5 b0265fc9e3f167bfc63d12f584570e32?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 754?><?image-original-width 1054?><?image-scaled-height 502?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/6b69/13266578/b0265fc9e3f1/HEM3-10-e70385-g005.jpg?><?thumb-name HEM3-10-e70385-g005.gif?><?thumb-size 10702?><?thumb-md5 63dbfcc95684f643555c8822baa79e7a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 111?><?thumb-cloudpmc-urn urn:cdn:blobs/6b69/13266578/63dbfcc95684/HEM3-10-e70385-g005.gif?></graphic></fig><p>Next, we evaluated the effects of IGLV3‐21<sup>R110</sup> on the primary endpoint of the trial — EFS, as well as on OS. After a median follow‐up of 69.3 months, there were 166 events (32.2%) for EFS and 32 events for OS (6.2%). Considering the overall study population, IGLV3‐21<sup>R110</sup>‐positive CLL was associated with shorter EFS (HR 3.49, 95% CI 2.11–5.77, P &lt; 0.001), but not OS (HR 1.39, 95% CI 0.31–5.46, P = 0.717) compared to non‐IGLV3‐21<sup>R110</sup> cases (Figure <xref rid="hem370385-fig-0003" ref-type="fig">3A,B</xref>; Supporting Information S1: Tables <xref rid="hem370385-suppl-0002" ref-type="supplementary-material">S5</xref>‐<xref rid="hem370385-suppl-0002" ref-type="supplementary-material">S6</xref>). The presence of IGLV3‐21<sup>R110</sup> was associated with shorter EFS both among patients with increased risk of progression in the treatment arms (Figure <xref rid="hem370385-fig-0003" ref-type="fig">3C</xref>) as well as in low‐risk patients of the watch‐and‐wait cohort (Figure <xref rid="hem370385-fig-0003" ref-type="fig">3E</xref>; Supporting Information S1: Table <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S7</xref>), or in all patients who were not treated with ibrutinib (Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S3</xref>). In the treatment cohort, the HRs were 2.31 (95% CI 1.16–4.6, P = 0.017) in the placebo group and 2.99 (95% CI 1.17–7.65, P = 0.023) in the ibrutinib group (Figure <xref rid="hem370385-fig-0003" ref-type="fig">3C</xref>). The estimated 5‐year EFS rates were 50.2% without versus 20.8% with IGLV3‐21<sup>R110</sup> in the placebo group and 79.6% versus 54% in the ibrutinib group, respectively. Estimated 5‐year OS rates in the treatment arms of the trial were between 93.1% and 93.8% in the absence of IGLV3‐21<sup>R110</sup>, and its presence did not affect OS significantly (Figure <xref rid="hem370385-fig-0003" ref-type="fig">3D</xref>). The HR for shorter EFS with IGLV3‐21<sup>R110</sup> was 17.03 (95% CI 4.99–58.13, P &lt; 0.001) in the observational cohort of low‐risk patients (Figure <xref rid="hem370385-fig-0003" ref-type="fig">3E</xref>) and the HR for shorter OS was 30.86 (95% CI 2.78–343.09, <italic toggle="yes">P</italic> = 0.005; Figure <xref rid="hem370385-fig-0003" ref-type="fig">3F</xref>; Supporting Information S1: Table <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S8</xref>), but these results must be interpreted with caution, as the low‐risk cohort included only three patients with IGLV3‐21<sup>R110</sup>.</p><fig position="float" fig-type="Figure" id="hem370385-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>
+<bold>Kaplan–Meier plots and risk tables estimating event‐free and overall survival in the CLL12 trial. (A</bold>, <bold>B)</bold> EFS <bold>(A)</bold> and OS <bold>(B)</bold> of patients from all trial arms. The comparison is carried out between patients expressing IGLV3‐21<sup>R110</sup> (black) and patients not expressing IGLV3‐21 light chains (blue) or expressing IGLV3‐21<sup>G110</sup> (green), taken as one group. <bold>(C</bold>, <bold>D)</bold> EFS <bold>(C)</bold> and OS <bold>(D)</bold> of patients from the placebo (green) and ibrutinib (blue) arms. Within each treatment arm, patients expressing IGLV3‐21<sup>R110</sup> (dashed lines) are compared against patients who do not express IGLV3‐21<sup>R110</sup> (solid lines). <bold>(E</bold>, <bold>F)</bold> EFS <bold>(E)</bold> and OS <bold>(F)</bold> of patients from the observational arm. The comparison is carried out between patients expressing IGLV3‐21<sup>R110</sup> (black) and patients not expressing IGLV3‐21 light chains (blue) or expressing IGLV3‐21<sup>G110</sup> (green), taken as one group. Hazard ratios (HR) with 95% confidence intervals and P values were calculated using the Cox proportional hazards regression model with the Wald test. Statistics for all possible pairwise comparisons in <bold>(A</bold>, <bold>B)</bold> and <bold>(E</bold>, <bold>F)</bold> are provided in Supporting Information S1: Tables <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S5</xref>–<xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S8</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="HEM3-10-e70385-g002.jpg"><?image-name HEM3-10-e70385-g002.jpg?><?image-size 115339?><?image-md5 3f74c664cb9fe3cc68550f82c45173b7?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1152?><?image-original-width 1054?><?image-scaled-height 767?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/6b69/13266578/3f74c664cb9f/HEM3-10-e70385-g002.jpg?><?thumb-name HEM3-10-e70385-g002.gif?><?thumb-size 12069?><?thumb-md5 76537d4fd79f0066ac8a594cdaa6ca27?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 109?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/6b69/13266578/76537d4fd79f/HEM3-10-e70385-g002.gif?></graphic></fig><p>In the full trial, IGLV3‐21<sup>R110</sup>‐positive M‐CLL patients had significantly shorter EFS than M‐CLL patients without the mutation (HR 5.05, 95% CI: 2.79–9.12, P &lt; 0.001), while EFS was not significantly different between IGLV3‐21<sup>R110</sup>‐positive M‐CLL patients and U‐CLL patients regardless of their IGLV3‐21<sup>R110</sup> status (HR 1.39, 95% CI 0.31–6.16, P = 0.666 for the comparison with IGLV3‐21<sup>R110</sup>‐positive U‐CLL patients; HR 1.58, 95% CI: 0.88–2.86, P = 0.126 for the comparison with IGLV3‐21<sup>R110</sup>‐negative U‐CLL patients; Figure <xref rid="hem370385-fig-0004" ref-type="fig">4A</xref>; Supporting Information S1: Table <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S9</xref>). These observations were also valid when the ibrutinib group was analyzed separately (Figure <xref rid="hem370385-fig-0004" ref-type="fig">4C</xref>; Supporting Information S1: Table <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S10</xref>). OS did not differ significantly between the groups defined by IGHV status and the presence of IGLV3‐21<sup>R110</sup> (Figure <xref rid="hem370385-fig-0004" ref-type="fig">4B,D</xref>; Supporting Information S1: Tables <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S11</xref>‐<xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S12</xref>).</p><fig position="float" fig-type="Figure" id="hem370385-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>
+<bold>Kaplan–Meier plots and risk tables estimating event‐free and overall survival in the CLL12 trial. (A</bold>, <bold>B)</bold> EFS <bold>(A)</bold> and OS <bold>(B)</bold> of patients from all trial arms stratified according to their IGHV mutational status—unmutated (green and blue) or mutated (black and red). Within each of the two groups, patients expressing IGLV3‐21<sup>R110</sup> (green or black, respectively) are compared against patients who do not express IGLV3‐21<sup>R110</sup> (blue or red, respectively). <bold>(C</bold>, <bold>D)</bold> EFS <bold>(C)</bold> and OS <bold>(D)</bold> of patients from the ibrutinib arm separated according to their IGHV mutational status— unmutated (green and blue) or mutated (black and red). Within each of the two groups, patients expressing IGLV3‐21<sup>R110</sup> (green or black, respectively) are compared against patients who do not express IGLV3‐21<sup>R110</sup> (blue or red, respectively). Hazard ratios (HR) with 95% confidence intervals and P values were calculated using the Cox proportional hazards regression model with the Wald test. Statistics for all possible pairwise comparisons are provided in Supporting Information S1: Tables <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S9</xref>–<xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S12</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="HEM3-10-e70385-g004.jpg"><?image-name HEM3-10-e70385-g004.jpg?><?image-size 90905?><?image-md5 80021436450b83fdc334d21c8287a252?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 772?><?image-original-width 1054?><?image-scaled-height 514?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/6b69/13266578/80021436450b/HEM3-10-e70385-g004.jpg?><?thumb-name HEM3-10-e70385-g004.gif?><?thumb-size 10910?><?thumb-md5 c6b2793dea3c3848919feaa72595e8db?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 109?><?thumb-cloudpmc-urn urn:cdn:blobs/6b69/13266578/c6b2793dea3c/HEM3-10-e70385-g004.gif?></graphic></fig><p>When patients of the overall study population were stratified according to the presence or absence of <italic toggle="yes">SF3B1</italic> mutations, IGLV3‐21<sup>R110</sup>‐positive patients in any of the two resulting groups had shorter EFS than their respective IGLV3‐21<sup>R110</sup>‐negative counterparts (Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S4</xref>), which shows that the effects of IGLV3‐21<sup>R110</sup> on EFS are not due to its association with <italic toggle="yes">SF3B1</italic> mutations. Similarly, the effect of IGLV3‐21<sup>R110</sup> on EFS could not be explained by its association with subset #2, as among all IGLV3‐21<sup>R110</sup>‐positive patients, those that did not belong to subset #2 showed a trend of having even shorter EFS (Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S5</xref>).</p><p>Multivariable analysis was performed for the treatment cohort, including variables that were associated significantly with EFS in univariable analyses: IGHV status, IGLV3‐21 usage, IGLV3‐21<sup>R110</sup> status, treatment arm (placebo or ibrutinib), serum β2‐microglobulin, del(17p), del(11q), and +(12) (Supporting Information S1: Table <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S13</xref>). IGLV3‐21<sup>R110</sup> (HR 3.18, 95% CI 1.73–5.83, P &lt; 0.001) was identified as an independent prognostic parameter along with treatment arm, IGHV status, and del(17p) (Table <xref rid="hem370385-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="hem370385-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Multivariable analysis of the effects of various prognostic variables on event‐free survival. The results of the univariable analysis are provided in Supporting Information S1: Table <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S13</xref>.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="(" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="." span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Prognostic factor</th><th align="left" valign="bottom" rowspan="1" colspan="1">Hazard ratio (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">P value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Treatment with ibrutinib</td><td align="char" valign="top" rowspan="1" colspan="1">0.251 (0.170–0.371)</td><td align="char" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Unmutated IGHV</td><td align="char" valign="top" rowspan="1" colspan="1">3.525 (2.449–5.076)</td><td align="char" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">del(17p)</td><td align="char" valign="top" rowspan="1" colspan="1">3.357 (1.683–6.696)</td><td align="char" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IGLV3‐21<sup>R110</sup>
+</td><td align="char" valign="top" rowspan="1" colspan="1">3.178 (1.731–5.832)</td><td align="char" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="hem370385-sec-0150"><title>Effects of IGLV3‐21<sup>R110</sup> on the potency of ibrutinib as an inhibitor of BCR signaling</title><p>As the above results showed that treatment with ibrutinib does not fully abrogate the negative effect of IGLV3‐21<sup>R110</sup> on EFS, we hypothesized that ibrutinib cannot inhibit signaling through BCRs containing IGLV3‐21<sup>R110</sup> with the effectiveness observed in the presence of other types of LCs, including IGLV3‐21<sup>G110</sup>. To test this hypothesis, we analyzed the signaling capacity (both cell‐autonomous and antigen‐dependent) of patient‐derived BCRs carrying either wild‐type IGLV3‐21<sup>G110</sup> (<italic toggle="yes">n</italic> = 3) or mutated IGLV3‐21<sup>R110</sup> (<italic toggle="yes">n</italic> = 5) and expressed on murine TKO‐EST cells, in the presence or absence of ibrutinib. All receptors (Supporting Information S2: Table <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S1</xref>) were expressed, assembled, and transported to the membrane surface as determined by FC (Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S6</xref>). Strikingly, BCRs with IGLV3‐21 LCs triggered both autonomously induced and anti‐λ crosslinking‐initiated Ca<sup>2+</sup> influx, regardless of the presence of a G110R mutation (Figure <xref rid="hem370385-fig-0005" ref-type="fig">5A</xref>; Supporting Information S1: Figures <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S7</xref> and <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S8</xref>). As expected, anti‐λ treatment resulted in stronger Ca<sup>2+</sup> influx compared to autonomous signaling, as demonstrated by larger area under the curve (AUC).</p><fig position="float" fig-type="Figure" id="hem370385-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>
+<bold>IGLV3‐21</bold>
+<sup>
+<bold>R110</bold>
+</sup>
+<bold>reduces the effectiveness of ibrutinib. (A)</bold> Ca<sup>2+</sup> influx in TKO‐EST cells expressing a BCR from CLL patient 1 (IGLV3‐21<sup>G110</sup>, left panels) or from CLL patient 4 (IGLV3‐21<sup>R110</sup>, right panels). Cells were pre‐treated with vehicle or ibrutinib (100 or 500 nM, as indicated). On each density plot, the first arrow denotes the addition of 4‐hydroxytamoxifen (used to induce the ERT2‐SLP65 fusion protein and enable measurement of autonomous signaling) and the second arrow denotes the addition of anti‐κ/λ antibodies for measurement of antigen‐stimulated signaling. Additional data obtained with all used BCRs are provided in Supporting Information S1: Figures <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S7</xref>–<xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S9</xref>. <bold>(B</bold>, <bold>C)</bold> Summarized data from the experiments described in <bold>(A)</bold> after normalization of the Ca<sup>2+</sup> influx AUC to the mean of each respective untreated control. <bold>(B)</bold> Inhibition of autonomous signaling. <bold>(C)</bold> Inhibition of antigen‐stimulated signaling. Mean values are denoted by dashes. Statistical significance was evaluated using repeated‐measures two‐way ANOVA with uncorrected Fisher's LSD test. *P &lt; 0.05; **P &lt; 0.01; ***P &lt; 0.001; and ****P &lt; 0.0001. <bold>(D)</bold> Survival of TKO‐EST cells expressing BCRs from CLL patients with IGLV3‐21<sup>G110</sup> or IGLV3‐21<sup>R110</sup> light chains after treatment with ibrutinib for 48 h. Cell survival was measured using the CellTiter‐Glo® cell viability assay using a minimum of three replicates for each BCR. Each curve (four‐parameter logistic model) corresponds to a different patient BCR. An autonomously active BCR from a previously analyzed subset #201 CLL patient was used as a positive control. A BCR isolated from a naïve B‐cell from a healthy donor (IGHV4‐39/IGKV3‐15) was used as a negative control for autonomous signaling. Statistical evaluation was performed by 2‐way ANOVA and Šidák's multiple comparisons test, where the IGLV3‐21<sup>G110</sup> and IGLV3‐21<sup>R110</sup> groups were compared at each ibrutinib concentration level. *P &lt; 0.05; ****P &lt; 0.0001. Absolute IC<sub>50</sub> values with 95% confidence intervals were determined from each curve and then geometrically averaged within each group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="HEM3-10-e70385-g003.jpg"><?image-name HEM3-10-e70385-g003.jpg?><?image-size 150434?><?image-md5 77074cabb2c649006c45b43be690773d?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 784?><?image-original-width 1054?><?image-scaled-height 522?><?image-scaled-width 702?><?image-cloudpmc-urn urn:cdn:blobs/6b69/13266578/77074cabb2c6/HEM3-10-e70385-g003.jpg?><?thumb-name HEM3-10-e70385-g003.gif?><?thumb-size 15456?><?thumb-md5 9abe7118b55f78813e209bbcabc58e64?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 107?><?thumb-cloudpmc-urn urn:cdn:blobs/6b69/13266578/9abe7118b55f/HEM3-10-e70385-g003.gif?></graphic></fig><p>Next, we analyzed the effect of ibrutinib on BCR signaling. Treatment with 100 nM ibrutinib was able to suppress both autonomous and antigen‐dependent signaling in all 3 tested IGLV3‐21<sup>G110</sup> cases (Figure <xref rid="hem370385-fig-0005" ref-type="fig">5A–C</xref> and Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S9</xref>). In contrast, the response of cells expressing IGLV3‐21<sup>R110</sup> was more nuanced — 4 of the 5 tested cases showed effective inhibition of autonomous signaling (Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S9A</xref>), while antigen‐dependent signaling was significantly decreased in only one case (Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S9B</xref>). Comparing the average AUC values per group, ibrutinib reduced autonomous signaling by 95% in IGLV3‐21<sup>G110</sup>‐expressing cells and by 86% in IGLV3‐21<sup>R110</sup>‐expressing cells (Figure <xref rid="hem370385-fig-0005" ref-type="fig">5B</xref>), whereas antigen‐stimulated signaling was reduced by 78% in IGLV3‐21<sup>G110</sup>‐expressing cells and by only 36% in IGLV3‐21<sup>R110</sup>‐expressing cells (Figure <xref rid="hem370385-fig-0005" ref-type="fig">5C</xref>). Thus, ibrutinib was significantly less effective as an inhibitor of antigen‐stimulated signaling in the presence of IGLV3‐21<sup>R110</sup> (P = 0.006). Next, we compared the loss of viability of IGLV3‐21<sup>G110</sup>‐ and IGLV3‐21<sup>R110</sup>‐expressing cells when exposed to ibrutinib for 48 h. IGLV3‐21<sup>R110</sup>‐expressing cells showed significantly higher survival compared to IGLV3‐21<sup>G110</sup>‐expressing cells at all tested concentrations of ibrutinib and, moreover, their viability was similar to that of cells expressing an autonomously reactive BCR from a CLL subset #201 case used as a positive control (Figure <xref rid="hem370385-fig-0005" ref-type="fig">5D</xref>). The viability of IGLV3‐21<sup>G110</sup>‐expressing cells was lower and similar to that of cells expressing a BCR from a healthy donor.</p><p>Additionally, we performed BH3 profiling of primary CLL cells expressing IGLV3‐21<sup>R110</sup> (<italic toggle="yes">n</italic> = 12) or not (<italic toggle="yes">n</italic> = 17). Both groups reacted with equally pronounced concentration‐dependent release of cytochrome c after treatment with either the activator peptide BIM or the MCL‐1 targeting sensitizer MS1, while IGLV3‐21<sup>R110</sup>‐positive cells were more sensitive to both BAD and venetoclax that act by inhibiting Bcl‐2 (Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S10A</xref>). Pretreatment of cells with 1 µM ibrutinib for 24 h significantly increased cytochrome <italic toggle="yes">c</italic> release in response to BAD and venetoclax in IGLV3‐21<sup>R110</sup>‐negative cells, but not in IGLV3‐21<sup>R110</sup>‐positive cells (Supporting Information S1: Figure <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S10B</xref>). Collectively, these results point to increased dependence of IGLV3‐21<sup>R110</sup>‐expressing CLL cells on Bcl‐2 and reduced additional priming in response to ibrutinib.</p></sec></sec><sec sec-type="discussion" id="hem370385-sec-0160"><title>DISCUSSION</title><p>In this early‐stage CLL cohort from the CLL12 trial, we observed a productive rearrangement of <italic toggle="yes">IGLV3‐21</italic> in 34 (6.6%) of 515 patients, and 25 of them (4.9% in total) were IGLV3‐21<sup>R110</sup>‐positive. The percentage of IGLV3‐21<sup>R110</sup>‐positive CLL cases in various studies has ranged from 3.5%–7.7% in cohorts collected by single institutions,<xref rid="hem370385-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> probably on an all‐comer basis, to 25% in treatment trials like HOVON‐139 and HOVON‐141.<xref rid="hem370385-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> It has been hypothesized that this discrepancy can be explained by enrichment of IGLV3‐21<sup>R110</sup> cases in populations requiring therapy, as IGLV3‐21<sup>R110</sup> CLL is associated with shorter TTFT.<xref rid="hem370385-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Geographical differences in the frequency of the <italic toggle="yes">IGLV3‐21*01</italic> and <italic toggle="yes">IGLV3‐21*04</italic> alleles might also play a role.<xref rid="hem370385-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> The CLL12 trial has a unique study population including only patients without the need for treatment per iwCLL criteria.<xref rid="hem370385-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Thus, our study cohort was most likely not enriched in IGLV3‐21<sup>R110</sup> cases and their observed percentage should be representative of the prevalence of IGLV3‐21<sup>R110</sup> in the broad CLL patient population at diagnosis. The lower percentage of IGLV3‐21<sup>R110</sup> cases in the low‐risk group (2%; 3/152) compared to the treatment group (6.1%; 22/363) hinted at an association of IGLV3‐21<sup>R110</sup> with the risk factors (age &gt;60 years, male sex, β2‐microglobulin 1.7–3.5 mg/L or &gt;3.5 mg/L, ECOG performance status &gt;0, thymidine kinase &gt;10 U/L, unmutated IGHV status, del(11q), and del(17p)) that make up the GCLLSG score<xref rid="hem370385-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> used for estimating the risk of disease progression and, respectively, for the allocation of patients to the observational or the treatment group. Indeed, an additional analysis showed the correlation of IGLV3‐21<sup>R110</sup> with both serum thymidine kinase (P = 0.023) and β2‐microglobulin levels (P = 0.049; Supporting Information S1: Table <xref rid="hem370385-suppl-0001" ref-type="supplementary-material">S14</xref>).</p><p>Interestingly, all IGLV3‐21<sup>R110</sup> cases in our cohort used either the IGLJ1 or IGLJ3 segment, and none used the IGLJ2 segment. Furthermore, all cases with IGLJ3 usage expressed exclusively the <italic toggle="yes">IGLJ3*02</italic> allele and not the <italic toggle="yes">IGLJ3*01</italic> allele, which has the same sequence as <italic toggle="yes">IGLJ2</italic>. Two other studies that have determined the usage of IGLJ segments report a similar picture with 0/19,<xref rid="hem370385-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> resp. 0/24<xref rid="hem370385-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> IGLV3‐21<sup>R110</sup>‐expressing CLL clones using IGLJ2, although the possible reasons were not elaborated. The reference AA sequence of IGLJ3*02 differs from IGLJ3*01 and resp. from IGLJ2 by a single residue, namely, IGLJ3*02 has a tryptophan (W) at position 98, while IGLJ3*01 and IGLJ2 have a valine (V) at the same position. IGLJ1 has a tyrosine (Y) at position 98 but also additional differences compared to IGLJ3*02. In light of the combined evidence, we hypothesize that a bulky AA residue at position 98 whose side chain is capable of hydrogen bonding is essential for the homotypic BCR–BCR interaction that is characteristic of IGLV3‐21<sup>R110</sup>‐positive CLL. Similar to other published data,<xref rid="hem370385-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="hem370385-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="hem370385-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> we observed skewed usage of HCs in IGLV3‐21<sup>R110</sup> cases, with a limited repertoire dominated by IGHV3‐21, IGHV3‐23, and IGHV3‐48, reflecting the indispensability of specific critical AA residues for homotypic BCR–BCR interactions in the context of IGLV3‐21<sup>R110</sup>.<xref rid="hem370385-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="hem370385-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Most IGLV3‐21<sup>R110</sup> cases in CLL12 had borderline IGHV mutational status and none had 100% identity with the respective germline sequence, again corroborating earlier reports.<xref rid="hem370385-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="hem370385-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="hem370385-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="hem370385-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>Previous retrospective analyses have suggested that IGLV3‐21<sup>R110</sup> is a prognostic marker for shorter TTFT.<xref rid="hem370385-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="hem370385-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="hem370385-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Our data confirm these observations in a prospective trial including also patients who are classified as low risk according to standard criteria (GCLLSG score). Moreover, we show for the first time in a relatively large randomized phase 3 clinical trial that IGLV3‐21<sup>R110</sup>‐positive CLL patients have shorter EFS, and multivariable analysis identified IGLV3‐21<sup>R110</sup> as an independent prognostic factor. Notably, while early treatment with ibrutinib significantly delayed progression to symptomatic disease, it could not fully abrogate the reduced EFS associated with the presence of IGLV3‐21<sup>R110</sup>. In line with this, our in vitro experiments with murine B‐cells expressing CLL‐derived BCRs demonstrated reduced ability of ibrutinib to inhibit antigen‐triggered signaling through the BCR/BTK pathway in the setting of IGLV3‐21<sup>R110</sup> expression. Accordingly, these cells survived higher concentrations of ibrutinib. Interestingly, autonomous signaling through the BCR/BTK pathway was fully impaired upon ibrutinib treatment irrespective of IGLV3‐21<sup>R110</sup> expression. Notably, induction of autonomous signaling in these experiments was not restricted to IGLV3‐21<sup>R110</sup>‐containing BCRs, which challenges the originally proposed model based on stereotypic CLL subset #2.<xref rid="hem370385-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Indeed, the role of specific LC–HC pairings has been increasingly recognized as an additional layer to the original classification of HC‐based major stereotypic CLL subsets and has been linked to distinct biological and clinical implications.<xref rid="hem370385-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> Owing to the complex secondary and tertiary structures of BCRs, single‐point mutations affecting the HC can result in gain or loss of autonomous signaling, irrespective of IGLV3‐21<sup>R110</sup> usage.<xref rid="hem370385-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="hem370385-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> In other words, there could be IGLV3‐21<sup>R110</sup>‐containing BCRs that are not autonomously active, as well as IGLV3‐21<sup>G110</sup>‐containing BCRs that are autonomously active, as shown in the current study. Together, these observations raise the question of whether the CLL‐driving properties of IGLV3‐21<sup>R110</sup> are really due to autonomous signaling or rather due to interaction with some as yet unidentified autoantigen(s). Our current results support this alternative hypothesis, as antigen‐dependent signaling through IGLV3‐21<sup>R110</sup>‐containing BCRs was poorly inhibited by ibrutinib compared to IGLV3‐21<sup>G110</sup> cases. However, more observations will be necessary for a firm conclusion, preferably using model systems other than the TKO‐EST system used here to overcome the difficulties with studying BCR signaling in primary cells.</p><p>It must be considered that treatment with ibrutinib in the CLL12 trial was started early, in patients who would not normally be treated yet according to iwCLL guidelines. The prognostic and possibly predictive value of IGLV3‐21<sup>R110</sup> for the effectiveness of ibrutinib and other state‐of‐the‐art therapies should be further studied in randomized trials including patients fulfilling the treatment indication criteria of the iwCLL. In light of our finding that IGLV3‐21<sup>R110</sup>‐expressing CLL cells have increased dependence on Bcl‐2 and, respectively, susceptibility to venetoclax, it might be expected that venetoclax would be more effective in IGLV3‐21<sup>R110</sup>‐positive CLL. It is well known that ibrutinib increases Bcl‐2 dependence of CLL cells and enhances sensitivity to venetoclax;<xref rid="hem370385-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="hem370385-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> however, our dynamic BH3‐profiling results suggest that this synergistic effect might be less pronounced in IGLV3‐21<sup>R110</sup>‐positive CLL. For reference, the effect of IGLV3‐21<sup>R110</sup> has already been evaluated in CLL patients undergoing first‐line treatment with obinutuzumab and venetoclax in the HOVON‐139 phase 2 trial, as well as in relapsed/refractory CLL patients treated with ibrutinib and venetoclax in the Dutch sub‐cohort of the HOVON‐141/VISION phase 2 trial, with the result that no evidence for a prognostic impact on the efficacy of targeted therapies could be found.<xref rid="hem370385-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> However, the number of IGLV3‐21<sup>R110</sup> patients in these trials was small, limiting the conclusions, and larger studies would be needed to establish optimal treatment strategies for IGLV3‐21<sup>R110</sup>‐positive CLL.</p><p>Our results might, at first glance, seem contradictory with the results of a recently published large French retrospective study by Bussot et al., who claimed longer progression‐free survival for subset #2 patients treated with BTK inhibitors and tried to extrapolate this finding to the broader group of all IGLV3‐21<sup>R110</sup>‐positive CLL patients, although they did not test for IGLV3‐21<sup>R110</sup> in their study.<xref rid="hem370385-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> However, in our study, only 36% of all IGLV3‐21<sup>R110</sup>‐positive CLL patients belonged to subset #2 and, moreover, the shorter EFS in the IGLV3‐21<sup>R110</sup>‐positive group was mostly driven by the non‐subset #2 cases—an important group of patients who remained ignored by the study of Bussot et al., also because they restricted their analysis only to patients expressing IGHV3‐21.<xref rid="hem370385-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+</p><p>Finally, our comparison of IGLV3‐21<sup>R110</sup> detection methods showed very good concordance and demonstrated the feasibility of using a single tNGS panel for simultaneous detection of IGLV3‐21<sup>R110</sup> and mutations in other recurrently mutated genes in CLL. Our results also show that caution is needed with any of the primer‐based approaches, as point mutations, which are common in the variable regions of immunoglobulins, can affect primer binding and can lead to false‐negative results, thus advocating for the parallel use of independent sets of primers covering the same region or orthogonal methods like FC to ensure higher reliability. Although we did not see any false‐negative results with FC, it has to be considered that AA residue changes in the vicinity of position 110 of the IGLV3‐21 LC can theoretically affect antibody binding and the reliability of this method.</p><p>In summary, IGLV3‐21<sup>R110</sup> was identified as an adverse marker of independent prognostic impact for shorter EFS in early‐stage CLL with intermediate to very high risk of disease progression and was associated with reduced effectiveness of ibrutinib, both clinically and in vitro. It remains unclear to what extent these effects are mediated by autonomous signaling or by interaction of IGLV3‐21<sup>R110</sup>‐containing BCRs with a particular antigen. Future studies should resolve this question and assess the impact of IGLV3‐21<sup>R110</sup> on the effectiveness of BTK inhibitors in closer‐to‐real‐life settings, that is, in patients fulfilling the treatment indication criteria of the iwCLL.</p></sec><sec id="hem370385-sec-0180"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>Deyan Y. Yosifov</bold>: Conceptualization; methodology; investigation; data curation; formal analysis; project administration; software; validation; visualization; writing—original draft preparation; writing—review and editing. <bold>Sandra Robrecht</bold>: Formal analysis; methodology; validation; visualization; writing—review and editing. <bold>Adam Giza</bold>: Formal analysis; visualization. <bold>Palash C. Maity</bold>: Methodology; investigation; validation; formal analysis; visualization; writing—review and editing. <bold>Armin Riecke</bold>: Resources. <bold>Christoph Schneider</bold>: Resources; formal analysis; writing—review and editing. <bold>Billy M. C. Jebaraj</bold>: Conceptualization; methodology; validation; writing—review and editing. <bold>Rashmi P. Dheenadayalan:</bold> Methodology; investigation. <bold>Hassan Jumaa</bold>: Investigation; validation. <bold>Marc Young</bold>: Investigation; validation. <bold>Manish Kumar</bold>: Investigation; formal analysis. <bold>Lothar Müller</bold>: Resources. <bold>Ursula Vehling‐Kaiser</bold>: Resources. <bold>Michael Eckart</bold>: Resources. <bold>Werner Freier</bold>: Resources. <bold>Björn Schöttker</bold>: Resources. <bold>Tobias Gaska</bold>: Resources. <bold>Marcel Reiser</bold>: Resources. <bold>Anna‐Maria Fink</bold>: Resources. <bold>Kirsten Fischer</bold>: Resources; writing—review and editing. <bold>Barbara Eichhorst</bold>: Resources; writing—review and editing. <bold>Michael Hallek</bold>: Resources; writing—review and editing. <bold>Petra Langerbeins</bold>: Conceptualization; resources; writing—review and editing. <bold>Eugen Tausch</bold>: Conceptualization; resources; formal analysis; validation; supervision; writing—review and editing; funding acquisition. <bold>Stephan Stilgenbauer</bold>: Conceptualization; resources; formal analysis; validation; supervision; writing—review and editing; funding acquisition.</p></sec><sec sec-type="COI-statement" id="hem370385-sec-0190"><title>CONFLICT OF INTEREST STATEMENT</title><p>S.R. reports personal fees from MSD outside the submitted work. A.R. reports personal fees outside the submitted work from AstraZeneca, BMS, Roche, and Regeneron. C.S. has received honoraria from AbbVie, AstraZeneca, Janssen‐Cilag, Lilly, MSD, and Novartis. A.‐M.F. reports personal fees from Janssen outside the submitted work. K.F. reports honoraria from Roche and AbbVie during the conduct of the study. B.E. reports grants and personal fees from Janssen‐Cilag, Roche, AbbVie, and Gilead, and personal fees from Novartis, Celgene, ArQule, AstraZeneca, Oxford Biomedica (UK), and grants from BeiGene outside the submitted work. M.H. received institutional research support from AbbVie, F. Hoffman‐La Roche, Gilead, Janssen‐Cilag, and Mundipharma during the conduct of the study. P.L. reports grants and other support from Janssen‐Cilag, BeOne, AstraZeneca, AbbVie, and F. Hoffman‐La Roche during the conduct of the study. E.T. reports grants and personal fees from Roche during the conduct of the study; grants, personal fees, and nonfinancial support from AbbVie; and personal fees and nonfinancial support from Janssen outside the submitted work. S.S. reports grants, personal fees, and nonfinancial support from AbbVie, AstraZeneca, Celgene, Gilead, F. Hoffmann‐La Roche, Janssen (Johnson &amp; Johnson), and Novartis during the conduct of the study; and grants, personal fees, and nonfinancial support from AbbVie, AstraZeneca, Celgene, F. Hoffmann‐La Roche, Janssen, and Novartis outside the submitted work. The remaining authors declare no competing financial interests.</p></sec><sec id="hem370385-sec-0220"><title>ETHICS STATEMENT</title><p>This study was conducted in accordance with the Declaration of Helsinki and was approved by the Institutional Review Board of the University Hospital in Ulm, Germany.</p></sec><sec id="hem370385-sec-0230"><title>FUNDING</title><p>P.C.M. is supported by grants from the Fritz Thyssen Foundation (10.23.1.012MN) and the German Research Foundation (DFG CRC1279, Project B01 to Christian Buske). Open Access funding enabled and organized by Projekt DEAL.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="hem370385-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>IGLV3‐21 CLL12 Supporting Information S1.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HEM3-10-e70385-s002.pdf" position="float" orientation="portrait"><?suppdata-name HEM3-10-e70385-s002.pdf?><?suppdata-size 3084021?><?suppdata-md5 4d7fcc71d8120578800d485486e6b899?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:6b69/13266578/4d7fcc71d812/HEM3-10-e70385-s002.pdf?></media></supplementary-material><supplementary-material id="hem370385-suppl-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>IGLV3‐21 CLL12 Supporting Information S2.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HEM3-10-e70385-s001.xlsx" position="float" orientation="portrait"><?suppdata-name HEM3-10-e70385-s001.xlsx?><?suppdata-size 83775?><?suppdata-md5 9e7069e74aafd07c9c4369b131d8a7ef?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.spreadsheetml.sheet?><?suppdata-cloudpmc-urn urn:app:6b69/13266578/9e7069e74aaf/HEM3-10-e70385-s001.xlsx?></media></supplementary-material></sec></body><back><ack id="hem370385-sec-0170"><title>ACKNOWLEDGMENTS</title><p>We are immensely thankful to all patients for allowing the use of their samples for research purposes. We thank Sabrina Rau, Bettina Hussak, Isabell Wäckerle, Jacqueline Fiegel, Elisa Graf, Natalie Paul, Julia Sempf, and Sandhya Bernecker for the excellent technical support. We thank Kostas Stamatopoulos and Paolo Ghia for the CLL subset #169 and subset #201 sequences, and Valter Gattei for one of the subset #2 sequences. We are thankful for the support provided by Johnson &amp; Johnson.</p></ack><sec sec-type="data-availability" id="hem370385-sec-0210"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list content-type="cited-references" id="hem370385-bibl-0001"><title>REFERENCES</title><ref id="hem370385-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hem370385-cit-0001">
+<string-name name-style="western">
+<surname>Braish</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cerchione</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrajoli</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>An overview of prognostic markers in patients with CLL</article-title>. <source>Front Oncol</source>. <year>2024</year>;<volume>14</volume>:<elocation-id>1371057</elocation-id>. <pub-id pub-id-type="doi">10.3389/fonc.2024.1371057</pub-id>
+<pub-id pub-id-type="pmid">38817892</pub-id>
+<pub-id pub-id-type="pmcid">PMC11137234</pub-id></mixed-citation></ref><ref id="hem370385-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hem370385-cit-0002">
+<string-name name-style="western">
+<surname>Yosifov</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolf</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stilgenbauer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mertens</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>From biology to therapy: The CLL success story</article-title>. <source>HemaSphere</source>. <year>2019</year>;<volume>3</volume>(<issue>2</issue>):<elocation-id>e175</elocation-id>. <pub-id pub-id-type="doi">10.1097/HS9.0000000000000175</pub-id>
+<pub-id pub-id-type="pmid">31723816</pub-id>
+<pub-id pub-id-type="pmcid">PMC6746030</pub-id></mixed-citation></ref><ref id="hem370385-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hem370385-cit-0003">
+<string-name name-style="western">
+<surname>Datta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jumaa</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Immunoglobulin gene sequence as an inherited and acquired risk factor for chronic lymphocytic leukemia</article-title>. <source>Cancers (Basel)</source>. <year>2022</year>;<volume>14</volume>(<issue>13</issue>):<elocation-id>3045</elocation-id>. <pub-id pub-id-type="doi">10.3390/cancers14133045</pub-id>
+<pub-id pub-id-type="pmid">35804817</pub-id>
+<pub-id pub-id-type="pmcid">PMC9264995</pub-id></mixed-citation></ref><ref id="hem370385-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hem370385-cit-0004">
+<string-name name-style="western">
+<surname>Minici</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gounari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ubelhart</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Distinct homotypic B‐cell receptor interactions shape the outcome of chronic lymphocytic leukaemia</article-title>. <source>Nat Commun</source>. <year>2017</year>;<volume>8</volume>:<elocation-id>15746</elocation-id>. <pub-id pub-id-type="doi">10.1038/ncomms15746</pub-id>
+<pub-id pub-id-type="pmid">28598442</pub-id>
+<pub-id pub-id-type="pmcid">PMC5472768</pub-id></mixed-citation></ref><ref id="hem370385-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hem370385-cit-0005">
+<string-name name-style="western">
+<surname>Duhren‐von</surname>
+</string-name>, <string-name name-style="western">
+<surname>Minden</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ubelhart</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Chronic lymphocytic leukaemia is driven by antigen‐independent cell‐autonomous signalling</article-title>. <source>Nature</source>. <year>2012</year>;<volume>489</volume>(<issue>7415</issue>):<fpage>309</fpage>‐<lpage>312</lpage>. <pub-id pub-id-type="doi">10.1038/nature11309</pub-id>
+<pub-id pub-id-type="pmid">22885698</pub-id>
+</mixed-citation></ref><ref id="hem370385-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hem370385-cit-0006">
+<string-name name-style="western">
+<surname>Maity</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bilal</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koning</surname>
+<given-names>MT</given-names>
+</string-name>, et al. <article-title>
+<italic toggle="yes">IGLV3‐21*01</italic> is an inherited risk factor for CLL through the acquisition of a single‐point mutation enabling autonomous BCR signaling</article-title>. <source>Proc Natl Acad Sci</source>. <year>2020</year>;<volume>117</volume>(<issue>8</issue>):<fpage>4320</fpage>‐<lpage>4327</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1913810117</pub-id>
+<pub-id pub-id-type="pmid">32047037</pub-id>
+<pub-id pub-id-type="pmcid">PMC7049113</pub-id></mixed-citation></ref><ref id="hem370385-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hem370385-cit-0007">
+<string-name name-style="western">
+<surname>Nadeu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Royo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clot</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>IGLV3‐21<sup>R110</sup> identifies an aggressive biological subtype of chronic lymphocytic leukemia with intermediate epigenetics</article-title>. <source>Blood</source>. <year>2021</year>;<volume>137</volume>(<issue>21</issue>):<fpage>2935</fpage>‐<lpage>2946</lpage>. <pub-id pub-id-type="doi">10.1182/blood.2020008311</pub-id>
+<pub-id pub-id-type="pmid">33211804</pub-id>
+<pub-id pub-id-type="pmcid">PMC8191863</pub-id></mixed-citation></ref><ref id="hem370385-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hem370385-cit-0008">
+<string-name name-style="western">
+<surname>Nicolò</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Linder</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jumaa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maity</surname>
+<given-names>PC</given-names>
+</string-name>. <article-title>The determinants of B cell receptor signaling as prototype molecular biomarkers of leukemia</article-title>. <source>Front Oncol</source>. <year>2021</year>;<volume>11</volume>:<elocation-id>771669</elocation-id>. <pub-id pub-id-type="doi">10.3389/fonc.2021.771669</pub-id>
+<pub-id pub-id-type="pmid">34993136</pub-id>
+<pub-id pub-id-type="pmcid">PMC8724047</pub-id></mixed-citation></ref><ref id="hem370385-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hem370385-cit-0009">
+<string-name name-style="western">
+<surname>Syrykh</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pons‐Brun</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Russiñol</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>IGLV3‐21<sup>R110</sup> mutation has prognostic value in patients with treatment‐naive chronic lymphocytic leukemia</article-title>. <source>Blood Adv</source>. <year>2023</year>;<volume>7</volume>(<issue>23</issue>):<fpage>7384</fpage>‐<lpage>7391</lpage>. <pub-id pub-id-type="doi">10.1182/bloodadvances.2023010132</pub-id>
+<pub-id pub-id-type="pmid">37505099</pub-id>
+<pub-id pub-id-type="pmcid">PMC10726246</pub-id></mixed-citation></ref><ref id="hem370385-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hem370385-cit-0010">
+<string-name name-style="western">
+<surname>Stamatopoulos</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crompot</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>The light chain IgLV3‐21 defines a new poor prognostic subgroup in chronic lymphocytic leukemia: results of a multicenter study</article-title>. <source>Clin Cancer Res</source>. <year>2018</year>;<volume>24</volume>(<issue>20</issue>):<fpage>5048</fpage>‐<lpage>5057</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-18-0133</pub-id>
+<pub-id pub-id-type="pmid">29945996</pub-id>
+</mixed-citation></ref><ref id="hem370385-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hem370385-cit-0011">
+<string-name name-style="western">
+<surname>Armand</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verrier</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Theves</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Prevalence of IGLV3‐21<sup>R110</sup> among familial CLL: a retrospective study of 45 cases</article-title>. <source>Blood Adv</source>. <year>2022</year>;<volume>6</volume>(<issue>12</issue>):<fpage>3632</fpage>‐<lpage>3635</lpage>. <pub-id pub-id-type="doi">10.1182/bloodadvances.2021006658</pub-id>
+<pub-id pub-id-type="pmid">35294518</pub-id>
+<pub-id pub-id-type="pmcid">PMC9631562</pub-id></mixed-citation></ref><ref id="hem370385-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hem370385-cit-0012">
+<string-name name-style="western">
+<surname>Hengeveld</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ertem</surname>
+<given-names>YE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dubois</surname>
+<given-names>JMN</given-names>
+</string-name>, et al. <article-title>Clinicobiological characteristics and treatment efficacy of novel agents in chronic lymphocytic leukemia with IGLV3‐21<sup>R110</sup>
+</article-title>. <source>Leukemia</source>. <year>2022</year>;<volume>36</volume>(<issue>7</issue>):<fpage>1935</fpage>‐<lpage>1938</lpage>. <pub-id pub-id-type="doi">10.1038/s41375-022-01600-6</pub-id>
+<pub-id pub-id-type="pmid">35585140</pub-id>
+</mixed-citation></ref><ref id="hem370385-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hem370385-cit-0013">
+<string-name name-style="western">
+<surname>Hengeveld</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Veelken</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Bergen</surname>
+<given-names>CAM</given-names>
+</string-name>, et al. <article-title>Prognosis of IGLV3‐21<sup>R110</sup> chronic lymphocytic leukemia after chemotherapy‐based treatment in a real‐world analysis</article-title>. <source>Leukemia</source>. <year>2023</year>;<volume>37</volume>(<issue>9</issue>):<fpage>1929</fpage>‐<lpage>1932</lpage>. <pub-id pub-id-type="doi">10.1038/s41375-023-01975-0</pub-id>
+<pub-id pub-id-type="pmid">37479761</pub-id>
+<pub-id pub-id-type="pmcid">PMC10457177</pub-id></mixed-citation></ref><ref id="hem370385-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hem370385-cit-0014">
+<string-name name-style="western">
+<surname>Paschold</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simnica</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brito</surname>
+<given-names>RB</given-names>
+</string-name>, et al. <article-title>Subclonal heterogeneity sheds light on the transformation trajectory in IGLV3‐21<sup>R110</sup> chronic lymphocytic leukemia</article-title>. <source>Blood Cancer J</source>. <year>2022</year>;<volume>12</volume>(<issue>3</issue>):<fpage>49</fpage>. <pub-id pub-id-type="doi">10.1038/s41408-022-00650-4</pub-id>
+<pub-id pub-id-type="pmid">35354800</pub-id>
+<pub-id pub-id-type="pmcid">PMC8969164</pub-id></mixed-citation></ref><ref id="hem370385-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hem370385-cit-0015">
+<string-name name-style="western">
+<surname>Lan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruminy</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bohers</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>5′ Rapid amplification of cDNA ends (5′RACE): a simpler method to analyze immunoglobulin genes and discover the value of the light chain in chronic lymphocytic leukemia</article-title>. <source>Leuk Res</source>. <year>2022</year>;<volume>123</volume>:<elocation-id>106952</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.leukres.2022.106952</pub-id>
+<pub-id pub-id-type="pmid">36272389</pub-id>
+</mixed-citation></ref><ref id="hem370385-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hem370385-cit-0016">
+<string-name name-style="western">
+<surname>Sonia Jaramillo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andreas Agathangelidis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Christof Schneider</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Prognostic impact of prevalent chronic lymphocytic leukemia stereotyped subsets: analysis within prospective clinical trials of the German CLL Study Group (GCLLSG)</article-title>. <source>Haematologica</source>. <year>2020</year>;<volume>105</volume>(<issue>11</issue>):<fpage>2598</fpage>‐<lpage>2607</lpage>. <pub-id pub-id-type="doi">10.3324/haematol.2019.231027</pub-id>
+<pub-id pub-id-type="pmid">33131249</pub-id>
+<pub-id pub-id-type="pmcid">PMC7604575</pub-id></mixed-citation></ref><ref id="hem370385-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hem370385-cit-0017">
+<string-name name-style="western">
+<surname>Langerbeins</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robrecht</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nieper</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Ibrutinib in early‐stage chronic lymphocytic leukemia: the randomized, placebo‐controlled, double‐blind, phase III CLL12 trial</article-title>. <source>J Clin Oncol</source>. <year>2025</year>;<volume>43</volume>(<issue>4</issue>):<fpage>392</fpage>‐<lpage>402</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.24.00975</pub-id>
+<pub-id pub-id-type="pmid">39602678</pub-id>
+</mixed-citation></ref><ref id="hem370385-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hem370385-cit-0018">
+<string-name name-style="western">
+<surname>Langerbeins</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robrecht</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The CLL12 trial: ibrutinib vs placebo in treatment‐naïve, early‐stage chronic lymphocytic leukemia</article-title>. <source>Blood</source>. <year>2022</year>;<volume>139</volume>(<issue>2</issue>):<fpage>177</fpage>‐<lpage>187</lpage>. <pub-id pub-id-type="doi">10.1182/blood.2021010845</pub-id>
+<pub-id pub-id-type="pmid">34758069</pub-id>
+</mixed-citation></ref><ref id="hem370385-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hem370385-cit-0019">
+<string-name name-style="western">
+<surname>Yosifov</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stilgenbauer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mertens</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tausch</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Genotyping from targeted NGS data based on a small set of SNPs correctly matches patient samples</article-title>. <source>BMC Res Notes</source>. <year>2025</year>;<volume>18</volume>(<issue>1</issue>):<fpage>270</fpage>. <pub-id pub-id-type="doi">10.1186/s13104-025-07348-3</pub-id>
+<pub-id pub-id-type="pmid">40605045</pub-id>
+<pub-id pub-id-type="pmcid">PMC12225085</pub-id></mixed-citation></ref><ref id="hem370385-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hem370385-cit-0020">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Durbin</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Fast and accurate long‐read alignment with Burrows‐Wheeler transform</article-title>. <source>Bioinformatics</source>. Mar 1 <year>2010</year>;<volume>26</volume>(<issue>5</issue>):<fpage>589</fpage>‐<lpage>595</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btp698</pub-id>
+<pub-id pub-id-type="pmid">20080505</pub-id>
+<pub-id pub-id-type="pmcid">PMC2828108</pub-id></mixed-citation></ref><ref id="hem370385-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hem370385-cit-0021">
+<string-name name-style="western">
+<surname>Koboldt</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larson</surname>
+<given-names>DE</given-names>
+</string-name>, et al. <article-title>VarScan 2: somatic mutation and copy number alteration discovery in cancer by exome sequencing</article-title>. <source>Genome Res</source>. <year>2012</year>;<volume>22</volume>(<issue>3</issue>):<fpage>568</fpage>‐<lpage>576</lpage>. <pub-id pub-id-type="doi">10.1101/gr.129684.111</pub-id>
+<pub-id pub-id-type="pmid">22300766</pub-id>
+<pub-id pub-id-type="pmcid">PMC3290792</pub-id></mixed-citation></ref><ref id="hem370385-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hem370385-cit-0022">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nelson</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henzler</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thyagarajan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silverstein</surname>
+<given-names>KAT</given-names>
+</string-name>. <article-title>ScanIndel: a hybrid framework for indel detection via gapped alignment, split reads and <italic toggle="yes">de novo</italic> assembly</article-title>. <source>Genome Med</source>. <year>2015</year>;<volume>7</volume>:<fpage>127</fpage>. <pub-id pub-id-type="doi">10.1186/s13073-015-0251-2</pub-id>
+<pub-id pub-id-type="pmid">26643039</pub-id>
+<pub-id pub-id-type="pmcid">PMC4671222</pub-id></mixed-citation></ref><ref id="hem370385-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hem370385-cit-0023">
+<string-name name-style="western">
+<surname>Nadeu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mas‐de‐Les‐Valls</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Navarro</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>IgCaller for reconstructing immunoglobulin gene rearrangements and oncogenic translocations from whole‐genome sequencing in lymphoid neoplasms</article-title>. <source>Nat Commun</source>. <year>2020</year>;<volume>11</volume>(<issue>1</issue>):<fpage>3390</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-020-17095-7</pub-id>
+<pub-id pub-id-type="pmid">32636395</pub-id>
+<pub-id pub-id-type="pmcid">PMC7341758</pub-id></mixed-citation></ref><ref id="hem370385-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hem370385-cit-0024">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hakonarson</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>ANNOVAR: functional annotation of genetic variants from high‐throughput sequencing data</article-title>. <source>Nucleic Acids Res</source>. <year>2010</year>;<volume>38</volume>(<issue>16</issue>):<elocation-id>e164</elocation-id>. <pub-id pub-id-type="doi">10.1093/nar/gkq603</pub-id>
+<pub-id pub-id-type="pmid">20601685</pub-id>
+<pub-id pub-id-type="pmcid">PMC2938201</pub-id></mixed-citation></ref><ref id="hem370385-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hem370385-cit-0025">
+<string-name name-style="western">
+<surname>Thorvaldsdottir</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robinson</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mesirov</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Integrative Genomics Viewer (IGV): high‐performance genomics data visualization and exploration</article-title>. <source>Brief Bioinform</source>. <year>2013</year>;<volume>14</volume>(<issue>2</issue>):<fpage>178</fpage>‐<lpage>192</lpage>. <pub-id pub-id-type="doi">10.1093/bib/bbs017</pub-id>
+<pub-id pub-id-type="pmid">22517427</pub-id>
+<pub-id pub-id-type="pmcid">PMC3603213</pub-id></mixed-citation></ref><ref id="hem370385-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hem370385-cit-0026">
+<string-name name-style="western">
+<surname>Brochet</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lefranc</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giudicelli</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>IMGT/V‐QUEST: the highly customized and integrated system for IG and TR standardized V‐J and V‐D‐J sequence analysis</article-title>. <source>Nucleic Acids Res</source>. <year>2008</year>;<volume>36</volume>(<issue>Web Server issue</issue>):<fpage>W503</fpage>‐<lpage>W508</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkn316</pub-id>
+<pub-id pub-id-type="pmid">18503082</pub-id>
+<pub-id pub-id-type="pmcid">PMC2447746</pub-id></mixed-citation></ref><ref id="hem370385-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hem370385-cit-0027">
+<string-name name-style="western">
+<surname>Meixlsperger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Köhler</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wossning</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reppel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Müschen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jumaa</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Conventional light chains inhibit the autonomous signaling capacity of the B cell receptor</article-title>. <source>Immunity</source>. <year>2007</year>;<volume>26</volume>(<issue>3</issue>):<fpage>323</fpage>‐<lpage>333</lpage>. <pub-id pub-id-type="doi">10.1016/j.immuni.2007.01.012</pub-id>
+<pub-id pub-id-type="pmid">17331747</pub-id>
+</mixed-citation></ref><ref id="hem370385-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hem370385-cit-0028">
+<string-name name-style="western">
+<surname>Khunti</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Datta</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>CXCR4 inhibition enhances the efficacy of CD19 monoclonal antibody‐mediated extermination of B‐cell lymphoma</article-title>. <source>Int J Mol Sci</source>. <year>2025</year>;<volume>26</volume>(<issue>5</issue>):<elocation-id>2024</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijms26052024</pub-id>
+<pub-id pub-id-type="pmid">40076664</pub-id>
+<pub-id pub-id-type="pmcid">PMC11899823</pub-id></mixed-citation></ref><ref id="hem370385-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hem370385-cit-0029">
+<string-name name-style="western">
+<surname>Agathangelidis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iatrou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pechlivanis</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Molecular and functional characterization of the B‐cell receptor in chronic lymphocytic leukemia‐like monoclonal B‐cell lymphocytosis</article-title>. <source>Leukemia</source>. <year>2026</year>;<volume>40</volume>(<issue>2</issue>):<fpage>454</fpage>‐<lpage>458</lpage>. <pub-id pub-id-type="doi">10.1038/s41375-025-02797-y</pub-id>
+<pub-id pub-id-type="pmid">41501505</pub-id>
+<pub-id pub-id-type="pmcid">PMC12875869</pub-id></mixed-citation></ref><ref id="hem370385-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hem370385-cit-0030">
+<string-name name-style="western">
+<surname>Cocomazzi</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iatrou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Minici</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Defective cell‐autonomous signalling and antigenic polyreactivity of B‐cell receptors from chronic lymphocytic leukaemia stereotyped subset 1</article-title>. <source>Nat Commun</source>. <year>2025</year>;<volume>17</volume>(<issue>1</issue>):<fpage>1280</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-025-68040-5</pub-id>
+<pub-id pub-id-type="pmid">41469389</pub-id>
+<pub-id pub-id-type="pmcid">PMC12868647</pub-id></mixed-citation></ref><ref id="hem370385-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hem370385-cit-0031">
+<string-name name-style="western">
+<surname>Tissino</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaglio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicolò</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>The VLA‐4 integrin is constitutively active in circulating chronic lymphocytic leukemia cells via BCR autonomous signaling: a novel anchor‐independent mechanism exploiting soluble blood‐borne ligands</article-title>. <source>Leukemia</source>. <year>2024</year>;<volume>38</volume>(<issue>10</issue>):<fpage>2127</fpage>‐<lpage>2140</lpage>. <pub-id pub-id-type="doi">10.1038/s41375-024-02376-7</pub-id>
+<pub-id pub-id-type="pmid">39143370</pub-id>
+<pub-id pub-id-type="pmcid">PMC11436378</pub-id></mixed-citation></ref><ref id="hem370385-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hem370385-cit-0032">
+<string-name name-style="western">
+<surname>Iype</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Datta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khadour</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Differences in self‐recognition between secreted antibody and membrane‐bound B cell antigen receptor</article-title>. <source>J Immunol</source>. <year>2019</year>;<volume>202</volume>(<issue>5</issue>):<fpage>1417</fpage>‐<lpage>1427</lpage>. <pub-id pub-id-type="doi">10.4049/jimmunol.1800690</pub-id>
+<pub-id pub-id-type="pmid">30683703</pub-id>
+<pub-id pub-id-type="pmcid">PMC6379807</pub-id></mixed-citation></ref><ref id="hem370385-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hem370385-cit-0033">
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gentner‐Gobel</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maity</surname>
+<given-names>PC</given-names>
+</string-name>. <article-title>Facilitating gene editing in human lymphoma cells using murine ecotropic gamma‐retroviruses</article-title>. <source>Methods Mol Biol</source>. <year>2025</year>;<volume>2909</volume>:<fpage>133</fpage>‐<lpage>151</lpage>. <pub-id pub-id-type="doi">10.1007/978-1-0716-4442-3_10</pub-id>
+<pub-id pub-id-type="pmid">40029520</pub-id>
+</mixed-citation></ref><ref id="hem370385-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="hem370385-cit-0034">
+<string-name name-style="western">
+<surname>Krzywinski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schein</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Birol</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Circos: an information aesthetic for comparative genomics</article-title>. <source>Genome Res</source>. <year>2009</year>;<volume>19</volume>(<issue>9</issue>):<fpage>1639</fpage>‐<lpage>1645</lpage>. <pub-id pub-id-type="doi">10.1101/gr.092759.109</pub-id>
+<pub-id pub-id-type="pmid">19541911</pub-id>
+<pub-id pub-id-type="pmcid">PMC2752132</pub-id></mixed-citation></ref><ref id="hem370385-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="hem370385-cit-0035">
+<string-name name-style="western">
+<surname>Gu</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Complex heatmap visualization</article-title>. <source>Imeta</source>. <year>2022</year>;<volume>1</volume>(<issue>3</issue>):<elocation-id>e43</elocation-id>. <pub-id pub-id-type="doi">10.1002/imt2.43</pub-id>
+<pub-id pub-id-type="pmid">38868715</pub-id>
+<pub-id pub-id-type="pmcid">PMC10989952</pub-id></mixed-citation></ref><ref id="hem370385-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="hem370385-cit-0036">
+<string-name name-style="western">
+<surname>Hallek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheson</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Catovsky</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL</article-title>. <source>Blood</source>. <year>2018</year>;<volume>131</volume>(<issue>25</issue>):<fpage>2745</fpage>‐<lpage>2760</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2017-09-806398</pub-id>
+<pub-id pub-id-type="pmid">29540348</pub-id>
+</mixed-citation></ref><ref id="hem370385-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="hem370385-cit-0037">
+<string-name name-style="western">
+<surname>Pflug</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bahlo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shanafelt</surname>
+<given-names>TD</given-names>
+</string-name>, et al. <article-title>Development of a comprehensive prognostic index for patients with chronic lymphocytic leukemia</article-title>. <source>Blood</source>. <year>2014</year>;<volume>124</volume>(<issue>1</issue>):<fpage>49</fpage>‐<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2014-02-556399</pub-id>
+<pub-id pub-id-type="pmid">24797299</pub-id>
+<pub-id pub-id-type="pmcid">PMC4260976</pub-id></mixed-citation></ref><ref id="hem370385-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hem370385-cit-0038">
+<string-name name-style="western">
+<surname>Gerousi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laidou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gemenetzi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stamatopoulos</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chatzidimitriou</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Distinctive signaling profiles with distinct biological and clinical implications in aggressive CLL subsets with stereotyped b‐cell receptor immunoglobulin</article-title>. <source>Front Oncol</source>. <year>2021</year>;<volume>11</volume>:<elocation-id>771454</elocation-id>. <pub-id pub-id-type="doi">10.3389/fonc.2021.771454</pub-id>
+<pub-id pub-id-type="pmid">34804974</pub-id>
+<pub-id pub-id-type="pmcid">PMC8595110</pub-id></mixed-citation></ref><ref id="hem370385-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="hem370385-cit-0039">
+<string-name name-style="western">
+<surname>Köhler</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hug</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eschbach</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Autoreactive B cell receptors mimic autonomous pre‐B cell receptor signaling and induce proliferation of early B cells</article-title>. <source>Immunity</source>. <year>2008</year>;<volume>29</volume>(<issue>6</issue>):<fpage>912</fpage>‐<lpage>921</lpage>. <pub-id pub-id-type="doi">10.1016/j.immuni.2008.10.013</pub-id>
+<pub-id pub-id-type="pmid">19084434</pub-id>
+</mixed-citation></ref><ref id="hem370385-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="hem370385-cit-0040">
+<string-name name-style="western">
+<surname>Deng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Isik</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandes</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brown</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Letai</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davids</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Bruton's tyrosine kinase inhibition increases BCL‐2 dependence and enhances sensitivity to venetoclax in chronic lymphocytic leukemia</article-title>. <source>Leukemia</source>. <year>2017</year>;<volume>31</volume>(<issue>10</issue>):<fpage>2075</fpage>‐<lpage>2084</lpage>. <pub-id pub-id-type="doi">10.1038/leu.2017.32</pub-id>
+<pub-id pub-id-type="pmid">28111464</pub-id>
+<pub-id pub-id-type="pmcid">PMC5555835</pub-id></mixed-citation></ref><ref id="hem370385-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="hem370385-cit-0041">
+<string-name name-style="western">
+<surname>Timofeeva</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gandhi</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Ibrutinib and venetoclax in combination for chronic lymphocytic leukemia: synergy in practice</article-title>. <source>Blood Neoplasia</source>. <year>2024</year>;<volume>1</volume>(<issue>3</issue>):<elocation-id>100034</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.bneo.2024.100034</pub-id>
+<pub-id pub-id-type="pmid">39949788</pub-id>
+<pub-id pub-id-type="pmcid">PMC11823466</pub-id></mixed-citation></ref><ref id="hem370385-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="hem370385-cit-0042">
+<string-name name-style="western">
+<surname>Bussot</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poulain</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nudel Ortmans</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Targeted therapies overcome the poor prognosis of stereotyped Subset#2 chronic lymphocytic leukemia: a real‐world multicentric study</article-title>. <source>Leukemia</source>. <year>2025</year>;<volume>39</volume>(<issue>5</issue>):<fpage>1247</fpage>‐<lpage>1251</lpage>. <pub-id pub-id-type="doi">10.1038/s41375-025-02555-0</pub-id>
+<pub-id pub-id-type="pmid">40169763</pub-id>
+<pub-id pub-id-type="pmcid">PMC12055600</pub-id></mixed-citation></ref></ref-list></back></article>

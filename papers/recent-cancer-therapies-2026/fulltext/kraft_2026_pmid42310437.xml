@@ -1,0 +1,550 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="cpt70366" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Pharmacol Ther</journal-id><journal-id journal-id-type="iso-abbrev">Clin Pharmacol Ther</journal-id><journal-id journal-id-type="pmc-domain-id">2002</journal-id><journal-id journal-id-type="pmc-domain">clpt</journal-id><journal-id journal-id-type="nlm-id">0372741</journal-id><journal-id journal-id-type="publisher-id">CPT</journal-id><journal-title-group><journal-title>Clinical Pharmacology and Therapeutics</journal-title></journal-title-group><issn pub-type="ppub">0009-9236</issn><issn pub-type="epub">1532-6535</issn><?publisher_abbrev blackwell?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Clin Pharmacol Ther</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13339494</article-id><article-id pub-id-type="pmcid-ver">PMC13339494.1</article-id><article-id pub-id-type="pmcaid">13339494</article-id><article-id pub-id-type="pmcaiid">13339494</article-id><article-id pub-id-type="pmid">42310437</article-id><article-id pub-id-type="doi">10.1002/cpt.70366</article-id><article-id pub-id-type="publisher-id">CPT70366</article-id><article-id pub-id-type="other">2026-0397</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Patient‐Centric First‐in‐Human Dose Selection: An Ex Vivo Minimal Anticipated Biological Effect Level Approach for T‐Cell Engagers in Multiple Myeloma</article-title></title-group><contrib-group><contrib id="cpt70366-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Kraft</surname><given-names initials="TE">Thomas E.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5528-3197</contrib-id><xref rid="cpt70366-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>thomas.kraft.tk2@roche.com</email></address></contrib><contrib id="cpt70366-cr-0002" contrib-type="author"><name name-style="western"><surname>Marrer‐Berger</surname><given-names initials="E">Estelle</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9677-0549</contrib-id><xref rid="cpt70366-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt70366-cr-0003" contrib-type="author"><name name-style="western"><surname>Belli</surname><given-names initials="S">Sara</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0001-5435-0554</contrib-id><xref rid="cpt70366-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt70366-cr-0004" contrib-type="author"><name name-style="western"><surname>Haegel</surname><given-names initials="H">Helene</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4792-4000</contrib-id><xref rid="cpt70366-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt70366-cr-0005" contrib-type="author"><name name-style="western"><surname>Schneider</surname><given-names initials="A">Anneliese</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0005-3350-5106</contrib-id><xref rid="cpt70366-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cpt70366-cr-0006" contrib-type="author"><name name-style="western"><surname>Giusti</surname><given-names initials="AM">Anna Maria</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3067-778X</contrib-id><xref rid="cpt70366-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cpt70366-cr-0007" contrib-type="author"><name name-style="western"><surname>Bscheider</surname><given-names initials="M">Michael</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7808-3270</contrib-id><xref rid="cpt70366-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt70366-cr-0008" contrib-type="author"><name name-style="western"><surname>Jacob</surname><given-names initials="W">Wolfgang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8171-7542</contrib-id><xref rid="cpt70366-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cpt70366-cr-0009" contrib-type="author"><name name-style="western"><surname>Weisser</surname><given-names initials="M">Martin</given-names></name><xref rid="cpt70366-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cpt70366-cr-0010" contrib-type="author"><name name-style="western"><surname>Blanco</surname><given-names initials="L">Laura</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1859-0884</contrib-id><xref rid="cpt70366-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cpt70366-cr-0011" contrib-type="author"><name name-style="western"><surname>Frances</surname><given-names initials="N">Nicolas</given-names></name><xref rid="cpt70366-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt70366-cr-0012" contrib-type="author"><name name-style="western"><surname>Rossmann</surname><given-names initials="E">Eva</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3557-6013</contrib-id><xref rid="cpt70366-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt70366-cr-0013" contrib-type="author"><name name-style="western"><surname>Steiner</surname><given-names initials="G">Guido</given-names></name><xref rid="cpt70366-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt70366-cr-0014" contrib-type="author"><name name-style="western"><surname>Azpiroz</surname><given-names initials="AZ">Aintzane Zabaleta</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3474-3040</contrib-id><xref rid="cpt70366-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cpt70366-cr-0015" contrib-type="author"><name name-style="western"><surname>Paiva</surname><given-names initials="B">Bruno</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1977-3815</contrib-id><xref rid="cpt70366-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cpt70366-cr-0016" contrib-type="author"><name name-style="western"><surname>Martinet</surname><given-names initials="L">Ludovic</given-names></name><xref rid="cpt70366-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="cpt70366-cr-0017" contrib-type="author"><name name-style="western"><surname>Fauti</surname><given-names initials="T">Tanja</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0002-1994-8099</contrib-id><xref rid="cpt70366-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="cpt70366-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Roche Pharma Research &amp; Early Development</named-content>
+<institution>Roche Innovation Center Munich</institution>
+<city>Penzberg</city>
+<country country="DE">Germany</country>
+</aff><aff id="cpt70366-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Roche Pharma Research &amp; Early Development</named-content>
+<institution>Roche Innovation Center Basel</institution>
+<city>Basel</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="cpt70366-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Roche Pharma Research &amp; Early Development</named-content>
+<institution>Roche Innovation Center Zurich</institution>
+<city>Zurich</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="cpt70366-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Cancer Center Clínica Universidad de Navarra, Centro de Investigación Médica Aplicada, University of Navarra, IDISNA, CIBERONC</institution>
+<city>Pamplona</city>
+<country country="ES">Spain</country>
+</aff><aff id="cpt70366-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Cancer Research Center of Toulouse (CRCT)</named-content>
+<institution>Institut National de la Santé et de la Recherche Médicale (INSERM), Centre National de la Recherche Scientifique (CNRS), Université Toulouse III‐Paul Sabatier (UPS)</institution>
+<city>Toulouse</city>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Correspondence: Thomas E. Kraft (<email>thomas.kraft.tk2@roche.com</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>6</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2026</year></pub-date><volume>120</volume><issue seq="250">3</issue><issue-id pub-id-type="pmc-issue-id">519171</issue-id><issue-id pub-id-type="doi">10.1002/cpt.v120.3</issue-id><fpage>745</fpage><lpage>752</lpage><history>
+<date date-type="received"><day>07</day><month>3</month><year>2026</year></date>
+<date date-type="accepted"><day>27</day><month>5</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>17</day><month>06</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>08</day><month>07</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-08-24 00:25:18.700"><day>24</day><month>08</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Clinical Pharmacology &amp; Therapeutics</italic> published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CPT-120-745.pdf"><?pdf-name CPT-120-745.pdf?><?pdf-size 587952?><?pdf-md5 8191b495d37f2c106a37fc2cbbda27a1?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:165d/13339494/8191b495d37f/CPT-120-745.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CPT-120-745.pdf"/><abstract><p>The minimal anticipated biological effect level (MABEL) approach to first‐in‐human (FIH) dose calculation can lead to long dose‐escalation periods before observing clinical activity. We used a novel <italic toggle="no">ex vivo</italic> MABEL approach to calculate the FIH starting dose for forimtamig, a T‐cell bispecific antibody under investigation for the treatment of relapsed/refractory multiple myeloma (RRMM). We used <italic toggle="no">in vitro</italic> and <italic toggle="no">ex vivo</italic> MABEL approaches to calculate the FIH dose for a Phase 1 trial (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04557150">NCT04557150</ext-link>) in patients with RRMM. <italic toggle="no">In vitro</italic> assays used the OPM‐2 MM cell line and peripheral blood mononucleocytes from healthy donors and patients with MM. <italic toggle="no">Ex vivo</italic> assays used fresh bone marrow aspirates from MM patient donors. Forimtamig increased tumor cell lysis, cytokine release, and T‐cell activation <italic toggle="no">in vitro</italic> and <italic toggle="no">ex vivo</italic>. Tumor cell lysis was considered the most relevant assay for dose calculation. EC<sub>50</sub> for LDH release (<italic toggle="no">in vitro</italic>: mean 0.6 pM; <italic toggle="no">ex vivo</italic>: 9 pM for the most sensitive patient) led to calculated FIH starting doses of 0.4 and 6 μg, respectively. FIH starting dose was 6 μg. Clinical activity was observed in the second dosing cohort (18 and 54 μg). The third dosing cohort (54 and 162 μg) showed durable objective responses. Cytokine release syndrome was Grade 1 at the starting dose and absent in the second dosing cohort. Our <italic toggle="no">ex vivo</italic> MABEL approach was accepted by regulatory authorities and yielded a tolerated forimtamig FIH starting dose which demonstrated clinical activity in the second dosing cohort. We encourage similar innovative patient‐centric approaches to FIH dose calculation.</p></abstract><abstract abstract-type="graphical"><p>
+<boxed-text position="anchor" content-type="graphic" id="cpt70366-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CPT-120-745-g002.jpg"><?image-name CPT-120-745-g002.jpg?><?image-size 52862?><?image-md5 d71ab2beb6b0a1c03a2149b083c7bad8?><?image-image-server-status NEVER_LOAD?><?image-original-height 186?><?image-original-width 332?><?image-scaled-height 186?><?image-scaled-width 332?><?image-cloudpmc-urn urn:cdn:blobs/165d/13339494/d71ab2beb6b0/CPT-120-745-g002.jpg?></graphic></boxed-text>
+</p></abstract><counts><fig-count count="3"/><table-count count="3"/><page-count count="8"/><word-count count="6400"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.4 mode:remove_FC converted:05.08.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="cpt70366-body-0001"><p>
+<boxed-text position="anchor" content-type="box" id="cpt70366-blkfxd-0002" orientation="portrait"><caption><title>Study Highlights</title></caption><p>
+<list list-type="simple" id="cpt70366-list-0001"><list-item id="cpt70366-li-0001"><p>
+<bold>WHAT IS THE CURRENT KNOWLEDGE ON THE TOPIC?</bold>
+</p></list-item></list>
+</p><p>Limitations of the classic, <italic toggle="yes">in vitro</italic> minimal anticipated biological effect level (MABEL) approach to calculating the first‐in‐human (FIH) starting dose for T‐cell engagers include a conservatively low starting dose resulting in long dose‐escalation periods. Meanwhile, participants in Phase 1 oncology trials often have limited treatment options and short expected survival. It is vitally important to optimize the FIH dose to minimize safety risks while also maximizing opportunity for clinical benefit. However, successful alternative approaches to the classic MABEL are scarce.
+<list list-type="simple" id="cpt70366-list-0002"><list-item id="cpt70366-li-0002"><p>
+<bold>WHAT QUESTION DID THIS STUDY ADDRESS?</bold>
+</p></list-item></list>
+</p><p>Is there a viable alternative to the classic MABEL approach that can calculate an FIH starting dose for T‐cell engagers that is both safe and clinically active?
+<list list-type="simple" id="cpt70366-list-0003"><list-item id="cpt70366-li-0003"><p>
+<bold>WHAT DOES THIS STUDY ADD TO OUR KNOWLEDGE?</bold>
+</p></list-item></list>
+</p><p>Our <italic toggle="yes">ex vivo</italic> MABEL approach utilized potency data obtained from fresh bone marrow samples from multiple myeloma (MM) patient donors to calculate the intravenous FIH starting dose for forimtamig, a T‐cell bispecific antibody, in a Phase 1 trial in patients with relapsed/refractory MM. The resulting starting dose was 15 times higher than that calculated using classic MABEL, was well tolerated, and could be quickly escalated. Clinical activity was observed from the second patient cohort onwards.
+<list list-type="simple" id="cpt70366-list-0004"><list-item id="cpt70366-li-0004"><p>
+<bold>HOW MIGHT THIS CHANGE CLINICAL PHARMACOLOGY OR TRANSLATIONAL SCIENCE?</bold>
+</p></list-item></list>
+</p><p>Similar patient‐centric approaches to FIH dose calculation for T‐cell engagers could reduce the number of vulnerable patients receiving sub‐therapeutic doses in Phase 1 trials. We suggest testing similar strategies wherever possible to maximize potential benefit while minimizing safety risks.</p></boxed-text>
+</p><sec sec-type="opening-section" id="cpt70366-sec-0003"><p>Phase 1 trials are the first stage in clinical drug development, where new treatments or combinations are tested in humans.<xref rid="cpt70366-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Following extensive nonclinical <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic> studies, these trials assess safety and clinical activity, paving the way towards approval and patient benefits. Participants in Phase 1 oncology trials often face urgent needs, having exhausted other therapy options.<xref rid="cpt70366-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> In particular, individuals with relapsed/refractory multiple myeloma (RRMM) are typically aged over 60 years and have undergone numerous prior lines of therapy.<xref rid="cpt70366-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="cpt70366-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="cpt70366-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Median overall survival for patients with triple‐class refractory MM can be less than 10 months.<xref rid="cpt70366-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> These patients therefore need treatments that are well tolerated but also efficacious. It is of vital importance that Phase 1 trials are designed ethically, to maximize potential for disease control, while limiting risks of treatment‐related adverse events (AEs).<xref rid="cpt70366-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> The pivotal basis for initiation of Phase 1 clinical trials is the definition of the first‐in‐human (FIH) starting dose.</p><p>Calculation of the FIH dose of immunomodulatory drugs is complex, with immunostimulators such as T‐cell engagers being extremely potent and having risks for complications such as cytokine release syndrome (CRS) that necessitate low starting doses.<xref rid="cpt70366-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cpt70366-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Experience of the TGN1412 FIH Phase 1 trial led to adoption of the minimal anticipated biological effect level (MABEL) approach to calculating a safe starting dose for immunomodulators.<xref rid="cpt70366-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cpt70366-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="cpt70366-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> The minimal biological effect of T‐cell engagers may be evaluated in a variety of <italic toggle="yes">in vitro</italic> assays, such as for T‐cell activation, cytokine release and cytotoxicity.<xref rid="cpt70366-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cpt70366-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> These assays typically involve incubating the study drug with tumor cell lines and effector cells from healthy donors, rather than tissue originating from patients with the target disease, and with a higher ratio of effector to tumor cells (E:T) than is seen <italic toggle="yes">in vivo</italic>
+<xref rid="cpt70366-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cpt70366-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Furthermore, differences in target expression may pose challenges in translation to human relevant doses.<xref rid="cpt70366-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cpt70366-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Patient‐derived cells are biologically more relevant than cell lines and better represent inter‐patient variability, but can be difficult to source.<xref rid="cpt70366-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>For early T‐cell engagers, the EC<sub>20</sub> from the most sensitive assay or model was often used to select the FIH dose.<xref rid="cpt70366-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cpt70366-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> However, this classic MABEL approach often leads to a conservative first dose and consequently long dose‐escalation periods at sub‐therapeutic levels to reach an efficacious dose, neither of which adds benefit to the vulnerable participants of Phase 1 clinical trials.<xref rid="cpt70366-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cpt70366-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cpt70366-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cpt70366-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p><p>While there is growing recognition of the limitations of classic MABEL and the potential for modified approaches to FIH dosing,<xref rid="cpt70366-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cpt70366-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cpt70366-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> little first‐hand experience of successful alternative strategies has been published. Zhou <italic toggle="yes">et al</italic>. used translational PK/PD modeling with MABEL to calculate an FIH dose for a bispecific T‐cell engager and reported safety observations from the first two doses.<xref rid="cpt70366-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> However, the pharmacological activity of the starting dose was not published, and the trial has been terminated.<xref rid="cpt70366-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> A PK/PD model with an endpoint of cytokine release in cynomolgus monkeys was used to calculate the FIH dose of glofitamab<xref rid="cpt70366-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>; in the subsequent Phase 1 trial, significant clinical activity was observed at doses much higher than the starting dose in the first patient.<xref rid="cpt70366-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Ji <italic toggle="yes">et al</italic>. used a model‐based approach to determine the minimum effective level and the resulting FIH dose of a monoclonal antibody, but the initial efficacy data showed only modest clinical benefit.<xref rid="cpt70366-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cpt70366-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> A cytotoxicity assay using frozen patient samples was used to inform the Phase 1 dose of talquetamab, but the calculation of the FIH dose is not disclosed.<xref rid="cpt70366-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="cpt70366-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Other descriptions of modified MABEL approaches similarly do not provide the full picture of safety and efficacy in the first patients.<xref rid="cpt70366-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="cpt70366-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p><p>Forimtamig (RO7425781) is a T‐cell bispecific antibody with a 2 + 1 format targeting GPRC5D (present on MM tumor cells) and CD3 (present on T cells).<xref rid="cpt70366-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Following promising characterization of forimtamig in humanized mouse models for efficacy, as well as the nonclinical assessment of safety risk, we began planning for a Phase 1 clinical trial in patients with RRMM. We employed a novel <italic toggle="yes">ex vivo</italic> MABEL approach to optimize the FIH starting dose of forimtamig, with the goal of maximizing patient benefit and minimizing the safety risk. The approach was accepted by the health authorities, with no additional safety factors applied. We report our innovative approach, together with efficacy and safety results in the first patients, to share our learnings and encourage others to consider a similarly patient‐centric strategy.</p></sec><sec sec-type="materials-and-methods" id="cpt70366-sec-0004"><title>MATERIALS AND METHODS</title><sec id="cpt70366-sec-0005"><title>Cell preparation</title><p>The OPM‐2 MM cell line (Immunosafety laboratory, Roche Innovation Center Basel, Switzerland; Cellosaurus CVCL_1625) was used for the <italic toggle="yes">in vitro</italic> assays, with frozen vials of peripheral blood mononucleocytes (PBMCs) from healthy blood donors (Roche's pool of donors) and three individuals with MM (Discovery Life Sciences, USA). Two of the individuals had newly diagnosed MM, and the third had stable disease that had previously been treated with lenalidomide. PBMC suspension was added to target cells to obtain an E:T ratio of 5:1.</p><p>Fresh bone marrow aspirate (BMA) samples for the <italic toggle="yes">ex vivo</italic> analysis were collected from MM patient donors (independent of the Phase 1 forimtamig study) at the Institut Universitaire du Cancer de Toulouse‐Oncopole (IUCTO, Toulouse) as previously described<xref rid="cpt70366-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> and the Clínica Universidad de Navarra. All MM patient donors provided written informed consent before collection, in accordance with the Declaration of Helsinki and the local ethics committees. Collection at IUCTO was approved by the French Committee for the Protection of Persons (CPP; DC‐2012‐1,654) and local IUCT‐Oncopole review boards, and at Clínica Universidad de Navarra by the local ethics committee (2017.22).</p><p>See <xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>Supplementary Methods</bold>
+</xref> for further information on cell preparation and setup of <italic toggle="yes">in vitro</italic> assays.</p></sec><sec id="cpt70366-sec-0006"><title>In vitro assays</title><p>To assess tumor cell lysis, lactate dehydrogenase (LDH) activity release was measured using a Cytotoxicity Detection Kit (Roche Applied Science #1644793) following the manufacturer's instructions and a Cytation 5 Cell imaging Multi‐Mode Reader (BioTek). An optimal development time of 20 minutes was used.</p><p>Cytokine and chemokine concentrations were determined from each triplicate well by multiplex immunoassay using a Human Cytokine chemiluminescent assay kit (Aushon, 5‐Plex Array, Cat#101‐269‐1‐AB) and the Cirascan plate reader (Aushon/Quanterix #AS0077) with the Cirasoft Multiplex Immunoassay Analysis Software.</p><p>Analysis of T‐cell activation was performed on a BD Fortessa flow cytometer and using the FlowJo software. After exclusion of dead cells, selection of singlets and gating of the CD45+ immune cell population, the CD4+ and CD8+ T lymphocytes were gated, and the percentages of CD25+ and CD69+ activated cells were measured among each population.</p></sec><sec id="cpt70366-sec-0007"><title>Ex vivo analysis</title><p>To evaluate the functional response of resident immune effector cells and MM plasma cell lysis, tumor cell lysis and T‐cell activation as well as cytokine assays were performed using BMA from MM patient donors independent of the forimtamig clinical trial. Two distinct protocols were employed in different laboratories, differing primarily in sample preparation steps while following a similar workflow for treatment and analysis (see <xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>Supplementary Methods</bold>
+</xref>).</p><p>Both protocols assessed immune effector cell activation and MM plasma cell lysis by measuring the expression of key markers, including CD38, BCMA, CS1, FcRH5, and GPRC5D on MM cells, as well as CD4 and CD8 on T cells. Viability and activation markers (e.g., CD69) were also analyzed. Target expression and T‐cell infiltration were determined on pre‐treatment samples.</p><p>Cytokine release upon T‐cell activation was measured by cytometric bead array technology following the manufacturer's instructions (see <xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>Supplementary Methods</bold>
+</xref>).</p></sec><sec id="cpt70366-sec-0008"><title>Phase 1 study design</title><p>This was an open‐label, non‐randomized, dose escalation, multicenter Phase 1 study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04557150">NCT04557150</ext-link>) in patients with RRMM, investigating the safety, PK, PD, and clinical activity of forimtamig.<xref rid="cpt70366-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Local ethics committee approval was obtained, and all trial patients provided written informed consent. The study was conducted in accordance with Good Clinical Practice guidelines and the Declaration of Helsinki. Further details of Study <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04557150">NCT04557150</ext-link> are in the <xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>Supplementary Methods</bold>
+</xref> and have been presented.<xref rid="cpt70366-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="cpt70366-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> The dosing schedule is shown in <bold>Figure</bold>
+<xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>S1</bold>
+</xref>.</p></sec><sec id="cpt70366-sec-0009"><title>Data and statistical analysis</title><p>To determine EC<sub>50</sub> values for <italic toggle="yes">in vitro</italic> tumor cell lysis, a 4‐parameter logistic regression model was fitted to the sigmoidal dose–response curves of LDH release for individual donors using XLfit 5.5.0 (IDBS). The model used was of the form <italic toggle="yes">f</italic>(<italic toggle="yes">x</italic>) = A+(B‐A)/(1 + (C/<italic toggle="yes">x</italic>)^D). All parameters were fitted freely (i.e., no given constraints), but a few obviously outlying data points were excluded by specifying a knockout criterion in the software (prediction interval based, constant = 0.2). This improved quality of the fit and estimated EC<sub>50</sub> parameters. Algebraic mean and standard deviation were used to summarize EC<sub>50</sub> values across the cohort, in line with a sufficiently symmetric and close to normal distribution of values.</p><p>EC<sub>50</sub> values for <italic toggle="yes">in vitro</italic> cytokine release and <italic toggle="yes">in vitro</italic> T‐cell activation were calculated using a 3‐parameter nonlinear regression model, applied using GraphPadPrism version 10.5.0.</p><p>Data from the <italic toggle="yes">ex vivo</italic> tumor cell lysis, T‐cell activation, and cytokine release assays were analyzed using FlowJo v10 software and the Infinicyt v2.0 software (Cytognos SL, Spain). Data sets were transferred to GraphPad Prism 8 for statistical analysis. For analysis of tumor cell lysis, a nonlinear regression fit (log(agonist) vs. response) with a hill slope fixed to −1 analysis was applied to the values to produce a dose–response curve fit and EC<sub>50</sub> values. Cytokine concentration values were plotted in XY table format. Each cytokine concentration value was normalized to the “no antibody” control.</p><p>The IV FIH dose was calculated assuming a typical plasma volume of 3.5 L for a 70‐kg body weight individual and a forimtamig molecular weight of 193 kDa, using the formula: mass = molar concentration × volume × molecular weight. Descriptive statistics were used to summarize the safety and anti‐tumor activity of forimtamig in the Phase 1 study.</p></sec></sec><sec sec-type="results" id="cpt70366-sec-0010"><title>RESULTS</title><sec id="cpt70366-sec-0011"><title>In vitro <styled-content style="fixed-case" toggle="no">MABEL</styled-content> assays</title><p>Treatment of the GPRC5D‐expressing MM cell line OPM‐2 with forimtamig resulted in a dose‐dependent increase in target cell lysis, T‐cell activation, and cytokine release, with EC<sub>50</sub> values similar between assays using PBMCs from healthy donors and MM patient donors (<bold>Table</bold>
+<xref rid="cpt70366-tbl-0001" ref-type="table">
+<bold>1</bold>
+</xref>, <bold>Figures</bold>
+<xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>S2</bold>
+</xref>
+<bold>–</bold>
+<xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>S4</bold>
+</xref>). Detailed results for individual donors are shown in <bold>Table</bold>
+<xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>S2</bold>
+</xref>.</p><table-wrap position="float" id="cpt70366-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>EC<sub>50</sub> values of LDH release, cytokine release, and T‐cell activation after incubation of forimtamig with OPM‐2 cells and PBMCs from healthy donors and individuals with MM</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">EC<sub>50</sub> (pM), mean ± SD</th><th align="center" rowspan="1" colspan="1">Healthy donors (<italic toggle="yes">n</italic> = 11)</th><th align="center" rowspan="1" colspan="1">Donors with multiple myeloma (<italic toggle="yes">n</italic> = 3)</th><th align="center" rowspan="1" colspan="1">All donors (<italic toggle="yes">n</italic> = 14)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Tumor cell lysis</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">LDH release</td><td align="char" char="±" rowspan="1" colspan="1">0.633 ± 0.64</td><td align="char" char="±" rowspan="1" colspan="1">0.469 ± 0.328</td><td align="char" char="±" rowspan="1" colspan="1">0.598 ± 0.591</td></tr><tr><td align="left" colspan="4" rowspan="1">Cytokine release</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">IL‐6</td><td align="char" char="±" rowspan="1" colspan="1">7.06 ± 5.10</td><td align="char" char="±" rowspan="1" colspan="1">5.98 ± 2.77</td><td align="char" char="±" rowspan="1" colspan="1">6.81 ± 4.36</td></tr><tr><td align="left" colspan="4" rowspan="1">T‐cell activation<xref rid="cpt70366-note-0002" ref-type="table-fn">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CD4+CD69+</td><td align="char" char="±" rowspan="1" colspan="1">2.12 ± 0.77</td><td align="char" char="±" rowspan="1" colspan="1">2.25 ± 0.98</td><td align="char" char="±" rowspan="1" colspan="1">2.2 ± 0.78</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CD8+CD69+</td><td align="char" char="±" rowspan="1" colspan="1">0.48 ± 0.37</td><td align="char" char="±" rowspan="1" colspan="1">0.21 ± 0.22</td><td align="char" char="±" rowspan="1" colspan="1">0.40 ± 0.35</td></tr></tbody></table><table-wrap-foot id="cpt70366-ntgp-0001"><fn id="cpt70366-note-0001"><p>IL‐6 levels are reported as the marker considered most relevant. Other cytokines assessed but not reported here were IL‐2, IFN‐ɣ, TNF‐α, and IL‐8. EC<sub>50</sub>, half maximal effective concentration; IL, interleukin; LDH, lactate dehydrogenase; PBMC, peripheral blood mononucleocyte; SD, standard deviation.</p></fn><fn id="cpt70366-note-0002"><label>
+<sup>a</sup>
+</label><p>T‐cell activation includes results from <italic toggle="yes">n</italic> = 7 healthy donors.</p></fn></table-wrap-foot></table-wrap></sec><sec id="cpt70366-sec-0012"><title>Ex vivo <styled-content style="fixed-case" toggle="no">MABEL</styled-content> assays</title><p>Similar to the <italic toggle="yes">in vitro</italic> assays, incubation of forimtamig with BMA samples from MM patient donors (independent of the clinical trial) led to tumor cell lysis, T‐cell activation, and cytokine release (<bold>Table</bold>
+<xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>S3</bold>
+</xref>).</p><p>Forimtamig‐induced depletion of MM cells in 9 of 12 assessed BMA samples (<bold>Figure</bold>
+<xref rid="cpt70366-fig-0001" ref-type="fig">
+<bold>1</bold>
+<bold>a,b</bold>
+</xref>). The mean EC<sub>50</sub> for tumor cell lysis was 52.3 pM. Forimtamig also induced dose‐dependent activation of tumor‐infiltrating T cells (<bold>Figure</bold>
+<xref rid="cpt70366-fig-0001" ref-type="fig">
+<bold>1</bold>
+<bold>c–e</bold>
+</xref>), with EC<sub>50</sub> values ranging from 0.4 to 45 pM for CD69+ T cells. Finally, forimtamig‐induced IL‐6 levels of 12.7 pM (&lt; 300 pg/mL) following incubation with BMA samples from individuals with MM, up to the highest tested dose of 7 nM (<bold>Figure</bold>
+<xref rid="cpt70366-fig-0001" ref-type="fig">
+<bold>1</bold>
+<bold>f</bold>
+</xref>).</p><fig position="float" fig-type="Figure" id="cpt70366-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>(<bold>a, b</bold>) Representative forimtamig‐induced lysis of MM patient donor cells after incubation for (<bold>a</bold>) 36 and (<bold>b</bold>) 42 hours (see protocols 1 and 2 in <xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>Supplementary Methods</bold>
+</xref>). Each curve represents one patient donor sample. (<bold>c–e</bold>) Representative forimtamig‐induced activation of autologous T cells from MM patient donors after incubation for (<bold>c</bold>) 36 and (<bold>d, e</bold>) 42 hours. Each curve represents one patient donor sample. (<bold>f</bold>) Quantitative analysis of IL‐6 release following incubation of BMA samples from MM patient donors with forimtamig. Each dot represents one patient donor. 70 pM of a T‐cell bispecific antibody isotype was evaluated in parallel as a negative reference. The theoretical detection limit was 1.6 pg/mL, and the limit of the kit was 10 mg/mL. (<bold>g</bold>) Individual EC<sub>50</sub> values of forimtamig for tumor cell lysis in BMA samples from nine MM patient donors after incubation for 36–42 hours. Each dot represents one patient donor sample. BMA, bone marrow aspirate; CI, confidence interval; EC<sub>50</sub>, half maximal effective concentration; IL‐6, interleukin 6; MM, multiple myeloma.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CPT-120-745-g003.jpg"><?image-name CPT-120-745-g003.jpg?><?image-size 87818?><?image-md5 7b91f94a2d5ad6d0ab02af1bc1334d46?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 974?><?image-original-width 1064?><?image-scaled-height 649?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/165d/13339494/7b91f94a2d5a/CPT-120-745-g003.jpg?><?thumb-name CPT-120-745-g003.gif?><?thumb-size 11263?><?thumb-md5 34d379addaf8a48bf677b0f20f6680e5?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 92?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/165d/13339494/34d379addaf8/CPT-120-745-g003.gif?></graphic></fig><p>Considerable inter‐MM patient donor differences in the EC<sub>50</sub> for tumor cell lysis were observed (<bold>Figure</bold>
+<xref rid="cpt70366-fig-0001" ref-type="fig">
+<bold>1</bold>
+<bold>g</bold>
+</xref>).</p></sec><sec id="cpt70366-sec-0013"><title>
+<styled-content style="fixed-case" toggle="no">FIH</styled-content> dose calculation</title><p>Tumor cell lysis was considered the most relevant readout for FIH starting dose calculation, for both <italic toggle="yes">in vitro</italic> and <italic toggle="yes">ex vivo</italic> MABEL approaches. It offers high therapeutic relevance as it reflects the direct, desired mechanism of action and provides the best evidence of potential anti‐tumor activity. The mean EC<sub>50</sub> for LDH release from the <italic toggle="yes">in vitro</italic> assay was 0.6 pM, resulting in an FIH starting dose of 0.4 μg. The EC<sub>50</sub> of the subsequent IL‐6 release in the <italic toggle="yes">in vitro</italic> killing assay (7.06 pM) was well above the EC<sub>50</sub> of LDH release, suggesting limited cytokine release.</p><p>Cytokine release assays performed in whole blood from healthy donors showed that forimtamig did not induce release of IL‐6 or other cytokines at concentrations up to 0.5 nM, similar to the low‐risk compound cetuximab (data not shown). This concentration was much higher than the EC<sub>50</sub> of IL‐6 release measured in the <italic toggle="yes">in vitro</italic> killing assay (7.06 pM). Target‐independent cytokine release was therefore not expected to add to the target‐dependent cytokine release at the calculated FIH dose.</p><p>In the <italic toggle="yes">ex vivo</italic> assay, we observed a large variability in forimtamig EC<sub>50</sub> values between MM patient donor samples from the <italic toggle="yes">ex vivo</italic> tumor cell lysis assessment, with a geometric mean of 52 pM and an EC<sub>50</sub> from the most sensitive MM patient donor of 9 pM. Weighing different options, we decided on the approach with the lowest safety risk and calculated an FIH starting dose based on the EC<sub>50</sub> of the most sensitive MM patient donor sample, resulting in a flat forimtamig dose of 6 μg. IL‐6 release detected in the BMA samples as a key indicator of cytokine release was in a low range (0.62–5.92 pM at 7 pM), with an expected low risk for CRS in clinical trial participants at the FIH dose.</p></sec><sec id="cpt70366-sec-0014"><title>First‐in‐human dosing</title><p>The first five patients enrolled in the Phase 1 study were dosed in two single‐patient cohorts and a subsequent multiple‐patient cohort (<bold>Figure</bold>
+<xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>S1</bold>
+</xref>). Patient baseline characteristics and objective responses<xref rid="cpt70366-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> and their durations are shown in <bold>Table</bold>
+<xref rid="cpt70366-tbl-0002" ref-type="table">
+<bold>2</bold>
+</xref>. The forimtamig starting dose in the first patient was 6 μg, as calculated using the <italic toggle="yes">ex vivo</italic> MABEL approach. The study allowed a 200% increase if a dose was tolerated and dose increments were not to exceed the highest explored dose in the same patient.</p><table-wrap position="float" id="cpt70366-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Baseline disease and clinical trial participant characteristics and response to forimtamig</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" colspan="1"/><th align="center" colspan="5" rowspan="1">Patient number</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" rowspan="1" colspan="1">Cohort 1</th><th align="center" rowspan="1" colspan="1">Cohort 2</th><th align="center" colspan="3" rowspan="1">Cohort 3</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" rowspan="1" colspan="1">1</th><th align="center" rowspan="1" colspan="1">2</th><th align="center" rowspan="1" colspan="1">3</th><th align="center" rowspan="1" colspan="1">4</th><th align="center" rowspan="1" colspan="1">5</th></tr></thead><tbody><tr><td align="left" colspan="6" rowspan="1">Dose triplet (μg)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Step dose 1</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" colspan="3" rowspan="1">54</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Step dose 2</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">54</td><td align="left" colspan="3" rowspan="1">162</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Target dose</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">54</td><td align="left" colspan="3" rowspan="1">162</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">Male</td></tr><tr><td align="left" rowspan="1" colspan="1">Age (years)</td><td align="left" rowspan="1" colspan="1">78</td><td align="left" rowspan="1" colspan="1">70</td><td align="left" rowspan="1" colspan="1">60</td><td align="left" rowspan="1" colspan="1">41</td><td align="left" rowspan="1" colspan="1">73</td></tr><tr><td align="left" rowspan="1" colspan="1">MM type</td><td align="left" rowspan="1" colspan="1">Light chain</td><td align="left" rowspan="1" colspan="1">IgA</td><td align="left" rowspan="1" colspan="1">IgG</td><td align="left" rowspan="1" colspan="1">IgG</td><td align="left" rowspan="1" colspan="1">IgG</td></tr><tr><td align="left" rowspan="1" colspan="1">Prior lines of treatment</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">4</td></tr><tr><td align="left" rowspan="1" colspan="1">Triple‐class refractory</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">No</td></tr><tr><td align="left" rowspan="1" colspan="1">Best confirmed response</td><td align="left" rowspan="1" colspan="1">PD</td><td align="left" rowspan="1" colspan="1">SD</td><td align="left" rowspan="1" colspan="1">PD</td><td align="left" rowspan="1" colspan="1">VGPR</td><td align="left" rowspan="1" colspan="1">sCR</td></tr><tr><td align="left" rowspan="1" colspan="1">Duration of response (months)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">9.1</td><td align="left" rowspan="1" colspan="1">37.9</td></tr></tbody></table><table-wrap-foot id="cpt70366-ntgp-0002"><fn id="cpt70366-note-0003"><p>Rate and duration of response were assessed per International Myeloma Working Group criteria.<xref rid="cpt70366-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><p>MM, multiple myeloma; NA, not available; PD, progressive disease; sCR, stringent complete response; SD, stable disease; VGPR, very good partial response.</p></fn></table-wrap-foot></table-wrap><p>By this means, the second patient received a Cycle 1 Day 1 dose of 18 μg and a target dose of 54 μg and showed transient decreases of free light chains and M‐protein (<bold>Figure</bold>
+<xref rid="cpt70366-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>), indicating early clinical activity but not qualifying as an objective response per IMWG criteria. The fourth and fifth patients (Cohort 3), treated with a Cycle 1 Day 1 dose of 54 μg and a target dose of 162 μg, achieved a very good partial response (VGPR) and stringent complete response (sCR) with response durations of 9.1 months and 37.9 months, respectively.</p><fig position="float" fig-type="Figure" id="cpt70366-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Percentage change in myeloma protein on forimtamig treatment compared to baseline. Each line represents an individual clinical trial participant.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CPT-120-745-g001.jpg"><?image-name CPT-120-745-g001.jpg?><?image-size 84690?><?image-md5 fdc7de6d94fe109835ad30286694b773?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 984?><?image-original-width 980?><?image-scaled-height 656?><?image-scaled-width 653?><?image-cloudpmc-urn urn:cdn:blobs/165d/13339494/fdc7de6d94fe/CPT-120-745-g001.jpg?><?thumb-name CPT-120-745-g001.gif?><?thumb-size 12898?><?thumb-md5 8eaea622f615ceaed93c665fe049d6cb?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 100?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/165d/13339494/8eaea622f615/CPT-120-745-g001.gif?></graphic></fig><p>In Cohort 1, with a starting dose of 6 μg and target dose of 18 μg, only Grade 1 CRS<xref rid="cpt70366-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> was observed during Cycle 1 (<bold>Table</bold>
+<xref rid="cpt70366-tbl-0003" ref-type="table">
+<bold>3</bold>
+</xref>). In Cohort 2, with a Cycle 1 Day 1 dose of 18 μg and a target dose of 54 μg, CRS was absent. In Cohort 3, with a Cycle 1 Day 1 dose of 54 μg and a target dose of 162 μg, CRS of Grades 1 and 2 was seen in Cycle 1. All CRS events resolved and none led to any change of forimtamig dose. All participants were able to continue with subsequent treatment cycles.</p><table-wrap position="float" id="cpt70366-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Cytokine release syndrome reported for the first five patients</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" colspan="1">Cycle</th><th align="center" colspan="5" rowspan="1">Patient number</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" rowspan="1" colspan="1">Cohort 1</th><th align="center" rowspan="1" colspan="1">Cohort 2</th><th align="center" colspan="3" rowspan="1">Cohort 3</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" rowspan="1" colspan="1">1</th><th align="center" rowspan="1" colspan="1">2</th><th align="center" rowspan="1" colspan="1">3</th><th align="center" rowspan="1" colspan="1">4</th><th align="center" rowspan="1" colspan="1">5</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Cycle 1 Day 1</td><td align="left" rowspan="1" colspan="1">Grade 1</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">Grade 2</td><td align="left" rowspan="1" colspan="1">Grade 1</td><td align="left" rowspan="1" colspan="1">Grade 2</td></tr><tr><td align="left" rowspan="1" colspan="1">Cycle 1 Day 8</td><td align="left" rowspan="1" colspan="1">Grade 1</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">Grade 1</td><td align="left" rowspan="1" colspan="1">None</td></tr><tr><td align="left" rowspan="1" colspan="1">Cycle 1 Day 15</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">None</td></tr></tbody></table><table-wrap-foot id="cpt70366-ntgp-0003"><fn id="cpt70366-note-0004"><p>Cytokine release syndrome was graded according to American Society of Transplantation and Cellular Therapy criteria.<xref rid="cpt70366-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</p></fn></table-wrap-foot></table-wrap><boxed-text position="float" content-type="Box" id="cpt70366-fea-0001" orientation="portrait"><label>Box 1</label><caption><title>Recommendations to succeed with patient donor‐derived material for <styled-content style="fixed-case" toggle="no">FIH</styled-content> dose calculation</title></caption><p>
+<list list-type="bullet" id="cpt70366-list-0005"><list-item id="cpt70366-li-0005"><p>Begin collaboration with clinical sites early in the process, to facilitate access to fresh, untouched patient donor samples to use in <italic toggle="yes">ex vivo</italic> assays.</p></list-item><list-item id="cpt70366-li-0006"><p>Use freshly drawn BMA samples, with experiments set up within 24–48 hours of sample collection</p></list-item><list-item id="cpt70366-li-0007"><p>Keep samples at 4°C until use</p></list-item><list-item id="cpt70366-li-0008"><p>Check sample viability is ~80% before use; viability of MM plasma cells should also be ~80%</p></list-item><list-item id="cpt70366-li-0009"><p>Include ideally 15 or more patient donor samples, to facilitate:
+<list list-type="bullet" id="cpt70366-list-0006"><list-item id="cpt70366-li-0010"><p>A true reflection of inter‐patient variability</p></list-item><list-item id="cpt70366-li-0011"><p>Controlling the risk of encountering lower EC<sub>50</sub> in the patient population</p></list-item><list-item id="cpt70366-li-0012"><p>Thorough statistical analysis of results to select the most appropriate readout and measure</p></list-item><list-item id="cpt70366-li-0013"><p>See <xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>Supplementary Methods</bold>
+</xref> and <bold>Figure</bold>
+<xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>S5</bold>
+</xref> for more details</p></list-item></list>
+</p></list-item><list-item id="cpt70366-li-0014"><p>Start at the starting dose: Consider a patient‐centric approach to benefit those who most need new treatment options. An <italic toggle="yes">ex vivo</italic> MABEL approach with a biologically relevant system does not require an additional safety factor.</p></list-item></list>
+</p></boxed-text></sec></sec><sec sec-type="discussion" id="cpt70366-sec-0016"><title>DISCUSSION</title><p>Our <italic toggle="yes">ex vivo</italic> MABEL approach to calculating the FIH starting dose for forimtamig led to a dose 15 times higher than a classic, <italic toggle="yes">in vitro</italic> MABEL approach. PD‐active and clinically efficacious doses were rapidly reached: the second target dose in the second clinical trial participant tested (54 μg) was clinically active and the third target dose (162 μg) led to an objective response in the fourth participant tested. Despite the higher FIH dose, forimtamig was well tolerated in the first participant dosed (solely Grade 1 CRS), as well as in the following four participants at increasing dose levels, with none experiencing greater than Grade 2 CRS events in the first treatment cycle.</p><p>To the best of our knowledge, this is the first description of an <italic toggle="yes">ex vivo</italic> MABEL approach leading to a well‐tolerated starting dose that enabled a rapid escalation to clinically active dose levels – resulting in clinical activity in the second dose cohort and deep and durable responses (VGPR and sCR) in the third dose cohort. Other reports of modified MABEL approaches focus on the methodology and do not share efficacy data,<xref rid="cpt70366-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> or show limited efficacy at initial doses.<xref rid="cpt70366-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="cpt70366-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="cpt70366-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cpt70366-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<italic toggle="yes">Ex vivo</italic> assays using frozen MM patient donor samples were part of the pre‐clinical development of talquetamab, another GPRC5D–CD3 bispecific antibody, but do not appear to form the basis of the FIH dose calculation.<xref rid="cpt70366-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="cpt70366-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> In contrast, our <italic toggle="yes">ex vivo</italic> MABEL approach yielded an FIH dose that was well tolerated, as well as reaching an efficacious dose after treating only four patients.</p><p>Together with the aim to optimize patient outcomes in the Phase 1 trial, three practical factors led us to our <italic toggle="yes">ex vivo</italic> MABEL approach utilizing untouched BMA samples from individuals with MM with resident, autologous T cells. First, GPRC5D has a restricted expression profile in normal tissues and cells, limited to normal plasma cells, hair follicles and filiform papillae in the tongue.<xref rid="cpt70366-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="cpt70366-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Second, MM has features not easily replicated with cell lines, such as clonal heterogeneity, inter‐patient variability and the immunosuppressive bone marrow microenvironment.<xref rid="cpt70366-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="cpt70366-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="cpt70366-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> For example, the bone marrow in MM may be immunosuppressive with reduced T‐cell activation,<xref rid="cpt70366-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="cpt70366-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> meaning that the fixed E:T ratio of <italic toggle="yes">in vitro</italic> assays may not accurately represent the human disease. By contrast, our <italic toggle="yes">ex vivo</italic> assays used patient‐relevant ratios, likely reflecting the range of activity and subsequent cytokine release that could be expected in a clinical setting. Finally, nonclinical safety assessments did not identify other risks beyond CRS at the FIH dose (data not shown). Cytokine release as a safety readout was also a component of the <italic toggle="yes">ex vivo</italic> approach.</p><p>Treatment with forimtamig resulted in dose‐dependent increases in three measures of biological effect: tumor cell lysis, cytokine release, and T‐cell activation. The most sensitive parameters for the activity of forimtamig in both <italic toggle="yes">in vitro</italic> and <italic toggle="yes">ex vivo</italic> assays were tumor cell lysis and induction of CD69 expression as a marker for activation on activated CD8+ T cells, reflecting the T‐cell bispecific antibody mode of action.</p><p>In selecting a relevant concentration to inform the FIH dose, our approach aimed to balance the potential for early therapeutic activity with paramount patient safety. We prioritized physiological relevance by using an <italic toggle="yes">ex vivo</italic> model with MM patient donor‐derived tumor cells and autologous T cells with the inherent E:T ratio. While conventional MABEL approaches often utilize the most sensitive upstream readouts (e.g., EC<sub>20</sub> of tumor cell lysis, cytokine release or T‐cell activation),<xref rid="cpt70366-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> we based our primary calculation on the EC<sub>50</sub> for tumor cell lysis, as it represents the direct therapeutic endpoint. The potential risk of using a less conservative EC<sub>50</sub> metric was balanced by anchoring the calculation to the response of the most sensitive MM patient donor rather than the geometric mean of the population. Our <italic toggle="yes">ex vivo</italic> MABEL FIH dose was calculated to be 15 times higher than the classic approach (defined here as the inter‐donor geomean EC<sub>50</sub> of the most sensitive readout, tumor cell lysis), similar to another modified MABEL approach for a T‐cell engager which gave a starting dose 10‐fold higher than classic MABEL.<xref rid="cpt70366-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Importantly, we confirmed that the concentration derived from this method elicited low IL‐6 release as a key indicator for cytokine release in our <italic toggle="yes">ex vivo</italic> system, providing additional support for a low anticipated risk of CRS at the proposed FIH dose.</p><p>To minimize the severity and impact of potential CRS events, we utilized step‐up dosing and premedication in the Phase 1 trial, as recommended by the European Myeloma Network.<xref rid="cpt70366-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Neither of the clinical trial participants in the first two cohorts experienced greater than Grade 1 CRS during the first treatment cycle.</p><p>Limitations of the <italic toggle="yes">ex vivo</italic> MABEL approach include difficulties obtaining suitable and sufficient fresh primary samples to maintain viability of resident immune cells. This requires expert laboratories to be close to treatment facilities, which is not always the case. The size constraint of 9 fresh primary samples used for the <italic toggle="yes">ex vivo</italic> MABEL approach was a consequence of the unpredictable nature of fresh sample availability from MM patient donors. While using frozen/thawed samples may be an alternative, it can be challenging to source sufficient samples due to the poor viability of MM cells after thawing. The thawing process also alters the cellular composition of the samples, potentially impacting the results. Due to the scarcity of fresh patient material, a direct functional head‐to‐head comparison between fresh and cryopreserved samples from the same patient timepoint could not be performed. Therefore, while frozen samples may prove useful for exploratory screening or endpoint measurement in future work, our reliance on fresh BM samples was necessary to ensure maximum scientific rigor and relevance of the EC<sub>50</sub> calculation that defined the FIH starting dose.</p><p>Coupled with considerable inter‐MM patient donor heterogeneity, our small number of BMA samples yielded a wide range of results, as seen in the tumor cell lysis assay. Our recommendation is to ideally source at least 15 or even 30 MM patient donor samples to mitigate this effect. Based on a simulation approach, using <italic toggle="yes">n</italic> ≥ 15 allows specification of a lower limit of EC<sub>50</sub> values which is expected to be undercut for at most 20% of the population with 95% statistical confidence. Using <italic toggle="yes">n</italic> ≥ 30 would limit this risk to 10% of the population if that level is required (see <xref rid="cpt70366-supitem-0001" ref-type="supplementary-material">
+<bold>Supplementary Methods</bold>
+</xref>).</p><p>If access to additional, high‐quality MM patient donor‐derived samples with high cell viability were not a limiting factor, we would have assessed IL‐6 release over time to ensure the peak level was used in FIH dose selection instead of value from a single timepoint. Investigation of the immune cell composition relative to tumor cells could also have provided further context to the E:T ratio.</p><p>Strengths of the <italic toggle="yes">ex vivo</italic> MABEL approach include a more physiological reflection of the <italic toggle="yes">in vivo</italic> microenvironment and the possibility of more patients in Phase 1 trials receiving a dose that is clinically active as well as safe. Developing a new approach in drug development is risky; we share our learnings (<bold>Box</bold>
+<xref rid="cpt70366-fea-0001" ref-type="boxed-text">
+<bold>1</bold>
+</xref>) to support others in taking a similarly patient‐centric approach to achieve the best results for clinical trial participants.</p><p>To conclude, we used a novel <italic toggle="yes">ex vivo</italic> MABEL approach to calculate a tolerated but also sufficiently high, FIH dose for the Phase 1 clinical trial of forimtamig in RRMM, allowing clinically active doses to be reached more quickly than with a standard MABEL approach. With more innovation we can work to minimize sub‐therapeutic doses in Phase 1 clinical trials, thereby ensuring that participants have a higher likelihood of receiving effective therapy while maintaining safety.</p></sec><sec id="cpt70366-sec-0018"><title>FUNDING</title><p>This work was funded by Roche Pharma Research &amp; Early Development, Munich, Germany.</p></sec><sec sec-type="COI-statement" id="cpt70366-sec-0019"><title>CONFLICT OF INTEREST</title><p>Sara Belli: Employed at Roche and holding Roche shares at the time of the work. Michael Bscheider: Employed at Roche and holding Roche shares at the time of the work. Tanja Fauti: Employed at Roche, named on a patent and publications related to the research and holding Roche shares. Nicolas Frances: Employed at Roche and holding Roche shares. Anna Maria Giusti: Employed at Roche and holding Roche shares. Helene Haegel: Employed at Roche, named on patents and publications related to the research and holding Roche shares. Wolfgang Jacob: Employed by Roche and holding Roche stocks. Thomas E Kraft: Employed at Roche, named on a patent and publications related to the research and holding Roche shares. Ludovic Martinet: Consultancy fees from Pfizer, Sanofi, and Menarrini; research funding from BMS, Roche, and Sanofi. Bruno Paiva: Consultancy fees from BMS‐Celgene, GSK, Janssen, Roche, Sanofi, and Takeda; research funding from AstraZeneca, Beigene, BMS, GSK, Roche, and Sanofi; honoraria from Adaptive, Amgen, Becton/Dickinson Biosciences, BMS‐Celgene, GSK, Janssen, Roche, and Sanofi. Eva Rosmann: Employed at Roche and holding Roche shares. Anneliese Schneider: Employed at Roche, named on a patent and publications related to the research and holding Roche shares. Guido Steiner: Employed at Roche, named on a patent and publications related to the research. Martin Weisser: Employed at Roche, named on a patent and publications related to the research and holding Roche shares. All other authors declared no competing interests for this work.</p></sec><sec id="cpt70366-sec-0020"><title>AUTHOR CONTRIBUTIONS</title><p>T.F., W.J., T.E.K., and A.S. wrote the manuscript; S.B., M.B., T.F., N.F., A.M.G., H.H., T.E.K., E.M.‐B., A.S., E.R., and M.W. designed the research; L.B., M.B., N.F., A.M.G., H.H., and E.R. performed the research; T.F., H.H., W.J., T.E.K., L.M., B.P., G.S., M.W., and A.Z.A. analyzed the data.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cpt70366-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Data S1.
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CPT-120-745-s001.pdf" position="float" orientation="portrait"><?suppdata-name CPT-120-745-s001.pdf?><?suppdata-size 656719?><?suppdata-md5 4e0c0400ea9686e7d7b6d2e9b546e93d?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:165d/13339494/4e0c0400ea96/CPT-120-745-s001.pdf?></media></supplementary-material></sec></body><back><ack id="cpt70366-sec-0017"><title>ACKNOWLEDGMENTS</title><p>The authors thank Anne Sayers of Kilns Medical Communications Ltd for providing medical writing support, which was funded by Roche in accordance with Good Publication Practice guidelines.</p></ack><ref-list content-type="cited-references" id="cpt70366-bibl-0001"><ref id="cpt70366-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cpt70366-cit-0001">
+<string-name name-style="western">
+<surname>Bittlinger</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bicer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peppercorn</surname>, <given-names>J.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Kimmelman</surname>, <given-names>J.</given-names>
+</string-name>
+<article-title>Ethical considerations for phase I trials in oncology</article-title>. <source>J. Clin. Oncol.</source>
+<volume>40</volume>, <fpage>3474</fpage>–<lpage>3488</lpage> (<year>2022</year>).<pub-id pub-id-type="pmid">35275736</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.21.02125</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cpt70366-cit-0002">
+<string-name name-style="western">
+<surname>Lyu</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Majd</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fatima</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Abughosh</surname>, <given-names>S.</given-names>
+</string-name>
+<article-title>Treatment refractoriness and response rates in patients with relapsed/refractory multiple myeloma: a retrospective analysis of real‐world data</article-title>. <source>Cancer. Treat. Res. Commun.</source>
+<volume>43</volume>, <elocation-id>100921</elocation-id> (<year>2025</year>).<pub-id pub-id-type="pmid">40199119</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ctarc.2025.100921</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cpt70366-cit-0003">
+<string-name name-style="western">
+<surname>Ocio</surname>, <given-names>E.M.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Clinical and sociodemographic characteristics of patients with relapsed and/or refractory multiple myeloma and their influence on treatment in the real‐world setting in Spain: the CharisMMa study</article-title>. <source>Clin. Lymphoma Myeloma Leuk.</source>
+<volume>22</volume>, <fpage>e241</fpage>–<lpage>e249</lpage> (<year>2022</year>).<pub-id pub-id-type="pmid">34774462</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clml.2021.10.001</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cpt70366-cit-0004">
+<string-name name-style="western">
+<surname>Thomas</surname>, <given-names>C.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Treatment preferences of patients with relapsed or refractory multiple myeloma in the United States, United Kingdom, Italy, Germany, France, and Spain: results from a discrete choice experiment</article-title>. <source>Front. Med. (Lausanne).</source>
+<volume>10</volume>, <elocation-id>1271657</elocation-id> (<year>2023</year>).<pub-id pub-id-type="pmid">38076274</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmed.2023.1271657</pub-id><pub-id pub-id-type="pmcid">PMC10702501</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cpt70366-cit-0005">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>P.F.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Treatment patterns and overall survival of patients with double‐class and triple‐class refractory multiple myeloma: a US electronic health record database study</article-title>. <source>Leuk. Lymphoma</source>
+<volume>64</volume>, <fpage>398</fpage>–<lpage>406</lpage> (<year>2023</year>).<pub-id pub-id-type="pmid">36408998</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/10428194.2022.2140284</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cpt70366-cit-0006">
+<string-name name-style="western">
+<surname>Matsumoto</surname>, <given-names>M.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Beyond MABEL: an integrative approach to first in human dose selection of Immunomodulators by the Health and Environmental Sciences Institute (HESI) Immuno‐Safety Technical Committee (ITC)</article-title>. <source>Clin. Pharmacol. Ther.</source>
+<volume>116</volume>, <fpage>546</fpage>–<lpage>562</lpage> (<year>2024</year>).<pub-id pub-id-type="pmid">38847597</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.3316</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cpt70366-cit-0007">
+<string-name name-style="western">
+<surname>Ludwig</surname>, <given-names>H.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Prevention and management of adverse events during treatment with bispecific antibodies and CAR T cells in multiple myeloma: a consensus report of the European myeloma network</article-title>. <source>Lancet Oncol.</source>
+<volume>24</volume>, <fpage>e255</fpage>–<lpage>e269</lpage> (<year>2023</year>).<pub-id pub-id-type="pmid">37269857</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(23)00159-6</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="cpt70366-cit-0008">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>Guideline on strategies to identify and mitigate risks for first‐in‐human and early clinical trials with investigational medicinal products</article-title>. MEA/CHMP/SWP/28367/07 Rev. 1 (<year>2017</year>).</mixed-citation></ref><ref id="cpt70366-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cpt70366-cit-0009">
+<string-name name-style="western">
+<surname>Suntharalingam</surname>, <given-names>G.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Cytokine storm in a phase 1 trial of the anti‐CD28 monoclonal antibody TGN1412</article-title>. <source>N. Engl. J. Med.</source>
+<volume>355</volume>, <fpage>1018</fpage>–<lpage>1028</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16908486</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa063842</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cpt70366-cit-0010">
+<string-name name-style="western">
+<surname>Ball</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dovedi</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vajjah</surname>, <given-names>P.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Phipps</surname>, <given-names>A.</given-names>
+</string-name>
+<article-title>Strategies for clinical dose optimization of T cell‐engaging therapies in oncology</article-title>. <source>MAbs</source>
+<volume>15</volume>, <elocation-id>2181016</elocation-id> (<year>2023</year>).<pub-id pub-id-type="pmid">36823042</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/19420862.2023.2181016</pub-id><pub-id pub-id-type="pmcid">PMC9980545</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cpt70366-cit-0011">
+<string-name name-style="western">
+<surname>Elmeliegy</surname>, <given-names>M.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Dosing strategies and quantitative clinical pharmacology for bispecific T‐cell engagers development in oncology</article-title>. <source>Clin. Pharmacol. Ther.</source>
+<volume>116</volume>, <fpage>637</fpage>–<lpage>646</lpage> (<year>2024</year>).<pub-id pub-id-type="pmid">38962850</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.3361</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cpt70366-cit-0012">
+<string-name name-style="western">
+<surname>Nagaraja Shastri</surname>, <given-names>P.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Industry perspective on first‐in‐human and clinical pharmacology strategies to support clinical development of T‐cell engaging bispecific antibodies for cancer therapy</article-title>. <source>Clin. Pharmacol. Ther.</source>
+<volume>117</volume>, <fpage>34</fpage>–<lpage>55</lpage> (<year>2025</year>).<pub-id pub-id-type="pmid">39295563</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.3439</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cpt70366-cit-0013">
+<string-name name-style="western">
+<surname>Saber</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Valle</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ricks</surname>, <given-names>T.K.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Leighton</surname>, <given-names>J.K.</given-names>
+</string-name>
+<article-title>An FDA oncology analysis of CD3 bispecific constructs and first‐in‐human dose selection</article-title>. <source>Regul. Toxicol. Pharmacol.</source>
+<volume>90</volume>, <fpage>144</fpage>–<lpage>152</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28887049</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.yrtph.2017.09.001</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cpt70366-cit-0014">
+<string-name name-style="western">
+<surname>Zhou</surname>, <given-names>D.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>An innovative approach to optimize first‐in‐human minimal anticipated biological effect level based starting dose in oncology trials for bispecific T‐cell engagers: experience from a solid tumor bispecific T‐cell engager</article-title>. <source>Clin. Pharmacol. Ther.</source>
+<volume>117</volume>, <fpage>225</fpage>–<lpage>231</lpage> (<year>2025</year>).<pub-id pub-id-type="pmid">39285508</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.3431</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0015"><label>15</label><mixed-citation publication-type="miscellaneous" id="cpt70366-cit-0015">
+<article-title>Clinicaltrials.gov. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04117958">NCT04117958</ext-link></article-title>. &lt;<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT04117958" ext-link-type="uri">https://clinicaltrials.gov/study/NCT04117958</ext-link>&gt;. Accessed May 20, 2025.</mixed-citation></ref><ref id="cpt70366-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cpt70366-cit-0016">
+<string-name name-style="western">
+<surname>Frances</surname>, <given-names>N.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Novel in vivo and in vitro pharmacokinetic/pharmacodynamic‐based human starting dose selection for glofitamab</article-title>. <source>J. Pharm. Sci.</source>
+<volume>111</volume>, <fpage>1208</fpage>–<lpage>1218</lpage> (<year>2022</year>).<pub-id pub-id-type="pmid">34953862</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.xphs.2021.12.019</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cpt70366-cit-0017">
+<string-name name-style="western">
+<surname>Hutchings</surname>, <given-names>M.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Glofitamab, a novel, bivalent CD20‐targeting T‐cell‐engaging bispecific antibody, induces durable complete remissions in relapsed or refractory B‐cell lymphoma: a phase I trial</article-title>. <source>J. Clin. Oncol.</source>
+<volume>39</volume>, <fpage>1959</fpage>–<lpage>1970</lpage> (<year>2021</year>).<pub-id pub-id-type="pmid">33739857</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.20.03175</pub-id><pub-id pub-id-type="pmcid">PMC8210975</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cpt70366-cit-0018">
+<string-name name-style="western">
+<surname>Ji</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Model‐informed drug development for immuno‐oncology agonistic anti‐GITR antibody GWN323: dose selection based on MABEL and biologically active dose</article-title>. <source>Clin. Transl. Sci.</source>
+<volume>15</volume>, <fpage>2218</fpage>–<lpage>2229</lpage> (<year>2022</year>).<pub-id pub-id-type="pmid">35731955</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cts.13355</pub-id><pub-id pub-id-type="pmcid">PMC9468570</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cpt70366-cit-0019">
+<string-name name-style="western">
+<surname>Piha‐Paul</surname>, <given-names>S.A.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>First‐in‐human phase I/Ib open‐label dose‐escalation study of GWN323 (anti‐GITR) as a single agent and in combination with spartalizumab (anti‐PD‐1) in patients with advanced solid tumors and lymphomas</article-title>. <source>J. Immunother. Cancer</source>
+<volume>9</volume>, <elocation-id>e002863</elocation-id> (<year>2021</year>).<pub-id pub-id-type="pmid">34389618</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jitc-2021-002863</pub-id><pub-id pub-id-type="pmcid">PMC8365809</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cpt70366-cit-0020">
+<string-name name-style="western">
+<surname>Gong</surname>, <given-names>J.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Recommended phase II doses of talquetamab in patients with relapsed/refractory multiple myeloma from MonumenTAL‐1: clinical pharmacology results</article-title>. <source>Clin. Pharmacol. Ther.</source>
+<volume>118</volume>, <fpage>954</fpage>–<lpage>966</lpage> (<year>2025</year>).<pub-id pub-id-type="pmid">40704375</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.70004</pub-id><pub-id pub-id-type="pmcid">PMC12439005</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cpt70366-cit-0021">
+<string-name name-style="western">
+<surname>Pillarisetti</surname>, <given-names>K.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>A T‐cell‐redirecting bispecific G‐protein‐coupled receptor class 5 member D x CD3 antibody to treat multiple myeloma</article-title>. <source>Blood</source>
+<volume>135</volume>, <fpage>1232</fpage>–<lpage>1243</lpage> (<year>2020</year>).<pub-id pub-id-type="pmid">32040549</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2019003342</pub-id><pub-id pub-id-type="pmcid">PMC7146017</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cpt70366-cit-0022">
+<string-name name-style="western">
+<surname>Amara</surname>, <given-names>C.</given-names>
+</string-name>
+<article-title>Chasing optimal first‐in‐human (FIH) starting dose for biotherapeutics in oncology</article-title>. <source>Expert Opin. Biol. Ther.</source>
+<volume>25</volume>, <fpage>319</fpage>–<lpage>322</lpage> (<year>2025</year>).<pub-id pub-id-type="pmid">40051201</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14712598.2025.2477190</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cpt70366-cit-0023">
+<string-name name-style="western">
+<surname>Eckmann</surname>, <given-names>J.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>Forimtamig, a novel GPRC5D‐targeting T‐cell bispecific antibody with a 2+1 format, for the treatment of multiple myeloma</article-title>. <source>Blood</source>
+<volume>145</volume>, <fpage>202</fpage>–<lpage>219</lpage> (<year>2025</year>).<pub-id pub-id-type="pmid">39476124</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2024025987</pub-id><pub-id pub-id-type="pmcid">PMC11738037</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0024"><label>24</label><mixed-citation publication-type="miscellaneous" id="cpt70366-cit-0024">
+<article-title>Clinicaltrials.gov. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04557150">NCT04557150</ext-link></article-title>. &lt;<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT04557150" ext-link-type="uri">https://clinicaltrials.gov/study/NCT04557150</ext-link>&gt;. Accessed June 17, 2025.</mixed-citation></ref><ref id="cpt70366-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cpt70366-cit-0025">
+<string-name name-style="western">
+<surname>Carlo‐Stella</surname>, <given-names>C.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>RG6234, a GPRC5DxCD3 T‐cell engaging bispecific antibody, is highly active in patients (pts) with relapsed/refractory multiple myeloma (RRMM): updated intravenous (IV) and first subcutaneous (SC) results from a phase I dose‐escalation study</article-title>. <source>Blood</source>
+<volume>140</volume>, <fpage>397</fpage>–<lpage>399</lpage> (<year>2022</year>).</mixed-citation></ref><ref id="cpt70366-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cpt70366-cit-0026">
+<string-name name-style="western">
+<surname>Hasselbalch Riley</surname>, <given-names>C.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>RG6234, a novel GPRC5D T‐cell engaging bispecific antibody, induces rapid responses in patients with relapsed/refractory multiple myeloma: preliminary results from a first‐in‐human trial</article-title>. <source>HemaSphere</source>
+<volume>6</volume>, <fpage>81</fpage>–<lpage>82</lpage> (<year>2022</year>).</mixed-citation></ref><ref id="cpt70366-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cpt70366-cit-0027">
+<string-name name-style="western">
+<surname>Kumar</surname>, <given-names>S.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>International Myeloma Working Group consensus criteria for response and minimal residual disease assessment in multiple myeloma</article-title>. <source>Lancet Oncol.</source>
+<volume>17</volume>, <fpage>e328</fpage>–<lpage>e346</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">27511158</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(16)30206-6</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cpt70366-cit-0028">
+<string-name name-style="western">
+<surname>Lee</surname>, <given-names>D.W.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>ASTCT consensus grading for cytokine release syndrome and neurologic toxicity associated with immune effector cells</article-title>. <source>Biol. Blood Marrow Transplant.</source>
+<volume>25</volume>, <fpage>625</fpage>–<lpage>638</lpage> (<year>2019</year>).<pub-id pub-id-type="pmid">30592986</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2018.12.758</pub-id><pub-id pub-id-type="pmcid">PMC12180426</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cpt70366-cit-0029">
+<string-name name-style="western">
+<surname>Goldsmith</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cornax</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>, <given-names>J.Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>, <given-names>P.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Carreira</surname>, <given-names>V.</given-names>
+</string-name>
+<article-title>P‐095: Normal human tissue expression of G‐protein coupled receptor 5D (GPRC5D), a promising novel target for multiple myeloma, is restricted to plasma cells and hard keratinized tissues</article-title>. <source>Clin. Lymphoma Myeloma Leuk.</source>
+<volume>21</volume>, <fpage>S91</fpage> (<year>2021</year>).</mixed-citation></ref><ref id="cpt70366-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cpt70366-cit-0030">
+<string-name name-style="western">
+<surname>Smith</surname>, <given-names>E.L.</given-names>
+</string-name>
+<italic toggle="yes">et al</italic>. <article-title>GPRC5D is a target for the immunotherapy of multiple myeloma with rationally designed CAR T cells</article-title>. <source>Sci. Transl. Med.</source>
+<volume>11</volume>, <elocation-id>eaau7746</elocation-id> (<year>2019</year>).<pub-id pub-id-type="pmid">30918115</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.aau7746</pub-id><pub-id pub-id-type="pmcid">PMC7508042</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cpt70366-cit-0031">
+<string-name name-style="western">
+<surname>Forster</surname>, <given-names>S.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Radpour</surname>, <given-names>R.</given-names>
+</string-name>
+<article-title>Molecular impact of the tumor microenvironment on multiple myeloma dissemination and extramedullary disease</article-title>. <source>Front. Oncol.</source>
+<volume>12</volume>, <elocation-id>941437</elocation-id> (<year>2022</year>).<pub-id pub-id-type="pmid">35847862</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fonc.2022.941437</pub-id><pub-id pub-id-type="pmcid">PMC9284036</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cpt70366-cit-0032">
+<string-name name-style="western">
+<surname>Ho</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yi</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zanwar</surname>, <given-names>S.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Bianchi</surname>, <given-names>G.</given-names>
+</string-name>
+<article-title>Treating multiple myeloma in the context of the bone marrow microenvironment</article-title>. <source>Curr. Oncol.</source>
+<volume>29</volume>, <fpage>8975</fpage>–<lpage>9005</lpage> (<year>2022</year>).<pub-id pub-id-type="pmid">36421358</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/curroncol29110705</pub-id><pub-id pub-id-type="pmcid">PMC9689284</pub-id></mixed-citation></ref><ref id="cpt70366-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cpt70366-cit-0033">
+<string-name name-style="western">
+<surname>Rasche</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kortum</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raab</surname>, <given-names>M.S.</given-names>
+</string-name> &amp; <string-name name-style="western">
+<surname>Weinhold</surname>, <given-names>N.</given-names>
+</string-name>
+<article-title>The impact of tumor heterogeneity on diagnostics and novel therapeutic strategies in multiple myeloma</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>20</volume>, <elocation-id>1248</elocation-id> (<year>2019</year>).<pub-id pub-id-type="pmid">30871078</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms20051248</pub-id><pub-id pub-id-type="pmcid">PMC6429294</pub-id></mixed-citation></ref></ref-list></back></article>

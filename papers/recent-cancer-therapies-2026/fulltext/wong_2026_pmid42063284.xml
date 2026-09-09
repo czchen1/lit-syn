@@ -1,0 +1,801 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="bcp70567" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Clin Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Br J Clin Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">7503323</journal-id><journal-id journal-id-type="publisher-id">BCP</journal-id><journal-title-group><journal-title>British Journal of Clinical Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0306-5251</issn><issn pub-type="epub">1365-2125</issn><?publisher_abbrev blackwell?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13421006</article-id><article-id pub-id-type="pmcid-ver">PMC13421006.1</article-id><article-id pub-id-type="pmcaid">13421006</article-id><article-id pub-id-type="pmcaiid">13421006</article-id><article-id pub-id-type="pmid">42063284</article-id><article-id pub-id-type="doi">10.1002/bcp.70567</article-id><article-id pub-id-type="publisher-id">BCP70567</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>A dose‐finding population pharmacokinetic/pharmacodynamic model of ginisortamab, an anti‐gremlin‐1 monoclonal antibody, in patients with solid tumours</article-title><alt-title alt-title-type="left-running-head">Wong et al.</alt-title></title-group><contrib-group><contrib id="bcp70567-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wong</surname><given-names initials="YC">Yin Cheong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8577-3277</contrib-id><xref rid="bcp70567-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>eric.wong@ucb.com</email></address></contrib><contrib id="bcp70567-cr-0002" contrib-type="author"><name name-style="western"><surname>Chavarro</surname><given-names initials="LR">Luisa Rojas</given-names></name><xref rid="bcp70567-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="bcp70567-cr-0003" contrib-type="author"><name name-style="western"><surname>Jones</surname><given-names initials="P">Paul</given-names></name><xref rid="bcp70567-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="bcp70567-cr-0004" contrib-type="author"><name name-style="western"><surname>Egging</surname><given-names initials="D">David</given-names></name><xref rid="bcp70567-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="bcp70567-cr-0005" contrib-type="author"><name name-style="western"><surname>Ungphakorn</surname><given-names initials="W">Wanchana</given-names></name><xref rid="bcp70567-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="bcp70567-cr-0006" contrib-type="author"><name name-style="western"><surname>Valle</surname><given-names initials="M">Marta</given-names></name><xref rid="bcp70567-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="bcp70567-cr-0007" contrib-type="author"><name name-style="western"><surname>Matthews</surname><given-names initials="I">Ivan</given-names></name><xref rid="bcp70567-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="bcp70567-aff-0001" content-type="private-address">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">UCB</named-content>
+<institution>Quantitative Clinical Pharmacology</institution>
+<city>Slough</city>
+<country country="GB">UK</country>
+</aff><aff id="bcp70567-aff-0002" content-type="private-address">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Parexel International</named-content>
+<institution>Clinical Pharmacology, Modeling and Simulation</institution>
+<city>Bogota</city>
+<country country="CO">Colombia</country>
+</aff><aff id="bcp70567-aff-0003" content-type="private-address">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">UCB</named-content>
+<institution>Precision Medicine</institution>
+<city>Slough</city>
+<country country="GB">UK</country>
+</aff><aff id="bcp70567-aff-0004" content-type="private-address">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">UCB</named-content>
+<institution>Precision Medicine</institution>
+<city>Braine L'Alleud</city>
+<country country="BE">Belgium</country>
+</aff><aff id="bcp70567-aff-0005" content-type="private-address">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Parexel International</named-content>
+<institution>Clinical Pharmacology, Modeling and Simulation</institution>
+<city>Brisbane</city>
+<country country="AU">Australia</country>
+</aff><aff id="bcp70567-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Parexel International</named-content>
+<institution>Clinical Pharmacology, Modeling and Simulation</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="bcp70567-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">UCB</named-content>
+<institution>Clinical Science</institution>
+<city>Braine L'Alleud</city>
+<country country="BE">Belgium</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Yin Cheong Wong, UCB, Quantitative Clinical Pharmacology, Slough, UK.<break/>
+Email: <email>eric.wong@ucb.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>4</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2026</year></pub-date><volume>92</volume><issue seq="450">8</issue><issue-id pub-id-type="pmc-issue-id">518576</issue-id><issue-id pub-id-type="doi">10.1002/bcp.v92.8</issue-id><issue-title>Themed Issue: Assessment in Pharmacology</issue-title><fpage>2885</fpage><lpage>2898</lpage><history>
+<date date-type="rev-recd"><day>31</day><month>3</month><year>2026</year></date>
+<date date-type="received"><day>22</day><month>12</month><year>2025</year></date>
+<date date-type="accepted"><day>02</day><month>4</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>30</day><month>04</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>31</day><month>07</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-08-23 00:25:18.763"><day>23</day><month>08</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 UCB Biopharma SRL. <italic toggle="yes">British Journal of Clinical Pharmacology</italic> published by John Wiley &amp; Sons Ltd on behalf of British Pharmacological Society.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="BCP-92-2885.pdf"><?pdf-name BCP-92-2885.pdf?><?pdf-size 1496711?><?pdf-md5 2a6e05530329fb5d06830a28ba95cfb1?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:7251/13421006/2a6e05530329/BCP-92-2885.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:BCP-92-2885.pdf"/><abstract><sec id="bcp70567-sec-0001"><title>Aims</title><p>Ginisortamab, a first‐in‐class human monoclonal antibody for the treatment of advanced solid tumours, binds to gremlin‐1 and restores bone morphogenetic protein signalling. We used pharmacokinetic/pharmacodynamic (PK/PD) modelling to characterize the relationship between ginisortamab dose and serum gremlin‐1 binding, using model‐based simulations to inform ginisortamab‐dose selection for ongoing clinical development.</p></sec><sec id="bcp70567-sec-0002"><title>Methods</title><p>Ginisortamab and total gremlin‐1 serum concentration data were obtained from the monotherapy dose‐escalation module of the ONC001 phase 1/2 multipart study in participants with solid tumours (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT04393298" ext-link-type="uri">NCT04393298</ext-link>). Population PK/PD models were generated using an iterative model‐building process with nonlinear mixed effects.</p></sec><sec id="bcp70567-sec-0003"><title>Results</title><p>A two‐compartment PK model with first‐order drug elimination adequately described dose‐proportional exposure for ginisortamab 100–2000 mg (administered every 2 weeks via intravenous infusion). PK/PD modelling incorporating total gremlin‐1 serum concentrations adequately described ginisortamab binding to serum gremlin‐1. Body surface area significantly affected central (<italic toggle="yes">V</italic>
+<sub>c</sub>, 1.3 [95% CI: 1.0–1.7]) and peripheral (<italic toggle="yes">V</italic>
+<sub>p</sub>, 2.2 [95% CI: 1.6–3.0]) volume of distribution of ginisortamab, but no other tested covariates impacted ginisortamab–gremlin‐1 binding kinetics. Estimated gremlin‐1 turnover time was rapid (~23 [95% CI: ~18–32] min). The developed PK/PD model was used to simulate ginisortamab dosing regimens; 1000 mg once‐weekly and 2000 mg every 2 weeks were predicted to maintain target suppression ≥90% over the dosing interval at steady state.</p></sec><sec id="bcp70567-sec-0004"><title>Conclusion</title><p>This population PK/PD model adequately described ginisortamab PK and binding to serum gremlin‐1 in patients with advanced solid tumours. Dose simulations informed the level of gremlin‐1 suppression and supported further clinical evaluation of several dosing regimens.</p></sec></abstract><kwd-group id="Ace_Pre_15" kwd-group-type="author-generated"><kwd id="bcp70567-kwd-0001">bone morphogenetic protein antagonist</kwd><kwd id="bcp70567-kwd-0002">cancer</kwd><kwd id="bcp70567-kwd-0003">ginisortamab</kwd><kwd id="bcp70567-kwd-0004">gremlin‐1</kwd><kwd id="bcp70567-kwd-0005">pharmacokinetic/pharmacodynamic modelling</kwd><kwd id="bcp70567-kwd-0006">pharmacometrics</kwd><kwd id="bcp70567-kwd-0008">solid tumours</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>UCB (ONC001 ClinicalTrials.gov</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="6"/><table-count count="2"/><page-count count="14"/><word-count count="7800"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.4 mode:remove_FC converted:29.07.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="bcp70567-cit-9001">
+<string-name name-style="western">
+<surname>Wong</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chavarro</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>A dose‐finding population pharmacokinetic/pharmacodynamic model of ginisortamab, an anti‐gremlin‐1 monoclonal antibody, in patients with solid tumours</article-title>. <source>Br J Clin Pharmacol</source>. <year>2026</year>;<volume>92</volume>(<issue>8</issue>):<fpage>2885</fpage>‐<lpage>2898</lpage>. doi:<pub-id pub-id-type="doi">10.1002/bcp.70567</pub-id>
+<pub-id pub-id-type="pmid">42063284</pub-id>
+<pub-id pub-id-type="pmcid">PMC13421006</pub-id></mixed-citation>
+</p><fn-group id="bcp70567-ntgp-0001"><fn id="bcp70567-note-0001"><p>
+<bold>Funding information</bold> The ONC001 study was funded by UCB (ONC001 <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ClinicalTrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> study registration ID: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04393298">NCT04393298</ext-link>). Participating UK sites received Cancer Research UK funding. All costs associated with development of the PKPD model and manuscript were funded by UCB.</p></fn></fn-group></notes></front><body id="bcp70567-body-0001"><boxed-text position="float" content-type="box" id="bcp70567-blkfxd-0001" orientation="portrait"><sec id="bcp70567-sec-0006"><title>What is already known about this subject?</title><p>
+<list list-type="bullet" id="bcp70567-list-0001"><list-item id="bcp70567-li-0001"><p>High gremlin‐1 expression is associated with poor prognosis in various solid tumours.</p></list-item><list-item id="bcp70567-li-0002"><p>Ginisortamab, a first‐in‐class human monoclonal antibody, inhibits gremlin‐1 binding to bone morphogenetic proteins and demonstrated favourable preliminary safety, pharmacokinetics (PKs) and anti‐tumour activity in a first‐in‐human phase 1/2 study in participants with advanced solid tumours.</p></list-item></list>
+</p></sec><sec id="bcp70567-sec-0007"><title>What this study adds?</title><p>
+<list list-type="bullet" id="bcp70567-list-0002"><list-item id="bcp70567-li-0003"><p>A population PK/PD model was developed that adequately described the PK of ginisortamab and its binding to serum gremlin‐1.</p></list-item><list-item id="bcp70567-li-0004"><p>Simulations predicted the level of serum gremlin‐1 suppression, supporting the findings of the first‐in‐human study and identifying several dosing regimens for further clinical evaluation.</p></list-item></list>
+</p></sec></boxed-text><sec id="bcp70567-sec-0008"><label>1</label><title>INTRODUCTION</title><p>The treatment of solid tumours remains a significant unmet medical need globally because of their high incidence and mortality rates, and the challenges associated with early detection and effective treatment. In 2022, there were approximately 20 million new cancer cases and 9.7 million cancer‐related deaths worldwide, with solid tumours such as lung, colorectal, breast, liver and stomach cancers accounting for most of these cases and associated deaths.<xref rid="bcp70567-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+</p><p>Gremlin‐1 is a high‐affinity bone morphogenetic protein (BMP) antagonist that binds extracellularly to transforming growth factor‐β (TGF‐β) family BMP‐2, BMP‐4 and BMP‐7.<xref rid="bcp70567-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> The BMP pathway has dual tumour‐promoting and tumour‐suppressing activities depending on the cancer cell type, tumour microenvironment, and stage of tumour growth<xref rid="bcp70567-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>; however, high gremlin‐1 levels are associated with poor prognosis and outcomes across a range of solid tumours.<xref rid="bcp70567-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> When secreted from tumour stroma or the tumour cells themselves, gremlin‐1 antagonism of BMP signalling promotes tumour ‘stemness’, hyperproliferation, and a more invasive mesenchymal phenotype.<xref rid="bcp70567-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="bcp70567-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Gremlin‐1 is known to be highly expressed in &gt;60% of oesophageal, colorectal and pancreatic cancers, and in approximately 50% of bladder, breast and lung cancers.<xref rid="bcp70567-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Evidence suggests high gremlin‐1 expression in late‐stage breast and colorectal cancer can promote metastasis<xref rid="bcp70567-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="bcp70567-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="bcp70567-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="bcp70567-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> and correlates with poor prognosis.<xref rid="bcp70567-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="bcp70567-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="bcp70567-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="bcp70567-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="bcp70567-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="bcp70567-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="bcp70567-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="bcp70567-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="bcp70567-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="bcp70567-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="bcp70567-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="bcp70567-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</p><p>Ginisortamab is a first‐in‐class fully human IgG4 monoclonal antibody (mAb) that has demonstrated the ability to restore gremlin‐1‐suppressed BMP signalling in in vitro cancer cell culture assays through inhibition of gremlin‐1 binding to BMP‐2, −4 and ‐7.<xref rid="bcp70567-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> In human colorectal cancer cell lines, ginisortamab fully blocked the activity of recombinant human gremlin‐1 and restored BMP signalling pathways.<xref rid="bcp70567-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> In a human colorectal–fibroblast co‐culture system in which gremlin‐1 is produced by the fibroblasts, ginisortamab also restored BMP signalling.<xref rid="bcp70567-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> There is also strong preclinical evidence to suggest that ginisortamab can limit tumour cell expansion through restoration of BMP signalling. A chimeric, murine analogue of ginisortamab (Ab7326) has demonstrated anti‐tumour activity in mouse models of multiple myeloma and colorectal cancer.<xref rid="bcp70567-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="bcp70567-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Additionally, treatment with Ab7326 in a murine <italic toggle="yes">Apc</italic>
+<sup>Min</sup>
+<italic toggle="yes">/+; Vil1‐GREM1</italic> spontaneous genetic model of intestinal polyposis and cancer led to reduced polyp formation and prolonged mouse survival, supporting the potential for therapeutic benefit in gremlin‐1‐driven cancers through gremlin‐1 antagonism (data on file).</p><p>The safety, pharmacokinetics (PKs), and anti‐tumour activity of ginisortamab in participants with advanced tumours have been investigated in ONC001 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT04393298" ext-link-type="uri">NCT04393298</ext-link>), a first‐in‐human, phase 1/2 open‐label, multicentre study that evaluated ginisortamab administered via intravenous (IV) infusion in a monotherapy dose‐escalation module (Part A), in combination with selected standard of care in two further dose‐escalation modules (Parts B and C) and in a dose‐optimization module (Part A1). Monotherapy dose‐escalation data indicated a favourable safety and PK profile at the maximum tested dose of 2000 mg every 2 weeks (Q2W), with preliminary anti‐tumour activity and no observed antidrug antibody (ADA) formation.<xref rid="bcp70567-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> The ONC001 study is complete, and at time of writing, a Phase 2 clinical study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.isrctn.com/ISRCTN63154609" ext-link-type="uri">ISRCTN63154609</ext-link>) evaluating ginisortamab in participants with pancreatic ductal adenocarcinoma (PDAC), the most common form of pancreatic cancer, is underway.</p><p>The population PK and pharmacodynamic (PD) model presented here was designed to describe the time course of the effect of ginisortamab on total gremlin‐1 serum concentrations (free gremlin‐1 and ginisortamab‐bound gremlin‐1) using data from the ONC001 monotherapy dose‐escalation module. The objectives were to identify covariates that may explain variability in ginisortamab PK and total gremlin‐1 serum concentrations; to simulate different ginisortamab dosing regimens to evaluate their impact on free gremlin‐1 suppression levels; and to support and inform ginisortamab dose selection for upcoming clinical studies, including the Phase 2 study in PDAC.</p></sec><sec sec-type="methods" id="bcp70567-sec-0009"><label>2</label><title>METHODS</title><sec id="bcp70567-sec-0010"><label>2.1</label><title>ONC001 clinical study</title><p>Data for this population PK/PD analysis was obtained from the dose‐escalation module of ONC001, a non‐randomized first‐in‐human monotherapy dose‐escalation module which enrolled participants at several sites in the UK. The ONC001 study was conducted in accordance with the study protocol and consensus ethical principles derived from international guidelines, including the Declaration of Helsinki, the International Conference on Harmonization Good Clinical Practice,<xref rid="bcp70567-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> and the Council for International Organizations of Medical Sciences International Ethical Guidelines, and was approved by institutional review boards, including the London–West London and Gene Therapy Advisory Committee (GTAC) Research Ethics Committee (REC reference 19/LO/1926). All participants in the ONC001 study provided written informed consent before participating.</p><p>Eligible participants were ≥18 years old with recurrent or metastatic advanced solid tumours known to be associated with <italic toggle="yes">GREM1</italic> mRNA expression (i.e. bladder urothelial carcinoma, breast invasive carcinoma, colorectal adenocarcinoma, oesophageal carcinoma, head and neck squamous cell carcinoma, lung adenocarcinoma, lung squamous cell carcinoma, pancreatic adenocarcinoma, prostate adenocarcinoma and gastric adenocarcinoma)<xref rid="bcp70567-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="bcp70567-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> and resistant or refractory to standard anti‐cancer treatment. All participants had an estimated life expectancy of ≥12 weeks, access to approved therapies, measurable or non‐measurable disease as defined by the relevant Response Evaluation Criteria in Solid Tumours (RECIST), version 1.1, and an Eastern Cooperative Oncology Group performance status (ECOG PS) ≤ 1.</p><p>Ginisortamab was administered as a 60‐min IV infusion Q2W until the occurrence of progressive disease, unacceptable toxicity, or withdrawal of consent. Five sequential dose cohorts were escalated through ginisortamab 100 (cohort 1), 250 (cohort 2), 500 (cohort 3), 1000 (cohort 4) and 2000 mg (cohort 5). All participants remained in the hospital or a standard monitoring facility of the study site for continuous monitoring over the first 24 h following the first dose of ginisortamab and, thereafter, at the investigator's discretion for all subsequent doses.</p></sec><sec id="bcp70567-sec-0011"><label>2.2</label><title>Sampling and bioanalytical methods</title><p>Blood samples for analysis of ginisortamab serum concentration were collected following the first (Day 1) and second (Day 15) doses during the first three treatment cycles, with a final sample obtained at the safety follow‐up visit within 30 days of the last dose. Ginisortamab serum concentrations were measured using a validated bridging immunoassay on the MSD QuickPlex platform, employing biotinylated and Ru‐sulfotagged anti‐idiotype antibodies to ginisortamab as capture and detection reagents, respectively. This assay format detects free (unbound) ginisortamab capable of simultaneously binding both reagents. Because the anti‐idiotype antibodies compete with gremlin‐1 for binding, ginisortamab molecules in which one or both antigen‐binding arms are occupied by gremlin‐1 are not quantified. During method development, target interference resulted in concentration‐dependent negative bias (up to −71% at the lower limit of quantification [LLOQ] and −15% at the high‐quality control level at investigated gremlin‐1 concentrations). The LLOQ was 20.0 ng mL<sup>−1</sup> with an analytical range up to 5000 ng mL<sup>−1</sup>.</p><p>Total gremlin‐1 serum concentrations were measured using a fit‐for‐purpose validated liquid chromatography–tandem mass spectrometry (LC/MS/MS) assay with an immunoprecipitation step. Gremlin‐1 and the internal standard gremlin‐1 peptide (H2N‐QTIHEEG [Cam]NSR–OH) were analysed in 130 μL human serum samples using immunoprecipitation. Data were collected using selected reaction monitoring turbo ion spray LC/MS/MS in the positive ion mode, with a concentration range of 0.45 (LLOQ) to 90 ng mL<sup>−1</sup> (Upper LOQ), using single‐point calibration for determination of concentrations calculated from peak area ratios. The assay was evaluated for interference in the presence of ginisortamab at concentrations up to 1500 μg mL<sup>−1</sup> and met the acceptance criteria.</p><p>A homogeneous bridging assay (electrochemiluminescence immunoassay: ECLIA) was developed and validated to assess the presence of ADAs in the serum samples of study participants. A tiered approach to ADA sample analysis was used in this study, comprising screening, confirmatory and titre steps, where appropriate. The assay showed acceptable intra‐ and inter‐run precision, both in screening and in confirmation assays, with values for coefficient of variation (CV)below 20% for negative control and positive control levels. Investigated drug tolerance showed that at the highest ginisortamab concentration investigated (480 μg·mL<sup>−1</sup>), positive control could be detected at 6.07 and 9.76 ng mL<sup>−1</sup> in screening and confirmatory assays, respectively (interpolated from positive control dilution series). The drug tolerance data suggest the assay can detect potential ADA in ONC001 study samples containing drug at relevant sampling timepoints.</p><p>Drug and molecular target nomenclature conform to the International Union of Basic and Clinical Pharmacology (IUPHAR)/British Pharmacological Society (BPS) Guide to Pharmacology.</p></sec><sec id="bcp70567-sec-0012"><label>2.3</label><title>Modelling and simulation approaches</title><p>The PK/PD analysis population included all participants from the ONC001 monotherapy dose‐escalation module who received ≥1 dose of ginisortamab and had ≥1 post‐dose ginisortamab serum concentration and ≥1 total gremlin‐1 serum concentration measurement above the LLOQ at a known/recorded time.</p><p>The population PK and PK/PD models were developed following an iterative model‐building process using a nonlinear mixed‐effects approach. The first‐order conditional estimation with <italic toggle="yes">η</italic>–<italic toggle="yes">ε</italic> interaction (FOCE‐INT) in NONMEM was employed for all model parameter estimations (Supporting Information <xref rid="bcp70567-supitem-0001" ref-type="supplementary-material">Methods</xref>). Both PK and PD samples below the LLOQ were excluded from the analysis according to the ‘M1’ methodology.<xref rid="bcp70567-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> The base and final population models were selected on the basis of overall model performance, including the examination of parameter precision, shrinkage, minimum objective function value (OFV), condition number, significant digits, successful covariance step and goodness‐of‐fit plots. The performance of the final population model was evaluated with prediction‐corrected visual predictive checks (pcVPC): 1000 replicates of the original dataset were simulated to evaluate if the final model adequately described the central tendency and variability in the observed data. Parameter uncertainty was assessed by evaluating the standard error of the parameters and confidence intervals around the parameters using sampling importance resampling (SIR).</p><p>The final population PK/PD model was used to simulate and predict ginisortamab serum concentration, total gremlin‐1 serum concentration, free gremlin‐1 serum concentration and the level of target (gremlin‐1) suppression for various ginisortamab‐dosing regimens. Free gremlin‐1 concentrations were derived from the target‐mediated drug disposition (TMDD) model, and target suppression was calculated as percentage change relative to the model‐estimated baseline‐free gremlin‐1 concentration (BLR).</p><sec id="bcp70567-sec-0013"><label>2.3.1</label><title>Population PK/PD model development</title><p>A two‐compartment disposition model with first‐order drug elimination from the central compartment was used as a starting point for development of a base PK model, and additional structural compartmental models (i.e. 1‐n compartment) were then tested. Inter‐individual variability (IIV) in the PK parameters was introduced in the model using exponential terms, assuming lognormal distribution of the parameters as <italic toggle="yes">θi</italic> = <italic toggle="yes">θ</italic> × exp (<italic toggle="yes">ηi</italic>), where <italic toggle="yes">θi</italic> is the PK parameter of the individual, <italic toggle="yes">θ</italic> is the typical population value of the parameter, and <italic toggle="yes">ηi</italic> is the inter‐individual random effect assumed to have a normal distribution, mean of zero and a variance of <italic toggle="yes">ω</italic>
+<sup>2</sup>. When substantial correlation was present between individual random effects, covariance between these parameters was included in the model through a block covariance matrix (Ω). A proportional error model was tested to describe the residual variability for ginisortamab serum concentrations.</p><p>After identification of the base PK model, participant baseline characteristics (age, race, body weight [BW], body mass index [BMI], body surface area [BSA]), sex and cancer type were considered for evaluation as covariates on model parameters (clearance [CL], central volume of distribution [<italic toggle="yes">V</italic>
+<sub>
+<italic toggle="yes">c</italic>
+</sub>], inter‐compartmental clearance [<italic toggle="yes">Q</italic>] and peripheral volume of distribution [<italic toggle="yes">V</italic>
+<sub>
+<italic toggle="yes">p</italic>
+</sub>]) to explain variability in ginisortamab serum concentrations. Dose was tested as a potential covariate graphically; however, because of the lack of any sign of relationship between dose and any of the PK parameters, no formal test was performed in NONMEM. Covariates that showed a correlation with the random effects and had possible clinical relevance were further evaluated for inclusion and retained if there was a statistically significant change in OFV using a stepwise approach with forward inclusion (<italic toggle="yes">P</italic> &lt; .01) and backward elimination (<italic toggle="yes">P</italic> &lt; .001).</p><p>The final PK model, including base and covariate model, was used as a starting point to develop the structural PK/PD model. Total gremlin‐1 serum concentration–time data were included and evaluated using different approximations of TMDD. BLRs were parameterized as BLR = gremlin‐1 synthesis rate constant (<italic toggle="yes">K</italic>
+<sub>syn</sub>)/gremlin‐1 degradation rate constant (<italic toggle="yes">K</italic>
+<sub>deg</sub>). The quasi‐steady‐state (QSS) model approximation<xref rid="bcp70567-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> best described the data and was retained in the model. More complex models, including binding of ginisortamab to gremlin‐1 in the peripheral compartment and concentration‐dependent <italic toggle="yes">K</italic>
+<sub>syn</sub> models, were also tested but not retained.<xref rid="bcp70567-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> All PK and PD data were fitted simultaneously and IIV in the PD parameters was introduced using exponential terms assuming a lognormal distribution, as described for the population PK model development. A proportional error model was tested to describe the residual variability for total gremlin‐1 serum concentration.</p><p>After the identification of the base population PK/PD model, participant baseline characteristics (age, race, BW, BMI, BSA) and cancer type were considered for evaluation as covariates on model parameters (CL, BLR, and <italic toggle="yes">K</italic>
+<sub>syn</sub>) to explain the variability in ginisortamab and total gremlin‐1 serum concentrations. Covariates that showed a correlation with random effects and that had a possible clinical relevance were further evaluated using the same method described for population PK model development.</p></sec><sec id="bcp70567-sec-0014"><label>2.3.2</label><title>Simulations</title><p>Simulations were performed using the final PK/PD model for the ginisortamab‐dosing regimens included in the ONC001 monotherapy dose‐escalation module (six cycles of ginisortamab 100, 250, 500, 1000 or 2000 mg administered as a 60‐min IV infusion Q2W over a 28‐day cycle) as well as those under investigation in the ONC001 dose‐optimization module (ginisortamab 2000 mg Q2W 30‐min IV infusion over a 28‐day cycle, 3000 mg Q3W eight cycles 90‐min IV infusion over a 21‐day cycle, and 4000 mg Q4W 120‐min IV infusion over a 28‐day cycle), plus an additional hypothetical dosing regimen of 1000 mg once weekly (QW) (60‐min IV infusion over a 28‐day cycle). Simulations were conducted to generate 1000 virtual subjects per scenario, incorporated IIV, and aimed to predict the drug exposure and level of target suppression achieved for each regimen. BSA values were sampled from the observed ONC001 dose‐escalation population to preserve demographic characteristics. PK exposure metrics (area under the curve over the dosing interval [AUC<sub>tau</sub>], and 14 days after the respective dose administration [AUC<sub>0–336h</sub>], maximum concentration [<italic toggle="yes">C</italic>
+<sub>max</sub>], trough concentration [<italic toggle="yes">C</italic>
+<sub>min</sub>] and average concentration [<italic toggle="yes">C</italic>
+<sub>av</sub>]; calculated as AUC<sub>tau</sub>/dosing interval) were calculated and summarized by dosing regimen. Steady‐state maximum target suppression, target suppression after the first dose in the first dose cycle, and target suppression at the end of the dosing period were also calculated.</p></sec><sec id="bcp70567-sec-0015"><label>2.3.3</label><title>Software</title><p>Exploratory data preparation, summary statistics and visualization were performed using R (version 4.1.1).<xref rid="bcp70567-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> The population PK analysis, population PK/PD analysis and simulations were performed in an environment interfaced by Pirana (version 2.9.9, Certara) in which NONMEM (version 7.4.4, ICON Development Solutions), PsN (Perl‐speaks‐NONMEM, version 5.0.0), xpose4 (version 4.5.3) and R (version 4.1.1) were incorporated in an integrated manner for data manipulation, estimation, graphical and statistical summaries.</p></sec></sec></sec><sec sec-type="results" id="bcp70567-sec-0016"><label>3</label><title>RESULTS</title><sec id="bcp70567-sec-0017"><label>3.1</label><title>Population data</title><p>Overall, 25 participants received ≥1 dose of ginisortamab and had data included in this analysis; baseline demographics and characteristics for these participants are included in Table <xref rid="bcp70567-supitem-0001" ref-type="supplementary-material">S1</xref>. The most common tumour was colorectal adenocarcinoma (<italic toggle="yes">n</italic> = 11/25) followed by pancreatic adenocarcinoma (<italic toggle="yes">n</italic> = 6/25) and prostate adenocarcinoma (<italic toggle="yes">n</italic> = 3/25).<xref rid="bcp70567-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> All participants were ADA negative at all visits based on the screening and confirmatory assays performed. A total of 371 ginisortamab serum concentrations and 270 total gremlin‐1 serum concentrations were included in model development (24 ginisortamab pre‐first dose observations below the limit of quantification [BLQ], 1 ginisortamab unexplained pre‐first dose observation above LLOQ, six total gremlin‐1 serum concentrations BLQ and two missing total gremlin‐1 serum concentrations were excluded, Table <xref rid="bcp70567-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><p>Ginisortamab serum concentrations increased dose‐proportionally and declined in an approximately bi‐exponential manner. Variability of ginisortamab serum concentrations was low to moderate at all timepoints among participants across all doses (Figure <xref rid="bcp70567-fig-0001" ref-type="fig">1A</xref>). Total gremlin‐1 serum concentrations after dosing were higher, following ginisortamab doses of ≥500 mg IV Q2W, compared with doses ≤250 mg IV Q2W. A large variability between participants in total gremlin‐1 serum concentrations was observed (Figure <xref rid="bcp70567-fig-0001" ref-type="fig">1B</xref>).</p><fig position="float" fig-type="FIGURE" id="bcp70567-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>(A) <bold>Ginisortamab serum concentration and</bold> (B) <bold>total gremlin‐1 serum concentration</bold>–<bold>time profiles by dose.</bold> Solid lines are median concentrations per dose; data points represent individual observations per dose. Dropout data are excluded.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="BCP-92-2885-g001.jpg"><?image-name BCP-92-2885-g001.jpg?><?image-size 105939?><?image-md5 877e387f51a5d22b87f6cc62b9f5acb3?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1398?><?image-original-width 1064?><?image-scaled-height 932?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7251/13421006/877e387f51a5/BCP-92-2885-g001.jpg?><?thumb-name BCP-92-2885-g001.gif?><?thumb-size 4059?><?thumb-md5 4776906f316bfd82b9ef532a0d00c494?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 131?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/7251/13421006/4776906f316b/BCP-92-2885-g001.gif?></graphic></fig></sec><sec id="bcp70567-sec-0018"><label>3.2</label><title>Population PK/PD model evaluation</title><p>The base population PK model that best described ginisortamab concentrations was a two‐compartment disposition model with linear first‐order elimination from the central compartment and IIV in CL, <italic toggle="yes">V</italic>
+<sub>c</sub> and <italic toggle="yes">V</italic>
+<sub>p</sub>. A proportional error model was used to describe random residual error. Baseline body size descriptors (BW, BMI, and BSA) were evaluated using a forward inclusion and/or backward elimination approach. BSA‐based empirical scaling provided superior model performance compared with theoretical allometric exponents in terms of statistical and model predictions improvement, with the largest reduction in OFV and IIV, and was the only statistically significant covariate. BSA (centred at the participant median value of 2 m<sup>2</sup>) was included on <italic toggle="yes">V</italic>
+<sub>c</sub> and <italic toggle="yes">V</italic>
+<sub>p</sub>, with the exponent estimated as 1.3 (95% CI: 1.0–1.7) and 2.2 (95% CI: 1.6–3.0), respectively.</p><p>Ginisortamab and total gremlin‐1 serum concentrations were best described by a two‐compartment disposition model with TMDD in which the binding of ginisortamab to gremlin‐1 is given by the QSS approximation (Figure <xref rid="bcp70567-fig-0002" ref-type="fig">2</xref>). The QSS model assumes that drug–target complex formation and elimination occur rapidly, relative to other PK and target‐turnover processes, that is <italic toggle="yes">d</italic> (drug–target complex)/<italic toggle="yes">dt</italic> ≈ 0. Under this assumption, the association rate (<italic toggle="yes">K</italic>
+<sub>on</sub>) of ginisortamab to gremlin‐1 is balanced by the sum of the dissociation rate constant (<italic toggle="yes">K</italic>
+<sub>off</sub>) and internalization rate constant (<italic toggle="yes">K</italic>
+<sub>int</sub>), expressed as QSS constant (<italic toggle="yes">K</italic>
+<sub>ss</sub>) parameter, which is defined as <italic toggle="yes">K</italic>
+<sub>ss</sub> = (<italic toggle="yes">K</italic>
+<sub>off</sub> + <italic toggle="yes">K</italic>
+<sub>int</sub>)/<italic toggle="yes">K</italic>
+<sub>on</sub>. Gremlin‐1 IIV was included on CL, <italic toggle="yes">K</italic>
+<sub>int</sub>, <italic toggle="yes">K</italic>
+<sub>deg</sub>, <italic toggle="yes">V</italic>
+<sub>c</sub> and <italic toggle="yes">V</italic>
+<sub>p</sub>. A proportional error model was used to describe random residual error. During the development of the model, different approaches were tested, including fixing the target‐turnover value to the elimination rate constant of ginisortamab and fixing <italic toggle="yes">K</italic>
+<sub>off</sub> to the value derived from an in vitro binding assay. However, better model fitting was obtained when the QSS approximation was implemented, with all parameters estimated from the clinical data.</p><fig position="float" fig-type="FIGURE" id="bcp70567-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>
+<bold>Population PK/PD final model equations and schematic.</bold>
+<italic toggle="no">θ</italic>
+<sub>CL</sub>, population mean CL; <italic toggle="no">θ</italic>
+<sub>Vc</sub>, population mean <italic toggle="no">V</italic>
+<sub>c</sub>; <italic toggle="no">θ</italic>
+<sub>Vp</sub>, population mean <italic toggle="no">V</italic>
+<sub>p</sub>; <italic toggle="no">θ</italic>
+<sub>Q</sub>, population mean <italic toggle="no">Q</italic>; <italic toggle="no">θ</italic>
+<sub>Ksyn</sub>, population mean <italic toggle="no">K</italic>
+<sub>syn</sub>; <italic toggle="no">θ</italic>
+<sub>Kdeg</sub>, population mean <italic toggle="no">K</italic>
+<sub>deg</sub>; <italic toggle="no">θ</italic>
+<sub>Kss</sub>, population mean <italic toggle="no">K</italic>ss; <italic toggle="no">θK</italic>
+<sub>int</sub>, population mean <italic toggle="no">K</italic>
+<sub>int</sub>; CL, clearance; CL<sub>i</sub>, individual CL; 𝑒<sup>𝜂𝐶𝐿</sup>, inter‐individual random effects for CL; 𝑒<sup>𝜂𝑉𝑐</sup>, inter‐individual random effects for <italic toggle="no">V</italic>
+<sub>c</sub>; 𝑒<sup>𝜂𝑉𝑝</sup>, inter‐individual random effects for <italic toggle="no">V</italic>
+<sub>p</sub>; 𝑒<sup>𝜂𝐾𝑑𝑒𝑔</sup>, inter‐individual random effects for <italic toggle="no">K</italic>
+<sub>deg</sub>; 𝑒<sup>𝜂𝐾𝑖𝑛𝑡</sup>, inter‐individual random effects for K<sub>int</sub>; IV, intravenous; <italic toggle="no">K</italic>, rate constant; <italic toggle="no">K</italic>
+<sub>syni</sub>, individual <italic toggle="no">K</italic>
+<sub>syn</sub>; <italic toggle="no">K</italic>
+<sub>degi</sub>, individual <italic toggle="no">K</italic>
+<sub>deg</sub>; <italic toggle="no">K</italic>
+<sub>ssi</sub>, individual <italic toggle="no">K</italic>
+<sub>ss</sub>; <italic toggle="no">K</italic>
+<sub>inti</sub>, individual <italic toggle="no">K</italic>
+<sub>int</sub>; <italic toggle="no">K</italic>
+<sub>e</sub>, elimination rate constant; PK/PD, pharmacokinetic–pharmacodynamic; <italic toggle="no">Q</italic>, inter‐compartmental clearance; <italic toggle="no">Q</italic>
+<sub>i</sub>, individual <italic toggle="no">Q</italic>; <italic toggle="no">V</italic>
+<sub>C</sub>, central volume of distribution; <italic toggle="no">V</italic>
+<sub>ci</sub>, individual <italic toggle="no">V</italic>
+<sub>c</sub>; <italic toggle="no">V</italic>
+<sub>p</sub>, peripheral volume of distribution; <italic toggle="no">V</italic>
+<sub>pi</sub>, individual <italic toggle="no">V</italic>
+<sub>p</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="BCP-92-2885-g002.jpg"><?image-name BCP-92-2885-g002.jpg?><?image-size 56101?><?image-md5 ffb3585e8ae80a72311432e60ba893ca?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 672?><?image-original-width 1064?><?image-scaled-height 448?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7251/13421006/ffb3585e8ae8/BCP-92-2885-g002.jpg?><?thumb-name BCP-92-2885-g002.gif?><?thumb-size 8537?><?thumb-md5 f07deb6b48c753b3d640c533e6358ab7?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 126?><?thumb-cloudpmc-urn urn:cdn:blobs/7251/13421006/f07deb6b48c7/BCP-92-2885-g002.gif?></graphic></fig><p>All parameters were estimated with satisfactory precision (the estimated relative standard error, based on SIR for all parameters, was &lt;19% for fixed effect and &lt;22% for random effect parameters), and shrinkages were &lt;29% (Table <xref rid="bcp70567-tbl-0001" ref-type="table">1</xref>). Goodness‐of‐fit plots for observed concentrations versus population‐predicted concentrations demonstrated minimum bias, with most data evenly scattered around the line of unity for both ginisortamab and gremlin‐1 (Figure <xref rid="bcp70567-supitem-0001" ref-type="supplementary-material">S1A and B</xref>). Observed concentrations versus the individual predicted concentration goodness‐of‐fit plots were tightly scattered around the line of unity with no apparent bias. The typical estimated ginisortamab half‐life (<italic toggle="yes">t</italic>
+<sub>1/2</sub>) elimination for the typical subject was ~13.3 days, and typical estimated gremlin‐1 turnover time (which equates to 1/K<sub>deg</sub>) for the typical subject was ~23 min.</p><table-wrap position="float" id="bcp70567-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Parameter estimates for the final population PK/PD model.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Parameters</th><th align="left" valign="bottom" rowspan="1" colspan="1">Estimated value (%RSE from NONMEM)</th><th align="left" valign="bottom" rowspan="1" colspan="1">%RSE from SIR (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Shrinkage (%)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Clearance (CL, L/day)</td><td align="char" valign="top" rowspan="1" colspan="1">0.433 (4.7)</td><td align="char" valign="top" rowspan="1" colspan="1">4.7 (0.395–0.474)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Central volume of distribution (<italic toggle="yes">V</italic>
+<sub>c</sub>, L)</td><td align="char" valign="top" rowspan="1" colspan="1">4.38 (3.7)</td><td align="char" valign="top" rowspan="1" colspan="1">3.3 (4.12–4.69)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Covariate effect of body surface area on <italic toggle="yes">V</italic>
+<sub>c</sub>
+</td><td align="char" valign="top" rowspan="1" colspan="1">1.31 (14.2)</td><td align="char" valign="top" rowspan="1" colspan="1">13.7 (0.96–1.66)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Inter‐compartmental clearance (<italic toggle="yes">Q</italic>, L/day)</td><td align="char" valign="top" rowspan="1" colspan="1">0.849 (12.8)</td><td align="char" valign="top" rowspan="1" colspan="1">9.6 (0.700–1.019)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Peripheral volume of distribution (<italic toggle="yes">V</italic>
+<sub>p</sub>, L)</td><td align="char" valign="top" rowspan="1" colspan="1">3.23 (7.8)</td><td align="char" valign="top" rowspan="1" colspan="1">7.4 (2.80–3.76)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Covariate effect of body surface area on <italic toggle="yes">V</italic>
+<sub>p</sub>
+</td><td align="char" valign="top" rowspan="1" colspan="1">2.18 (21.3)</td><td align="char" valign="top" rowspan="1" colspan="1">13.9 (1.75–2.96)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gremlin‐1 synthesis rate constant (<italic toggle="yes">K</italic>
+<sub>syn,</sub> nmol/L/day)</td><td align="char" valign="top" rowspan="1" colspan="1">0.378 (22.2)</td><td align="char" valign="top" rowspan="1" colspan="1">10.5 (0.311–0.466)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gremlin‐1 degradation rate constant (<italic toggle="yes">K</italic>
+<sub>deg,</sub> 1/day)</td><td align="char" valign="top" rowspan="1" colspan="1">61.8 (28.5)</td><td align="char" valign="top" rowspan="1" colspan="1">14.1 (45.2–79.4)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Quasi‐steady‐state constant (<italic toggle="yes">K</italic>
+<sub>ss,</sub> nmol/L)</td><td align="char" valign="top" rowspan="1" colspan="1">7.59 (35.7)</td><td align="char" valign="top" rowspan="1" colspan="1">18.2 (5.45–10.91)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Complex internalization rate constant (<italic toggle="yes">K</italic>
+<sub>int,</sub> 1/day)</td><td align="char" valign="top" rowspan="1" colspan="1">3.23 (31.3)</td><td align="char" valign="top" rowspan="1" colspan="1">13.2 (2.45–4.09)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV for CL, CV (%)</td><td align="char" valign="top" rowspan="1" colspan="1">22.9 (10.9)</td><td align="char" valign="top" rowspan="1" colspan="1">19.3 (18.2–27.2)</td><td align="left" valign="top" rowspan="1" colspan="1">−0.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV for <italic toggle="yes">V</italic>
+<sub>c</sub>, CV (%)</td><td align="char" valign="top" rowspan="1" colspan="1">12.9 (21.3)</td><td align="char" valign="top" rowspan="1" colspan="1">14.4 (11.1–14.7)</td><td align="left" valign="top" rowspan="1" colspan="1">2.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Correlation coefficient <italic toggle="yes">V</italic>
+<sub>c</sub> and <italic toggle="yes">V</italic>
+<sub>p</sub>
+<xref rid="bcp70567-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="char" valign="top" rowspan="1" colspan="1">0.97</td><td align="left" valign="top" rowspan="1" colspan="1">‐</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>‐</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV for <italic toggle="yes">V</italic>
+<sub>p</sub>, CV (%)</td><td align="char" valign="top" rowspan="1" colspan="1">22.0 (35.5)</td><td align="char" valign="top" rowspan="1" colspan="1">15.0 (18.3–25.1)</td><td align="left" valign="top" rowspan="1" colspan="1">5.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV for <italic toggle="yes">K</italic>
+<sub>deg</sub>, CV (%)</td><td align="char" valign="top" rowspan="1" colspan="1">38.1 (18.2)</td><td align="char" valign="top" rowspan="1" colspan="1">21.1 (29.7–46.9)</td><td align="left" valign="top" rowspan="1" colspan="1">28.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV for <italic toggle="yes">K</italic>
+<sub>int</sub>, CV (%)</td><td align="char" valign="top" rowspan="1" colspan="1">55.4 (16.3)</td><td align="char" valign="top" rowspan="1" colspan="1">18.1 (43.4–65.7)</td><td align="left" valign="top" rowspan="1" colspan="1">4.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RUV for ginisortamab concentrations (%)</td><td align="char" valign="top" rowspan="1" colspan="1">10.8 (6.4)</td><td align="char" valign="top" rowspan="1" colspan="1">4.1 (10.0–11.7)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RUV for total gremlin‐1 concentrations (%)</td><td align="char" valign="top" rowspan="1" colspan="1">35.6 (4.0)</td><td align="char" valign="top" rowspan="1" colspan="1">5.3 (32.3–39.8)</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="bcp70567-ntgp-0002"><fn id="bcp70567-note-0002"><p>
+<italic toggle="yes">Notes</italic>: CV% of proportional error is calculated as 100* THETA, error is estimated as a THETA; CV% of exponential ETAs are calculated as 100 sqrt (exp [OMEGA]‐1).</p></fn><fn id="bcp70567-note-0003"><label>
+<sup>a</sup>
+</label><p>Correlation coefficient <italic toggle="yes">V</italic>
+<sub>c</sub> and <italic toggle="yes">V</italic>
+<sub>p</sub> is calculated as 
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="inline" overflow="scroll"><mml:mfrac><mml:msub><mml:mi>ω</mml:mi><mml:mrow><mml:mi mathvariant="italic">Vc</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="italic">Vp</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:msqrt><mml:msub><mml:mi>ω</mml:mi><mml:mi mathvariant="italic">Vc</mml:mi></mml:msub></mml:msqrt><mml:mo>*</mml:mo><mml:msqrt><mml:msub><mml:mi>ω</mml:mi><mml:mrow><mml:mi mathvariant="italic">Vp</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:msub></mml:msqrt></mml:mrow></mml:mfrac></mml:math>
+</p></fn><fn id="bcp70567-note-0004"><p>Abbreviations: CI, confidence interval; CV, coefficient of variation; IIV, inter‐individual variability; PK/PD, pharmacokinetic–pharmacodynamic; RSE, relative standard error; RUV, residual unexplained variability; SIR, sampling importance resampling.</p></fn></table-wrap-foot></table-wrap><p>The pcVPC of the population PK and final population PK/PD model demonstrated that the median, 10th and 90th percentiles of the prediction‐corrected data were contained within the 95% CIs of corresponding simulations (Figures <xref rid="bcp70567-fig-0003" ref-type="fig">3</xref> and <xref rid="bcp70567-supitem-0001" ref-type="supplementary-material">S2</xref>), validating the models' predictive performances. The PK/PD model adequately described the time profiles of the observed ginisortamab and total gremlin‐1 serum concentrations (Figure <xref rid="bcp70567-fig-0004" ref-type="fig">4</xref>), which allowed estimation of gremlin‐1 suppression at an individual patient level.</p><fig position="float" fig-type="FIGURE" id="bcp70567-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>
+<bold>Prediction‐corrected visual predictive check of final population PK/PD model for total gremlin‐1 serum concentrations (log scale).</bold> CI, confidence interval; PK/PD, pharmacokinetic–pharmacodynamic.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="BCP-92-2885-g003.jpg"><?image-name BCP-92-2885-g003.jpg?><?image-size 74037?><?image-md5 034303663318bab26434044500d69737?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 502?><?image-original-width 1064?><?image-scaled-height 335?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7251/13421006/034303663318/BCP-92-2885-g003.jpg?><?thumb-name BCP-92-2885-g003.gif?><?thumb-size 4923?><?thumb-md5 a41057b6f0c5f39393e118817d2f85f2?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 169?><?thumb-cloudpmc-urn urn:cdn:blobs/7251/13421006/a41057b6f0c5/BCP-92-2885-g003.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="bcp70567-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>
+<bold>Illustrations of the final population PK/PD model performance at an individual level: participant 1 Ginisortamab dose 100 mg; participant 2. Ginisortamab dose 2000 mg.</bold> Q2W 60‐min IV administration of ginisortamab. IV, intravenous; PK/PD, pharmacokinetic–pharmacodynamic; Q2W, once every 2 weeks.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="BCP-92-2885-g005.jpg"><?image-name BCP-92-2885-g005.jpg?><?image-size 137345?><?image-md5 cd60d15550c36c35df1ed843dd899306?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1856?><?image-original-width 1064?><?image-scaled-height 1237?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7251/13421006/cd60d15550c3/BCP-92-2885-g005.jpg?><?thumb-name BCP-92-2885-g005.gif?><?thumb-size 4086?><?thumb-md5 b1ec536e5187d1d217ffdbcac07337ec?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 174?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/7251/13421006/b1ec536e5187/BCP-92-2885-g005.gif?></graphic></fig></sec><sec id="bcp70567-sec-0019"><label>3.3</label><title>Simulations to predict target suppression</title><p>Maximum target suppression and target suppression at the end of the dosing period after the first dose of the first cycle and after the last dose of the last cycle (i.e. steady state) are presented in Table <xref rid="bcp70567-tbl-0002" ref-type="table">2</xref>. After using the final model to simulate time profiles of gremlin‐1 suppression of different ginisortamab dosing regimens, the PK/PD model predicted that the hypothetical 1000 mg QW and 2000 mg Q2W doses tested in the ONC001 dose‐escalation module, and the 3000 mg Q3W and 4000 mg Q4W doses that were subsequently evaluated in the ONC001 dose‐optimization module would produce a median target suppression close to or above 80% over the dosing interval (Figures <xref rid="bcp70567-fig-0005" ref-type="fig">5</xref> and <xref rid="bcp70567-supitem-0001" ref-type="supplementary-material">S3</xref>). After simulation of repeated ginisortamab dosing, the model predicted that the hypothetical dose of 1000 mg QW and the 2000 mg Q2W regimen tested in the ONC001 dose‐escalation module would produce a median target suppression close to or above 90% over the dosing interval at steady state (Figure <xref rid="bcp70567-fig-0006" ref-type="fig">6</xref>).</p><table-wrap position="float" id="bcp70567-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>PK/PD model predicted median (90% prediction interval) target suppression after administration of ginisortamab at first dose–first cycle and last dose–last cycle.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Dose simulations</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">First dose–first cycle</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Last dose–last cycle (steady‐state)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Target suppression at end of dosing period (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Maximum target suppression (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Target suppression at end of dosing period (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Maximum target suppression (%)</th></tr></thead><tbody valign="top"><tr><td colspan="5" align="left" valign="top" rowspan="1">ONC001 monotherapy dose escalation</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">100 mg Q2W, 60 min</td><td align="left" valign="top" rowspan="1" colspan="1">18 (7–41)</td><td align="left" valign="top" rowspan="1" colspan="1">87 (79–92)</td><td align="left" valign="top" rowspan="1" colspan="1">29 (10–57)</td><td align="left" valign="top" rowspan="1" colspan="1">77 (65–87)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">250 mg Q2W, 60 min</td><td align="left" valign="top" rowspan="1" colspan="1">35 (15–63)</td><td align="left" valign="top" rowspan="1" colspan="1">94 (90–97)</td><td align="left" valign="top" rowspan="1" colspan="1">51 (23–77)</td><td align="left" valign="top" rowspan="1" colspan="1">86 (76–93)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">500 mg Q2W, 60 min</td><td align="left" valign="top" rowspan="1" colspan="1">53 (26–78)</td><td align="left" valign="top" rowspan="1" colspan="1">97 (95–98)</td><td align="left" valign="top" rowspan="1" colspan="1">68 (37–87)</td><td align="left" valign="top" rowspan="1" colspan="1">91 (83–96)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1000 mg Q2W, 60 min</td><td align="left" valign="top" rowspan="1" colspan="1">69 (42–88)</td><td align="left" valign="top" rowspan="1" colspan="1">98 (97–99)</td><td align="left" valign="top" rowspan="1" colspan="1">81 (55–93)</td><td align="left" valign="top" rowspan="1" colspan="1">95 (89–98)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2000 mg Q2W, 60 min</td><td align="left" valign="top" rowspan="1" colspan="1">82 (59–93)</td><td align="left" valign="top" rowspan="1" colspan="1">99 (99–100)</td><td align="left" valign="top" rowspan="1" colspan="1">89 (71–96)</td><td align="left" valign="top" rowspan="1" colspan="1">97 (93–99)</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Hypothetical dose</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1000 mg QW, 60 min</td><td align="left" valign="top" rowspan="1" colspan="1">77 (52–92)</td><td align="left" valign="top" rowspan="1" colspan="1">98 (97–99)</td><td align="left" valign="top" rowspan="1" colspan="1">91 (77–97)</td><td align="left" valign="top" rowspan="1" colspan="1">96 (89–99)</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">ONC001 monotherapy dose optimization</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2000 mg Q2W, 30 min</td><td align="left" valign="top" rowspan="1" colspan="1">82 (57–93)</td><td align="left" valign="top" rowspan="1" colspan="1">99 (99–100)</td><td align="left" valign="top" rowspan="1" colspan="1">89 (70–97)</td><td align="left" valign="top" rowspan="1" colspan="1">97 (93–99)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">3000 mg Q3W, 90 min</td><td align="left" valign="top" rowspan="1" colspan="1">81 (54–94)</td><td align="left" valign="top" rowspan="1" colspan="1">99 (99–100)</td><td align="left" valign="top" rowspan="1" colspan="1">86 (59–96)</td><td align="left" valign="top" rowspan="1" colspan="1">98 (94–99)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">4000 mg Q4W, 120 min</td><td align="left" valign="top" rowspan="1" colspan="1">80 (45–93)</td><td align="left" valign="top" rowspan="1" colspan="1">99 (99–100)</td><td align="left" valign="top" rowspan="1" colspan="1">83 (48–95)</td><td align="left" valign="top" rowspan="1" colspan="1">98 (96–99)</td></tr></tbody></table><table-wrap-foot id="bcp70567-ntgp-0003"><fn id="bcp70567-note-0005"><p>
+<italic toggle="yes">Note</italic>: min, minutes; PK/PD, pharmacokinetic–pharmacodynamic; QW, once weekly; Q2W, once every 2 weeks; Q3W, once every 3 weeks; Q4W, once every 4 weeks.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="bcp70567-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>
+<bold>Predicted percentage gremlin‐1 target suppression after IV ginisortamab administration—simulation of ONC001 monotherapy dose‐escalation module dosing regimens: (A) 100 mg Q2W (60‐min IV infusion), 28‐day treatment cycle, 6 cycles; (B) 250 mg Q2W (60‐min IV infusion), 28‐day treatment cycle, 6 cycles; (C) 500 mg Q2W (60‐min IV infusion), 28‐day treatment cycle, 6 cycles; (D) 1000 mg Q2W (60‐mi IV infusion), 28‐day treatment cycle, 6 cycles; and (E) 2000 mg Q2W (60‐mi IV infusion), 28‐day treatment cycle, 6 cycles.</bold> IV, intravenous; Q2W, once every 2 weeks.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="BCP-92-2885-g006.jpg"><?image-name BCP-92-2885-g006.jpg?><?image-size 273898?><?image-md5 fd4ebfc491f7f580e3e3bb7d652ff811?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 3627?><?image-original-width 1064?><?image-scaled-height 2417?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7251/13421006/fd4ebfc491f7/BCP-92-2885-g006.jpg?><?thumb-name BCP-92-2885-g006.gif?><?thumb-size 11141?><?thumb-md5 646f5ba767c8e3e9f923fb6b585e926d?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 341?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/7251/13421006/646f5ba767c8/BCP-92-2885-g006.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="bcp70567-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>
+<bold>Predicted median % gremlin‐1 target suppression after repeated ginisortamab IV dosing (last dose–last cycle).</bold> IV, intravenous; min, minutes; Q2W, once every 2 weeks.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="BCP-92-2885-g004.jpg"><?image-name BCP-92-2885-g004.jpg?><?image-size 77716?><?image-md5 c169027023a7cc96979b9d2572c906d1?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 600?><?image-original-width 1064?><?image-scaled-height 400?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7251/13421006/c169027023a7/BCP-92-2885-g004.jpg?><?thumb-name BCP-92-2885-g004.gif?><?thumb-size 3890?><?thumb-md5 4020400f4a457e212d676e9f98349f98?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 141?><?thumb-cloudpmc-urn urn:cdn:blobs/7251/13421006/4020400f4a45/BCP-92-2885-g004.gif?></graphic></fig><p>The predicted exposure (AUC<sub>tau</sub>, AUC<sub>0–336h</sub>, <italic toggle="yes">C</italic>
+<sub>max</sub>, <italic toggle="yes">C</italic>
+<sub>min</sub> and <italic toggle="yes">C</italic>
+<sub>av</sub>) after the first and last dose of all the simulated dosing regimens is summarized in Table <xref rid="bcp70567-supitem-0001" ref-type="supplementary-material">S3</xref>. Ginisortamab exposure appeared to increase proportionally with doses. Predicted median accumulation ratios based on AUC<sub>0–336h</sub> and <italic toggle="yes">C</italic>
+<sub>max</sub> were estimated to be 1.7 and 1.4, respectively.</p></sec></sec><sec sec-type="discussion" id="bcp70567-sec-0020"><label>4</label><title>DISCUSSION</title><p>This PK/PD model characterized the relationship between serum‐free ginisortamab concentrations and serum total gremlin‐1 concentrations, and enabled assessment of the level of target suppression after IV administration of different ginisortamab‐dosing regimens to patients with advanced solid tumours. The observed time profiles of ginisortamab and total gremlin‐1 serum concentrations were best described by a two‐compartment disposition with a TMDD population PK/PD model with QSS approximation. The QSS approximation of the TMDD has been suggested to accurately predict the phase when the amount of free target is small or close to zero, which is expected for an mAb, such as ginisortamab, given its high affinity for the target and its in vitro equilibrium dissociation constant for human gremlin‐1 of 87 pM; <xref rid="bcp70567-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> this phase may represent most of the post‐dose period. This makes QSS a suitable approximation approach to adequately capture and model measured total gremlin‐1 serum concentrations.<xref rid="bcp70567-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> More complex models, including binding of ginisortamab to gremlin‐1 in the peripheral compartment and concentration‐depended <italic toggle="yes">K</italic>
+<sub>syn</sub> models, were also tested to evaluate whether their inclusion led to a better explanation of the binding of ginisortamab to gremlin‐1; however, no significant differences in OFV or improvements in the goodness‐of‐fit plots were observed, and large relative standard errors were found compared with the QSS model approximation. Overall, the estimated PK and binding parameters for ginisortamab and gremlin‐1 appear similar to other mAb drugs evaluated in various therapeutic areas.<xref rid="bcp70567-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="bcp70567-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> The dose‐dependent increase in total gremlin‐1 serum concentrations observed in the study, possibly attributed to target binding in which the ginisortamab‐bound gremlin‐1 had an extended <italic toggle="yes">t</italic>
+<sub>1/2</sub> compared with free gremlin‐1, was adequately captured by the model. Conversely, the estimated internalization rate constant (<italic toggle="yes">K</italic>
+<sub>int</sub>) for the ginisortamab–gremlin‐1 complex exceeded the apparent elimination rate of free (unbound) ginisortamab (CL/<italic toggle="yes">V</italic>
+<sub>c</sub>). This finding may indicate there is target‐mediated internalization and degradation of the complex, which can proceed via cellular uptake pathways distinct from FcRn‐mediated recycling of unbound IgG.</p><p>Baseline BSA was identified as the only significant covariate on ginisortamab PK (<italic toggle="yes">P</italic> &lt; .001); individuals with high BSA were estimated to have a higher volume of distribution than those with low BSA, although this was expected because measures of body size have been commonly identified as covariates that influence the PK of therapeutic mAbs.<xref rid="bcp70567-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="bcp70567-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> No additional covariates were found to significantly influence the PK or PK/PD model, so only BSA was included in the final PK/PD model, using a power function centred to 2 m<sup>2</sup> and with the exponent estimated as 1.3 for <italic toggle="yes">V</italic>
+<sub>c</sub> and 2.2 for <italic toggle="yes">V</italic>
+<sub>p</sub>, suggesting a nonlinear relationship between BSA and volume of distributions. The differing exponents estimated for <italic toggle="yes">V</italic>
+<sub>c</sub> and <italic toggle="yes">V</italic>
+<sub>p</sub> likely reflect the empirical model optimization rather than true physiological differences in scaling. In two‐compartment models, these volumes represent structural distribution parameters and are often highly correlated. Therefore, the estimated exponents should be interpreted as descriptive of the dataset rather than as mechanistic constants. Although cancer type was not found to be a significant covariate, this finding should be interpreted with caution, because of the small number of participants with certain cancer types in the ONC001 dose‐escalation module; most participants had colorectal adenocarcinoma (<italic toggle="yes">n</italic> = 11) or pancreatic adenocarcinoma (<italic toggle="yes">n</italic> = 6) with other tumour types present in three or fewer participants.</p><p>Although measuring and comparing concentrations of free target before and after drug dosing can directly inform the level of target suppression, it is not always possible to develop a reliable free‐target assay, especially for targets of low abundance and rapid turnover, such as gremlin‐1. Challenges arise not only from the low concentration of the free‐target (for which an assay with high sensitivity is needed) relative to the high concentrations of drug and drug–target complex (for which an assay with high tolerance is needed) in post‐dose samples but also from the dissociation of the drug–target complex during storage and shipment, which can inflate the amount of free target in samples. Conversely, the measurement of total target concentration together with drug concentration could provide useful data, which can be analysed with PK/PD modelling approaches that help to infer the level of suppression of the free target.<xref rid="bcp70567-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> For novel targets in which turnover times are not well known, PK/PD modelling allows the estimation of this parameter, which is critical in determining the level of target suppression and ultimately plays a role in the selection of the optimal dosing regimen. Estimation from our PK/PD model suggested that gremlin‐1 has a fast turnover time in serum (typically 23 min), and, to our knowledge, this is the first reported estimate of gremlin‐1 turnover time in humans. Soluble serum proteins may exhibit rapid systemic turnover, because of renal clearance or receptor‐mediated uptake, even when their biological effects within tissues are sustained through localized production or compartmental retention. Therefore, the serum turnover estimate should be interpreted as representing circulating gremlin‐1 dynamics. Nevertheless, a similarly rapid turnover of gremlin‐1 in the tissue microenvironment is feasible. The physiological antagonism of BMP signalling by gremlin‐1 produces highly localized morphogen gradients (for example, in the base intestinal crypts). Such systems require rapid morphogen turnover to achieve this level of localization, and a recent study has indeed shown that, after secretion by intestinal fibroblasts, gremlin‐1 is endocytosed by neighbouring epithelial cells.<xref rid="bcp70567-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</p><p>Simulations with the final PK/PD model allow identification of dosing regimens that might achieve a high level of gremlin‐1 suppression in solid tumours associated with <italic toggle="yes">GREM1</italic> expression. The PK and total gremlin‐1 serum concentrations measured following the administration of 2000 mg ginisortamab Q2W in the ONC001 dose‐escalation and dose‐optimization modules were generally in line with the simulations generated from this PK/PD model (data not shown). The predicted median ginisortamab accumulation ratio based on an AUC<sub>0–336h</sub> of 1.7 and the predicted median accumulation ratio based on a <italic toggle="yes">C</italic>
+<sub>max</sub> of 1.4 suggest low‐to‐moderate accumulation at steady state. The 1000 mg QW regimen and the 2000 mg Q2W regimen monotherapy were predicted to produce a median target suppression close to 90% over the dosing interval at steady state. Simulations of the dosing regimens used in the ONC001 dose‐optimization module suggest that applying a higher dose with an extended dosing interval of every 3 weeks (3000 mg Q3W) and every 4 weeks (4000 mg Q4W) would provide a slightly lower target suppression at the end of the dosing interval (attributable to a fast turnover time of free gremlin‐1), but these regimens may still be considered for future investigation.</p><p>There are some limitations to this PK/PD analysis. Data were based on the modest number of participants in the ONC001 dose‐escalation module, which may have limited the ability to identify significant covariates, impacting the generalizability of the findings. For instance, five of the seven primary tumour types diagnosed in participants from the ONC001 dose‐escalation module were in only 1–3 participants, which prevented the evaluation of the potential impact of tumour type on PK, baseline gremlin‐1 level and gremlin‐1 turnover. Heterogeneity among participants in disease status, medical history, and prior and concomitant treatments was present, but its potential impact could not be fully evaluated because of the relatively small sample size. The relationship between serum gremlin‐1 suppression, tumour gremlin‐1 suppression and anti‐tumour effects of ginisortamab also remains to be explored. Lastly, in the absence of an assay that can reliably measure the concentration of free gremlin‐1 following ginisortamab administration, the level of gremlin‐1 suppression predicted by our simulations will have to be confirmed with the measurement of downstream markers of gremlin‐1 activity.</p><p>To conclude, measurement of free PK and total target concentration in this first‐in‐human study of ginisortamab has allowed the determination of dose regimens to be considered for future Phase 2 studies using a population PK/PD modelling approach. Model‐based simulation of the suppression of gremlin‐1 supports the potential use of several ginisortamab dosing regimens for further evaluation of efficacy in patients with advanced solid tumours. In the ongoing Phase 2 clinical study evaluating ginisortamab in participants with PDAC, the most common form of pancreatic cancer, an initial starting‐dose regimen of 2000 mg Q2W, was adopted, based on the safety profile observed in ONC001 and our PK/PD simulations, which suggested that this regimen maintains a high level of gremlin‐1 suppression throughout the dosing interval.</p></sec><sec id="bcp70567-sec-0021"><title>AUTHOR CONTRIBUTIONS</title><p>
+<italic toggle="yes">Conception and design of the work</italic>: Yin Cheong Wong, Paul Jones, David Egging and Ivan Matthews. <italic toggle="yes">Development of methodology</italic>: Yin Cheong Wong, Luisa Rojas Chavarro, David Egging, Wanchana Ungphakorn and Ivan Matthews. <italic toggle="yes">Acquisition of data</italic>: Paul Jones. <italic toggle="yes">Analysis and interpretation of data</italic>: Yin Cheong Wong, Luisa Rojas Chavarro, David Egging, Wanchana Ungphakorn, Marta Valle and Ivan Matthews. <italic toggle="yes">Study supervision</italic>: Ivan Matthews. <italic toggle="yes">Writing, review and/or revision of the manuscript</italic>: All authors. <italic toggle="yes">Final approval of the manuscript</italic>: All authors.</p></sec><sec sec-type="COI-statement" id="bcp70567-sec-0023"><title>CONFLICT OF INTEREST STATEMENT</title><p>Y.C.W and P. J are employees of UCB and have stocks/shares in UCB, and P. J is named as an inventor on ginisortamab‐related patents; D.E. is an employee of UCB; I.M. is an employee of UCB and has stocks/shares in AstraZeneca, Eli Lilly, Gilead, Haleon, Novo Nordisk and UCB; L.R.C., W.U. and M.V. are employees of Parexel International.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="bcp70567-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S1.</bold> PKPD model population summary demographic and baseline characteristics (participants from ONC001 monotherapy dose‐escalation).</p><p>
+<bold>Table S2.</bold> (A) ginisortamab serum concentrations excluded from PK model development; (B) total gremlin‐1 serum concentrations excluded from PKPD model development; (C) available ginisortamab and total gremlin‐1 serum concentration records by dose.</p><p>
+<bold>Table S3.</bold> PKPD model predicted median (90% prediction interval) PK parameters after administration of ginisortamab at first dose–first cycle and last dose–last cycle (steady‐state).</p><p>
+<bold>Figure S1.</bold> Observed <italic toggle="no">vs.</italic> predicted goodness‐of‐fit plots for: (A) ginisortamab serum concentrations; (B) total gremlin‐1 serum concentrations in the final PKPD model.</p><p>
+<bold>Figure S2.</bold> Prediction‐corrected visual predictive check of final PK model for ginisortamab: (A) time after first dose; (B) first 14 days after first dose.</p><p>
+<bold>Figure S3:</bold> Predicted percentage gremlin‐1 target suppression after IV ginisortamab administration (simulation of ONC001 monotherapy dose‐optimization module regimens and additional hypothetical dosing regimen).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BCP-92-2885-s001.docx" position="float" orientation="portrait"><?suppdata-name BCP-92-2885-s001.docx?><?suppdata-size 1413133?><?suppdata-md5 24ca3072e2ea59d68228127945f8f31e?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:7251/13421006/24ca3072e2ea/BCP-92-2885-s001.docx?></media></supplementary-material></sec></body><back><ack id="bcp70567-sec-0022"><title>ACKNOWLEDGEMENTS</title><p>The authors thank the participants and their caregivers in addition to the investigators and their teams who contributed to the ONC001 study. The authors acknowledge Walter Krauwinkel, (UCB, Breda, The Netherlands) for supporting the PK/PD modelling; Sabrina Lory, Apoorva Kotian, Pierre‐Jean Couble, Hazel Poyntz‐Farminer, and Cindy Barthelemi (UCB, Brussels, Belgium) for the assistance with method development; Jackie van Bueren (UCB, Slough, UK) for publication coordination; and Sarah White (Madano, London, UK) for medical writing and editorial assistance, which was undertaken in accordance with Good Publication Practice 2022 and funded by UCB.</p></ack><sec sec-type="data-availability" id="bcp70567-sec-0025"><title>DATA AVAILABILITY STATEMENT</title><p>Data from non‐interventional studies are outside of UCB's data sharing policy and is unavailable for sharing. Data from the ONC001 study (ONC001 <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ClinicalTrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> study registration ID: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04393298">NCT04393298</ext-link>) will be published separately.</p></sec><ref-list id="bcp70567-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="bcp70567-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="bcp70567-cit-0002">
+<string-name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laversanne</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sung</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</article-title>. <source>CA Cancer J Clin</source>. <year>2024</year>;<volume>74</volume>(<issue>3</issue>):<fpage>229</fpage>‐<lpage>263</lpage>. doi:<pub-id pub-id-type="doi">10.3322/caac.21834</pub-id>
+<pub-id pub-id-type="pmid">38572751</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="bcp70567-cit-0003">
+<string-name name-style="western">
+<surname>Mulloy</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rider</surname>
+<given-names>CC</given-names>
+</string-name>. <article-title>The bone morphogenetic proteins and their antagonists</article-title>. <source>Vitam Horm</source>. <year>2015</year>;<volume>99</volume>:<fpage>63</fpage>‐<lpage>90</lpage>. doi:<pub-id pub-id-type="doi">10.1016/bs.vh.2015.06.004</pub-id>
+<pub-id pub-id-type="pmid">26279373</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="bcp70567-cit-0004">
+<string-name name-style="western">
+<surname>Bach</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>The dual role of bone morphogenetic proteins in cancer</article-title>. <source>Mol Ther Oncolytics</source>. <year>2018</year>;<volume>8</volume>:<fpage>1</fpage>‐<lpage>13</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.omto.2017.10.002</pub-id>
+<pub-id pub-id-type="pmid">29234727</pub-id>
+<pub-id pub-id-type="pmcid">PMC5723373</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="bcp70567-cit-0005">
+<string-name name-style="western">
+<given-names>JB</given-names>
+<surname>Sneddon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>HH</given-names>
+<surname>Zhen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K</given-names>
+<surname>Montgomery</surname>
+</string-name>, van de Rijn M, Tward AD, West R, Gladstone H, Chang HY, Morganroth GS, Oro AE, Brown PO <string-name name-style="western">
+<given-names>M</given-names>
+<surname>van de Rijn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>AD</given-names>
+<surname>Tward</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R</given-names>
+<surname>West</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H</given-names>
+<surname>Gladstone</surname>
+</string-name>, <string-name name-style="western">
+<given-names>HY</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>GS</given-names>
+<surname>Morganroth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>AE</given-names>
+<surname>Oro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>PO</given-names>
+<surname>Brown</surname>
+</string-name>
+<article-title>Bone morphogenetic protein antagonist gremlin 1 is widely expressed by cancer‐associated stromal cells and can promote tumor cell proliferation</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<year>2006</year>;<volume>103</volume>(<issue>40</issue>):<fpage>14842</fpage>–<lpage>14847</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0606857103</pub-id>
+<pub-id pub-id-type="pmid">17003113</pub-id>
+<pub-id pub-id-type="pmcid">PMC1578503</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="bcp70567-cit-0006">
+<string-name name-style="western">
+<surname>Elemam</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malek</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahmoud</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>El‐Huneidi</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Talaat</surname>
+<given-names>IM</given-names>
+</string-name>. <article-title>Insights into the role of gremlin‐1, a bone morphogenic protein antagonist, in cancer initiation and progression</article-title>. <source>Biomedicine</source>. <year>2022</year>;<volume>10</volume>(<issue>2</issue>):<elocation-id>301</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/biomedicines10020301</pub-id>
+<pub-id pub-id-type="pmcid">PMC8869528</pub-id><pub-id pub-id-type="pmid">35203511</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="bcp70567-cit-0007">
+<string-name name-style="western">
+<surname>Ren</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smid</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iaria</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Cancer‐associated fibroblast‐derived gremlin 1 promotes breast cancer progression</article-title>. <source>Breast Cancer Res</source>. <year>2019</year>;<volume>21</volume>(<issue>1</issue>):<elocation-id>109</elocation-id>. doi:<pub-id pub-id-type="doi">10.1186/s13058-019-1194-0</pub-id>
+<pub-id pub-id-type="pmid">31533776</pub-id>
+<pub-id pub-id-type="pmcid">PMC6751614</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="bcp70567-cit-0008">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Gremlin‐1 promotes colorectal cancer cell metastasis by activating ATF6 and inhibiting ATF4 pathways</article-title>. <source>Cells</source>. <year>2022</year>;<volume>11</volume>(<issue>14</issue>):<elocation-id>2136</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/cells11142136</pub-id>
+<pub-id pub-id-type="pmid">35883579</pub-id>
+<pub-id pub-id-type="pmcid">PMC9324664</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="bcp70567-cit-0009">
+<string-name name-style="western">
+<surname>Park</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sung</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Surh</surname>
+<given-names>YJ</given-names>
+</string-name>. <article-title>Gremlin‐1 augments the oestrogen‐related receptor α signalling through EGFR activation: implications for the progression of breast cancer</article-title>. <source>Br J Cancer</source>. <year>2020</year>;<volume>123</volume>(<issue>6</issue>):<fpage>988</fpage>‐<lpage>999</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41416-020-0945-0</pub-id>
+<pub-id pub-id-type="pmid">32572171</pub-id>
+<pub-id pub-id-type="pmcid">PMC7493948</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="bcp70567-cit-0010">
+<string-name name-style="western">
+<surname>Sung</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Surh</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>Gremlin‐1 promotes metastasis of breast cancer cells by activating STAT3‐MMP13 signaling pathway</article-title>. <source>Int J Mol Sci</source>. <year>2020</year>;<volume>21</volume>(<issue>23</issue>):<elocation-id>9227</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/ijms21239227</pub-id>
+<pub-id pub-id-type="pmid">33287358</pub-id>
+<pub-id pub-id-type="pmcid">PMC7730512</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="bcp70567-cit-0011">
+<string-name name-style="western">
+<surname>Neckmann</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolowczyk</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hall</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>GREM1 is associated with metastasis and predicts poor prognosis in ER‐negative breast cancer patients</article-title>. <source>Cell Commun Signal</source>. <year>2019</year>;<volume>17</volume>(<issue>1</issue>):<elocation-id>140</elocation-id>. doi:<pub-id pub-id-type="doi">10.1186/s12964-019-0467-7</pub-id>
+<pub-id pub-id-type="pmid">31694641</pub-id>
+<pub-id pub-id-type="pmcid">PMC6836336</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="bcp70567-cit-0012">
+<string-name name-style="western">
+<surname>Davis</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irshad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bansal</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Aberrant epithelial GREM1 expression initiates colonic tumorigenesis from cells outside the stem cell niche</article-title>. <source>Nat Med</source>. <year>2015</year>;<volume>21</volume>(<issue>1</issue>):<fpage>62</fpage>‐<lpage>70</lpage>. doi:<pub-id pub-id-type="doi">10.1038/nm.3750</pub-id>
+<pub-id pub-id-type="pmid">25419707</pub-id>
+<pub-id pub-id-type="pmcid">PMC4594755</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="bcp70567-cit-0013">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hou</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shu</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Knockdown GREM1 suppresses cell growth, angiogenesis, and epithelial‐mesenchymal transition in colon cancer</article-title>. <source>J Cell Biochem</source>. <year>2019</year>;<volume>120</volume>(<issue>4</issue>):<fpage>5583</fpage>‐<lpage>5596</lpage>. doi:<pub-id pub-id-type="doi">10.1002/jcb.27842</pub-id>
+<pub-id pub-id-type="pmid">30426548</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="bcp70567-cit-0014">
+<string-name name-style="western">
+<surname>Sarker</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banerji</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patricia Blagden</surname>
+<given-names>SP</given-names>
+</string-name>, et al. <article-title>A multi‐modular phase I/II study of UCB6114, a first‐in‐class, fully human IgG4P anti‐gremlin‐1 monoclonal antibody, as monotherapy and in combination with mFOLFOX6 or trifluridine/tipiracil, for patients with advanced gastrointestinal (GI) tumors</article-title>. <source>J Clin Oncol</source>. <year>2022</year>;<volume>40</volume>(<issue>4_suppl</issue>):<elocation-id>TPS221</elocation-id> doi:<pub-id pub-id-type="doi">10.1200/JCO.2022.40.4_suppl.TPS221</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="bcp70567-cit-0015">
+<string-name name-style="western">
+<surname>Sato</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kawana</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fujimoto</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Clinical significance of gremlin 1 in cervical cancer and its effects on cancer stem cell maintenance</article-title>. <source>Oncol Rep</source>. <year>2016</year>;<volume>35</volume>(<issue>1</issue>):<fpage>391</fpage>‐<lpage>397</lpage>. doi:<pub-id pub-id-type="doi">10.3892/or.2015.4367</pub-id>
+<pub-id pub-id-type="pmid">26530461</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="bcp70567-cit-0016">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Increased expression of gremlin1 promotes proliferation and epithelial mesenchymal transition in gastric cancer cells and correlates with poor prognosis of patients with gastric cancer</article-title>. <source>Cancer Genomics Proteomics</source>. <year>2020</year>;<volume>17</volume>(<issue>1</issue>):<fpage>49</fpage>‐<lpage>60</lpage>. doi:<pub-id pub-id-type="doi">10.21873/cgp.20167</pub-id>
+<pub-id pub-id-type="pmid">31882551</pub-id>
+<pub-id pub-id-type="pmcid">PMC6937121</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="bcp70567-cit-0017">
+<string-name name-style="western">
+<surname>Vasaikar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Proteogenomic analysis of human colon cancer reveals new therapeutic opportunities</article-title>. <source>Cell</source>. <year>2019</year>;<volume>177</volume>(<issue>4</issue>):<fpage>1035</fpage>‐<lpage>1049.e19</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.cell.2019.03.030</pub-id>
+<pub-id pub-id-type="pmid">31031003</pub-id>
+<pub-id pub-id-type="pmcid">PMC6768830</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="bcp70567-cit-0018">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miao</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Prognostic and clinicopathological significance of hapto and gremlin1 expression in extrahepatic cholangiocarcinoma</article-title>. <source>J Cancer</source>. <year>2020</year>;<volume>11</volume>(<issue>1</issue>):<fpage>199</fpage>‐<lpage>207</lpage>. doi:<pub-id pub-id-type="doi">10.7150/jca.36886</pub-id>
+<pub-id pub-id-type="pmid">31892986</pub-id>
+<pub-id pub-id-type="pmcid">PMC6930392</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="bcp70567-cit-0019">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yeh</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shyr</surname>
+<given-names>YM</given-names>
+</string-name>, et al. <article-title>Expression of gremlin 1 correlates with increased angiogenesis and progression‐free survival in patients with pancreatic neuroendocrine tumors</article-title>. <source>J Gastroenterol</source>. <year>2013</year>;<volume>48</volume>(<issue>1</issue>):<fpage>101</fpage>‐<lpage>108</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00535-012-0614-z</pub-id>
+<pub-id pub-id-type="pmid">22706573</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="bcp70567-cit-0020">
+<string-name name-style="western">
+<surname>Moriarity</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Sullivan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kennedy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehigan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCormick</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Current targeted therapies in the treatment of advanced colorectal cancer: a review</article-title>. <source>Ther Adv Med Oncol</source>. <year>2016</year>;<volume>8</volume>(<issue>4</issue>):<fpage>276</fpage>‐<lpage>293</lpage>. doi:<pub-id pub-id-type="doi">10.1177/1758834016646734</pub-id>
+<pub-id pub-id-type="pmid">27482287</pub-id>
+<pub-id pub-id-type="pmcid">PMC4952023</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="bcp70567-cit-0021">
+<string-name name-style="western">
+<surname>Davies</surname>
+<given-names>GCG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dedi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>PS</given-names>
+</string-name>, et al. <article-title>Discovery of ginisortamab, a potent and novel anti‐gremlin‐1 antibody in clinical development for the treatment of cancer</article-title>. <source>MAbs</source>. <year>2023</year>;<volume>15</volume>(<issue>1</issue>):<elocation-id>2289681</elocation-id>. doi:<pub-id pub-id-type="doi">10.1080/19420862.2023.2289681</pub-id>
+<pub-id pub-id-type="pmid">38084840</pub-id>
+<pub-id pub-id-type="pmcid">PMC10793705</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="bcp70567-cit-0022">
+<string-name name-style="western">
+<surname>Clark</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hewett</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panagopoulos</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Targeted disruption of bone marrow stromal cell‐derived gremlin1 limits multiple myeloma disease progression in vivo</article-title>. <source>Cancers (Basel)</source>. <year>2020</year>;<volume>12</volume>(<issue>8</issue>):<elocation-id>2149</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/cancers12082149</pub-id>
+<pub-id pub-id-type="pmid">32756430</pub-id>
+<pub-id pub-id-type="pmcid">PMC7464474</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="bcp70567-cit-0023">
+<string-name name-style="western">
+<surname>Kobayashi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gieniec</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wright</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>The balance of stromal BMP signaling mediated by GREM1 and ISLR drives colorectal carcinogenesis</article-title>. <source>Gastroenterology</source>. <year>2021</year>;<volume>160</volume>(<issue>4</issue>):<fpage>1224</fpage>‐<lpage>1239.e30</lpage>. doi:<pub-id pub-id-type="doi">10.1053/j.gastro.2020.11.011</pub-id>
+<pub-id pub-id-type="pmid">33197448</pub-id>
+<pub-id pub-id-type="pmcid">PMC7617122</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="bcp70567-cit-0024">
+<string-name name-style="western">
+<surname>Sarker</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blagden</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cook</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Abstract CT094: phase I dose‐escalation study evaluating the safety and tolerability of ginisortamab (UCB6114), a first‐in‐class anti‐gremlin‐1 monoclonal antibody (mAb), as monotherapy in advanced solid tumors</article-title>. <source>Cancer Res</source>. <year>2023</year>;<volume>83</volume>(<issue>8_Supplement</issue>):<elocation-id>CT094‐CT094</elocation-id>. doi:<pub-id pub-id-type="doi">10.1158/1538-7445.Am2023-ct094</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0024"><label>24</label><mixed-citation publication-type="miscellaneous" id="bcp70567-cit-0025">
+<article-title>ICH E6 (R1) guideline for Good Clinical Practice ‐ Revision 1</article-title>. Adopted Reference Number: CPMP/ICH/135/95. First published: 01/07/<year>2002</year>.</mixed-citation></ref><ref id="bcp70567-bib-0025"><label>25</label><mixed-citation publication-type="miscellaneous" id="bcp70567-cit-0026">
+<collab collab-type="authors">NIH</collab>
+. <article-title>National Cancer Institute Centre for Center Genomics: The Cancer Genome Atlas (TCGA) Cancers Selected for Study</article-title>. Accessed July, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cancer.gov/ccg/research/genome-sequencing/tcga/studied-cancers" ext-link-type="uri">https://www.cancer.gov/ccg/research/genome-sequencing/tcga/studied-cancers</ext-link>
+</mixed-citation></ref><ref id="bcp70567-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="bcp70567-cit-0027">
+<string-name name-style="western">
+<surname>Beal</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>Ways to fit a PK model with some data below the quantification limit</article-title>. <source>J Pharmacokinet Pharmacodyn</source>. <year>2001</year>;<volume>28</volume>(<issue>5</issue>):<fpage>481</fpage>‐<lpage>504</lpage>. doi:<pub-id pub-id-type="doi">10.1023/a:1012299115260</pub-id>
+<pub-id pub-id-type="pmid">11768292</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="bcp70567-cit-0028">
+<string-name name-style="western">
+<surname>Gibiansky</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gibiansky</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kakkar</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Approximations of the target‐mediated drug disposition model and identifiability of model parameters</article-title>. <source>J Pharmacokinet Pharmacodyn</source>. <year>2008</year>;<volume>35</volume>(<issue>5</issue>):<fpage>573</fpage>‐<lpage>591</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s10928-008-9102-8</pub-id>
+<pub-id pub-id-type="pmid">19005743</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="bcp70567-cit-0029">
+<string-name name-style="western">
+<surname>Dua</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hawkins</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van der Graaf</surname>
+<given-names>PH</given-names>
+</string-name>. <article-title>A tutorial on target‐mediated drug disposition (TMDD) models</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2015</year>;<volume>4</volume>(<issue>6</issue>):<fpage>324</fpage>‐<lpage>337</lpage>. doi:<pub-id pub-id-type="doi">10.1002/psp4.41</pub-id>
+<pub-id pub-id-type="pmid">26225261</pub-id>
+<pub-id pub-id-type="pmcid">PMC4505827</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0029"><label>29</label><mixed-citation publication-type="miscellaneous" id="bcp70567-cit-0030">
+<collab collab-type="authors">R Core Team</collab>
+. <article-title>A language and environment for statistical computing</article-title>. R Foundation for Statistical Computing, Vienna, Austria. <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.R-project.org/" ext-link-type="uri">https://www.R-project.org/</ext-link>
+</mixed-citation></ref><ref id="bcp70567-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="bcp70567-cit-0031">
+<string-name name-style="western">
+<surname>Dirks</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meibohm</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Population pharmacokinetics of therapeutic monoclonal antibodies</article-title>. <source>Clin Pharmacokinet</source>. <year>2010</year>;<volume>49</volume>(<issue>10</issue>):<fpage>633</fpage>‐<lpage>659</lpage>. doi:<pub-id pub-id-type="doi">10.2165/11535960-000000000-00000</pub-id>
+<pub-id pub-id-type="pmid">20818831</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="bcp70567-cit-0032">
+<string-name name-style="western">
+<surname>Zasedateleva</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schaller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Lange</surname>
+<given-names>ECM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Witte</surname>
+<given-names>WEA</given-names>
+</string-name>. <article-title>Local depletion of large molecule drugs due to target binding in tissue interstitial space</article-title>. <source>CPT Pharmacometrics Syst Pharmacol</source>. <year>2024</year>;<volume>13</volume>(<issue>12</issue>):<fpage>2068</fpage>‐<lpage>2086</lpage>. doi:<pub-id pub-id-type="doi">10.1002/psp4.13262</pub-id>
+<pub-id pub-id-type="pmid">39530200</pub-id>
+<pub-id pub-id-type="pmcid">PMC11646940</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="bcp70567-cit-0033">
+<string-name name-style="western">
+<surname>Bajaj</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suryawanshi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Evaluation of covariate effects on pharmacokinetics of monoclonal antibodies in oncology</article-title>. <source>Br J Clin Pharmacol</source>. <year>2019</year>;<volume>85</volume>(<issue>9</issue>):<fpage>2045</fpage>‐<lpage>2058</lpage>. doi:<pub-id pub-id-type="doi">10.1111/bcp.13996</pub-id>
+<pub-id pub-id-type="pmid">31140642</pub-id>
+<pub-id pub-id-type="pmcid">PMC6710515</pub-id></mixed-citation></ref><ref id="bcp70567-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="bcp70567-cit-0034">
+<string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McIntosh</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Utility of free and total target measurements as target engagement and efficacy biomarkers in biotherapeutic development—opportunities and challenges</article-title>. <source>J Clin Pharmacol</source>. <year>2015</year>;<volume>55</volume>(<issue>Suppl 3</issue>):<fpage>S75</fpage>‐<lpage>S84</lpage>. doi:<pub-id pub-id-type="doi">10.1002/jcph.357</pub-id>
+<pub-id pub-id-type="pmid">25707966</pub-id>
+</mixed-citation></ref><ref id="bcp70567-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="bcp70567-cit-0035">
+<string-name name-style="western">
+<given-names>Z</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>LR</given-names>
+<surname>Dutton</surname>
+</string-name>, Suner MB, Todd G, Gipson GR, Brown C, Kerr EM, Daly C, Plouffe B, Dunne PD, Malinova D, Brazil DP <string-name name-style="western">
+<given-names>MB</given-names>
+<surname>Suner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G</given-names>
+<surname>Todd</surname>
+</string-name>, <string-name name-style="western">
+<given-names>GR</given-names>
+<surname>Gipson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name name-style="western">
+<given-names>EM</given-names>
+<surname>Kerr</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C</given-names>
+<surname>Daly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B</given-names>
+<surname>Plouffe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>PD</given-names>
+<surname>Dunne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D</given-names>
+<surname>Malinova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>DP</given-names>
+<surname>Brazil</surname>
+</string-name>
+<article-title>Identification of a novel GREMLIN1 uptake pathway in epithelial cells that requires BMP binding</article-title>. <source>J Biol Chem</source>
+<year>2025</year>;<volume>301</volume>(<issue>11</issue>):<elocation-id>110780</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.jbc.2025.110780</pub-id>
+<pub-id pub-id-type="pmid">41033552</pub-id>
+<pub-id pub-id-type="pmcid">PMC12597263</pub-id></mixed-citation></ref></ref-list></back></article>
