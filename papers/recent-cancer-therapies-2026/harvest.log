@@ -1,0 +1,68 @@
+cell_therapy: '("CAR T" OR "CAR-T" OR "CAR T-cell" OR "CAR T cell" OR "chimeric antigen recepto' -> hits=5288 fetched=5288 new=5288 total=5288
+cell_therapy: '("CAR NK" OR "CAR-NK" OR "CAR macrophage" OR "CAR-M" OR "CAR-macrophage" OR "CAR' -> hits=707 fetched=707 new=78 total=5366
+cell_therapy: '("TCR-T" OR "TCR-engineered" OR "T-cell receptor therapy" OR "TCR therapy" OR af' -> hits=2305 fetched=2305 new=1312 total=6678
+cell_therapy: '("gamma delta T" OR "γδ T" OR "gammadelta T" OR "Vδ1" OR "Vδ2" OR "Vγ9Vδ2" OR "N' -> hits=1569 fetched=1569 new=981 total=7659
+cell_therapy: '("in vivo CAR" OR "in situ CAR" OR "in vivo CAR-T" OR "in vivo generation of CAR' -> hits=278 fetched=278 new=11 total=7670
+cell_therapy: '("allogeneic CAR" OR "off-the-shelf CAR" OR "universal CAR" OR "armored CAR" OR ' -> hits=493 fetched=493 new=15 total=7685
+cell_therapy: '("chimeric antigen receptor" OR "CAR T") AND ("solid tumor" OR "solid tumour" OR' -> hits=2463 fetched=2463 new=3 total=7688
+cell_therapy: '("CAR T" OR "chimeric antigen receptor") AND (lupus OR autoimmune) AND (cancer O' -> hits=1152 fetched=1152 new=71 total=7759
+bispecific_tce: '("bispecific antibody" OR "bispecific antibodies" OR bispecific OR "T-cell engag' -> hits=3645 fetched=3645 new=2102 total=9861
+bispecific_tce: '(blinatumomab OR teclistamab OR talquetamab OR elranatamab OR linvoseltamab OR g' -> hits=959 fetched=959 new=182 total=10043
+bispecific_tce: '(ivonescimab OR cadonilimab OR amivantamab OR zanidatamab OR zenocutuzumab OR "P' -> hits=1161 fetched=1161 new=449 total=10492
+adc: '("antibody-drug conjugate" OR "antibody drug conjugate" OR "antibody-drug conjug' -> hits=4736 fetched=4736 new=3374 total=13866
+adc: '("trastuzumab deruxtecan" OR "T-DXd" OR "sacituzumab govitecan" OR "datopotamab ' -> hits=3901 fetched=3901 new=2231 total=16097
+checkpoint: '("immune checkpoint inhibitor" OR "immune checkpoint inhibitors" OR "immune chec' -> hits=9898 fetched=8000 new=4885 total=20982
+checkpoint: '("immune checkpoint inhibitor" OR "immune checkpoint blockade" OR "anti-PD-1" OR' -> hits=6254 fetched=6254 new=2084 total=23066
+checkpoint: '(pembrolizumab OR nivolumab OR atezolizumab OR durvalumab OR ipilimumab OR cemip' -> hits=9024 fetched=8000 new=2435 total=25501
+checkpoint: '("LAG-3" OR "TIGIT" OR "TIM-3" OR "VISTA" OR "NKG2A" OR monalizumab OR tiragolum' -> hits=5522 fetched=5522 new=1896 total=27397
+checkpoint: '("neoadjuvant immunotherapy" OR "perioperative immunotherapy" OR "neoadjuvant ch' -> hits=2110 fetched=2110 new=564 total=27961
+checkpoint: '("immunotherapy resistance" OR "resistance to immune checkpoint" OR "primary res' -> hits=2418 fetched=2418 new=313 total=28274
+checkpoint: '("immune-related adverse event" OR "immune-related adverse events" OR irAE OR "c' -> hits=2470 fetched=2470 new=278 total=28552
+cancer_vaccine: '("cancer vaccine" OR "cancer vaccines" OR "tumor vaccine" OR "tumour vaccine" OR' -> hits=3198 fetched=3198 new=1090 total=29642
+oncolytic_virus: '("oncolytic virus" OR "oncolytic viruses" OR oncolytic OR "oncolytic virotherapy' -> hits=1888 fetched=1888 new=734 total=30376
+targeted_ras_mapk: '("KRAS G12C" OR "KRAS G12D" OR "KRAS G12V" OR "KRAS inhibitor" OR "KRAS-mutant" ' -> hits=8387 fetched=8000 new=5155 total=35531
+targeted_ras_mapk: '("BRAF inhibitor" OR "BRAF V600" OR "MEK inhibitor" OR "ERK inhibitor" OR dabraf' -> hits=2174 fetched=2174 new=737 total=36268
+targeted_kinase: '("tyrosine kinase inhibitor" OR "tyrosine kinase inhibitors" OR "TKI" OR osimert' -> hits=6905 fetched=6905 new=2728 total=38996
+targeted_kinase: '("ALK inhibitor" OR "ALK-positive" OR alectinib OR lorlatinib OR brigatinib OR e' -> hits=3761 fetched=3761 new=1090 total=40086
+targeted_kinase: '("PI3K inhibitor" OR "PIK3CA" OR "AKT inhibitor" OR "mTOR inhibitor" OR capivase' -> hits=5815 fetched=5815 new=2204 total=42290
+targeted_kinase: '("CDK4/6 inhibitor" OR "CDK4/6" OR palbociclib OR ribociclib OR abemaciclib OR d' -> hits=3188 fetched=3188 new=1269 total=43559
+targeted_kinase: '("multikinase inhibitor" OR lenvatinib OR sorafenib OR regorafenib OR cabozantin' -> hits=6151 fetched=6151 new=1187 total=44746
+targeted_kinase: '("BTK inhibitor" OR ibrutinib OR acalabrutinib OR zanubrutinib OR pirtobrutinib ' -> hits=6373 fetched=6373 new=2857 total=47603
+targeted_ddr: '("PARP inhibitor" OR "PARP inhibitors" OR olaparib OR niraparib OR rucaparib OR ' -> hits=3247 fetched=3247 new=957 total=48560
+endocrine: '("endocrine therapy" OR "aromatase inhibitor" OR letrozole OR anastrozole OR exe' -> hits=5457 fetched=5457 new=2555 total=51115
+targeted_heme: '("menin inhibitor" OR revumenib OR ziftomenib OR bleximenib OR enzomenib OR "KMT' -> hits=8170 fetched=8000 new=2810 total=53925
+targeted_heme: '("acute myeloid leukemia" OR "acute myeloid leukaemia" OR "acute lymphoblastic l' -> hits=8553 fetched=8000 new=2564 total=56489
+degrader: '(PROTAC OR PROTACs OR "proteolysis-targeting chimera" OR "proteolysis targeting ' -> hits=1876 fetched=1876 new=568 total=57057
+epigenetic: '("EZH2 inhibitor" OR tazemetostat OR valemetostat OR tulmimetostat OR "EZH1/2" O' -> hits=4348 fetched=4348 new=1151 total=58208
+epigenetic: '(ONC201 OR dordaviprone OR ONC206 OR "imipridone" OR "ClpP agonist" OR ("DRD2 an' -> hits=94 fetched=94 new=18 total=58226
+radiopharm_radiotherapy: '("radioligand therapy" OR "radioligand" OR radiopharmaceutical OR radiopharmaceu' -> hits=4891 fetched=4891 new=2750 total=60976
+radiopharm_radiotherapy: '("stereotactic body radiotherapy" OR "stereotactic body radiation" OR SBRT OR SA' -> hits=20506 fetched=8000 new=2220 total=63196
+rna_gene_therapy: '("lipid nanoparticle" OR "lipid nanoparticles" OR LNP OR LNPs OR "mRNA therapy" ' -> hits=12113 fetched=8000 new=2345 total=65541
+rna_gene_therapy: '("gene therapy" OR "gene editing" OR CRISPR OR "Cas9" OR "Cas12" OR "Cas13" OR "' -> hits=12454 fetched=8000 new=2218 total=67759
+cytokine_innate: '("interleukin-2" OR "IL-2" OR "IL-2 variant" OR "engineered IL-2" OR "IL-15" OR ' -> hits=19660 fetched=8000 new=1107 total=68866
+cytokine_innate: '("intravesical" OR "BCG-unresponsive" OR "non-muscle-invasive bladder cancer" OR' -> hits=871 fetched=871 new=446 total=69312
+antibody_other: '(trastuzumab OR pertuzumab OR cetuximab OR panitumumab OR rituximab OR "anti-HER' -> hits=9900 fetched=8000 new=966 total=70278
+chemo_conventional: '(chemotherapy OR "chemo-immunotherapy" OR chemoimmunotherapy OR "neoadjuvant che' -> hits=27904 fetched=8000 new=763 total=71041
+chemo_conventional: '("hematopoietic stem cell transplantation" OR "hematopoietic cell transplantatio' -> hits=3899 fetched=3899 new=1052 total=72093
+nanomedicine_delivery: '(nanoparticle OR nanoparticles OR nanomedicine OR nanocarrier OR nanocarriers OR' -> hits=16109 fetched=8000 new=1618 total=73711
+nanomedicine_delivery: '("photodynamic therapy" OR "photothermal therapy" OR "sonodynamic therapy" OR "c' -> hits=9147 fetched=8000 new=2730 total=76441
+tme_metabolic_microbiome: '("tumor-associated macrophage" OR "tumour-associated macrophage" OR "tumor-assoc' -> hits=16724 fetched=8000 new=643 total=77084
+tme_metabolic_microbiome: '("gut microbiome" OR "gut microbiota" OR microbiome OR microbiota OR "fecal micr' -> hits=11771 fetched=8000 new=3558 total=80642
+tme_metabolic_microbiome: '("drug repurposing" OR "repurposed drug" OR "repurposed drugs" OR metformin OR s' -> hits=16653 fetched=8000 new=2021 total=82663
+pediatric_cns: '(pediatric OR paediatric OR childhood OR children OR adolescent OR "young adult"' -> hits=19592 fetched=8000 new=1954 total=84617
+pediatric_cns: '(glioblastoma OR "glioma" OR "diffuse midline glioma" OR "diffuse intrinsic pont' -> hits=10724 fetched=8000 new=959 total=85576
+pediatric_cns: '(neuroblastoma OR osteosarcoma OR "Ewing sarcoma" OR rhabdomyosarcoma OR "soft t' -> hits=8130 fetched=8000 new=1534 total=87110
+sweep_clinical_trials: '("phase 3" OR "phase III" OR "phase 2/3" OR "randomized phase" OR "randomised ph' -> hits=9678 fetched=8000 new=1013 total=88123
+sweep_clinical_trials: '("phase 1" OR "phase I" OR "phase 1/2" OR "phase I/II" OR "first-in-human" OR "f' -> hits=10019 fetched=8000 new=656 total=88779
+sweep_clinical_trials: '("phase 2" OR "phase II" OR "single-arm" OR "single arm" OR "open-label" OR "mul' -> hits=12365 fetched=8000 new=453 total=89232
+sweep_clinical_trials: '(PUB_TYPE:"Clinical Trial, Phase III" OR PUB_TYPE:"Clinical Trial, Phase II" OR ' -> hits=4256 fetched=4256 new=1614 total=90846
+sweep_clinical_trials: '("real-world" OR "real world" OR "registry" OR "population-based cohort" OR "nat' -> hits=14132 fetched=8000 new=598 total=91444
+sweep_clinical_trials: '("systematic review" OR "meta-analysis" OR "network meta-analysis" OR "pooled an' -> hits=10287 fetched=8000 new=1253 total=92697
+sweep_clinical_trials: '("NCT0" OR "NCT1" OR "NCT2" OR "NCT3" OR "NCT4" OR "NCT5" OR "NCT6" OR ClinicalT' -> hits=6730 fetched=6730 new=1606 total=94303
+sweep_preclinical: '("patient-derived xenograft" OR "patient-derived xenografts" OR PDX OR xenograft' -> hits=19324 fetched=8000 new=188 total=94491
+sweep_preclinical: '("mechanism of action" OR "novel inhibitor" OR "novel compound" OR "small molecu' -> hits=15995 fetched=8000 new=584 total=95075
+sweep_preclinical: '("combination therapy" OR "combination treatment" OR "synergistic" OR synergy OR' -> hits=26021 fetched=8000 new=91 total=95166
+sweep_preclinical: '("CRISPR screen" OR "genome-wide CRISPR" OR "in vivo CRISPR" OR "functional geno' -> hits=14594 fetched=8000 new=934 total=96100
+sweep_high_impact: '(JOURNAL:"N Engl J Med" OR JOURNAL:"Lancet" OR JOURNAL:"Lancet Oncol" OR JOURNAL' -> hits=3298 fetched=3300 new=951 total=97051
+sweep_high_impact: '(JOURNAL:"Nature" OR JOURNAL:"Science" OR JOURNAL:"Cell" OR JOURNAL:"Cancer Cell' -> hits=6174 fetched=6174 new=1940 total=98991
+total unique records: 98991

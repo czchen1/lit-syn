@@ -1,0 +1,30 @@
+kept 18424 of 98991
+dropped: {'excluded_pubtype': 15033, 'excluded_title': 27423, 'no_abstract': 5504, 'no_cancer': 20954, 'no_therapy': 7610, 'no_evidence': 1481, 'observational_no_title_therapy': 1854, 'other_no_title_therapy': 421, 'no_title': 28, 'preclinical_no_treatment': 73, 'other_no_specific_agent': 87, 'out_of_window': 4}
+  checkpoint: 2200
+  chemo_conventional: 2075
+  targeted_kinase: 1731
+  tme_metabolic: 1341
+  radiotherapy: 1247
+  targeted_heme: 955
+  physical_ablative: 953
+  targeted_ras_mapk: 793
+  cytokine_innate: 762
+  nanomedicine_delivery: 760
+  rna_gene_therapy: 737
+  cell_therapy: 734
+  endocrine: 491
+  targeted_ddr: 478
+  radiopharm: 457
+  epigenetic: 444
+  adc: 428
+  transplant: 320
+  bispecific_tce: 284
+  repurposed: 252
+  antibody_other: 224
+  cancer_vaccine: 190
+  oncolytic_virus: 164
+  other_therapy: 145
+  microbiome: 133
+  degrader: 126
+evidence: Counter({'preclinical': 10017, 'clinical_other': 5623, 'clinical_phase2': 930, 'clinical_phase3': 739, 'evidence_synthesis': 736, 'clinical_phase1': 379})
+tier: Counter({3: 14186, 2: 3672, 1: 566})
