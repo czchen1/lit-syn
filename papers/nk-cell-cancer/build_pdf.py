@@ -42,10 +42,9 @@ def main():
     ev = Counter(r["evidence"] for r in rows)
     manuf = sum(1 for r in rows if r["manufacturing"] == "yes")
     years = [int(r["year"]) for r in rows if r["year"].isdigit()]
-    title = ("<h1 class='title'>NK cells for cancer: phenotypes, engineering and "
-             "manufacturing that improve efficacy</h1>"
-             "<p class='subtitle'>A literature synthesis across research and "
-             "process-development evidence</p>"
+    title = ("<h1 class='title'>NK cells for cancer: what makes a good product</h1>"
+             "<p class='subtitle'>Advances, failure modes and design decisions, across "
+             "research and process-development evidence</p>"
              f"<p class='subtitle'>{len(rows)} curated records, {min(years)}&ndash;{max(years)} "
              f"&middot; {ev['clinical_trial']} clinical trials &middot; "
              f"{ev['process_method']} process/manufacturing methods &middot; "
