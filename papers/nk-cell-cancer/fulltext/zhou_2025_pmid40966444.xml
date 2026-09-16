@@ -1,0 +1,1598 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="advs70990" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="pmc-domain-id">2933</journal-id><journal-id journal-id-type="pmc-domain">advsci</journal-id><journal-id journal-id-type="nlm-id">101664569</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12622558</article-id><article-id pub-id-type="pmcid-ver">PMC12622558.1</article-id><article-id pub-id-type="pmcaid">12622558</article-id><article-id pub-id-type="pmcaiid">12622558</article-id><article-id pub-id-type="pmid">40966444</article-id><article-id pub-id-type="doi">10.1002/advs.202505731</article-id><article-id pub-id-type="publisher-id">ADVS70990</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Restoring NK Cell Cytotoxicity Post‐Cryopreservation via Synthetic Cells</article-title></title-group><contrib-group><contrib id="advs70990-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="X">Xiangda</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0004-2220-2516</contrib-id><xref rid="advs70990-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs70990-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs70990-cr-0002" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="S">Sijia</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0000-0902-2351</contrib-id><xref rid="advs70990-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs70990-cr-0003" contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="W">Wenjuan</given-names></name><xref rid="advs70990-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs70990-cr-0004" contrib-type="author"><name name-style="western"><surname>Gonder</surname><given-names initials="S">Susanne</given-names></name><xref rid="advs70990-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs70990-cr-0005" contrib-type="author"><name name-style="western"><surname>Sadjadi</surname><given-names initials="Z">Zeinab</given-names></name><xref rid="advs70990-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs70990-cr-0006" contrib-type="author"><name name-style="western"><surname>Piernitzki</surname><given-names initials="N">Nils</given-names></name><xref rid="advs70990-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="advs70990-cr-0007" contrib-type="author"><name name-style="western"><surname>Moter</surname><given-names initials="A">Alina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0002-1304-454X</contrib-id><xref rid="advs70990-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="advs70990-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="advs70990-cr-0008" contrib-type="author"><name name-style="western"><surname>Sharma</surname><given-names initials="S">Shulagna</given-names></name><xref rid="advs70990-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs70990-cr-0009" contrib-type="author"><name name-style="western"><surname>Largeot</surname><given-names initials="A">Anne</given-names></name><xref rid="advs70990-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs70990-cr-0010" contrib-type="author"><name name-style="western"><surname>Küchler</surname><given-names initials="N">Nadja</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6963-7577</contrib-id><xref rid="advs70990-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs70990-cr-0011" contrib-type="author"><name name-style="western"><surname>Kaschek</surname><given-names initials="L">Lea</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0001-7974-2802</contrib-id><xref rid="advs70990-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs70990-cr-0012" contrib-type="author"><name name-style="western"><surname>Schäfer</surname><given-names initials="G">Gertrud</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5159-0539</contrib-id><xref rid="advs70990-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs70990-cr-0013" contrib-type="author"><name name-style="western"><surname>Schwarz</surname><given-names initials="EC">Eva C.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6503-4864</contrib-id><xref rid="advs70990-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs70990-cr-0014" contrib-type="author"><name name-style="western"><surname>Eichler</surname><given-names initials="H">Hermann</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1372-0619</contrib-id><xref rid="advs70990-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="advs70990-cr-0015" contrib-type="author"><name name-style="western"><surname>Ullrich</surname><given-names initials="E">Evelyn</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8530-1192</contrib-id><xref rid="advs70990-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="advs70990-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="advs70990-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="advs70990-cr-0016" contrib-type="author"><name name-style="western"><surname>Rieger</surname><given-names initials="H">Heiko</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0205-3678</contrib-id><xref rid="advs70990-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs70990-cr-0017" contrib-type="author"><name name-style="western"><surname>Staufer</surname><given-names initials="O">Oskar</given-names></name><xref rid="advs70990-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="advs70990-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref><xref rid="advs70990-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="advs70990-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="advs70990-cr-0018" contrib-type="author"><name name-style="western"><surname>Paggetti</surname><given-names initials="J">Jérôme</given-names></name><xref rid="advs70990-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs70990-cr-0019" contrib-type="author"><name name-style="western"><surname>Moussay</surname><given-names initials="E">Etienne</given-names></name><xref rid="advs70990-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs70990-cr-0020" contrib-type="author"><name name-style="western"><surname>Hoth</surname><given-names initials="M">Markus</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7080-4643</contrib-id><xref rid="advs70990-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs70990-cr-0021" contrib-type="author" corresp="yes"><name name-style="western"><surname>Qu</surname><given-names initials="B">Bin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9382-3203</contrib-id><xref rid="advs70990-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs70990-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref><address><email>bin.qu@uni-osnabrueck.de</email></address></contrib></contrib-group><aff id="advs70990-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biophysics</named-content>
+<named-content content-type="organisation-division">Center for Integrative Physiology and Molecular Medicine (CIPMM)</named-content>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>Saarland University</institution>
+<postal-code>66421</postal-code>
+<city>Homburg</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs70990-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Reproductive Medicine Center</named-content>
+<institution>Second Affiliated Hospital of Naval Medical University</institution>
+<city>Shanghai</city>
+<postal-code>200003</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs70990-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Tumor Stroma Interactions</named-content>
+<named-content content-type="organisation-division">Department of Cancer Research</named-content>
+<institution>Luxembourg Institute of Health</institution>
+<city>Luxembourg</city>
+<postal-code>L‐1445</postal-code>
+<country country="LU">Luxembourg</country>
+</aff><aff id="advs70990-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Theoretical Physics and Center for Biophysics</named-content>
+<institution>Saarland University</institution>
+<postal-code>66123</postal-code>
+<city>Saarbrücken</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs70990-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>INM‐Leibniz Institute for New Materials</institution>
+<named-content content-type="street">Campus D2 2</named-content>
+<postal-code>66123</postal-code>
+<city>Saarbrücken</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs70990-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Goethe University Frankfurt</named-content>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>Experimental Immunology &amp; Cell Therapy</institution>
+<postal-code>60323</postal-code>
+<city>Frankfurt (Main)</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs70990-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Goethe University Frankfurt</named-content>
+<institution>Frankfurt Cancer Institute</institution>
+<postal-code>60596</postal-code>
+<city>Frankfurt (Main)</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs70990-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Institute for Clinical Hemostaseology and Transfusion Medicine</named-content>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>Saarland University</institution>
+<postal-code>66421</postal-code>
+<city>Homburg</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs70990-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">German Cancer Consortium (DKTK)</named-content>
+<institution>partner site Frankfurt/Mainz</institution>
+<postal-code>60590</postal-code>
+<city>Frankfurt (Main)</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs70990-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Helmholtz Institute for Pharmaceutical Research Saarland</named-content>
+<institution>Helmholtz Center for Infection</institution>
+<named-content content-type="street">Research Campus E8 1</named-content>
+<postal-code>66123</postal-code>
+<city>Saarbrücken</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs70990-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Saarland University</named-content>
+<institution>Center for Biophysics</institution>
+<named-content content-type="street">Campus Saarland</named-content>
+<postal-code>66123</postal-code>
+<city>Saarbrücken</city>
+<country country="DE">Germany</country>
+</aff><aff id="advs70990-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<institution>Max Planck Bristol Centre for Minimal Biology Cantock's Close</institution>
+<city>Bristol</city>
+<postal-code>BS8 1TS</postal-code>
+<country country="GB">UK</country>
+</aff><aff id="advs70990-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biomedical Sciences</named-content>
+<named-content content-type="organisation-division">Institute for Health Research and Education</named-content>
+<institution>Osnabrück University</institution>
+<postal-code>49076</postal-code>
+<city>Osnabrück</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E‐mail: <email>bin.qu@uni-osnabrueck.de</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2025</year></pub-date><volume>12</volume><issue seq="130">42</issue><issue-id pub-id-type="pmc-issue-id">500760</issue-id><issue-id pub-id-type="doi">10.1002/advs.v12.42</issue-id><elocation-id>e05731</elocation-id><history>
+<date date-type="rev-recd"><day>08</day><month>7</month><year>2025</year></date>
+<date date-type="received"><day>30</day><month>3</month><year>2025</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>18</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>18</day><month>11</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-11-18 10:25:11.890"><day>18</day><month>11</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). Advanced Science published by Wiley‐VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ADVS-12-e05731.pdf"><?pdf-name ADVS-12-e05731.pdf?><?pdf-size 10327621?><?pdf-md5 0337f8fa27fef9410dd48cf871b8c358?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:61a2/12622558/0337f8fa27fe/ADVS-12-e05731.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ADVS-12-e05731.pdf"/><abstract><title>Abstract</title><p>Natural killer (NK) cells are critical components of the first‐line immune defense, responsible for eliminating tumorigenic cells. NK cell‐based adoptive immunotherapy has gained increasing attention; however, cryopreservation, a standard technique for NK cell storage, significantly impairs NK cell cytotoxicity, particularly in physiological 3D environments. Here, we demonstrate that short‐term co‐culture with effector T cells markedly enhances NK cell motility and killing functionality. Notably, a brief 1‐day co‐culture is sufficient to restore cryopreservation‐impaired NK cell functionality in 3D environments. This enhancement requires direct contact between T cells and NK cells, which facilitates localized high concentrations of IL‐2 at the cell contact sites. To develop a controled, donor‐independent solution, we demonstrate that synthetic T cells with surface‐bound IL‐2 exhibit superior efficiency in revitalizing cryopreserved NK cells. These findings uncover a previously unrecognized role for physical contact‐mediated local IL‐2 signaling and provide an efficient, cost‐effective, and tunable strategy to rescue NK cell functionality post‐cryopreservation, paving the way for more scalable, potent, and clinically viable NK cell‐based immunotherapies.</p></abstract><abstract id="advs70990-abs-0001" abstract-type="graphical"><p>In this study, it is shown that 1‐day co‐culture with activated T cells or IL‐2‐presenting synthetic cells significantly enhances NK cell motility and cytotoxicity in 2D and 3D. Notably, synthetic cells restore the impaired cytotoxic function of cryopreserved NK and CAR‐NK cells in 3D. This approach offers a potent and clinically relevant strategy to improve off‐the‐shelf NK cell‐based therapies. (The graphical abstract is created using BioRender).
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ADVS-12-e05731-g008.jpg"><?image-name ADVS-12-e05731-g008.jpg?><?image-size 15978?><?image-md5 8c96ff0c36e66badc8c1ba8ce7e6564e?><?image-image-server-status NEVER_LOAD?><?image-original-height 142?><?image-original-width 180?><?image-scaled-height 142?><?image-scaled-width 180?><?image-cloudpmc-urn urn:cdn:blobs/61a2/12622558/8c96ff0c36e6/ADVS-12-e05731-g008.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs70990-kwd-0001">cryopreservation</kwd><kwd id="advs70990-kwd-0002">cytotoxicity</kwd><kwd id="advs70990-kwd-0003">NK cells</kwd><kwd id="advs70990-kwd-0004">synthetic cells</kwd><kwd id="advs70990-kwd-0005">T cells</kwd><kwd id="advs70990-kwd-0006">IL‐2</kwd><kwd id="advs70990-kwd-0007">3D</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Deutsche Forschungsgemeinschaft</institution><institution-id institution-id-type="doi">10.13039/501100001659</institution-id></institution-wrap>
+</funding-source><award-id>SFB1027(A2,A11,A3)</award-id><award-id>EmmyNoetherprogram(Project‐ID525255627)</award-id><award-id>SFB/IRTG1292(Project‐ID318346496)</award-id><award-id>INST256/419‐1FUGG</award-id><award-id>INST256/423‐1FUGG</award-id><award-id>INST256/429‐1FUGB</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Dr. Rolf M. Schwiete Stiftung</institution><institution-id institution-id-type="doi">10.13039/501100020027</institution-id></institution-wrap>
+</funding-source><award-id>ProjectNr.2023‐028</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Stiftung Deutsche Krebshilfe</institution></institution-wrap>
+</funding-source><award-id>“CARFACTORY”#70115200</award-id></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>FNRS‐Télévie</institution></institution-wrap>
+</funding-source><award-id>7.4502.19</award-id><award-id>7.6604.21</award-id></award-group><award-group id="funding-0005"><funding-source>
+<institution-wrap><institution>Luxembourg National Research Fund (FNR)</institution></institution-wrap>
+</funding-source><award-id>C20/BM/14582635</award-id><award-id>C20/BM/14592342</award-id><award-id>C23/BM/17987391</award-id><award-id>C24/BM/18920969</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="16"/><word-count count="11487"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 13, 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.2 mode:remove_FC converted:14.11.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs70990-cit-0001">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, et al. “<article-title>Restoring NK Cell Cytotoxicity Post‐Cryopreservation via Synthetic Cells</article-title>.” <source>Adv. Sci.</source>
+<volume>12</volume>, no. <issue>42</issue> (<year>2025</year>): <elocation-id>e05731</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202505731</pub-id>
+<pub-id pub-id-type="pmcid">PMC12622558</pub-id><pub-id pub-id-type="pmid">40966444</pub-id></mixed-citation>
+</p></notes></front><body><sec id="advs70990-sec-0010"><label>1</label><title>Introduction</title><p>Natural killer (NK) cells are a vital component of the innate immune system, playing a crucial role in eliminating pathogen‐infected and tumorigenic cells.<sup>[</sup>
+<xref rid="advs70990-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> To effectively identify and eliminate their targets, NK cells require proper mobility, enabling them to patrol tissues and locate potential threats.<sup>[</sup>
+<xref rid="advs70990-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="advs70990-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> Once an NK cell recognizes a target cell, it establishes a close interaction known as the immunological synapse (IS).<sup>[</sup>
+<xref rid="advs70990-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> At this interface, cytotoxic protein‐containing lytic granules (LGs) accumulate and are subsequently released into the IS cleft.<sup>[</sup>
+<xref rid="advs70990-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs70990-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> Among cytotoxic proteins, the pore‐forming protein perforin and serine proteases known as granzymes are key effector molecules that work synergistically to induce target cell destruction.<sup>[</sup>
+<xref rid="advs70990-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs70990-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> NK cells recognize and eliminate target cells through two primary mechanisms: natural cytotoxicity and antibody‐dependent cell‐mediated cytotoxicity (ADCC).<sup>[</sup>
+<xref rid="advs70990-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> In natural cytotoxicity, NK cells target cells that exhibit low expression of inhibitory receptor ligands (e.g., MHC I molecules) or high expression of activating receptor ligands.<sup>[</sup>
+<xref rid="advs70990-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> In ADCC, NK cells are recruited to antibody‐coated target cells, where the antibody binds to its specific antigen on the target cell, while its Fc region interacts with Fc receptors on NK cells.<sup>[</sup>
+<xref rid="advs70990-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="advs70990-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup>
+</p><p>NK cells have emerged as promising candidates for adoptive immunotherapy due to their potent anti‐tumor activity and relatively lower cytotoxic effects on the central neural system.<sup>[</sup>
+<xref rid="advs70990-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="advs70990-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="advs70990-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> However, to meet the demands of clinical applications, particularly for the development of readily available, off‐the‐shelf NK cell‐based therapies, establishing a reliable and efficient method for preserving large quantities of NK cells is crucial.<sup>[</sup>
+<xref rid="advs70990-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> Cryopreservation remains the most widely used method for long‐term storage of cells, relying on cryoprotectants to mitigate intracellular damage caused by ice crystal formation.<sup>[</sup>
+<xref rid="advs70990-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> Despite advancements in cryopreservation techniques that maintain high cell viability,<sup>[</sup>
+<xref rid="advs70990-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> studies indicate that the process significantly impairs NK cell migration and cytotoxic function in 3D environments.<sup>[</sup>
+<xref rid="advs70990-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> This functional decline presents a major challenge in scaling up NK cell production for immunotherapy, as their full efficacy is essential for therapeutic success.</p><p>In this study, we demonstrate that co‐culturing NK cells with T cells provides a rapid and highly efficient approach to enhancing NK cell motility and killing function in both 2D and 3D environments. Notably, this strategy also restores the impaired killing functionality of cryopreserved NK cells in 3D settings. We further identified that both direct NK‐T cell physical contact and IL‐2 signaling are necessary for this enhancement. To optimize this effect in a more controllable manner and minimize potential adverse side effects, we also used synthetic T cells engineered with surface‐bound IL‐2, which exhibited superior efficiency in enhancing NK cell cytotoxic functionality. Our findings offer a promising and physiological relevant strategy for rapidly boosting NK cell potency, providing a valuable solution to overcome the functional limitations of NK cells associated with cryopreservation.</p></sec><sec id="advs70990-sec-0020"><label>2</label><title>Results</title><sec id="advs70990-sec-0030"><label>2.1</label><title>NK Cell Killing Kinetics is Substantially Accelerated by Co‐Culturing with Activated T Cells</title><p>To enhance NK killing capacity, the cytokine IL‐2 is widely used.<sup>[</sup>
+<xref rid="advs70990-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="advs70990-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> However, since this cytokine requires a few days to significantly boost NK functionality, this approach may be too slow for off‐the‐shelf clinical applications. Seeking a faster alternative, we turned our attention to T cells, as they are the primary source of IL‐2, particularly CD4<sup>+</sup> T cells.<sup>[</sup>
+<xref rid="advs70990-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="advs70990-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> To investigate whether T cells can enhance NK cell killing function, we co‐cultured autologous primary human CD4<sup>+</sup> T cells with NK cells and stimulated the T cells for three days using anti‐CD3/anti‐CD28 antibody‐coated beads (hereafter referred to as beads) (<bold>Figure</bold> <xref rid="advs70990-fig-0001" ref-type="fig">
+<bold>1</bold>a</xref>). To assess NK cell killing efficiency, we used K562 cells as target cells, which lack MHC class I molecules and can be directly recognized by NK cells, a process known as natural cytotoxicity. Using a time‐resolved real‐time killing assay,<sup>[</sup>
+<xref rid="advs70990-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> we found that NK cells co‐cultured with CD4<sup>+</sup> T cells exhibited substantially enhanced killing activity compared to NK cells alone (Figure <xref rid="advs70990-fig-0001" ref-type="fig">1b</xref>, left panel). Concomitantly, antibody‐dependent cell‐mediated cytotoxicity (ADCC) was markedly increased by co‐culture with activated CD4<sup>+</sup> T cells, as demonstrated using Raji as the target cells in the presence of rrituximab, an anti‐CD20 antibody clinically used to treat non‐Hodgkin B‐cell lymphoma (Figure <xref rid="advs70990-fig-0001" ref-type="fig">1b</xref>, right panel). Notably, co‐culture with activated CD8<sup>+</sup> T cells also enhanced NK killing efficiency (Figure <xref rid="advs70990-fig-0001" ref-type="fig">1c</xref>). This T cell‐boosted NK killing was further confirmed using live‐cell imaging for both natural cytotoxicity (Figure <xref rid="advs70990-fig-0001" ref-type="fig">1d</xref>; Movie <xref rid="advs70990-supinfo-0001" ref-type="">S1</xref>, Supporting Information) and ADCC (Figure <xref rid="advs70990-fig-0001" ref-type="fig">1e</xref>; Movie <xref rid="advs70990-supinfo-0001" ref-type="">S2</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs70990-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>T cell co‐culture enhances NK cell cytotoxicity in 2D and 3D environments. a) Schematic of the NK‐T cell co‐culture workflow. b,c) Killing kinetics of NK cells in 2D settings measured using a plate reader‐based 2D real‐time killing assay. Primary human NK cells were cultured alone or co‐cultured with bead‐stimulated CD4⁺ (b) or CD8⁺ (c) T cells at an NK:T ratio of 1:2 for 3 days. Cytotoxicity was assessed against K562 (natural cytotoxicity) or Raji (ADCC) cells with an effector‐to‐target ratio (E:T) of 2.5:1. Fluorescence was measured every 10 min for 4 h at 37 °C. Data are presented as mean ± SEM (biological replicates: n = 20 for b, n = 4 for c). d,e) NK cell killing efficiency in 2D settings assessed by live‐cell imaging. Target cells (K562 in d, Raji in e) were loaded with calcein and seeded with NK cells (E:T = 2.5:1). Killing events were visualized every 10 min for 4 h at 37 °C using high‐content imaging (ImageXpress, 20× objective). Scale bars: 40 µm. Time‐lapse images from one representative donor are shown. Quantifications are presented as mean ± SEM (biological replicates: n = 4). f) Killing dynamics of isolated NK cells from NK‐T co‐culture. NK cells were isolated with CD56 magnetic beads from NK‐T co‐culture (Iso NK) or NK cultured alone (NK). Cytotoxicity against K562‐pCasper cells (E:T = 2.5:1) was assessed via live‐cell imaging every 10 min for 4 h at 37 °C using high‐content imaging (ImageXpress, 20× objective). Images from one representative donor are shown. Quantifications are presented as mean ± SEM (biological replicates: n = 4). Scale bars: 40 µm. g) NK cell‐mediated killing mode. Apoptosis and necrosis events were quantified from f as described in the Methods. Quantification from a representative donor is shown. h) Activation of T cells in PBMCs enhances NK cell‐mediated cytotoxicity. PBMCs were stimulated with beads for 3 days. K562 cells were used as target cells (PBMCs:K562 = 20:1, corresponding to an effective NK:K562 ratio of ≈1:1 as NK cells make up ≈5% of PBMCs on average<sup>[</sup>
+<xref rid="advs70990-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>
+<sup>]</sup>). 2D killing kinetics was determined by a plate reader‐based real‐time killing assay every 10 min for 4 h at 37 °C. Results are shown as mean ± SEM (biological replicates: n = 4). Statistical analysis was conducted via a two‐way ANOVA with multiple comparisons for b–f, h.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ADVS-12-e05731-g001.jpg"><?image-name ADVS-12-e05731-g001.jpg?><?image-size 79473?><?image-md5 cb5f8565d58d692e643e46ee9abdfb4f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 604?><?image-original-width 820?><?image-scaled-height 402?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/61a2/12622558/cb5f8565d58d/ADVS-12-e05731-g001.jpg?><?thumb-name ADVS-12-e05731-g001.gif?><?thumb-size 6896?><?thumb-md5 a8f6d1c2897bd02aa7493b87baaf3454?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 108?><?thumb-cloudpmc-urn urn:cdn:blobs/61a2/12622558/a8f6d1c2897b/ADVS-12-e05731-g001.gif?></graphic></fig><p>Importantly, this T cell‐mediated enhancement in NK cell killing efficiency persisted for at least 7 days (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S1a</xref>, Supporting Information). Interestingly, the co‐culture period could be shortened to 24 h without compromising the enhancement in NK cell killing (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S1b</xref>, Supporting Information, compare green to red curve). Further analysis revealed that neither T cells alone, NK cells stimulated by CD3/CD28 beads (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S2a</xref>, Supporting Information), nor NK cells co‐cultured with unstimulated T cells (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S2b</xref>, Supporting Information) recapitulated the strong enhancement in NK cell killing observed with activated T cells. Additionally, when 3‐day‐stimulated T cells were simply added to NK and target cells at the start of the killing assay, only a slight increase in NK cell killing efficiency was observed (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S2c</xref>, Supporting Information), likely due to the previously published bystander effect.<sup>[</sup>
+<xref rid="advs70990-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup>
+</p><p>To further confirm that co‐culturing with T cells enhances NK cell killing capacity, we isolated NK cells from the co‐culture and examined their cytotoxic function. To differentiate between apoptosis and necrosis, we used the K562 cell line stably expressing the apoptosis reporter pCasper, a GFP‐RFP FRET pair linked by a caspase recognition site (DEVD).<sup>[</sup>
+<xref rid="advs70990-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup> When undergoing apoptosis, K562‐pCasper cells lose the FRET signal and appear green, whereas necrotic cells, with compromised plasma membrane integrity, lose fluorescence entirely. Live‐time imaging revealed that co‐culture with T cells significantly accelerated NK cell killing kinetics (Figure <xref rid="advs70990-fig-0001" ref-type="fig">1f</xref>; Movie <xref rid="advs70990-supinfo-0001" ref-type="">S3</xref>, Supporting Information) without altering the mode of target cell death (apoptosis vsnecrosis, Figure <xref rid="advs70990-fig-0001" ref-type="fig">1g</xref>). Moreover, stimulating T cells within PBMCs using CD3/CD28 beads for three days also markedly enhanced NK cell‐mediated killing kinetics in PBMCs (Figure <xref rid="advs70990-fig-0001" ref-type="fig">1h</xref>). Taken together, these findings demonstrate that co‐culture with activated T cells substantially boosts NK cell killing efficiency, improving their ability to eliminate tumor cells.</p></sec><sec id="advs70990-sec-0040"><label>2.2</label><title>Co‐Culture with Activated T Cells Substantially Enhances NK Cell Motility</title><p>To understand the specific changes in NK cells by T cell co‐culture, we first examined NK cell proliferation, viability, and differentiation. Since both CD4<sup>+</sup> and CD8<sup>+</sup> T exhibited very similar effects in enhancing NK cell killing kinetics, we focused on CD4<sup>+</sup> T for further investigation. Our analysis revealed that NK cell proliferation, viability, and subpopulations remained unaffected by T cell co‐culture (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S3</xref>a—c, Supporting Information). Unexpectedly, the expression of key cytotoxic proteins, such as perforin and granzyme B, was even moderately reduced in NK cells co‐cultured with T cells (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S3d,e</xref>, Supporting Information). However, this reduction appears to remain within a functional range, as our data show that the boosted NK cells maintained robust killing capacity.</p><p>To further investigate alterations in surface receptors and key molecules influenced by T cell co‐culture, we utilized cytometry by time of flight (CyTOF) combined with flow cytometry, enabling the simultaneous assessment of 35 surface and intracellular markers at the protein level. These markers covered: NK cell activating receptors (NKp46, NKp44, NKp30, and NKG2D), inhibitory receptors (NKG2A, KIR2DL2, KIR3DL1, and CD85j/ILT2), cytotoxicity markers (perforin, granzyme B, IFNγ, TNFα), exhaustion markers (T‐bet and TIGIT), adhesion/homing and migration markers (CD54/ICAM‐1, CD11a/LFA‐1, CD69, CD197/CCR7, CD185/CXCR5, CD186/CXCR6, and CX3CR1), cytokine receptors (CD25/IL‐2Rα, CD122/IL‐2Rβ, CD132/IL‐2Rγ, CD126/IL‐6R, and CD127/IL‐7Rα), and general type/subset markers (CD2, CD3, CD4, CD8a, CD16, CD56, CD57, CD117/c‐Kit, and CD161).</p><p>We analyzed primary NK and T cells from six donors, totaling 5.7 × 10<sup>6</sup> cells, with an average of 480 000 cells per sample (<bold>Figure</bold> <xref rid="advs70990-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>). Using FlowSOM clustering and delta area consensus clustering, 12 clusters were identified and visualized via t‐SNE scatter plot (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S4a</xref>, Supporting Information). Type/subset marker expression revealed that clusters 1–7 corresponded to CD4<sup>+</sup> T cells, while clusters 8–12 were NK cells (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S4b</xref>, Supporting Information). Notably, both NK cells cultured alone and T cell co‐cultured NK cells were distinctively separated across samples (Figure <xref rid="advs70990-fig-0002" ref-type="fig">2b</xref>). While NK cells cultured alone expressed their classical markers, NK‐T cell co‐culture displayed markers from both cell types (Figure <xref rid="advs70990-fig-0002" ref-type="fig">2c</xref>). To refine the analysis, NK cell‐containing clusters were filtered, and a second t‐SNE dimensionality reduction confirmed distinct clustering based on culture conditions (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S4c,d</xref>, Supporting Information). Cluster 8, which dominated the dataset, was significantly enriched in co‐culture samples (Figure <xref rid="advs70990-fig-0002" ref-type="fig">2d,e</xref>). The analysis revealed a significant upregulation of several NK cell surface molecules with T cell co‐culture, including the activation marker CD69, the IL‐2 receptor α (CD25) and γ (CD132) chains, chemokine receptor CD185/CXCR5, and adhesion molecule CD54/ICAM‐1 (Figure <xref rid="advs70990-fig-0002" ref-type="fig">2c,f</xref>; Figure <xref rid="advs70990-supinfo-0001" ref-type="">S4e,f</xref>, Supporting Information). Notably, a reduction in perforin and granzyme B levels was also observed (Figure <xref rid="advs70990-fig-0002" ref-type="fig">2c,f</xref>; Figure <xref rid="advs70990-supinfo-0001" ref-type="">S4e,f</xref>, Supporting Information).</p><fig position="float" fig-type="Figure" id="advs70990-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>T cell co‐culture induces phenotypic and functional changes in NK cells. Primary NK and CD4<sup>+</sup> T cells were isolated from six donors. NK cells were either cultured alone (NK) or co‐cultured with autologous bead‐stimulated CD4<sup>+</sup> T cells (NK+CD4) for 3 days. CyTOF analysis was performed to assess the expression levels of the indicated proteins. a) Number of cells acquired by mass cytometry in each sample. b) t‐SNE showing the distribution of each sample. c) Heatmap showing the expression of all markers in all samples. d) Frequency of the five clusters (8–12) of NK cells in the samples. e) Frequency of clusters and statistical enrichment in the samples according to the conditions (NK vs NK+CD4). f) t‐SNE plots of selected markers showing the expression in NK markers in NK cells alone and following culture with CD4<sup>+</sup> T cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ADVS-12-e05731-g003.jpg"><?image-name ADVS-12-e05731-g003.jpg?><?image-size 290667?><?image-md5 29a86abc74a862fc5c0900fcf9c91166?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 999?><?image-original-width 718?><?image-scaled-height 999?><?image-scaled-width 718?><?image-cloudpmc-urn urn:cdn:blobs/61a2/12622558/29a86abc74a8/ADVS-12-e05731-g003.jpg?><?thumb-name ADVS-12-e05731-g003.gif?><?thumb-size 10902?><?thumb-md5 cfd9e5cc2d62cd6b784b14077e21286d?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 139?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/61a2/12622558/cfd9e5cc2d62/ADVS-12-e05731-g003.gif?></graphic></fig><p>Intriguingly, we observed an unexpected expression of the T cell marker CD3 and CD4 in T cell co‐cultured NK cells, both in the heatmap (Figure <xref rid="advs70990-fig-0002" ref-type="fig">2c</xref>) and the dominating cluster 8 (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S4d,e</xref>, Supporting Information). To investigate whether cluster 8 represented a heterogeneous population including both NK and T cells, we first examined the expression intensity of CD4 across three clusters: cluster 1 (CD4⁺ T cells), cluster 8 (NK cells after co‐culture), and cluster 9 (NK cells without co‐culture). We found that CD4 expression in cluster 8 was markedly lower than in cluster 1 and was intermediate between clusters 1 and 9 (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S5a</xref>, Supporting Information), suggesting that cluster 8 is distinct from canonical CD4⁺ T cells. To further test whether cluster 8 represents a mixed population or a distinct NK cell subset with atypical marker expression, we performed a higher‐resolution clustering analysis. Using FlowSOM, we re‐clustered the cells from cluster 8 into eight sub‐clusters and analyzed the expression profiles of key markers (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S5b</xref>, Supporting Information). All sub‐clusters consistently expressed NK cell–associated markers, including CD16, CD56, CD11a, NKp46, and NKG2D, as well as cytotoxic molecules perforin and granzyme B; some sub‐clusters also showed expression of NKG2A and NKp30 (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S5b</xref>, Supporting Information). Importantly, all sub‐clusters expressed CD4 to varying degrees, though not all individual cells were CD4⁺. To further distinguish these sub‐clusters from conventional T cells, we analyzed CD4 and CD16 co‐expression. All cluster 8 sub‐clusters were CD16⁺ and exhibited only low levels of CD4 (mean marker intensity &lt; 2), whereas cluster 1 (CD4⁺ T cells) showed strong CD4 expression and no CD16 (mean marker intensity &lt; 1) (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S5c</xref>, Supporting Information), supporting the conclusion that cluster 8 cells are phenotypically distinct from CD4⁺ T cells.</p><p>To determine whether these CD3<sup>+</sup> NK cells were genuine NK cells, we co‐incubated CFSE‐labeled NK cells with T cells. Flow cytometry indeed detected CD3 signals on the CFSE‐labeled NK cells (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S6a,b</xref>, Supporting Information), where NK and T cells are clearly distinguishable by CFSE labeling. Thus, the CD3⁺ fraction within the CFSE⁺ population (ranging from ≈6% to 40%) is unlikely to result from T cell contamination. To support these findings, we performed live‐cell imaging with CFSE‐labeled NK cells and CD3‐labeled CD4⁺ T cells. CD3‐positive dots were observed to transfer from T cells to NK cells during contact (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S6c</xref>, Supporting Information). Together, these data further support the conclusion that the CD3<sup>+</sup> NK subpopulation represents a distinct subset induced by T cell co‐culture.</p><p>Given that efficient migration is crucial for NK cells to locate and eliminate target cells, we next examined their migration. To simulate a physiologically relevant environment, we embedded NK cells in a 3D collagen matrix and tracked their movement using light‐sheet microscopy. We observed that T cell co‐cultured NK cells exhibited substantially increased motility compared to NK cells alone (<bold>Figure</bold> <xref rid="advs70990-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>; Movie <xref rid="advs70990-supinfo-0001" ref-type="">S4</xref>, Supporting Information). Both migration velocity and the fraction of highly mobile NK cells (velocity &gt; 2 µm min<sup>−1</sup>) were markedly enhanced by T cell co‐culture (Figure <xref rid="advs70990-fig-0003" ref-type="fig">3b</xref>). Furthermore, NK cell migration persistence, defined by the directionality of movement, was significantly increased, as evidenced by reduced turning angles (Figure <xref rid="advs70990-fig-0003" ref-type="fig">3c</xref>) and elevated mean square displacements (MSD) (Figure <xref rid="advs70990-fig-0003" ref-type="fig">3d</xref>). In addition, we assessed the infiltration capability of NK cells into 3D matrices by seeding NK cells on top of a collagen matrix. Live cell imaging revealed that NK cells co‐cultured with T cells reached the bottom layer earlier and in greater numbers compared to controls (Figure <xref rid="advs70990-fig-0003" ref-type="fig">3e,f</xref>), indicating that T cell co‐culture enhances NK cell infiltration into 3D environments.</p><fig position="float" fig-type="Figure" id="advs70990-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>T cell co‐culture enhances NK cell motility. Primary NK cells were either cultured alone for three days (Ctrl) or co‐cultured with autologous bead‐stimulated CD4<sup>+</sup> T cells on Day 2 post‐isolation for 24 h (Boosted). a–d) NK cell migration in 3D environments. NK cells were loaded with CFSE on Day 1 post‐isolation. For live‐cell imaging, cells were embedded in a collagen matrix (2 mg mL<sup>−1</sup>) and NK cell movements were visualized via light‐sheet microscopy (20× objective) every 30 s for 60 min at 37 °C. NK cells were tracked using Imaris. Trajectories (n = 30 cells for each condition) are shown in a. Quantification of migration velocity (b), turning angles (c), and MSD (d) is shown (Ctrl: n = 574 cells; Boosted: n = 597 cells). All results are from 4 donors. Mann–Whitney U‐test was conducted for b. e,f) NK cell infiltration into collagen matrices. Cells were put from top of a collagen matrix (2 mg mL<sup>−1</sup>), and images were taken at the bottom layer every 20 min for 24 h at 37 °C using high‐content imaging (ImageXpress, 20× objective). Time‐lapse images of a representative donor are shown (e), with quantification in f (mean ± SEM, normalized to the maximum recorded infiltrated cell number, n = 4 donors). g–i) Transcriptomic changes in NK cells following T cell co‐culture. NK cells were isolated with CD56 magnetic beads from NK‐T co‐culture (Boosted) or NK cultured alone (Ctrl), and RNA‐seq was performed (n = 5 donors). Differentially expressed genes (g), Gene Ontology (GO) enrichment for cytoskeleton/migration‐related pathways (h), and changes in expression of myosin subunits, MLCK, and ROCK (i) are shown. j,k) Myosin pathways regulate NK cell infiltration. NK cells were put from the top of a collagen matrix (2 mg mL<sup>−1</sup>) with ML‐7 (j) or Y‐27632 (k) present in the media. Images were acquired at the bottom layer every 20 min for 24 h at 37 °C using high‐content imaging (ImageXpress, 20× objective). Quantification of infiltrated NK cells is shown as mean ± SEM (normalized to the maximum recorded infiltrated cell number, n = 4 donors).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ADVS-12-e05731-g002.jpg"><?image-name ADVS-12-e05731-g002.jpg?><?image-size 114662?><?image-md5 c51b83b0db33c9bc17041b23fc234620?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1000?><?image-original-width 802?><?image-scaled-height 666?><?image-scaled-width 534?><?image-cloudpmc-urn urn:cdn:blobs/61a2/12622558/c51b83b0db33/ADVS-12-e05731-g002.jpg?><?thumb-name ADVS-12-e05731-g002.gif?><?thumb-size 8821?><?thumb-md5 dd6970b63d00ff4d7bf3d44a8494aad6?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 125?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/61a2/12622558/dd6970b63d00/ADVS-12-e05731-g002.gif?></graphic></fig><p>To explore the molecular mechanism responsible for T cell‐enhanced NK migration and infiltration, we performed RNA sequencing (Figure <xref rid="advs70990-fig-0003" ref-type="fig">3g</xref>). Gene Ontology (GO) enrichment analysis of migration‐related pathways revealed that genes involved in cytoskeleton organization and microtubule cytoskeleton were greatly impacted by T cell co‐culture (Figure <xref rid="advs70990-fig-0003" ref-type="fig">3h</xref>). Notably, several myosin subunits, including MYL12A, MYO1F, and MYO1G, exhibited substantial expression changes (Figure <xref rid="advs70990-fig-0003" ref-type="fig">3i</xref>). Myosin activity is spatially regulated by myosin light chain kinase (MLCK) and Rho‐associated protein kinase (ROCK).<sup>[</sup>
+<xref rid="advs70990-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> Both MLCK (also known as MYLK1) and ROCK1 are expressed in NK cells, as confirmed by RNA‐Seq analysis (Figure <xref rid="advs70990-fig-0003" ref-type="fig">3i</xref>). To investigate their roles in T cell‐boosted NK motility, we pharmacologically inhibited MLCK (using ML7) or ROCK (using Y‐27632) and assessed NK infiltration into the 3D matrix. Inhibition of either MLCK or ROCK significantly reduced the number of T cell co‐cultured NK cells that successfully penetrated the collagen matrix and reached the well bottom (Figure <xref rid="advs70990-fig-0003" ref-type="fig">3j,k</xref>). Collectively, these findings suggest that T cell‐enhanced NK functionality is primarily mediated by increased myosin‐dependent migration and infiltration, rather than increased cytotoxic granule content.</p></sec><sec id="advs70990-sec-0050"><label>2.3</label><title>T Cell Co‐Culture Restores Cryopreservation‐Impaired NK Killing Efficiency</title><p>In vivo, one major challenge that NK cells encounter is locating and eliminating tumor cells in complex 3D environments. To assess whether T cell‐boosted NK cells also exhibited enhanced killing efficiency in 3D, we used a 3D killing assay established in our lab,<sup>[</sup>
+<xref rid="advs70990-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> in which K562‐pCasper cells were embedded in a 3D collagen matrix, and after the collagen solidified, NK cells were added from above, allowing them to infiltrate, search, and attack target cells in a physiologically relevant setting (<bold>Figure</bold> <xref rid="advs70990-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>). To rule out possible influence from T cells, we isolated NK cells from the T‐NK co‐culture. Live‐cell imaging over 36 h revealed that T cell co‐cultured NK cells initiated killing earlier than NK cells cultured alone, and by 24 h NK cells from T‐NK co‐culture efficiently eliminated nearly all tumor cells through apoptosis and necrosis, whereas unboosted NK cells failed to control K562 proliferation (Figure <xref rid="advs70990-fig-0004" ref-type="fig">4b</xref>; Movie <xref rid="advs70990-supinfo-0001" ref-type="">S5</xref>, Supporting Information). These findings indicate that in a 3D environment, T cell‐boosted NK cells possess superior tumor‐clearing ability.</p><fig position="float" fig-type="Figure" id="advs70990-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>T cell co‐culture rescues cryopreservation‐impaired NK cell functions. a,b) NK cell killing kinetics in 3D. (a) NK cells were isolated with CD56 magnetic beads from NK‐T co‐culture (Isolated NK) or NK cultured alone (NK). (b) Killing efficiency against K562‐pCasper target cells (E:T = 2.5:1) was determined via a 3D real‐time killing assay using high‐content imaging (ImageXpress, 20× objective). Scale bars: 40 µm. Quantification of live target cells is shown as mean ± SEM (normalized to Time 0, n = 4 donors). c,d) Restoring cryopreserved NK cell functionality via T cell co‐culture. After thawing, cryopreserved NK cells were either co‐cultured alone (Cryo NK) or with autologous bead‐activated CD4⁺ T cells (Cryo NK+CD4). Freshly isolated primary NK cells (Fresh NK) were used as controls. Killing efficiency in 3D (c) was assessed via a 3D real‐time killing assay and quantification is shown as mean ± SEM (n = 4 donors). For 3D migration analysis (d), NK cells were labeled with CFSE before co‐culturing with T cells. Cells were embedded in collagen (2 mg mL<sup>−1</sup>) and imaged using light‐sheet microscopy (20× objective). Quantification is shown as violin plots with median and inter‐quartile range (NK: n = 332 cells, NK+CD4: n = 1058 cells, from 4 donors). Mann–Whitney U‐test was conducted.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ADVS-12-e05731-g007.jpg"><?image-name ADVS-12-e05731-g007.jpg?><?image-size 61522?><?image-md5 82855eda4948dfd99af9f113919e8596?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 395?><?image-original-width 820?><?image-scaled-height 263?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/61a2/12622558/82855eda4948/ADVS-12-e05731-g007.jpg?><?thumb-name ADVS-12-e05731-g007.gif?><?thumb-size 9524?><?thumb-md5 96d8687112256fd856f096083b493bf4?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 166?><?thumb-cloudpmc-urn urn:cdn:blobs/61a2/12622558/96d868711225/ADVS-12-e05731-g007.gif?></graphic></fig><p>NK cells are widely used in immunotherapy, and significant efforts are underway to optimize treatments using CAR‐NK cells, NK‐92 cells, iPSC NK cells, CIML NK cells, adoptive NK cells, and UCB HPC‐derived NK cells.<sup>[</sup>
+<xref rid="advs70990-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>]</sup> To ensure the efficient application of these therapeutic strategies, cryopreservation of NK cells is often required. However, previous studies <sup>[</sup>
+<xref rid="advs70990-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> have shown that cryopreservation significantly impairs NK cell migration and cytotoxicity in 3D environments. We tested whether T cell co‐culture could restore this impaired function. Particularly, after thawing cryopreserved primary NK cells, they were co‐cultured with activated T cells for 24 h prior to experiments. Live‐cell imaging from the 3D killing assay shows that while control NK cells were unable to control tumor cell proliferation, T cell‐boosted NK cells eradicated nearly all tumor cells within 36 h (Figure <xref rid="advs70990-fig-0004" ref-type="fig">4c</xref>), and they exhibited substantially enhanced migration velocity and persistence (Figure <xref rid="advs70990-fig-0004" ref-type="fig">4d</xref>). Collectively, these findings highlight T cell co‐culture as a powerful strategy to rescue cryopreservation‐impaired NK cell function.</p></sec><sec id="advs70990-sec-0060"><label>2.4</label><title>Physical Contact between NK and T Cells is Essential for Boosting NK Cell Function via IL‐2</title><p>A key question arising from our findings is how co‐culture with activated T cells enhances NK cell killing efficiency. Since T cell‐derived cytokines are known to activate various immune cells, including NK cells, we hypothesized that T cell‐secreted cytokines play a critical role in boosting NK cell function. To test this hypothesis, we employed a transwell system to physically separate T cells and NK cells while still allowing NK cells access to T cell‐released cytokines (<bold>Figure</bold> <xref rid="advs70990-fig-0005" ref-type="fig">
+<bold>5</bold>a</xref>). Surprisingly, regardless of whether NK cells were in the insert or the outer well, the presence of activated T cells only marginally increased NK cell killing efficiency, far below the enhancement observed when NK cells had physical contact with T cells, and this effect was consistent for both natural cytotoxicity and ADCC (Figure <xref rid="advs70990-fig-0005" ref-type="fig">5b</xref>). To ensure that NK cells had full access to secreted cytokines, we manually mixed the supernatant between the insert and outer well, and this did not improve NK cell killing efficiency (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S7</xref>, Supporting Information). These results indicate that physical contact between NK and T cells is indispensable for enhancing NK killing function.</p><fig position="float" fig-type="Figure" id="advs70990-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Direct contact and IL‐2 signaling are essential for T cell‐boosted NK cell function. a) Schematic of the transwell experiment. NK cells were cultured for three days in a 0.4 µm transwell insert, with CD4⁺ T cells and beads seeded in the outer well. b) T cell‐mediated enhancement of NK cytotoxicity requires direct contact. NK cell killing kinetics were measured using a plate reader‐based 2D real‐time killing assay. K562 (for natural cytotoxicity) and Raji (for ADCC) cells were used as target cells (E:T = 2.5:1). Ctrl: NK cells alone; with physical contact: NK‐T co‐culture; w/o physical contact: NK cells from transwell. Data are shown as mean ± SEM (n = 4 donors). c–e) IL2 signaling blockade abolishes T cell‐boosted NK cell functionality. IL‐2 signaling was inhibited by basiliximab treatment (αIL2R, 5 µg mL<sup>−1</sup>) as depicted in c. NK cell killing kinetics (d) was determined using a plate reader‐based 2D real‐time killing assay with K562 as target cells (E:T = 2.5:1). Quantification is shown as mean ± SEM (n = 4 donors). NK cell movement in 3D (e) was visualized via light‐sheet microscopy (20× objective). Quantification is shown as violin plots with median and inter‐quartile range (Veh: n = 197 cells, αIL2R: n = 219 cells, from 2 donors). Mann–Whitney U‐test was conducted.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ADVS-12-e05731-g006.jpg"><?image-name ADVS-12-e05731-g006.jpg?><?image-size 59831?><?image-md5 308d4fea58c7553922434521d1241b9b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 528?><?image-original-width 820?><?image-scaled-height 352?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/61a2/12622558/308d4fea58c7/ADVS-12-e05731-g006.jpg?><?thumb-name ADVS-12-e05731-g006.gif?><?thumb-size 7071?><?thumb-md5 350b31d61a6123c1671304770d3f3a3f?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 124?><?thumb-cloudpmc-urn urn:cdn:blobs/61a2/12622558/350b31d61a61/ADVS-12-e05731-g006.gif?></graphic></fig><p>Given that direct contact was required, we initially postulated that IL‐2 was not the key mediator. To test this, we blocked IL‐2 signaling using basiliximab, a neutralizing antibody against IL‐2 receptor α chain CD25, during the 24 h‐co‐culture period (Figure <xref rid="advs70990-fig-0005" ref-type="fig">5c</xref>). Unexpectedly, in the presence of basiliximab (αIL2R), the T cell‐mediated enhancement of NK killing efficiency against K562 cells was completely abolished, reducing NK cell killing to baseline levels observed in NK cells cultured alone (Figure <xref rid="advs70990-fig-0005" ref-type="fig">5d</xref>). Moreover, NK cell mobility in 3D environments was also significantly impaired (Figure <xref rid="advs70990-fig-0005" ref-type="fig">5e</xref>). These results suggest that T cell‐derived IL‐2 is indeed required for boosting NK cell killing function.</p><p>If IL‐2 is essential, it is reasonable to expect that adding recombinant IL2 should replicate the enhancement seen with T cell co‐culture. To test this, we first quantified IL‐2 levels in the supernatant using a flow cytometry‐based multiplex cytokine assay. We found that IL‐2 concentrations in the supernatant from a 3‐day T‐NK co‐culture were comparable to those from 3 day‐stimulated CD4<sup>+</sup> T cells (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S8a</xref>, Supporting Information). In contrast, IL‐2 levels in NK alone cultures were minimal, similar to 1 day co‐culture conditions, and barely above the detection limit (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S8a</xref>, Supporting Information). To determine the equivalent concentrations for IL‐2, we cultured NK cells with 0.5, 5, and 50 ng mL<sup>−1</sup> of IL‐2 for three days and measured IL‐2 levels in the supernatant. We found that 50 ng mL<sup>−1</sup> IL‐2 closely matched IL‐2 concentrations in 3‐day co‐culture, while 0.5 ng mL<sup>−1</sup> IL‐2 was comparable to 1‐day co‐culture levels. NK cells cultured in the presence of 0.5 ng mL<sup>−1</sup> IL‐2 for 1 day did not exhibit enhanced cytotoxicity (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S8b</xref>, Supporting Information), nor did they after 3 days of IL‐2 treatment (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S8c</xref>, Supporting Information). Even at 50 ng mL<sup>−1</sup> IL‐2, NK cell killing remained unchanged after 1 day‐stimulation (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S8c</xref>, Supporting Information). Culturing NK cells with supernatant from 3‐day stimulated T cells also failed to elevate NK cell killing kinetics (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S8d</xref>, Supporting Information). These data suggest that NK cell killing is not enhanced by IL‐2 freely diffusing in the supernatant, but rather by IL‐2 locally released at the NK‐T contact site, where it likely reaches a critical threshold necessary for boosting NK cell function.<sup>[</sup>
+<xref rid="advs70990-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="advs70990-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup>
+</p></sec><sec id="advs70990-sec-0070"><label>2.5</label><title>Synthetic IL‐2‐Presenting Cells Effectively Enhance NK Cell Killing Efficiency</title><p>To further investigate the spatial localization of IL‐2, we examined IL‐2 distribution in T cells in contact with NK cells. Immunostaining analysis revealed that endogenous IL‐2 predominantly accumulated in the vicinity of the NK‐T contact site (<bold>Figure</bold> <xref rid="advs70990-fig-0006" ref-type="fig">
+<bold>6</bold>a</xref>), with significantly higher density (Figure <xref rid="advs70990-fig-0006" ref-type="fig">6b</xref>, green circles) than expected by random distribution (Figure <xref rid="advs70990-fig-0006" ref-type="fig">6b</xref>, black circles). This finding led us to hypothesize that high local IL‐2 concentration at the contact site plays a critical role in boosting NK cell function. To test this, we used synthetic cells, engineered particles with a silicon core coated by a lipid bilayer, where purified recombinant IL‐2 was covalently linked to the lipid surface (Figure <xref rid="advs70990-fig-0006" ref-type="fig">6c</xref>). We generated synthetic cells with three IL‐2 concentrations, corresponding to a total amount of 30, 300, and 900 U being used to decorate 3 × 10<sup>6</sup> particles. Primary NK cells were co‐cultured with these IL‐2‐presenting synthetic cells for one day, with bead‐activated autologous T cells as a positive control. Using the 3D real‐time killing assay, we analyzed NK cell cytotoxicity after 24 h‐co‐culture with synthetic cells. Live cell imaging revealed that NK cell killing efficiency in 3D was significantly enhanced at higher concentrations (300 and 900 U), reaching levels comparable to those observed with T cell co‐culture, whereas at the lowest concentration (30 U), only an insignificant increase was observed, while non‐coating control synthetic cells did not alter NK cell killing efficiency (Figure <xref rid="advs70990-fig-0006" ref-type="fig">6d–f</xref>; Movie <xref rid="advs70990-supinfo-0001" ref-type="">S6</xref>, Supporting Information). These findings highlight synthetic IL‐2‐presenting cells as a promising approach to mimic T cell‐mediated NK activation, offering a potential tool for enhancing NK cell‐based immunotherapies.</p><fig position="float" fig-type="Figure" id="advs70990-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>Synthetic IL‐2 presenting T cells restore cryopreservation‐impaired NK killing efficiency. a,b) Endogenous IL‐2 accumulates at the NK‐T cell contact sites. NK and CD4⁺ T cells were seeded on fibronectin‐coated coverslips and immunostained to visualize endogenous IL‐2 localization. CD3 was used as a T cell marker. Imaging was performed using a Cell Observer with a 60× objective. The contact site vicinity was defined as the region within one‐third of the cell diameter closest to the contact site (≈26% of total cellular volume). Scale bars: 5 µm. Images from a representative conjugation are shown. Quantification of IL‐2 fraction near the contact site is shown in b, with green circles marking the values &gt; 26%. c–f) Synthetic IL‐2 presenting T cells rescue NK cell killing efficiency. Schematic representation of IL‐2 presenting synthetic cells is depicted in c. NK cells were co‐cultured for 24 h with synthetic cells (SynT) with surface‐bound IL‐2 (30, 300, 900U) or with autologous bead‐stimulated CD4<sup>+</sup> T cells. NK cells killing kinetics was assessed using the 3D real‐time assay (E:T = 2:1) and visualized via high‐content imaging (ImageXpress, 20× objective). Time‐lapse image series of three donors are shown (d, scale bars: 40 µm) with kinetics across all time points (e, mean ± SEM) and quantification at the end point (36 h) (f, single values with means). Results are from 4 donors. Statistical analysis was conducted via a two‐way ANOVA with multiple comparisons (e) or one‐way ANOVA with Tukey's multiple comparisons (f).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="ADVS-12-e05731-g004.jpg"><?image-name ADVS-12-e05731-g004.jpg?><?image-size 131603?><?image-md5 4edb8b51488b5e43d21ddeda27f9659c?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 830?><?image-original-width 820?><?image-scaled-height 553?><?image-scaled-width 546?><?image-cloudpmc-urn urn:cdn:blobs/61a2/12622558/4edb8b51488b/ADVS-12-e05731-g004.jpg?><?thumb-name ADVS-12-e05731-g004.gif?><?thumb-size 10032?><?thumb-md5 345758617ffa922f102736f02724bd73?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 101?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/61a2/12622558/345758617ffa/ADVS-12-e05731-g004.gif?></graphic></fig><p>IL‐15 is widely used to support NK cell expansion and has also been engineered into CAR‐NK cells to improve their viability and persistence in vivo.<sup>[</sup>
+<xref rid="advs70990-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="advs70990-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> To assess whether soluble IL‐15 can replicate the boosting effects provided by our co‐culture strategy, we stimulated NK cells with IL‐15 at three concentrations (10, 30, and 100 U mL<sup>−1</sup>). After 24 h, all three doses enhanced NK cell killing efficiency, but the effect remained significantly lower than that achieved through co‐culture with CD4<sup>+</sup> T cells under both 2D (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S9a</xref>, Supporting Information) and 3D conditions (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S9</xref>b—e, Supporting Information). Interestingly, combining IL‐15 with IL‐2 slightly reduced NK cell cytotoxicity compared to IL‐15 alone under both 2D (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S9a</xref>, Supporting Information) and 3D settings (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S9</xref>b—e, Supporting Information), possibly due to competition for the shared γ‐chain in their receptor complexes. These findings indicate that our 1‐day co‐culture strategy provides a more potent approach to boosting NK cell cytotoxicity than stimulation with soluble IL‐15.</p><p>To demonstrate the clinical relevance and translational potential of our approach, we tested cryopreserved CD19‐targeting CAR‐NK cells obtained from two donors. Expression of CD19‐targeting CAR was verified using flow cytometry (Figure <xref rid="advs70990-supinfo-0001" ref-type="">S10</xref>, Supporting Information). Using 3D killing assays, we found that a 24‐h co‐culture with IL‐2‐presenting synthetic cells substantially enhanced the cytotoxic activity of cryopreserved CAR‐NK cells against TMD8 target cells (CD19<sup>+</sup> human B lymphoma cells) from both donors — reaching levels comparable to, or even exceeding, those achieved through CD4<sup>+</sup> T cell co‐culture (<bold>Figure</bold> <xref rid="advs70990-fig-0007" ref-type="fig">
+<bold>7</bold>a–f</xref>). In addition, we also assessed the potential of IL‐15‐presenting synthetic cells on boosting cryopreserved CAR‐NK functions. Using the 3D killing assay, we observed that IL‐15–presenting synthetic cells enhanced CAR‐NK cytotoxicity to similar levels as that of IL‐2‐presenting cells (Figure <xref rid="advs70990-fig-0007" ref-type="fig">7a–f</xref>). A combination of IL‐2 and IL‐15 synthetic cells did not further enhance CAR‐NK function (Figure <xref rid="advs70990-fig-0007" ref-type="fig">7a–f</xref>). These data suggest both IL‐2‐ and IL‐15‐presenting synthetic cells are effective tools for restoring the cytotoxic function of cryopreserved CAR‐NK cells.</p><fig position="float" fig-type="Figure" id="advs70990-fig-0007" orientation="portrait"><label>Figure 7</label><caption><p>Both IL‐2‐ and IL‐15‐presenting synthetic cells can restore cryopreserved CAR‐NK cell cytotoxicity in 3D. CAR‐NK cells targeting CD19 were either directly thawed (a–f) or underwent expansion after thawing followed by a second freeze–thaw cycle (g–h). NK cells were co‐cultured for 24 h with either synthetic cells (SynT) or allogeneic CD4⁺ T cells activated with CD3/CD28 beads. SynT were surface‐coated with IL‐2, IL‐15, or a mixture of both (IL‐2+IL‐15 condition used a 1:1 mix of IL‐2– and IL‐15–coated SynT). TMD8‐pCasper tumor cells were used as targets, and NK cell cytotoxicity was evaluated using a 3D real‐time killing assay (E:T ratio = 2.5:1) using high‐content imaging (ImageXpress, 20× objective). Representative time‐lapse images are shown for two donors for one freeze‐thaw cycle (a, d) and one donor for a double freeze‐thaw scenario (g) with scale bars of 40 µm. Quantitative killing kinetics across all time points are shown in panels b–c (for a), e–f (for d), and h (for g).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-15" orientation="portrait" xlink:href="ADVS-12-e05731-g005.jpg"><?image-name ADVS-12-e05731-g005.jpg?><?image-size 409354?><?image-md5 48806b125c289398874766911f8da2b2?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 999?><?image-original-width 723?><?image-scaled-height 999?><?image-scaled-width 723?><?image-cloudpmc-urn urn:cdn:blobs/61a2/12622558/48806b125c28/ADVS-12-e05731-g005.jpg?><?thumb-name ADVS-12-e05731-g005.gif?><?thumb-size 12963?><?thumb-md5 717a71afc9984bc13efe8f9c951c3151?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 138?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/61a2/12622558/717a71afc998/ADVS-12-e05731-g005.gif?></graphic></fig><p>To simulate a clinically relevant off‐the‐shelf scenario—where CAR‐NK cells are thawed, expanded, and re‐cryopreserved—we applied a double freeze‐thaw protocol. Following this, CAR‐NK cells exhibited minimal cytotoxicity (Figure <xref rid="advs70990-fig-0007" ref-type="fig">7g,h</xref>). However, after 24‐h co‐culture with IL‐2–presenting synthetic cells, even at the lowest cytokine dose (30 U mL<sup>−1</sup>), cytotoxicity was fully restored, with nearly complete elimination of TMD8 target cells (Figure <xref rid="advs70990-fig-0007" ref-type="fig">7g,h</xref>). This represented a more than 10‐fold increase in killing capacity, comparable to that achieved with activated CD4⁺ T cells (Figure <xref rid="advs70990-fig-0007" ref-type="fig">7g,h</xref>). Importantly, synthetic cells without IL‐2 coating had no boosting effect across all donors (Figure <xref rid="advs70990-fig-0007" ref-type="fig">7a–h</xref>). Together, these results demonstrate the robust capacity of IL‐2–presenting synthetic cells to restore and enhance the cytotoxic function of cryopreserved CAR‐NK cells, underscoring their translational promise for future off‐the‐shelf NK cell‐based immunotherapies.</p></sec></sec><sec id="advs70990-sec-0080"><label>3</label><title>Discussion</title><p>We demonstrate that co‐culturing NK cells with activated T cells for just 24 h significantly enhances NK cell motility and killing efficiency, particularly in 3D environments. Notably, this approach effectively restores the impaired 3D cytotoxic functionality of cryopreserved NK cells. Our findings reveal that T cells deliver IL‐2 at T‐NK contact sites, rather than by freely diffusing IL‐2 in the extracellular space. This is further supported by the superior boosting effect from synthetic cells engineered with surface‐bound IL‐2. Moreover, these synthetic IL‐2‐presenting cells offer an innovative and universal approach to enhance the functionality of NK cells, including cryopreserved CAR‐NK cells. This strategy offers a powerful tool to restore NK potency after cryopreservation, which is particularly crucial for improving the efficacy of off‐the‐shelf NK cell‐based therapies.</p><p>Off‐the‐shelf NK cell‐based immunotherapies typically require cryopreservation of the final drug product in GMP‐grade bags.<sup>[</sup>
+<xref rid="advs70990-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="advs70990-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> However, post‐thaw functional impairment of NK cells remains a known limitation.<sup>[</sup>
+<xref rid="advs70990-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="advs70990-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup> Our study demonstrates that brief co‐culture with IL‐2‐presenting synthetic cells can restore, and even enhance, NK cell cytotoxicity post‐thaw, offering a promising strategy to overcome this limitation. To enable clinical translation, GMP compatibility is required. We propose a possible GMP‐compliant workflow to implement this approach: synthetic cells can be engineered with magnetic cores to allow for automated removal under sterile conditions. After thawing, NK cells stored in GMP‐compliant cryobags will be transferred into a closed‐system GMP bioreactor (e.g., CliniMACS Prodigy), where they will first undergo a washing step to remove the cryopreservation medium and will be resuspended in GMP‐grade culture medium supplemented with 5% human AB serum, then co‐cultured with GMP‐grade synthetic cells for ≈24 h. Following this co‐culture, the synthetic cells will be efficiently removed via magnetic depletion (e.g., CliniMACS separation tubing set), ensuring the final product consists solely of functionally enhanced NK cells. The NK cells will then be harvested into a sterile final formulation bag, suspended in 0.9% NaCl containing 0.5% human serum albumin, ready for clinical use. The restored NK cells will then be collected into a sterile infusion bag, suspended in 0.9% NaCl supplemented with 0.5% human serum albumin, and made ready for clinical administration. This process ensures full GMP compliance, avoids open handling, and supports in‐process quality control steps such as sterility, depletion efficiency, and phenotype/function assessment. We acknowledge that this re‐culture step introduces additional complexity compared to direct infusion of cryopreserved drug products, including the need for renewed GMP handling and release testing. Nevertheless, in clinical scenarios where robust NK cell cytotoxicity is essential, such as in patients with aggressive or refractory malignancies, this brief reactivation step may offer a valuable trade‐off. In such high‐risk settings, maximizing cell functionality could critically impact therapeutic outcomes and justify the additional manufacturing effort.</p><p>Beyond IL‐2, other cytokines such as IL‐15 have been widely explored for enhancing NK cell functionality.<sup>[</sup>
+<xref rid="advs70990-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="advs70990-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup> While particularly CD4<sup>+</sup> but also CD8<sup>+</sup> T cells secrete large amounts of IL‐2 upon activation, IL‐15 is typically not produced by T cells.<sup>[</sup>
+<xref rid="advs70990-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="advs70990-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> IL‐2 stimulation is well‐known to enhance NK cell cytotoxic protein expression, degranulation, and target cell killing.<sup>[</sup>
+<xref rid="advs70990-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="advs70990-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> In contrast, IL‐15 drives NK cells toward a memory‐like phenotype, which extends their life span and allows for sustained cytotoxic activity over time.<sup>[</sup>
+<xref rid="advs70990-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<sup>]</sup> IL‐15 has been engineered into CAR‐NK cells to improve their viability and persistence in vivo.<sup>[</sup>
+<xref rid="advs70990-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="advs70990-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> In our study, a 24‐h stimulation with soluble IL‐15 enhanced NK cell killing efficiency, but did not reach the levels achieved through co‐culture with CD4<sup>+</sup> T cells or IL‐2‐presenting synthetic cells. Remarkably, IL‐15‐presenting synthetic cells significantly boosted the cytotoxicity of cryopreserved CAR‐NK cells, reaching levels comparable to those achieved with IL‐2‐presenting counterparts. These findings highlight the potential of cytokine‐coated synthetic cells as powerful tools to enhance cytokine‐mediated immune cell functions.</p><p>A previous study in a mouse model has demonstrated that depletion of CD4<sup>+</sup> T cells impairs NK cytotoxicity, an effect that could be rescued by IL‐2 administration.<sup>[</sup>
+<xref rid="advs70990-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+<sup>]</sup> Consistent with this, multiple studies have reported that the presence of CD4<sup>+</sup> T cells greatly enhances NK killing capacity.<sup>[</sup>
+<xref rid="advs70990-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="advs70990-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="advs70990-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>]</sup> However, our findings reveal that the mere presence of CD4<sup>+</sup> T cells is not sufficient to boost NK cell function — physical contact between NK and T cells is essential. Furthermore, we show that the cytotoxic CD8<sup>+</sup> T cells can also play a “helper” role in enhancing NK‐mediated killing.</p><p>IL‐2 plays a pivotal role in T cell‐boosted NK cell killing functionality, and blocking IL‐2 receptor signaling completely abolishes this. However, exposure to soluble IL‐2 at a concentration of 50 ng mL<sup>−1</sup>, levels only reached during cytokine storms in vivo,<sup>[</sup>
+<xref rid="advs70990-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>
+<sup>]</sup> for 24 h fails to enhance NK cytotoxicity. These results indicate that while IL‐2 is necessary, it is not sufficient for rapid NK activation. Moreover, high‐dose IL‐2 administration is associated with severe side effects, including the vascular leak syndrome, as observed in cancer patients treated by IL‐2‐based immunotherapy.<sup>[</sup>
+<xref rid="advs70990-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="advs70990-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+<sup>]</sup> Physical contact between T and NK cells provides a localized environment where NK cells can receive high concentrations of IL‐2 without affecting the neighboring non‐target cells. Additionally, LFA‐1/ICAM‐1 interactions between NK and target cells are required to seal the IS, preventing cytotoxic protein leakage and potential damage to neighboring non‐target cells.<sup>[</sup>
+<xref rid="advs70990-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> This suggests that LFA‐1 may also contribute to the IL‐2‐mediated boosting effect by maintaining a high local IL‐2 concentration in the cleft at the NK‐T cell interface.</p><p>Our study highlights the significant advantages of using synthetic IL‐2‐presenting cells to enhance NK function. Unlike primary T cells, which require activation and are subject to donor variability, synthetic cells provide a standardized, controlled, and reproducible platform for NK cell stimulation. By presenting IL‐2 on their surface, these synthetic cells mimic the localized IL‐2 delivery seen in NK‐T cell interactions, ensuring efficient NK activation while minimizing off‐target effects. Furthermore, synthetic cells eliminate the need for viable donor‐derived T cells, overcoming logistical and scalability challenges in clinical applications. This approach is particularly beneficial for off‐the‐shelf NK cell therapies, where rapid, controlled activation is crucial. Importantly, our in vitro 3D killing assay confirms that synthetic cell‐boosted NK cells can effectively eradicate tumor cells, even in cases where NK cells alone fail to control tumor cell proliferation. This innovative strategy not only enhances the therapeutic potential of NK cells but also lays the foundation for developing novel immunotherapies that harness the power of synthetic cell‐based immune modulation.</p><p>In summary, using primary human cells, we identify both CD4<sup>+</sup> and CD8<sup>+</sup> T cells as potent enhancers of NK killing functionality, primarily by increasing NK motility. Physical contact between NK and T cells is crucial for this enhancement, with IL‐2 functioning in tandem to mediate the boosting effect. This strategy can also efficiently restore impaired cytotoxicity of cryopreserved NK cells, underscoring the importance of NK‐T cell interactions in optimizing NK cell‐based immunotherapy. Furthermore, we establish synthetic IL‐2‐presenting cells as a powerful tool for overcoming cryopreservation‐induced functional impairments and improving NK cell potency, providing a donor‐independent, scalable, and clinically viable solution to advance NK cell‐based immunotherapy.</p></sec><sec id="advs70990-sec-0090"><label>4</label><title>Experimental Section</title><sec id="advs70990-sec-0120"><title>Antibodies and Reagents</title><p>All chemicals, if not particularly indicated, were from Sigma–Aldrich (highest grade). The following reagents were purchased from ThermoFisher Scientific: human IL‐2 recombinant protein, Calcein‐AM, CellTrace CFSE Cell Proliferation Kit, PBS, and propidium iodide. The following antibodies were purchased from Biolegend: Alexa Flour 488 anti‐human CD16 (Clone:3G8), PerCP anti‐human CD16 (Clone:B73), PerCP anti‐human CD3 (Clone: HIT3a), APC/Cy7 anti‐human CD3 (Clone:SK7), Brilliant Violet 421 anti‐human CD3 (Clone:UCHT1), Brilliant Violet 421 anti‐human CD107a (LAMP1) (Clone:H4A3), PE anti‐human Granzyme B (Clone:QA16A02), Alexa Flour 647 anti‐human Perforin (Clone:dG9), PE anti‐human CD178 (Fas‐L) (Clone:NOK‐1), and Alexa Flour 647 anti‐human IL‐2 (Clone:MQ1‐17H12). APC anti‐human CD56 was from BD Biosciences. Following inhibitory antibodies were used: Efalizumab (anti‐Integrin alpha‐L (ITGAL) antibody, from Antibodies‐online GmbH), basiliximab (IL2RA recombinant monoclonal antibody, from Biozol GmbH). Bovine Type I Collagen Solution (10 mg mL<sup>−1</sup>) was from Advanced BioMatrix. Human IL‐15 was purchased from Miltenyi Biotech.</p></sec><sec id="advs70990-sec-0130"><title>Cell Culture</title><p>Peripheral blood mononuclear cells (PBMCs) were obtained from healthy donors as previously described.<sup>[</sup>
+<xref rid="advs70990-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> Primary human NK, CD4<sup>+</sup> T and CD8<sup>+</sup> T cells were negatively isolated from PBMCs according to the manufacturer's instructions using NK Cell Isolation Kit human (Miltenyi Biotec), CD4<sup>+</sup> T Cell Isolation Kit human (Miltenyi Biotec), CD8<sup>+</sup> T Cell Isolation Kit human (Miltenyi Biotec), respectively. NK and T cells were cultured in AIM V medium (ThermoFisher Scientific) with 10% FCS and 1% Penicillin‐Streptomycin (ThermoFisher Scientific) at a density of 2 × 10<sup>6</sup> and 3 × 10<sup>6</sup> cells mL<sup>−1</sup>. T cells were stimulated with Dynabeads Human T‐Activator CD3/CD28 (ThermoFisher Scientific) for 2 days at a bead‐to‐cell ratio of 0.8:1.</p><p>K562, Raji, K562‐pCasper, and TMD8‐pCasper cells were cultured in RPMI‐1640 medium (ThermoFisher Scientific) containing 10% FCS (ThermoFisher Scientific) and 1% Penicillin‐Streptomycin (ThermoFisher Scientific). K562‐pCasper cells were additionally supplemented with 1.25 mg mL<sup>−1</sup> G418 (ThermoFisher Scientific). All cells were cultured at 37 °C with 5% CO<sub>2</sub>. TMD8‐pCasper cells (clone K4.23) were generated using the two‐component Sleeping Beauty system. The plasmid IVTRup‐SB100x was used for in vitro transcription of SB100X‐mRNA as described in.<sup>[</sup>
+<xref rid="advs70990-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="advs70990-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>
+<sup>]</sup> pCasper Minicircle (pCasper coding sequence from Evrogen (#FP971), EF1A promoter, ITR (from VectorBuilder) was generated by PlasmidFactory GmbH. SB100X‐mRNA and pCasper Minicircle (ratio 5:1) were nucleofected using Nucleofector 4D technology (SF kit, pulse code EW‐113). TMD8 populations were sorted (Cell Sorter SH800S (Sony)) followed by single‐cell cloning. Generation of minicircles was supported by the IRTG/SFB1027 mini‐proposal 2024 for Joanne Vialle.</p></sec><sec id="advs70990-sec-0140"><title>Generation of CD19‐CAR‐NK Cells</title><p>CD19‐CAR‐NK cells were generated with the Sleeping‐Beauty transposon system as previously described.<sup>[</sup>
+<xref rid="advs70990-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="advs70990-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+<sup>]</sup> Briefly, primary human NK cells were isolated from buffy coats obtained from healthy donors (DRK‐Blutspendedienst Baden‐Württemberg‐Hessen) and were cultivated in NK‐MACS (Miltenyi Biotec) supplemented with 1% NK‐MACS Supplements (Miltenyi Biotec), 1% Penicillin‐Streptavidin (ThermoFisher Scientific), 5% heat‐inactivated human plasma (DRK‐Blutspendedienst Baden‐Württemberg‐Hessen), and 120 U mL<sup>−1</sup> IL‐15 (Miltenyi Biotec). For CD19‐CAR‐NK cell generation, 1 × 10<sup>6</sup> NK cells were nucleofected with 1.0 µg CD19‐CAR minicircle DNA (PlasmidFactory) and 2.5 µg SB100X transposase mRNA (Ethris) using the DO100 program, the P3 Primary Cell 4D‐Nucleofector X Kit S (Lonza), and 4D Nucleofector (Lonza).</p></sec><sec id="advs70990-sec-0150"><title>Cryopreservation of NK Cells</title><p>CD19‐CAR‐NK cells were cryopreserved at a density of 5 × 10⁶ cells mL<sup>−1</sup> between 14 and 21 days after nucleofection using RPMI medium (ThermoFisher Scientific) supplemented with 20% FBS and 10% DMSO (AppliChem) and 1% Penicillin‐Streptavidin. Freshly isolated NK cells were resuspended in freezing medium (90% FCS, 10% DMSO) at a density of 6 × 10⁶ cells mL<sup>−1</sup>. For thawing, cryovials were rapidly warmed in a 37 °C water bath with gentle agitation for &lt; 2 min until ice crystals fully dissolved. Cells were immediately centrifuged (300 × g, 5 min) to remove cryoprotectant solution, then resuspended in pre‐equilibrated AIM V medium supplemented with 10% FCS. For revitalization, thawed NK or CAR‐NK cells were co‐cultured with bead‐activated CD4⁺ T cells or synthetic cells under standard conditions (37 °C, 5% CO<sub>2</sub>) for 24 h.</p></sec><sec id="advs70990-sec-0160"><title>Real Time Killing Assay for 2D Settings</title><p>Target cells were loaded with calcein‐AM (500 nM) for 15 min at RT and then plated onto a Falcon 96‐well Black/Clear Flat Bottom TC‐treated Imaging Microplate (Corning) at a density of 2.5 × 10<sup>4</sup> cells well<sup>−1</sup>. For ADCC, rparaituximab (1 µg mL<sup>−1</sup>) was present in the media during the killing assay. Effector cells (NK cells or PBMCs) were subsequently added at the ratio indicated in the figure legends. The fluorescence was measured at 37 °C every 10 min for 4 h using either a GENiosPro micro‐plate reader (TECAN) <sup>[</sup>
+<xref rid="advs70990-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> or a high‐content imaging system ImageXpress (Molecular Devices) with a 20× objective.</p></sec><sec id="advs70990-sec-0170"><title>Live‐Cell Imaging for 3D Killing</title><p>This assay was performed as previously described.<sup>[</sup>
+<xref rid="advs70990-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> Briefly, target cells were resuspended in a 2 mg mL<sup>−1</sup> pre‐chilled, neutralized collagen type I solution (Advanced Biomatrix) and plated onto a Falcon 96‐well Black/Clear Flat Bottom TC‐treated Imaging Microplate (Corning) with 2.5 × 10<sup>4</sup> cells in 40 µL per well, followed by incubation at 37 °C with 5% CO<sub>2</sub> for 40 min for collagen solidification. Effector cells were then added from above, and killing was visualized at 37 °C with 5% CO<sub>2</sub> every 20 min for 40 h using a high‐content imaging system ImageXpress (Molecular Devices) with a 20× objective. Images were analyzed using ImageJ (NIH Image).</p></sec><sec id="advs70990-sec-0180"><title>Live‐Cell Imaging for CD3 Transfer</title><p>Glass coverslips (25 mm) were coated with fibronectin at room temperature for 30 min, rinsed, and cells were seeded immediately. Human CD4⁺ T cells activated by beads for 2 days were stained by incubating 0.5–1 × 10<sup>6</sup> cells in 50 µL PBS + 0.5% BSA with 1 µL Alexa Fluor 647‐anti‐CD3 (BioLegend OKT3) for 30 min at 4 °C in the dark, then washed with PBS + 0.5% BSA. NK cells were CFSE‐labeled and mixed with the stained T cells at a 1:2 ratio (0.5 × 10<sup>6</sup> NK:1.0 × 10<sup>6</sup> T) in 100 µL AIM V medium, applied to the coated coverslips, and incubated for 20 min at 37 °C/5% CO<sub>2</sub>; nonadherent cells were removed by gentle AIM V washes. For live imaging, coverslips were mounted on the microscope stage in 1 mL AIM V at 37 °C/5% CO<sub>2</sub>. Time‐lapse microscopy (30–60 min, 10 s intervals) was performed on a Zeiss Cell Observer (40×) using brightfield, CFSE (Ex 488/Em 525 nm), and Cy5 (Ex 625/Em 665 nm) channels. Images were processed and analyzed in Fiji (NIH ImageJ).</p></sec><sec id="advs70990-sec-0190"><title>Immunocytochemistry</title><p>Coverslips (13 mm) were coated with fibronectin at RT for 30 min. After removing excess fibronectin, cells suspended in AIM V medium were settled on the coated area and kept at 37 °C with 5% CO<sub>2</sub> for 20 min. Unattached cells were gently washed away with PBS. Samples were immediately fixed in freshly prepared 4% paraformaldehyde at RT for 20 min, followed by three washes with PBS (5 min each). Permeabilization was performed using PBS containing 0.3% Triton X‐100 and 5% FCS at RT for 1 h. Then cells were stained with Alexa Fluor 647 anti‐human IL‐2 antibody and Alexa Fluor 488 anti‐human CD3 antibody in PBS containing 1% BSA at RT for 2 h. After washing, cells were mounted in 20 µL of Epredia Immu‐Mount (ThermoFischer Scientific). Samples were visualized using a Cell Observer (Zeiss) with a 60× objective.</p></sec><sec id="advs70990-sec-0200"><title>Migration Analysis</title><p>Visualization of NK cell migration in 3D was performed as described previously.<sup>[</sup>
+<xref rid="advs70990-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>
+<sup>]</sup> Briefly, NK cells were labeled with CellTrace CFSE (5 µM) at RT for 15 min, and after washing were co‐cultured with bead‐stimulated CD4<sup>+</sup> T cells or cultured alone in AIM V medium with 10% FCS for 24 h. These cells were then resuspended in a 2 mg mL<sup>−1</sup> pre‐chilled, neutralized collagen type I solution (Advanced Biomatrix). Cell/collagen mix was plunged into a capillary (inner diameter: 1.5 mm, outer diameter: 2 mm) and kept at 37 °C with 5% CO<sub>2</sub> for 40 min for solidification, followed by a 1‐h recovery in AIM V medium. NK cell migration was imaged at 37 °C with 5% CO<sub>2</sub> every 30 s for 1 h using a Z.1 light‐sheet microscope (Zeiss) with a 20× objective. The Z‐step size was 1 µm, and in total 201 slices were obtained per stack. Cell trajectories were automatically tracked and analyzed using Imaris 8.1.2 (Bitplane). NK cells with a track duration of less than 30 min were excluded from the analysis.</p><p>To calculate the turning angle (<bold>φ</bold>), three successive positions of the same NK cell (with x, y, and z coordinates obtained from Imaris) were used. A φ value close to zero indicates a tendency to maintain the previous direction of movement, signifying persistent motion, whereas φ values near π represent a reversal in direction. Based on this, instantaneous persistence was defined as <italic toggle="yes">cos(φ)</italic> and the average persistence as 〈<italic toggle="yes">cos(φ)</italic>〉.</p><p>The mean square displacement (MSD) was calculated as:
+<disp-formula id="advs70990-disp-0001">
+<label>(1)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block"><mml:mrow><mml:mrow><mml:mi>M</mml:mi><mml:mi>S</mml:mi><mml:mi>D</mml:mi><mml:mfenced open="(" close=")"><mml:mi>t</mml:mi></mml:mfenced><mml:mo linebreak="badbreak">=</mml:mo><mml:mfenced open="〈" close="〉"><mml:mfenced separators="" open="〈" close="〉"><mml:mrow><mml:mi>r</mml:mi><mml:mfenced open="(" close=")"><mml:mi>t</mml:mi></mml:mfenced><mml:mn>2</mml:mn></mml:mrow></mml:mfenced></mml:mfenced><mml:mi>d</mml:mi><mml:mspace width="0.28em"/><mml:mo linebreak="goodbreak">−</mml:mo><mml:mfenced open="〈" close="〉"><mml:mfenced separators="" open="〈" close="〉"><mml:mrow><mml:mi>r</mml:mi><mml:mfenced open="(" close=")"><mml:mi>t</mml:mi></mml:mfenced></mml:mrow></mml:mfenced></mml:mfenced><mml:mi>d</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where 〈…〉 denotes averaging over all cell trajectories within a single donor dataset, and 〈…〉<sub>d</sub> represents the average over all donors. This two‐step averaging provides a robust measure of cell motility while reducing donor‐specific variability.</p></sec><sec id="advs70990-sec-0210"><title>Flow Cytometry Analysis of NK Cell Subsets, Proliferation, and Cytotoxic Protein Expression</title><p>NK cells were stained with Alexa Fluor 488 anti‐human CD16, APC mouse anti‐human CD56, and PerCP anti‐human CD3 antibodies at 4 °C for 30 min in the dark. NK cell proliferation was assessed by labeling freshly isolated primary human NK cells with CFSE (5 µM) at RT for 10 min before co‐culture with autologous bead‐activated CD4<sup>+</sup> T cells. For perforin and granzyme B staining, cells were fixed in 4% paraformaldehyde, permeabilized with 0.1% saponin in PBS containing 0.5% BSA and 5% FCS. Data were acquired using a FACSVerse flow cytometer (BD Biosciences) and analyzed with FlowJo v10.</p></sec><sec id="advs70990-sec-0220"><title>RNA Sequencing and Analysis</title><p>NK cells were isolated with CD56 magnetic microbeads (Miltenyi Biotec) from NK‐T co‐culture (Boosted) or NK cultured alone (NK). Isolated NK cells (1–2 × 10⁶ per condition) were collected by centrifugation at 300 g for 10 min. After removing the supernatant, the cell pellets were immediately frozen in liquid nitrogen and stored at −80 °C until use. RNA extraction was performed simultaneously for all samples using the NucleoSpin RNA Plus kit (Macherey–Nagel), following the manufacturer's protocol. RNA concentration was measured with a NanoDrop OneC Microvolume UV–vis Spectrophotometer (ThermoFisher Scientific), with samples having an A260/A280 ratio between 2.0 and 2.2 considered pure. RNA quality was further assessed by electrophoresis on a 1% agarose gel, where samples displaying distinct 28S and 18S rRNA bands were deemed intact. RNA sequencing was conducted by Novogene using Illumina platforms based on sequencing‐by‐synthesis (SBS) technology. Gene expression levels were quantified using Fragments Per Kilobase of exon model per Million mapped fragments, which accounts for sequencing depth and gene length in fragment counting.<sup>[</sup>
+<xref rid="advs70990-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+<sup>]</sup> Read counts obtained from gene expression analysis were utilized for differential expression analysis.</p><p>Differential gene expression between the two groups (Ctrl vs Boosted) was analyzed using the DESeq2 R package,<sup>[</sup>
+<xref rid="advs70990-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>
+<sup>]</sup> which applies a negative binomial distribution model to identify statistically significant differences in gene expression. <italic toggle="yes">P</italic>‐values were adjusted using the Benjamini–Hochberg method to control the false discovery rate, with adjusted <italic toggle="yes">p</italic>‐values (padj) &lt; 0.05 considered statistically significant for differentially expressed genes (DEGs). Functional annotation and enrichment analysis of DEGs, including Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis, were performed using the web‐based DAVID database.<sup>[</sup>
+<xref rid="advs70990-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>, <xref rid="advs70990-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+<sup>]</sup> For GO analysis, GO Fat categories were selected to obtain more specific functional terms.</p></sec><sec id="advs70990-sec-0230"><title>Synthetic Cell Preparation and Functionalization</title><p>Synthetic cells (droplet‐supported lipid bilayer, dsLB) were assembled following the strategy previously described.<sup>[</sup>
+<xref rid="advs70990-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>
+<sup>]</sup> Briefly, ≈100 mg of PDMS (Sylgard 184, Dow Corning, USA) was mixed with 760 µL of PBS containing 1 m<sc>m</sc> SDS (unless stated otherwise) and manually pre‐emulsified by resuspension. The resulting mixture was transferred to a sonication bath and sonicated for 2 min at RT to generate a dispersed oil‐in‐water (o/w) emulsion. To initiate dsLB formation, MgCl<sub>2</sub> was added to a final concentration of 40 m<sc>m</sc>, along with 200 µL of a 6 m<sc>m</sc> SUV solution, yielding a final lipid concentration of 600 µ<sc>m</sc>. Small unilamellar vesicles (SUVs) were composed of 20 mol% EggPG, 5 mol% PE‐MBP, 1 mol% LissRhodamine B‐PE, and 74 mol% EggPC (all from Avanti Polar Lipids, USA), prepared via extrusion as previously described.<sup>[</sup>
+<xref rid="advs70990-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>
+<sup>]</sup> The dsLB suspension was incubated at RT in the dark for 2 min before centrifugation at 10 000 × g for 30 s. The supernatant was discarded, and the dsLB pellet was resuspended in 1 mL of PBS with a pH adjusted to 7.0, followed by an additional centrifugation step under the same conditions. To remove remaining MgCl<sub>2</sub>‐SUV agglomerates and particles in a sub‐micrometer size range, the dsLBs were washed further via centrifugation at 500 × g for 1 min. The supernatant was discarded, and the particles resuspended in 1 mL of PBS (pH 7.0). This process was then repeated one more time, and the dsLBs were resuspended in 1 mL of PBS (pH 7.0) and stored at 4 °C in the dark until use.</p><p>For protein functionalization, human recombinant IL‐2 (Stemcell Technologies, USA) was added in three differing quantities to a volume of dsLB suspension (≈100 µL) corresponding to 3 × 10<sup>6</sup> particles: 30, 300, and 900 IU. The specific activity of the cytokine was approximated by the supplier as 1.8 × 10<sup>4</sup> IU µg<sup>−1</sup>. All conditions were generated in duplicates and incubated under agitation in the dark for 60 min to facilitate binding to the PE‐MBP. After incubation, dsLBs were washed via centrifugation at 10 000 × g for 30 s and resuspension in PBS (pH 7.0) equivalent to the initial volume of dsLB‐suspension. To ensure that the dsLB membrane was sufficiently saturated with the protein, it was added at a 1:1 molar ratio to the calculated accessible PE‐MBP concentration. The suspensions were incubated under agitation in the dark for 60 min and washed as described above. The functionalized dsLBs were stored at 4 °C in the dark until use. The same coating procedure was applied for human recombinant IL‐15 (Miltenyi Biotec). To boost NK cell function, NK cells were co‐cultured with synthetic cells at a 1:2 ratio for 24 h in U‐bottom plates.</p></sec><sec id="advs70990-sec-0240"><title>Preparation of Samples for Mass Cytometry (CyTOF)</title><p>Staining of the cells for mass cytometry analysis was performed on 1.5 × 10<sup>6</sup> fresh NK cells cultured alone and 3 × 10<sup>6</sup> NK cells co‐cultured with CD4<sup>+</sup> T cells in a ratio 1:2. To stain the proliferating cells, cells were resuspended in 5 mL of complete RPMI media containing 10% FBS and 1%Penicillin‐Streptomycin, then 50 µM of Cell‐ID 127 IdU (Fluidigm) was added to the cell suspension and incubated for 30 min at 37 °C in 5% CO<sub>2</sub>. Cells were washed with PBS (without Ca<sup>2+</sup>/Mg<sup>2+</sup>) followed by centrifugation at 500 × g at RT for 5 min. Cells were then stained with 5 µ<sc>m</sc> Cell‐ID cisplatin (Fluidigm) for 5 min at RT and afterward washed with PBS containing 10% FBS at 500 × g for 10 min. FC block (5 µL well<sup>−1</sup>) Human TruStain FcX (Biolegend) was added for 10 min at RT. For most markers, heavy‐metal labeled antibodies were commercially available and were purchased from Fluidigm. For the other markers (<sup>*</sup>) heavy‐metal labeling was performed using the Maxpar X8 Multimetal Labeling kit (Fluidigm) according to the manufacturer's instructions. Extracellular surface staining was performed in 96‐well plates by first adding a cocktail of pre‐conjugated and homemade‐conjugated antibodies (Table <xref rid="advs70990-supinfo-0001" ref-type="">S1</xref>, Supporting Information) for 30 min at RT. The excess of antibodies was removed by washing with PBS + 10% FBS. Subsequently, a secondary antibody cocktail (Table <xref rid="advs70990-supinfo-0001" ref-type="">S2</xref>, Supporting Information) was added and incubated for 30 min at RT, and remaining antibodies were removed by washing with PBS with 10% FBS. Cells were fixed and permeabilized using the Fixation/Permeabilization kit (eBioscience) according to the manufacturer's instructions. Intracellular staining was performed by adding a cocktail of pre‐conjugated antibodies (Table <xref rid="advs70990-supinfo-0001" ref-type="">S3</xref>, Supporting Information) for 30 min at RT, and excess antibodies were removed by washing with PBS with 10% FBS. Cells were stained with 50 n<sc>m</sc> cell‐ID Intercalator‐Ir (Fluidigm) in Maxpar Fix &amp; Perm buffer (Fluidigm) overnight according to the manufacturer's instructions. Prior to acquisition, fixed cells were washed twice with PBS and then twice with deionized water. Cells were resuspended at a density of 1.5 × 10<sup>6</sup> cells mL<sup>−1</sup> in deionized water including 10% calibration beads (EQ Four Element Calibration Beads, Fluidigm), and the samples were analyzed with the Helios mass cytometer (Fluidigm) at a flow rate of 0.030 mL min<sup>−1</sup>. After acquisition, fcs files were normalized (CyTOF software version 6.7, Normalization Passport EQ‐P13H2302_ver2) by using EQ four‐element calibration beads (Fluidigm, ref. 201 078) and randomized.</p></sec><sec id="advs70990-sec-0250"><title>Mass Cytometry Data Analysis</title><p>Using FlowJo software, samples were pre‐gated for cells, including proliferating and non‐proliferating (Idu ±) cells, singlets, and live cells. Respective. fcs files were exported, and then the CyTOF workflow based on the R/Bioconductor packages “flowCore” and “CATALYST” was used for advanced analysis. “diffcyt” was used for the differential analysis of abundance, and “ggplot2” was used for visualization.</p></sec><sec id="advs70990-sec-0260"><title>Statistical Analysis</title><p>Data were presented as mean ± SEM unless otherwise mentioned. Statistical analysis was performed using Excel (Microsoft) or GraphPad Prism 6 (GraphPad Software). Statistical comparisons were conducted as indicated in the figure legends: Mann–Whitney U‐test or paired <italic toggle="yes">t</italic>‐test for two‐group comparisons, one‐way ANOVA with Tukey's multiple comparisons for multiple‐group analyses, and two‐way ANOVA with multiple comparisons for curve analyses. For experiments with small sample sizes (n ≤ 4), ANOVA was conducted in an exploratory manner with a reasonable assumption of normality, as the data were generated from primary cells isolated from randomly selected healthy donors. Significance levels were indicated as follows: <sup>*</sup>
+<italic toggle="yes">p</italic> &lt; 0.05, <sup>**</sup>
+<italic toggle="yes">p</italic> &lt; 0.01, <sup>***</sup>
+<italic toggle="yes">p</italic> &lt; 0.001; ns, not significant.</p></sec><sec id="advs70990-sec-0270"><title>Ethical Approval</title><p>This research was approved by the local ethics committee (Approval No. 84/15; Prof. Dr. Rettig‐Stürmer). Leukocyte reduction system chambers, a by‐product of platelet collection from healthy blood donors, were obtained from the local blood bank at the Institute of Clinical Hemostaseology and Transfusion Medicine, Saarland University Medical Center. All donors provided written informed consent for the use of their blood for research purposes. The CD19‐CAR‐NK related study was approved by the Ethics Committee of the Goethe University (Approval No. 329/10).</p></sec></sec><sec sec-type="COI-statement" id="advs70990-sec-0290"><title>Conflict of Interest</title><p>E.U. has a sponsored reserach project with Gilead and BMS and acts as a medical advisor for Phialogics and CRIION.</p></sec><sec id="advs70990-sec-0300"><title>Author Contributions</title><p>X.Z. performed most of the experiments and the corresponding analysis and made most of the figures if not mentioned otherwise; S.Z. performed experiments for Figure <xref rid="advs70990-fig-0007" ref-type="fig">7</xref> and Figure <xref rid="advs70990-supinfo-0001" ref-type="">S9</xref> (Supporting Information), and helped making Figures <xref rid="advs70990-fig-0003" ref-type="fig">3i</xref> and <xref rid="advs70990-fig-0006" ref-type="fig">6d–f</xref>, Figure <xref rid="advs70990-supinfo-0001" ref-type="">S6c</xref> (Supporting Information), and the graphical abstract; W.Y. performed experiments for Figure <xref rid="advs70990-supinfo-0001" ref-type="">S3</xref> (Supporting Information); S.G. and A.L. performed CyTOF experiments and initial analysis; J.P. and E.M. designed CyTOF experiments and performed further analysis; E.M. provided Figure <xref rid="advs70990-fig-0002" ref-type="fig">2</xref>, Figures <xref rid="advs70990-supinfo-0001" ref-type="">S4</xref> and <xref rid="advs70990-supinfo-0001" ref-type="">S5</xref> (Supporting Information); Z.S. and H.R. analyzed NK migration trajectories and provided Figure <xref rid="advs70990-fig-0003" ref-type="fig">3c,d</xref>; N.P. and O.S. provided synthetic cells and Figure <xref rid="advs70990-supinfo-0001" ref-type="">6c</xref>; A.M. and E.U. provided cryopreserved CAR‐NK cells and Figure <xref rid="advs70990-supinfo-0001" ref-type="">S10</xref> (Supporting Information); S.S. helped with flow cytometry; N.K. and L.K. helped with expanding CAR‐NK cells; G.S. and E.C.S. provided TMD8‐pCasper cells; H.E. provided LRS‐chambers for PBMC preparation; M.H. helped with data interpretation and provided critical feedback on all aspects of the project; B.Q. generated concepts, designed experiments, and wrote the manuscript; All authors contributed to the writing, editing, and cross‐checking of the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs70990-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="advs70990-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-12-e05731-s007.pdf" position="float" orientation="portrait"><?suppdata-name ADVS-12-e05731-s007.pdf?><?suppdata-size 21317156?><?suppdata-md5 a4bba5b7bed32488e6445d9fd157b292?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:61a2/12622558/a4bba5b7bed3/ADVS-12-e05731-s007.pdf?></media></supplementary-material><supplementary-material id="advs70990-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplemental Movie 1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-12-e05731-s004.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"><?suppdata-name ADVS-12-e05731-s004.mp4?><?suppdata-size 4438938?><?suppdata-md5 17de7ef653f9b7c865b603de1c0d2d71?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type video?><?suppdata-mime-sub-type mp4?><?suppdata-cloudpmc-urn urn:app:61a2/12622558/17de7ef653f9/ADVS-12-e05731-s004.mp4?></media></supplementary-material><supplementary-material id="advs70990-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplemental Movie 2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-12-e05731-s001.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"><?suppdata-name ADVS-12-e05731-s001.mp4?><?suppdata-size 4565289?><?suppdata-md5 6ad2fa0cbe52e1cc5b53a03813ecc927?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type video?><?suppdata-mime-sub-type mp4?><?suppdata-cloudpmc-urn urn:app:61a2/12622558/6ad2fa0cbe52/ADVS-12-e05731-s001.mp4?></media></supplementary-material><supplementary-material id="advs70990-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplemental Movie 3</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-12-e05731-s006.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"><?suppdata-name ADVS-12-e05731-s006.mp4?><?suppdata-size 4181320?><?suppdata-md5 592a0231b9190064c416eb244798b08d?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type video?><?suppdata-mime-sub-type mp4?><?suppdata-cloudpmc-urn urn:app:61a2/12622558/592a0231b919/ADVS-12-e05731-s006.mp4?></media></supplementary-material><supplementary-material id="advs70990-supitem-0005" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplemental Movie 4</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-12-e05731-s002.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"><?suppdata-name ADVS-12-e05731-s002.mp4?><?suppdata-size 1259140?><?suppdata-md5 e14c9b621abb20843e2467b00caedfc0?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type video?><?suppdata-mime-sub-type mp4?><?suppdata-cloudpmc-urn urn:app:61a2/12622558/e14c9b621abb/ADVS-12-e05731-s002.mp4?></media></supplementary-material><supplementary-material id="advs70990-supitem-0006" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplemental Movie 5</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-12-e05731-s005.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"><?suppdata-name ADVS-12-e05731-s005.mp4?><?suppdata-size 3076605?><?suppdata-md5 a467dcefa03a3c62cd2eeee9f21c2489?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type video?><?suppdata-mime-sub-type mp4?><?suppdata-cloudpmc-urn urn:app:61a2/12622558/a467dcefa03a/ADVS-12-e05731-s005.mp4?></media></supplementary-material><supplementary-material id="advs70990-supitem-0007" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplemental Movie 6</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ADVS-12-e05731-s003.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"><?suppdata-name ADVS-12-e05731-s003.mp4?><?suppdata-size 1200083?><?suppdata-md5 7c3038599b35df7b9b5649747a9b1fc0?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type video?><?suppdata-mime-sub-type mp4?><?suppdata-cloudpmc-urn urn:app:61a2/12622558/7c3038599b35/ADVS-12-e05731-s003.mp4?></media></supplementary-material></sec></body><back><ack id="advs70990-sec-0280"><title>Acknowledgements</title><p>The authors thank Carmen Hässig, Kathleen Seelert, Cora Hoxha, and Kathrin Förderer for excellent technical help for cell culture, Renping Zhao for help in the multiplex cytokine assay, and Prof. Dr. Daniela Yildiz (Saarland University) for using the SH800S sorter (Sony, Core Facility molecular single‐cell and particle analysis). The authors also thank Prof. Dr. Jörn Stitz (TH Köln, University of Applied Sciences) for providing the plasmid IVTRup‐SB100x for in vitro transcription of SB100X‐mRNA for the use in the Sleeping Beauty transposon system. TMD8 cells were kindly provided by Lorenz Trümper, Göttingen. This project was funded by the Deutsche Forschungsgemeinschaft (DFG) for SFB 1027 (Project A2 to B.Q., Project A11 to M.H., Project A3 to H.R.), for the Emmy Noether program project 525255627 and project 545610076 to O.S., and for SFB/IRTG 1292 (Project‐ID 318 346 496 to E.U., A.M.), by the “Large Equipment Grants” program (GZ: INST 256/419‐1 FUGG for the lightsheet microscope, GZ: INST 256/423‐1 FUGG for the flow cytometer, GZ: INST 256/429‐1 FUGB for ImageXpress), by Leibniz‐Institute for New Materials supporting B.Q. as INM Fellow, by Dr. Rolf M. Schwiete Stiftung (project Nr. 2023–028 to M.H.), by Stiftung Deutsche Krebshilfe (German Cancer Aid; “CAR FACTORY” #70 115 200 to E.U.), by the FNRS‐Télévie to S.G. (7.4502.19, 7.6604.21), by the Luxembourg National Research Fund (FNR), Fondation Cancer and Plooschter Projet to A.L., E.M. and J.P. (C20/BM/14 582 635, C20/BM/14 592 342, C23/BM/17 987 391, and C24/BM/18 920 969).</p><p>Open access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="advs70990-sec-0320"><title>Data Availability Statement</title><p>The datasets generated and analyzed during the current study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs70990-bibl-0001"><ref id="advs70990-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs70990-cite-0001">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Vivier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Tomasello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Baratin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Walzer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ugolini</surname>
+</string-name>, <source>Nat. Immunol.</source>
+<year>2008</year>, <volume>9</volume>, <fpage>503</fpage>.<pub-id pub-id-type="pmid">18425107</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ni1582</pub-id></mixed-citation></ref><ref id="advs70990-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs70990-cite-0002">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Castriconi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Carrega</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dondero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Bellora</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Casu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Regis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Ferlazzo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Bottino</surname>
+</string-name>, <source>Front. Immunol.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>2324</fpage>.<pub-id pub-id-type="pmid">30364222</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2018.02324</pub-id><pub-id pub-id-type="pmcid">PMC6193061</pub-id></mixed-citation></ref><ref id="advs70990-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs70990-cite-0003">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Gh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Yq</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Dm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Jh</surname>
+</string-name>, <source>Signal Transduction Targeted Ther.</source>
+<year>2022</year>, <volume>7</volume>, <fpage>205</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41392-022-01058-z</pub-id><pub-id pub-id-type="pmcid">PMC9243142</pub-id><pub-id pub-id-type="pmid">35768424</pub-id></mixed-citation></ref><ref id="advs70990-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs70990-cite-0004">
+<string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Orange</surname>
+</string-name>, <source>Nature Rev. Immunol.</source>
+<year>2008</year>, <volume>8</volume>, <fpage>713</fpage>.<pub-id pub-id-type="pmid">19172692</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri2381</pub-id><pub-id pub-id-type="pmcid">PMC2772177</pub-id></mixed-citation></ref><ref id="advs70990-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs70990-cite-0005">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Medlyn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. D.</given-names>
+<surname>Billadeau</surname>
+</string-name>, <source>Front. Immunol.</source>
+<year>2022</year>, <volume>13</volume>, <elocation-id>871106</elocation-id>.<pub-id pub-id-type="pmid">35558071</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2022.871106</pub-id><pub-id pub-id-type="pmcid">PMC9088006</pub-id></mixed-citation></ref><ref id="advs70990-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs70990-cite-0006">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Krzewski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Coligan</surname>
+</string-name>, <source>Front. Immunol.</source>
+<year>2012</year>, <volume>3</volume>, <fpage>335</fpage>.<pub-id pub-id-type="pmid">23162553</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2012.00335</pub-id><pub-id pub-id-type="pmcid">PMC3494098</pub-id></mixed-citation></ref><ref id="advs70990-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs70990-cite-0007">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Prager</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Watzl</surname>
+</string-name>, <source>J. Leukocyte Biol.</source>
+<year>2019</year>, <volume>105</volume>, <fpage>1319</fpage>.<pub-id pub-id-type="pmid">31107565</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/JLB.MR0718-269R</pub-id></mixed-citation></ref><ref id="advs70990-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs70990-cite-0008">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Voskoboinik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Whisstock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Trapani</surname>
+</string-name>, <source>Nature Rev. Immunol.</source>
+<year>2015</year>, <volume>15</volume>, <fpage>388</fpage>.<pub-id pub-id-type="pmid">25998963</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri3839</pub-id></mixed-citation></ref><ref id="advs70990-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs70990-cite-0009">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Paul</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Lal</surname>
+</string-name>, <source>Front. Immunol.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>1124</fpage>.<pub-id pub-id-type="pmid">28955340</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2017.01124</pub-id><pub-id pub-id-type="pmcid">PMC5601256</pub-id></mixed-citation></ref><ref id="advs70990-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs70990-cite-0010">
+<string-name name-style="western">
+<given-names>D. H.</given-names>
+<surname>Raulet</surname>
+</string-name>, <source>Semin. Immunol.</source>
+<year>2006</year>, <volume>18</volume>, <fpage>145</fpage>.<pub-id pub-id-type="pmid">16740393</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.smim.2006.03.003</pub-id></mixed-citation></ref><ref id="advs70990-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs70990-cite-0011">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lo Nigro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Macagno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Sangiolo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Bertolaccini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Aglietta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Merlano</surname>
+</string-name>, <source>Ann. Transl. Med.</source>
+<year>2019</year>, <volume>7</volume>, <fpage>105</fpage>.<pub-id pub-id-type="pmid">31019955</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.21037/atm.2019.01.42</pub-id><pub-id pub-id-type="pmcid">PMC6462666</pub-id></mixed-citation></ref><ref id="advs70990-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs70990-cite-0012">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Pinto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pahl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Schottelius</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Carter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Koch</surname>
+</string-name>, <source>Trends Immunol.</source>
+<year>2022</year>, <volume>43</volume>, <fpage>932</fpage>.<pub-id pub-id-type="pmid">36306739</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.it.2022.09.007</pub-id></mixed-citation></ref><ref id="advs70990-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs70990-cite-0013">
+<string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Laskowski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Biederstädt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Rezvani</surname>
+</string-name>, <source>Nature Rev. Cancer</source>
+<year>2022</year>, <volume>22</volume>, <fpage>557</fpage>.<pub-id pub-id-type="pmid">35879429</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41568-022-00491-0</pub-id><pub-id pub-id-type="pmcid">PMC9309992</pub-id></mixed-citation></ref><ref id="advs70990-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs70990-cite-0014">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Chuvin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Valladeau‐Guilemond</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Depil</surname>
+</string-name>, <source>Cell Mol. Immunol.</source>
+<year>2024</year>, <volume>21</volume>, <fpage>315</fpage>.<pub-id pub-id-type="pmid">38443448</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41423-024-01145-x</pub-id><pub-id pub-id-type="pmcid">PMC10978891</pub-id></mixed-citation></ref><ref id="advs70990-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs70990-cite-0015">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Rezvani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rouce</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Shpall</surname>
+</string-name>, <source>Mol. Ther.</source>
+<year>2017</year>, <volume>25</volume>, <fpage>1769</fpage>.<pub-id pub-id-type="pmid">28668320</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ymthe.2017.06.012</pub-id><pub-id pub-id-type="pmcid">PMC5542803</pub-id></mixed-citation></ref><ref id="advs70990-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs70990-cite-0016">
+<string-name name-style="western">
+<given-names>E. L.</given-names>
+<surname>Heipertz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. R.</given-names>
+<surname>Zynda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. E.</given-names>
+<surname>Stav‐Noraas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Hungler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Boucher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kaur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Vemuri</surname>
+</string-name>, <source>Front. Immunol.</source>
+<year>2021</year>, <volume>12</volume>, <elocation-id>732135</elocation-id>.<pub-id pub-id-type="pmid">34925314</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2021.732135</pub-id><pub-id pub-id-type="pmcid">PMC8671166</pub-id></mixed-citation></ref><ref id="advs70990-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs70990-cite-0017">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Matosevic</surname>
+</string-name>, <source>BioDrugs</source>
+<year>2021</year>, <volume>35</volume>, <fpage>529</fpage>.<pub-id pub-id-type="pmid">34427899</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40259-021-00494-7</pub-id><pub-id pub-id-type="pmcid">PMC12376086</pub-id></mixed-citation></ref><ref id="advs70990-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs70990-cite-0018">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mark</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Czerwinski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Roessner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mainka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Hörsch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Heublein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Winterl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sanokowski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Richter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Bauer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. E.</given-names>
+<surname>Angelini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Schuler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Fabry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Voskens</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>5224</fpage>.<pub-id pub-id-type="pmid">33067467</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-020-19094-0</pub-id><pub-id pub-id-type="pmcid">PMC7568558</pub-id></mixed-citation></ref><ref id="advs70990-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs70990-cite-0019">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Becknell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Caligiuri</surname>
+</string-name>, <source>Adv. Immunol.</source>
+<year>2005</year>, <volume>86</volume>, <fpage>209</fpage>.<pub-id pub-id-type="pmid">15705423</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0065-2776(04)86006-1</pub-id></mixed-citation></ref><ref id="advs70990-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs70990-cite-0020">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Brehm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Huenecke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Quaiser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Esser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bremm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kloess</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Soerensen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kreyenberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Seidl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. S. A.</given-names>
+<surname>Becker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Mühl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Klingebiel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bader</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Passweg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Schwabe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Koehl</surname>
+</string-name>, <source>PLoS One</source>
+<year>2011</year>, <volume>6</volume>, <elocation-id>27351</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0027351</pub-id><pub-id pub-id-type="pmcid">PMC3212563</pub-id><pub-id pub-id-type="pmid">22096557</pub-id></mixed-citation></ref><ref id="advs70990-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs70990-cite-0021">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kummerow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. C.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bufe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Zufall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hoth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Qu</surname>
+</string-name>, <source>Eur. J. Immunol.</source>
+<year>2014</year>, <volume>44</volume>, <fpage>1870</fpage>.<pub-id pub-id-type="pmid">24599783</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/eji.201444518</pub-id></mixed-citation></ref><ref id="advs70990-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs70990-cite-0022">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mangeat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. C.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hamed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Bogeski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Helms</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Rieger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Qu</surname>
+</string-name>, <source>Sci. Rep.</source>
+<year>2017</year>, <volume>7</volume>, <elocation-id>44357</elocation-id>.<pub-id pub-id-type="pmid">28287155</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep44357</pub-id><pub-id pub-id-type="pmcid">PMC5347013</pub-id></mixed-citation></ref><ref id="advs70990-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs70990-cite-0023">
+<string-name name-style="western">
+<given-names>C. S.</given-names>
+<surname>Backes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. S.</given-names>
+<surname>Friedmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Knörck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hoth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kummerow</surname>
+</string-name>, <source>J. Biol. Chem.</source>
+<year>2018</year>, <volume>293</volume>, <elocation-id>16348</elocation-id>.<pub-id pub-id-type="pmid">30190323</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.RA118.004549</pub-id><pub-id pub-id-type="pmcid">PMC6200954</pub-id></mixed-citation></ref><ref id="advs70990-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs70990-cite-0024">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Totsukawa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yamakita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yamashiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Hartshorne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sasaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Matsumura</surname>
+</string-name>, <source>J. Cell Biol.</source>
+<year>2000</year>, <volume>150</volume>, <fpage>797</fpage>.<pub-id pub-id-type="pmid">10953004</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1083/jcb.150.4.797</pub-id><pub-id pub-id-type="pmcid">PMC2175273</pub-id></mixed-citation></ref><ref id="advs70990-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs70990-cite-0025">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Yanamandra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Qu</surname>
+</string-name>, <source>Eur. J. Immunol.</source>
+<year>2023</year>, <volume>53</volume>, <elocation-id>2350505</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/eji.202350505</pub-id><pub-id pub-id-type="pmid">37501396</pub-id></mixed-citation></ref><ref id="advs70990-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs70990-cite-0026">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Myers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Miller</surname>
+</string-name>, <source>Nature Rev. Clin. Oncol.</source>
+<year>2021</year>, <volume>85</volume>, <fpage>18</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41571-020-0426-7</pub-id><pub-id pub-id-type="pmcid">PMC8316981</pub-id><pub-id pub-id-type="pmid">32934330</pub-id></mixed-citation></ref><ref id="advs70990-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs70990-cite-0027">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Parker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Cahalan</surname>
+</string-name>, <source>Science (NY)</source>
+<year>2002</year>, <volume>296</volume>, <fpage>1869</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1070051</pub-id><pub-id pub-id-type="pmid">12016203</pub-id></mixed-citation></ref><ref id="advs70990-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs70990-cite-0028">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Stoll</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Delon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Brotz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. N.</given-names>
+<surname>Germain</surname>
+</string-name>, <source>Science (NY)</source>
+<year>2002</year>, <volume>296</volume>, <fpage>1873</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1071065</pub-id><pub-id pub-id-type="pmid">12052961</pub-id></mixed-citation></ref><ref id="advs70990-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs70990-cite-0029">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Caligiuri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yu</surname>
+</string-name>, <source>Trends Immunol.</source>
+<year>2022</year>, <volume>43</volume>, <fpage>833</fpage>.<pub-id pub-id-type="pmid">36058806</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.it.2022.08.004</pub-id><pub-id pub-id-type="pmcid">PMC9612852</pub-id></mixed-citation></ref><ref id="advs70990-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs70990-cite-0030">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Husman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Cen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tsao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bajpai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, <source>Int. J. Mol. Sci.</source>
+<year>2022</year>, <volume>23</volume>, <fpage>7311</fpage>.<pub-id pub-id-type="pmid">35806311</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms23137311</pub-id><pub-id pub-id-type="pmcid">PMC9266896</pub-id></mixed-citation></ref><ref id="advs70990-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs70990-cite-0031">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Hooijmaijers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vidal‐Manrique</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Spils</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>van Ens</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. C.</given-names>
+<surname>Rodriguez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Hobo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>de Goede</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>van Dorp</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Jansen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>van der Waart</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. K. J. D.</given-names>
+<surname>de Jonge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Dolstra</surname>
+</string-name>, <source>Cell. Mol. Life Sci.</source>
+<year>2025</year>, <volume>82</volume>, <fpage>210</fpage>.<pub-id pub-id-type="pmid">40415098</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00018-025-05727-4</pub-id><pub-id pub-id-type="pmcid">PMC12104124</pub-id></mixed-citation></ref><ref id="advs70990-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs70990-cite-0032">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. H.</given-names>
+<surname>McKenna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hubel</surname>
+</string-name>, <source>Cytotherapy</source>
+<year>2019</year>, <volume>21</volume>, <fpage>943</fpage>.<pub-id pub-id-type="pmid">31416704</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcyt.2019.07.004</pub-id><pub-id pub-id-type="pmcid">PMC6746578</pub-id></mixed-citation></ref><ref id="advs70990-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs70990-cite-0033">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Qi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Sui</surname>
+</string-name>, <source>Adv. Biol.</source>
+<year>2024</year>, <volume>8</volume>, <elocation-id>2400201</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/adbi.202400201</pub-id><pub-id pub-id-type="pmid">39113431</pub-id></mixed-citation></ref><ref id="advs70990-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs70990-cite-0034">
+<string-name name-style="western">
+<given-names>J. N.</given-names>
+<surname>Saultz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Otegbeye</surname>
+</string-name>, <source>Front. Immunol.</source>
+<year>2023</year>, <volume>14</volume>, <elocation-id>1304689</elocation-id>.<pub-id pub-id-type="pmid">38193082</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2023.1304689</pub-id><pub-id pub-id-type="pmcid">PMC10773738</pub-id></mixed-citation></ref><ref id="advs70990-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs70990-cite-0035">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Strengell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Matikainen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sirén</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lehtonen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Foster</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Julkunen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Sareneva</surname>
+</string-name>, <source>J. Immunol.</source>
+<year>2003</year>, <volume>170</volume>, <fpage>5464</fpage>.<pub-id pub-id-type="pmid">12759422</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.170.11.5464</pub-id></mixed-citation></ref><ref id="advs70990-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs70990-cite-0036">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Widowati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. K.</given-names>
+<surname>Jasaputra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Sumitro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Widodo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Mozef</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rizal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. S. W.</given-names>
+<surname>Kusuma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Laksmitawati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Murti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Bachtiar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Faried</surname>
+</string-name>, <source>Afr. Health Sci.</source>
+<year>2020</year>, <volume>20</volume>, <fpage>822</fpage>.<pub-id pub-id-type="pmid">33163049</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4314/ahs.v20i2.36</pub-id><pub-id pub-id-type="pmcid">PMC7609126</pub-id></mixed-citation></ref><ref id="advs70990-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs70990-cite-0037">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Ihim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Abubakar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Zian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Sasaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Saffarioun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Maleknia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Azizi</surname>
+</string-name>, <source>Front. Immunol.</source>
+<year>2022</year>, <volume>13</volume>, <elocation-id>919973</elocation-id>.<pub-id pub-id-type="pmid">36032110</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2022.919973</pub-id><pub-id pub-id-type="pmcid">PMC9410767</pub-id></mixed-citation></ref><ref id="advs70990-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs70990-cite-0038">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Saeed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Revell</surname>
+</string-name>, <source>Int. J. Exp. Pathol.</source>
+<year>2001</year>, <volume>82</volume>, <fpage>201</fpage>.<pub-id pub-id-type="pmid">11488993</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1365-2613.2001.iep0082-0201-x</pub-id><pub-id pub-id-type="pmcid">PMC2517707</pub-id></mixed-citation></ref><ref id="advs70990-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs70990-cite-0039">
+<string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Leong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Chase</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Romee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Sullivan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Cooper</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. A.</given-names>
+<surname>Fehniger</surname>
+</string-name>, <source>Biol. Blood Marrow Transplant.</source>
+<year>2014</year>, <volume>20</volume>, <fpage>463</fpage>.<pub-id pub-id-type="pmid">24434782</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbmt.2014.01.006</pub-id><pub-id pub-id-type="pmcid">PMC3959288</pub-id></mixed-citation></ref><ref id="advs70990-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs70990-cite-0040">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Bihl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pecheur</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bréart</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Poupon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cazareth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Julia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Glaichenhaus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. M.</given-names>
+<surname>Braud</surname>
+</string-name>, <source>J. Immunol.</source>
+<year>2010</year>, <volume>185</volume>, <fpage>2174</fpage>.<pub-id pub-id-type="pmid">20624944</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/jimmunol.1001486</pub-id></mixed-citation></ref><ref id="advs70990-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs70990-cite-0041">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Arora</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ayyappan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. J.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. D.</given-names>
+<surname>Lemke‐Miltner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Farooq</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Weiner</surname>
+</string-name>, <source>Blood</source>
+<year>2024</year>, <volume>143</volume>, <fpage>1816</fpage>.<pub-id pub-id-type="pmid">38457360</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2023023370</pub-id><pub-id pub-id-type="pmcid">PMC11076912</pub-id></mixed-citation></ref><ref id="advs70990-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs70990-cite-0042">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Jost</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Tomezsko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Rands</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Toth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Lichterfeld</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. T.</given-names>
+<surname>Gandhi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Altfeld</surname>
+</string-name>, <source>J. Virol.</source>
+<year>2014</year>, <volume>88</volume>, <fpage>8349</fpage>.<pub-id pub-id-type="pmid">24829350</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/JVI.00924-14</pub-id><pub-id pub-id-type="pmcid">PMC4135926</pub-id></mixed-citation></ref><ref id="advs70990-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs70990-cite-0043">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Chimenti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Strouse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Weiner</surname>
+</string-name>, <source>Cancer Immunol., Immunother.</source>
+<year>2022</year>, <volume>71</volume>, <fpage>237</fpage>.<pub-id pub-id-type="pmid">34110453</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00262-021-02976-7</pub-id><pub-id pub-id-type="pmcid">PMC8783893</pub-id></mixed-citation></ref><ref id="advs70990-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs70990-cite-0044">
+<string-name name-style="western">
+<given-names>D. C.</given-names>
+<surname>Fajgenbaum</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>June</surname>
+</string-name>, <source>N. Engl. J. Med.</source>
+<year>2020</year>, <volume>383</volume>, <fpage>2255</fpage>.<pub-id pub-id-type="pmid">33264547</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMra2026131</pub-id><pub-id pub-id-type="pmcid">PMC7727315</pub-id></mixed-citation></ref><ref id="advs70990-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs70990-cite-0045">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Baluna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. S.</given-names>
+<surname>Vitetta</surname>
+</string-name>, <source>Immunopharmacology</source>
+<year>1997</year>, <volume>37</volume>, <fpage>117</fpage>.<pub-id pub-id-type="pmid">9403331</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0162-3109(97)00041-6</pub-id></mixed-citation></ref><ref id="advs70990-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs70990-cite-0046">
+<string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Raeber</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Sahin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Karakus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Boyman</surname>
+</string-name>, <source>EBioMedicine</source>
+<year>2023</year>, <volume>90</volume>, <elocation-id>104539</elocation-id>.<pub-id pub-id-type="pmid">37004361</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ebiom.2023.104539</pub-id><pub-id pub-id-type="pmcid">PMC10111960</pub-id></mixed-citation></ref><ref id="advs70990-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs70990-cite-0047">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Tschorn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>van Heuvel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Stitz</surname>
+</string-name>, <source>Mol. Biotechnol.</source>
+<year>2023</year>, <volume>65</volume>, <fpage>1327</fpage>.<pub-id pub-id-type="pmid">36547824</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12033-022-00642-6</pub-id><pub-id pub-id-type="pmcid">PMC10352156</pub-id></mixed-citation></ref><ref id="advs70990-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs70990-cite-0048">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>van Heuvel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Schatz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Dogra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Kazenmaier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Tschorn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Genzel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Stitz</surname>
+</string-name>, <source>Front. Bioeng. Biotechnol.</source>
+<year>2023</year>, <volume>11</volume>, <elocation-id>1076524</elocation-id>.<pub-id pub-id-type="pmid">37082212</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fbioe.2023.1076524</pub-id><pub-id pub-id-type="pmcid">PMC10112512</pub-id></mixed-citation></ref><ref id="advs70990-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs70990-cite-0049">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Bexte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Botezatu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Miskey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Gierschek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Moter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Wendel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Reindl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Campe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Villena‐Ossa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Gebel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Stein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Cathomen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Cremer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. S.</given-names>
+<surname>Wels</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hudecek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Ivics</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ullrich</surname>
+</string-name>, <source>Mol. Ther.</source>
+<year>2024</year>, <volume>32</volume>, <fpage>2357</fpage>.<pub-id pub-id-type="pmid">38751112</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ymthe.2024.05.022</pub-id><pub-id pub-id-type="pmcid">PMC11287004</pub-id></mixed-citation></ref><ref id="advs70990-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs70990-cite-0050">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Moter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Scharf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Schäfer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Bexte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Wendel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Donnadieu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.‐L.</given-names>
+<surname>Hansmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hartmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ullrich</surname>
+</string-name>, <source>J. Cell. Mol. Med.</source>
+<year>2025</year>, <volume>29</volume>, <elocation-id>70481</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcmm.70481</pub-id><pub-id pub-id-type="pmcid">PMC11955413</pub-id><pub-id pub-id-type="pmid">40159644</pub-id></mixed-citation></ref><ref id="advs70990-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs70990-cite-0051">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Schoppmeyer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hoth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Qu</surname>
+</string-name>, <source>J. Visualized Exp.</source>
+<year>2018</year>, <volume>13</volume>, <elocation-id>57651</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3791/57651</pub-id><pub-id pub-id-type="pmcid">PMC6101706</pub-id><pub-id pub-id-type="pmid">29985362</pub-id></mixed-citation></ref><ref id="advs70990-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs70990-cite-0052">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mortazavi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. A.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>McCue</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Schaeffer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wold</surname>
+</string-name>, <source>Nat. Methods</source>
+<year>2008</year>, <volume>5</volume>, <fpage>621</fpage>.<pub-id pub-id-type="pmid">18516045</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nmeth.1226</pub-id><pub-id pub-id-type="pmcid">PMC13303166</pub-id></mixed-citation></ref><ref id="advs70990-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="advs70990-cite-0053">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Anders</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Huber</surname>
+</string-name>, <source>Genome Biol.</source>
+<year>2010</year>, <volume>11</volume>, <fpage>R106</fpage>.<pub-id pub-id-type="pmid">20979621</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/gb-2010-11-10-r106</pub-id><pub-id pub-id-type="pmcid">PMC3218662</pub-id></mixed-citation></ref><ref id="advs70990-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="advs70990-cite-0054">
+<string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. T.</given-names>
+<surname>Sherman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Lempicki</surname>
+</string-name>, <source>Nat. Protoc.</source>
+<year>2009</year>, <volume>4</volume>, <fpage>44</fpage>.<pub-id pub-id-type="pmid">19131956</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nprot.2008.211</pub-id></mixed-citation></ref><ref id="advs70990-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="advs70990-cite-0055">
+<string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. T.</given-names>
+<surname>Sherman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Lempicki</surname>
+</string-name>, <source>Nucleic Acids Res.</source>
+<year>2009</year>, <volume>37</volume>, <fpage>1</fpage>.<pub-id pub-id-type="pmid">19033363</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkn923</pub-id><pub-id pub-id-type="pmcid">PMC2615629</pub-id></mixed-citation></ref><ref id="advs70990-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="advs70990-cite-0056">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Burgstaller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Piernitzki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Küchler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Koch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kister</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Eichler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kraus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. C.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Dustin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Lautenschläger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Staufer</surname>
+</string-name>, <source>Small</source>
+<year>2024</year>, <volume>20</volume>, <elocation-id>2401844</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/smll.202401844</pub-id><pub-id pub-id-type="pmid">38751204</pub-id></mixed-citation></ref><ref id="advs70990-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="advs70990-cite-0057">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Knörck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Marx</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. S.</given-names>
+<surname>Friedmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zöphel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lieblang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Hässig</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Müller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pilch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Sester</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hoth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Eichler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sester</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. C.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <source>Transfusion</source>
+<year>2018</year>, <volume>58</volume>, <fpage>1516</fpage>.<pub-id pub-id-type="pmid">29732580</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/trf.14616</pub-id></mixed-citation></ref></ref-list></back></article>
