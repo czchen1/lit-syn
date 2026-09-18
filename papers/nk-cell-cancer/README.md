@@ -26,6 +26,8 @@ translational 28. Open-access full-text XML mirrored for 153 records.
   - `05_potency_and_release.md` — why standard release testing misses potency, and what to measure
   - `06_clinical_evidence_and_open_questions.md` — trial anchors, unresolved questions, what would change the
     argument
+  - `07_case_snk01_vs_mcenk.md` — two autologous products (NKGen SNK01, ImmunityBio M-ceNK) read protocol by
+    protocol: culture method, target phenotype markers, release testing, and the opposite bets they make
 - `REPORT.md` — auto-generated paper listing grouped by axis (`✓FT` = local full text). Never hand-edit.
 - `nk_cell_cancer_review.pdf` — notes + report rendered as a single review document.
 - `fulltext/` — mirrored open-access full-text XML (Europe PMC).
