@@ -28,6 +28,8 @@ translational 28. Open-access full-text XML mirrored for 153 records.
     argument
   - `07_case_snk01_vs_mcenk.md` — two autologous products (NKGen SNK01, ImmunityBio M-ceNK) read protocol by
     protocol: culture method, target phenotype markers, release testing, and the opposite bets they make
+  - `08_mcenk_process_evolution.md` — M-ceNK generation by generation (2012 CIML → 2019 feeder-free MNC →
+    2021 M-CENK claims → 2026 process engineering), the rationale for each substitution and what it costs
 - `REPORT.md` — auto-generated paper listing grouped by axis (`✓FT` = local full text). Never hand-edit.
 - `nk_cell_cancer_review.pdf` — notes + report rendered as a single review document.
 - `fulltext/` — mirrored open-access full-text XML (Europe PMC).
