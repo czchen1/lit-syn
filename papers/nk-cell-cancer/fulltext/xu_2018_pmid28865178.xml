@@ -1,0 +1,1372 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Oncol</journal-id><journal-id journal-id-type="iso-abbrev">Mol Oncol</journal-id><journal-id journal-id-type="pmc-domain-id">3199</journal-id><journal-id journal-id-type="pmc-domain">moloncol</journal-id><journal-id journal-id-type="nlm-id">101308230</journal-id><journal-id journal-id-type="publisher-id">MOL2</journal-id><journal-title-group><journal-title>Molecular Oncology</journal-title></journal-title-group><issn pub-type="ppub">1574-7891</issn><issn pub-type="epub">1878-0261</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5830627</article-id><article-id pub-id-type="pmcid-ver">PMC5830627.1</article-id><article-id pub-id-type="pmcaid">5830627</article-id><article-id pub-id-type="pmcaiid">5830627</article-id><article-id pub-id-type="pmid">28865178</article-id><article-id pub-id-type="doi">10.1002/1878-0261.12135</article-id><article-id pub-id-type="publisher-id">MOL212135</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Inhibition of IL‐6‐JAK/Stat3 signaling in castration‐resistant prostate cancer cells enhances the NK cell‐mediated cytotoxicity via alteration of PD‐L1/NKG2D ligand levels</article-title><alt-title alt-title-type="left-running-head">L. Xu <italic toggle="yes">et al</italic>.</alt-title></title-group><contrib-group><contrib id="mol212135-cr-0001" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="L">LiJun</given-names></name><xref ref-type="aff" rid="mol212135-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mol212135-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="mol212135-note-1001">
+<sup>†</sup>
+</xref></contrib><contrib id="mol212135-cr-0002" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="X">XiaoDong</given-names></name><xref ref-type="aff" rid="mol212135-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mol212135-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="author-notes" rid="mol212135-note-1001">
+<sup>†</sup>
+</xref></contrib><contrib id="mol212135-cr-0003" contrib-type="author"><name name-style="western"><surname>Shen</surname><given-names initials="M">MingJing</given-names></name><xref ref-type="aff" rid="mol212135-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mol212135-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mol212135-cr-0004" contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="DR">Dong‐Rong</given-names></name><xref ref-type="aff" rid="mol212135-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mol212135-cr-0005" contrib-type="author"><name name-style="western"><surname>Fang</surname><given-names initials="L">Laifu</given-names></name><xref ref-type="aff" rid="mol212135-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="mol212135-cr-0006" contrib-type="author"><name name-style="western"><surname>Weng</surname><given-names initials="G">Guobin</given-names></name><xref ref-type="aff" rid="mol212135-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="mol212135-cr-0007" contrib-type="author"><name name-style="western"><surname>Tsai</surname><given-names initials="Y">Ying</given-names></name><xref ref-type="aff" rid="mol212135-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mol212135-cr-0008" contrib-type="author"><name name-style="western"><surname>Keng</surname><given-names initials="PC">Peter C.</given-names></name><xref ref-type="aff" rid="mol212135-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mol212135-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Chen</surname><given-names initials="Y">Yuhchyau</given-names></name><address><email>Yuhchyau_Chen@urmc.rochester.edu</email></address><xref ref-type="aff" rid="mol212135-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mol212135-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lee</surname><given-names initials="SO">Soo Ok</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-9500-575X</contrib-id><address><email>Soook_Lee@urmc.rochester.edu</email></address><xref ref-type="aff" rid="mol212135-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="mol212135-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Radiation Oncology</named-content>
+<named-content content-type="organisation-division">School of Medicine and Dentistry</named-content>
+<institution>University of Rochester</institution>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="mol212135-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Urology</named-content>
+<institution>The Second Affiliated Hospital</institution>
+<institution>Soochow University</institution>
+<named-content content-type="city">Suzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="mol212135-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Urology</named-content>
+<institution>Ningbo Urology and Nephrology Hospital</institution>
+<country country="CN">China</country>
+</aff><aff id="mol212135-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>Ningbo Yin Zhou Hospital</institution>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Y. Chen and S. O. Lee, Department of Radiation Oncology, School of Medicine and Dentistry, University of Rochester, 601 Elmwood Ave., Box 647, Rochester, NY 14642, USA<break/>
+Fax: +1 585 273 3322<break/>
+Tel: +1 585 275 5575<break/>
+E‐mails: <email>Yuhchyau_Chen@urmc.rochester.edu</email> (YC) and <email>Soook_Lee@urmc.rochester.edu</email> (SOL)<break/></corresp><fn fn-type="equal" id="mol212135-note-1001"><label>†</label><p>These authors contributed equally</p></fn></author-notes><pub-date pub-type="epub"><day>24</day><month>1</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2018</year></pub-date><volume>12</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">307471</issue-id><issue-id pub-id-type="doi">10.1002/mol2.2018.12.issue-3</issue-id><fpage>269</fpage><lpage>286</lpage><history><date date-type="received"><day>14</day><month>4</month><year>2017</year></date><date date-type="rev-recd"><day>04</day><month>8</month><year>2017</year></date><date date-type="accepted"><day>19</day><month>8</month><year>2017</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>03</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>05</day><month>03</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-08-13 17:25:10.873"><day>13</day><month>08</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2017 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="MOL2-12-269.pdf"><?pdf-name MOL2-12-269.pdf?><?pdf-size 1572993?><?pdf-md5 7482a03a4eed1d2c4f63ccf3bd3dddf0?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:e803/5830627/7482a03a4eed/MOL2-12-269.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:MOL2-12-269.pdf"/><abstract id="mol212135-abs-0001"><p>To investigate whether IL‐6 signaling affects the susceptibility of castration‐resistant prostate cancer (CRPC) cells to cytotoxic action of natural killer (NK) cells, CRPC cell lines (having different IL‐6 levels) were developed by lentiviral transduction. While observing no secreted IL‐6 level in parental C4‐2 and CWR22Rv1 cells, we found the IL‐6 expression/secretion in these cells was induced after the transduction process and the IL‐6 level difference in C4‐2siIL‐6/sc and CWR22siIL‐6/sc cell CRPC cell sets could be detected. We then found that IL‐6‐knockdown cells were more susceptible to NK cell cytotoxicity than control cells due to lowered programmed death receptor ligand 1 (PD‐L1) and increased NK group 2D (NKG2D) ligand levels. In animal studies, to concur with the <italic toggle="yes">in vitro</italic> results, we found that IL‐6‐expressing cell‐derived tumors were more resistant to NK cell action than the tumors of IL‐6‐knockdown cells. Further, we discovered that JAK‐Stat3 is the most critical IL‐6 downstream signaling that modulates PD‐L1/NKG2D ligand levels in CRPC cells. Furthermore, inhibition of the JAK or Stat3 signaling effectively increased the susceptibility of C4‐2sc and CWRsc cells to NK cell cytotoxicity. We observed the most effective cytotoxicity when the PD‐L1 Ab and JAK inhibitor (or Stat 3 inhibitor) were used together. These results suggest that the strategy of targeting IL‐6 signaling (or its downstream signaling) may enhance the NK cell‐mediated immune action to CRPC tumors, thus yielding clinical implications in developing future immunotherapeutics of exploiting this strategy to treat patients with CRPC.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mol212135-kwd-0001">castration‐resistant prostate cancer</kwd><kwd id="mol212135-kwd-0002">IL‐6</kwd><kwd id="mol212135-kwd-0003">JAK</kwd><kwd id="mol212135-kwd-0004">NK cell cytotoxicity</kwd><kwd id="mol212135-kwd-0005">NKG2D</kwd><kwd id="mol212135-kwd-0006">programmed death receptor ligand 1</kwd><kwd id="mol212135-kwd-0007">Stat3</kwd></kwd-group><funding-group><award-group><funding-source>Richard T. Bell Endowed Professorship</funding-source></award-group><award-group><funding-source>NIH</funding-source><award-id>S10 RR026542</award-id><award-id>P30 AR069655</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="18"/><word-count count="9476"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>mol212135</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.2.2 mode:remove_FC converted:01.03.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><def-list list-content="abbreviations" id="mol212135-dl-0001"><title>Abbreviations</title><def-item><term>C4‐2sc</term><def><p>C4‐2 scramble control</p></def></def-item><def-item><term>C4‐2siIL‐6</term><def><p>C4‐2 IL‐6‐knockdown</p></def></def-item><def-item><term>CRPC</term><def><p>castration‐resistant prostate cancer</p></def></def-item><def-item><term>CWRsc</term><def><p>CWR22Rv1 scramble control</p></def></def-item><def-item><term>CWRsiIL‐6</term><def><p>CWR22Rv1 IL‐6‐knockdown</p></def></def-item><def-item><term>IVIS</term><def><p>
+<italic toggle="yes">in vitro</italic> imaging system</p></def></def-item><def-item><term>LDH</term><def><p>lactate dehydrogenase</p></def></def-item><def-item><term>MICA</term><def><p>major histocompatibility complex class 1 chain molecule A</p></def></def-item><def-item><term>NKG2D</term><def><p>NK group 2D</p></def></def-item><def-item><term>NK</term><def><p>natural killer</p></def></def-item><def-item><term>PD‐1</term><def><p>programmed death receptor‐1</p></def></def-item><def-item><term>PD‐L1</term><def><p>programmed death receptor ligand 1</p></def></def-item><def-item><term>ULBP</term><def><p>UL16 binding protein</p></def></def-item></def-list><sec id="mol212135-sec-0001"><label>1</label><title>Introduction</title><p>Prostate cancer (PCa) is the most commonly diagnosed malignant tumor in men. It often responds to androgen deprivation therapy initially, but progresses from androgen‐dependent PCa to castration‐resistant prostate cancer (CRPC). Although several chemotherapeutic agents have been developed in the treatment for metastatic CRPC (mCRPC), mCRPC mostly remains lethal and refractory to therapy. The development of improved therapeutic approaches for mCRPC is challenging, yet necessary.</p><p>While immunotherapy targeting cytotoxic T‐lymphocyte antigen 4 (CTLA‐4) and programmed death receptor 1 (PD1)/PD‐L1 immune check points has shown promising outcomes in the treatment for metastatic melanoma, lung cancer, renal cell carcinoma, and head and neck cancers, clinical trial results for prostate cancer have not been satisfactory (Topalian <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0053" ref-type="ref">2012</xref>; Yoo <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0060" ref-type="ref">2016</xref>). A Phase III trial of ipilimumab (CTLA‐4 Ab) in addition to radiotherapy for patients with mCRPC was initiated, but did not show any improvement in overall survival (Kwon <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0026" ref-type="ref">2014</xref>; Taneja, <xref rid="mol212135-bib-0050" ref-type="ref">2015</xref>).</p><p>Immunotherapy targeting CTLA‐4 and PD1/PD‐L1 immune checkpoints enhances T cell‐mediated immune reactions against cancer, which appears to be effective for tumors with more mutation burden and mutation‐associated neoantigens (Anagnostou <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0003" ref-type="ref">2017</xref>; Rizvi <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0038" ref-type="ref">2015</xref>). The lack of tumor mutation burden and neoantigen were thought to contribute to the lack of CTLA‐4 and PD1/PD‐L1 immune checkpoint‐targeted immunotherapy of PCa. Here, we focused on NK cell‐mediated cytotoxicity in this study as NK cell‐mediated cytotoxicity is independent of tumor mutation burden. NK cells play a pivotal role in exerting antigen‐independent, innate immune responses, which represent the first line of defense against cancer after NK cell infiltration into primary tumors at early stages of tumor development (Abe <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0001" ref-type="ref">1998</xref>; Kurosawa <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0025" ref-type="ref">1995</xref>). Indeed, NK cell depletion has led to enhanced tumor formation in mouse models (Smyth <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0046" ref-type="ref">2001</xref>), supporting the involvement of NK cells in antitumor immunity <italic toggle="yes">in vivo</italic>. Nevertheless, NK cell effects on killing PCa cells are not well understood and reports on NK cell cytotoxicity on PCa are limited. Previously, several attempts have been made to correlate the NK cell activity with the PCa disease state, but no clear conclusions have been drawn (Kastelan <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0022" ref-type="ref">1992</xref>; Tarle <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0051" ref-type="ref">1993</xref>). In contrast, Pasero <italic toggle="yes">et al</italic>. (<xref rid="mol212135-bib-0035" ref-type="ref">2015</xref>) have recently shown that highly effective NK cells are associated with good prognosis in patients with mCRPC.</p><p>Studies have shown that overexpression of PD‐L1 may contribute to the poor prognosis of cancer and have linked it to resistance to anticancer therapies (Afreen and Dermime, <xref rid="mol212135-bib-0002" ref-type="ref">2014</xref>; Mu <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0031" ref-type="ref">2011</xref>). High levels of PD‐L1 in tumor cells were reported to be involved in the immune escape process (Iwai <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0021" ref-type="ref">2002</xref>). In addition to the upregulation of PD‐L1, the downregulation of NKG2D‐activating ligands such as UL16 binding protein 1 (ULBP1), ULBP2, ULBP3, major histocompatibility complex class I chain‐related molecules A and B (MICA and MICB) was reported to be another pathway for tumor cells to escape from NK cell‐mediated cytotoxic actions (Nausch and Cerwenka, <xref rid="mol212135-bib-0032" ref-type="ref">2008</xref>). It was also suggested that the downregulated NKG2D in NK cells prevented NK cell recognition by tumor cells (Pasero <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0036" ref-type="ref">2016</xref>). In addition, Liu <italic toggle="yes">et al</italic>. (<xref rid="mol212135-bib-0029" ref-type="ref">2013</xref>) showed that activating NKG2D in NK cells mediated antitumor immunity in animal models, and suggested the importance of NKG2D/NKG2D ligand interactions in recognizing tumor cells. Therefore, NKG2D/NKG2D ligand interactions may be an important target in immunotherapy (Spear <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0047" ref-type="ref">2013</xref>).</p><p>The role of IL‐6 in PCa progression has been suggested and may be a candidate for targeted therapy of PCa. IL‐6 was reported to be involved in the regulation of immune reaction and cell growth and differentiation (Culig <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0008" ref-type="ref">2005</xref>). Activation of signaling pathways of Janus kinase (JAK)/signal transducers and activators of transcription factors (Stats) (Lee <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0028" ref-type="ref">2004</xref>), mitogen‐activated protein kinase (MAPK) (Culig <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0008" ref-type="ref">2005</xref>; Godoy‐Tundidor <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0011" ref-type="ref">2005</xref>), and phosphatidylinositol 3‐kinase (PI3K) (Culig <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0008" ref-type="ref">2005</xref>; Godoy‐Tundidor <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0011" ref-type="ref">2005</xref>) by IL‐6 has been reported in various PCa cell lines. IL‐6 is also shown to activate androgen receptor of PCa (Culig <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0006" ref-type="ref">2002</xref>), even in the absence of androgen (Hobisch <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0018" ref-type="ref">1998</xref>). In addition, IL‐6 was reported to be involved in the regulation of vascular endothelial growth factor (VEGF) expression (Roberts <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0039" ref-type="ref">2013</xref>) as well as in the neuroendocrine differentiation process (Xie <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0055" ref-type="ref">2004</xref>). Moreover, IL‐6 was implicated in epithelial/mesenchymal transition/metastasis of PCa (Gu <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0014" ref-type="ref">2014</xref>).</p><p>Despite the above investigations regarding the association of IL‐6 with prostate cancer, the role of IL‐6 signaling exerting immunosuppressive actions, especially in affecting the NK cell‐mediated cytotoxicity in PCa, has never been studied before. In this study, we explored the role of IL‐6 signaling in promoting resistance to NK cell‐mediated cytotoxicity via modulating PD‐L1 and NKG2D ligand levels in CRPC cells.</p></sec><sec id="mol212135-sec-0002"><label>2</label><title>Materials and methods</title><sec id="mol212135-sec-0003"><label>2.1</label><title>Cell culture</title><p>The CRPC cell lines of C4‐2 and CWR22Rv1 were kindly obtained from Dr YiFen Lee's laboratory at the University of Rochester Medical Center. Cells were cultured in RPMI 1640 containing 10% charcoal‐stripped FBS and maintained in a humidified 5% CO<sub>2</sub> environment at 37°C. NK92 cell line was purchased from American Type Culture Collection (ATCC, Manassas, VA, USA) and cultured in α‐MEM media containing sodium bicarbonate (M4655; Sigma, St. Louis, MO, USA), IL‐2 (100 units·mL<sup>−1</sup>) (200‐02; Peprotech, Rocky Hill, NJ, USA), inositol (0.2 m<sc>m</sc>), 2‐mercaptoethanol (0.1 m<sc>m</sc>), folic acid (0.02 m<sc>m</sc>), 12.5% horse serum (Sigma), and 12.5% FBS (Hyclone, Logan, UT, USA). For inhibitor studies, JAK inhibitor 1 (5 μ<sc>m</sc>) (CAS457081‐03‐7; Calbiochem, San Diego, CA, USA), Stattic (10 μ<sc>m</sc>) (CAS19983‐44‐9; Calbiochem), LY294002 (5 μ<sc>m</sc>) (440202; Sigma), U0126 (10 μ<sc>m</sc>) (9903; Cell Signaling, Danvers, MA, USA), SB203580 (10 μ<sc>m</sc>) (559387; Sigma) that inhibit JAK, JAK/Stat3, Stat3, PI3K/Akt, MEK/Erk, and MAPK pathways, respectively, were added to the coculture of tumor cells/NK cells. For neutralizing antibody experiments, IL‐6 Ab (6708; Thermo Fisher Scientific, Waltham, MA, USA) or PD‐L1 Ab (329710; BioLegend, San Diego, CA, USA) was added into culture and species‐matched control IgG was used as controls. For testing exogenously added IL‐6 effects, recombinant human IL‐6 (rhIL‐6, 200‐06; Peprotech) was used.</p></sec><sec id="mol212135-sec-0004"><label>2.2</label><title>Development of IL‐6‐knockdown and sc control cells by lentiviral transduction</title><p>To incorporate IL‐6 siRNA or scramble (sc) control plasmids into C4‐2 and CWR22Rv1 cells, lentivirus construct carrying either sc or IL‐6 siRNA (pLenti‐II vector; Applied Biological Materials Inc., Richmond, BC, Canada) was transfected into 293T cells with a mixture of pLenti‐II‐IL‐6 siRNA, psPAX2 (virus‐packaging plasmid), and pMD<sub>2</sub>G (envelope plasmid) (4 : 3 : 2 ratio) using PolyFect Transfection reagent (Qiagen, Valencia, CA, USA). After C4‐2 and CWR22Rv1 cells were virally infected overnight, the culture media containing the virus were replaced with normal culture media, and maintained under normal cell culture conditions. After subculturing cells, the IL‐6‐knockdown cells were selected by culturing cells in the presence of puromycin (2 μg·mL<sup>−1</sup>) (540411; Millipore, Billerica, MA, USA) and then maintained in media containing 0.1 μg·mL<sup>−1</sup> puromycin.</p></sec><sec id="mol212135-sec-0005"><label>2.3</label><title>Isolation of primary NK cells</title><p>Primary NK cells were purified from peripheral blood mononuclear cells (PBMCs) of healthy donors using NK cell isolation kit (130‐092‐657; Miltenyi Biotec, Cambridge, MA, USA) according to the manufacturer's protocol. After isolation, the isolated cells were maintained in IL‐2‐containing NK cell media. The purity of isolated cells (CD56+CD3−) was confirmed with flow cytometric analysis by staining with anti‐CD56‐PE (12‐0267‐41; e‐Bioscience, San Diego, CA, USA) and anti‐CD3‐Cy7 (300429; BioLegend) antibodies.</p></sec><sec id="mol212135-sec-0006"><label>2.4</label><title>NK cytotoxicity tests (LDH release‐based)</title><p>NK cell cytotoxicity against tumor cells was analyzed using a lactate dehydrogenase (LDH) release assay as described earlier (Shen <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0043" ref-type="ref">2017</xref>; Yang <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0059" ref-type="ref">2017</xref>). Cancer cells (2500–5000 cells) were plated, and on the next day, NK cells were added at various ratios (1 : 1, 1 : 5, and 1 : 15, target cells/effector cells) (all sample in triplicate). After 4 h of coculture, an aliquot of 50 μL media was used in LDH cytotoxic assay using the LDH cytotoxic assay kit (88954; Thermo Fisher Scientific). The experimental release was corrected by subtraction of the spontaneous release of effector cells at corresponding dilutions: %cytotoxicity = (experimental value − effector cell spontaneous control − target cell spontaneous control)/(target cell maximum control − target cell spontaneous control) × 100.</p></sec><sec id="mol212135-sec-0007"><label>2.5</label><title>NK cytotoxicity tests by colony formation assay</title><p>Cancer cells (2500–5000 cells) were plated, and on the next day, NK cells were added at various ratios (1 : 1, 1 : 5, and 1 : 15, target cells/effector cells) (all sample in triplicate). After 4 h of coculture, NK cells were removed and fresh media were added into tumor cells. After 10 days of culture, colonies formed were visualized by crystal violet staining and the colony numbers were counted under microscope.</p></sec><sec id="mol212135-sec-0008"><label>2.6</label><title>
+<italic toggle="yes">In vivo</italic> mouse studies</title><p>Orthotopic xenografts were established by orthotopically injecting C4‐2sc (Group 1, <italic toggle="yes">n</italic> = 10) or C4‐2siIL‐6 (Group 2, <italic toggle="yes">n</italic> = 5) cells into castrated nude mice (8 weeks old, male, NCI). For the castration procedure, a sterile surgical scalpel was used for a small incision and the testes were excised for removal. Sterile 3‐0 nonabsorbable sutures were used to close the wounds. Prior to recovery from anesthesia, mice were given buprenorphine at a dose of 0.05–0.1 mg·kg<sup>−1</sup> subcutaneously for pain. For the orthotopic injection, mice were anesthetized with isoflurane, shaved, and decontaminated with betadine and alcohol, then prepared by a transverse incision made in lower abdomen and the bladder, seminal vesicles, and prostate were partially taken out of the abdominal cavity to expose the anterior prostate. The cancer cells (1 × 10<sup>6</sup> cells, media/Matrigel, 1 : 1 [v/v], total injection volume 20 μL) were injected into the anterior prostate using a 22‐gauge sterile needle. The exposed urogenital organs were returned to cavity and the incision was closed with surgical clips.</p><p>At 7 and 9 days after cancer cell injection, mice were divided into two subgroups (<italic toggle="yes">n</italic> = 5): one subgroup of mice were injected with primary NK cells (5 × 10<sup>6</sup> per mouse) through tail vein, while the other subgroup of mice were injected with media only. Tumor size was assessed twice a week for 3–4 weeks. Mice were monitored daily for signs of stress indicated by inactivity, slow gait, or lack of grooming. At experimental end points, euthanasia was performed by CO<sub>2</sub> asphyxiation, consistent with the recommendations of the AVMA Panel on Euthanasia.</p><p>At the time of murine sacrifice, tumors of each group were collected and weighed. Tumor tissues were fixed in formalin (10%) for further histologic evaluation, including H&amp;E staining and immunohistochemical (IHC) staining. All animal studies were performed under the supervision and guidelines of the University of Rochester Medical Center's Animal Care and Use Committee in accordance with the NIH guidelines for human care and use of laboratory animals.</p></sec><sec id="mol212135-sec-0009"><label>2.7</label><title>Histology and immunohistochemistry (IHC)</title><p>Mouse tissues obtained from the animal studies were fixed in 10% (v/v) formaldehyde in PBS, embedded in paraffin, and cut into 5‐μm sections. Human tumor tissues (CRPC stage after prostatectomy) were obtained from the Ningbo Urology and Nephrology Hospital in China and processed similarly. Tumor tissue sections were deparaffinized in xylene solution, rehydrated, and immunostained with the IHC kit (SC2018; Santa Cruz, Santa Cruz, CA, USA). PD‐L1 (MAB1086) and IL‐6 (MAB206) antibodies were obtained from R&amp;D, Batavia, NY, USA. After staining, tissues were counterstained by hematoxylin. Error bars and significance values in IHC staining were obtained by counting positively stained cells in one randomly chosen area of slides of three different stains.</p></sec><sec id="mol212135-sec-0010"><label>2.8</label><title>RNA extraction and quantitative real‐time PCR (qPCR) analysis</title><p>Total RNA (1 μg) was subjected to reverse transcription using Superscript III transcriptase (Invitrogen, Waltham, MA, USA). qPCR was conducted using the appropriate primers and a Bio‐Rad CFX96 system with SYBR green to determine the mRNA expression levels of genes of interest. Expression levels were normalized to GAPDH level.</p></sec><sec id="mol212135-sec-0011"><label>2.9</label><title>Western blot analysis</title><p>Cells were lysed in RIPA buffer (50 m<sc>m</sc> Tris/Cl at pH 7.5, 150 m<sc>m</sc> NaCl, 1% NP‐40, 0.5% sodium deoxycholate, 1 m<sc>m</sc> EDTA, 1 μg·mL<sup>−1</sup> leupeptin, 1 μg·mL<sup>−1</sup> aprotinin, 0.2 m<sc>m</sc> PMSF). Proteins (20–40 μg) were separated on 8–10% SDS/PAGE gel and then transferred onto PVDF membranes (Millipore). After the blocking procedure, membranes were incubated with primary antibodies (1 : 1000), HRP‐conjugated secondary antibodies (1 : 5000), and visualized in Imager (Bio‐Rad, Hercules, CA, USA) using ECL system (Thermo Fisher Scientific, 34095). Antibodies used were as follows: p‐PD‐L1 (MAB1086; R&amp;D), JAK1 (pY1022, A7125; Assay Biotech, Sunnyvale, CA, USA), p‐JAK2 (pY1007 + 1008, 601‐670; Abbomax, San Jose, CA, USA), p‐MAPK (9101S; Cell Signaling), p‐Erk (4695; Cell Signaling), p‐MEK (Ser 217/221, 9121; Cell Signaling), p‐Akt (S473, 9271; Cell Signaling), and p‐Stat3 (Y705, ab76315; Abcam, Cambridge, MA, USA), p‐NFκB (S536, ab86299; Abcam), p‐mTOR (09‐345; Millipore), and GAPDH (2118S; Cell Signaling).</p></sec><sec id="mol212135-sec-0012"><label>2.10</label><title>Statistics</title><p>The data were presented as the mean ± SEM. Differences in mean values between two groups were analyzed by two‐tailed Student's <italic toggle="yes">t</italic>‐test. <italic toggle="yes">P </italic>≤<italic toggle="yes"> </italic>0.05 was considered statistically significant.</p></sec></sec><sec id="mol212135-sec-0013"><label>3</label><title>Results</title><sec id="mol212135-sec-0014"><label>3.1</label><title>Development of C4‐2siIL‐6/sc and CWRsiIL‐6/sc PCa cell lines</title><p>To investigate the implication of IL‐6 signaling in CRPC cells in influencing the susceptibilities to cytotoxic action of NK cells, obtaining CRPC cells lines showing IL‐6 level difference was essential. We found that parental C4‐2 and CWR22Rv1 cells do not secrete IL‐6 (ELISA test, data not shown) although they express high level of mRNA. However, after transduction process using the lentiviral construct carrying siIL‐6 and sc sequence, we observed the induction of IL‐6 secretion and were able to detect significant decreases in IL‐6 levels in siIL‐6‐containing lentivirus‐transduced cells (C4‐2siIL‐6 and CWRsiIL‐6) compared to sc (C4‐2sc and CWRsc) cells (Fig.<bold> </bold>
+<xref rid="mol212135-fig-0001" ref-type="fig">1</xref>, left panel, secreted IL‐6; right panel, mRNA level). These cells were used in further experiments.</p><fig fig-type="Figure" xml:lang="en" id="mol212135-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>IL‐6 signaling and CRPC cell resistance to NK cell cytotoxicity. (A) IL‐6 expressions after transduction of C4‐2 and CWR22Rv1 PCa cell lines with lentiviral system containing siIL‐6 or sc sequence. IL‐6 expressions (left panel, ELISA result; right panel, mRNA level) in C4‐2siIL‐6/sc and CWRsiIL‐6/sc cell lines were shown. (B) Results of LDH release‐based NK cell cytotoxicity tests to C4‐2siIL‐6/sc and CWRsiIL‐6si/sc cells (upper panel, data with primary NK cells; lower panel, data with NK92 cells). Left panels show data of C4‐2siIL‐6/sc cell set, and right panels show data of CWRsiIL‐6/sc cell set. Average value of triplicate in one experiment was obtained first and the final error bars were calculated from the average values obtained from three independent experiments. (C) NK cell cytotoxicity test by colony formation assay. The survival of C4‐2siIL‐6/sc and CWRsiIL‐6/sc cells after adding various ratios of NK cells was investigated. When colonies become visible, colonies were stained with crystal violet, and colony numbers were counted under the microscope. *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, **<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, ***<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="MOL2-12-269-g001.jpg"><?image-name MOL2-12-269-g001.jpg?><?image-size 140955?><?image-md5 f4c0f70a809dfe01d29b53932fb9666f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1535?><?image-original-width 1064?><?image-scaled-height 1023?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/e803/5830627/f4c0f70a809d/MOL2-12-269-g001.jpg?><?thumb-name MOL2-12-269-g001.gif?><?thumb-size 17824?><?thumb-md5 216aaed6c3f17a6354ce57a7fb1273f6?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 144?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/e803/5830627/216aaed6c3f1/MOL2-12-269-g001.gif?></graphic></fig></sec><sec id="mol212135-sec-0015"><label>3.2</label><title>IL‐6 signaling plays a role in the resistance to cytotoxic action of NK cells of CRPC cells</title><p>NK cell cytotoxicities to C4‐2siIL‐6/sc and CWRsiIL‐6/sc cells were then tested. To monitor NK cell‐mediated cytotoxicity, two different assays, the lactate dehydrogenase (LDH) release‐based NK cytotoxicity test (Decker and Lohmann‐Matthes, <xref rid="mol212135-bib-0009" ref-type="ref">1988</xref>; Korzeniewski and Callewaert, <xref rid="mol212135-bib-0024" ref-type="ref">1983</xref>; Shi <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0044" ref-type="ref">2016</xref>; Smith <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0045" ref-type="ref">2011</xref>) and the colony formation assay (Rong <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0040" ref-type="ref">2016</xref>), were used. In these experiments, two NK cell sources established NK92 cell line that was known to exhibit high NK cytotoxicity and has been widely used in <italic toggle="yes">in vitro</italic> and in mouse studies (Klingemann <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0023" ref-type="ref">2016</xref>; Tam <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0049" ref-type="ref">1999</xref>), and primary NK cells that were isolated from the peripheral blood mononuclear cells (PBMCs) of healthy donors via magnetic beads isolation method, were used. After the isolation of primary NK cells, the purity (higher than 90%) of CD56+CD3− NK cells was confirmed by flow cytometric analyses (data not shown). In LDH release‐based tests, we observed higher resistance of C4‐2sc and CWRsc cells to primary NK cell (Fig. <xref rid="mol212135-fig-0001" ref-type="fig">1</xref>B, upper panel)‐ and NK92 cell (Fig. <xref rid="mol212135-fig-0001" ref-type="fig">1</xref>B, lower panel)‐mediated cytotoxicities than C4‐2siIL‐6 and CWRsiIL‐6 cells.</p><p>Consistent results were obtained in colony formation assays. Higher colony numbers of C4‐2sc and CWRsc cells than those of C4‐2siIL‐6/CWRsiIL‐6 cells were detected after coculture with NK92 cells, suggesting higher resistance of IL‐6‐expressing cancer cells to the cytotoxic action of NK cells than that of IL‐6‐knockdown cells (Fig. <xref rid="mol212135-fig-0001" ref-type="fig">1</xref>C, data with primary NK cells).</p></sec><sec id="mol212135-sec-0016"><label>3.3</label><title>
+<italic toggle="yes">In vivo</italic> mouse studies</title><p>To confirm <italic toggle="yes">in vitro</italic> results demonstrating the IL‐6 role in rendering the resistance of CRPC cells to NK cell‐mediated cytotoxicity, mouse studies were performed. Luciferase‐tagged C4‐2siIL‐6 and C4‐2sc cells (1 × 10<sup>6</sup>) (<italic toggle="yes">n</italic> = 10) were orthotopically injected into castrated nude mice. Figure <xref rid="mol212135-fig-0002" ref-type="fig">2</xref>A shows IL‐6 levels of the luciferase‐tagged C4‐2siIL‐6 and C4‐2sc cells.</p><fig fig-type="Figure" xml:lang="en" id="mol212135-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<italic toggle="yes">In vivo</italic> mouse studies showing IL‐6‐mediated resistance of CRPC tumors to NK cell cytotoxic actions. (A) IL‐6 levels in luc‐C4‐2sc and luc‐C4‐2siIL‐6 cells injected into mice. (B) IVIS imaging of representative mice of each subgroup at indicated time points. Upper panel shows imaging of mice of non‐NK cell‐injected group, while lower panel shows imaging of NK cell‐injected mice (left panel, C4‐2sc xenografts; right panel, C4‐2siIL‐6 xenografts). (C) Tumors at sacrifice of mice of each group. Lower panel shows quantitation of the average weight of tumors obtained in mice of each group. (D) IL‐6 IHC staining of tumor tissues. Error bars and significance values were obtained by counting positively stained cells in one randomly chosen phase of slides of three different stains. Magnification, 20× (inlet, 100×). (E) Tumor growth analysis at each time point based on luminescence in IVIS. Luminescence (× 10<sup>7</sup> radiance·s<sup>−1</sup>·cm<sup>−2</sup>·sr<sup>−1</sup>) was plotted as an indication of tumor growth. *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, **<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, ***<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="MOL2-12-269-g002.jpg"><?image-name MOL2-12-269-g002.jpg?><?image-size 143431?><?image-md5 fe3be3bcba33bd3c191c91b504184c61?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1330?><?image-original-width 1064?><?image-scaled-height 886?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/e803/5830627/fe3be3bcba33/MOL2-12-269-g002.jpg?><?thumb-name MOL2-12-269-g002.gif?><?thumb-size 21682?><?thumb-md5 2b51c0271bdab3942c0cf26514d8e327?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 125?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/e803/5830627/2b51c0271bda/MOL2-12-269-g002.gif?></graphic></fig><p>Mice were divided into two subgroups (<italic toggle="yes">n</italic> = 5 per subgroup); the test subgroup mice were injected with primary NK cells (i.v.) 7 and 9 days (twice) after tumor cell injection, while the control subgroup mice were injected with control medium. Tumor development was monitored twice a week by <italic toggle="yes">in vivo</italic> imaging system (IVIS) for 3–4 weeks. Figure <xref rid="mol212135-fig-0002" ref-type="fig">2</xref>B shows an example of the luminescence of representative mice of each subgroup at indicated time points. We observed significantly smaller tumors in NK cell‐injected mice in C4‐2siIL‐6 cell‐derived xenografts. Such difference was also observed in C4‐2sc cell‐derived xenografts by day 30, but the difference was on a much smaller scale.</p><p>Tumors of each subgroup of C4‐2siIL‐6 and C4‐2sc xenografts were obtained at the time of murine sacrifice and tumor sizes were compared. Consistent with luminescence data, we observed significantly smaller tumors in NK cell‐injected siIL‐6 cell‐derived xenografts than in control group mice. A much smaller but significant difference was also found in sc cell‐derived xenografts (Fig. <xref rid="mol212135-fig-0002" ref-type="fig">2</xref>C). Figure <xref rid="mol212135-fig-0002" ref-type="fig">2</xref>D shows the IL‐6 level in tumors of C4‐2sc and C4‐2siIL‐6 cell‐derived xenografts.</p><p>Tumor growths in subgroups of mice were analyzed by plotting luminescence of each time point. We found the growth of C4‐2siIL‐6 cell‐derived tumors significantly reduced in NK cell‐injected mice compared to tumors in the control group, but could not observe significant differences in tumor growth in C4‐2sc cell‐derived tumor growth whether or not NK cells were injected except for the later time point of day 30 (Fig. <xref rid="mol212135-fig-0002" ref-type="fig">2</xref>E). All these findings indicate that IL‐6‐expressing tumors are more resistant to the cytotoxic action of NK cells, and confirmed the <italic toggle="yes">in vitro</italic> data suggesting the importance of IL‐6 signaling in determining the susceptibility of tumor cells to cytotoxic actions of NK cells.</p></sec><sec id="mol212135-sec-0017"><label>3.4</label><title>IL‐6 upregulates PD‐L1 while simultaneously downregulates NKG2D ligands in CRPC cells</title><p>The PD‐L1/PD‐1 axis is a well‐known immune checkpoint (Afreen and Dermime, <xref rid="mol212135-bib-0002" ref-type="ref">2014</xref>) for T cell‐mediated immunity, and the impact of PD‐L1/PD1 on NK cells remains unclear. We asked whether the IL‐6‐mediated resistance of CRPC cells to NK cell action may be associated with the upregulated PD‐L1 level in these cells. Upon analyzing PD‐L1 levels in IL‐6‐knockdown and control CRPC cells, we detected higher PD‐L1 levels in IL‐6‐expressing C4‐2sc and CWRsc cells than in C4‐2siIL‐6 and CWRsiIL‐6 cells (Fig. <xref rid="mol212135-fig-0003" ref-type="fig">3</xref>A, left panel, mRNA level; right panel, protein level). We also detected higher PD‐L1 expression in C4‐2sc cell‐derived than in C4‐2siIL‐6 cell‐derived xenografts (Fig. <xref rid="mol212135-fig-0003" ref-type="fig">3</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="mol212135-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The role of IL‐6 signaling in the upregulation of PD‐L1 and downregulation of NKG2D ligands in CRPC cells. (A) PD‐L1 level in C4‐2siIL‐6/sc and CWRsiIL‐6/sc cell lines (left panel, mRNA level; right panel, protein level). (B) PD‐L1 IHC staining of tumor tissues. Error bars and significance values were obtained by counting positively stained cells in one randomly chosen phase of slides of three different stains. Magnification, 20× (inlet, 100×). (C) Blocking of IL‐6 Ab by neutralizing Ab of IL‐6 and the effect on PD‐L1 level in C4‐2sc and CWRsc cells. Cells were treated with either IL‐6 Ab or control IgG, total RNA extracted, cDNA converted, and the expression of PD‐L1 was compared in qPCR analyses. (D) PD‐L1 level in parental C4‐2 and CWR22Rv1 cells upon the addition of rhIL‐6. Parental cells (C4‐2P and CWR22Rv1P) were treated with rhIL‐6 (20 ng·mL<sup>−1</sup>) and PD‐L1 mRNA level was analyzed. (E) IHC staining of CRPC patient tumor samples. Two sets of adjacent tumor tissues (both samples, CRPC stage, Gleason score 8, patient age 70, Ningbo hospital in China) were stained with IL‐6 and PD‐L1. Arrows indicate the area showing positive staining of two molecules. (F) NKG2D ligand levels in IL‐6‐expressing cells and in IL‐6‐knockdown cells. Levels of five NKG2D ligands in C4‐2siIL‐6/sc and CWRsiIL‐6/sc cells were analyzed in qPCR analyses. (G) NKG2D ligand levels in parental C4‐2 and CWR22Rv1 cells upon the addition of rhIL‐6. Parental cells (C4‐2P and CWR22Rv1P) were treated with rhIL‐6 (20 ng·mL<sup>−1</sup>) and the NKG2D ligand levels (mRNA) were analyzed. (H) Flow cytometric analyses of NKG2D and PD‐1 on NK cells. Left two panels, primary NK cells were stained with PE‐NKG2D or APC‐PD‐1 and positive staining was analyzed. Right two panels, flow cytometric analyses of PD‐1 on NK cells, after coculture with tumor cells (6 h of incubation). Primary NK cells were added into tumor cells (1 : 1 ratio, tumor cells/NK cells) and collected after 6 h of incubation. PD‐1 levels in the collected NK cells were analyzed in flow cytometric analysis (using APC‐PD‐1 Ab). *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, **<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, ***<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="MOL2-12-269-g003.jpg"><?image-name MOL2-12-269-g003.jpg?><?image-size 131646?><?image-md5 2409b6c4b1769886c495d96e779bd1ab?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1111?><?image-original-width 1064?><?image-scaled-height 740?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/e803/5830627/2409b6c4b176/MOL2-12-269-g003.jpg?><?thumb-name MOL2-12-269-g003.gif?><?thumb-size 22037?><?thumb-md5 9891c3cc521cd49061ec242b6ee3a44b?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 104?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/e803/5830627/9891c3cc521c/MOL2-12-269-g003.gif?></graphic></fig><p>The differences in PD‐L1 levels in C4‐2siIL‐6 vs. C4‐2sc cells and in CWRsiIL‐6 cells vs. CWRsc cells disappeared when C4‐2sc and CWRsc cells were incubated with neutralizing antibody (Ab) of IL‐6 (the species‐matched control IgG as control) to the culture media (Fig. <xref rid="mol212135-fig-0003" ref-type="fig">3</xref>C). The IL‐6 implication in the modulation of PD‐L1 level was further confirmed in parental cells. The PD‐L1 levels in C4‐2 and CWR22Rv1 parental cells were increased when recombinant human IL‐6 (rhIL‐6) was added into the culture medium (Fig. <xref rid="mol212135-fig-0003" ref-type="fig">3</xref>D).</p><p>To further confirm the correlation of IL‐6 with PD‐L1, we examined expression levels of IL‐6 and PD‐L1 in human CRPC tumor tissue samples. We detected high level of IL‐6 expression in areas showing positive staining of PD‐L1 (Fig. <xref rid="mol212135-fig-0003" ref-type="fig">3</xref>E), indicating that high IL‐6 level may be responsible for the high PD‐L1 expression in CRPC tumors.</p><p>We also investigated a pathway of NKG2D ligand/NKG2D interaction, which has been reported to be important in tumor cell recognition by NK cells (Bae <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0004" ref-type="ref">2012</xref>) in that lower NKG2D ligand levels played a role in the escape of tumor cells from the NK cell action. When we compared the levels of five NKG2D activating ligands, ULBP1, ULBP2, ULBP3, MICA, and MICB, in IL‐6‐expressing (sc) and IL‐6‐knockdown CRPC cells, we detected reduced levels of these molecules in IL‐6‐expressing sc cells compared with IL‐6‐knockdown cells (Fig. <xref rid="mol212135-fig-0003" ref-type="fig">3</xref>F, upper panel, C4‐2siIL‐6/sc cell set data; lower panel, CWRsiIL‐6/sc cell set data). The IL‐6 implication in the modulation of NKG2D ligand level was further confirmed in parental cells. The NKG2D ligand levels in C4‐2 and CWR22Rv1 parental cells were increased when rhIL‐6 was added into the culture medium (Fig. <xref rid="mol212135-fig-0003" ref-type="fig">3</xref>G, upper panel, C4‐2 cell data; lower panel, CWR22Rv1 cell data). Such data suggest that the expression of the NKG2D ligands was also modulated by IL‐6 signaling in CRPC cells.</p></sec><sec id="mol212135-sec-0018"><label>3.5</label><title>PD‐1 expression in NK cells was induced when incubated with tumor cells</title><p>We investigated the PD‐1 level in NK cells as it was reported that PD‐1 is expressed at a high level in T cells (Parry <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0034" ref-type="ref">2005</xref>), but little is known regarding the PD‐1 level on NK cells. In flow cytometric analyses, we observed positive NKG2D staining in primary NK cells, but could not detect positive PD‐1 staining (Fig. <xref rid="mol212135-fig-0003" ref-type="fig">3</xref>H, left panel). We then tested whether PD‐1 expression might be induced when NK cells are exposed to tumor cells. We found that the PD‐1 levels in primary NK cells were increased upon incubation with tumor (C4‐2sc and CWRsc) cells. However, we did not observe significant increase in PD‐1 on NK cells when they were incubated with siIL‐6 cells (data not shown). These findings support our hypothesis that a PD‐L1/PD‐1 interaction exists between IL‐6‐expressing CRPC cells and NK cells.</p></sec><sec id="mol212135-sec-0019"><label>3.6</label><title>JAK‐Stat3 signaling is the IL‐6 downstream signaling responsible for the PD‐L1/NKG2D ligand level alteration in CRPC cells</title><p>To reveal IL‐6 downstream signaling pathways that are responsible for the IL‐6‐mediated upregulation of PD‐L1/downregulation of NKG2D ligands in CRPC cells, we analyzed the expression/activation of molecules that have been previously reported to be involved in PD‐L1 regulation in C4‐2siIL‐6/sc and CWRsiIL‐6/sc cells. These included JAK1/2 (Bellucci <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0005" ref-type="ref">2015</xref>; Ikeda <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0020" ref-type="ref">2016</xref>), Stat3 (Fujita <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0010" ref-type="ref">2015</xref>; Marzec <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0030" ref-type="ref">2008</xref>), Akt‐mTOR (Lastwika <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0027" ref-type="ref">2016</xref>), NFκB (Gowrishankar <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0012" ref-type="ref">2015</xref>), mitogen‐activated protein kinase/ERK kinase (MEK), extracellular signal‐regulated kinase (ERK) (Yamamoto <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0057" ref-type="ref">2009</xref>), PI3K/Akt (Xu <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0056" ref-type="ref">2014</xref>), and MAPK (Noh <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0033" ref-type="ref">2015</xref>) pathways. We found many signaling pathways, including JAKs, Stat3, MAPK, MEK, Erk, were activated in IL‐6‐expressing cells compared to IL‐6‐knockdown cells (Fig. <xref rid="mol212135-fig-0004" ref-type="fig">4</xref>A). Using inhibitors of these signaling pathways, we tested whether blocking of specific signaling could reduce PD‐L1 levels in sc cells. We found that the inhibitor treatment of JAK, MAPK, MEK/Erk, and Stat signaling all reduced PD‐L1 level in sc cells, but the most significant effect was observed with JAK inhibitor 1 (the JAK signaling inhibitor) and Stattic (the Stat3 signaling inhibitor) (Fig. <xref rid="mol212135-fig-0004" ref-type="fig">4</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="mol212135-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>IL‐6 downstream signaling JAK/Stat mediates PD‐L1/NKG2D ligand expressions in CRPC cells. (A) Western blot analyses showing the expression/activation of several IL‐6 downstream signaling molecules in C4‐2siIL‐6/sc and CWRsiIL‐6/sc cells. (B) qPCR analyses in C4‐2siIL‐6/sc and CWRsiL‐6/sc cells with inhibitors of individual candidate signaling pathway. Inhibitors of JAK/Stat (AG490), PI3K/Akt (LY294002), JAK (JAK inhibitor 1), MAPK (SB203580), MEK/Ark (U0126), and Stat3 (Stattic) were used. (C) qPCR analysis of NKG2D ligands in C4‐2siIL‐6/sc and CWRsiIL‐6/sc cells upon treatment with JAK (JAK inhibitor 1) or Stat3 inhibitor (Stattic). Upper panel shows data with C4‐2siIL‐6/sc cell set, and lower panel shows data with CWRsiIL‐6/sc cell set. *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, **<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, ***<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="MOL2-12-269-g004.jpg"><?image-name MOL2-12-269-g004.jpg?><?image-size 142961?><?image-md5 153ae6cdb8465126f8b220842a00b222?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1003?><?image-original-width 1064?><?image-scaled-height 668?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/e803/5830627/153ae6cdb846/MOL2-12-269-g004.jpg?><?thumb-name MOL2-12-269-g004.gif?><?thumb-size 18448?><?thumb-md5 4e3eca70556a0ea6cd8e092fae01d196?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 94?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/e803/5830627/4e3eca70556a/MOL2-12-269-g004.gif?></graphic></fig><p>We also investigated whether the inhibitors of JAK or Stat3 signaling alter expression of the NKG2D ligands in CRPC cells. We found that the inhibitor treatment increased the NKG2D ligand levels in C4‐2sc and CWRsc cells (Fig. <xref rid="mol212135-fig-0004" ref-type="fig">4</xref>C), indicating that the inhibitors of JAK or Stat3 signaling were effective not only in lowering the PD‐L1 levels, but also in increasing the NKG2D ligand levels.</p></sec><sec id="mol212135-sec-0020"><label>3.7</label><title>Effects of PD‐L1 Ab or the inhibitors of JAK/Stat3 signaling on NK cell cytotoxicity to CRPC cells</title><p>We compared effects of applying PD‐L1 Ab or inhibitors of JAK/Stat3 signaling on NK cell cytotoxicity to C4‐2sc and CWRsc cells. First, the effects of PD‐L1 Ab on NK cell cytotoxicities to C4‐2siIL‐6/sc and CWRsiIL‐6/sc cells were tested. As shown in Fig. <xref rid="mol212135-fig-0005" ref-type="fig">5</xref>A (upper panel, with primary NK cells data; lower panel, with NK92 cells data), the addition of the PD‐L1 Ab significantly increased the susceptibility of C4‐2sc and CWRsc cells to NK cells action (red lines), but the susceptibility of C4‐2siIL‐6 and CWRsiIL‐6 cells to NK cell cytotoxicity was not significantly influenced (black lines).</p><fig fig-type="Figure" xml:lang="en" id="mol212135-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>NK cell cytotoxicity to C4‐2sc and CWRsc cells with (A) PD‐L1 Ab, (B) JAK inhibitor, or (C) Stat 3 inhibitor added to cocultures of tumor cells/NK cells. In performing experiments in (A), both primary NK cells (upper panel) and NK92 cells (lower panel) were used. In (B) and (C), primary NK cells were used. Red lines show data with C4‐2sc and CWRsc cells, while black lines show data with C4‐2siIL‐6 and CWRsiIL‐6 cells. Solid lines show data with control IgG or vehicle, while dotted lines show data with PD‐L1 Ab or inhibitors. In all data presentation, C4‐2 cell data are shown in left panels and CWR22Rv1 cell data are shown on right. *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, **<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, ***<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="MOL2-12-269-g005.jpg"><?image-name MOL2-12-269-g005.jpg?><?image-size 152113?><?image-md5 09309cd4c0143e7710e990e4658f2eca?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1489?><?image-original-width 1064?><?image-scaled-height 992?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/e803/5830627/09309cd4c014/MOL2-12-269-g005.jpg?><?thumb-name MOL2-12-269-g005.gif?><?thumb-size 19960?><?thumb-md5 c83c20afc5bf0c56367b6cee9a8e39be?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 140?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/e803/5830627/c83c20afc5bf/MOL2-12-269-g005.gif?></graphic></fig><p>Next, we tested the effects of inhibitors of JAK/Stat3 signaling in increasing NK cell cytotoxicity to C4‐2sc and CWRsc cells. Similar to PD‐L1 Ab effects, we found that both the JAK inhibitor (JAK inhibitor 1) and the Stat3 inhibitor (Stattic) treatment significantly increased the NK cell cytotoxicity to C4‐2sc and CWRsc cells (red lines), but not to C4‐2siIL‐6 and CWRsiIL‐6 cells (black lines). Figure <xref rid="mol212135-fig-0005" ref-type="fig">5</xref>B shows the data with JAK inhibitor 1 and Fig. <xref rid="mol212135-fig-0005" ref-type="fig">5</xref>C shows the data with Stattic.</p></sec><sec id="mol212135-sec-0021"><label>3.8</label><title>Testing effects of combined application of PD‐L1 Ab and inhibitors of JAK or Stat3 signaling in NK cell cytotoxicity to CRPC cells</title><p>Finally, we tested whether we could observe enhanced effects when PD‐L1 Ab and the inhibitors of JAK or Stat3 signaling were used together. Figure <xref rid="mol212135-fig-0006" ref-type="fig">6</xref>A (upper panels, C4‐2sc/CWRsc cell data; lower panel, parental cell data) shows the NK cell cytotoxicity data of combined use of JAK inhibitor plus PD‐L1, while Fig. <xref rid="mol212135-fig-0006" ref-type="fig">6</xref>B shows the data of combined use of Stat3 inhibitor and PD‐L1 Ab (upper panels, C4‐2sc/CWRsc cell data; lower panel, parental cell data). In both cases, we observed that combined use of the JAK or Stat3 inhibitor with the PD‐L1 Ab showed more significant effects than using the PD‐L1 Ab or the JAK/Stat3 inhibitor alone. These results suggest that a strategy of combined application of (a) PD‐L1 Ab and JAK or (b) PD‐L1 Ab and Stat3 inhibitor may have therapeutic potential to target CRPC than the PD‐L1 Ab therapy alone by enhancing the susceptibility to NK cell‐mediated cytotoxicity. Figure <xref rid="mol212135-fig-0006" ref-type="fig">6</xref>C is the schematic presentation.</p><fig fig-type="Figure" xml:lang="en" id="mol212135-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>NK cell cytotoxicity to C4‐2sc and CWRsc cells with (A) PD‐L1 Ab and JAK inhibitor or (B) PD‐L1 Ab and Stat 3 inhibitor added together to cocultures of tumor cells/NK cells vs. with PD‐L1 Ab or inhibitor alone. In all experiments, primary NK cells were used as a NK cell source. Upper panels show data with C4‐2sc and CWRsc cells, and lower panel shows data with C4‐2siIL‐6 and CWRsiIL‐6 cells. Red lines show data with combined use of (A) PD‐L1Ab plus JAK inhibitor (JAK inhibitor 1) and (B) PD‐L1 Ab plus Stat 3 inhibitor (Stattic). In all data presentation, C4‐2 cell data are shown in left panels and CWR22Rv1 cell data are shown on right. (C) Summary diagram of the results. *<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.05, **<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.01, ***<italic toggle="yes">P </italic>&lt;<italic toggle="yes"> </italic>0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="MOL2-12-269-g006.jpg"><?image-name MOL2-12-269-g006.jpg?><?image-size 156197?><?image-md5 e71331cc1e975f404a9dde750ebf3a03?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1567?><?image-original-width 1064?><?image-scaled-height 1044?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/e803/5830627/e71331cc1e97/MOL2-12-269-g006.jpg?><?thumb-name MOL2-12-269-g006.gif?><?thumb-size 20067?><?thumb-md5 30c544d3a27e9a69c98cef84c208ff31?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 147?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/e803/5830627/30c544d3a27e/MOL2-12-269-g006.gif?></graphic></fig></sec></sec><sec id="mol212135-sec-0022"><label>4</label><title>Discussion</title><p>Clinical trials targeting PD‐L1/PD‐1 axis in treating PCa so far have not yielded satisfactory results. A recent clinical trial using PD‐1 Ab (nivolumab) to treat men with mCRPC showed no evidence of improvement while showing clear antitumor efficacy in treating melanoma, renal cell, and non‐small‐cell lung cancer tumors (Topalian <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0053" ref-type="ref">2012</xref>). The lack of effects of the immunotherapy targeting the PDL1/PD1 axis on T cell‐mediated immunity has been attributed to low tumor mutation burden and low neoantigens (Anagnostou <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0003" ref-type="ref">2017</xref>; Rizvi <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0038" ref-type="ref">2015</xref>). While T cell‐mediated immunotherapy is antigen dependent, a strategy to improve NK cell cytotoxicity, which is antigen independent, may be a logical alternative immunotherapeutic approach for the treatment of PCa. To our knowledge, virtually no attempts have been made to improve NK cell cytotoxicity for PCa (Srivastava <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0048" ref-type="ref">2008</xref>). In our <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic> studies, we have demonstrated a significant NK cell effect in killing PCa cells, supporting our rationale to develop strategies to improve NK cell‐mediated cytotoxicity to tumor cells.</p><p>In animal studies, we injected NK cells at early time points, 7 and 10 days after tumor cell injection, which would inhibit early‐stage tumor development. We successfully showed that NK cell action is important in controlling tumor development at an early stage with significantly lower tumor volume in NK cell‐injected mice compared to control (non‐NK cell‐injected) mice. It is also possible that NK cells may affect metastasis (Yang <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0058" ref-type="ref">2003</xref>); thus, future <italic toggle="yes">in vivo</italic> studies with a focus on testing NK effect on targeting distant metastasis at later stages of PCa will be informative. In addition to the direct cytotoxic effects by NK cells on cancer cells, it was also suggested that early‐appearing tumor‐infiltrating NK cells may play a crucial role in the generation of antitumor T cells (Kurosawa <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0025" ref-type="ref">1995</xref>). Whether the better tumor control in NK cell‐injected mice we have observed was due to direct NK cell killing of tumor cells or from the activation of T cells to target tumor cells, or the combination of both, should be further investigated in future animal studies.</p><p>We used C4‐2siIL‐6/sc and CWRsiIL‐6/sc cell sets in all experiments. Although parental C4‐2 and CWR22Rv1 cells do not secrete IL‐6 (while they express high level of IL‐6 mRNA), these cells secrete IL‐6 after lentiviral infection and showed significant differences in IL‐6 levels (both mRNA and secretion) after transduction process using lentivirus carrying siIL‐6 or sc sequence. IL‐6 expression can be induced as a defensive mechanism against viral infection (Hou <italic toggle="yes">et al</italic>. <xref rid="mol212135-bib-0019" ref-type="ref">2014</xref>).</p><p>In both <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic> studies, we proved the contribution of IL‐6 signaling in rendering CRPC cell resistance to NK cell cytotoxicity. Although several pathological roles of IL‐6 in PCa progression have been suggested (Culig <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0006" ref-type="ref">2002</xref>, <xref rid="mol212135-bib-0008" ref-type="ref">2005</xref>; Gu <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0014" ref-type="ref">2014</xref>; Hobisch <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0018" ref-type="ref">1998</xref>), the role of intratumoral IL‐6 in promoting the resistance to NK cell action has never been shown before. It was interesting to note that we observed more aggressive tumor development and growth in C4‐2siIL‐6 cell‐derived xenografts than in C4‐2sc cell‐derived xenografts. Such observation is consistent with previous reports suggesting an inhibitory effect of IL‐6 in PCa cell growth (Culig and Puhr, <xref rid="mol212135-bib-0007" ref-type="ref">2012</xref>; Culig <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0008" ref-type="ref">2005</xref>), reflecting the complexity of IL‐6 function in cancer cells. Despite the difference in aggressiveness of tumor development, our data clearly demonstrated the IL‐6 role in controlling the susceptibility of CRPC tumors to NK cell cytotoxicity.</p><p>In this study, we showed the IL‐6 effect in CRPC cells in modulating the PD‐L1 (upregulation) and NKG2D ligand (downregulation) levels and thus inhibiting the NK cell action. Several reports suggested the influence of cytokines in expanding NK cells and in activating the NK cell action. The cytokines interleukin (IL)‐2, IL‐12, IL‐15, IL‐18, and IL‐21 were used to culture and expand NK cells. Granzin <italic toggle="yes">et al</italic>. (<xref rid="mol212135-bib-0013" ref-type="ref">2017</xref>) showed that combined treatment of these cytokines affected NK cell maturation, proliferation, survival, distribution of NK cell subpopulations, and its activation. Earlier, Vester <italic toggle="yes">et al</italic>. (<xref rid="mol212135-bib-0054" ref-type="ref">1999</xref>) showed that IFN‐γ‐inducible protein 10 (IP‐10), monocyte chemoattractant protein 1 (MCP‐1), and lymphotactin were induced upon viral infection and activated NK cell action and Guo <italic toggle="yes">et al</italic>. (<xref rid="mol212135-bib-0015" ref-type="ref">2016a</xref>) showed that NK cell activity was increased by IL‐12. However, not many reports indicated the cytokine role in developing a resistance to NK cell action.</p><p>In this study, we focused on the role of intracellular IL‐6 signaling in developing the resistance of PCa cells to NK cell‐mediated cytotoxicity. It was previously suggested that an immunosuppressive environment impairs NK cell function at multiple levels in PCa (Pasero <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0036" ref-type="ref">2016</xref>). IL‐6 can be secreted by other types of cells in the tumor microenvironment (TME) including macrophages, endothelial cells, and bone marrow mesenchymal cells. Moreover, we observed the exogenously added IL‐6 effect on modulating the PD‐L1/NKG2D ligand levels in CRPC cells. Therefore, investigating the IL‐6 role secreted by other cell types in TME in the future seems essential.</p><p>We observed increased PD‐1 level on NK cells after incubation with CRPC cells. While high PD‐1 levels in T cells and its role in immune evasion was reported (Parry <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0034" ref-type="ref">2005</xref>; Saito <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0041" ref-type="ref">2013</xref>), limited information is available regarding PD‐1 expression in NK cells, induction of PD‐1 level in NK cells after viral infection, and induction of PD‐1 after culture in the presence of cytokines (Guo <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0016" ref-type="ref">2016b</xref>). The discovery of showing the PD‐1 induction in NK cells after incubation with CRPC cells is important as it confirms the existence of high PD‐L1/PD‐1 interaction between C4‐2sc/CWRsc cells and NK cells. This also explains why we observed effects of blocking the PD‐L1/PD‐1 checkpoint on increasing NK cytotoxicity to C4‐2sc and CWRsc cells.</p><p>In inhibitor studies, we found that JAK/Stat3 pathway was the most critical IL‐6 downstream signaling pathway that modulated the alteration of PD‐L1/NKG2D ligands in CRPC cells in the same manner, that is, an increase in PD‐L1 and a decrease in NKG2D ligands. We believe identifying the critical IL‐6 downstream signaling pathway is important as the therapeutic approach using anti‐IL‐6 agents may result in complicated and unforeseen untoward outcomes because of the complex role of IL‐6 in the physiological activities on both pro‐ and anti‐inflammatory effects in the immune system (Scheller <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0042" ref-type="ref">2011</xref>). Thus, we speculate that targeting the JAK/Stat3 signaling pathway may be a better therapeutic option than using the anti‐IL‐6 agents.</p><p>Based on our data, applying JAK/stat3 inhibitors, either alone or in combination with anti‐PD‐L1 approach, may be an effective therapeutic approach to improve the efficacy of immunotherapy for prostate cancer. Although PD‐L1 Ab and JAK/Stat3 inhibitors both affect PD‐L1, we speculate that their molecular mechanisms are different; the PD‐L1 Ab is expected to block the PD‐L1/PD‐1 interaction between tumor and NK cells, while the JAK/Stat3 inhibitors will contribute to lowering the PD‐L1 ligands in tumor cells, as we noted that the use of PD‐L1 Ab did not reduce the PD‐L1 level in tumor cells (data not shown). Thus, we believe that through different mechanisms, the application of PD‐L1 Ab and JAK/Stat3 inhibitors together may enhance the therapy efficacy than the use of single agents as we observed in Fig. <xref rid="mol212135-fig-0006" ref-type="fig">6</xref>. Targeting the JAK/Stat pathway to treat solid tumors has been previously suggested (Thomas <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0052" ref-type="ref">2015</xref>). Although our <italic toggle="yes">in vitro</italic> results showed similar effects when JAK or Stat3 pathway was inhibited, we speculate that the combined use of the JAK inhibitor with PD‐1 (or PD‐L1) Ab instead of combining Stat3 inhibitors with PD‐1 (or PD‐L1) Ab to treat patients with CRPC may be a better option for clinical application because of the following reasons: (a) Blocking the JAK pathway is expected to inhibit its downstream Stat 3 signaling by inhibiting the Stat3 Tyr phosphorylation (Hedvat <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0017" ref-type="ref">2009</xref>), and (b) clinical reports using the JAK inhibitor showed more promising results than the Stat3 inhibitor. Further <italic toggle="yes">in vivo</italic> investigation to prove the effect of this combined therapy in enhancing the NK cell cytotoxicity will be essential to validate the potential of this novel therapy strategy.</p><p>Detailed mechanisms that JAK/Stat3 pathway triggers expressions of PD‐L1/NKG2D ligands have not been explored in this study. Ritprajak and Azuma (<xref rid="mol212135-bib-0037" ref-type="ref">2015</xref>) suggested that JAK/Stat‐PI3K/Akt‐mTOR pathway promotes the transcription of PD‐L1 via activation of transcription factor, S6K. In our studies, we observed that the PD‐L1 expression in CRPC was also affected by inhibitors of Akt and mTOR pathways (although the effect was not as significant as the effects of JAK/Stat3 inhibition), so we speculate that this regulation is possible. It was also suggested that JAK/Stat may directly promote the PD‐L1 transcription via activation of the transcription factor, interferon regulatory factor‐1 (IRF‐1) (Ritprajak and Azuma, <xref rid="mol212135-bib-0037" ref-type="ref">2015</xref>). On the other hand, it was also shown that the IL‐6/JAK/STAT3 signaling pathway‐mediated PD‐L1 increase in lung cancer cells was via activation of EGFR‐tyrosine kinase (Zhang <italic toggle="yes">et al</italic>., <xref rid="mol212135-bib-0061" ref-type="ref">2016</xref>). This possibility should also be tested.</p></sec><sec id="mol212135-sec-0023"><label>5</label><title>Conclusion</title><p>In this study, we discovered the IL‐6 role in CRPC cells in rendering the resistance to NK cell‐mediated cytotoxicity due to the alteration of PD‐L1/NKG2D ligand levels. We further found that JAK‐Stat3 is the most critical IL‐6 downstream signaling that is responsible for the modulation of PD‐L1/NKG2D ligands in CRPC cells, so the addition of inhibitors of JAK or Stat3 signaling increased the susceptibility of CRPC cells to NK cell cytotoxicity. The strategy of targeting IL‐6 or its downstream JAK/stat3 signaling, either alone or together with the current PD‐L1 Ab, may be applied to future immunotherapeutics to treat CRPC.</p></sec><sec id="mol212135-sec-0025"><title>Author contributions</title><p>LX, XC, and MS performed <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic> experiments, statistical analyses, and made the figures. SOL and YT contributed to the generation of knockdown cell lines. LF and GW provided and performed staining of human tissues. D‐RY and PK helped in interpretation of data and reviewed the manuscript. SOL and YC conceived the idea and wrote the manuscript. All authors reviewed and agreed to the information in this manuscript.</p></sec></body><back><ack id="mol212135-sec-0024"><title>Acknowledgements</title><p>We thank Mrs Laura Finger for assistance with manuscript preparation. Each of the methodologies described is essentially the same as that described in Shen <italic toggle="yes">et al</italic>. (<xref rid="mol212135-bib-0043" ref-type="ref">2017</xref>). Funding from Richard T. Bell Endowed Professorship. IVIS Spectrum imaging was partially supported by grants from the NIH S10 RR026542 and P30 AR069655.</p></ack><ref-list content-type="cited-references" id="mol212135-bibl-0001"><title>References</title><ref id="mol212135-bib-0001"><mixed-citation publication-type="journal" id="mol212135-cit-0001">
+<string-name name-style="western">
+<surname>Abe</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tamada</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ito</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>T</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Nomoto</surname>
+<given-names>K</given-names>
+</string-name> (<year>1998</year>) <article-title>Early‐appearing tumor‐infiltrating natural killer cells play an important role in the nitric oxide production of tumor‐associated macrophages through their interferon production</article-title>. <source>Cancer Immunol Immunother</source>
+<volume>45</volume>, <fpage>225</fpage>–<lpage>233</lpage>.<pub-id pub-id-type="pmid">9439645</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s002620050437</pub-id><pub-id pub-id-type="pmcid">PMC11037783</pub-id></mixed-citation></ref><ref id="mol212135-bib-0002"><mixed-citation publication-type="journal" id="mol212135-cit-0002">
+<string-name name-style="western">
+<surname>Afreen</surname>
+<given-names>S</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Dermime</surname>
+<given-names>S</given-names>
+</string-name> (<year>2014</year>) <article-title>The immunoinhibitory B7‐H1 molecule as a potential target in cancer: killing many birds with one stone</article-title>. <source>Hematol Oncol Stem Cell Ther</source>
+<volume>7</volume>, <fpage>1</fpage>–<lpage>17</lpage>.<pub-id pub-id-type="pmid">24398144</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hemonc.2013.09.005</pub-id></mixed-citation></ref><ref id="mol212135-bib-0003"><mixed-citation publication-type="journal" id="mol212135-cit-0003">
+<string-name name-style="western">
+<surname>Anagnostou</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Forde</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niknafs</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhattacharya</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adleff</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phallen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wali</surname>
+<given-names>N</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2017</year>) <article-title>Evolution of neoantigen landscape during immune checkpoint blockade in non‐small cell lung cancer</article-title>. <source>Cancer Discov</source>
+<volume>7</volume>, <fpage>264</fpage>–<lpage>276</lpage>.<pub-id pub-id-type="pmid">28031159</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2159-8290.CD-16-0828</pub-id><pub-id pub-id-type="pmcid">PMC5733805</pub-id></mixed-citation></ref><ref id="mol212135-bib-0004"><mixed-citation publication-type="journal" id="mol212135-cit-0004">
+<string-name name-style="western">
+<surname>Bae</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>YK</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JK</given-names>
+</string-name> (<year>2012</year>) <article-title>Importance of NKG2D‐NKG2D ligands interaction for cytolytic activity of natural killer cell</article-title>. <source>Cell Immunol</source>
+<volume>276</volume>, <fpage>122</fpage>–<lpage>127</lpage>.<pub-id pub-id-type="pmid">22613008</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cellimm.2012.04.011</pub-id></mixed-citation></ref><ref id="mol212135-bib-0005"><mixed-citation publication-type="journal" id="mol212135-cit-0005">
+<string-name name-style="western">
+<surname>Bellucci</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bommarito</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hansen</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freeman</surname>
+<given-names>GJ</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Ritz</surname>
+<given-names>J</given-names>
+</string-name> (<year>2015</year>) <article-title>Interferon‐gamma‐induced activation of JAK1 and JAK2 suppresses tumor cell susceptibility to NK cells through upregulation of PD‐L1 expression</article-title>. <source>Oncoimmunology</source>
+<volume>4</volume>, <fpage>e1008824</fpage>.<pub-id pub-id-type="pmid">26155422</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/2162402X.2015.1008824</pub-id><pub-id pub-id-type="pmcid">PMC4485824</pub-id></mixed-citation></ref><ref id="mol212135-bib-0006"><mixed-citation publication-type="journal" id="mol212135-cit-0006">
+<string-name name-style="western">
+<surname>Culig</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartsch</surname>
+<given-names>G</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Hobisch</surname>
+<given-names>A</given-names>
+</string-name> (<year>2002</year>) <article-title>Interleukin‐6 regulates androgen receptor activity and prostate cancer cell growth</article-title>. <source>Mol Cell Endocrinol</source>
+<volume>197</volume>, <fpage>231</fpage>–<lpage>238</lpage>.<pub-id pub-id-type="pmid">12431817</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0303-7207(02)00263-0</pub-id></mixed-citation></ref><ref id="mol212135-bib-0007"><mixed-citation publication-type="journal" id="mol212135-cit-0007">
+<string-name name-style="western">
+<surname>Culig</surname>
+<given-names>Z</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Puhr</surname>
+<given-names>M</given-names>
+</string-name> (<year>2012</year>) <article-title>Interleukin‐6: a multifunctional targetable cytokine in human prostate cancer</article-title>. <source>Mol Cell Endocrinol</source>
+<volume>360</volume>, <fpage>52</fpage>–<lpage>58</lpage>.<pub-id pub-id-type="pmid">21664423</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.mce.2011.05.033</pub-id><pub-id pub-id-type="pmcid">PMC3409376</pub-id></mixed-citation></ref><ref id="mol212135-bib-0008"><mixed-citation publication-type="journal" id="mol212135-cit-0008">
+<string-name name-style="western">
+<surname>Culig</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steiner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartsch</surname>
+<given-names>G</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Hobisch</surname>
+<given-names>A</given-names>
+</string-name> (<year>2005</year>) <article-title>Interleukin‐6 regulation of prostate cancer cell growth</article-title>. <source>J Cell Biochem</source>
+<volume>95</volume>, <fpage>497</fpage>–<lpage>505</lpage>.<pub-id pub-id-type="pmid">15838876</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcb.20477</pub-id></mixed-citation></ref><ref id="mol212135-bib-0009"><mixed-citation publication-type="journal" id="mol212135-cit-0009">
+<string-name name-style="western">
+<surname>Decker</surname>
+<given-names>T</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Lohmann‐Matthes</surname>
+<given-names>ML</given-names>
+</string-name> (<year>1988</year>) <article-title>A quick and simple method for the quantitation of lactate dehydrogenase release in measurements of cellular cytotoxicity and tumor necrosis factor (TNF) activity</article-title>. <source>J Immunol Methods</source>
+<volume>115</volume>, <fpage>61</fpage>–<lpage>69</lpage>.<pub-id pub-id-type="pmid">3192948</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-1759(88)90310-9</pub-id></mixed-citation></ref><ref id="mol212135-bib-0010"><mixed-citation publication-type="journal" id="mol212135-cit-0010">
+<string-name name-style="western">
+<surname>Fujita</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yagishita</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagiwara</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoshioka</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosaka</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takeshita</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fujiwara</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsuta</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nokihara</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tamura</surname>
+<given-names>T</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>The clinical relevance of the miR‐197/CKS1B/STAT3‐mediated PD‐L1 network in chemoresistant non‐small‐cell lung cancer</article-title>. <source>Mol Ther</source>
+<volume>23</volume>, <fpage>717</fpage>–<lpage>727</lpage>.<pub-id pub-id-type="pmid">25597412</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/mt.2015.10</pub-id><pub-id pub-id-type="pmcid">PMC4395779</pub-id></mixed-citation></ref><ref id="mol212135-bib-0011"><mixed-citation publication-type="journal" id="mol212135-cit-0011">
+<string-name name-style="western">
+<surname>Godoy‐Tundidor</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cavarretta</surname>
+<given-names>IT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuchs</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fiechtl</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steiner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Friedbichler</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartsch</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hobisch</surname>
+<given-names>A</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Culig</surname>
+<given-names>Z</given-names>
+</string-name> (<year>2005</year>) <article-title>Interleukin‐6 and oncostatin M stimulation of proliferation of prostate cancer 22Rv1 cells through the signaling pathways of p38 mitogen‐activated protein kinase and phosphatidylinositol 3‐kinase</article-title>. <source>Prostate</source>
+<volume>64</volume>, <fpage>209</fpage>–<lpage>216</lpage>.<pub-id pub-id-type="pmid">15712220</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pros.20235</pub-id></mixed-citation></ref><ref id="mol212135-bib-0012"><mixed-citation publication-type="journal" id="mol212135-cit-0012">
+<string-name name-style="western">
+<surname>Gowrishankar</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gunatilake</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallagher</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tiffen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rizos</surname>
+<given-names>H</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Hersey</surname>
+<given-names>P</given-names>
+</string-name> (<year>2015</year>) <article-title>Inducible but not constitutive expression of PD‐L1 in human melanoma cells is dependent on activation of NF‐kappaB</article-title>. <source>PLoS ONE</source>
+<volume>10</volume>, <fpage>e0123410</fpage>.<pub-id pub-id-type="pmid">25844720</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0123410</pub-id><pub-id pub-id-type="pmcid">PMC4386825</pub-id></mixed-citation></ref><ref id="mol212135-bib-0013"><mixed-citation publication-type="journal" id="mol212135-cit-0013">
+<string-name name-style="western">
+<surname>Granzin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wagner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kohl</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cerwenka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huppert</surname>
+<given-names>V</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Ullrich</surname>
+<given-names>E</given-names>
+</string-name> (<year>2017</year>) <article-title>Shaping of natural killer cell antitumor activity by ex vivo cultivation</article-title>. <source>Front Immunol</source>
+<volume>8</volume>, <fpage>458</fpage>.<pub-id pub-id-type="pmid">28491060</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2017.00458</pub-id><pub-id pub-id-type="pmcid">PMC5405078</pub-id></mixed-citation></ref><ref id="mol212135-bib-0014"><mixed-citation publication-type="journal" id="mol212135-cit-0014">
+<string-name name-style="western">
+<surname>Gu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Talati</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogiatzi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romero‐Weaver</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdulghani</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leiby</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoang</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mirtti</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alanen</surname>
+<given-names>K</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2014</year>) <article-title>Pharmacologic suppression of JAK1/2 by JAK1/2 inhibitor AZD1480 potently inhibits IL‐6‐induced experimental prostate cancer metastases formation</article-title>. <source>Mol Cancer Ther</source>
+<volume>13</volume>, <fpage>1246</fpage>–<lpage>1258</lpage>.<pub-id pub-id-type="pmid">24577942</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1535-7163.MCT-13-0605</pub-id><pub-id pub-id-type="pmcid">PMC4013199</pub-id></mixed-citation></ref><ref id="mol212135-bib-0015"><mixed-citation publication-type="journal" id="mol212135-cit-0015">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cranert</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhong</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahl</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davidson</surname>
+<given-names>D</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2016a</year>) <article-title>Deletion of Slam locus in mice reveals inhibitory role of SLAM family in NK cell responses regulated by cytokines and LFA‐1</article-title>. <source>J Exp Med</source>
+<volume>213</volume>, <fpage>2187</fpage>–<lpage>2207</lpage>.<pub-id pub-id-type="pmid">27573813</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1084/jem.20160552</pub-id><pub-id pub-id-type="pmcid">PMC5030809</pub-id></mixed-citation></ref><ref id="mol212135-bib-0016"><mixed-citation publication-type="journal" id="mol212135-cit-0016">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xing</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fadeel</surname>
+<given-names>B</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>C</given-names>
+</string-name> (<year>2016b</year>) <article-title>PD1 blockade enhances cytotoxicity of in vitro expanded natural killer cells towards myeloma cells</article-title>. <source>Oncotarget</source>
+<volume>7</volume>, <fpage>48360</fpage>–<lpage>48374</lpage>.<pub-id pub-id-type="pmid">27356741</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.10235</pub-id><pub-id pub-id-type="pmcid">PMC5217023</pub-id></mixed-citation></ref><ref id="mol212135-bib-0017"><mixed-citation publication-type="journal" id="mol212135-cit-0017">
+<string-name name-style="western">
+<surname>Hedvat</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huszar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herrmann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gozgit</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schroeder</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheehy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buettner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Proia</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kowolik</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xin</surname>
+<given-names>H</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2009</year>) <article-title>The JAK2 inhibitor AZD1480 potently blocks Stat3 signaling and oncogenesis in solid tumors</article-title>. <source>Cancer Cell</source>
+<volume>16</volume>, <fpage>487</fpage>–<lpage>497</lpage>.<pub-id pub-id-type="pmid">19962667</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccr.2009.10.015</pub-id><pub-id pub-id-type="pmcid">PMC2812011</pub-id></mixed-citation></ref><ref id="mol212135-bib-0018"><mixed-citation publication-type="journal" id="mol212135-cit-0018">
+<string-name name-style="western">
+<surname>Hobisch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eder</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Putz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horninger</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartsch</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klocker</surname>
+<given-names>H</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Culig</surname>
+<given-names>Z</given-names>
+</string-name> (<year>1998</year>) <article-title>Interleukin‐6 regulates prostate‐specific protein expression in prostate carcinoma cells by activation of the androgen receptor</article-title>. <source>Cancer Res</source>
+<volume>58</volume>, <fpage>4640</fpage>–<lpage>4645</lpage>.<pub-id pub-id-type="pmid">9788616</pub-id></mixed-citation></ref><ref id="mol212135-bib-0019"><mixed-citation publication-type="journal" id="mol212135-cit-0019">
+<string-name name-style="western">
+<surname>Hou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Oord</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Groothuismink</surname>
+<given-names>ZM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claassen</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kreefft</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaaraoui‐Boutahar</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van IJcken</surname>
+<given-names>WF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Osterhaus</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janssen</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andeweg</surname>
+<given-names>AC</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2014</year>) <article-title>Gene expression profiling to predict and assess the consequences of therapy‐induced virus eradication in chronic hepatitis C virus infection</article-title>. <source>J Virol</source>
+<volume>88</volume>, <fpage>12254</fpage>–<lpage>12264</lpage>.<pub-id pub-id-type="pmid">25100847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/JVI.00775-14</pub-id><pub-id pub-id-type="pmcid">PMC4248905</pub-id></mixed-citation></ref><ref id="mol212135-bib-0020"><mixed-citation publication-type="journal" id="mol212135-cit-0020">
+<string-name name-style="western">
+<surname>Ikeda</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okamoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okano</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Umemoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tagawa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morodomi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kohno</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shimamatsu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kitahara</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suzuki</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2016</year>) <article-title>PD‐L1 Is upregulated by simultaneous amplification of the PD‐L1 and JAK2 genes in non‐small cell lung cancer</article-title>. <source>J Thorac Oncol</source>
+<volume>11</volume>, <fpage>62</fpage>–<lpage>71</lpage>.<pub-id pub-id-type="pmid">26762740</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jtho.2015.09.010</pub-id></mixed-citation></ref><ref id="mol212135-bib-0021"><mixed-citation publication-type="journal" id="mol212135-cit-0021">
+<string-name name-style="western">
+<surname>Iwai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishida</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okazaki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Honjo</surname>
+<given-names>T</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Minato</surname>
+<given-names>N</given-names>
+</string-name> (<year>2002</year>) <article-title>Involvement of PD‐L1 on tumor cells in the escape from host immune system and tumor immunotherapy by PD‐L1 blockade</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<volume>99</volume>, <fpage>12293</fpage>–<lpage>12297</lpage>.<pub-id pub-id-type="pmid">12218188</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.192461099</pub-id><pub-id pub-id-type="pmcid">PMC129438</pub-id></mixed-citation></ref><ref id="mol212135-bib-0022"><mixed-citation publication-type="journal" id="mol212135-cit-0022">
+<string-name name-style="western">
+<surname>Kastelan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kraljic</surname>
+<given-names>I</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Tarle</surname>
+<given-names>M</given-names>
+</string-name> (<year>1992</year>) <article-title>NK cell activity in treated prostate cancer patients as a probe for circulating tumor cells: hormone regulatory effects in vivo</article-title>. <source>Prostate</source>
+<volume>21</volume>, <fpage>111</fpage>–<lpage>120</lpage>.<pub-id pub-id-type="pmid">1384013</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pros.2990210204</pub-id></mixed-citation></ref><ref id="mol212135-bib-0023"><mixed-citation publication-type="journal" id="mol212135-cit-0023">
+<string-name name-style="western">
+<surname>Klingemann</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boissel</surname>
+<given-names>L</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Toneguzzo</surname>
+<given-names>F</given-names>
+</string-name> (<year>2016</year>) <article-title>Natural killer cells for immunotherapy – advantages of the NK‐92 cell line over blood NK cells</article-title>. <source>Front Immunol</source>
+<volume>7</volume>, <fpage>91</fpage>.<pub-id pub-id-type="pmid">27014270</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2016.00091</pub-id><pub-id pub-id-type="pmcid">PMC4789404</pub-id></mixed-citation></ref><ref id="mol212135-bib-0024"><mixed-citation publication-type="journal" id="mol212135-cit-0024">
+<string-name name-style="western">
+<surname>Korzeniewski</surname>
+<given-names>C</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Callewaert</surname>
+<given-names>DM</given-names>
+</string-name> (<year>1983</year>) <article-title>An enzyme‐release assay for natural cytotoxicity</article-title>. <source>J Immunol Methods</source>
+<volume>64</volume>, <fpage>313</fpage>–<lpage>320</lpage>.<pub-id pub-id-type="pmid">6199426</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-1759(83)90438-6</pub-id></mixed-citation></ref><ref id="mol212135-bib-0025"><mixed-citation publication-type="journal" id="mol212135-cit-0025">
+<string-name name-style="western">
+<surname>Kurosawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsuzaki</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shinomiya</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Terao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kobayashi</surname>
+<given-names>N</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Nomoto</surname>
+<given-names>K</given-names>
+</string-name> (<year>1995</year>) <article-title>Early‐appearing tumour‐infiltrating natural killer cells play a crucial role in the generation of anti‐tumour T lymphocytes</article-title>. <source>Immunology</source>
+<volume>85</volume>, <fpage>338</fpage>–<lpage>346</lpage>.<pub-id pub-id-type="pmid">7642226</pub-id><pub-id pub-id-type="pmcid">PMC1383901</pub-id></mixed-citation></ref><ref id="mol212135-bib-0026"><mixed-citation publication-type="journal" id="mol212135-cit-0026">
+<string-name name-style="western">
+<surname>Kwon</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drake</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scher</surname>
+<given-names>HI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fizazi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bossi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van den Eertwegh</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krainer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Houede</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santos</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahammedi</surname>
+<given-names>H</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2014</year>) <article-title>Ipilimumab versus placebo after radiotherapy in patients with metastatic castration‐resistant prostate cancer that had progressed after docetaxel chemotherapy (CA184‐043): a multicentre, randomised, double‐blind, phase 3 trial</article-title>. <source>Lancet Oncol</source>
+<volume>15</volume>, <fpage>700</fpage>–<lpage>712</lpage>.<pub-id pub-id-type="pmid">24831977</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(14)70189-5</pub-id><pub-id pub-id-type="pmcid">PMC4418935</pub-id></mixed-citation></ref><ref id="mol212135-bib-0027"><mixed-citation publication-type="journal" id="mol212135-cit-0027">
+<string-name name-style="western">
+<surname>Lastwika</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>W</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>QK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Norris</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghazarian</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kitagawa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kawabata</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taube</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yao</surname>
+<given-names>S</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2016</year>) <article-title>Control of PD‐L1 expression by oncogenic activation of the AKT‐mTOR pathway in non‐small cell lung cancer</article-title>. <source>Cancer Res</source>
+<volume>76</volume>, <fpage>227</fpage>–<lpage>238</lpage>.<pub-id pub-id-type="pmid">26637667</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-14-3362</pub-id></mixed-citation></ref><ref id="mol212135-bib-0028"><mixed-citation publication-type="journal" id="mol212135-cit-0028">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>SO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lou</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trump</surname>
+<given-names>DL</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>AC</given-names>
+</string-name> (<year>2004</year>) <article-title>Interleukin‐6 protects LNCaP cells from apoptosis induced by androgen deprivation through the Stat3 pathway</article-title>. <source>Prostate</source>
+<volume>60</volume>, <fpage>178</fpage>–<lpage>186</lpage>.<pub-id pub-id-type="pmid">15176047</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pros.20045</pub-id></mixed-citation></ref><ref id="mol212135-bib-0029"><mixed-citation publication-type="journal" id="mol212135-cit-0029">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Page</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Higano</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Plymate</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greenberg</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>JD</given-names>
+</string-name> (<year>2013</year>) <article-title>Perturbation of NK cell peripheral homeostasis accelerates prostate carcinoma metastasis</article-title>. <source>J Clin Investig</source>
+<volume>123</volume>, <fpage>4410</fpage>–<lpage>4422</lpage>.<pub-id pub-id-type="pmid">24018560</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI69369</pub-id><pub-id pub-id-type="pmcid">PMC3784540</pub-id></mixed-citation></ref><ref id="mol212135-bib-0030"><mixed-citation publication-type="journal" id="mol212135-cit-0030">
+<string-name name-style="western">
+<surname>Marzec</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goradia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raghunath</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paessler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wysocka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruggeri</surname>
+<given-names>BA</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2008</year>) <article-title>Oncogenic kinase NPM/ALK induces through STAT3 expression of immunosuppressive protein CD274 (PD‐L1, B7‐H1)</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<volume>105</volume>, <fpage>20852</fpage>–<lpage>20857</lpage>.<pub-id pub-id-type="pmid">19088198</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0810958105</pub-id><pub-id pub-id-type="pmcid">PMC2634900</pub-id></mixed-citation></ref><ref id="mol212135-bib-0031"><mixed-citation publication-type="journal" id="mol212135-cit-0031">
+<string-name name-style="western">
+<surname>Mu</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>C</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>XG</given-names>
+</string-name> (<year>2011</year>) <article-title>High expression of PD‐L1 in lung cancer may contribute to poor prognosis and tumor cells immune escape through suppressing tumor infiltrating dendritic cells maturation</article-title>. <source>Med Oncol</source>
+<volume>28</volume>, <fpage>682</fpage>–<lpage>688</lpage>.<pub-id pub-id-type="pmid">20373055</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12032-010-9515-2</pub-id></mixed-citation></ref><ref id="mol212135-bib-0032"><mixed-citation publication-type="journal" id="mol212135-cit-0032">
+<string-name name-style="western">
+<surname>Nausch</surname>
+<given-names>N</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Cerwenka</surname>
+<given-names>A</given-names>
+</string-name> (<year>2008</year>) <article-title>NKG2D ligands in tumor immunity</article-title>. <source>Oncogene</source>
+<volume>27</volume>, <fpage>5944</fpage>–<lpage>5958</lpage>.<pub-id pub-id-type="pmid">18836475</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/onc.2008.272</pub-id></mixed-citation></ref><ref id="mol212135-bib-0033"><mixed-citation publication-type="journal" id="mol212135-cit-0033">
+<string-name name-style="western">
+<surname>Noh</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Satelli</surname>
+<given-names>A</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name> (<year>2015</year>) <article-title>Immune checkpoint regulator PD‐L1 expression on tumor cells by contacting CD11b positive bone marrow derived stromal cells</article-title>. <source>Cell Commun Signal</source>
+<volume>13</volume>, <fpage>14</fpage>.<pub-id pub-id-type="pmid">25889536</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12964-015-0093-y</pub-id><pub-id pub-id-type="pmcid">PMC4353689</pub-id></mixed-citation></ref><ref id="mol212135-bib-0034"><mixed-citation publication-type="journal" id="mol212135-cit-0034">
+<string-name name-style="western">
+<surname>Parry</surname>
+<given-names>RV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chemnitz</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frauwirth</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lanfranco</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braunstein</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kobayashi</surname>
+<given-names>SV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Linsley</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>CB</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Riley</surname>
+<given-names>JL</given-names>
+</string-name> (<year>2005</year>) <article-title>CTLA‐4 and PD‐1 receptors inhibit T‐cell activation by distinct mechanisms</article-title>. <source>Mol Cell Biol</source>
+<volume>25</volume>, <fpage>9543</fpage>–<lpage>9553</lpage>.<pub-id pub-id-type="pmid">16227604</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/MCB.25.21.9543-9553.2005</pub-id><pub-id pub-id-type="pmcid">PMC1265804</pub-id></mixed-citation></ref><ref id="mol212135-bib-0035"><mixed-citation publication-type="journal" id="mol212135-cit-0035">
+<string-name name-style="western">
+<surname>Pasero</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gravis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Granjeaud</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guerin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomassin‐Piana</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rocchi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salem</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moretta</surname>
+<given-names>A</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Olive</surname>
+<given-names>D</given-names>
+</string-name> (<year>2015</year>) <article-title>Highly effective NK cells are associated with good prognosis in patients with metastatic prostate cancer</article-title>. <source>Oncotarget</source>
+<volume>6</volume>, <fpage>14360</fpage>–<lpage>14373</lpage>.<pub-id pub-id-type="pmid">25961317</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.3965</pub-id><pub-id pub-id-type="pmcid">PMC4546472</pub-id></mixed-citation></ref><ref id="mol212135-bib-0036"><mixed-citation publication-type="journal" id="mol212135-cit-0036">
+<string-name name-style="western">
+<surname>Pasero</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gravis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guerin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Granjeaud</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomassin‐Piana</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rocchi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paciencia‐Gros</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poizat</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bentobji</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azario‐Cheillan</surname>
+<given-names>F</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2016</year>) <article-title>Inherent and tumor‐driven immune tolerance in the prostate microenvironment impairs natural killer cell antitumor activity</article-title>. <source>Cancer Res</source>
+<volume>76</volume>, <fpage>2153</fpage>–<lpage>2165</lpage>.<pub-id pub-id-type="pmid">27197252</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-15-1965</pub-id></mixed-citation></ref><ref id="mol212135-bib-0037"><mixed-citation publication-type="journal" id="mol212135-cit-0037">
+<string-name name-style="western">
+<surname>Ritprajak</surname>
+<given-names>P</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Azuma</surname>
+<given-names>M</given-names>
+</string-name> (<year>2015</year>) <article-title>Intrinsic and extrinsic control of expression of the immunoregulatory molecule PD‐L1 in epithelial cells and squamous cell carcinoma</article-title>. <source>Oral Oncol</source>
+<volume>51</volume>, <fpage>221</fpage>–<lpage>228</lpage>.<pub-id pub-id-type="pmid">25500094</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.oraloncology.2014.11.014</pub-id></mixed-citation></ref><ref id="mol212135-bib-0038"><mixed-citation publication-type="journal" id="mol212135-cit-0038">
+<string-name name-style="western">
+<surname>Rizvi</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hellmann</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snyder</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kvistborg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Makarov</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Havel</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wong</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>
+<given-names>TS</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>Cancer immunology. Mutational landscape determines sensitivity to PD‐1 blockade in non‐small cell lung cancer</article-title>. <source>Science</source>
+<volume>348</volume>, <fpage>124</fpage>–<lpage>128</lpage>.<pub-id pub-id-type="pmid">25765070</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.aaa1348</pub-id><pub-id pub-id-type="pmcid">PMC4993154</pub-id></mixed-citation></ref><ref id="mol212135-bib-0039"><mixed-citation publication-type="journal" id="mol212135-cit-0039">
+<string-name name-style="western">
+<surname>Roberts</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cossigny</surname>
+<given-names>DA</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Quan</surname>
+<given-names>GM</given-names>
+</string-name> (<year>2013</year>) <article-title>The role of vascular endothelial growth factor in metastatic prostate cancer to the skeleton</article-title>. <source>Prostate Cancer</source>
+<volume>2013</volume>, <fpage>418340</fpage>.<pub-id pub-id-type="pmid">24396604</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2013/418340</pub-id><pub-id pub-id-type="pmcid">PMC3874956</pub-id></mixed-citation></ref><ref id="mol212135-bib-0040"><mixed-citation publication-type="journal" id="mol212135-cit-0040">
+<string-name name-style="western">
+<surname>Rong</surname>
+<given-names>XX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>XL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jia</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>RY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>TY</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2016</year>) <article-title>Recognition and killing of cancer stem‐like cell population in hepatocellular carcinoma cells by cytokine‐induced killer cells via NKG2d‐ligands recognition</article-title>. <source>Oncoimmunology</source>
+<volume>5</volume>, <fpage>e1086060</fpage>.<pub-id pub-id-type="pmid">27141341</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/2162402X.2015.1086060</pub-id><pub-id pub-id-type="pmcid">PMC4839362</pub-id></mixed-citation></ref><ref id="mol212135-bib-0041"><mixed-citation publication-type="journal" id="mol212135-cit-0041">
+<string-name name-style="western">
+<surname>Saito</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuroda</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsunaga</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Osaki</surname>
+<given-names>T</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Ikeguchi</surname>
+<given-names>M</given-names>
+</string-name> (<year>2013</year>) <article-title>Increased PD‐1 expression on CD4+ and CD8+ T cells is involved in immune evasion in gastric cancer</article-title>. <source>J Surg Oncol</source>
+<volume>107</volume>, <fpage>517</fpage>–<lpage>522</lpage>.<pub-id pub-id-type="pmid">23129549</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jso.23281</pub-id></mixed-citation></ref><ref id="mol212135-bib-0042"><mixed-citation publication-type="journal" id="mol212135-cit-0042">
+<string-name name-style="western">
+<surname>Scheller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chalaris</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmidt‐Arras</surname>
+<given-names>D</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Rose‐John</surname>
+<given-names>S</given-names>
+</string-name> (<year>2011</year>) <article-title>The pro‐ and anti‐inflammatory properties of the cytokine interleukin‐6</article-title>. <source>Biochem Biophys Acta</source>
+<volume>1813</volume>, <fpage>878</fpage>–<lpage>888</lpage>.<pub-id pub-id-type="pmid">21296109</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbamcr.2011.01.034</pub-id></mixed-citation></ref><ref id="mol212135-bib-0043"><mixed-citation publication-type="journal" id="mol212135-cit-0043">
+<string-name name-style="western">
+<surname>Shen</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keng</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>SO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2017</year>) <article-title>Radiation alters PD‐L1/NKG2D ligand levels in lung cancer cells and leads to immune escape from NK cell cytotoxicity via IL‐6‐MEK/Erk signaling pathway</article-title>. <source>Oncotarget</source>
+<volume>8</volume>, <fpage>80506</fpage>–<lpage>80520</lpage>.<pub-id pub-id-type="pmid">29113321</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.19193</pub-id><pub-id pub-id-type="pmcid">PMC5655216</pub-id></mixed-citation></ref><ref id="mol212135-bib-0044"><mixed-citation publication-type="journal" id="mol212135-cit-0044">
+<string-name name-style="western">
+<surname>Shi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yeh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cai</surname>
+<given-names>X</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Chang</surname>
+<given-names>C</given-names>
+</string-name> (<year>2016</year>) <article-title>Cisplatin enhances NK cells immunotherapy efficacy to suppress HCC progression via altering the androgen receptor (AR)‐ULBP2 signals</article-title>. <source>Cancer Lett</source>
+<volume>373</volume>, <fpage>45</fpage>–<lpage>56</lpage>.<pub-id pub-id-type="pmid">26805759</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.canlet.2016.01.017</pub-id><pub-id pub-id-type="pmcid">PMC4887098</pub-id></mixed-citation></ref><ref id="mol212135-bib-0045"><mixed-citation publication-type="journal" id="mol212135-cit-0045">
+<string-name name-style="western">
+<surname>Smith</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wunder</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Norris</surname>
+<given-names>DA</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Shellman</surname>
+<given-names>YG</given-names>
+</string-name> (<year>2011</year>) <article-title>A simple protocol for using a LDH‐based cytotoxicity assay to assess the effects of death and growth inhibition at the same time</article-title>. <source>PLoS ONE</source>
+<volume>6</volume>, <fpage>e26908</fpage>.<pub-id pub-id-type="pmid">22125603</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0026908</pub-id><pub-id pub-id-type="pmcid">PMC3219643</pub-id></mixed-citation></ref><ref id="mol212135-bib-0046"><mixed-citation publication-type="journal" id="mol212135-cit-0046">
+<string-name name-style="western">
+<surname>Smyth</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Godfrey</surname>
+<given-names>DI</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Trapani</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2001</year>) <article-title>A fresh look at tumor immunosurveillance and immunotherapy</article-title>. <source>Nat Immunol</source>
+<volume>2</volume>, <fpage>293</fpage>–<lpage>299</lpage>.<pub-id pub-id-type="pmid">11276199</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/86297</pub-id></mixed-citation></ref><ref id="mol212135-bib-0047"><mixed-citation publication-type="journal" id="mol212135-cit-0047">
+<string-name name-style="western">
+<surname>Spear</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sentman</surname>
+<given-names>ML</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Sentman</surname>
+<given-names>CL</given-names>
+</string-name> (<year>2013</year>) <article-title>NKG2D ligands as therapeutic targets</article-title>. <source>Cancer Immun</source>
+<volume>13</volume>, <fpage>8</fpage>.<pub-id pub-id-type="pmid">23833565</pub-id><pub-id pub-id-type="pmcid">PMC3700746</pub-id></mixed-citation></ref><ref id="mol212135-bib-0048"><mixed-citation publication-type="journal" id="mol212135-cit-0048">
+<string-name name-style="western">
+<surname>Srivastava</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lundqvist</surname>
+<given-names>A</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Childs</surname>
+<given-names>RW</given-names>
+</string-name> (<year>2008</year>) <article-title>Natural killer cell immunotherapy for cancer: a new hope</article-title>. <source>Cytotherapy</source>
+<volume>10</volume>, <fpage>775</fpage>–<lpage>783</lpage>.<pub-id pub-id-type="pmid">19089686</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14653240802648181</pub-id><pub-id pub-id-type="pmcid">PMC7213758</pub-id></mixed-citation></ref><ref id="mol212135-bib-0049"><mixed-citation publication-type="journal" id="mol212135-cit-0049">
+<string-name name-style="western">
+<surname>Tam</surname>
+<given-names>YK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miyagawa</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>
+<given-names>VC</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Klingemann</surname>
+<given-names>HG</given-names>
+</string-name> (<year>1999</year>) <article-title>Immunotherapy of malignant melanoma in a SCID mouse model using the highly cytotoxic natural killer cell line NK‐92</article-title>. <source>J Hematother</source>
+<volume>8</volume>, <fpage>281</fpage>–<lpage>290</lpage>.<pub-id pub-id-type="pmid">10417052</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/106161299320316</pub-id></mixed-citation></ref><ref id="mol212135-bib-0050"><mixed-citation publication-type="journal" id="mol212135-cit-0050">
+<string-name name-style="western">
+<surname>Taneja</surname>
+<given-names>SS</given-names>
+</string-name> (<year>2015</year>) <article-title>Re: Ipilimumab versus placebo after radiotherapy in patients with metastatic castration‐resistant prostate cancer that had progressed after docetaxel chemotherapy (CA184‐043): a multicentre, randomised, double‐blind, phase 3 trial</article-title>. <source>J Urol</source>
+<volume>193</volume>, <fpage>848</fpage>–<lpage>849</lpage>.<pub-id pub-id-type="pmid">25765387</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.juro.2014.12.078</pub-id></mixed-citation></ref><ref id="mol212135-bib-0051"><mixed-citation publication-type="journal" id="mol212135-cit-0051">
+<string-name name-style="western">
+<surname>Tarle</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kraljic</surname>
+<given-names>I</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Kastelan</surname>
+<given-names>M</given-names>
+</string-name> (<year>1993</year>) <article-title>Comparison between NK cell activity and prostate cancer stage and grade in untreated patients: correlation with tumor markers and hormonal serotest data</article-title>. <source>Urol Res</source>
+<volume>21</volume>, <fpage>17</fpage>–<lpage>21</lpage>.<pub-id pub-id-type="pmid">7681242</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00295186</pub-id></mixed-citation></ref><ref id="mol212135-bib-0052"><mixed-citation publication-type="journal" id="mol212135-cit-0052">
+<string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snowden</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeidler</surname>
+<given-names>MP</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Danson</surname>
+<given-names>SJ</given-names>
+</string-name> (<year>2015</year>) <article-title>The role of JAK/STAT signalling in the pathogenesis, prognosis and treatment of solid tumours</article-title>. <source>Br J Cancer</source>
+<volume>113</volume>, <fpage>365</fpage>–<lpage>371</lpage>.<pub-id pub-id-type="pmid">26151455</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bjc.2015.233</pub-id><pub-id pub-id-type="pmcid">PMC4522639</pub-id></mixed-citation></ref><ref id="mol212135-bib-0053"><mixed-citation publication-type="journal" id="mol212135-cit-0053">
+<string-name name-style="western">
+<surname>Topalian</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hodi</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brahmer</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gettinger</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDermott</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Powderly</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carvajal</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sosman</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atkins</surname>
+<given-names>MB</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2012</year>) <article-title>Safety, activity, and immune correlates of anti‐PD‐1 antibody in cancer</article-title>. <source>N Engl J Med</source>
+<volume>366</volume>, <fpage>2443</fpage>–<lpage>2454</lpage>.<pub-id pub-id-type="pmid">22658127</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1200690</pub-id><pub-id pub-id-type="pmcid">PMC3544539</pub-id></mixed-citation></ref><ref id="mol212135-bib-0054"><mixed-citation publication-type="journal" id="mol212135-cit-0054">
+<string-name name-style="western">
+<surname>Vester</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muller</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solbach</surname>
+<given-names>W</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Laskay</surname>
+<given-names>T</given-names>
+</string-name> (<year>1999</year>) <article-title>Early gene expression of NK cell‐activating chemokines in mice resistant to Leishmania major</article-title>. <source>Infect Immun</source>
+<volume>67</volume>, <fpage>3155</fpage>–<lpage>3159</lpage>.<pub-id pub-id-type="pmid">10338536</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/iai.67.6.3155-3159.1999</pub-id><pub-id pub-id-type="pmcid">PMC96637</pub-id></mixed-citation></ref><ref id="mol212135-bib-0055"><mixed-citation publication-type="journal" id="mol212135-cit-0055">
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ni</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>di Sant'Agnese</surname>
+<given-names>PA</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Chang</surname>
+<given-names>C</given-names>
+</string-name> (<year>2004</year>) <article-title>Regulation of interleukin‐6‐mediated PI3K activation and neuroendocrine differentiation by androgen signaling in prostate cancer LNCaP cells</article-title>. <source>Prostate</source>
+<volume>60</volume>, <fpage>61</fpage>–<lpage>67</lpage>.<pub-id pub-id-type="pmid">15129430</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pros.20048</pub-id></mixed-citation></ref><ref id="mol212135-bib-0056"><mixed-citation publication-type="journal" id="mol212135-cit-0056">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fillmore</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koyama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herter‐Sprie</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akbay</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tchaicha</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altabef</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2014</year>) <article-title>Loss of Lkb1 and Pten leads to lung squamous cell carcinoma with elevated PD‐L1 expression</article-title>. <source>Cancer Cell</source>
+<volume>25</volume>, <fpage>590</fpage>–<lpage>604</lpage>.<pub-id pub-id-type="pmid">24794706</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccr.2014.03.033</pub-id><pub-id pub-id-type="pmcid">PMC4112370</pub-id></mixed-citation></ref><ref id="mol212135-bib-0057"><mixed-citation publication-type="journal" id="mol212135-cit-0057">
+<string-name name-style="western">
+<surname>Yamamoto</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nishikori</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tashima</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sakai</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ichinohe</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takaori‐Kondo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ohmori</surname>
+<given-names>K</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Uchiyama</surname>
+<given-names>T</given-names>
+</string-name> (<year>2009</year>) <article-title>B7‐H1 expression is regulated by MEK/ERK signaling pathway in anaplastic large cell lymphoma and Hodgkin lymphoma</article-title>. <source>Cancer Sci</source>
+<volume>100</volume>, <fpage>2093</fpage>–<lpage>2100</lpage>.<pub-id pub-id-type="pmid">19703193</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1349-7006.2009.01302.x</pub-id><pub-id pub-id-type="pmcid">PMC11158527</pub-id></mixed-citation></ref><ref id="mol212135-bib-0058"><mixed-citation publication-type="journal" id="mol212135-cit-0058">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hokland</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bryant</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nannmark</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watkins</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldfarb</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herberman</surname>
+<given-names>RB</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Basse</surname>
+<given-names>PH</given-names>
+</string-name> (<year>2003</year>) <article-title>Tumor‐localization by adoptively transferred, interleukin‐2‐activated NK cells leads to destruction of well‐established lung metastases</article-title>. <source>Int J Cancer</source>
+<volume>105</volume>, <fpage>512</fpage>–<lpage>519</lpage>.<pub-id pub-id-type="pmid">12712443</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.11119</pub-id></mixed-citation></ref><ref id="mol212135-bib-0059"><mixed-citation publication-type="journal" id="mol212135-cit-0059">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keng</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>SO</given-names>
+</string-name> (<year>2017</year>) <article-title>Enhancing NK cell‐mediated cytotoxicity to cisplatin‐resistant lung cancer cells via MEK/Erk signaling inhibition</article-title>. <source>Sci Rep</source>
+<volume>7</volume>, <fpage>7958</fpage>.<pub-id pub-id-type="pmid">28801607</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-017-08483-z</pub-id><pub-id pub-id-type="pmcid">PMC5554231</pub-id></mixed-citation></ref><ref id="mol212135-bib-0060"><mixed-citation publication-type="journal" id="mol212135-cit-0060">
+<string-name name-style="western">
+<surname>Yoo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>You</surname>
+<given-names>D</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>CS</given-names>
+</string-name> (<year>2016</year>) <article-title>New drugs in prostate cancer</article-title>. <source>Prostate Int</source>
+<volume>4</volume>, <fpage>37</fpage>–<lpage>42</lpage>.<pub-id pub-id-type="pmid">27358841</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.prnil.2016.05.001</pub-id><pub-id pub-id-type="pmcid">PMC4916061</pub-id></mixed-citation></ref><ref id="mol212135-bib-0061"><mixed-citation publication-type="journal" id="mol212135-cit-0061">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Du</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name> and <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2016</year>) <article-title>The EGFR pathway is involved in the regulation of PD‐L1 expression via the IL‐6/JAK/STAT3 signaling pathway in EGFR‐mutated non‐small cell lung cancer</article-title>. <source>Int J Oncol</source>
+<volume>49</volume>, <fpage>1360</fpage>–<lpage>1368</lpage>.<pub-id pub-id-type="pmid">27499357</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijo.2016.3632</pub-id></mixed-citation></ref></ref-list></back></article>
