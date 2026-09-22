@@ -256,7 +256,237 @@ The only series that writes the method out as a protocol.
   algorithms exist but the abstracts give no heights, steps or intervals;
   Hamilton/Price and Casado favour early ETV to shorten sub-zero drainage.
 
-## C. Comparison across sources
+## C. When was the drain first raised? Gating decisions per source
+
+The question is what had to be true before the first upward step, and what
+sent the drain back down. Quotes are verbatim; FT = full text read, abs =
+abstract only.
+
+### Akins 2011 — FT (9 pts)
+- Gate to begin ascent = response at sub-zero: "After clinical and
+  radiographic improvement with sub-zero EVD drainage (typically, −3 to −10
+  cm), the EVD was raised in small increments (typically 3 cm steps) every 3–5
+  days."
+- Gate for each further step: "Prior to raising the EVD to a more positive
+  height, clinical and radiographic stability was confirmed."
+- Reverse rule: "If patients relapsed during EVD weaning, then the process was
+  repeated."
+- End-point: "Shunt internalization was performed once clinical and
+  radiographic stability was confirmed at neutral or positive EVD settings
+  (typically 0 to +3 cm)."
+- Case 6 shows the ascent gate being *skipped* for a refractory patient: "After
+  sustained improvement with EVD at −3 cm, a valveless ventriculoperitoneal
+  shunt was placed" — i.e. stability at a still-negative height was accepted as
+  the end-point. "Three patients had refractory LPH and were unable to tolerate
+  positive pressure EVD drainage" → ventriculopleural or valveless VP shunt.
+- What "radiographic" meant: figures show CT at each phase (ventricular size,
+  transependymal fluid, "restoration of the subarachnoid space"); no interval
+  stated, no volumetric threshold. Clinical = exam/consciousness; autonomic
+  signs and tachyarrhythmias are listed as presenting features that "resolved
+  following LPH diagnosis and sub-zero treatment".
+
+### Foster 2016 — FT (16 pts)
+- Gate for every upward step is a CT: "incrementally raised 1–2 cmH2O every 3–5
+  days. Prior to elevating the drain, a computed tomography (CT) scan was
+  obtained to document stable or smaller ventricular caliber."
+- Reverse rule is clinical: "If the patient demonstrated neurologic decline,
+  the drain was again lowered to a more negative pressure and the cycle
+  reinitiated."
+- End-point: "Patients underwent shunt placement once they demonstrated
+  clinical and radiographic stability with an EVD leveled at or above
+  midbrain." Illustrated case: CT "with external ventricular drain at 5 cmH2O
+  above midbrain" 3 h before the shunt.
+- The trigger for ETV was *failure* of the ascent, not a scheduled step: "an
+  inherent bias to perform ETV on patients who were refractory to sub-zero
+  drainage and, importantly, all but 1 patient undergoing ETV was at sub-zero
+  (one at zero) pressures at the time of ETV. Conversely, patients who
+  demonstrated response to drainage were not readily considered for ETV."
+  Time from LPH to ETV "ranged from 28 days to 6.5 months".
+- Frame of reference for the whole cycle: sub-zero drainage "until the
+  ventricular shrinkage was maintained at a positive pressure, and a new shunt
+  system could be inserted."
+
+### Godoy Hurtado 2023 — FT (6 pts, 4 with EVD)
+- Gate = two conditions together, ventricles and exam: "In cases of EVD, once
+  normal ventricular size and a good clinical condition had been achieved, the
+  drainage height was progressively increased by 2 cm/day until positive
+  pressures were reached."
+- Gate for the shunt: "If the clinical condition was maintained without
+  deterioration, surgery was programmed for the placement of a definitive
+  shunt".
+- Time to reach the gate in the illustrated case: "It took 25 days at intensive
+  unit care to recover normal ventricular size associated with level of
+  consciousness maintained. Then level of EVD was progressively raised until
+  Monro level. On day 40 after the onset, he could receive a new shunt".
+  Relapse 7 days after shunting → "start again negative drainage. For 20 days
+  he was maintained with the double catheter system."
+- The ceiling can be found by failure: "Once basal size was recovered, the
+  patient was unable to tolerate pressures above 2 cm of water, above which she
+  would fall back into an arreactive coma. The whole time with forced negative
+  pressure was 15 days." Another patient "needed to remain at zero to stay
+  awake and return to baseline ventricular size."
+- Monitoring during the cycle: "concomitant intracranial pressure monitoring at
+  the neurointensive care unit" (EVD or intraparenchymal sensor) and serial
+  imaging; no interval stated.
+
+### Kuppler 2025 — FT (1 case, chronic NegPH, ascent failed)
+- Gate = clinical stability, checked against a fixed calendar: "The original
+  treatment strategy was to achieve EVD weaning by raising the draining chamber
+  by 2 cm at 3-day intervals when the clinical parameters were stable."
+- What "clinical parameters" were: "The efficacy of drainage was determined
+  clinically by monitoring the patient's consciousness, speech production, and
+  vegetative symptoms such as nausea and vomiting. In addition, it was ensured
+  that an adequate amount of CSF was drained per day, and serial cranial CT
+  scans were obtained to assess changes in ventricle size."
+- Reverse rule requires clinical *and* CT concordance: "In the event of
+  clinical deterioration, correlating with radiographically confirmed
+  ventricular CSF accumulation, the drainage chamber was lowered again."
+- When the 3-day cadence kept failing the interval, not the step, was changed:
+  "After an already prolonged clinical stay, the interval in which the draining
+  chamber was raised was extended to 7 days. However, this approach did not
+  lead to successful weaning from the EVD to a pressure level that would have
+  allowed placement of a definitive low-pressure VPS" — final "necessary
+  drainage level of −6 cm below the EAC" after 180 days, managed by
+  intermittent reservoir pumping instead.
+
+### Diaz-Romero Paz 2019 — abs (1 case)
+- Gate for the ascent is not stated beyond flow at −5; the ascent itself is
+  scheduled and ends on ICP: "set at −5 cm H2O, and gradually raised in
+  increments of 1 cm every 3 days until a positive ICP occurred. Once clinical
+  and radiographic stability was accomplished, a programmable
+  ventriculoperitoneal shunt was inserted set to 30 mm H2O."
+
+### Hunn 2014 — abs (8 pts)
+- No ascent rule in the abstract; recovery is expressed as ICP rising with the
+  exam: "TEVD resulted in improvement in Glasgow Coma Scale (mean increase 4.6,
+  p=0.003), and increases in ICP (mean increase 8.5 …)" followed by
+  "subsequent low-pressure ventriculoperitoneal shunting."
+
+### Salam 2025 — FT (1 refractory case)
+- Every rise in this case followed a CT showing smaller ventricles, and every
+  rise was reversed by a CT showing re-enlargement or by loss of spontaneous
+  flow:
+  - after −30: "The ventricular size eventually reduced compared to weeks
+    prior but still was larger than his prehospital baseline (Fig. 3C). The
+    EVD was gradually raised to −10 cm H2O, which was maintained for the
+    following week."
+  - after VA shunt + ETV: "His EVD was weaned to 0 cm H2O with forced drainage
+    oscillating between a minimum of 10 and 15 mL/hr to meet the drainage
+    goal. Ventricular caliber did not improve, and over the next 2 weeks, a
+    drainage rate of 15–20 mL/hr was targeted by lowering the drain to
+    whatever negative pressure achieved that goal".
+  - the operative gate the authors actually used was spontaneous flow at a
+    given height: "The drain's height was adjusted hourly to allow spontaneous
+    CSF flow by either raising or lowering it by 2 cm H2O."
+  - after theophylline: "CT demonstrated sustained hydrocephalus improvement,
+    and his EVD drainage goal was decreased to 7 mL/hr, the lowest since
+    admission. He was extubated 1 day later with his EVD at −5 cm H2O and no
+    drainage. The EVD was removed the following day (PHD 111)". Note the
+    removal gate here was *no drainage at −5* with a stable CT, not a positive
+    height.
+- Their literature summary of the end-point: "Once stabilized, definitive
+  treatment must be established around one or a combination of the following:
+  weaning the EVD, ETV, and/or ventricular shunt placement."
+
+### Lin 2025 — FT, narrative review
+- Gate = clinical stability plus shrunken ventricles, then a *documented*
+  baseline scan before the first rise: "After the patient is clinically stable
+  and the ventricles have shrunk in size, a CT or MRI (e.g., rapid sequence
+  MRI) scan of the head is performed to document the baseline ventricular
+  size. The cerebral compliance is adjusted by gradually increasing the
+  drainage strength (high) (1–2 cm every 3–5 days), and a stepwise decision is
+  made when the EVD drainage height reaches above the level of the external
+  auditory canal (≥ 0 cmH2O, with some authors suggesting 4 cmH2O), and
+  clinical improvement is stabilized."
+
+### Doshi 2022 — FT (1 case)
+- Gate = "clinical and radiological improvement", then a fast ascent ended on
+  a measured ICP: "lowering the EVD bag sequentially (in 5 cm gradient) …
+  until, there was a clinical and radiological improvement. Moreover, then,
+  again gradually, raising it up (5.0 cm/day), till the negative or
+  low-pressure state is reversed back. Once the ICP values reached up to the
+  9.0 mmH2O, with documented improvement in patients clinioradiological state"
+  → shunt revision.
+
+### Other reports
+- Pang 1994 (abs): no ascent rule; the abstract's only relevant observation is
+  that "symptoms correlated only with ventricular size and not with ICP"
+  during EVD — i.e. the thing to watch is the CT, not the pressure.
+- Owler 2001 (abs): response ("rapid and significant clinical improvement")
+  led directly to "shunt revision (three) or insertion (one)"; no ascent
+  described.
+- Bergsneider 1999 (abs): "completely reversed once a normalization of
+  ventricular size was achieved … All patients finally received a shunt"; no
+  ascent described.
+- Wu 2019 (FT): no EVD ascent rule at all. Their gate is for the *shunt*:
+  "as soon as the ventricular pressure rises above 50–60 mm Hg [sic], at which
+  a programmable VP will work well", plus normal temperature, normal blood
+  leukocytes/neutrophils, "CSF tests in all ventricles and the arachnoid space
+  should be normal" (including isolated chambers), and "pneumocephalus should
+  not be present."
+- Weisbrod 2021 (FT, post-SAH, responded at 0): "Her EVD was ultimately
+  successfully weaned and removed on post-bleed day 15" — no gate stated.
+- Wang 2024 (FT, post-SAH): the drain was raised for a *complication*, not for
+  recovery — hygromas "attributed to excessive CSF drainage; therefore, the EVD
+  level was raised on PBD 4 to 10 mm Hg" — and each rise was followed by
+  rising qEEG delta power "for another 24 hours" before the exam changed, then
+  re-lowering.
+- Bruk 2026 (FT): the general problem — "Patients with LPH frequently cannot
+  be weaned to physiologic pressures, with ventricular re-enlargement and
+  neurological decline on each attempt to raise the drain". Their withdrawal
+  gate for the neck collar (not the EVD) is the most explicit two-condition
+  rule in the corpus: "discontinued only when two conditions were met
+  together: neurological stability sustained for at least one week, and CT
+  demonstrating improvement in ventricular caliber that was itself confirmed
+  stable on subsequent imaging rather than on a single favorable scan." EVD
+  removal in case 2: "An EVD was clamped for three days without any
+  requirement for unclamping; measured ICP remained under 10 mmHg throughout,
+  and level of consciousness was preserved, after which the drain was
+  disconnected and removed."
+- Hamilton & Price 2012, Keough 2021, Casado Pellejero 2022 (abs): no gating
+  detail beyond favouring early ETV.
+
+### Comparison: what gates the first rise
+
+| Gate | Sources requiring it before the first upward step |
+|---|---|
+| Clinical improvement (consciousness/GCS ± speech, vegetative signs) | Akins, Foster (decline = reverse), Godoy ("good clinical condition"), Kuppler ("clinical parameters stable"), Lin ("clinically stable"), Doshi, Salam (exam + flow) |
+| CT showing smaller/normal or stable ventricles | Akins ("radiographic improvement/stability"), Foster (CT before *every* step), Godoy ("normal ventricular size"), Kuppler (serial CT), Lin (documented baseline scan), Doshi, Salam (each rise after a CT) |
+| ICP / pressure value | None as a gate to *start* rising; ICP is an end-point only (Diaz-Romero "until a positive ICP", Doshi 9 mm H2O, Hunn +8.5 mean, Wu > 50–60 for shunt) |
+| CSF output | Kuppler ("adequate amount … per day"); Salam (spontaneous flow at the new height, later "no drainage at −5" before removal) |
+| Fixed time at nadir | None; the cadence (3–5 d, Kuppler 3 → 7 d) starts only once the gate is met |
+| Reverse trigger | Clinical decline (Foster; Akins "relapsed"); clinical decline *confirmed* by CT re-enlargement (Kuppler); ventricles not improving on CT or loss of spontaneous flow (Salam); "fall back into an arreactive coma" above +2 (Godoy) |
+| End-point that replaces the ascent in refractory cases | Stability at a still-negative height → valveless VP / ventriculopleural shunt (Akins, −3 cm); ETV when the patient stays sub-zero for weeks to months (Foster, Kuppler); reservoir pumping at −6 (Kuppler); shunt with antigravity unit at zero (Godoy) |
+
+### Bottom line on the ascent decision
+1. Two things had to be true in every source that states a rule: the patient
+   had improved clinically *and* a CT showed the ventricles smaller or normal
+   (Akins, Foster, Godoy, Kuppler, Lin). Nobody starts rising on time alone,
+   on output alone, or on a pressure value.
+2. The CT requirement is explicit and per-step in Foster ("prior to elevating
+   the drain, a CT scan was obtained"), implicit per-step in Akins
+   ("radiographic stability was confirmed"), a one-off baseline in Lin, and
+   "serial" in Kuppler and Godoy. Bruk's collar rule (one week stable plus a CT
+   improvement confirmed on a second scan) is the strictest formulation but is
+   not an EVD rule.
+3. The clinical variable is level of consciousness in all; Kuppler adds
+   speech and nausea/vomiting; Wang shows qEEG delta power lagging the exam by
+   ~24 h after each rise.
+4. Pressure enters only at the *end*: the ascent stops and a shunt is placed
+   when the exam and CT stay stable at 0 to +3 cm (Akins), at/above midbrain
+   (Foster), at "positive pressures"/Monro level (Godoy), ≥ 0 or +4 (Lin), or
+   when a positive ICP is recorded (Diaz-Romero, Doshi, Hunn).
+5. Reverse rule is universal and asymmetric: any neurological decline (Foster,
+   Akins) — in Kuppler only if CT confirms re-accumulation — sends the drain
+   back to the last effective height and restarts the clock; there is no
+   "hold and wait" tier.
+6. Refractory course is defined by repeated failure of the gate, and the
+   sources then change the *end-point* rather than the gate: shunt from a
+   negative height (Akins −3), ETV (Foster after 28 d–6.5 mo; Kuppler),
+   lengthen the interval (Kuppler 3 → 7 d), or abandon the EVD for reservoir
+   pumping/antigravity shunt at zero (Kuppler, Godoy).
+
+## D. Comparison across sources
 
 | Item | What the sources say | Agreement |
 |---|---|---|
