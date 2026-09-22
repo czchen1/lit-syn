@@ -14,7 +14,7 @@
 | Smalley 2017 (PMID 28362957) | 29/30 episodes | Post-LP: median 4 days drainage, generally full recovery; spontaneous: median 11 days |
 | Cheng 2017 (PMID 28264586) | 7 | Reservoir pumping improved 6/7 |
 | Houlden 2018 (PMID 30009119) | 4 VLPH | Prolonged courses; recovery of GCS despite persistent ventriculomegaly in salvageable cases; poor overall |
-| Wu 2019 (PMID 30611954) | 39 | Mean GOS-E 2.7; 8 deaths; infection dominated |
+| Wu 2019 (PMID 30611954) | 39 | Mean GOS-E 2.7 (1.6 NegPH vs 3.0 LPH); 8 deaths (5/8 NegPH vs 3/29 LPH), 6 of them from CNS infection |
 | Keough 2021 SR (PMID 32736355) | 195 | Return to baseline 83 % children vs 49 % adults; overall mortality ~11 % |
 | Casado Pellejero 2022 (PMID 34998487) | 5 | ETV alone 50 %; remainder shunted; low-pressure state resolved in all treated; 1 death (20 %) from systemic infection; 80 % good outcome |
 | Czorlich 2023 (PMID 37004138) | 15 | Post-SAH aLPH → permanent shunt 66.7 % vs 17.4 % in other SAH patients; outcome otherwise not worse than matched SAH |

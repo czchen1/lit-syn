@@ -46,10 +46,11 @@ Godoy Hurtado 2023 (PMID 37373809) and the paediatric reviews:
 
 Each step is followed by the source wording it rests on (quotes from abstracts,
 or from the full text where marked FT — Foster, Godoy, Salam and Chen from the
-mirrored OA XML, Akins from the publisher PDF). Where the papers do not state a
-number, that is said explicitly rather than filled in. Akins 2011 is the only
-paper that lays out the sub-zero method as an explicit protocol; Pang 1994,
-Owler 2001, Hunn 2014 and Wu 2019 are available here only as abstracts.
+mirrored OA XML, Akins and Wu from publisher PDFs). Where the papers do not
+state a number, that is said explicitly rather than filled in. Akins 2011 is the
+only paper that lays out the sub-zero method as an explicit protocol; Wu 2019
+gives no drainage settings at all; Pang 1994, Owler 2001 and Hunn 2014 are
+available here only as abstracts.
 
 1. **Establish external ventricular access** — a new EVD or the existing shunt
    externalised; failure at conventional drainage pressure is part of the
@@ -92,9 +93,14 @@ Owler 2001, Hunn 2014 and Wu 2019 are available here only as abstracts.
      in their illustrative case was "−12 cmH2O".
    - Pang 1994: "mean external ventricular drainage nadir pressure of −5.7 ± 3.6
      mm Hg" (≈ −8 cm H₂O).
-   - Wu 2019: "Ventricular pressure was lower than 70 mm H2O in all 39 patients,
-     and the lowest value was −10 cm H2O" (this is the lowest *measured*
-     pressure, not a drainage setting).
+   - Wu 2019 (FT): "Ventricular pressure was lower than 70 mm H2O in all 39
+     patients, and the lowest value was −10 cm H2O" — this is the lowest
+     *measured* pressure ("Four patients showed the lowest pressure at −10 cm
+     H2O, 2 patients … −5 cm H2O, and 2 cases showed 0 cm H2O in ventricle during
+     EVD according to the 2 external auditory canal lines"), not a drainage
+     setting. Wu's own management text says only "Precise CSF external drainage
+     even at a subzero level" and cites Pang's sub-zero and Hunn's titrated
+     methods as "innovative treatments"; no heights or steps are given.
    - Godoy Hurtado 2023 (FT): drainage "at negative pressures which were reached
      progressively to 15 cm below the EAC".
    - Salam 2025 (FT), refractory case: EVD "set to −8 cm H2O", later "−10 cm H2O",
@@ -171,14 +177,38 @@ Owler 2001, Hunn 2014 and Wu 2019 are available here only as abstracts.
    - Chen 2025 (FT), pooled paediatric data: "the average number of days of
      external CSF drainage was 41.89 days, with a minimum of 2 days and a maximum
      of 365 days" (n = 28).
-   - Wu 2019: "the time interval from onset to last VP shunt achieved was 31–3880
-     days, with an average of 376 days" (29 survivors).
+   - Wu 2019 (FT): "the time interval from onset to last VP shunt achieved was
+     31–3880 days, with an average of 376 days" (29 survivors). Their shunt
+     timing rule: "VP shunt should be considered as soon as the ventricular
+     pressure rises above 50–60 mm Hg" (sic — almost certainly mm H₂O, given
+     their 70 mm H₂O threshold and valve settings), and only when temperature, blood
+     count and CSF in *all* ventricular compartments are normal and there is no
+     pneumocephalus.
 7. **Infection is both a precipitant and a complication of prolonged drainage,
-   and predicts poor outcome.** The "vicious circle" wording in the earlier draft
-   of this note is not in the sources; what they document is:
-   - Wu 2019: "Eighteen cases had CNS infection" (of 39); Salam 2025 (FT) quoting
-     the same series: "46.15% were complicated by intracranial infections, of
-     which 87.5% were specifically in the ANPH subset compared to 35.48% of ALPH".
+   and predicts poor outcome.** Wu 2019 is the one series that states both
+   directions explicitly (though not the phrase "vicious circle"); Salam 2025
+   only re-quotes Wu's numbers.
+   - Wu 2019 (FT), infection as cause: "blood and infection can result in
+     adhesion and block in the arachnoid space, which will hinder the pathway
+     between the cortical arachnoid space and ventricle" → transmantle gradient
+     → ventriculomegaly at low/negative pressure. Their diagnostic criterion 1
+     lists prior haemorrhage or posterior-fossa surgery "especially combined with
+     CNS infection".
+   - Wu 2019 (FT), infection as consequence: "external CSF drainage with a long
+     time course, especially the negative pressure in ventricles prone to
+     backflow from the atmosphere, can explain why there was such a high rate of
+     CNS infection in our cases"; "it was very difficult to drain CSF externally
+     under low/negative ventricular pressure, which was very easy to backflow and
+     cause CSF infection". Case 2 developed pneumocephalus "during
+     cerebrospinal fluid drainage backflow". Prevention: "Preventing backflow,
+     strict aseptic manipulation, and reducing the drainage time were the key
+     issues". Zero pressure is classed with NegPH precisely because it carries
+     "a high risk of backflow".
+   - Wu 2019 (FT), burden: "Eighteen cases were complicated by intracranial
+     infections … 46.15%"; 87.5% (7/8) in NegPH vs 35.48% in LPH (P = 0.0149);
+     of 8 deaths, "6 patients died from intracranial infections, which accounted
+     for 75.0% and were the main reason for in-hospital death"; NegPH mortality
+     5/8 vs LPH 3/29 (P = 0.0056); mean GOS-E 1.63 (NegPH) vs 3.03 (LPH).
    - Akins 2011: "Conditions most commonly associated with LPH are: subarachnoid
      hemorrhage, chronic hydrocephalus, brain tumors, and chronic CNS
      infections." (FT): "We hypothesize that underlying inflammatory or

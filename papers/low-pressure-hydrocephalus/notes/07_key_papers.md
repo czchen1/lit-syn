@@ -170,12 +170,26 @@ and review of the literature* (World Neurosurg; PMID 28962963). 25-year search,
 17 articles, 90 cases; argues MRE may become the objective diagnostic tool and
 ETV a strong alternative/adjunct.
 
-**Wu, Wang et al. 2019** — *Secondary low- or negative-pressure hydrocephalus:
-clinical features, treatment and a new classification of hydrocephalus based on
-pressure* (Chinese J Neurosurg / Neurosurg Rev; PMID 30611954). 39 adults, 18
-with CNS infection, ~3.5 operations each, mean GOS-E 2.7, 8 deaths; proposes
-high/normal/low/negative pressure classification (low < 70 mm H₂O, negative
-< 0).
+**Wu, Zang, Wu, Sun, Yu & Hu 2019** (FT, publisher PDF) — *Diagnosis and
+management for secondary low- or negative-pressure hydrocephalus and a new
+hydrocephalus classification based on ventricular pressure* (World Neurosurg;
+PMID 30611954). 39 adults (27 TBI, 12 spontaneous haemorrhage) = 13% of 298
+hydrocephalus cases at a Shanghai emergency centre, 2013–18; ventricular
+pressure < 70 mm H₂O in all, 8 at ≤ 0 (four at −10 cm H₂O); ~3.5 operations
+each; onset-to-final-shunt mean 376 d (31–3880). CNS infection 18/39 (46%),
+87.5% in NegPH vs 35% in LPH (P = 0.015); 8 deaths, 6 from infection; NegPH
+mortality 5/8 vs 3/29; mean GOS-E 2.7 (1.6 NegPH vs 3.0 LPH). Attributes
+infection to prolonged drainage with atmospheric backflow at negative pressure,
+and infection/blood to arachnoid adhesion causing the transmantle gradient.
+Proposes diagnostic criteria (history, deterioration, CT "ball sign" of the
+fourth ventricle, effaced convexity/Sylvian/ambient cisterns, pressure < 70 mm
+H₂O) and a classification (high > 200, normal 70–200, low 0–70, negative ≤ 0
+mm H₂O). Management is descriptive, not a protocol: "precise CSF external
+drainage even at a subzero level", neck wrapping/bellyband/Trendelenburg,
+nimodipine, VP shunt once pressure recovers and CSF is sterile in all
+compartments, no anti-siphon device, no LP shunt if craniocervical cistern
+effaced, and reservoir pumping hundreds of times a day for persistent
+ventriculomegaly.
 
 **Diaz-Romero Paz et al. 2019** — *Negative-pressure hydrocephalus: a therapeutic
 challenge* (PMID 30710718). ICP −4 cm H₂O after external drainage of a cyst;
