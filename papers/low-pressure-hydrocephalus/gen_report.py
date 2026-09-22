@@ -3,7 +3,7 @@
 
 Part I (corpus statistics) and Part III (paper listings by axis) are computed
 from index.tsv so they can never drift from the curated corpus. Part II is the
-synthesis: notes/00–07 concatenated in order with headings demoted one level.
+synthesis: notes/00–08 concatenated in order with headings demoted one level.
 Regenerate after any curate.py / fetch_fulltext.py / notes/ change.
 """
 import csv
@@ -129,7 +129,7 @@ def demote(md):
 
 def part_synthesis():
     lines = ["## Part II — Synthesis", "",
-             "Sections below are the topical notes in `notes/` (00–07), concatenated. "
+             "Sections below are the topical notes in `notes/` (00–08), concatenated. "
              "PMIDs cited resolve to rows of `index.tsv` except where a record is explicitly "
              "described as excluded from the corpus.", ""]
     for path in sorted(glob.glob(os.path.join(NOTES, "*.md"))):
