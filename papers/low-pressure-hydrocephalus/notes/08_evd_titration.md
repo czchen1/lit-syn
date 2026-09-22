@@ -55,9 +55,13 @@ The only series that writes the method out as a protocol.
   despite confirmation of a patent EVD and normal ICP; (6) failure to respond
   to lowering EVD (0 to +5 cm); and (7) clinical and radiographic response to
   sub-zero drainage."
-- Depth: "sub-zero EVD drainage (typically, −3 to −10 cm)". Reference point
-  (from their account of Pang): "setting the EVD height below the level of the
-  external auditory canal". Case 6 stabilised "with EVD at −3 cm height"; case
+- Depth: no starting height is stated. The only range given is the level at
+  which patients had already responded — "Once LPH patients demonstrated
+  clinical and radiographic improvement with sub-zero EVD drainage (typically,
+  −3 to −10 cm), the EVD was raised in small increments" — so −3 to −10 is the
+  effective range, not the opening setting. Reference point (from their account
+  of Pang): "setting the EVD height below the level of the external auditory
+  canal". Case 6 stabilised "with EVD at −3 cm height"; case
   4 "was lowered to +5 and then 0 cm without clinical or radiographic
   improvement" before going sub-zero.
 - What was watched: daily EVD output (the paper's central observation — "As
@@ -174,8 +178,9 @@ The only series that writes the method out as a protocol.
   the patient still developed S. epidermidis ventriculitis.
 
 ### Salam 2025 (PMID 40418891) — FT (refractory single case)
-- Sequence of settings: "EVD was set to −8 cm H2O with a drainage goal of 10
-  mL/hr" → "forced hourly drainage for a minimum goal of 10–20 mL/hr" → new EVD
+- Sequence of settings (index LPH episode; the EVD's height before −8 is not
+  stated, only "CSF drainage was limited with ICPs less than 5 mm Hg"): "The
+  EVD was set to −8 cm H2O with a drainage goal of 10 mL/hr" → "forced hourly drainage for a minimum goal of 10–20 mL/hr" → new EVD
   "set at −10 cm H2O with a goal drainage of 15 mL/hr" → "−5 cm H2O, with a
   minimum drainage goal of 10 mL/hr" → "as low as −30 cm H2O for forced
   ventricular reduction" → "gradually raised to −10 cm H2O, which was
@@ -197,6 +202,12 @@ The only series that writes the method out as a protocol.
   height setting, ranging from −20 to −5 cmH2O, achieved by one or more
   large-volume ventricular cerebrospinal fluid aspirations (30–50 ml), followed
   by drainage of cerebrospinal fluid at a fixed volume of 10–15 ml per hour."
+  This is a secondary statement: the in-text citation number does not resolve
+  to an LPH paper in the reference list, and no primary source in this corpus
+  reports a *starting* height of −20 (the deepest documented starting settings
+  are −10, Kuppler; −30 appears only as a floor reached later in Bergsneider
+  and Salam). The 30–50 mL aspiration + 10–15 mL/h wording matches Salam's
+  literature summary.
 - Baseline imaging after response, then ascend: "After the patient is
   clinically stable and the ventricles have shrunk in size, a CT or MRI (e.g.,
   rapid sequence MRI) scan of the head is performed to document the baseline
@@ -248,7 +259,7 @@ The only series that writes the method out as a protocol.
 |---|---|---|
 | Reference level | External auditory canal/meatus (Pang via Akins, Owler, Godoy, Kuppler, Lin, Wu's measurement); tragus (Doshi); **midbrain** (Foster). | Near-consensus on EAC; Foster is the outlier. |
 | Prove failure at ≥ 0 first | Akins (+5…+10 then 0…+5), Kuppler (≥ 0 failed), Weisbrod (responded at 0), Salam (ICP < 5 with limited drainage). | Consistent: descent begins only after zero has failed. |
-| Starting depth | 0 to −5 (Owler); −3 to −10 (Akins); 5–10 below midbrain (Foster); −5 (Diaz-Romero); −10 (Kuppler); −5 to −20 (Lin's summary); −8 (Salam first setting). | Cluster at **−5 to −10 cm H2O**; nobody starts below −10 except by Lin's report of practice variation. |
+| Starting depth | Stated as a starting setting: 0 to −5 below EAM (Owler, 5 pts); 5–10 cm below midbrain (Foster, series); −5 (Diaz-Romero, 1 case); −10 below EAC (Kuppler, 1 case); −8 (Salam, 1 case, first recorded setting). Akins give only the range at which response occurred (−3 to −10), not a start. Lin's −5 to −20 is an uncited secondary summary. | Primary sources start at **0 to −10 cm H2O**; no primary source starts below −10. |
 | Reported floor | −8 (Galbarriatu); −10 (Akins typical); −12 (Foster); −15 (Godoy); −5.7 ± 3.6 mm Hg ≈ −8 cm (Pang mean nadir); −30 (Bergsneider; Salam, refractory). | Most stop by −10 to −15; −30 appears only in Bergsneider's shunt-nonresponsive series and Salam's refractory case. |
 | Descent step / interval | Doshi: 5 cm steps; Salam: ±2 cm hourly to keep flow; Godoy: "progressively"; Akins, Foster, Owler, Hunn, Lin: **not stated**. | No source gives a fixed timetable for going down; the two that give any rule are single cases. |
 | Target while down | Flow 5–15 mL/h (Hunn; Kuppler; Diaz-Romero 5–10; Lin 10–15; Salam 10–20); daily volume > 200 (Pandey), ~160 (Kuppler), ~300 mL (Godoy); or simply "until output exceeds baseline" as an observed signature (Akins, Foster). | Consensus that **flow, not pressure, is titrated**; numeric target varies 5–20 mL/h. |
@@ -262,8 +273,10 @@ The only series that writes the method out as a protocol.
 
 ### Bottom line
 1. Every series lowers the drain only after drainage at 0 to +10 cm has
-   demonstrably failed, and most start between −5 and −10 cm H2O below the
-   external auditory canal (Foster: below the midbrain).
+   demonstrably failed; the documented opening settings run from 0 to −5 cm
+   (Owler) through −5 (Diaz-Romero), −8 (Salam) and −10 (Kuppler) below the
+   external auditory canal, or 5–10 cm below the midbrain (Foster). Akins
+   report only the range at which response occurred (−3 to −10).
 2. Descent is governed by CSF flow, not by a schedule: the drain is dropped
    until it drains (5–15 mL/h or output above the patient's pre-LPH
    baseline) and the ventricles shrink; there is no published interval or step
