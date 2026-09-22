@@ -455,7 +455,8 @@ abstract only.
 | ICP / pressure value | None as a gate to *start* rising; ICP is an end-point only (Diaz-Romero "until a positive ICP", Doshi 9 mm H2O, Hunn +8.5 mean, Wu > 50–60 for shunt) |
 | CSF output | Kuppler ("adequate amount … per day"); Salam (spontaneous flow at the new height, later "no drainage at −5" before removal) |
 | Fixed time at nadir | None; the cadence (3–5 d, Kuppler 3 → 7 d) starts only once the gate is met |
-| Reverse trigger | Clinical decline (Foster; Akins "relapsed"); clinical decline *confirmed* by CT re-enlargement (Kuppler); ventricles not improving on CT or loss of spontaneous flow (Salam); "fall back into an arreactive coma" above +2 (Godoy) |
+| Reverse trigger | Clinical decline (Foster "neurologic decline"; Akins "relapsed"); clinical decline *confirmed* by CT re-enlargement (Kuppler); "fall back into an arreactive coma" above +2 (Godoy). Salam (single refractory case) additionally lowered when CT showed "ventricular caliber did not improve" during a wean to 0; the hourly ±2 cm for spontaneous flow is a micro-adjustment around the set height, not a reversal of the ascent. |
+| How far back down | **Not specified by any source.** Foster: "lowered to a more negative pressure and the cycle reinitiated"; Akins: "the process was repeated"; Kuppler: "the drainage chamber was lowered again"; Salam: "to whatever negative pressure achieved that goal". None says the drain was returned to the original nadir or to the last tolerated height; only the stepwise ascent (with its clinical + CT gate) is explicitly restarted. |
 | End-point that replaces the ascent in refractory cases | Stability at a still-negative height → valveless VP / ventriculopleural shunt (Akins, −3 cm); ETV when the patient stays sub-zero for weeks to months (Foster, Kuppler); reservoir pumping at −6 (Kuppler); shunt with antigravity unit at zero (Godoy) |
 
 ### Bottom line on the ascent decision
@@ -478,8 +479,9 @@ abstract only.
    when a positive ICP is recorded (Diaz-Romero, Doshi, Hunn).
 5. Reverse rule is universal and asymmetric: any neurological decline (Foster,
    Akins) — in Kuppler only if CT confirms re-accumulation — sends the drain
-   back to the last effective height and restarts the clock; there is no
-   "hold and wait" tier.
+   to "a more negative pressure" and restarts the stepwise ascent. How far
+   down is never stated (neither "back to the nadir" nor "one step back"), and
+   no source describes a "hold at the current height" tier.
 6. Refractory course is defined by repeated failure of the gate, and the
    sources then change the *end-point* rather than the gate: shunt from a
    negative height (Akins −3), ETV (Foster after 28 d–6.5 mo; Kuppler),
@@ -500,7 +502,7 @@ abstract only.
 | Clinical marker | Level of consciousness/GCS in every source; Kuppler adds speech and nausea/vomiting; Bruk clamp-test (GCS 15 open vs 13 clamped); Wang qEEG delta power. | Consensus on consciousness; qEEG is a single report. |
 | Imaging cadence | CT **before every upward step** (Foster; implied by Akins' "radiographic stability"); "serial" CT (Kuppler, Godoy, Bruk); CT after each strategy change (Salam); Lin: one CT/MRI to set the baseline once ventricles are small. No source states a fixed interval such as 24–72 h. | Agreement on CT gating each ascent step; no agreed interval during the descent. |
 | Stop-lowering rule | Ventricular size normalises / exam recovers (Pang, Bergsneider, Godoy, Doshi); output rises above baseline (Akins); flow target met (Hunn, Kuppler, Salam). | Implicitly the same rule everywhere: stop going down when CSF flows and ventricles/exam respond; there is no pressure floor defined as "enough". |
-| Ascent rule | Akins 3 cm every 3–5 d; Foster 1–2 cm every 3–5 d; Diaz-Romero 1 cm every 3 d; Kuppler 2 cm every 3 d; Lin 1–2 cm every 3–5 d; Doshi 5 cm/day. Gate = clinical + CT stability; relapse → lower again and restart (Akins, Foster, Godoy). | Strong agreement on **1–3 cm every 3–5 days**; Doshi is the outlier. |
+| Ascent rule | Akins 3 cm every 3–5 d; Foster 1–2 cm every 3–5 d; Diaz-Romero 1 cm every 3 d; Kuppler 2 cm every 3 d; Lin 1–2 cm every 3–5 d; Doshi 5 cm/day. Gate = clinical + CT stability; relapse → lower to "a more negative pressure" (depth unspecified) and restart the ascent (Akins, Foster, Kuppler). | Strong agreement on **1–3 cm every 3–5 days**; Doshi is the outlier. |
 | End of EVD phase | Stable at 0 to +3 cm (Akins), ≥ 0 or +4 cm (Lin), at/above midbrain (Foster, +5 in the case), positive ICP (Diaz-Romero, Hunn), "Monro level" (Godoy), ventricular pressure > 50–60 mm H2O plus sterile CSF/no pneumocephalus (Wu). | Agreement that a shunt is placed once ventricles stay small at a **neutral-to-slightly-positive height**; Wu adds infection preconditions. |
 | Duration | Pang 22 d mean; Godoy 10–40 d (one case 25 d to normal size, shunt day 40); Foster 73 d mean without ETV (14–257); Chen 42 d (2–365); Kuppler 180 d unsuccessful. | Weeks to months; refractory cases defined by inability to climb. |
 
@@ -523,5 +525,6 @@ abstract only.
    below −15 cm H2O occur only in refractory cases (Bergsneider, Salam) and
    gave only a partial response in Salam.
 5. The ascent is the standardised part: 1–3 cm every 3–5 days, each step gated
-   by clinical and CT stability, with relapse returning the drain to the last
-   effective height; shunt once stable at 0 to +5 cm (or positive ICP).
+   by clinical and CT stability, with relapse sending the drain back to an
+   unspecified more-negative height and restarting the ascent; shunt once
+   stable at 0 to +5 cm (or positive ICP).
