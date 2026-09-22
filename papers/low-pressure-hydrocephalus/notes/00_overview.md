@@ -80,11 +80,12 @@ conflated with the modern syndrome.
    a fourth-ventricular "ball sign".
 5. **Temporising treatment is titrated (usually sub-zero) EVD**, set to a target
    hourly output (5–15 mL/h, Hunn 2014) rather than a pressure, started at 0 to
-   −5 cm H₂O below the EAM (Owler 2001, PMID 11599454) or 5–10 cm below the
-   midbrain (Foster 2016), lowered further only as needed (−10 to −15 in
-   Wu 2019 / Godoy Hurtado 2023; −30 in one refractory case, Salam 2025), and
-   then raised 1–2 cm H₂O every 3–5 days as ventricles shrink and ICP becomes
-   positive (Foster 2016, PMID 27069743). Drainage
+   −5 cm H₂O below the EAM (Owler 2001, PMID 11599454), −3 to −10 cm (Akins
+   2011, PMID 21523524) or 5–10 cm below the midbrain (Foster 2016), lowered
+   further only as needed (−15 in Godoy Hurtado 2023; −30 in one refractory
+   case, Salam 2025), and then raised 1–3 cm H₂O every 3–5 days as ventricles
+   shrink and ICP becomes positive (Akins 2011; Foster 2016, PMID 27069743).
+   Drainage
    durations of weeks to months are typical (mean 41.9 days, range 2–365, in the
    pooled paediatric series of Chen 2025, PMID 40538927).
 6. **Adjuncts that raise ICP or close the sink shorten or avoid sub-zero EVD**:

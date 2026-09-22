@@ -163,11 +163,12 @@ conflated with the modern syndrome.
    a fourth-ventricular "ball sign".
 5. **Temporising treatment is titrated (usually sub-zero) EVD**, set to a target
    hourly output (5–15 mL/h, Hunn 2014) rather than a pressure, started at 0 to
-   −5 cm H₂O below the EAM (Owler 2001, PMID 11599454) or 5–10 cm below the
-   midbrain (Foster 2016), lowered further only as needed (−10 to −15 in
-   Wu 2019 / Godoy Hurtado 2023; −30 in one refractory case, Salam 2025), and
-   then raised 1–2 cm H₂O every 3–5 days as ventricles shrink and ICP becomes
-   positive (Foster 2016, PMID 27069743). Drainage
+   −5 cm H₂O below the EAM (Owler 2001, PMID 11599454), −3 to −10 cm (Akins
+   2011, PMID 21523524) or 5–10 cm below the midbrain (Foster 2016), lowered
+   further only as needed (−15 in Godoy Hurtado 2023; −30 in one refractory
+   case, Salam 2025), and then raised 1–3 cm H₂O every 3–5 days as ventricles
+   shrink and ICP becomes positive (Akins 2011; Foster 2016, PMID 27069743).
+   Drainage
    durations of weeks to months are typical (mean 41.9 days, range 2–365, in the
    pooled paediatric series of Chen 2025, PMID 40538927).
 6. **Adjuncts that raise ICP or close the sink shorten or avoid sub-zero EVD**:
@@ -862,8 +863,11 @@ Protocol synthesised from Pang 1994, Owler 2001 (PMID 11599454), Akins 2011
 Godoy Hurtado 2023 (PMID 37373809) and the paediatric reviews:
 
 Each step is followed by the source wording it rests on (quotes from abstracts,
-or from the mirrored full text where marked FT). Where the papers do not state a
-number, that is said explicitly rather than filled in.
+or from the full text where marked FT — Foster, Godoy, Salam and Chen from the
+mirrored OA XML, Akins from the publisher PDF). Where the papers do not state a
+number, that is said explicitly rather than filled in. Akins 2011 is the only
+paper that lays out the sub-zero method as an explicit protocol; Pang 1994,
+Owler 2001, Hunn 2014 and Wu 2019 are available here only as abstracts.
 
 1. **Establish external ventricular access** — a new EVD or the existing shunt
    externalised; failure at conventional drainage pressure is part of the
@@ -879,6 +883,13 @@ number, that is said explicitly rather than filled in.
      shunt pressures; (2) ventriculomegaly; (3) persistence of ventriculomegaly
      with ICP in the normal to low-normal range; and (4) clinical and radiographic
      response to sub-zero drainage".
+   - Akins 2011 (FT) makes the failed conventional heights explicit in their
+     inclusion criteria: "(4) clinical and radiographic response to EVD drainage
+     at +5 to +10 cm height; (5) delayed neurologic decline accompanied by
+     recurrent hydrocephalus despite confirmation of a patent EVD and normal ICP;
+     (6) failure to respond to lowering EVD (0 to +5 cm); and (7) clinical and
+     radiographic response to sub-zero drainage". Illustrated case 4: "EVD was
+     lowered to +5 and then 0 cm without clinical or radiographic improvement."
    - Chen 2025 (FT), 28 paediatric cases with route recorded: "EVD, n (%) 12
      (42.86%) … VPS externalized, n (%) 16 (57.14%) … Ommaya, n (%) 4 (14.29%)".
    - Salam 2025 (FT): "subatmospheric CSF diversion via external ventricular
@@ -888,6 +899,10 @@ number, that is said explicitly rather than filled in.
 2. **Lower the drain below the reference point until CSF flows** — start at 0 to
    −5 cm H₂O, go to −10 if needed; deeper settings are reported only in
    refractory cases. No paper specifies a fixed interval between downward steps.
+   - Akins 2011 (FT), describing Pang's method: "sub-atmospheric ventricular
+     drainage achieved by setting the EVD height below the level of the external
+     auditory canal"; their own practice: "sub-zero EVD drainage (typically, −3
+     to −10 cm)". Case 6 stabilised "with EVD at −3 cm height".
    - Owler 2001: "a period of external ventricular drainage at heights of 0 to −5
      cm H2O below the reference point (external auditory meatus—EAM)".
    - Foster 2016 (FT): "The EVD was initiated at a subatmospheric pressure, placed
@@ -921,11 +936,16 @@ number, that is said explicitly rather than filled in.
      CSF output from the external ventricular drain was reduced."
 4. **Expect a CSF "diuresis" when sub-zero drainage starts; monitor ICP if a
    parenchymal sensor is available.** The duration is given only as "several
-   days".
+   days"; Akins attribute the extra fluid to water leaving the parenchyma, not
+   entering it.
    - Akins 2011: "When LPH patients were drained at sub-zero levels, daily CSF
      output exceeded baseline values for several days and then receded to
      baseline … When LPH was treated with the sub-zero method, a 'diuresis' of
-     CSF ensued."
+     CSF ensued." (FT): "During sub-zero treatment, we observed a rise in EVD
+     output which we attribute to reduction in ventricular volume and reduction
+     in brain extracellular fluid"; sub-zero treatment "will 'wring out' the
+     sponge-like cortical mantle … Water will flow from the parenchyma into the
+     ventricular system."
    - Foster 2016 (FT): "We, too, noted decreased output during genesis of LPH
      with a significant increase in output during sub-zero drainage."
    - Godoy Hurtado 2023 (FT): "Continuous recording of ICP with the
@@ -945,7 +965,16 @@ number, that is said explicitly rather than filled in.
    - Pang 1994: "During external ventricular drainage treatment, symptoms
      correlated only with ventricular size and not with ICP."
 6. **Wean upward slowly once ventricles are small and CSF drains at a positive
-   pressure; expect weeks to months.**
+   pressure; expect weeks to months.** Both explicit protocols use a 3–5-day
+   step interval.
+   - Akins 2011 (FT): "the EVD was raised in small increments (typically 3 cm
+     steps) every 3–5 days. Prior to raising the EVD to a more positive height,
+     clinical and radiographic stability was confirmed. If patients relapsed
+     during EVD weaning, then the process was repeated. Shunt internalization
+     was performed once clinical and radiographic stability was confirmed at
+     neutral or positive EVD settings (typically 0 to +3 cm)." "Three patients
+     had refractory LPH and were unable to tolerate positive pressure EVD
+     drainage" and went to ventriculopleural or valveless shunts.
    - Foster 2016 (FT): the EVD was "incrementally raised 1–2 cmH2O every 3–5
      days"; sub-zero drainage continued "until the ventricular shrinkage was
      maintained at a positive pressure, and a new shunt system could be
@@ -970,7 +999,12 @@ number, that is said explicitly rather than filled in.
      which 87.5% were specifically in the ANPH subset compared to 35.48% of ALPH".
    - Akins 2011: "Conditions most commonly associated with LPH are: subarachnoid
      hemorrhage, chronic hydrocephalus, brain tumors, and chronic CNS
-     infections."
+     infections." (FT): "We hypothesize that underlying inflammatory or
+     degenerative changes alter periventricular brain permeability in LPH
+     patients, for example, chronic CNS infection or chemical meningitis from
+     subarachnoid hemorrhage." Conversely, they saw no infectious harm from the
+     treatment itself: "No long-term complications were observed with low
+     pressure shunting such as shunt infection or subdural hematoma."
    - Chen 2025 (FT), institutional cases drained via Ommaya for a median of 105
      days: this approach "increase[s] the risk of intracranial infection, and one
      patient ultimately died from intracranial infection".
@@ -1303,12 +1337,20 @@ loss of brain turgor; predicts benefit from ETV, neck wrapping, and closing
 sinks. Companion: Rekate 2019 *Low or negative pressure hydrocephalus
 demystified* (PMID 31103762) and 2021 commentary (PMID 34272587).
 
-**Akins, Guppy, Axelrod, Chakrabarti, Silverthorn & Williams 2011** — *The genesis
-of low pressure hydrocephalus* (Neurocrit Care; PMID 21523524). 9 neuro-ICU
-patients; EVD output fell as LPH developed; transependymal oedema in 5 despite
-low ICP; sub-zero method restored output above baseline ("CSF diuresis") and
-resolved LPH in all; poroelastic/Darcy-flux model; all internalised with
-low-pressure hardware.
+**Akins, Guppy, Axelrod, Chakrabarti, Silverthorn & Williams 2011** (FT, publisher
+PDF) — *The genesis of low pressure hydrocephalus* (Neurocrit Care; PMID
+21523524). 9 neuro-ICU patients (0.2% of admissions; 4 of 102 SAH patients with
+EVDs); LPH 7 days–5 years after the index condition; EVD output fell as LPH
+developed; transependymal oedema in 5 despite low ICP. The only paper to state
+the sub-zero method as a protocol: response to EVD at +5 to +10 cm, then
+failure at 0 to +5 cm, then sub-zero drainage "typically −3 to −10 cm" below the
+external auditory canal; wean "in small increments (typically 3 cm steps) every
+3–5 days" only after clinical and radiographic stability, repeat if relapse;
+internalise at 0 to +3 cm. Output rose above baseline for several days ("CSF
+diuresis"), attributed to water leaving the parenchyma (Darcy flux, poroelastic
+"boggy brain"). All 9 resolved; 6 programmable valves at lowest setting, 1
+valveless VPS, 2 ventriculopleural (the 3 who could not tolerate positive EVD
+pressure); 2 relapses; no SDH or shunt infection at 6 months–4 years.
 
 **Filippidis, Kalani & Rekate 2011** — *Negative-pressure and low-pressure
 hydrocephalus: the role of cerebrospinal fluid leaks resulting from surgical

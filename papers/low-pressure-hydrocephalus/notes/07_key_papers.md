@@ -78,12 +78,20 @@ loss of brain turgor; predicts benefit from ETV, neck wrapping, and closing
 sinks. Companion: Rekate 2019 *Low or negative pressure hydrocephalus
 demystified* (PMID 31103762) and 2021 commentary (PMID 34272587).
 
-**Akins, Guppy, Axelrod, Chakrabarti, Silverthorn & Williams 2011** — *The genesis
-of low pressure hydrocephalus* (Neurocrit Care; PMID 21523524). 9 neuro-ICU
-patients; EVD output fell as LPH developed; transependymal oedema in 5 despite
-low ICP; sub-zero method restored output above baseline ("CSF diuresis") and
-resolved LPH in all; poroelastic/Darcy-flux model; all internalised with
-low-pressure hardware.
+**Akins, Guppy, Axelrod, Chakrabarti, Silverthorn & Williams 2011** (FT, publisher
+PDF) — *The genesis of low pressure hydrocephalus* (Neurocrit Care; PMID
+21523524). 9 neuro-ICU patients (0.2% of admissions; 4 of 102 SAH patients with
+EVDs); LPH 7 days–5 years after the index condition; EVD output fell as LPH
+developed; transependymal oedema in 5 despite low ICP. The only paper to state
+the sub-zero method as a protocol: response to EVD at +5 to +10 cm, then
+failure at 0 to +5 cm, then sub-zero drainage "typically −3 to −10 cm" below the
+external auditory canal; wean "in small increments (typically 3 cm steps) every
+3–5 days" only after clinical and radiographic stability, repeat if relapse;
+internalise at 0 to +3 cm. Output rose above baseline for several days ("CSF
+diuresis"), attributed to water leaving the parenchyma (Darcy flux, poroelastic
+"boggy brain"). All 9 resolved; 6 programmable valves at lowest setting, 1
+valveless VPS, 2 ventriculopleural (the 3 who could not tolerate positive EVD
+pressure); 2 relapses; no SDH or shunt infection at 6 months–4 years.
 
 **Filippidis, Kalani & Rekate 2011** — *Negative-pressure and low-pressure
 hydrocephalus: the role of cerebrospinal fluid leaks resulting from surgical
