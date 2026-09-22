@@ -2112,10 +2112,23 @@ abstract only.
 3. The clinical variable is level of consciousness in all; Kuppler adds
    speech and nausea/vomiting; Wang shows qEEG delta power lagging the exam by
    ~24 h after each rise.
-4. Pressure enters only at the *end*: the ascent stops and a shunt is placed
-   when the exam and CT stay stable at 0 to +3 cm (Akins), at/above midbrain
-   (Foster), at "positive pressures"/Monro level (Godoy), ≥ 0 or +4 (Lin), or
-   when a positive ICP is recorded (Diaz-Romero, Doshi, Hunn).
+4. Pressure is never the gate, and "ICP back in the normal range" is not the
+   end-point either. In the LPH series ICP is normal *throughout*: "As
+   patients entered the LPH state, the ICP remained in a normal range yet
+   daily CSF output … was reduced" (Akins); Pang's criterion is "persistence
+   of ventriculomegaly with ICP in the normal to low-normal range" and "symptoms
+   correlated only with ventricular size and not with ICP"; Akins' figures
+   show "different ventricular configurations at similar ICP values"
+   (hysteresis). Their end-point is therefore a *drain height* — stable at 0 to
+   +3 cm (Akins), at/above midbrain (Foster), "positive pressures"/Monro level
+   (Godoy), ≥ 0 or +4 (Lin). Only the negative-pressure reports use a measured
+   ICP as the end-point, and it is "positive", not "normal": "until a positive
+   ICP occurred" (Diaz-Romero), 9.0 mm H2O (Doshi), mean ICP rise +8.5 (Hunn),
+   "to achieve 5 mm Hg" (Pandey), or Wu's shunt threshold "above 50–60" —
+   itself below their own normal band of 70–200 mm H2O. ICP is nevertheless
+   recorded continuously in most series (Godoy, Pandey parenchymal sensor;
+   Salam hourly; Wu 15-min supine column) — as a safety/diagnostic measure, not
+   a titration variable.
 5. Reverse rule is universal and asymmetric: any neurological decline (Foster,
    Akins) — in Kuppler only if CT confirms re-accumulation — sends the drain
    to "a more negative pressure" and restarts the stepwise ascent. How far
