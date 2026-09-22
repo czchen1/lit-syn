@@ -182,9 +182,12 @@ The only series that writes the method out as a protocol.
   stated, only "CSF drainage was limited with ICPs less than 5 mm Hg"): "The
   EVD was set to −8 cm H2O with a drainage goal of 10 mL/hr" → "forced hourly drainage for a minimum goal of 10–20 mL/hr" → new EVD
   "set at −10 cm H2O with a goal drainage of 15 mL/hr" → "−5 cm H2O, with a
-  minimum drainage goal of 10 mL/hr" → "as low as −30 cm H2O for forced
-  ventricular reduction" → "gradually raised to −10 cm H2O, which was
-  maintained for the following week" → later "weaned to 0 cm H2O" → "a drainage
+  minimum drainage goal of 10 mL/hr" → "His EVD was set as low as −30 cm H2O
+  for forced ventricular reduction with a maximum ICP of −10 mm Hg. The
+  ventricular size eventually reduced compared to weeks prior but still was
+  larger than his prehospital baseline" (CT legend: "improvement in
+  hydrocephalus … with EVD adjusted to −25 cm H2O") → "gradually raised to
+  −10 cm H2O, which was maintained for the following week" → later "weaned to 0 cm H2O" → "a drainage
   rate of 15–20 mL/hr was targeted by lowering the drain to whatever negative
   pressure achieved that goal … The drain's height was adjusted hourly to allow
   spontaneous CSF flow by either raising or lowering it by 2 cm H2O."
@@ -260,7 +263,7 @@ The only series that writes the method out as a protocol.
 | Reference level | External auditory canal/meatus (Pang via Akins, Owler, Godoy, Kuppler, Lin, Wu's measurement); tragus (Doshi); **midbrain** (Foster). | Near-consensus on EAC; Foster is the outlier. |
 | Prove failure at ≥ 0 first | Akins (+5…+10 then 0…+5), Kuppler (≥ 0 failed), Weisbrod (responded at 0), Salam (ICP < 5 with limited drainage). | Consistent: descent begins only after zero has failed. |
 | Starting depth | Stated as a starting setting: 0 to −5 below EAM (Owler, 5 pts); 5–10 cm below midbrain (Foster, series); −5 (Diaz-Romero, 1 case); −10 below EAC (Kuppler, 1 case); −8 (Salam, 1 case, first recorded setting). Akins give only the range at which response occurred (−3 to −10), not a start. Lin's −5 to −20 is an uncited secondary summary. | Primary sources start at **0 to −10 cm H2O**; no primary source starts below −10. |
-| Reported floor | −8 (Galbarriatu); −10 (Akins typical); −12 (Foster); −15 (Godoy); −5.7 ± 3.6 mm Hg ≈ −8 cm (Pang mean nadir); −30 (Bergsneider; Salam, refractory). | Most stop by −10 to −15; −30 appears only in Bergsneider's shunt-nonresponsive series and Salam's refractory case. |
+| Reported floor | −8 (Galbarriatu, abstract); −10 = upper end of Akins' "typically −3 to −10" response range (no per-patient nadir given); −12 (Foster, one illustrated case; series nadir not reported); −15 cm below EAC (Godoy, upper end of the 5–15 cm range, two cases); Pang mean nadir −5.7 ± 3.6 mm Hg (≈ −8 cm H2O, our conversion; individual nadirs not in the abstract); −30 cm H2O (Bergsneider 1999 "as low as", 4 pts; Salam, refractory single case — partial response, ventricles "still … larger than his prehospital baseline"). | Reported settings mostly bottom out at −10 to −15; −30 appears only in Bergsneider's shunt-nonresponsive series and Salam's refractory case. |
 | Descent step / interval | Doshi: 5 cm steps; Salam: ±2 cm hourly to keep flow; Godoy: "progressively"; Akins, Foster, Owler, Hunn, Lin: **not stated**. | No source gives a fixed timetable for going down; the two that give any rule are single cases. |
 | Target while down | Flow 5–15 mL/h (Hunn; Kuppler; Diaz-Romero 5–10; Lin 10–15; Salam 10–20); daily volume > 200 (Pandey), ~160 (Kuppler), ~300 mL (Godoy); or simply "until output exceeds baseline" as an observed signature (Akins, Foster). | Consensus that **flow, not pressure, is titrated**; numeric target varies 5–20 mL/h. |
 | ICP monitoring | Via the EVD column (Wu: supine, flat, 15 min; Akins; Salam hourly at the start); intraparenchymal sensor in a minority (Godoy, Pandey). Hunn and Diaz-Romero use **ICP turning positive** as the recovery marker. | Universal that ICP is recorded; only Godoy/Pandey used a separate parenchymal sensor. |
@@ -288,7 +291,7 @@ The only series that writes the method out as a protocol.
 4. "Stop lowering" = flow restored + ventricles smaller + exam better; pressure
    itself is not the target and no author names a pressure floor. Settings
    below −15 cm H2O occur only in refractory cases (Bergsneider, Salam) and
-   were not curative in Salam.
+   gave only a partial response in Salam.
 5. The ascent is the standardised part: 1–3 cm every 3–5 days, each step gated
    by clinical and CT stability, with relapse returning the drain to the last
    effective height; shunt once stable at 0 to +5 cm (or positive ICP).
