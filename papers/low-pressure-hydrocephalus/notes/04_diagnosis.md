@@ -130,6 +130,8 @@ field still lacks a validated definition.
    MRI with cine/phase-contrast for aqueduct/fourth-ventricle outlet patency; look
    for pseudomeningocele, skull-base defect, spinal CSF collection.
 5. Therapeutic test: lower EVD to 0 then sub-zero targeting 5–15 mL/h; clinical
-   and radiological improvement within 24–72 h confirms the diagnosis.
+   and radiological improvement confirms the diagnosis (Pang/Foster criterion 4).
+   The series call the response "rapid" (Owler 2001) but give no fixed
+   reassessment interval.
 6. Exclude/treat coexisting infection, hyponatraemia and hypocapnia, which
    lower turgor.

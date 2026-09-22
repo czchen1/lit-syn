@@ -162,10 +162,12 @@ conflated with the modern syndrome.
    transependymal oedema despite low ICP, and — in the 2025 Chinese consensus —
    a fourth-ventricular "ball sign".
 5. **Temporising treatment is titrated (usually sub-zero) EVD**, set to a target
-   hourly output (5–15 mL/h) rather than a pressure, lowered stepwise (0 → −5 →
-   −10, occasionally −15 to −20 cm H₂O), and then raised in 1–2 cm increments
-   every few days as ventricles shrink and ICP becomes positive (Owler 2001,
-   PMID 11599454; Hunn 2014; Diaz-Romero Paz 2019; Godoy Hurtado 2023). Drainage
+   hourly output (5–15 mL/h, Hunn 2014) rather than a pressure, started at 0 to
+   −5 cm H₂O below the EAM (Owler 2001, PMID 11599454) or 5–10 cm below the
+   midbrain (Foster 2016), lowered further only as needed (−10 to −15 in
+   Wu 2019 / Godoy Hurtado 2023; −30 in one refractory case, Salam 2025), and
+   then raised 1–2 cm H₂O every 3–5 days as ventricles shrink and ICP becomes
+   positive (Foster 2016, PMID 27069743). Drainage
    durations of weeks to months are typical (mean 41.9 days, range 2–365, in the
    pooled paediatric series of Chen 2025, PMID 40538927).
 6. **Adjuncts that raise ICP or close the sink shorten or avoid sub-zero EVD**:
@@ -805,7 +807,9 @@ field still lacks a validated definition.
    MRI with cine/phase-contrast for aqueduct/fourth-ventricle outlet patency; look
    for pseudomeningocele, skull-base defect, spinal CSF collection.
 5. Therapeutic test: lower EVD to 0 then sub-zero targeting 5–15 mL/h; clinical
-   and radiological improvement within 24–72 h confirms the diagnosis.
+   and radiological improvement confirms the diagnosis (Pang/Foster criterion 4).
+   The series call the response "rapid" (Owler 2001) but give no fixed
+   reassessment interval.
 6. Exclude/treat coexisting infection, hyponatraemia and hypocapnia, which
    lower turgor.
 
@@ -857,26 +861,123 @@ Protocol synthesised from Pang 1994, Owler 2001 (PMID 11599454), Akins 2011
 ("sub-zero method"), Hunn 2014 (PMID 24275338), Foster 2016 (PMID 27069743),
 Godoy Hurtado 2023 (PMID 37373809) and the paediatric reviews:
 
-1. EVD (frontal, adequate calibre; Pang used the shunt's ventricular catheter
-   externalised). Standard height (10–15 cm H₂O) fails by definition.
-2. Lower the drip chamber to **0**, then to **−5, −10 cm H₂O**, occasionally −15 to
-   −20 (Wu 2019; Salam 2025 to −10 mm Hg), in steps every 6–24 h.
-3. **Titrate to output, not pressure**: target ~5–15 mL/h (Akins: increase
-   drainage until output exceeds pre-LPH baseline; Hunn: "titrated" to
-   clinical/radiological response). Some authors specify total daily volume
-   (150–300 mL) rather than height.
-4. Monitor ICP continuously if a parenchymal monitor is available; expect
-   transiently *increased* drainage ("CSF diuresis") for 2–5 days as interstitial
-   fluid returns (Akins).
-5. Reassess clinical status and CT at 24–72 h; the diagnosis is confirmed if both
-   improve.
-6. **Wean upward** by 1–2 cm H₂O every 24–72 h once ventricles are small and ICP
-   is positive; hold or step down again if ventricles re-enlarge. Total duration
-   weeks to months (mean 41.9 days, range 2–365 in pooled paediatric data; Foster
-   2016 median EVD time was long enough that ETV did not shorten it
-   significantly).
-7. Infection surveillance: prolonged EVDs carry ventriculitis risk, and infection
-   itself perpetuates LPH — a vicious circle noted by Wu 2019 and Salam 2025.
+Each step is followed by the source wording it rests on (quotes from abstracts,
+or from the mirrored full text where marked FT). Where the papers do not state a
+number, that is said explicitly rather than filled in.
+
+1. **Establish external ventricular access** — a new EVD or the existing shunt
+   externalised; failure at conventional drainage pressure is part of the
+   definition, not a step to be tried.
+   - Pang 1994: "Seven patients failed to improve with multiple shunt revisions,
+     including the use of low-pressure valves. In 11 patients, symptoms and
+     ventriculomegaly were not reversed except with prolonged external
+     ventricular drainage at subzero pressures".
+   - Owler 2001: patients "failed to respond to apparently adequate CSF drainage
+     via a functioning shunt (four cases) or external ventricular drain (one
+     case)".
+   - Foster 2016 (FT), Pang criteria: "(1) Neurologic decline at normal EVD or
+     shunt pressures; (2) ventriculomegaly; (3) persistence of ventriculomegaly
+     with ICP in the normal to low-normal range; and (4) clinical and radiographic
+     response to sub-zero drainage".
+   - Chen 2025 (FT), 28 paediatric cases with route recorded: "EVD, n (%) 12
+     (42.86%) … VPS externalized, n (%) 16 (57.14%) … Ommaya, n (%) 4 (14.29%)".
+   - Salam 2025 (FT): "subatmospheric CSF diversion via external ventricular
+     drain (EVD) placement or shunt externalization with or without neck wrapping".
+   - Catheter site and calibre are not specified in any series; individual
+     reports use a frontal EVD (Salam 2025: "a new right frontal EVD").
+2. **Lower the drain below the reference point until CSF flows** — start at 0 to
+   −5 cm H₂O, go to −10 if needed; deeper settings are reported only in
+   refractory cases. No paper specifies a fixed interval between downward steps.
+   - Owler 2001: "a period of external ventricular drainage at heights of 0 to −5
+     cm H2O below the reference point (external auditory meatus—EAM)".
+   - Foster 2016 (FT): "The EVD was initiated at a subatmospheric pressure, placed
+     at a height ranging from 5 to 10 cmH2O below midbrain"; the lowest setting
+     in their illustrative case was "−12 cmH2O".
+   - Pang 1994: "mean external ventricular drainage nadir pressure of −5.7 ± 3.6
+     mm Hg" (≈ −8 cm H₂O).
+   - Wu 2019: "Ventricular pressure was lower than 70 mm H2O in all 39 patients,
+     and the lowest value was −10 cm H2O" (this is the lowest *measured*
+     pressure, not a drainage setting).
+   - Godoy Hurtado 2023 (FT): drainage "at negative pressures which were reached
+     progressively to 15 cm below the EAC".
+   - Salam 2025 (FT), refractory case: EVD "set to −8 cm H2O", later "−10 cm H2O",
+     and at the extreme "set as low as −30 cm H2O for forced ventricular
+     reduction"; the drain "was adjusted hourly … by either raising or lowering it
+     by 2 cm H2O" to allow spontaneous flow.
+3. **Titrate to CSF output, not to a pressure** — 5–15 mL/h is the only explicit
+   hourly target in a series; others give a daily volume.
+   - Hunn 2014: "titrated to produce between 5 and 15 mL per hour of CSF
+     drainage, including drainage under subatmospheric pressure if this was
+     required to maintain CSF flow".
+   - Salam 2025 (FT), summarising the literature: "large-volume aspiration of
+     30–50 mL of CSF and subsequent drainage of 10–15 mL/hr, with a willingness to
+     lower drainage settings to less than zero to meet this target"; their own
+     goals were 10, 15 and 15–20 mL/h.
+   - Daily-volume authors: Godoy Hurtado 2023 (FT) "daily debts around 300 mL of
+     CSF"; Pandey 2017 (PMID 28017745) "daily cerebrospinal fluid drainage >200
+     mL".
+   - Akins 2011 describes the output *signature* rather than a target: "As
+     patients entered the LPH state, the ICP remained in a normal range yet daily
+     CSF output from the external ventricular drain was reduced."
+4. **Expect a CSF "diuresis" when sub-zero drainage starts; monitor ICP if a
+   parenchymal sensor is available.** The duration is given only as "several
+   days".
+   - Akins 2011: "When LPH patients were drained at sub-zero levels, daily CSF
+     output exceeded baseline values for several days and then receded to
+     baseline … When LPH was treated with the sub-zero method, a 'diuresis' of
+     CSF ensued."
+   - Foster 2016 (FT): "We, too, noted decreased output during genesis of LPH
+     with a significant increase in output during sub-zero drainage."
+   - Godoy Hurtado 2023 (FT): "Continuous recording of ICP with the
+     intraparenchymal sensor during subzero drainage showed negative pressures, a
+     flat recording with no pathological waves, and minimal amplitude between
+     systolic and diastolic values, suggesting a very distensible or 'compliant'
+     brain."
+5. **Response to sub-zero drainage confirms the diagnosis** (criterion 4 above).
+   The series describe the response as rapid but do not fix a reassessment
+   interval.
+   - Owler 2001: "Four of the five patients showed rapid and significant clinical
+     improvement … In the fifth patient there was no improvement with low
+     pressure external drainage and no shunt revision was undertaken."
+   - Hunn 2014: "TEVD resulted in improvement in Glasgow Coma Scale (mean
+     increase 4.6, p=0.003), and increases in ICP (mean increase 8.5)"; "Mean
+     delay from first negative ICP to TEVD was 1.8 days."
+   - Pang 1994: "During external ventricular drainage treatment, symptoms
+     correlated only with ventricular size and not with ICP."
+6. **Wean upward slowly once ventricles are small and CSF drains at a positive
+   pressure; expect weeks to months.**
+   - Foster 2016 (FT): the EVD was "incrementally raised 1–2 cmH2O every 3–5
+     days"; sub-zero drainage continued "until the ventricular shrinkage was
+     maintained at a positive pressure, and a new shunt system could be
+     inserted"; "patients required prolonged hospitalizations for protracted
+     sub-zero EVD, often on the order of months". Mean time from first
+     ventriculostomy to shunt was 73 days (range 14–257) without ETV and 114 days
+     (0–236) with ETV, P = 0.16 — means, not medians — and the authors attribute
+     the lack of difference to "an inherent bias to perform ETV on patients who
+     were refractory to sub-zero drainage". One patient "underwent rapid EVD wean
+     (in 8 days) and did not require shunting".
+   - Pang 1994: sub-zero drainage "for a mean period of 22.2 days".
+   - Chen 2025 (FT), pooled paediatric data: "the average number of days of
+     external CSF drainage was 41.89 days, with a minimum of 2 days and a maximum
+     of 365 days" (n = 28).
+   - Wu 2019: "the time interval from onset to last VP shunt achieved was 31–3880
+     days, with an average of 376 days" (29 survivors).
+7. **Infection is both a precipitant and a complication of prolonged drainage,
+   and predicts poor outcome.** The "vicious circle" wording in the earlier draft
+   of this note is not in the sources; what they document is:
+   - Wu 2019: "Eighteen cases had CNS infection" (of 39); Salam 2025 (FT) quoting
+     the same series: "46.15% were complicated by intracranial infections, of
+     which 87.5% were specifically in the ANPH subset compared to 35.48% of ALPH".
+   - Akins 2011: "Conditions most commonly associated with LPH are: subarachnoid
+     hemorrhage, chronic hydrocephalus, brain tumors, and chronic CNS
+     infections."
+   - Chen 2025 (FT), institutional cases drained via Ommaya for a median of 105
+     days: this approach "increase[s] the risk of intracranial infection, and one
+     patient ultimately died from intracranial infection".
+   - Bakmeedeniya 2026: "delayed intervention, infection, and irreversible
+     white-matter injury predicted poor recovery".
+   - Salam 2025 (FT): the index case developed refractory NegPH after shunt
+     infection ("removal of his shunt" under ceftriaxone/ampicillin).
 
 Dissent: Hamilton & Price 2012 and Casado Pellejero 2022 (PMID 34998487)
 prefer early ETV to avoid prolonged EVD; Chinese consensus and Li 2024 (PMID
@@ -886,10 +987,14 @@ shunt for definitive care.
 #### 1d. Pharmacology (experimental)
 - **Theophylline** (Salam 2025, PMID 40418891): refractory acute NegPH after TBI,
   hemicraniectomy, shunt infection and IVH; ICP −5 to +10 mm Hg with excursions
-  to −21 mm Hg despite sub-zero EVD, ETV and ventriculopleural shunt. Two doses of
-  IV theophylline (borrowed from post-dural-puncture headache practice) were
-  followed by spontaneous drainage, striking ventricular reduction and clinical
-  improvement; complicated by status epilepticus. Single case; mechanism
+  to −21 mm Hg despite sub-zero EVD (as low as −30 cm H₂O), two ETVs and
+  ventriculopleural/ventriculoatrial shunts over ~4 months. After 48 h of oral
+  caffeine without effect, "two doses of theophylline 200 mg twice a day" via PEG
+  (borrowed from post-dural-puncture headache practice) were followed by
+  spontaneous drainage at −18 cm H₂O and, on CT 4 h after the second dose,
+  "complete collapse of the ventricles to an almost slit-like appearance";
+  focal seizures progressing to status epilepticus began 4 h after the first
+  dose. Single case; mechanism
   (adenosine antagonism → cerebral vasoconstriction → restored CSF production /
   turgor?) untested.
 - **Acetazolamide / diuretics** are contraindicated in principle (they lower ICP
@@ -1362,10 +1467,11 @@ defines cNegPH.
 
 **Salam et al. 2025** (FT) — *Theophylline for refractory acute negative-pressure
 hydrocephalus* (PMID 40418891; PMC12105587). TBI, hemicraniectomy, shunt
-infection, IVH; ICP −5 to +10 mm Hg (nadir −21) despite sub-zero EVD, ETV and
-ventriculopleural shunt; two doses of theophylline followed by spontaneous
-drainage, marked ventricular reduction and improvement; status epilepticus as
-complication. Single case.
+infection, IVH; ICP −5 to +10 mm Hg (nadir −21) despite ~4 months of sub-zero
+EVD (to −30 cm H₂O), two ETVs and ventriculopleural/ventriculoatrial shunts;
+two doses of theophylline 200 mg via PEG followed by spontaneous drainage,
+slit-like ventricles on CT at 4 h and sustained improvement; status epilepticus
+as complication. Single case.
 
 **Chen, Li et al. 2025** (FT) — *Low- and negative-pressure hydrocephalus in
 children: a systematic analysis of 44 literature cases and 4 institutional

@@ -242,10 +242,11 @@ defines cNegPH.
 
 **Salam et al. 2025** (FT) — *Theophylline for refractory acute negative-pressure
 hydrocephalus* (PMID 40418891; PMC12105587). TBI, hemicraniectomy, shunt
-infection, IVH; ICP −5 to +10 mm Hg (nadir −21) despite sub-zero EVD, ETV and
-ventriculopleural shunt; two doses of theophylline followed by spontaneous
-drainage, marked ventricular reduction and improvement; status epilepticus as
-complication. Single case.
+infection, IVH; ICP −5 to +10 mm Hg (nadir −21) despite ~4 months of sub-zero
+EVD (to −30 cm H₂O), two ETVs and ventriculopleural/ventriculoatrial shunts;
+two doses of theophylline 200 mg via PEG followed by spontaneous drainage,
+slit-like ventricles on CT at 4 h and sustained improvement; status epilepticus
+as complication. Single case.
 
 **Chen, Li et al. 2025** (FT) — *Low- and negative-pressure hydrocephalus in
 children: a systematic analysis of 44 literature cases and 4 institutional
